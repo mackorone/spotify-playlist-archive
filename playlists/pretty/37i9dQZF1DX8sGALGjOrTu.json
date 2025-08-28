@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 519865,
+  "num_followers": 519971,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "On Letting Go",
-        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "The Difference Between Medicine And Poison Is In The Dose",
-      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "The Sufferer & The Witness",
         "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227706,
       "name": "Ready To Fall",
       "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "On Letting Go",
+        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "The Difference Between Medicine And Poison Is In The Dose",
+      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I'm Only A Man",
-        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "The Party Song",
-      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Dream to Make Believe",
         "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 181293,
       "name": "Dream to Make Believe",
       "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "I'm Only A Man",
+        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "The Party Song",
+      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Say Hello To Sunshine",
-        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+        "name": "Go West Young Man, Let The Evil Go East",
+        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
       },
       "artists": [
         {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+          "name": "Greeley Estates",
+          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
         }
       ],
-      "duration_ms": 215320,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
+      "duration_ms": 200680,
+      "name": "Let The Evil Go East",
+      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Go West Young Man, Let The Evil Go East",
-        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
-      },
-      "artists": [
-        {
-          "name": "Greeley Estates",
-          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Let The Evil Go East",
-      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
     },
     {
       "added_at": "2024-10-03 21:26:43",

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Krzyk Mody
 
-562 songs - 1 day 3 hr 25 min
+563 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |
 | [Bez Ciebie](https://open.spotify.com/track/3HdQwGJ9gbYCH2YwqatNoR) | [Berie](https://open.spotify.com/artist/2hUbI0ebOh5Aq8QS1XB54r) | [Bez Ciebie](https://open.spotify.com/album/46XHKQ8GBkUoHoTugf8pjo) | 3:18 | 2025-03-06 | 2025-03-14 |
+| [Bez siebie](https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Bez siebie](https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p) | 2:58 | 2025-08-26 |  |
 | [Bez szans](https://open.spotify.com/track/56OpBZfaegA6brrWpTb6Rk) | [Wojtek Stefanowski](https://open.spotify.com/artist/54TNNqTljkBCh8TkJt6DIu) | [Bez szans](https://open.spotify.com/album/5IYt2n6hbMk5fVwiFA66df) | 2:40 | 2024-06-28 | 2024-08-23 |
 | [Bez urazy](https://open.spotify.com/track/3wdIdpCKVTV28KlMUr8ujE) | [SaMa](https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt) | [Bez urazy](https://open.spotify.com/album/4VdAaDojISpUrmCVhIYO4Z) | 2:30 | 2024-08-01 | 2024-08-23 |
 | [Beze mnie](https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Beze mnie](https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk) | 2:27 | 2024-07-18 | 2024-11-29 |
@@ -277,7 +278,7 @@
 | [milczysz](https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [milczysz](https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI) | 2:17 | 2024-08-22 | 2025-01-24 |
 | [MILION](https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [MILION](https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD) | 2:57 | 2024-09-13 | 2025-01-24 |
 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 | 2024-07-25 | 2024-11-08 |
-| [Minie jesień](https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Minie jesień](https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74) | 2:48 | 2025-05-22 |  |
+| [Minie jesień](https://open.spotify.com/track/53ieaetpKRfYklvJcGVnel) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Minie jesień](https://open.spotify.com/album/0WfjjNuG4XCydHH1VcWI74) | 2:48 | 2025-05-22 | 2025-08-28 |
 | [mirabelkowy asfalt](https://open.spotify.com/track/7EeJGX9o9uVsYQ3jVyTEGg) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [mirabelkowy asfalt](https://open.spotify.com/album/4poh2MHhgQthdH6byXneK2) | 2:18 | 2025-04-17 | 2025-05-02 |
 | [Miracle](https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle](https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y) | 3:00 | 2024-10-11 | 2025-01-24 |
 | [Miracle \- Eurovision Version](https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Miracle \(Eurovision Version\)](https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S) | 2:50 | 2025-01-16 | 2025-03-14 |

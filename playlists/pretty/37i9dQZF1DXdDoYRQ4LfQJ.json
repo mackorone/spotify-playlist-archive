@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Danny Felix, Juanchito & the hottest corridos in the U.S.",
-  "num_followers": 319745,
+  "num_followers": 319792,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
       "artists": [
         {
@@ -1812,9 +1812,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "La Belikiza",
-        "url": "https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 181331,
-      "name": "La Belikiza",
-      "url": "https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -1895,8 +1875,28 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "La Belikiza",
+        "url": "https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 181331,
+      "name": "La Belikiza",
+      "url": "https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
       },
       "artists": [
         {
@@ -1904,9 +1904,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     }
   ],
   "unique_name": "La Privada",

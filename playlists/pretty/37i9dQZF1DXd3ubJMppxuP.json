@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83056,
+  "num_followers": 83082,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -815,30 +815,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
-        "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
-      },
-      "artists": [
-        {
-          "name": "Jan Biggel",
-          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
-        },
-        {
-          "name": "Special Krew",
-          "url": "https://open.spotify.com/artist/7kjwXYHF7QavObEcFRJLpB"
-        },
-        {
-          "name": "Total Loss",
-          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
-        }
-      ],
-      "duration_ms": 156692,
-      "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
-      "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Ons Moeder Zeej Nog (Special Krew Total Loss Remix)",
+        "url": "https://open.spotify.com/album/4VaDQ9MRyqYgIvbpdHX3lB"
+      },
+      "artists": [
+        {
+          "name": "Jan Biggel",
+          "url": "https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs"
+        },
+        {
+          "name": "Special Krew",
+          "url": "https://open.spotify.com/artist/7kjwXYHF7QavObEcFRJLpB"
+        },
+        {
+          "name": "Total Loss",
+          "url": "https://open.spotify.com/artist/7r1uNv2eh16EPoBAEB1PLn"
+        }
+      ],
+      "duration_ms": 156692,
+      "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
+      "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
     },
     {
       "added_at": "2025-08-07 22:00:34",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
+> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/>👉  Check out <a href="https://open.spotify.com/show/31eYyJk4EPoivEIZqyPzT1?si=04TtCDTaQoW0s9IgVFUR9A">Podcast</a> as well! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,098 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,420 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 | 46 | [Cherry Corrida X～cocks back: the resurrection of a bitch～](https://open.spotify.com/track/727QnkydHKiDVsVFvzd4Ga) | [TCY FORCE](https://open.spotify.com/artist/1ze8z08s9wniPnN6WI2sHe) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 1:13 |
 | 47 | [Fallen Angel \(El Poco Maro Drum'n'Bass Remix\)](https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [Aimee B](https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 6:00 |
 
-Snapshot ID: `AAAAANnDk6zbbd/uDKl691KX0EFdf+zh`
+Snapshot ID: `AAAAAFoOT05TE1vdx+JJnXIcyYj9nUz4`

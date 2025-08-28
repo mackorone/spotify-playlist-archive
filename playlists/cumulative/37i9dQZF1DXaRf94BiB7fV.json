@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Ruhfikra",
+  "description": "The best new music by independent artists and labels in India. Cover - SHAHI",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1389,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Agarbatti",
+        "url": "https://open.spotify.com/album/4oqpywYzwgGO00TxaxkAgR"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184719,
+      "name": "Agarbatti",
+      "url": "https://open.spotify.com/track/5Pc4TbtL1u5tsAZhNlcNaE"
+    },
+    {
+      "album": {
         "name": "Aise Kaise",
         "url": "https://open.spotify.com/album/0vDEn6yEjp4AqUiQkab66W"
       },
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 196153,
       "name": "Apna Nahin",
       "url": "https://open.spotify.com/track/5fTn0ht988elyumvSm91NY"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 174521,
       "name": "Au Naturale",
       "url": "https://open.spotify.com/track/0kUzdlESxqEWdI2YkQzi73"
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 245000,
       "name": "bemausam toofaan",
       "url": "https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D"
@@ -6192,6 +6210,28 @@
       "duration_ms": 182400,
       "name": "Deewani Mastani",
       "url": "https://open.spotify.com/track/1iqEEy8D4PCpMn0IGKqeSQ"
+    },
+    {
+      "album": {
+        "name": "Dekho Na",
+        "url": "https://open.spotify.com/album/0Ir8LmYwxPCucg7fhRRVxl"
+      },
+      "artists": [
+        {
+          "name": "Saurabh Verma",
+          "url": "https://open.spotify.com/artist/34i113bxc0TjAIi5rnyCQu"
+        },
+        {
+          "name": "Lakshay Kathayat",
+          "url": "https://open.spotify.com/artist/5o2jdHlY9RsfT7NT8CXxNb"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259459,
+      "name": "Dekho Na",
+      "url": "https://open.spotify.com/track/4KxSqutIN3GaPI5cGAZ0Ks"
     },
     {
       "album": {
@@ -10804,7 +10844,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 157991,
       "name": "hold my hand.",
       "url": "https://open.spotify.com/track/2DKOKTxkH2yK9A5rtxNzfr"
@@ -13364,6 +13404,32 @@
       "duration_ms": 248613,
       "name": "Jee Dhoondta Hai",
       "url": "https://open.spotify.com/track/3cxg4WPMZDyTX6S6Z29RV6"
+    },
+    {
+      "album": {
+        "name": "Jee Le Zara (From Film Basera)",
+        "url": "https://open.spotify.com/album/1C6CHRo5TARtZLQgUE1q2U"
+      },
+      "artists": [
+        {
+          "name": "Aamir Mir",
+          "url": "https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6"
+        },
+        {
+          "name": "Chetna Sharma",
+          "url": "https://open.spotify.com/artist/7tHyiEBljdm5HYL6mtZMah"
+        },
+        {
+          "name": "Raj Arora",
+          "url": "https://open.spotify.com/artist/4e7i6r5PXOLHKhnTcb4HMk"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Jee Le Zara (From Film Basera)",
+      "url": "https://open.spotify.com/track/62TtsHn79YuS3uCYyZX80H"
     },
     {
       "album": {
@@ -16053,6 +16119,28 @@
     },
     {
       "album": {
+        "name": "KHOYA MAI",
+        "url": "https://open.spotify.com/album/0hwM0TwjwqEWiRTWShOLaK"
+      },
+      "artists": [
+        {
+          "name": "SHAHI",
+          "url": "https://open.spotify.com/artist/37jIu8068iik4NKht4gl92"
+        },
+        {
+          "name": "VNYK",
+          "url": "https://open.spotify.com/artist/3g49Buvx8KcA7dgXxpdUHt"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "KHOYA MAI",
+      "url": "https://open.spotify.com/track/2KdSbw6RGomdF6kd0TYiLc"
+    },
+    {
+      "album": {
         "name": "Khoye Khoye",
         "url": "https://open.spotify.com/album/6ajPpJIO0yNKJFfTcOQOhc"
       },
@@ -17292,6 +17380,24 @@
       "duration_ms": 227093,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/2THlbDaclRmCXZ6h1i2sFy"
+    },
+    {
+      "album": {
+        "name": "Kyun",
+        "url": "https://open.spotify.com/album/0lPdYEbGYaJGf3f8VM4dv2"
+      },
+      "artists": [
+        {
+          "name": "Priyanshu Bawari",
+          "url": "https://open.spotify.com/artist/3wWkuyeIZ3nTCPGK2tOVy0"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Kyun",
+      "url": "https://open.spotify.com/track/4Aq0oOZZ7C1Brcski5QtZJ"
     },
     {
       "album": {
@@ -19288,7 +19394,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 240179,
       "name": "Mann Ki Baat",
       "url": "https://open.spotify.com/track/4PkU6HGzmmvxSgaZbbCiNm"
@@ -23533,6 +23639,24 @@
     },
     {
       "album": {
+        "name": "Phir Milenge",
+        "url": "https://open.spotify.com/album/1uFpamINBeK3mHZhVCmTdc"
+      },
+      "artists": [
+        {
+          "name": "Tanish singh",
+          "url": "https://open.spotify.com/artist/1DTzVwPYKbr8YQkWfTG9R7"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209759,
+      "name": "Phir Milenge",
+      "url": "https://open.spotify.com/track/56rar4x3OkmRRRbAxnAPBN"
+    },
+    {
+      "album": {
         "name": "Phirse",
         "url": "https://open.spotify.com/album/6Jt26N4EYLESsqM98o2cPQ"
       },
@@ -23726,7 +23850,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 208330,
       "name": "Piyaa",
       "url": "https://open.spotify.com/track/51NhjAUdntk5CKxw83OlnO"
@@ -23864,6 +23988,24 @@
       "duration_ms": 251515,
       "name": "Pyar Karte Hai",
       "url": "https://open.spotify.com/track/73c2WdvJUlCxi6s6Q8d25e"
+    },
+    {
+      "album": {
+        "name": "Qaid Saa Lage",
+        "url": "https://open.spotify.com/album/3fJ6r8ZUJ1SDqAb8gdJfiJ"
+      },
+      "artists": [
+        {
+          "name": "Saurabh Tripathi",
+          "url": "https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201538,
+      "name": "Qaid Saa Lage",
+      "url": "https://open.spotify.com/track/2xp6djl65m7zjVZpDmoUcM"
     },
     {
       "album": {
@@ -27178,7 +27320,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 211764,
       "name": "Sehr",
       "url": "https://open.spotify.com/track/0x7QcNfdHp5UzSpFZ2886P"

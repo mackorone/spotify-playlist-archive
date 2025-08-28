@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD?si=2BamayqtRn2v0ThhAsIjSQ">LaTique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,612 likes - 59 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,686 likes - 59 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 45 | [Lotta Luv \- Radio Edit](https://open.spotify.com/track/31sxGZxK3x2SDZATJ9iiwv) | [Arol $kinzie](https://open.spotify.com/artist/6rGcmmpSwPSwXpjESzCLup), [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [Lotta Luv](https://open.spotify.com/album/3Lgh6OFYawwvzyLVAcxngt) | 5:07 |
 | 46 | [Kunzima Ukungazi](https://open.spotify.com/track/5fO2BOSw7bj4QEHmaGhKuA) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [I Fell In Love](https://open.spotify.com/album/3GO7B73oDcIZHEad7iIz8Y) | 8:32 |
 | 47 | [A Nostalgic Experience \(Nostalgic Mix\)](https://open.spotify.com/track/0L7WzwubxF1ETrSWoLbAaF) | [Flexy Da King](https://open.spotify.com/artist/1XxizQQjJ7CBJ6bckcR2Sx), [MuelDeep SA](https://open.spotify.com/artist/6S7a1ZIahHWYz9cjep4mVR), [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Mystics In House](https://open.spotify.com/album/4Aa0F3xtnl1GjJFEOiRKxB) | 6:41 |
-| 48 | [Live & Love](https://open.spotify.com/track/0oVKH4rc0jSsxgSA8KP5OK) | [KnightSA](https://open.spotify.com/artist/0Zn2gTUEoVSwXsuZ3v2aoq), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Nelcee](https://open.spotify.com/artist/1Be6i7whlbEMX7RCBvyrnB), [ZAMMY](https://open.spotify.com/artist/7CBdOQAPOB9ZIMLoIkYnlv) | [G.O.A.T, Vol\. 2](https://open.spotify.com/album/4g0XEsP2BVeoG8GhCtacAd) | 7:22 |
+| 48 | [Live & Love](https://open.spotify.com/track/0oVKH4rc0jSsxgSA8KP5OK) | [Knight SA](https://open.spotify.com/artist/0IbZe8xJ5vSI8WnMXIzL6E), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [Nelcee](https://open.spotify.com/artist/1Be6i7whlbEMX7RCBvyrnB), [ZAMMY](https://open.spotify.com/artist/7CBdOQAPOB9ZIMLoIkYnlv) | [G.O.A.T, Vol\. 2](https://open.spotify.com/album/4g0XEsP2BVeoG8GhCtacAd) | 7:22 |
 | 49 | [Hornbill](https://open.spotify.com/track/0i9ah34nxsEZfIPY1znLvs) | [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [Hornbill](https://open.spotify.com/album/7268InxY1DaSpSWFVJOTiS) | 7:13 |
 | 50 | [Praise Him \- Original Mix](https://open.spotify.com/track/4XAQHnJvIuzvuKMO2UmBZr) | [D.General](https://open.spotify.com/artist/3k6HJ8CqtsEfqkpehLhl0l), [V.Underground](https://open.spotify.com/artist/4OuzOxUUiPZBhHWyYqTPRq), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Before The Dawn](https://open.spotify.com/album/32X9SjZw7M9NwRR3zjMCZa) | 6:42 |
 | 51 | [5PM](https://open.spotify.com/track/63bDqRt1omBYPQzfOK3Con) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [5PM](https://open.spotify.com/album/787yhs27T4Dlpm5tpS78Pw) | 6:35 |

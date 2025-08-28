@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Andhra King Taluka",
-  "num_followers": 153003,
+  "num_followers": 153019,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al",
+  "snapshot_id": "AAAAANUoP+mD1i+LrENCJW6ZriSak7bM",
   "tracks": [
     {
       "added_at": "2025-07-18 12:20:46",
@@ -31,6 +31,30 @@
       "duration_ms": 240101,
       "name": "Nuvvunte Chaley (From \"Andhra King Taluka\")",
       "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
+    },
+    {
+      "added_at": "2025-08-27 09:45:46",
+      "album": {
+        "name": "Suvvi Suvvi (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/4ER8i28EsRzILUDk1JqTwO"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        },
+        {
+          "name": "Kalyan Chakravarthy Tripuraneni",
+          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
+        }
+      ],
+      "duration_ms": 275128,
+      "name": "Suvvi Suvvi (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y"
     },
     {
       "added_at": "2025-07-29 11:57:35",
@@ -1231,34 +1255,6 @@
       "duration_ms": 207006,
       "name": "Chandrakala Oo Chandrakala (From \"Shanmukha\")",
       "url": "https://open.spotify.com/track/2rNgFg37XoxAE57fWC3xLl"
-    },
-    {
-      "added_at": "2025-03-04 11:19:53",
-      "album": {
-        "name": "Oohalona Oosulaade (From \"Kaalamega Karigindhi\")",
-        "url": "https://open.spotify.com/album/4X8LVbhCnfV2O8yTwb0Ml3"
-      },
-      "artists": [
-        {
-          "name": "Gudappan",
-          "url": "https://open.spotify.com/artist/3aOMHvCiGDWFyiZAp2M17k"
-        },
-        {
-          "name": "Sai Madhav",
-          "url": "https://open.spotify.com/artist/43jyzHaxxei3yv3UpVmfUc"
-        },
-        {
-          "name": "Aishwarya Daruri",
-          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
-        },
-        {
-          "name": "Singara Mohan",
-          "url": "https://open.spotify.com/artist/0OZgZc5136oeAAfie9nVZd"
-        }
-      ],
-      "duration_ms": 315454,
-      "name": "Oohalona Oosulaade (From \"Kaalamega Karigindhi\")",
-      "url": "https://open.spotify.com/track/0v2GixBcMg7D1OdZXexk3D"
     }
   ],
   "unique_name": "Latest Romance Telugu",

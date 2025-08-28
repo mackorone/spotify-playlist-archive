@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > Prepare for Scorpion Kings Live with Kabza & Phori's exclusive playlist takeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,880 likes - 78 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,364 likes - 78 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/34MpPqqkyDUqlkXJzpMTWg.md) - cumulative - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
 
-### [Herfst  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
+### [Winter  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
 
 > Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 

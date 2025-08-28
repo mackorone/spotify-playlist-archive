@@ -4,7 +4,7 @@
 
 > 
 
-143 songs - 13 hr 22 min
+144 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-07-20 |  |
 | [Leid \- Kobosil Suffer Mix](https://open.spotify.com/track/0GKYCBmN3mK9F05akMDPAA) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0), [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Rr6](https://open.spotify.com/album/58VKDX87M9ssajLvzIPT1K) | 5:52 | 2021-10-04 |  |
 | [Let the Bass Be Louder \- T78 Remix](https://open.spotify.com/track/05vVD36TJXTNFhXFObsSpP) | [Bass Boy](https://open.spotify.com/artist/4HGuFCXk1BeLPO5lJwifBc), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Let the Bass Be Louder \(T78 Remix\)](https://open.spotify.com/album/6zC7R2C7ywktI0KxGxbVk9) | 4:38 | 2023-08-17 |  |
+| [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 | 2025-08-27 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-01 |  |
 | [Liquid Slow](https://open.spotify.com/track/6Qp2c0odcvUIN640gVyisz) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Liquid Slow EP](https://open.spotify.com/album/496wGRSvPBhF6s3KnTxupv) | 6:46 | 2023-02-05 |  |
 | [LOVE 4 RAVE](https://open.spotify.com/track/2jjw8APg1tTkH23uB0AmM1) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [LOVE 4 RAVE](https://open.spotify.com/album/65CYSd8fqzKYUyYtQdKDhK) | 5:53 | 2021-10-01 |  |

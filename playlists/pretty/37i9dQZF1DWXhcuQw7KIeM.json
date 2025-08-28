@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 551833,
+  "num_followers": 551943,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-08-20 08:43:56",
       "album": {
+        "name": "Adler fliegen",
+        "url": "https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Adler fliegen",
+      "url": "https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU"
+    },
+    {
+      "added_at": "2025-08-20 08:43:56",
+      "album": {
         "name": "The Loom",
         "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 433858,
       "name": "The Loom",
       "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
-    },
-    {
-      "added_at": "2025-08-20 08:43:56",
-      "album": {
-        "name": "Hibj\u00f8rnen",
-        "url": "https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Hibj\u00f8rnen",
-      "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
     },
     {
       "added_at": "2025-08-20 08:43:56",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-08-20 08:43:56",
       "album": {
-        "name": "Adler fliegen",
-        "url": "https://open.spotify.com/album/2sRCokQ9XwnEPPGt5OwbYL"
+        "name": "Hibj\u00f8rnen",
+        "url": "https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb"
       },
       "artists": [
         {
-          "name": "Die Apokalyptischen Reiter",
-          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
         }
       ],
-      "duration_ms": 218288,
-      "name": "Adler fliegen",
-      "url": "https://open.spotify.com/track/0zhifYXC21jjDwivaFBgQU"
+      "duration_ms": 182360,
+      "name": "Hibj\u00f8rnen",
+      "url": "https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW"
     },
     {
       "added_at": "2025-08-20 08:43:56",

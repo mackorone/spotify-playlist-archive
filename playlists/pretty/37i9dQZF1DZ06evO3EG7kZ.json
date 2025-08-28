@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 49175,
+  "num_followers": 49196,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAAAiUry7uCU+xuK6p+gOydtF",
+  "snapshot_id": "aKz5AAAAAADiJCb07WbhKtb2F84w7+nU",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onesies",
-        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
+        "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
+        "url": "https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Onesies",
-      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
+      "duration_ms": 64311,
+      "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
+      "url": "https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
-        "url": "https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5"
+        "name": "Onesies",
+        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
-      "url": "https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM"
+      "duration_ms": 204373,
+      "name": "Onesies",
+      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
     },
     {
       "added_at": null,
@@ -264,13 +264,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/5EusgoKVPcgs6V9bDKajV4"
         }
       ],
-      "duration_ms": 145986,
-      "name": "Camping",
-      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+      "duration_ms": 48396,
+      "name": "The Creek (Intro)",
+      "url": "https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4"
     },
     {
       "added_at": null,
@@ -344,13 +344,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "David Barber",
-          "url": "https://open.spotify.com/artist/5EusgoKVPcgs6V9bDKajV4"
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 48396,
-      "name": "The Creek (Intro)",
-      "url": "https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4"
+      "duration_ms": 145986,
+      "name": "Camping",
+      "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Sammy Virji, Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,933 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,926 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 51 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 52 | [Gotta Have It](https://open.spotify.com/track/5mFSzrBlxPJnCxxlLw5lUj) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:24 |
 | 53 | [Run Free](https://open.spotify.com/track/6FpGarU82UbiZXyI7Dyh6M) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying / Run Free](https://open.spotify.com/album/2PvfvL5KzRnuo7AD4hpd3t) | 4:40 |
-| 54 | [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt.1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 |
+| 54 | [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt\. 1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 |
 | 55 | [2011](https://open.spotify.com/track/1yR8bzEUw1hNCwdl0oXXWV) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [2011](https://open.spotify.com/album/2BAazPbKqWC2V8HbcINUdg) | 4:29 |
 | 56 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 |
 | 57 | [Rose](https://open.spotify.com/track/3YMTTRGYIWqt96klVOkBP0) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Rose](https://open.spotify.com/album/7MCwzmur3bRHZABbvWNWK9) | 3:37 |

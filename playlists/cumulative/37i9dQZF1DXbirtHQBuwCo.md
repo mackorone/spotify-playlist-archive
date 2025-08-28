@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>JUNNY\(주니\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>Zion.T\(자이언티\)\)
 
-853 songs - 1 day 21 hr 10 min
+854 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [In Paris \(feat\. Kaya\)](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/0paoXjLBxGQ5F4tujUG0g5) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-06-03 | 2022-06-05 |
 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-16 | 2023-11-18 |
 | [In the mornin’ \(Feat\. THAMA\)](https://open.spotify.com/track/4FSb18hJmdMsaxu2hCo7yb) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [BLEND](https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR) | 3:05 | 2024-06-12 | 2024-07-10 |
-| [INNER \(Feat\. Nochang, Kid Milli\)](https://open.spotify.com/track/0pxJCzymJonDULdo9O0w3y) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [INNER \(Feat\. Nochang, Kid Milli\)](https://open.spotify.com/album/4Bpqn7KoQKyhsnGszN5VLz) | 3:16 | 2025-08-19 |  |
+| [INNER \(Feat\. Nochang, Kid Milli\)](https://open.spotify.com/track/0pxJCzymJonDULdo9O0w3y) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [INNER \(Feat\. Nochang, Kid Milli\)](https://open.spotify.com/album/4Bpqn7KoQKyhsnGszN5VLz) | 3:16 | 2025-08-19 | 2025-08-28 |
 | [Inspiration](https://open.spotify.com/track/53uf9zkSH3kUpfLR8zN4OQ) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Painting](https://open.spotify.com/album/4Zx38ejP18CMzsmOnIUMtp) | 2:49 | 2024-12-05 | 2024-12-19 |
 | [Intentions](https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [Intentions](https://open.spotify.com/album/7CfKlyjdwKrliAU59i1eNC) | 3:05 | 2022-05-11 | 2022-07-27 |
 | [Interlunar](https://open.spotify.com/track/1VPIkehzQNPo6syFKXLL1F) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 2:41 | 2025-06-24 | 2025-07-05 |
@@ -448,6 +448,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 | 2023-09-01 |
 | [Love Like That](https://open.spotify.com/track/3sR1RNcVEDJKUfS8rX20Lx) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/2Hj1CHpYxGpj4by92fu9iz) | 3:34 | 2022-04-22 | 2022-05-01 |
+| [LOVE ME](https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [POSER](https://open.spotify.com/album/0nMWRJyIjND1q5lSMW4fus) | 2:26 | 2025-08-27 |  |
 | [Love Me A Little](https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [THE UNSEEN](https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh) | 3:19 | 2023-07-26 | 2023-11-18 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 |  |
 | [Love me like you do](https://open.spotify.com/track/3bBhhf0aalrrfvUbOb3nrH) | [yukon](https://open.spotify.com/artist/5xhOn3cPLp1ZUQsQE54LoA) | [my Imperfections](https://open.spotify.com/album/5yjieZorv88zV3tBkfBPsx) | 3:28 | 2023-07-14 | 2023-07-25 |

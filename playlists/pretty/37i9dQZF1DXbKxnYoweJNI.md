@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 裘德 \(Jude Chiu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,600 likes - 152 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,599 likes - 152 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 137 | [誤入病區](https://open.spotify.com/track/7wFq3aHz2AP2vl7fAnnOjF) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [誤入病區](https://open.spotify.com/album/2Wpf708AhzErTgMfJqzCW5) | 3:28 |
 | 138 | [Let's Dream About Love \(feat\. GermanPops Orchestra\) \[Live\]](https://open.spotify.com/track/42v7fZoy8aebsHmnfO8TDv) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [German Pops Orchestra](https://open.spotify.com/artist/41iM2TVnXEGbB1K02NA0WW) | [二十站一刻](https://open.spotify.com/album/2J8v6PzV4WeCCcX1wZL4fE) | 3:33 |
 | 139 | [銀河系的你](https://open.spotify.com/track/4yZYWc5tOphERAsXpUMMgW) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [銀河系的你](https://open.spotify.com/album/0b1MA7UKRnDb4iZXzFIf4K) | 3:29 |
-| 140 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
+| 140 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康鈞](https://open.spotify.com/artist/5jgY0JNTJ7nWvBHbToKDM3) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
 | 141 | [BISH!](https://open.spotify.com/track/0qwDpzQyLQNEdLVGnxug4P) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [BISH!](https://open.spotify.com/album/5DBKUrlxeljVzXqpU2nlhV) | 2:05 |
 | 142 | [WHAT U WANT? \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/6syIizOArNJgImtJJ8hk97) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [WHAT U WANT? \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/6U1GpBzCEKBwnLXtzenPKp) | 2:34 |
 | 143 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |

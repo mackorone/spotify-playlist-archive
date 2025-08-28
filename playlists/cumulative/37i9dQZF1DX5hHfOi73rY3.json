@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Back 2 Back EP",
+        "url": "https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165505,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av"
+    },
+    {
+      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -5008,7 +5026,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 219047,
       "name": "Yeah Yeah Yeah - Edit",
       "url": "https://open.spotify.com/track/2yp1kALznMhk5uVd8PdA0j"

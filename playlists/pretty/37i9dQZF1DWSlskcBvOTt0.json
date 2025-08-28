@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 562046,
+  "num_followers": 562164,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
+        "name": "Lioness (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "Lioness - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
         "name": "Solfa (Tila)",
         "url": "https://open.spotify.com/album/58HsHUh0vxP5U0A1sTy6Iw"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Lioness (Francis Mercier Remix)",
-        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "Lioness - Francis Mercier Remix",
-      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
+        "name": "Found Love",
+        "url": "https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "duration_ms": 200778,
+      "name": "Found Love",
+      "url": "https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 238415,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Found Love",
-        "url": "https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        }
-      ],
-      "duration_ms": 200778,
-      "name": "Found Love",
-      "url": "https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 224385,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
         "name": "AD02: Pans Of Death / Rounds",
         "url": "https://open.spotify.com/album/4d74veTXh1r6jtpLaH1fNL"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 320597,
       "name": "Pans Of Death",
       "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/78gnHm6vFBc1JoJABAtOeD"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
         "name": "Darling (with Aloe Blacc)",
         "url": "https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg"
       },
@@ -1887,22 +1867,38 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH"
       },
       "artists": [
         {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+      "duration_ms": 204675,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/04ICl7czgH66DbIDQosXuK"
+      },
+      "artists": [
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1927,18 +1923,22 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Everywhere I Go",
-        "url": "https://open.spotify.com/album/04ICl7czgH66DbIDQosXuK"
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
       "artists": [
         {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
         }
       ],
-      "duration_ms": 178636,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/4EoxJcD7u03TNPv0tawyMW"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Sara Schell",
+          "url": "https://open.spotify.com/artist/3f1VtaRxbXskRTovfbEbM0"
+        }
+      ],
+      "duration_ms": 218244,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1HVeALwKakchTMEpD13G95"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
         "name": "Smoke (feat. Clubhouse)",
         "url": "https://open.spotify.com/album/48CqJENcAOPSawQIaeJowz"
       },
@@ -2019,26 +2039,6 @@
       "duration_ms": 244000,
       "name": "Smoke (feat. Clubhouse)",
       "url": "https://open.spotify.com/track/4IMVC2fbZO6rVw9dE3piCZ"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/4EoxJcD7u03TNPv0tawyMW"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Sara Schell",
-          "url": "https://open.spotify.com/artist/3f1VtaRxbXskRTovfbEbM0"
-        }
-      ],
-      "duration_ms": 218244,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1HVeALwKakchTMEpD13G95"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -2087,6 +2087,30 @@
       "duration_ms": 177560,
       "name": "El Youm El Helw Dah",
       "url": "https://open.spotify.com/track/2Psyh5GwECKX8AGUNfW8BJ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "I See The Sun",
+        "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Dougwav",
+          "url": "https://open.spotify.com/artist/3XNHVw99EepjC8ElMiyLJd"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "I See The Sun",
+      "url": "https://open.spotify.com/track/5VDeDeUUar6zrLw3XZAdCX"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -2171,26 +2195,26 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "I See The Sun",
-        "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
+        "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+        "url": "https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8"
       },
       "artists": [
         {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         },
         {
-          "name": "Dougwav",
-          "url": "https://open.spotify.com/artist/3XNHVw99EepjC8ElMiyLJd"
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
         }
       ],
-      "duration_ms": 245000,
-      "name": "I See The Sun",
-      "url": "https://open.spotify.com/track/5VDeDeUUar6zrLw3XZAdCX"
+      "duration_ms": 242000,
+      "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+      "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -2215,30 +2239,6 @@
       "duration_ms": 158058,
       "name": "Mentuliza",
       "url": "https://open.spotify.com/track/1XZ0xri3sJIyuK7pjEvO6E"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
-        "url": "https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        },
-        {
-          "name": "Tasty Or Not",
-          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
-      "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Waste Away",
-        "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
-      },
-      "artists": [
-        {
-          "name": "HotLap",
-          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Waste Away",
-      "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
         "name": "Forever (feat. Malou & Yuna) [MEDUZA Remix]",
         "url": "https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "Waste Away",
+        "url": "https://open.spotify.com/album/3JFpZLPVImVNF3AfWOYdNm"
+      },
+      "artists": [
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Waste Away",
+      "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
     },
     {
       "added_at": "2025-08-22 04:00:23",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
+      },
+      "artists": [
+        {
+          "name": "Bontan",
+          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
         "name": "Ya Man Hawah",
         "url": "https://open.spotify.com/album/4aA0eyADdsEbEPzuZFmEMJ"
       },
@@ -2647,38 +2663,22 @@
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
-        "name": "Sentimental (Sombras)",
-        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
+        "name": "111",
+        "url": "https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
         },
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
         }
       ],
-      "duration_ms": 213442,
-      "name": "Sentimental - Sombras",
-      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh"
+      "duration_ms": 232000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
     }
   ],
   "unique_name": "Tantra",

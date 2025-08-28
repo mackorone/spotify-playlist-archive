@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,637 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,648 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 34 | [Mood Swing](https://open.spotify.com/track/6CdHKSFDCkAbbDzZvKZljV) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [Ski Beatz](https://open.spotify.com/artist/4icNl0ZgMFsvyMb7D0wlAF), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Mood Swing](https://open.spotify.com/album/1uWXyAqyQBJUQi9N3HjU55) | 2:50 |
 | 35 | [feel](https://open.spotify.com/track/0FpWFfW0yqpCIfgw4QCuuL) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [feel / i don't know why](https://open.spotify.com/album/54DPVTO675Qnb60v5tmLg0) | 2:10 |
 | 36 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
-| 37 | [See Him Again](https://open.spotify.com/track/4G5BITntAX2JNy0uZGLNhF) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Nona Soul](https://open.spotify.com/artist/1MvYuzjTcIO3fPCgwbfGxR) | [See Him Again](https://open.spotify.com/album/6e8QZaJOTqQAWxYLPh4w6z) | 2:55 |
+| 37 | [See Him Again](https://open.spotify.com/track/4G5BITntAX2JNy0uZGLNhF) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Alexandra Rotmann](https://open.spotify.com/artist/6eeo1fKlLOMYhc63wDQYUL) | [See Him Again](https://open.spotify.com/album/6e8QZaJOTqQAWxYLPh4w6z) | 2:55 |
 | 38 | [Jewel Thief](https://open.spotify.com/track/1d1Iot4KbF01jNhK7FiCRO) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n), [Tonio Sagan](https://open.spotify.com/artist/4FNaaByFBfE9qqGRRhrUdi) | [Jewel Thief](https://open.spotify.com/album/6P6DRCn3AnpjUL3FVYFttK) | 3:47 |
 | 39 | [I See You](https://open.spotify.com/track/4wZ2AxvXflNwkxfU5jLlVt) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Paul Randolph](https://open.spotify.com/artist/2YrHDeEEoToOzrGjIhETYD), [Bread & Souls](https://open.spotify.com/artist/1t2puEAa4DiYt7U7S20SN4) | [A Family Gathering Chapter 3](https://open.spotify.com/album/4yb06NKYlpsn828xBYCGnA) | 5:37 |
 | 40 | [Heat To Drop](https://open.spotify.com/track/5R5AYZHcmYj9kRDGRJvlVR) | [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg) | [Heat To Drop](https://open.spotify.com/album/5zfqIQrw4VUUsmm9FeONSn) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > 528 Hz solfeggio frequencies used by many to activate positive energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,711 likes - 212 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,141 likes - 212 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 | 168 | [Stillness](https://open.spotify.com/track/4yFzSpKsY4RV0JvKT9QlNM) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:25 |
 | 169 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
 | 170 | [Ambience \(528 Hz\)](https://open.spotify.com/track/7ucyAsF1csQytWVQmvgIFC) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Ambience \(528 Hz\)](https://open.spotify.com/album/62VC5kRKye9aTshZcSOPab) | 2:25 |
-| 171 | [Sooth \(528Hz\)](https://open.spotify.com/track/0adnuRDRlC6FdvfTAcIi70) | [Lyra Roman](https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh) | [Sooth \(528Hz\)](https://open.spotify.com/album/5rIHF5AXvyyCaNv3osD9Uu) | 2:46 |
+| 171 | [Sooth \(528Hz\)](https://open.spotify.com/track/0adnuRDRlC6FdvfTAcIi70) | [Lyroma](https://open.spotify.com/artist/2slc3WdUT0oX74JHHVacDB) | [Sooth \(528Hz\)](https://open.spotify.com/album/5rIHF5AXvyyCaNv3osD9Uu) | 2:46 |
 | 172 | [Spiritual Intuition 528 Hz](https://open.spotify.com/track/7DOSxPmlIG0HXzasJeEjOx) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Spiritual Intuition 528 Hz](https://open.spotify.com/album/2XqRbJ0XQ8WDPGUWY2yic9) | 3:18 |
 | 173 | [528 Hz Deep Rain.](https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [528 Hz Deep Rain.](https://open.spotify.com/album/0NlyM5XLn1ySNnRJnHZ198) | 2:41 |
 | 174 | [Equipoise](https://open.spotify.com/track/612NwtubGzCA41IJRpYZJh) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Equipoise](https://open.spotify.com/album/3ZbKVAGQCVGvLtjKz71txP) | 3:00 |

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Devil Wears Prada
 
-1,309 songs - 3 day 8 hr 10 min
+1,310 songs - 3 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Death in Sonic](https://open.spotify.com/track/5BY0nLbijJ90n59GWFpyFe) | [Darkmatter](https://open.spotify.com/artist/6eftKndDms3JdNUfvzo7Fu) | [Death In Sonic](https://open.spotify.com/album/583O3Syc3pwKZVlIoPv5CR) | 3:14 | 2025-08-01 | 2025-08-22 |
 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 | 2021-12-17 | 2022-04-02 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2022-07-13 | 2022-07-18 |
-| [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 | 2025-02-21 |  |
+| [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 | 2025-02-21 | 2025-08-28 |
 | [Death Whistle](https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Death Whistle](https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8) | 5:53 | 2022-07-13 | 2022-07-23 |
 | [Deathbed](https://open.spotify.com/track/2Z1GInPPpxZkc2B2ZHPA68) | [Engrossed](https://open.spotify.com/artist/1hv2s5LpM3wCsYTNHLuHdP) | [Deathbed](https://open.spotify.com/album/3vdzyOymFCOC2C4k4PbNtC) | 3:37 | 2022-07-13 | 2022-07-19 |
 | [Deathparty](https://open.spotify.com/track/3JQKBm2A2KDuQuJiJpx2AQ) | [Diamond Construct](https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG) | [Deathparty](https://open.spotify.com/album/53j7Rtk8ygLlwxaoDfTHIu) | 2:30 | 2025-03-31 | 2025-04-25 |
@@ -1302,6 +1302,7 @@
 | [World War X](https://open.spotify.com/track/6dXVHWA03pkh3VcGsLZTrT) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [World War X](https://open.spotify.com/album/3HB1VdtGIKeRckjLId0XKP) | 4:28 | 2022-07-13 | 2022-07-22 |
 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-03-01 | 2024-08-13 |
 | [Worldwide Suicide](https://open.spotify.com/track/52uE648ai2EDq179lsi6VU) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N) | [Worldwide Suicide](https://open.spotify.com/album/6wPMu56NLuxlUU4LQpoQA4) | 1:57 | 2022-07-13 | 2022-07-23 |
+| [WORTH NOTHING](https://open.spotify.com/track/2B9b1cT9Ue9FcDGvlH8FsR) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP) | [WORTH NOTHING](https://open.spotify.com/album/59v01r4gfpZxf2F26Zfq90) | 3:01 | 2025-08-22 |  |
 | [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-08-22 |  |
 | [WRATHBERRY](https://open.spotify.com/track/1rqfdOUNOW5YQSRGNzC3nQ) | [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e) | [WRATHBERRY](https://open.spotify.com/album/0FgKAO5LHRdGMZu99cWqpn) | 2:54 | 2025-05-09 | 2025-06-16 |
 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-08 | 2024-11-12 |

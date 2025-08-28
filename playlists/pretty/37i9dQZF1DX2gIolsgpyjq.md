@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: JÁNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,868 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,871 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 19 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 |
 | 20 | [Under The Weather](https://open.spotify.com/track/2y4977Mc2jO7c1Yc0EVDhY) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [VELVET NOIRE](https://open.spotify.com/album/3tKfyQ5j3fxwcueyahXgII) | 2:50 |
 | 21 | [Simply not enough](https://open.spotify.com/track/5Ni7kzWhTgEXhtI4S4KUVA) | [Yón](https://open.spotify.com/artist/6HU3pwnhyRh9PeLCW4dGX5) | [Simply not enough](https://open.spotify.com/album/1YmuEVv1ApZUwqR9KWK1A5) | 4:33 |
-| 22 | [Run It](https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Run It](https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA) | 3:08 |
+| 22 | [Run It](https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Run It](https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA) | 3:07 |
 | 23 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 |
 | 24 | [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 |
 | 25 | [Lose My Mind](https://open.spotify.com/track/7wjV5Z7vRHPP9UHniItXpf) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Lose My Mind](https://open.spotify.com/album/5uGaLNt0lvdPJmywdZcHRP) | 3:31 |

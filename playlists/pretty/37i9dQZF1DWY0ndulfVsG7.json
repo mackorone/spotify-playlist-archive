@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 61133,
+  "num_followers": 61158,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Yang Terpilih",
-        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Terlalu Cinta",
-      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Pagi Pulang Pagi",
         "url": "https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa"
       },
@@ -819,18 +803,38 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Live to Love",
-        "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
+        "name": "Yang Terpilih",
+        "url": "https://open.spotify.com/album/4ZoR00UkfBdVlP6RB7vq5A"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/6I9rJKR6WPRir6XoAaaJvH"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Percayalah",
+        "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
       },
       "artists": [
         {
           "name": "Afgan",
           "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 245232,
-      "name": "Jodoh Pasti Bertemu",
-      "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+      "duration_ms": 266111,
+      "name": "Percayalah",
+      "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
     }
   ],
   "unique_name": "Berjiran",

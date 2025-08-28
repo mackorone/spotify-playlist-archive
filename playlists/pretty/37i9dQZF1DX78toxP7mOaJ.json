@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: 9Million",
-  "num_followers": 165619,
+  "num_followers": 165651,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfLQ6U9dbyXnUCkUxtM/lsMd0QW",
+  "snapshot_id": "AAAAAJ7RDAa0j5c2dIPiCbfRDit6qjLY",
   "tracks": [
     {
       "added_at": "2025-08-13 16:05:00",
@@ -23,6 +23,22 @@
       "duration_ms": 279735,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/0ryxHlNmyypx3sHBsUj9zI"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Swiss Army Girl",
+        "url": "https://open.spotify.com/album/5eHuvPq3RTMokw2qOBxPHY"
+      },
+      "artists": [
+        {
+          "name": "Venus & the Flytraps",
+          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
+        }
+      ],
+      "duration_ms": 149208,
+      "name": "Swiss Army Girl",
+      "url": "https://open.spotify.com/track/7JSamSm9Cc2jpliX5jkDR1"
     },
     {
       "added_at": "2025-08-13 16:05:00",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
-      "added_at": "2025-08-20 16:38:51",
+      "added_at": "2025-08-27 04:00:24",
       "album": {
-        "name": "Lady Beetle",
-        "url": "https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb"
+        "name": "Act Like Your Title",
+        "url": "https://open.spotify.com/album/23qCx5Wg1544KWxIjjEdCv"
       },
       "artists": [
         {
-          "name": "Lucky",
-          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+          "name": "Rocket",
+          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
         }
       ],
-      "duration_ms": 212298,
-      "name": "Lady Beetle",
-      "url": "https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU"
+      "duration_ms": 139531,
+      "name": "Act Like Your Title",
+      "url": "https://open.spotify.com/track/1UMO6vIf9lyPkdrMrsPirN"
     },
     {
       "added_at": "2025-08-13 16:05:00",
@@ -87,6 +103,214 @@
       "duration_ms": 236424,
       "name": "7 Window Still",
       "url": "https://open.spotify.com/track/1gfkJ2R7zpbxoaNRl7mGiD"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Lady Beetle",
+        "url": "https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "duration_ms": 212298,
+      "name": "Lady Beetle",
+      "url": "https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/52mNZzLK1fdwG1WKrHy7zN"
+      },
+      "artists": [
+        {
+          "name": "Showpony",
+          "url": "https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Remains",
+      "url": "https://open.spotify.com/track/3x8NZv5gBRxkUkduxVtQN0"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Tester Snake",
+        "url": "https://open.spotify.com/album/0PNBov3lrGQAd4YvcQ6JBs"
+      },
+      "artists": [
+        {
+          "name": "26fix",
+          "url": "https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Tester Snake",
+      "url": "https://open.spotify.com/track/1zhJIvUrm577UGO9Zdow2S"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Cherry Lips",
+        "url": "https://open.spotify.com/album/07YQE7ap7jl5ZbpVRfAEJV"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "Cherry Lips",
+      "url": "https://open.spotify.com/track/3eeGnOzHh8kT1J3cipgTb5"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Slow Saturday",
+        "url": "https://open.spotify.com/album/7Ga7jmSSG2l1oqsi8osyfK"
+      },
+      "artists": [
+        {
+          "name": "Glimmer",
+          "url": "https://open.spotify.com/artist/4ldTJbQ7TIIjZYgUtH5RwT"
+        }
+      ],
+      "duration_ms": 268387,
+      "name": "Slow Saturday",
+      "url": "https://open.spotify.com/track/40lexefD23uQN4IoGIBxnK"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "BICTH",
+        "url": "https://open.spotify.com/album/38Z89XqKlmqa3L1HQz36AY"
+      },
+      "artists": [
+        {
+          "name": "Sophia Frank",
+          "url": "https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "BICTH",
+      "url": "https://open.spotify.com/track/1ivBvkDuFbWdHZ62c5Bayy"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Walk Out On This World",
+        "url": "https://open.spotify.com/album/1lho5GjSo5sy3S8PxiZpTS"
+      },
+      "artists": [
+        {
+          "name": "Hunx and His Punx",
+          "url": "https://open.spotify.com/artist/5xTWck1vHVlTTI0jTQzUuF"
+        }
+      ],
+      "duration_ms": 159879,
+      "name": "Little Richard",
+      "url": "https://open.spotify.com/track/56RvnCLwPNKQjTjHbgVmFi"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "hall of mirrors",
+        "url": "https://open.spotify.com/album/1B3bqzE1LDafJF10SLqq6Z"
+      },
+      "artists": [
+        {
+          "name": "Dust of Apollon",
+          "url": "https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "hall of mirrors",
+      "url": "https://open.spotify.com/track/5jW9V3sU1Zbp0nnWBIU9Ir"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/2fhFMnHEKcW0MNuqtbw4YE"
+      },
+      "artists": [
+        {
+          "name": "Die St\u00f6rung",
+          "url": "https://open.spotify.com/artist/3hqJcvEQEhRWvPWtJL8NBE"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/2EcTIbGiPN2mfMhHNr1gw4"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "\"This Isn't Real\" Mixtape",
+        "url": "https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ"
+      },
+      "artists": [
+        {
+          "name": "No Soul Society",
+          "url": "https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS"
+        }
+      ],
+      "duration_ms": 201399,
+      "name": "Halfway Famous",
+      "url": "https://open.spotify.com/track/19gWJsiVulKfzXFvP4LQS7"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Fallen Days",
+        "url": "https://open.spotify.com/album/5I7qfSaAYnagmKpkN8xMLD"
+      },
+      "artists": [
+        {
+          "name": "Tron Austin",
+          "url": "https://open.spotify.com/artist/4FgvnCh0V8RBjdXVwIHwwL"
+        }
+      ],
+      "duration_ms": 196969,
+      "name": "Fallen Days",
+      "url": "https://open.spotify.com/track/52rb0gxBOFwaJ18bzQLRC4"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "High Ceilings",
+        "url": "https://open.spotify.com/album/1ATRxK4fFgzyRHdBuE3Efz"
+      },
+      "artists": [
+        {
+          "name": "Omni",
+          "url": "https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9"
+        }
+      ],
+      "duration_ms": 178589,
+      "name": "High Ceilings",
+      "url": "https://open.spotify.com/track/7rscwqiykqiMne7MysQnpt"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Into the Void",
+        "url": "https://open.spotify.com/album/6IlSQ5g13jayFUpgMLGpam"
+      },
+      "artists": [
+        {
+          "name": "Good Luck",
+          "url": "https://open.spotify.com/artist/3d7qVZN9v6jrSnTH9AH9B4"
+        }
+      ],
+      "duration_ms": 154174,
+      "name": "Into the Void",
+      "url": "https://open.spotify.com/track/4bBYGJfepV9S5lmmym6mU3"
     },
     {
       "added_at": "2025-08-20 16:38:51",
@@ -1011,22 +1235,6 @@
     {
       "added_at": "2025-07-02 19:01:06",
       "album": {
-        "name": "Familiar Faces",
-        "url": "https://open.spotify.com/album/6tnvnuVlbQrZDryoXH58lm"
-      },
-      "artists": [
-        {
-          "name": "Stereo Club",
-          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
-        }
-      ],
-      "duration_ms": 200852,
-      "name": "Familiar Faces",
-      "url": "https://open.spotify.com/track/6sDoTfIObXnQnG7Uvrk3Jb"
-    },
-    {
-      "added_at": "2025-07-02 19:01:06",
-      "album": {
         "name": "Day To Day",
         "url": "https://open.spotify.com/album/7KXBzv06Js7qAXfjRWNei6"
       },
@@ -1911,198 +2119,6 @@
       "duration_ms": 209523,
       "name": "somber",
       "url": "https://open.spotify.com/track/73fEj9HZpqGQ33aaAuRkwj"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/0jBzSjfRSLywq3VN1bKlFC"
-      },
-      "artists": [
-        {
-          "name": "Rocket",
-          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/7hzSSb5g0D1OGd6PRVnq2F"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Girls!",
-        "url": "https://open.spotify.com/album/6qX96OBZ4N6wZuvPrzAiGc"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Girls!",
-      "url": "https://open.spotify.com/track/1D8ZlHgWsoKVQPbfKCWlxB"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/3m7OWCL2PfBrcj2Fu179kx"
-      },
-      "artists": [
-        {
-          "name": "MORN",
-          "url": "https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Modern Man",
-      "url": "https://open.spotify.com/track/10VAsXITsdLNv3kWjB2Omu"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Modo",
-        "url": "https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ"
-      },
-      "artists": [
-        {
-          "name": "FREDDY L",
-          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Modo",
-      "url": "https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "The Nancys",
-        "url": "https://open.spotify.com/album/6HHirJb1z4WTnd1EzM51yX"
-      },
-      "artists": [
-        {
-          "name": "The Nancys",
-          "url": "https://open.spotify.com/artist/4Xl9EGYMEND8sP3SI43Fpb"
-        }
-      ],
-      "duration_ms": 200462,
-      "name": "Tell Me To Be",
-      "url": "https://open.spotify.com/track/6XE1iZQWhyyVXlXR8kakRI"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/2dzWwCVPUphjWS7CKwAe6c"
-      },
-      "artists": [
-        {
-          "name": "CIVIC",
-          "url": "https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/1GWNUP1xigLMPppxFWI34b"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "hdtv",
-        "url": "https://open.spotify.com/album/6lttBYVS1RJJSHU9QHcBzp"
-      },
-      "artists": [
-        {
-          "name": "snake eyes",
-          "url": "https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "hdtv",
-      "url": "https://open.spotify.com/track/62MW0zLmWoBz0t6EEu5fPD"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Excalibur",
-        "url": "https://open.spotify.com/album/7LL2Ie33kwInlALe3bSnpA"
-      },
-      "artists": [
-        {
-          "name": "Horsepower",
-          "url": "https://open.spotify.com/artist/1ERf6Gecr1VWPzibnPJt1Y"
-        }
-      ],
-      "duration_ms": 206236,
-      "name": "Excalibur",
-      "url": "https://open.spotify.com/track/2F4UPrAtPuwlSVCCSGl78g"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Horns",
-        "url": "https://open.spotify.com/album/0jBFLm2sxwCgitmcSZvdMV"
-      },
-      "artists": [
-        {
-          "name": "Hothouse",
-          "url": "https://open.spotify.com/artist/1OFFkfKDCwEQJKFEv2XYyu"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Horns",
-      "url": "https://open.spotify.com/track/4JioFAhiXozFTGB53zQs67"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Touch & Go",
-        "url": "https://open.spotify.com/album/7FtN2IVH5UMcpK5bgAbS9X"
-      },
-      "artists": [
-        {
-          "name": "Smut",
-          "url": "https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Touch & Go",
-      "url": "https://open.spotify.com/track/1tyaXl5I994vYmFcb6fRg8"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Groucho Marx / Selling Swords",
-        "url": "https://open.spotify.com/album/06iITgG2RZetMBmnzzbgYz"
-      },
-      "artists": [
-        {
-          "name": "Liquid Mike",
-          "url": "https://open.spotify.com/artist/6WP8xxDLcPKNgdQWjU3BzN"
-        }
-      ],
-      "duration_ms": 115062,
-      "name": "Groucho Marx",
-      "url": "https://open.spotify.com/track/7JuWIkQJkKgNQOs0zaflm7"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Guillotine",
-        "url": "https://open.spotify.com/album/70TDhd6mFORgQZSRVdo5Ro"
-      },
-      "artists": [
-        {
-          "name": "OH! Daisy",
-          "url": "https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ"
-        }
-      ],
-      "duration_ms": 150159,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2"
     }
   ],
   "unique_name": "Fresh Finds Rock",

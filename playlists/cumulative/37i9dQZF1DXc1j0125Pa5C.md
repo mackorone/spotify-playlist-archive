@@ -4,7 +4,7 @@
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-262 songs - 22 hr 39 min
+263 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 | 2023-12-29 |  |
 | [Me Redimir / Insensível / Flashback](https://open.spotify.com/track/69nsPVKxqsyNDlzsusStaF) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R), [Chininha](https://open.spotify.com/artist/3lI032ULhqFakqCue9srcR) | [Me Redimir / Insensível / Flashback](https://open.spotify.com/album/5oBxkJivFrIUyKdfA7nvHf) | 4:59 | 2024-12-06 | 2024-12-20 |
 | [Me Redimir / Preciso Desabafar / Felina \- Ao Vivo](https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Swing & Simpatia](https://open.spotify.com/artist/07o97MiFEobUUwiIYcspmj) | [DVD Fases Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy) | 4:59 | 2023-12-29 | 2025-01-31 |
-| [Mega Star / Telegrama \- Ao Vivo](https://open.spotify.com/track/1VToYenItqkmYkGfmJSV4X) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Mega Star / Telegrama \(Ao Vivo\)](https://open.spotify.com/album/5K4F8AQpRCJrDjJH0IsFDr) | 4:07 | 2024-11-15 |  |
+| [Mega Star / Telegrama \- Ao Vivo](https://open.spotify.com/track/1VToYenItqkmYkGfmJSV4X) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Mega Star / Telegrama \(Ao Vivo\)](https://open.spotify.com/album/5K4F8AQpRCJrDjJH0IsFDr) | 4:07 | 2024-11-15 | 2025-08-28 |
+| [Meiguice Descarada / Hoje Tem Samba / Não Sou Mais Disso](https://open.spotify.com/track/4g6AgFJUQktPGnXGf7hWSI) | [Me Encontra Lá](https://open.spotify.com/artist/0buPbUxFTwHfJk0hBIeQZZ) | [Bloco 2 \- Abuso de Poder / Fim da Tristeza / Eu e Você Sempre / Lucidez / Ja É / E Mais…](https://open.spotify.com/album/00TnDEsg0gmS6UP9kkDrcp) | 6:33 | 2025-08-28 |  |
 | [Meu Apelo / Fada / Não Tão Menos Semelhante](https://open.spotify.com/track/0dZSZxl63z1Uebiwe6khE7) | [Encontro de Batuqueiros](https://open.spotify.com/artist/60Szo8MMAnauqFUulJrl57) | [Pagode no Quintal, Vol\. 01 \(EDB Canta Fundo de Quintal\) \- Ao Vivo](https://open.spotify.com/album/0tF5TxM0GgkUeOdVfQhmC0) | 7:46 | 2024-08-16 | 2024-09-27 |
 | [Meu Casamento / A Carta / Mô \- Ao Vivo](https://open.spotify.com/track/4dmt6HzJoKzEXtpHuXICfx) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Resenha das Minas 2, EP 2 \- Ao Vivo](https://open.spotify.com/album/6nKjrF6ZT76nC79GeoIOZ7) | 4:55 | 2024-08-23 | 2024-09-20 |
 | [Meu Jeito Moleque / S.O.S Paixão \- Ao Vivo](https://open.spotify.com/track/5AKmZ7GOu4WJecD4TSTicI) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0) | [Meu Jeito Moleque / S.O.S Paixão \(Ao Vivo\)](https://open.spotify.com/album/3gFpyj3gbMuOibXLUNkVa9) | 3:31 | 2023-12-29 | 2024-07-19 |

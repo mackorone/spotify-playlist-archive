@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,919 likes - 20 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,920 likes - 20 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [光陰副本](https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [光陰副本](https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q) | 4:12 |
-| 2 | [掠日 \(影集《塑膠花》主題曲\)](https://open.spotify.com/track/24Xhuu7n2Lh3YMmQLnd7on) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [掠日](https://open.spotify.com/album/337AQKbjqqxaKTEUBKbE2j) | 4:24 |
+| 2 | [掠日 \(影集《塑膠花》主題曲\)](https://open.spotify.com/track/24Xhuu7n2Lh3YMmQLnd7on) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [掠日](https://open.spotify.com/album/337AQKbjqqxaKTEUBKbE2j) | 4:24 |
 | 3 | [小子](https://open.spotify.com/track/4BpS2swVIEPYHGmfCAe7dB) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [小子](https://open.spotify.com/album/3Y0HDfd3X2m5RZ1ldLtiOl) | 3:14 |
 | 4 | [再遇不到你这样的人](https://open.spotify.com/track/0Tf685pCwPkt2xfrbn3Dh6) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [再遇不到你这样的人](https://open.spotify.com/album/0xMjMIyfX4G6v3NqHNxT1O) | 5:21 |
 | 5 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Heema Izzati\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,050 likes - 111 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,049 likes - 111 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 23 | [Suka Kamu](https://open.spotify.com/track/6LkCn6NtIKQduZZ1Y7yIh8) | [Malik Choo](https://open.spotify.com/artist/62yBQUTLP0epi7UBjt6FLI) | [Suka Kamu](https://open.spotify.com/album/3h0lCihnGtGuGVAcYxADUH) | 2:54 |
 | 24 | [Senja](https://open.spotify.com/track/2uFOlba0U1j5hsAS5JqHy9) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Senja](https://open.spotify.com/album/2iTZIga0u8maZvC6jQNsZf) | 2:44 |
 | 25 | [Likely](https://open.spotify.com/track/5VOuD0ouTCYJB4i73936xQ) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Likely](https://open.spotify.com/album/73rOtWq96EBdBvwu7sNHcB) | 2:51 |
-| 26 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
+| 26 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康鈞](https://open.spotify.com/artist/5jgY0JNTJ7nWvBHbToKDM3) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
 | 27 | [READY](https://open.spotify.com/track/1A0L1XqEFSU4FIvt1NkAMF) | [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [READY](https://open.spotify.com/album/2p7f3Q22QJUfl2q5AxQrFh) | 3:11 |
 | 28 | [DON JULIO](https://open.spotify.com/track/2iQUKKlOpUPp0J2xQbhVYg) | [Joogi](https://open.spotify.com/artist/5KK7a8MlnPK04dZCq0IXXs), [lnts](https://open.spotify.com/artist/7lw87vv9tg8v3OT0S4zd9M) | [DON JULIO](https://open.spotify.com/album/0UKbfNIwz7DrtVMGdn63vG) | 2:49 |
 | 29 | [Pengubat Rindu](https://open.spotify.com/track/1QQNtziOhZpql0gKFPmy0i) | [Kozae](https://open.spotify.com/artist/7duNrUsPu08imLw7AT62ni) | [Pengubat Rindu](https://open.spotify.com/album/46SgK6pK1GETo2sImNJJDE) | 3:46 |

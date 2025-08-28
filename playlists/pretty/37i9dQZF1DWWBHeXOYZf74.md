@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,671 likes - 170 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,627 likes - 170 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 104 | [flowers](https://open.spotify.com/track/3wQLAVRHF0FcxbbKuCZtnT) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [NAPPYNAPPA](https://open.spotify.com/artist/65NidLkO1RYt4w4ioYdm4v) | [The Lost Tape, Vol\. 3](https://open.spotify.com/album/6IQzDDZPpPbUon8Fq9DCWq) | 3:22 |
 | 105 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
 | 106 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
-| 107 | [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt.1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 |
+| 107 | [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt\. 1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 |
 | 108 | [House Fire](https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [House Fire](https://open.spotify.com/album/4IBqJMZM6WuVWW2szJFlym) | 3:07 |
 | 109 | [chica de cristal](https://open.spotify.com/track/2JHx88v5T0EU3CGRLyZxZb) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [chica de cristal](https://open.spotify.com/album/0Syqn4KONR5xOyvgVFEMsp) | 3:18 |
 | 110 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 |

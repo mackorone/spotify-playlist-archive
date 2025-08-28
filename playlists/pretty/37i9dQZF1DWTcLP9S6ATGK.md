@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Difki Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,316 likes - 101 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,327 likes - 101 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

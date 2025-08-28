@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 530 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 17 | [Processional And Maria \(The Wedding\)](https://open.spotify.com/track/13aKlygoQB1yeU4MEpW8in) | [Annalee](https://open.spotify.com/artist/4D7jbXC2Jdd9DXG5uZYCCr), [Portia Nelson](https://open.spotify.com/artist/4JdnsNbbYp5zo4xz5V38w9), [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ), [Evadne Baker](https://open.spotify.com/artist/3GtvxALXnbuxfxFIo26vC4) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:29 |
 | 18 | [If I Loved You](https://open.spotify.com/track/1938FeAi8kI7w9TpbgQWgP) | [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [Imagination](https://open.spotify.com/album/6XZSedMgcXKSTal1vSaCRf) | 1:59 |
 | 19 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
-| 20 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
-| 21 | ["Ten Minutes Ago"](https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:52 |
+| 20 | ["Ten Minutes Ago"](https://open.spotify.com/track/0Xdmtw3GC8pMk06N63yVDj) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:52 |
+| 21 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
 | 22 | [It Might As Well Be Spring \- Remastered 2025](https://open.spotify.com/track/4qC5KUDETGZ4AuxZrpd5df) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \(Remastered 2025\)](https://open.spotify.com/album/1qls3z8DYxSbFlJzvL8GFa) | 6:05 |
 | 23 | [Indian Love Call](https://open.spotify.com/track/1StLytLkQVRq3q1PtfclE3) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [EMI Country Masters: 50 Originals](https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU) | 3:09 |
 | 24 | [Oh, What a Beautiful Mornin' \- Oklahoma!, 1955](https://open.spotify.com/track/37ZAXJkdunm9ABV99fnWuN) | [Fred zinnemann](https://open.spotify.com/artist/2Arv9WHiEGyxyMblCt9FD9), [Gordon MacRae](https://open.spotify.com/artist/3dvIPsJH7o9xnBwFxowzof) | [Best FRED ZINNEMANN Movie Themes](https://open.spotify.com/album/2ouUKPPIQUyDysNQrQZCVE) | 2:32 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `Ab6kHgAAAACrHO0i8BFskEwUYsS65Gr3`
+Snapshot ID: `Ab6pyAAAAAAHbWGvPArly1naEFmygwSo`

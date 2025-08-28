@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aswell",
-  "num_followers": 45878,
+  "num_followers": 45873,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXPWf73EowHqyAyOGM3f7BIJrI+",
+  "snapshot_id": "AAAAACnBpGOL7uQlXSmnmQMgpQ4LqgrO",
   "tracks": [
     {
       "added_at": "2025-08-15 00:01:33",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7"
     },
     {
+      "added_at": "2025-08-27 21:12:22",
+      "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/176zDJOZ3av7xuBXD0urkR"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lachance",
+          "url": "https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX"
+        },
+        {
+          "name": "Amery",
+          "url": "https://open.spotify.com/artist/1bwYRjgLFnaNYmSWoUyd7I"
+        }
+      ],
+      "duration_ms": 126360,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/1YBCTYBfExd2FNr7GCuuoi"
+    },
+    {
       "added_at": "2025-08-15 00:01:33",
       "album": {
         "name": "Une seconde.",
@@ -39,22 +59,6 @@
       "duration_ms": 159624,
       "name": "Une seconde.",
       "url": "https://open.spotify.com/track/5x435V4iJe3ZPltXMFUpKB"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2025-08-15 00:01:33",
@@ -139,22 +143,18 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "AIR FORCE BLANCHE",
-        "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 186000,
-      "name": "AIR FORCE BLANCHE",
-      "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2025-08-07 20:30:24",
@@ -207,6 +207,26 @@
       "duration_ms": 160190,
       "name": "Chez nous ici",
       "url": "https://open.spotify.com/track/23pDoQ06saUoin9oh1Gc5W"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "AIR FORCE BLANCHE",
+        "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "AIR FORCE BLANCHE",
+      "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -287,26 +307,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Congolaise",
-        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
-      },
-      "artists": [
-        {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Congolaise",
-      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Toujours les vacances",
         "url": "https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO"
       },
@@ -327,22 +327,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 160200,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
     },
     {
       "added_at": "2025-08-07 20:30:24",
@@ -419,6 +419,26 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "FARA FARA GANG - BDLM EXTENSION",
         "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
       },
@@ -439,26 +459,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "kafini",
-        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "kafini",
-      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "La monnaie",
         "url": "https://open.spotify.com/album/01ZxfXcbH3fkboB06EU7te"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 170666,
       "name": "La monnaie",
       "url": "https://open.spotify.com/track/1JjMaBCyGzQ4BU11ZFrWiz"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "kafini",
+        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "kafini",
+      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -595,26 +615,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
       },
@@ -651,22 +651,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 159545,
-      "name": "SELEK",
-      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
+      "duration_ms": 200458,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -683,6 +683,26 @@
       "duration_ms": 178786,
       "name": "BANGER",
       "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "SELEK",
+      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -919,30 +939,6 @@
       "duration_ms": 173887,
       "name": "Hors du temps",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Comme Avant",
-        "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
-      },
-      "artists": [
-        {
-          "name": "David Carreira",
-          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Comme Avant",
-      "url": "https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

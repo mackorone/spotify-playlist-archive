@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -2176,6 +2176,24 @@
       "duration_ms": 228000,
       "name": "Lila",
       "url": "https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/0OLc8IeGDbmpb9TSb6Tv7i"
+      },
+      "artists": [
+        {
+          "name": "Mint Magic",
+          "url": "https://open.spotify.com/artist/4mg2C39tmnIPmNmn5twW9o"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213235,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/11OGa5SPCHCyWtnopNKxvp"
     },
     {
       "album": {
@@ -2691,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Nanaman",
+        "url": "https://open.spotify.com/album/4ytEbWBXLTrrgfu9plJhr8"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191908,
+      "name": "Nanaman",
+      "url": "https://open.spotify.com/track/60x9cVQ3agMY2tNtzisgVK"
+    },
+    {
+      "album": {
         "name": "Nananaginip",
         "url": "https://open.spotify.com/album/7GPHsF3g1ISuCekfzxrMh6"
       },
@@ -2864,7 +2900,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 174945,
       "name": "Ngalan Mo",
       "url": "https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp"
@@ -3446,7 +3482,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 327692,
       "name": "Tinapay",
       "url": "https://open.spotify.com/track/6O9zj5PNsW8btYoXL6qRRL"
@@ -4577,6 +4613,24 @@
     },
     {
       "album": {
+        "name": "U Were Never Mine",
+        "url": "https://open.spotify.com/album/3BWq5rbJpBJo57U0f73lYj"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "U Were Never Mine",
+      "url": "https://open.spotify.com/track/5NOKWEXX4ZjCJuici3jkzy"
+    },
+    {
+      "album": {
         "name": "U-Belt",
         "url": "https://open.spotify.com/album/5xcsBVV2LTMRt8CQpzOmZL"
       },
@@ -4592,6 +4646,24 @@
       "duration_ms": 212000,
       "name": "U-Belt",
       "url": "https://open.spotify.com/track/1Sb17ULI2TTxIDKiqKV2zv"
+    },
+    {
+      "album": {
+        "name": "Unang Halik",
+        "url": "https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Unang Halik",
+      "url": "https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex"
     },
     {
       "album": {

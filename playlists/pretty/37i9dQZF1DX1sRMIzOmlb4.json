@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 60529,
+  "num_followers": 60583,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
+        "name": "Picky Back To The Roots",
+        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
         "name": "The King Is Back (#LatinIBIZAte)",
         "url": "https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 218880,
       "name": "He Llorado (Como Un Ni\u00f1o)",
       "url": "https://open.spotify.com/track/72iOihHEQp0LA0hZcjfLaA"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
-        "name": "Picky Back To The Roots",
-        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Eterno Agosto",
-        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Mismo Sol",
-      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 227973,
       "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Recu\u00e9rdame (Nueva versi\u00f3n)",
-        "url": "https://open.spotify.com/album/4OAFqJlWoPYEmBJMwvERAy"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 292912,
-      "name": "Recu\u00e9rdame - Nueva versi\u00f3n",
-      "url": "https://open.spotify.com/track/0yS3WAbqrdjr8o3XseOqUK"
+      "duration_ms": 239546,
+      "name": "To My Love",
+      "url": "https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp"
     }
   ],
   "unique_name": "Latin Hits 2015",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: IV OF SPADES",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: James Reid, TJ Monterde",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 164307,
       "name": "Halika Na Lika Na",
       "url": "https://open.spotify.com/track/3lT2jcmbOgFFI3X74wkrCK"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 205840,
       "name": "Pikit Mata",
       "url": "https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j"
@@ -6387,6 +6387,24 @@
     },
     {
       "album": {
+        "name": "Tahimik Na Buhay Kapiling Ka",
+        "url": "https://open.spotify.com/album/49bkCXhFHLjlxxNzCDmZ5U"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285653,
+      "name": "Tahimik Na Buhay Kapiling Ka",
+      "url": "https://open.spotify.com/track/6C6T5FSG8AZXgKPwZgVcNx"
+    },
+    {
+      "album": {
         "name": "Tanga",
         "url": "https://open.spotify.com/album/0yb8i6UokYXrBfPVIpFwyh"
       },
@@ -6434,7 +6452,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 176872,
       "name": "Tanging Ikaw",
       "url": "https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y"
@@ -6819,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "U Were Never Mine",
+        "url": "https://open.spotify.com/album/3BWq5rbJpBJo57U0f73lYj"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "U Were Never Mine",
+      "url": "https://open.spotify.com/track/5NOKWEXX4ZjCJuici3jkzy"
+    },
+    {
+      "album": {
         "name": "Umaaligid",
         "url": "https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd"
       },
@@ -6874,6 +6910,24 @@
       "duration_ms": 212000,
       "name": "Umuwi Na Tayo",
       "url": "https://open.spotify.com/track/6fDPr9fQhnjSYHKKmu4fRQ"
+    },
+    {
+      "album": {
+        "name": "Unang Halik",
+        "url": "https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Unang Halik",
+      "url": "https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex"
     },
     {
       "album": {

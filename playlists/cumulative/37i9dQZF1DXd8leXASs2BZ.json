@@ -18155,6 +18155,24 @@
     },
     {
       "album": {
+        "name": "Tekipaki",
+        "url": "https://open.spotify.com/album/1Tyr6qPtB9m7jVadeTgA57"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138731,
+      "name": "Tekipaki",
+      "url": "https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j"
+    },
+    {
+      "album": {
         "name": "Love.zip",
         "url": "https://open.spotify.com/album/2PDzV1cEfjbsgClZYCivgs"
       },

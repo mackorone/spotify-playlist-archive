@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 64307,
+  "num_followers": 64329,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Don't Haffi Dread",
-        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Heritage",
-          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
-        }
-      ],
-      "duration_ms": 238550,
-      "name": "Don't Haffi Dread",
-      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Spice In Your Life",
         "url": "https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 227960,
       "name": "Earth A Run Red",
       "url": "https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Don't Haffi Dread",
+        "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        }
+      ],
+      "duration_ms": 238550,
+      "name": "Don't Haffi Dread",
+      "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Down In Jamaica: 40 Years of VP Records",
-        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
-      },
-      "artists": [
-        {
-          "name": "Wayne Wonder",
-          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
-        }
-      ],
-      "duration_ms": 201794,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Dancehall 101 Vol. 4",
         "url": "https://open.spotify.com/album/6ZcTGeWRDeMEguHWZlwAmf"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 217840,
       "name": "Dust A Sound Boy",
       "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Wayne Wonder",
+          "url": "https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO"
+        }
+      ],
+      "duration_ms": 201794,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/6U72aQMoDJicq24wwaH0SZ"
     }
   ],
   "unique_name": "Legendary Labels: VP Records",

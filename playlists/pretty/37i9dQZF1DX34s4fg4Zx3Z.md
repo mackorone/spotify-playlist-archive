@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trang Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,356 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,353 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 59 | [Nếuuu](https://open.spotify.com/track/6BttI5r6QkOYG3NUqmFzhV) | [Hlalah](https://open.spotify.com/artist/0AoPk3QSIB34yjobJq7eSH) | [Nếuuu](https://open.spotify.com/album/1DgaAyXi7T88jZnxlyiCdr) | 4:59 |
 | 60 | [Ánh Mắt Lạc Loài](https://open.spotify.com/track/7yvXM9NnXJrNKmvDmBnJVJ) | [giangimgs](https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ánh Mắt Lạc Loài](https://open.spotify.com/album/5CZBS6eA3pt9uwW7STICGy) | 3:02 |
 | 61 | [Chán Ngấy](https://open.spotify.com/track/3ufw1v1MRts3vBRSxEAzba) | [Gia](https://open.spotify.com/artist/1G5uY0JRHw8ztI9zyU9xUh) | [Chán Ngấy](https://open.spotify.com/album/6VL9HB2hJ8wIdGnxd3lopc) | 3:24 |
-| 62 | [TÌNH SHI](https://open.spotify.com/track/0XzyhjbEsglfjOLzozgamI) | [QUANG HUY](https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw), [PAGANINO](https://open.spotify.com/artist/1MwzdNF7cfIWwlVYg0onWY) | [TÌNH SHI](https://open.spotify.com/album/3KWbquckBY4rZ7wE4m2jPI) | 3:00 |
+| 62 | [TÌNH SHI](https://open.spotify.com/track/0XzyhjbEsglfjOLzozgamI) | [QUANGHUY](https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw), [PAGANINO](https://open.spotify.com/artist/1MwzdNF7cfIWwlVYg0onWY) | [TÌNH SHI](https://open.spotify.com/album/3KWbquckBY4rZ7wE4m2jPI) | 3:00 |
 | 63 | [Con Đường Xa](https://open.spotify.com/track/2jNefNkySA6SOJjBF9Jxfv) | [BILLY100](https://open.spotify.com/artist/5eGFciQFU7LU4JQZeIy9uS), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC), [A6lonely](https://open.spotify.com/artist/3POuZVWPpugGBv1FBdzAq8) | [Con Đường Xa](https://open.spotify.com/album/3wafJbskj9YAF7OmZmpizj) | 3:40 |
 | 64 | [Em và...](https://open.spotify.com/track/5quyXV8gJzdzBnUI9uYUjZ) | [Bon Ma](https://open.spotify.com/artist/7Am0uM7zd9oMI8Qyo5qmZd), [Minh Lame](https://open.spotify.com/artist/2yr3M7WBJ21pYIOW5Jhzza) | [Em và...](https://open.spotify.com/album/55ySDHE0sD1qH4guxELMrw) | 4:30 |
 | 65 | [HANDSOME](https://open.spotify.com/track/1M2RYkA5mNfvgIUeM3YhRU) | [JesiLyn](https://open.spotify.com/artist/7gm9casuT7FIMFUmOhz5TS), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf) | [HANDSOME](https://open.spotify.com/album/6usumQWGmPjLG2ZdbRV0bi) | 2:40 |

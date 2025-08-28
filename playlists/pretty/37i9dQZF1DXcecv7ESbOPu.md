@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Veronica Maggio, Ida\-Lova, sombr med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,477 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,474 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 87 | [Säger som Mange Schmidt](https://open.spotify.com/track/3OspMkYFmXcOZgL9rwodaj) | [aNtik](https://open.spotify.com/artist/1Af5IgNiNuENt7pcNLmaUP) | [Säger som Mange Schmidt](https://open.spotify.com/album/1RtXCA5fqSAcWMoOGLWiyc) | 2:54 |
 | 88 | [Skillibeng](https://open.spotify.com/track/2ROEzqfgwi2y6lzEeo50D6) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Skillibeng](https://open.spotify.com/album/3p0IwXe1xU3QET7yKtP0ZY) | 2:07 |
 | 89 | [Seen In A Movie](https://open.spotify.com/track/1V3QKm4YOq3PgWUYZdUd3M) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Seen In A Movie](https://open.spotify.com/album/1b74dPCUw7n0ycIGv5dDPX) | 2:50 |
-| 90 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
+| 90 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
 | 91 | [Nights in Armor](https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Nights in Armor](https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ) | 3:09 |
 | 92 | [Keep An Eye On Summer](https://open.spotify.com/track/20xtYX3ouFKnmpwfILur6Q) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Keep An Eye On Summer](https://open.spotify.com/album/5E3cCJ93pNRC766xAExAGE) | 2:46 |
 | 93 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 |

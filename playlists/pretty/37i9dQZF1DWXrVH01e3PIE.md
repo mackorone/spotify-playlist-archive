@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Sixto Yegros en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,131 likes - 116 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,099 likes - 116 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

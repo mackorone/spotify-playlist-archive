@@ -1,13 +1,89 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:06 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Aug 03:06 UTC.",
   "num_followers": 99,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUPXSHFbLEOGm2tKN4MmujUAE4q11c",
+  "snapshot_id": "AAAUReS8Iof9kcUpBUGjV+uPLqx6drzo",
   "tracks": [
+    {
+      "added_at": "2025-08-28 03:06:13",
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/5M43QFCSFCRKbILn3nDRPW"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Eva Tolkin",
+          "url": "https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I"
+        },
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Liam Benzvi",
+          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/3kCRMqCVZZwJOR3Opkk62R"
+    },
+    {
+      "added_at": "2025-08-27 22:06:32",
+      "album": {
+        "name": "BADITUDE",
+        "url": "https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9"
+      },
+      "artists": [
+        {
+          "name": "SOOJIN",
+          "url": "https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "BADITUDE",
+      "url": "https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B"
+    },
+    {
+      "added_at": "2025-08-27 22:06:32",
+      "album": {
+        "name": "Revenge In Carnage",
+        "url": "https://open.spotify.com/album/0ZPJr4S7zSUUgCnapdH0aP"
+      },
+      "artists": [
+        {
+          "name": "Dying Wish",
+          "url": "https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Revenge In Carnage",
+      "url": "https://open.spotify.com/track/1FNPwBz1RjPGZCCCNVLfZv"
+    },
+    {
+      "added_at": "2025-08-27 13:06:06",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/218P4brorJq8BLcyzconqS"
+    },
     {
       "added_at": "2025-08-26 22:06:11",
       "album": {
@@ -23,6 +99,22 @@
       "duration_ms": 196013,
       "name": "BLUE!",
       "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
+    },
+    {
+      "added_at": "2025-08-27 08:06:59",
+      "album": {
+        "name": "Chateau Blues",
+        "url": "https://open.spotify.com/album/00JEIPiZLwrJx1EslEZO7z"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 181138,
+      "name": "Chateau Blues",
+      "url": "https://open.spotify.com/track/75IGGN9fT7jNEyNJmSVHyq"
     },
     {
       "added_at": "2025-08-26 13:06:58",
@@ -87,6 +179,22 @@
       "duration_ms": 146623,
       "name": "spine",
       "url": "https://open.spotify.com/track/110UHz4b6xuwsAigLAg1DL"
+    },
+    {
+      "added_at": "2025-08-28 03:06:13",
+      "album": {
+        "name": "TAKE MY HAND",
+        "url": "https://open.spotify.com/album/03AsWUHNl2Hh9JPF3Y66ds"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "TAKE MY HAND",
+      "url": "https://open.spotify.com/track/1dcA0Ql31hchLydrA8dy9A"
     },
     {
       "added_at": "2025-08-22 18:06:05",
@@ -723,102 +831,6 @@
       "duration_ms": 145128,
       "name": "in plain sight",
       "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
-    },
-    {
-      "added_at": "2025-08-16 22:04:10",
-      "album": {
-        "name": "Imma Shoot",
-        "url": "https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 206985,
-      "name": "Imma Shoot",
-      "url": "https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV"
-    },
-    {
-      "added_at": "2025-08-15 08:04:05",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
-    },
-    {
-      "added_at": "2025-08-15 13:03:53",
-      "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
-    },
-    {
-      "added_at": "2025-08-16 18:03:58",
-      "album": {
-        "name": "Bike Air Anthem (feat. Nigel Sylvester)",
-        "url": "https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 87272,
-      "name": "Bike Air Anthem (feat. Nigel Sylvester)",
-      "url": "https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg"
-    },
-    {
-      "added_at": "2025-08-15 13:03:53",
-      "album": {
-        "name": "Here are the first 3 songs from my mixtape, Rocket",
-        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 146107,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs"
-    },
-    {
-      "added_at": "2025-08-17 22:04:04",
-      "album": {
-        "name": "The Devil Is A Democrat",
-        "url": "https://open.spotify.com/album/6GXavy8fcuS920Cj0nDhYK"
-      },
-      "artists": [
-        {
-          "name": "Tom MacDonald",
-          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
-        }
-      ],
-      "duration_ms": 158414,
-      "name": "The Devil Is A Democrat",
-      "url": "https://open.spotify.com/track/6Pghr6YCqFmGyS3Jg6jii4"
     }
   ],
   "unique_name": "New Singles Now",

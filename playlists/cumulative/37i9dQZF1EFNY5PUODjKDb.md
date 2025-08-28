@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-711 songs - 1 day 19 hr 17 min
+712 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Pharaos Traum Gedeutet](https://open.spotify.com/track/774pP9kOp2rgd94AZfKvTu) | [Original German Cast Of Joseph And The Amazing Technicolor Dreamcoat](https://open.spotify.com/artist/5cB4bQ08sGiKRwMSKzV5Nh) | [Joseph And The Amazing Technicolour Dreamcoat](https://open.spotify.com/album/3nR0NnxPzjTvMDKqFMinzu) | 1:20 | 2024-07-24 |  |
 | [Pilate And Christ \- From "Jesus Christ Superstar" Soundtrack](https://open.spotify.com/track/73N0U5M1eQEGBQNGZHsfTz) | [Barry Dennen](https://open.spotify.com/artist/6m662dmlJ57GKO4wo9AWga), [Ted Neeley](https://open.spotify.com/artist/4GsHmeRHPtDV3YLC484SQJ) | [Jesus Christ Superstar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72B4nP6lGLaenlP8Bdrrrj) | 2:58 | 2024-07-24 |  |
 | [Pilate's Dream \- From "Jesus Christ Superstar" Soundtrack](https://open.spotify.com/track/7v87QY52025GyKUxdk2syI) | [Barry Dennen](https://open.spotify.com/artist/6m662dmlJ57GKO4wo9AWga) | [Jesus Christ Superstar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72B4nP6lGLaenlP8Bdrrrj) | 1:48 | 2024-07-24 |  |
+| [Pobre Jerusalen](https://open.spotify.com/track/2JQgxdVkneAAvHksSLJQpD) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [Jesucristo Superestrella](https://open.spotify.com/album/1YRvblQzrMdlpZMat2BVOB) | 3:15 | 2025-08-27 |  |
 | [Police Interview](https://open.spotify.com/track/0SqPWVZPGFzHUyF5oFSoaf) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Charlotte Spencer](https://open.spotify.com/artist/6K1NnhNQwqsbTb5I8tU1ko), [Christopher Howell](https://open.spotify.com/artist/498jjaeddK4OwBLHA0LPVI), [Ian Conningham](https://open.spotify.com/artist/3eJbrBVrq4IFmGsrNsmhNT), [Ricardo Coke\-Thomas](https://open.spotify.com/artist/2b6TXqQG17cPORy6x5VIzf), [Amy Griffiths](https://open.spotify.com/artist/06gwrkLnuHeLOcuFCNeIHV), [Kate Coyston](https://open.spotify.com/artist/6ffvpSgVetGZbMczAymx4S), [Charlotte Blackledge](https://open.spotify.com/artist/67mf6clvdWqOHjH0tCIVZb) | [Stephen Ward \(Original Cast Recording\)](https://open.spotify.com/album/4e1fhuTeqstzPfUd1psxc8) | 6:33 | 2024-09-12 |  |
 | [Poor Fool, He Makes Me Laugh](https://open.spotify.com/track/50yxhOQupboMoF1xgzLza3) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Phantom Of The Opera Original London Cast](https://open.spotify.com/artist/3LfD2yRlfHAtTryX8rFp25), [Rosemary Ashe](https://open.spotify.com/artist/3Oju6zkuJzum4svKeVhKiK) | [The Phantom Of The Opera](https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6) | 3:06 | 2024-07-24 |  |
 | [Poor Jerusalem \- From "Jesus Christ Superstar" Soundtrack](https://open.spotify.com/track/42s5OPG1b3AG8zQgsG55zj) | [Ted Neeley](https://open.spotify.com/artist/4GsHmeRHPtDV3YLC484SQJ) | [Jesus Christ Superstar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72B4nP6lGLaenlP8Bdrrrj) | 1:37 | 2024-07-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,435 likes - 116 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,445 likes - 116 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 3 | [Firebomber](https://open.spotify.com/track/1orZXri2IguSEjN9XjT9TZ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Firebomber](https://open.spotify.com/album/32xYgM74LVRhx5rAl2dJ5c) | 4:13 |
 | 4 | [High Note \(feat\. Luv Moore\)](https://open.spotify.com/track/41Z9lE5UD4SW09lpHiY358) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Luv Moore](https://open.spotify.com/artist/705QcQplV3yNmmRIBOpjnS) | [Samurai DX](https://open.spotify.com/album/63I6z4nAbUE4Q3sMiJjJAG) | 3:55 |
 | 5 | [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 |
-| 6 | [PARTY PPL \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:45 |
+| 6 | [PARTY PPL \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:45 |
 | 7 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
 | 8 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
 | 9 | [Box Me Up \(feat\. Jelly Roll\)](https://open.spotify.com/track/2KmasQqR4zHUDLbhBOrrE8) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Hope You're Happy](https://open.spotify.com/album/3mQsyYY7ztgFvfoPNazh5y) | 2:53 |

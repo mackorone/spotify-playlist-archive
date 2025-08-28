@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: \(sic\)boy \*👉 <a href="https://spice.eplus.jp/articles/340134">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: \(sic\)boy \*👉 <a href="https://spice.eplus.jp/articles/340284">連動記事</a>をSPICEでチェック!
 
-11,741 songs - 30 day 15 hr 24 min
+11,743 songs - 30 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [2025/7/9 KID FRESINOが新曲をリリース！Creepy Nutsの新曲、PUNPEE & BIMのコラボEPも！Furui Riho初のアニメ主題歌や、RADWIMPSの野田洋次郎が書き下ろしたSixTONES の新曲もピックアップ！jo0jiからメッセージも到着！](https://open.spotify.com/episode/4K4HDQ9M5k7yNTP05FAxlF) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 24:53 | 2025-07-09 | 2025-07-16 |
 | [2025/8/13 Kvi Babaがニューアルバムをリリース！CHO CO PA CO CHO CO QUIN QUINNやziproom、カメレオン・ライム・ウーピーパイ、勢喜遊 & Yohji Igarashiの新曲も！ORANGE RANGEへのインタビューも！](https://open.spotify.com/episode/6yjHC9eS5t6kIVDXEkIi9x) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 28:19 | 2025-08-13 | 2025-08-20 |
 | [2025/8/20 iriが新曲をリリース！Perfumeのニューアルバム、TWICEの新曲、ART\-SCHOOLのトリビュートアルバムもピックアップ！サマソニ東京Spotify Stageでのバックステージインタビューも！](https://open.spotify.com/episode/6gfr7UKxKsbcwKapNjdwPi) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 58:32 | 2025-08-20 | 2025-08-27 |
+| [2025/8/27 Kroi、BE:FIRST、Mega Shinnosukeをピックアップ！ニューアルバム『START』をリリースしたSKRYUへのインタビューも！！ ](https://open.spotify.com/episode/4p8bcLuc3cpSGBdLOBwm0B) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:01:38 | 2025-08-27 |  |
 | [2025/8/6 Official髭男dismが待望の新曲をリリース！YonYonのインタビューも！Tempalay、Sagiri SólのEPもピックアップ！！](https://open.spotify.com/episode/1T5ltyM0DqpRq034y1Y6dN) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 45:44 | 2025-08-06 | 2025-08-14 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -4468,6 +4469,7 @@
 | [Musou](https://open.spotify.com/track/55tDnCCpkuzgXaVjVdzJKF) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [Musou](https://open.spotify.com/album/6ZShnLWDs6mOwzIPrE0Ujo) | 3:19 | 2023-10-18 | 2023-10-25 |
 | [mutual love](https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [mutual love](https://open.spotify.com/album/0J4ZZ9k9ftKAwlegplXDuH) | 4:20 | 2024-04-16 | 2024-04-19 |
 | [MVP](https://open.spotify.com/track/6czqkAzWPJDynXFiJSSlw8) | [Takanori Iwata](https://open.spotify.com/artist/2cD2ndst4zaoaoNldSXhMH) | [MVP](https://open.spotify.com/album/63Ode5ZKMSYId6hWzHfY5k) | 3:19 | 2024-02-20 | 2024-02-28 |
+| [My Bad](https://open.spotify.com/track/6MpFqbjzfJkXBMMNdA0tMq) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [My Bad](https://open.spotify.com/album/4DmMGF5Az48Fo4Y36RTLhI) | 3:10 | 2025-08-26 |  |
 | [My Basket](https://open.spotify.com/track/1Ke5YFxyRPVtOdRX6fIa99) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Basket](https://open.spotify.com/album/7rNNEUMEZ849EsnVUb1ewj) | 2:58 | 2025-05-14 | 2025-05-21 |
 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 | 2023-07-18 | 2023-07-26 |
 | [My Best Friend \- ft\. Jyodan & Chow Mane](https://open.spotify.com/track/1mYMHrcR5k5gZhgJsRtZuU) | [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chow Mane](https://open.spotify.com/artist/0aTB9Tpg1cEl7feT369vWm) | [My Best Friend \(ft\. Jyodan & Chow Mane\)](https://open.spotify.com/album/2dcI2DMFIZfvTMpDSWc8ZM) | 3:21 | 2023-08-15 | 2023-08-23 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,330 likes - 88 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,368 likes - 88 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Three Little Birds](https://open.spotify.com/track/4aFgZ6NIHeHH353EwJJao2) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 2:54 |
 | 2 | [What Was I Made For?](https://open.spotify.com/track/0xcsOkY97rcVpgRJdnzZuz) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [What Was I Made For?](https://open.spotify.com/album/17lSIF2CzLFHpinZ54uJx5) | 3:43 |
 | 3 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/33VeSJ6nlBpjOx2lvgYoMq) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/1qQPONAR8e3OosId6ibAqm) | 2:56 |
-| 4 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 |
+| 4 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 |
 | 5 | [Somewhere Only We Know](https://open.spotify.com/track/5phtxzFNGto6M7XW1IPdkC) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somewhere Only We Know](https://open.spotify.com/album/55i9rcNgPvdQdEx8AsgvVi) | 3:50 |
 | 6 | [Good Luck, Babe!](https://open.spotify.com/track/6l82pJZcXElfVIcPThIT1J) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Good Luck, Babe!](https://open.spotify.com/album/5E44ZxJe12ub98wiapLlVc) | 3:12 |
 | 7 | [Your Body Is a Wonderland](https://open.spotify.com/track/4sdU8epdytunCp5CcofJ9z) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:13 |
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 19 | [Diet Pepsi](https://open.spotify.com/track/3VuvWfMoSfj0mAaNI4xrFm) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Diet Pepsi](https://open.spotify.com/album/3pnNOpZHb8EXMktsu8cMB3) | 3:04 |
 | 20 | [Hey Jude](https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Hey Jude](https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3) | 2:57 |
 | 21 | [Learn to Fly](https://open.spotify.com/track/0lVszdihtq1tt9MFMesZ4a) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Ooh La La](https://open.spotify.com/album/24AKH2sDtBVCQJg1wkYarc) | 3:56 |
-| 22 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 |
+| 22 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 |
 | 23 | [Jolene](https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Jolene](https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3) | 2:51 |
 | 24 | [I'll Be There](https://open.spotify.com/track/3foBkSLypzR5fkDIngs930) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [I'll Be There](https://open.spotify.com/album/0pDpabFpvlmlaSAdUNaHvw) | 3:49 |
 | 25 | [The Lazy Song](https://open.spotify.com/track/2fOa6SUM7HAtMxZSzA38S8) | [Jillian Bosch](https://open.spotify.com/artist/6M4papcmK0X0HNyA3felGW) | [A Thousand Years](https://open.spotify.com/album/56X5chQwECoMG26y7HY7RQ) | 3:16 |
 | 26 | [Another Love](https://open.spotify.com/track/0NLQqEnyWUpsoSNuo7uqBE) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Another Love](https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3) | 4:17 |
 | 27 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 |
 | 28 | [Better Together](https://open.spotify.com/track/0dcBlvzx2OmV8MX3EszR8T) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wake Me Up](https://open.spotify.com/album/5ikYrwEoNOVbEOthJ5WUlo) | 3:33 |
-| 29 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 |
+| 29 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 |
 | 30 | [HOT TO GO!](https://open.spotify.com/track/5LTSLxgxBVrpxJ2Epkob1B) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [HOT TO GO!](https://open.spotify.com/album/5x2YRGeuBDkdfr9JlGV1oK) | 3:04 |
 | 31 | [New Light](https://open.spotify.com/track/5IZEYBZ30Ep0b11Csex8h7) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [New Light](https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu) | 3:26 |
 | 32 | [Blinding Lights](https://open.spotify.com/track/19Lst5G6RGXIh3RNbVxV2e) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Blinding Lights](https://open.spotify.com/album/5a6yKxHrRI5InCpRKozsqS) | 3:10 |

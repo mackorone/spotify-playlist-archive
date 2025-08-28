@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 143 songs - 13 hr 22 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 144 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,6 +150,7 @@ pretty - [cumulative](/playlists/cumulative/3UnZlY6Uz50iVWuMOUHrER.md) - [plain]
 | 140 | [You Are The Only One](https://open.spotify.com/track/6kjjiuFtJ6uNnonwY1AioP) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [You Are The Only One](https://open.spotify.com/album/7dztEddHwUAJTkFNtSTEGv) | 5:13 |
 | 141 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 142 | [Overdose Of Bass](https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Overdose Of Bass](https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN) | 3:14 |
-| 143 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 |
+| 143 | [Light In The Eyes](https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Light In The Eyes](https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t) | 5:52 |
+| 144 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 |
 
-Snapshot ID: `AAAAqxlOHMG+was1MrLz6K+9FNWMqyMb`
+Snapshot ID: `AAAArSjd7yD8HwNWaW2fmRXgMW7enBHN`

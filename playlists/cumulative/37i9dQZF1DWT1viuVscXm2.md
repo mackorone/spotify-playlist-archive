@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-391 songs - 22 hr 20 min
+392 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2021-12-24 | 2022-07-29 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 | 2022-10-29 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-11-23 | 2024-04-27 |
-| [Amapola](https://open.spotify.com/track/10tTzYrFPBTH16mtHrZO2S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89) | [Amapola](https://open.spotify.com/album/0F5GxN4I4TproEBK1NF7cH) | 3:01 | 2025-07-11 |  |
+| [Amapola](https://open.spotify.com/track/10tTzYrFPBTH16mtHrZO2S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89) | [Amapola](https://open.spotify.com/album/0F5GxN4I4TproEBK1NF7cH) | 3:01 | 2025-07-11 | 2025-08-28 |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2021-12-24 | 2025-08-23 |
 | [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \- En Vivo](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 | 2024-09-13 | 2024-10-12 |
 | [Amor De Historia](https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Desafiándolo Todo](https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK) | 3:04 | 2022-12-02 | 2023-01-18 |
@@ -396,6 +396,7 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-03-10 | 2024-04-19 |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2021-12-24 | 2025-08-23 |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2021-12-24 | 2022-01-12 |
+| [¿Quién La Juna?](https://open.spotify.com/track/32pIXQRyvds4zioVpahQiR) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [ROCIO QUIROZ / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/6JHteWtFIao4cb953bAMXs) | 2:29 | 2025-08-26 |  |
 | [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 | 2022-11-18 | 2023-07-15 |
 | [Ángel de Amor](https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Ángel de Amor](https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q) | 2:37 | 2024-04-12 | 2024-09-06 |
 | [Éramos los dos](https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Éramos los dos](https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m) | 3:41 | 2024-06-07 | 2024-09-28 |

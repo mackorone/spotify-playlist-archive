@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-613 songs - 1 day 11 hr 0 min
+614 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-06-27 |  |
 | [Honey](https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Honey](https://open.spotify.com/album/0IGnonvuiQjPSlGKYcYgmk) | 2:51 | 2022-03-25 | 2022-04-02 |
 | [Hoodie du Che](https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Hoodie du Che](https://open.spotify.com/album/52Y2nzPohbPOpbbMSW9q6n) | 3:40 | 2025-06-13 |  |
+| [Hot!](https://open.spotify.com/track/1YBCTYBfExd2FNr7GCuuoi) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX), [Amery](https://open.spotify.com/artist/1bwYRjgLFnaNYmSWoUyd7I) | [Hot!](https://open.spotify.com/album/176zDJOZ3av7xuBXD0urkR) | 2:06 | 2025-08-27 |  |
 | [Hush Baby](https://open.spotify.com/track/4Xh6kOAE7kLReNyQ6dhox2) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Hush Baby](https://open.spotify.com/album/4hrEkOenp0Psy2zFXRn7Zc) | 2:53 | 2025-05-23 |  |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-20 | 2025-03-22 |
 | [I Dunno](https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [I Dunno](https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs) | 2:46 | 2023-08-18 | 2023-10-14 |

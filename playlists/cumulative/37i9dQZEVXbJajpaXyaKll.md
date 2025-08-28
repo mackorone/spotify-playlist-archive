@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,658 songs - 3 day 15 hr 39 min
+1,659 songs - 3 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 | 2025-04-26 | 2025-06-04 |
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-04-08 | 2025-04-27 |
 | [Conmigo Te Gustó](https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE) | 1:12 | 2024-08-13 | 2024-11-13 |
-| [Conselho \- Ao Vivo](https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo, Vol\. 2](https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9) | 3:23 | 2024-07-09 |  |
+| [Conselho \- Ao Vivo](https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo, Vol\. 2](https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9) | 3:23 | 2024-07-09 | 2025-08-28 |
 | [contacto visual](https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [contacto visual](https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e) | 1:56 | 2024-10-08 | 2024-10-11 |
 | [CONTANDO PAKAS](https://open.spotify.com/track/6ERZucSLqoxoP4Y7oQ3Ja5) | [SSJ Exclusivas](https://open.spotify.com/artist/1c631ebyuIMfeVDqa0t4RF) | [CONTANDO PAKAS](https://open.spotify.com/album/0SomhTbZLrZaUDCgcAPQV0) | 2:07 | 2025-04-24 | 2025-04-26 |
 | [CONTENT EXPLICIT](https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [CONTENT EXPLICIT](https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X) | 2:35 | 2024-01-29 | 2024-02-03 |
@@ -531,6 +531,7 @@
 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 | 2024-12-10 | 2024-12-25 |
 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 | 2025-04-29 | 2025-05-05 |
 | [FANÁTICO](https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FANÁTICO](https://open.spotify.com/album/5S6TLyMgO3WBE3v8FISDOw) | 2:42 | 2024-10-15 | 2024-11-11 |
+| [FARMEO AURA](https://open.spotify.com/track/50qJEbes0OZbhDwsFT04Zg) | [SSJ Exclusivas](https://open.spotify.com/artist/1c631ebyuIMfeVDqa0t4RF) | [FARMEO AURA](https://open.spotify.com/album/6XDLGIFOy2ydWZ5sDnsPZz) | 2:39 | 2025-08-27 |  |
 | [Faro](https://open.spotify.com/track/6LOkPVPlHhBwuQkO2Pd6sh) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Tango Astral](https://open.spotify.com/album/2hB6vHZH9hkwMprvYsMFek) | 4:00 | 2025-02-14 | 2025-03-01 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2024-02-11 | 2024-02-23 |
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-02-11 | 2025-02-19 |

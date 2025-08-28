@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the best-loved works of Russian composer Sergei Prokofiev.",
-  "num_followers": 45057,
+  "num_followers": 45073,
   "original_name": "This Is Prokofiev",
   "owner": {
     "name": "Spotify",
@@ -727,30 +727,6 @@
     {
       "added_at": "2025-07-04 11:39:53",
       "album": {
-        "name": "Prokofiev: Romeo and Juliet - Highlights",
-        "url": "https://open.spotify.com/album/0ZLOKgPi4BPCYLyUODjXun"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Romeo and Juliet, Op. 64, Act II: No. 25, Dance with Mandolins",
-      "url": "https://open.spotify.com/track/4qsumzJMEWI73HhGxpjyps"
-    },
-    {
-      "added_at": "2025-07-04 11:39:53",
-      "album": {
         "name": "Prokofiev: Peter and the Wolf; Classical Symphony Op.25; March Op.99; Overture Op.34",
         "url": "https://open.spotify.com/album/2Z9WmnUhN1lmSbetmXVCYt"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 85706,
       "name": "Peter and the Wolf, Op. 67 (Narration Rev. Sting): On a Branch of a Big Tree Sat a Little Bird",
       "url": "https://open.spotify.com/track/17e1ieZ1lIoc3qFh0wcfyH"
+    },
+    {
+      "added_at": "2025-07-04 11:39:53",
+      "album": {
+        "name": "Prokofiev: Romeo and Juliet - Highlights",
+        "url": "https://open.spotify.com/album/0ZLOKgPi4BPCYLyUODjXun"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Romeo and Juliet, Op. 64, Act II: No. 25, Dance with Mandolins",
+      "url": "https://open.spotify.com/track/4qsumzJMEWI73HhGxpjyps"
     },
     {
       "added_at": "2025-07-04 11:39:53",

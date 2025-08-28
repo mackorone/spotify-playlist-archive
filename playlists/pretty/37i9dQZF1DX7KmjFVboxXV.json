@@ -1,6 +1,6 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 141302,
+  "num_followers": 141316,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "Compliments Please (Deluxe)",
-        "url": "https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/6T3QToHkDxXdIQGLjkgK9t"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 159288,
       "name": "L.O.V.E. Me",
       "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
+        "name": "Compliments Please (Deluxe)",
+        "url": "https://open.spotify.com/album/1HkSxzhUUhZBEhgLSYenex"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/6T3QToHkDxXdIQGLjkgK9t"
     }
   ],
   "unique_name": "Queer Love",

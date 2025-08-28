@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Min Taka
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,476 likes - 102 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,477 likes - 102 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 23 | [Реклама](https://open.spotify.com/track/5hA90cnJfM4FRgmrQKyICO) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [ПРИЧИННО\-НАСЛІДКОВИЙ ЗВ’ЯЗОК](https://open.spotify.com/album/1iCZ28ON3XO233X70l8hbv) | 2:18 |
 | 24 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 |
 | 25 | [Goodbye](https://open.spotify.com/track/1ZhKA4DSN58LzHmRFScj9Q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Goodbye](https://open.spotify.com/album/6Zc8CLJjA39qb1ghh6nspf) | 3:15 |
-| 26 | [Ready](https://open.spotify.com/track/2KNCSn2qXDWhgV3eZOAMHV) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Ready](https://open.spotify.com/album/0gSUaL4mB45bi0IZoM2fvw) | 2:29 |
+| 26 | [Ready](https://open.spotify.com/track/2KNCSn2qXDWhgV3eZOAMHV) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Ready](https://open.spotify.com/album/0gSUaL4mB45bi0IZoM2fvw) | 2:30 |
 | 27 | [人去樓空](https://open.spotify.com/track/0im069CBRQOVVkelqRY9lv) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [人去樓空](https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk) | 4:34 |
 | 28 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
 | 29 | [Stay \(feat\. RINI\)](https://open.spotify.com/track/6iUU5exou5qoBMkVkEcqdb) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Stay \(feat\. RINI\)](https://open.spotify.com/album/437zPnx0e9z4rw5SA6GvBg) | 3:38 |

@@ -3129,6 +3129,24 @@
     },
     {
       "album": {
+        "name": "K\u0131rlar",
+        "url": "https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161854,
+      "name": "Hi\u00e7 De \u00d6yle Olmad\u0131",
+      "url": "https://open.spotify.com/track/5A6w9QZiCTTyS799dfHDeF"
+    },
+    {
+      "album": {
         "name": "HODR\u0130 MEYDAN",
         "url": "https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ"
       },
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 194258,
       "name": "Kand\u0131rma",
       "url": "https://open.spotify.com/track/1I7HW3rzJtaQaPVHNFbbsY"

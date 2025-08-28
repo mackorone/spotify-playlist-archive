@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 91608,
+  "num_followers": 91625,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAAAjlztxRO+JZM6+aGEPIEkL",
+  "snapshot_id": "aKz5AAAAAAA6M40XkJaKUgcJfPqCZ8Gi",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Helder (inclusief Live Bonus Tracks)",
+        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Wat Zou Je Doen? - Live From The Nighttrain, Netherlands / 1998",
+      "url": "https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 223266,
       "name": "Zoutelande (feat. Geike)",
       "url": "https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Helder (inclusief Live Bonus Tracks)",
-        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Wat Zou Je Doen? - Live From The Nighttrain, Netherlands / 1998",
-      "url": "https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Omarm",
-      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Helder (inclusief Live Bonus Tracks)",
         "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 238893,
       "name": "Liefs Uit Londen",
       "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Omarm",
+      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitterzoet",
         "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 227840,
       "name": "Bitterzoet",
       "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/783dXZcVk8s888KgelZpWi"
     },
     {
       "added_at": null,

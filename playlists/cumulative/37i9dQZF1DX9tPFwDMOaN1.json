@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "BLUE!",
+        "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "BLUE!",
+      "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
+    },
+    {
+      "album": {
         "name": "2ND FULL ALBUM 'REBOOT'",
         "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
       },
@@ -9198,7 +9216,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 173000,
       "name": "REPLY",
       "url": "https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE"

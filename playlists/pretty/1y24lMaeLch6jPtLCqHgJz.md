@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,022 likes - 120 songs - 6 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,017 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 17 | [The Reason](https://open.spotify.com/track/2nLLSXmFdURDn6N9IzRkn8) | [TBR](https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv), [Midtown Jack](https://open.spotify.com/artist/0ZzMs5t628O1gXoh4zIuTS), [Casino Stereo](https://open.spotify.com/artist/2i2CzDQp1hwba2JbTTwic7) | [The Reason](https://open.spotify.com/album/04vATOU4l31nf4DheMpiNc) | 3:08 |
 | 18 | [Heaven](https://open.spotify.com/track/10NwNlbw9tcRNHwqWwFMLA) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Monk Mafia](https://open.spotify.com/artist/4oLiwEMNDQrI7niwHY9XYr), [Nia Mousai](https://open.spotify.com/artist/3GDG9ILV7AcsN9IuyIbU9W) | [Heaven](https://open.spotify.com/album/4rWwM5Oi7A8jBT7pOAZX3L) | 2:08 |
 | 19 | [Music Is What Feelings Sound Like](https://open.spotify.com/track/6AkI3u5KorS976bSe7ZcNx) | [Crazy Auntie Ann](https://open.spotify.com/artist/110tAQW1Ue6MDwM4s6uJ54), [STARK.](https://open.spotify.com/artist/0xlywFrVYA2FktP21vfpTn) | [Music Is What Feelings Sound Like](https://open.spotify.com/album/058ega0ESYqj76O2Pvu6LT) | 1:53 |
-| 20 | [Chained](https://open.spotify.com/track/4ceruJjAtVIvS2JVaimAta) | [Odssey](https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS), [Soundwars](https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw) | [Chained \(The Remixes\) \[Soundwars Remix\]](https://open.spotify.com/album/2k2CKRwmV2CKLtx4HUsloJ) | 3:13 |
+| 20 | [Chained \- Soundwars Remix](https://open.spotify.com/track/4ceruJjAtVIvS2JVaimAta) | [Odssey](https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS), [Soundwars](https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw) | [Chained \(The Remixes\) \[Soundwars Remix\]](https://open.spotify.com/album/2k2CKRwmV2CKLtx4HUsloJ) | 3:13 |
 | 21 | [Rising From The Ashes](https://open.spotify.com/track/2G0c7Z3il9Evj9BrwJ9sT0) | [DJ POTXO](https://open.spotify.com/artist/6EiXpidsKYPFYYn1oDklTr) | [Rising From The Ashes](https://open.spotify.com/album/4XhoWJYRX4dENHNidXIYuH) | 2:11 |
 | 22 | [All Around Me \- Majed Remix](https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg) | [Majed](https://open.spotify.com/artist/1qUxaI5qlJjHsBBCohdkMh), [Luna Orbit](https://open.spotify.com/artist/78VO39HCLuuqEBGzPO6xts) | [All Around Me \(Majed Remix\)](https://open.spotify.com/album/1K4bnbCGdls1tHDR4oLWSC) | 2:59 |
 | 23 | [Here With Me](https://open.spotify.com/track/0CP11Igyj4idVKkE01yQ6u) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [Here With Me](https://open.spotify.com/album/1dHzLk1IZBJYpinTgCrzN8) | 2:58 |

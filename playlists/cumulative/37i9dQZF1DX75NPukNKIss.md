@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Chris Brown
 
-139 songs - 6 hr 25 min
+140 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dirty Diana](https://open.spotify.com/track/5okSTJQJ6qWVG0WsvNGwZZ) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:36 | 2025-01-24 | 2025-02-22 |
 | [Don't Care No More](https://open.spotify.com/track/7sb5D9ayrpNqkrF7r9S5pD) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Damaged Thoughts](https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu) | 2:00 | 2025-07-25 |  |
 | [Don't Walk Away \(feat\. Carey Washington\)](https://open.spotify.com/track/26oKe28Gqyp9uhRhWNAvqm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:22 | 2024-12-26 | 2025-01-11 |
-| [dui II](https://open.spotify.com/track/5F0HJmKGP9wf4XysHtFPT3) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [dui II](https://open.spotify.com/album/5Ub9cqVhkUrFcww9oBZ6XR) | 1:51 | 2025-08-08 |  |
+| [dui II](https://open.spotify.com/track/5F0HJmKGP9wf4XysHtFPT3) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [dui II](https://open.spotify.com/album/5Ub9cqVhkUrFcww9oBZ6XR) | 1:51 | 2025-08-08 | 2025-08-28 |
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2025-02-28 |  |
 | [EGO](https://open.spotify.com/track/1JTikyvsDYKvUFndgJASFW) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 1:55 | 2025-03-28 | 2025-05-10 |
 | [EST or PST](https://open.spotify.com/track/3KqQMOSEFNfPZ3FAYLld3I) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [EST or PST](https://open.spotify.com/album/7faGHQHOhuK5nhJVR6CavI) | 3:05 | 2024-10-25 |  |
@@ -65,6 +65,7 @@
 | [Got You](https://open.spotify.com/track/237yt61ZnMPZBeLylJ43lI) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Set The Tone](https://open.spotify.com/album/1R2kDXi7J13y9NMUGYiQVm) | 3:06 | 2025-05-09 | 2025-06-07 |
 | [Grind 4](https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Grind 4](https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw) | 2:27 | 2025-08-08 |  |
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-10-25 |  |
+| [GYN](https://open.spotify.com/track/11uFNK7jwFcuss2rUGYTgu) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GYN](https://open.spotify.com/album/4WbIcsTfdM8kVA0lRkY9vK) | 2:27 | 2025-08-27 |  |
 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 | 2024-10-25 |  |
 | [He Kant](https://open.spotify.com/track/4DjaEteBLN6f13XuF8f4CO) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [He Kant](https://open.spotify.com/album/53eBLt3qAQcnf2Hg5k4Uhq) | 2:37 | 2025-07-25 |  |
 | [Heavenly pt3](https://open.spotify.com/track/7wLWyvTZbhkoDHj7xX4d6C) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Heavenly pt3](https://open.spotify.com/album/2ZVSpquFwdo2Hz4et5ULEn) | 2:53 | 2025-05-23 | 2025-06-07 |

@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 8296,
+  "num_followers": 8305,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "Dear love",
+      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
         "name": "Plant",
         "url": "https://open.spotify.com/album/5KftzhKELNjc4oxGiGQvRf"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 288933,
       "name": "Your River In Me",
       "url": "https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 282453,
-      "name": "Dear love",
-      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
         "name": "Flowering",
         "url": "https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 257862,
-      "name": "\uc785\ub9de\ucda4",
-      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -383,6 +367,22 @@
       "duration_ms": 250307,
       "name": "Small Talk About Everything",
       "url": "https://open.spotify.com/track/68lrtGou1rovK9aYHlr660"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "\uc785\ub9de\ucda4",
+      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
-        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "\uc624\ub298\ub3c4 \uad7f\ub098\uc787 Good Night",
-      "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 254693,
       "name": "Just the two of us",
       "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "\uc624\ub298\ub3c4 \uad7f\ub098\uc787 Good Night",
+      "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
-      },
-      "artists": [
-        {
-          "name": "n@di",
-          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
-        },
-        {
-          "name": "Jang Jae Sung",
-          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
-        }
-      ],
-      "duration_ms": 200609,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
         "name": "Demo songs",
         "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
       },
@@ -547,22 +527,6 @@
       "duration_ms": 246874,
       "name": "dear heart",
       "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
-        "name": "To.",
-        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "dear my loves",
-      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -583,18 +547,38 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "n@di",
+          "url": "https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI"
+        },
+        {
+          "name": "Jang Jae Sung",
+          "url": "https://open.spotify.com/artist/1zz7NH3kiTsLinbIof7qIN"
         }
       ],
-      "duration_ms": 224066,
-      "name": "They say, that is the love",
-      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
+      "duration_ms": 200609,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
+        "name": "To.",
+        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "dear my loves",
+      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -615,18 +599,18 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Leaf",
-        "url": "https://open.spotify.com/album/36vf6NiaNlPAHiSseA1Ven"
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
       },
       "artists": [
         {
-          "name": "JIYE",
-          "url": "https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 130106,
-      "name": "Leaf",
-      "url": "https://open.spotify.com/track/1mExGMmQduYmTwtPPvJcvL"
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -667,6 +651,22 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239"
+      },
+      "artists": [
+        {
+          "name": "615",
+          "url": "https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp"
+        }
+      ],
+      "duration_ms": 208238,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
         "name": "Adventure",
         "url": "https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239"
+        "name": "Leaf",
+        "url": "https://open.spotify.com/album/36vf6NiaNlPAHiSseA1Ven"
       },
       "artists": [
         {
-          "name": "615",
-          "url": "https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp"
+          "name": "JIYE",
+          "url": "https://open.spotify.com/artist/4JlouH5mKVum9f0eaQuUzC"
         }
       ],
-      "duration_ms": 208238,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7"
+      "duration_ms": 130106,
+      "name": "Leaf",
+      "url": "https://open.spotify.com/track/1mExGMmQduYmTwtPPvJcvL"
     },
     {
       "added_at": "2025-08-11 06:29:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
-    },
-    {
-      "added_at": "2025-08-11 06:29:14",
-      "album": {
         "name": "youth",
         "url": "https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv"
       },
@@ -811,18 +795,38 @@
     {
       "added_at": "2025-08-11 06:29:14",
       "album": {
-        "name": "Always Here",
-        "url": "https://open.spotify.com/album/5VxZmHbOyCDWCqNu1we5li"
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
       "artists": [
         {
-          "name": "HYUN JI",
-          "url": "https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 192142,
-      "name": "Always Here",
-      "url": "https://open.spotify.com/track/1bpA1qiYGJC4APWStEK15Z"
+      "duration_ms": 250453,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
+    },
+    {
+      "added_at": "2025-08-11 06:29:14",
+      "album": {
+        "name": "A long goodbye (with jangheewon)",
+        "url": "https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "A long goodbye (with jangheewon)",
+      "url": "https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,042 likes - 110 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,024 likes - 110 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 14 | [Härifrån](https://open.spotify.com/track/3zcCJrFAZu81WXky4EFDJW) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [Härifrån](https://open.spotify.com/album/1Iycx3DzUSnSey8sD8Dz3U) | 2:03 |
 | 15 | [Sweet Propane](https://open.spotify.com/track/4qltoD1gaii37oKvSxEen8) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Sweet Propane](https://open.spotify.com/album/44v4ygwjuv7BdyPgHueDyH) | 2:38 |
 | 16 | [Heard Of Me](https://open.spotify.com/track/0wnRhePOuKlR2rDFjA7OTj) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 2:34 |
-| 17 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
+| 17 | [FANTASI](https://open.spotify.com/track/57ubvtr61lYALkTBYICWOX) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM) | [FANTASI](https://open.spotify.com/album/4sYNGgK3AyWoPWJO3PvZQn) | 2:44 |
 | 18 | [LATE LATE NIGHT](https://open.spotify.com/track/5IS8gwO95dB9TidVpfHyuh) | [GG](https://open.spotify.com/artist/5NxuYq2W1QB6qpPxNYVumI), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [LATE LATE NIGHT](https://open.spotify.com/album/2586fTVblhF6Vlh58Fjmm9) | 1:18 |
 | 19 | [pippi](https://open.spotify.com/track/6hLpSP9SCZW9KmripG2oEN) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [pippi](https://open.spotify.com/album/2LhAKI5zXiRdKmLkUpegxk) | 2:23 |
 | 20 | [California Love](https://open.spotify.com/track/7EAtkR8y8sT4jEx3SOsznv) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv) | [California Love](https://open.spotify.com/album/0wQm88iHgpEIZ3pNChByEf) | 2:19 |

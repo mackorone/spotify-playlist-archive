@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Blaqbonez, ODUMODUBLVCK, Taves and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,503 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,589 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 41 | [Do You Believe in Love](https://open.spotify.com/track/4MafJh4miRdN9L1V7kvJtv) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Do You Believe in Love](https://open.spotify.com/album/2Eir0sQGTk9nO7gKx9UAIA) | 2:30 |
 | 42 | [Underskirt](https://open.spotify.com/track/4pk7ZoE2SWpc2DVEBWzgap) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Underskirt](https://open.spotify.com/album/4y3T4XUUHd35VmAucNi1Bp) | 2:28 |
 | 43 | [Porom Po](https://open.spotify.com/track/2PloRGdzL1nJlxYZAfVRwL) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Porom Po](https://open.spotify.com/album/2oZOfzUL66QT9eKUYZPlrv) | 2:51 |
-| 44 | [Money And Fame](https://open.spotify.com/track/6324uyWNZBnpjVMtQOwQSg) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Adi Virgo](https://open.spotify.com/artist/4sKW0d0NidfGKobzT8XG8Y) | [Money And Fame](https://open.spotify.com/album/1lsfnj5ZRWC08Q1Haf3xW6) | 4:06 |
+| 44 | [Money And Fame](https://open.spotify.com/track/6324uyWNZBnpjVMtQOwQSg) | [Adi Virgo](https://open.spotify.com/artist/4sKW0d0NidfGKobzT8XG8Y) | [Money And Fame](https://open.spotify.com/album/1lsfnj5ZRWC08Q1Haf3xW6) | 4:06 |
 | 45 | [Decisions](https://open.spotify.com/track/1ILXD41qbDGbjhINQtf7CG) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Decisions](https://open.spotify.com/album/0iNbsrtEsl8K0w3VwhLevu) | 2:18 |
 | 46 | [Amin \(feat\. Superwozzy\)](https://open.spotify.com/track/5SHTqIsqOOtq4Cwaa7edOw) | [Mykels](https://open.spotify.com/artist/0Ljf8f8RHC4HLWhS0QrpCj), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Amin \(feat\. Superwozzy\)](https://open.spotify.com/album/5SfK2NmlsSIio7VwoOAW2Z) | 2:48 |
 | 47 | [Oulala \- II](https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Oulala \(II\)](https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi) | 2:25 |

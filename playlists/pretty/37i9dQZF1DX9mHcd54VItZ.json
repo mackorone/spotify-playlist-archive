@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: AC/ES",
-  "num_followers": 24397,
+  "num_followers": 24406,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Mint",
-        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
-      },
-      "artists": [
-        {
-          "name": "Drumfish",
-          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Mint",
-      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
         "name": "Kenia",
         "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 225483,
       "name": "Kenia",
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6"
+      },
+      "artists": [
+        {
+          "name": "Drumfish",
+          "url": "https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s"
+        }
+      ],
+      "duration_ms": 257158,
+      "name": "Mint",
+      "url": "https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
-      },
-      "artists": [
-        {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
-        }
-      ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
         "name": "Sonskyn Vrou",
         "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 266868,
       "name": "Sonskyn Vrou",
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
     },
     {
       "added_at": "2025-08-07 22:00:52",

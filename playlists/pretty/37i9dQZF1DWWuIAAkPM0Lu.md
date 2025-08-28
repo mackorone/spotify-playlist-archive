@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra sombr, Bette, Florence + The Machine og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,533 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,531 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 100 | [falmer for evigt](https://open.spotify.com/track/45jOaBroo99We3Xu0t7j4c) | [johs](https://open.spotify.com/artist/5hSbt0gcm2kO3J7bOmSOvQ), [Tilde](https://open.spotify.com/artist/2i4S299DZzg4BW7rgdaGca) | [falmer for evigt](https://open.spotify.com/album/1NeKaQQIybMdL48d6t1GEp) | 2:47 |
 | 101 | [PIECES OF YOU](https://open.spotify.com/track/24lj8Q9JDmmU23PtBBmk57) | [SAASAA](https://open.spotify.com/artist/50a31xuoDBcJct9kuuj4J1) | [PIECES OF YOU](https://open.spotify.com/album/0d81fH7jbSvCqtGEAQ5qzr) | 6:07 |
 | 102 | [On My Way](https://open.spotify.com/track/5G27L5YQi88GnP2QoxXrQW) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r), [Nelly Moar](https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk) | [On My Way](https://open.spotify.com/album/73IIzCngLxgVhgGelOYbML) | 2:43 |
-| 103 | [BFFNMWH](https://open.spotify.com/track/2WPFN8RBTgFvFLk7SMuByv) | [Anders Matthesen](https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Ternet Ninja 3 \(Soundtrack\)](https://open.spotify.com/album/4LFXQ3jRMCw0lLYhqvZT3W) | 2:21 |
+| 103 | [BFFENMWH](https://open.spotify.com/track/2WPFN8RBTgFvFLk7SMuByv) | [Anders Matthesen](https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Ternet Ninja 3 \(Soundtrack\)](https://open.spotify.com/album/4LFXQ3jRMCw0lLYhqvZT3W) | 2:21 |
 | 104 | [Ok](https://open.spotify.com/track/72vi3juBT0iaK0fwePm3ky) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Ok](https://open.spotify.com/album/1l3exYRBannWFRLP2D3CM9) | 2:31 |
 | 105 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 

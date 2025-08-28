@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Yoki
 
-369 songs - 20 hr 17 min
+373 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 | 2025-01-17 |
 | [Babalik Ba](https://open.spotify.com/track/2PUnWvAzUpIpIgQtOCRavW) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Babalik Ba](https://open.spotify.com/album/2tbiWn0aGNRWJm5aYhz6DA) | 2:52 | 2023-04-06 | 2023-09-07 |
 | [Baby Girl](https://open.spotify.com/track/7IA3kgXFupu6eke77kd93n) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Baby Girl](https://open.spotify.com/album/3P0dIqUcznPkh3KXtIZioC) | 2:57 | 2025-05-30 |  |
+| [Baby U R](https://open.spotify.com/track/4pIupUwcZDY0jVIi6P6dBj) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Baby U R](https://open.spotify.com/album/1qdrTyxenZSu3YFvcCCUcL) | 2:30 | 2025-08-27 |  |
 | [baliktanaw](https://open.spotify.com/track/47zgYdCb0JjCMkdWqiGmlk) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF) | [baliktanaw](https://open.spotify.com/album/7DdAQB0WEsUI2C8eDHYvnh) | 2:31 | 2024-06-14 | 2024-08-17 |
 | [bb girl](https://open.spotify.com/track/4JkPVqYsg83oHC4VhSW37n) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [bb girl](https://open.spotify.com/album/0WGdprszHqeEuOIu8F6t5D) | 3:13 | 2023-02-23 | 2023-09-07 |
 | [BE KIND](https://open.spotify.com/track/49DQxYQV8e7HFzDLXJGTyf) | [Adjeng](https://open.spotify.com/artist/6YceEbx95WDXZNT8fKpKyi) | [BE KIND](https://open.spotify.com/album/0yaYlzdd5cRPPvX7xgajxm) | 3:24 | 2022-10-12 | 2023-07-29 |
@@ -140,7 +141,7 @@
 | [honest \(freestyle\)](https://open.spotify.com/track/5iVvOH23R2kOEHouvIofuY) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [honest \(freestyle\)](https://open.spotify.com/album/5g2J5Ds6XpGEDPyGemCav6) | 2:58 | 2025-05-02 |  |
 | [Hotel Room](https://open.spotify.com/track/1JW5BE9E5cy9enRzyX9h1J) | [Markus](https://open.spotify.com/artist/2TX325jFbZFpe2OGZNo4Lx), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew), [Moophs](https://open.spotify.com/artist/3HaL9ONkedXrAybTHYA3w1) | [Hotel Room](https://open.spotify.com/album/0QxYtEiFoPvLnhI4JZ6Odm) | 2:38 | 2022-10-12 | 2023-07-29 |
 | [huh?](https://open.spotify.com/track/1YBMojLRuMIvqFTbOsCn0k) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [huh?](https://open.spotify.com/album/2qGTVFEbXrgdTJ7TBEvlTP) | 2:34 | 2024-08-30 | 2025-05-28 |
-| [Hvndg](https://open.spotify.com/track/3GfVuFbLq4J4gcIuRhFYEX) | [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [Hvndg](https://open.spotify.com/album/4PFg4CMcodcsNhjpgIlE8I) | 1:41 | 2025-08-08 |  |
+| [Hvndg](https://open.spotify.com/track/3GfVuFbLq4J4gcIuRhFYEX) | [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [Hvndg](https://open.spotify.com/album/4PFg4CMcodcsNhjpgIlE8I) | 1:41 | 2025-08-08 | 2025-08-28 |
 | [I KNOW](https://open.spotify.com/track/0w1q4OHgs8DDTkxdtu8DEM) | [Mikee Misalucha](https://open.spotify.com/artist/6pijxhedsL0Rb5y542cjix), [Hamin](https://open.spotify.com/artist/3NXegtbD27Rqa1GLte8XaC) | [I KNOW](https://open.spotify.com/album/0ddEA0jRvZ6loXGKlf5tjW) | 3:18 | 2022-10-12 | 2022-12-15 |
 | [I NEED YAH](https://open.spotify.com/track/686gseRGIq0VHF3O22EmWU) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [YNGVIE](https://open.spotify.com/artist/2CMdtMF1AW7dbCamPCkwBK) | [I NEED YAH](https://open.spotify.com/album/4gNPs4qrKEZy26lOrhfoG5) | 2:37 | 2024-06-21 | 2024-10-12 |
 | [I Want More](https://open.spotify.com/track/3CY53c9o3IXVxiycPCGI7V) | [Jenn Clemena](https://open.spotify.com/artist/54mfqclCKJS9aFM7i48SjZ) | [I Want More](https://open.spotify.com/album/6uMceDuLr77hlTowaHPD6x) | 3:03 | 2022-10-12 | 2023-07-29 |
@@ -239,6 +240,7 @@
 | [nasarO](https://open.spotify.com/track/3CjH71FatCQXLASp5VDoOD) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7), [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ), [Jake sue](https://open.spotify.com/artist/4pHJMjb8iXM90sJDbOaxf2) | [nasarO](https://open.spotify.com/album/5ReQYUhQqaaLdRczbbcHg5) | 3:06 | 2024-11-29 |  |
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 | 2023-07-29 |
 | [Need Time](https://open.spotify.com/track/6Mam1q7aFmaW3rBTzuYNra) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Need Time](https://open.spotify.com/album/0pCQzbR27DNnaFhbEZNjUv) | 3:03 | 2024-02-06 | 2024-06-22 |
+| [Never Ever](https://open.spotify.com/track/4acuAxO3HX8gnG0cPoHdY3) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Shanice](https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2) | [Never Ever](https://open.spotify.com/album/4Kgp0O7onWFiBSFfw3Fadq) | 4:07 | 2025-08-27 |  |
 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 | 2023-09-06 | 2024-04-13 |
 | [No Strings](https://open.spotify.com/track/1xo8TBulHlTaP1YJIXFu5z) | [Thome](https://open.spotify.com/artist/0TlpoVBa03V0XNXBq7Gjrh) | [No Strings](https://open.spotify.com/album/6d6S7bXx8PvVzB7q9wblpk) | 2:48 | 2024-11-08 |  |
 | [now i'm with you](https://open.spotify.com/track/41uXETyxp0Tc3UB7ErfIrD) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [now i'm with you](https://open.spotify.com/album/4UKHmQfAKiSOuorqhctk58) | 3:21 | 2024-10-18 |  |
@@ -314,6 +316,7 @@
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 | 2024-03-09 |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
 | [Selfish](https://open.spotify.com/track/6ZTXLtZ9EBhji6rcowVW8s) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Selfish](https://open.spotify.com/album/4Mud55B7qxmzQecqObcG6e) | 2:38 | 2025-07-21 |  |
+| [Serendipity](https://open.spotify.com/track/2llVd6DO8eRkeeJoQHWNVY) | [KXLE](https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg) | [Serendipity](https://open.spotify.com/album/2JAm6w34GQ88LbPgXgxmGA) | 2:33 | 2025-08-27 |  |
 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 | 2024-02-09 | 2025-01-17 |
 | [showbiz lang, sorry babe...](https://open.spotify.com/track/7ybvHpVseTzAMUKLczNlLL) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:55 | 2024-08-23 | 2025-03-22 |
 | [Sigurado](https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5) | [Sigurado](https://open.spotify.com/album/28TgQT58FujmQoZ796M4Ma) | 3:32 | 2023-08-16 | 2024-02-10 |
@@ -358,6 +361,7 @@
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 | 2025-03-22 |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-12 | 2023-07-29 |
 | [U & I](https://open.spotify.com/track/0fCu02teDBZyrhIygrStO6) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [U & I](https://open.spotify.com/album/5FGn83gWhrhfPlES1nbcuC) | 3:03 | 2025-06-06 |  |
+| [U Were Never Mine](https://open.spotify.com/track/5NOKWEXX4ZjCJuici3jkzy) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [U Were Never Mine](https://open.spotify.com/album/3BWq5rbJpBJo57U0f73lYj) | 3:27 | 2025-08-27 |  |
 | [Ughwit](https://open.spotify.com/track/2IWxHLlhYKtt1Dyabi8PTX) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao), [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [Ughwit](https://open.spotify.com/album/4UmzyThOD0R6vWJBgBrBQw) | 2:50 | 2024-10-11 | 2025-05-28 |
 | [ulan](https://open.spotify.com/track/444koElXksa3AgyCImMhkt) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [ulan](https://open.spotify.com/album/30Zf1vIhmHRfKSsHnsbGef) | 1:54 | 2024-07-26 | 2025-03-22 |
 | [VANISH MODE](https://open.spotify.com/track/3Xm0K8nqzxFesknHEvdprE) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP) | [VANISH MODE](https://open.spotify.com/album/11NIbuuOeLf8QbhwIYphvW) | 3:15 | 2023-12-01 | 2025-01-17 |

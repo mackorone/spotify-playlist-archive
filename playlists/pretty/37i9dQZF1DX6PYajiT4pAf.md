@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Belén Aguilera, Feid, Sega Bodega con Judeline, María Becerra y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,909 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,918 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 51 | [Brillando](https://open.spotify.com/track/0a2fzmNxcS0uZ1FXy3dnKC) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Brillando](https://open.spotify.com/album/13dHvpB6WW3PZby3cKiqQc) | 2:29 |
 | 52 | [Levante](https://open.spotify.com/track/6brRXw5udqRhX8xZVbqawv) | [Hoonine](https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp) | [Levante](https://open.spotify.com/album/6OQGofhnQKoiRKxNd9gzmF) | 3:42 |
 | 53 | [La manzana](https://open.spotify.com/track/2T5wugsCXC7MLzcYlikj7q) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [La manzana](https://open.spotify.com/album/6SxNuYtWMAHckzXGFnLjU9) | 3:24 |
-| 54 | [Margarita](https://open.spotify.com/track/4btA7rrBftMBNSGRAtouZV) | [Gynebra](https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih) | [Margarita](https://open.spotify.com/album/0ovJhQ29G0ggRz0CzXeuco) | 2:12 |
+| 54 | [Margarita](https://open.spotify.com/track/1mNVS6kLXodAPCZ0VXfMrV) | [Gynebra](https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih) | [Margarita](https://open.spotify.com/album/1SfYf4hp2c2F3ohEJgXHBO) | 2:12 |
 | 55 | [El Amor No Duele](https://open.spotify.com/track/2AcmQa5xxNkHY1UC3tSbAH) | [La Muñeka](https://open.spotify.com/artist/5fT9aj7k5s4ms2wKdyHz9h) | [El Amor No Duele](https://open.spotify.com/album/4lFKjAjiUg8UyIJNJJuNqj) | 1:29 |
 
-Snapshot ID: `AAAAAEZNosaoEHk20uC5IiORGA6cLH4H`
+Snapshot ID: `AAAAAAbPEK7HYp25CskX9d1Kbr4kLzT1`

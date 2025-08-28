@@ -4,14 +4,14 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 34 min
+62 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Till the Morning Comes](https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 | 2025-02-25 |  |
 | ['Till the Morning Comes](https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:44 | 2025-02-26 | 2025-05-21 |
 | [25th of Last December](https://open.spotify.com/track/1RjYDpM9xgBu78817nruxS) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:33 | 2025-03-30 | 2025-03-31 |
-| [After You](https://open.spotify.com/track/4h6zTXHpPwq11aqE6IpyRw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 3:53 | 2025-02-25 |  |
+| [After You](https://open.spotify.com/track/4h6zTXHpPwq11aqE6IpyRw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 3:53 | 2025-02-25 | 2025-08-28 |
 | [And so It Goes](https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:36 | 2025-02-25 |  |
 | [Angelitos Negros](https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:56 | 2025-02-26 | 2025-04-18 |
 | [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:50 | 2025-02-25 |  |
@@ -21,6 +21,7 @@
 | [Compared to What](https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:16 | 2025-02-25 |  |
 | [Conversation Love](https://open.spotify.com/track/162efqDKV58JMKQgKVsGE2) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 3:42 | 2025-02-26 | 2025-06-26 |
 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 | 2025-02-25 |  |
+| [Eternally \- Radio Edit](https://open.spotify.com/track/3Mt2a70SIpdwJd7o2XESh8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Eternally \(Radio Edit\)](https://open.spotify.com/album/6jXxDQaSUTuRtNIZmFKnwE) | 3:07 | 2025-08-28 |  |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2025-02-25 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2025-02-25 |  |
 | [For All We Know](https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:40 | 2025-02-25 |  |

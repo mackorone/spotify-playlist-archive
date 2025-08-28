@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 146107,
       "name": "All Hands on Deck",
       "url": "https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 193146,
       "name": "David Lyons",
       "url": "https://open.spotify.com/track/5WYvKxhWLl1z78Jw6WgYTz"
@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87387,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn"
+    },
+    {
+      "album": {
         "name": "Here are the first 3 songs from my mixtape, Rocket",
         "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 87387,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6dtx4FBWXE4dP9XZ22MVVm"

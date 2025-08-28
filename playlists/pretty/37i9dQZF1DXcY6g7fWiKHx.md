@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,996 likes - 291 songs - 1 day 0 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,005 likes - 291 songs - 1 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 177 | [You Always Hurt the One You Love](https://open.spotify.com/track/2HPAOcHVqZX3OsrgybwU0N) | [Laura Michele](https://open.spotify.com/artist/1IkA0eKvX4Cj58SmmrB7iE) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 5:35 |
 | 178 | [Fantango](https://open.spotify.com/track/7qo1SVGPYmkt5eYJSNaqEP) | [XWaves](https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ) | [Vaporwave for China](https://open.spotify.com/album/06kDgbR2zJasMj6kuRyNRS) | 3:40 |
 | 179 | [Sweetest Taboo \(Soca\)](https://open.spotify.com/track/2tb1nqo8CeLDXoQADJpTmm) | [Rebles](https://open.spotify.com/artist/3sYvl5zrwAbMVVlog6PO6A) | [Sweetest Taboo \(Soca\)](https://open.spotify.com/album/6UKodITGM5epbA6rUWPU0r) | 6:45 |
-| 180 | [Do I Do \- Short Version](https://open.spotify.com/track/7hddYeuOSoFJVDtOqU1FHv) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/2kmtLFGAt1wdfxybQ96Jp8) | 4:04 |
+| 180 | [Do I Do \- JAGO Remix](https://open.spotify.com/track/7hddYeuOSoFJVDtOqU1FHv) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2), [JAGO](https://open.spotify.com/artist/75jrbO9SizBRcSb8vq3GtH) | [Do I Do](https://open.spotify.com/album/2kmtLFGAt1wdfxybQ96Jp8) | 4:04 |
 | 181 | [I Go \- Maurice Fulton Remix](https://open.spotify.com/track/6KHUlk27fi81YVQJnro3aD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:18 |
 | 182 | [Dancin In The D](https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:10 |
 | 183 | [Moon Child](https://open.spotify.com/track/3qFtNe3uzsxjzEdIJEybMh) | [Stennes](https://open.spotify.com/artist/5mFJJHsEQcMcpxqJtG4Vhh) | [Eyes Didn't Let Me Open](https://open.spotify.com/album/4Fz2aZBGBFnmqPULAwjuP2) | 4:49 |

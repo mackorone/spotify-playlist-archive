@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Superweak, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Louis Ottley, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -5301,6 +5301,28 @@
     },
     {
       "album": {
+        "name": "dear abby",
+        "url": "https://open.spotify.com/album/3Ih6UAZbbDkHSw7A0m4MQC"
+      },
+      "artists": [
+        {
+          "name": "Acidfrank",
+          "url": "https://open.spotify.com/artist/5oCxNqSSf0o5hBSiaOfm3V"
+        },
+        {
+          "name": "Dasco",
+          "url": "https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174339,
+      "name": "dear abby",
+      "url": "https://open.spotify.com/track/1oFvzpFDJOiHjtkcJVkQ3K"
+    },
+    {
+      "album": {
         "name": "Dear Anxiety",
         "url": "https://open.spotify.com/album/3Pdi13khLgBGYlHt7Udd3f"
       },
@@ -9931,6 +9953,42 @@
     },
     {
       "album": {
+        "name": "\"This Isn't Real\" Mixtape",
+        "url": "https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ"
+      },
+      "artists": [
+        {
+          "name": "No Soul Society",
+          "url": "https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201399,
+      "name": "Halfway Famous",
+      "url": "https://open.spotify.com/track/19gWJsiVulKfzXFvP4LQS7"
+    },
+    {
+      "album": {
+        "name": "hall of mirrors",
+        "url": "https://open.spotify.com/album/1B3bqzE1LDafJF10SLqq6Z"
+      },
+      "artists": [
+        {
+          "name": "Dust of Apollon",
+          "url": "https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "hall of mirrors",
+      "url": "https://open.spotify.com/track/5jW9V3sU1Zbp0nnWBIU9Ir"
+    },
+    {
+      "album": {
         "name": "Halleluja",
         "url": "https://open.spotify.com/album/2EulVG3fdUenV6AOS292HS"
       },
@@ -11230,7 +11288,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 157000,
       "name": "H\u00fclle",
       "url": "https://open.spotify.com/track/0lerzu9m65MS0QKWz9wCp8"
@@ -11302,7 +11360,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 132162,
       "name": "I don't wanna be (without your love)",
       "url": "https://open.spotify.com/track/3Z3TZYVX6HMD057U5kJsKl"
@@ -11396,6 +11454,24 @@
       "duration_ms": 159002,
       "name": "I Forgot How It Felt",
       "url": "https://open.spotify.com/track/0aIqMOobklLi4xG8yecOtv"
+    },
+    {
+      "album": {
+        "name": "I Got Love Lots",
+        "url": "https://open.spotify.com/album/2J6C391toXrLcDf9crTLwZ"
+      },
+      "artists": [
+        {
+          "name": "Louis Ottley",
+          "url": "https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148375,
+      "name": "I Got Love Lots",
+      "url": "https://open.spotify.com/track/2NyJmuae9aZyjkRuPHvVB9"
     },
     {
       "album": {
@@ -13328,7 +13404,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 241733,
       "name": "Kulturadel",
       "url": "https://open.spotify.com/track/4kE6r707tBYw1lYT3pVPPQ"
@@ -14323,6 +14399,24 @@
     },
     {
       "album": {
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/1ZWAjIZxNZuOQOFjX4il6t"
+      },
+      "artists": [
+        {
+          "name": "ruka",
+          "url": "https://open.spotify.com/artist/7fwRGWZjMcgJXwtJqAjfDB"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194890,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/4dONYet8tPykb5LzstwLrz"
+    },
+    {
+      "album": {
         "name": "Lonely Again",
         "url": "https://open.spotify.com/album/4CTSaVWByrvZrAB2HNaBI7"
       },
@@ -14932,7 +15026,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 201320,
       "name": "Make it Hurt a Little Longer",
       "url": "https://open.spotify.com/track/0F4I1sJ5S63WHV6s2mZj3I"
@@ -15300,7 +15394,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 185798,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1snxnBPvcibE5Mbeu38WlH"
@@ -15564,6 +15658,24 @@
       "duration_ms": 152216,
       "name": "Money",
       "url": "https://open.spotify.com/track/1DSv4BWoifizJcHYeYreR3"
+    },
+    {
+      "album": {
+        "name": "Monochromie",
+        "url": "https://open.spotify.com/album/6dLeIWmHGWL1JpJZcON7Iu"
+      },
+      "artists": [
+        {
+          "name": "Elfi",
+          "url": "https://open.spotify.com/artist/4eWDXF7bBpqkHdKtQ2grlg"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Monochromie",
+      "url": "https://open.spotify.com/track/2N6UpcebLgEq1jdbYvJiyo"
     },
     {
       "album": {
@@ -16796,7 +16908,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 195374,
       "name": "Not Like You",
       "url": "https://open.spotify.com/track/1GK7fRf0RIek8nXwQQvewz"
@@ -18006,7 +18118,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 136958,
       "name": "Pharos",
       "url": "https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi"
@@ -19937,6 +20049,24 @@
     },
     {
       "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/2fhFMnHEKcW0MNuqtbw4YE"
+      },
+      "artists": [
+        {
+          "name": "Die St\u00f6rung",
+          "url": "https://open.spotify.com/artist/3hqJcvEQEhRWvPWtJL8NBE"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264500,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/2EcTIbGiPN2mfMhHNr1gw4"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/5EDFoNTXnzCD41jl1uoTla"
       },
@@ -20373,6 +20503,24 @@
     },
     {
       "album": {
+        "name": "SCHW1MMEN",
+        "url": "https://open.spotify.com/album/5cqjv17Qj85EqdzXQi7Oey"
+      },
+      "artists": [
+        {
+          "name": "RUN3R",
+          "url": "https://open.spotify.com/artist/1HnRT8GZrAH8a4PXlzyKEz"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173079,
+      "name": "SCHW1MMEN - Single Version",
+      "url": "https://open.spotify.com/track/4fw8uRgWXAJSyOe4PwnfzQ"
+    },
+    {
+      "album": {
         "name": "schwarze tinte",
         "url": "https://open.spotify.com/album/1Rl1vH2nbUx0fZ5JGRsuvj"
       },
@@ -20636,7 +20784,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 164307,
       "name": "Shame Ya - Single Version",
       "url": "https://open.spotify.com/track/1SQZKWjqNcjp9oEAv1XsP7"
@@ -21000,7 +21148,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 190954,
       "name": "Skinny Dipping",
       "url": "https://open.spotify.com/track/5lwsly944rxlv6o2ool4C9"
@@ -23558,6 +23706,24 @@
       "duration_ms": 420365,
       "name": "Theme",
       "url": "https://open.spotify.com/track/072WESirySllVZwIpbtNTY"
+    },
+    {
+      "album": {
+        "name": "Things",
+        "url": "https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM"
+      },
+      "artists": [
+        {
+          "name": "Chiara Bertarelli",
+          "url": "https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200748,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X"
     },
     {
       "album": {

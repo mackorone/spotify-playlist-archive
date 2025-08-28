@@ -4,11 +4,12 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-991 songs - 3 day 11 hr 26 min
+992 songs - 3 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100mg](https://open.spotify.com/track/5c04rvUddblU9pg1IzPxHF) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [100mg](https://open.spotify.com/album/1CXN5Hfjaqg0lWmvlvx8Dq) | 5:19 | 2024-04-19 | 2024-05-05 |
+| [111](https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [111](https://open.spotify.com/album/6rfW8Ur00M44ftAONPPvY1) | 3:52 | 2025-08-22 |  |
 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 | 2024-09-06 | 2025-08-16 |
 | [3 Sense](https://open.spotify.com/track/7BbCFISQVNWlWIh0BUPAit) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Anorre](https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [3 Sense](https://open.spotify.com/album/4Fhh3zH4xdalFWodUJYwQQ) | 2:43 | 2023-10-13 | 2024-05-11 |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-10 |  |
@@ -765,7 +766,7 @@
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 | 2025-08-15 |  |
-| [Sentimental \- Sombras](https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Sentimental \(Sombras\)](https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy) | 3:33 | 2025-05-30 |  |
+| [Sentimental \- Sombras](https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Sentimental \(Sombras\)](https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy) | 3:33 | 2025-05-30 | 2025-08-28 |
 | [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-06-14 | 2024-08-31 |
 | [set me free](https://open.spotify.com/track/2C3oAqU1XpVO2a7MssURkk) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/004HrUsnT6v50zlNn2g153) | 3:38 | 2024-09-27 | 2025-03-01 |
 | [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 | 2025-03-12 |

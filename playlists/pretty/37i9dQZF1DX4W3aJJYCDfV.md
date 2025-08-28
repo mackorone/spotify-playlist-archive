@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Florence + The Machine, Wolf Alice, sombr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,153 likes - 122 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,134 likes - 122 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

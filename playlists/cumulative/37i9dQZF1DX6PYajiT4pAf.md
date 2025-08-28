@@ -4,7 +4,7 @@
 
 > Belén Aguilera, Feid, Sega Bodega con Judeline, María Becerra y más novedades de la semana.
 
-3,031 songs - 6 day 9 hr 34 min
+3,032 songs - 6 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1603,7 +1603,8 @@
 | [Mar Menor](https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Mar Menor](https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW) | 3:13 | 2024-11-21 | 2024-11-29 |
 | [Mardita la incertidumbre](https://open.spotify.com/track/1mbvNKe835rOYItlQBYklj) | [Carmen Xía](https://open.spotify.com/artist/5Y7MbqiDeTSwBPozXw9DXH), [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK), [Andrea Santalusía](https://open.spotify.com/artist/3TAhTFekxaLAdEtfH7vXsZ), [Suzio Tarik](https://open.spotify.com/artist/2Lr8f6MgHgTmH9pnmPeVRa) | [Mardita la incertidumbre](https://open.spotify.com/album/0xqMcehiZuB0d5pSm6GQCs) | 4:19 | 2024-11-01 | 2024-11-08 |
 | [MAREMOTO](https://open.spotify.com/track/6pYtWluqCcZvyopqdwPO2R) | [LaBlackie](https://open.spotify.com/artist/7Mnggi1j35OsqH4Gkf3AZG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [MAREMOTO](https://open.spotify.com/album/2RdpLzA5bBYrMDFnBw7k3I) | 2:31 | 2024-11-01 | 2024-11-08 |
-| [Margarita](https://open.spotify.com/track/4btA7rrBftMBNSGRAtouZV) | [Gynebra](https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih) | [Margarita](https://open.spotify.com/album/0ovJhQ29G0ggRz0CzXeuco) | 2:12 | 2025-08-21 |  |
+| [Margarita](https://open.spotify.com/track/1mNVS6kLXodAPCZ0VXfMrV) | [Gynebra](https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih) | [Margarita](https://open.spotify.com/album/1SfYf4hp2c2F3ohEJgXHBO) | 2:12 | 2025-08-27 |  |
+| [Margarita](https://open.spotify.com/track/4btA7rrBftMBNSGRAtouZV) | [Gynebra](https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih) | [Margarita](https://open.spotify.com/album/0ovJhQ29G0ggRz0CzXeuco) | 2:12 | 2025-08-21 | 2025-08-28 |
 | [Mariposas Rojas](https://open.spotify.com/track/4I3KDH9OnS7V9h2NbUsAei) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [La Madrugá](https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7) | 3:15 | 2025-03-20 | 2025-03-28 |
 | [Marisol](https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Marisol](https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR) | 4:11 | 2025-01-16 | 2025-01-24 |
 | [MARRAKECH](https://open.spotify.com/track/2UtDFKdKdq2vDTiNLKTeZW) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [MARRAKECH](https://open.spotify.com/album/1YHhD8o0R6UYMq7ueWxhFX) | 2:59 | 2024-10-24 | 2024-11-01 |

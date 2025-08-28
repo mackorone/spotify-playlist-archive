@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eyshila, Wilian Nascimento
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,658 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,675 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 14 | [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 |
 | 15 | [Digno de Tudo](https://open.spotify.com/track/2qZynsCy03hYONS3J9qM0P) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL), [Gabriela Maganete](https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Digno de Tudo](https://open.spotify.com/album/4GyvrNG3jLMZLE001KemdZ) | 9:45 |
 | 16 | [Mostra\-me Tua Glória \- Ao Vivo](https://open.spotify.com/track/1VNtmoqVyVv35os4nDhZPp) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Mostra\-me Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2RV858WzGRA6PeKzke141G) | 10:51 |
-| 17 | [Em Todas As Áreas \(Milagres\) \- Ao Vivo](https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Em Todas As Áreas \(Milagres\) \[Ao Vivo\]](https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y) | 4:57 |
+| 17 | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Em Todas As Áreas \(Milagres\)](https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y) | 4:57 |
 | 18 | [Eu Vou Viver](https://open.spotify.com/track/5OQcyeaTcok7ROyAz0akq5) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eu Vou Viver](https://open.spotify.com/album/14U0AXMCTkBfRlT1uaD5X1) | 3:43 |
 | 19 | [Comum e Imperfeito \- Ao Vivo](https://open.spotify.com/track/1xV97W6xy6u3Pc2qeJv2KT) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu), [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Comum e Imperfeito \(Ao Vivo\)](https://open.spotify.com/album/4fubvlUdjcNESIK1HK2g1f) | 5:02 |
 | 20 | [Culto Racional \- Ao Vivo](https://open.spotify.com/track/2OuRNYgdQ28FTRXy5VFjlB) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Culto Racional \(Ao Vivo\)](https://open.spotify.com/album/6O3vFtGCpVmlHGvtGty9Kp) | 5:41 |

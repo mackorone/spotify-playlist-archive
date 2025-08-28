@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Julliany Souza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,062 likes - 31 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,106 likes - 31 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 14 | [Mensagem: Força no Meio da Tempestade](https://open.spotify.com/episode/1Y30Aov2dgXKMHeFQ1oxdP) | [Fé Pelo Ouvir](https://open.spotify.com/show/2fsHP8VR9uPAe3GC3iRvxv) | [Fé Pelo Ouvir](https://open.spotify.com/album/2fsHP8VR9uPAe3GC3iRvxv) | 1:11 |
 | 15 | [Deus É Quem Me Fortalece](https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Deus É Quem Me Fortalece](https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP) | 6:23 |
 | 16 | [Eu Confio em Ti](https://open.spotify.com/track/1o5cxva1ufQzt3LzPkzFQ2) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Eu Confio em Ti](https://open.spotify.com/album/1Je4S0LE5hmX8I2HW14tTJ) | 5:03 |
-| 17 | [Clamo Jesus \- Ao Vivo](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
+| 17 | [Clamo Jesus \- Ao Vivo](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus \(Ao Vivo\)](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
 | 18 | [Escape](https://open.spotify.com/track/3hEB1O2VaMmcqqS3UMlFiR) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Escape](https://open.spotify.com/album/0ktZTu9TsfGKPUvwWtQ0UE) | 7:06 |
 | 19 | [Tão Bom Pra Mim](https://open.spotify.com/track/5PEs00oT1Y3rDo2XHv6d4p) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Tão Bom Pra Mim](https://open.spotify.com/album/2jCPq4i56Kz70QcdcAvwqE) | 7:49 |
 | 20 | [Mensagem: A Ponte que Nos Fez Filhos](https://open.spotify.com/episode/6hMZAeFxZJ33NVaNElxXlL) | [Fé Pelo Ouvir](https://open.spotify.com/show/2fsHP8VR9uPAe3GC3iRvxv) | [Fé Pelo Ouvir](https://open.spotify.com/album/2fsHP8VR9uPAe3GC3iRvxv) | 1:06 |

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125027,
+  "num_followers": 125024,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUgxAaQc76yRKunG77nBUk0KkeJr65",
+  "snapshot_id": "AAAUheJY/8XSlFh/ecZC4QFfFvfbAm/u",
   "tracks": [
+    {
+      "added_at": "2025-08-27 14:18:41",
+      "album": {
+        "name": "Rockstar Bass",
+        "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Rockstar Bass",
+      "url": "https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga"
+    },
     {
       "added_at": "2025-08-26 15:04:21",
       "album": {
@@ -1127,82 +1151,6 @@
       "duration_ms": 159204,
       "name": "New Sound",
       "url": "https://open.spotify.com/track/4l5ipa1fcZnPlKWHmRHvoS"
-    },
-    {
-      "added_at": "2025-06-05 14:53:20",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/1SBSEBuRZ559StapQdFUUV"
-      },
-      "artists": [
-        {
-          "name": "Tom Ferry",
-          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 194262,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/2hHdTksNtM52OojwkncDUO"
-    },
-    {
-      "added_at": "2025-06-04 15:08:09",
-      "album": {
-        "name": "Surge (No Mana Remix)",
-        "url": "https://open.spotify.com/album/6xgYencWHzm6ZKKzUtqPTR"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Surge - No Mana Remix",
-      "url": "https://open.spotify.com/track/6TrYEKAiC0y71cqplcn0Yy"
-    },
-    {
-      "added_at": "2025-06-03 17:12:59",
-      "album": {
-        "name": "Phrases",
-        "url": "https://open.spotify.com/album/19GD0Nkfy9wMeHm9vCwZjc"
-      },
-      "artists": [
-        {
-          "name": "Liam Thomas",
-          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
-        },
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Phrases",
-      "url": "https://open.spotify.com/track/47DoFOZM42XrsMXprOHSAt"
-    },
-    {
-      "added_at": "2025-06-02 14:38:51",
-      "album": {
-        "name": "Street Level / Listen Up",
-        "url": "https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "Street Level",
-      "url": "https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

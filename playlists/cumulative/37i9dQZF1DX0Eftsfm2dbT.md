@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Skaai, KM
 
-1,899 songs - 4 day 0 hr 25 min
+1,900 songs - 4 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1489,6 +1489,7 @@
 | [TEAM TOMODACHI \- WILL SMITH REMIX](https://open.spotify.com/track/0hG608Ya6NPMIRa1Hvepl7) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [TEAM TOMODACHI \(WILL SMITH REMIX\)](https://open.spotify.com/album/2JBN8g0QPReXDOi85mNqu7) | 3:04 | 2024-10-31 | 2024-12-11 |
 | [TECH](https://open.spotify.com/track/6JUypLqHExYZ9vf6e1cmdG) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [TECH](https://open.spotify.com/album/6mmOyXjotdwEsvETHlhbdq) | 2:28 | 2024-04-30 | 2024-05-08 |
 | [TEENAGE PROBLEM](https://open.spotify.com/track/4xtehTMpzN76ZQ6lhGtAYZ) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [TEENAGE PROBLEM](https://open.spotify.com/album/3jgatOz77Gi2dKuG8GFDQF) | 3:20 | 2024-10-15 | 2024-11-20 |
+| [Tekipaki](https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Tekipaki](https://open.spotify.com/album/1Tyr6qPtB9m7jVadeTgA57) | 2:18 | 2025-08-26 |  |
 | [TEKIPAKI \(feat\. MIKADO & TOFU\)](https://open.spotify.com/track/07unN6AXal3YtqYBEkTAQF) | [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ) | [TEKIPAKI \(feat\. MIKADO & TOFU\)](https://open.spotify.com/album/2VugWgN8U2YgPtzaQBz8Gz) | 2:43 | 2025-08-12 | 2025-08-27 |
 | [Telling adults \(feat\. WILYWNKA\)](https://open.spotify.com/track/293uygbGWaUUqyZSJ40l9l) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Telling adults \(feat\. WILYWNKA\)](https://open.spotify.com/album/7Kc2cF8CJMh2mQe9PyrL0c) | 3:08 | 2024-12-04 | 2025-02-19 |
 | [TEMANEKI](https://open.spotify.com/track/73IZoaTnayyrcrxslt7XdA) | [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx) | [TEMANEKI](https://open.spotify.com/album/7MT9VHPnCdwFXaIpBm1Xop) | 3:29 | 2025-03-25 | 2025-04-09 |

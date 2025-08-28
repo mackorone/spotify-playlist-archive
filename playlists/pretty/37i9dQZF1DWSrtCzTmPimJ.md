@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,748 likes - 135 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,871 likes - 135 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 33 | [Miyus Alpha Waves 93\-103 Hz](https://open.spotify.com/track/6aWrkNQd64IWVfRZysKArA) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Alfalfa Waves](https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF) | 2:56 |
 | 34 | [Alpha Sinus \- Ethereal Drift \- 130 Hz \-138 Hz](https://open.spotify.com/track/18dvsvmmW7E6VxiW4VxR97) | [Healing High](https://open.spotify.com/artist/6lwhZbTrZzgQqrChcCF2bd) | [Alpha Sinus \- Ethereal Drift \- 130 Hz \-138 Hz](https://open.spotify.com/album/3dm1bHQaX52B6qhkeb7BWH) | 2:37 |
 | 35 | [Organic \- Alpha Sinus 146 Hz \- 144 Hz](https://open.spotify.com/track/3ITuTlrD4eRYv4uKFFeiBj) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 3:22 |
-| 36 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 |
+| 36 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Leto Calo](https://open.spotify.com/artist/2lyZpfTmODBc76cQKcNPrh) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 |
 | 37 | [The Alpha Cycle 110Hz \- 119Hz](https://open.spotify.com/track/6M2rghYZkAl2DgTMtOinuC) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 2:41 |
 | 38 | [Alpha Binaural Celestial Drift](https://open.spotify.com/track/6yGs8mkodQ6deUVp5jtutg) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Alpha Binaural Celestial Drift](https://open.spotify.com/album/3lImvPM20IjKkY8GUOyB4x) | 2:50 |
 | 39 | [Daylight 92Hz \- 100 Hz](https://open.spotify.com/track/0ic9DdsIpyrGJ9CGKdV7cF) | [Rerose](https://open.spotify.com/artist/6LcZxTjlhi7vsqM2acZonn) | [Daylight 92Hz \- 100 Hz](https://open.spotify.com/album/4iTQPv9ocnTxzu91LtmUYr) | 2:04 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 97 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 |
 | 98 | [Moonlight](https://open.spotify.com/track/4IFiuqNlJQdkdd77b9OKUT) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Moonlight](https://open.spotify.com/album/3pJ0wf02M8O9GUuxlwiJun) | 2:10 |
 | 99 | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/track/2Q1tvcxY1AURUd0Qh6707l) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Alpha Sinus Beauty 88Hz \- 96Hz](https://open.spotify.com/album/4KeshHI1lJjb7LTiex6J2L) | 2:31 |
-| 100 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 |
+| 100 | [Alpha Concentration 107Hz \- 115Hz](https://open.spotify.com/track/5IEoPKlhlxwjnekvHRXXJW) | [Leto Calo](https://open.spotify.com/artist/2lyZpfTmODBc76cQKcNPrh) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:30 |
 | 101 | [Alpha Deep Focus 76 Hz \- 84 Hz](https://open.spotify.com/track/256aN1YZByrnMsPtVZ6CMO) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Alpha Deep Focus 76 Hz \- 84 Hz](https://open.spotify.com/album/3DXkpWSRNcRgNfD29A3YTK) | 2:34 |
 | 102 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 |
 | 103 | [Binaural Alpha Sinus 147Hz \- 161Hz](https://open.spotify.com/track/2kCGylqSWKkXjLws0ZpQcK) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Calm](https://open.spotify.com/album/5PO9Rm0k6K1Yqg2EDO2h9E) | 3:07 |

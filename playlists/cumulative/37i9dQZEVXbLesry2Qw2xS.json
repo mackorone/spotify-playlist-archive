@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 144788,
       "name": "112",
       "url": "https://open.spotify.com/track/5uG2FFUm9jrEwkZL44FMLF"
@@ -21178,6 +21178,24 @@
     {
       "album": {
         "name": "Iris",
+        "url": "https://open.spotify.com/album/6lzlqfsWpP0Cx2Lnhr0erJ"
+      },
+      "artists": [
+        {
+          "name": "Qotid",
+          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128126,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2lm8thT1ibHAMk9mT3R4s4"
+    },
+    {
+      "album": {
+        "name": "Iris",
         "url": "https://open.spotify.com/album/5Oyf6M8raXiIpZJAOJtPcn"
       },
       "artists": [
@@ -21188,7 +21206,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 128126,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3qBrPz8ulrgiF1hfECAZw3"
@@ -35654,7 +35672,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 152181,
       "name": "peegel",
       "url": "https://open.spotify.com/track/6TWSdpMosWn0enAvZO92sA"
@@ -36064,7 +36082,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 171034,
       "name": "pilates spiritual cl\u00fcb",
       "url": "https://open.spotify.com/track/6wvLcKXaXvFStiaUpQ8hjX"
@@ -37122,10 +37140,28 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 148492,
       "name": "Punased Bikiinid",
       "url": "https://open.spotify.com/track/2TpwmZrkepYR0W48Iec8N4"
+    },
+    {
+      "album": {
+        "name": "Punased Bikiinid",
+        "url": "https://open.spotify.com/album/2OsejlmBP01l1dasJQoxAZ"
+      },
+      "artists": [
+        {
+          "name": "Qotid",
+          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148492,
+      "name": "Punased Bikiinid",
+      "url": "https://open.spotify.com/track/6HTpxOpc6E3zvB4BZwEtqr"
     },
     {
       "album": {
@@ -42294,7 +42330,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"

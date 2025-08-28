@@ -1,13 +1,45 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Hannah Frances",
-  "num_followers": 93457,
+  "num_followers": 93490,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANzkZN1MAf9GwD6MpMhhlkdY6y0d",
+  "snapshot_id": "AAAAAOwZ5hcY7BbIkgJQoX0/f9Eismci",
   "tracks": [
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Burning Bush / Bees in the Couch",
+        "url": "https://open.spotify.com/album/40rvloyDUHCvS0d06Prqyq"
+      },
+      "artists": [
+        {
+          "name": "E.R. Visit",
+          "url": "https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC"
+        }
+      ],
+      "duration_ms": 108250,
+      "name": "Burning Bush",
+      "url": "https://open.spotify.com/track/5tnmA7erQTLKyOD2HDQIlT"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Blue Black Crows",
+        "url": "https://open.spotify.com/album/10oTDg6xOkWFHH9zm8Baye"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 224061,
+      "name": "Blue Black Crows",
+      "url": "https://open.spotify.com/track/5tWkLdfJzQprUfmzsjqkf9"
+    },
     {
       "added_at": "2025-08-20 16:45:02",
       "album": {
@@ -41,20 +73,76 @@
       "url": "https://open.spotify.com/track/6ebWSPl35aYjYruHeq4EVT"
     },
     {
-      "added_at": "2025-08-20 16:45:02",
+      "added_at": "2025-08-27 04:00:24",
       "album": {
-        "name": "Shoulder To Shoulder",
-        "url": "https://open.spotify.com/album/13ocaU6K4nthDw79uzABk2"
+        "name": "Dogshow",
+        "url": "https://open.spotify.com/album/7mzYaHpIV3x2hUUgMWBLzV"
       },
       "artists": [
         {
-          "name": "Ullah",
-          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
         }
       ],
-      "duration_ms": 246922,
-      "name": "Shoulder To Shoulder",
-      "url": "https://open.spotify.com/track/2Q99NK4zTmiic5JETBNYNG"
+      "duration_ms": 186118,
+      "name": "Dogshow",
+      "url": "https://open.spotify.com/track/70FGw29iZZrbrsbRVWNFGt"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/5GuTZVsIC8mrNeFFSr6J76"
+      },
+      "artists": [
+        {
+          "name": "Alycia Lang",
+          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
+        }
+      ],
+      "duration_ms": 173766,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/18a956GDmx7iDPCwZlkx84"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/7iV3JLQCT0kCASJAVzdyvp"
+      },
+      "artists": [
+        {
+          "name": "Wells Ferrari",
+          "url": "https://open.spotify.com/artist/7y3H6facbUSu09KdIycZu0"
+        },
+        {
+          "name": "Mikey Ferrari",
+          "url": "https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7"
+        },
+        {
+          "name": "Will Wells",
+          "url": "https://open.spotify.com/artist/4okeaWBRoehWh3jJ9x6N4Z"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/67rhdKBk5sEWM7dYtgsUuM"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Missed Connections",
+        "url": "https://open.spotify.com/album/1EJmMFpHwfsuhGHr5Um66e"
+      },
+      "artists": [
+        {
+          "name": "Fairhazel",
+          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+        }
+      ],
+      "duration_ms": 158923,
+      "name": "Missed Connections",
+      "url": "https://open.spotify.com/track/6rVDtz7yLnwLKQqhTs7BIK"
     },
     {
       "added_at": "2025-08-20 16:45:02",
@@ -73,20 +161,36 @@
       "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
     },
     {
-      "added_at": "2025-08-07 20:36:55",
+      "added_at": "2025-08-27 04:00:24",
       "album": {
-        "name": "damn navy",
-        "url": "https://open.spotify.com/album/3hjrD8vlF0OVutIAE6b5xe"
+        "name": "song for lily",
+        "url": "https://open.spotify.com/album/1sINxqu2Y3ZDHjvsHvUysp"
       },
       "artists": [
         {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+          "name": "annie hamilton",
+          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
         }
       ],
-      "duration_ms": 148565,
-      "name": "damn navy",
-      "url": "https://open.spotify.com/track/12fKxw1rVgSTC4dZZ7oK6h"
+      "duration_ms": 234922,
+      "name": "song for lily",
+      "url": "https://open.spotify.com/track/0oUeGyLRwLp7gxhIIXg43Z"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0ZsMwvVolgh9DBUuDFWYC1"
+      },
+      "artists": [
+        {
+          "name": "Carly Bannister",
+          "url": "https://open.spotify.com/artist/5GoLHATtGcyqwnLMmDRnch"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/6Dh2AZRfueaUX5hV5vlFFn"
     },
     {
       "added_at": "2025-08-20 16:45:02",
@@ -103,6 +207,110 @@
       "duration_ms": 283484,
       "name": "ive come to realize",
       "url": "https://open.spotify.com/track/2Hkz2lB9sskWrc6gHUPDWu"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "switchy",
+        "url": "https://open.spotify.com/album/17oG1wHGEfbEl7dj6k1Uvd"
+      },
+      "artists": [
+        {
+          "name": "King Howe",
+          "url": "https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV"
+        }
+      ],
+      "duration_ms": 180865,
+      "name": "switchy",
+      "url": "https://open.spotify.com/track/6btXlqxsWIHHI25wFDW5kY"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/7jJbRjvoK5QvAdaAQSviRJ"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "duration_ms": 179715,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4ap9Q0fUySTvmUF3trnZRO"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/3dzizOQGOzE9tS7g5hjmcQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Angel",
+          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/28XhQrGPkjrdsDY295YwDG"
+    },
+    {
+      "added_at": "2025-08-27 04:00:24",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/2Jq9JgprHddef6YaX8CY4b"
+      },
+      "artists": [
+        {
+          "name": "Winter McQuinn",
+          "url": "https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK"
+        },
+        {
+          "name": "Dylan Young",
+          "url": "https://open.spotify.com/artist/1mStq9PMg0Q8dcY4jYEOwD"
+        },
+        {
+          "name": "Chet Sounds",
+          "url": "https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/72lncHer2PfUorS32qexwb"
+    },
+    {
+      "added_at": "2025-08-20 16:45:02",
+      "album": {
+        "name": "Shoulder To Shoulder",
+        "url": "https://open.spotify.com/album/13ocaU6K4nthDw79uzABk2"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "duration_ms": 246922,
+      "name": "Shoulder To Shoulder",
+      "url": "https://open.spotify.com/track/2Q99NK4zTmiic5JETBNYNG"
+    },
+    {
+      "added_at": "2025-08-07 20:36:55",
+      "album": {
+        "name": "damn navy",
+        "url": "https://open.spotify.com/album/3hjrD8vlF0OVutIAE6b5xe"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 148565,
+      "name": "damn navy",
+      "url": "https://open.spotify.com/track/12fKxw1rVgSTC4dZZ7oK6h"
     },
     {
       "added_at": "2025-08-20 16:45:02",

@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 361395,
       "name": "Astro",
       "url": "https://open.spotify.com/track/3l5QKH2vZOwJtjx7Owj1r3"
@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Light In The Eyes",
+        "url": "https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Light In The Eyes",
+      "url": "https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK"
+    },
+    {
+      "album": {
         "name": "Battle Lines",
         "url": "https://open.spotify.com/album/42aWQU8pO4KLq2aNwidEZS"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 261972,
       "name": "That's Too Slow",
       "url": "https://open.spotify.com/track/7AtNHY2plqqo6WrY239YUd"
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 401129,
       "name": "The Old Gods - Original Mix",
       "url": "https://open.spotify.com/track/1dHC5VBGgEO6PkPKTQu5eP"
@@ -4684,7 +4702,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 275244,
       "name": "Yoyoyo",
       "url": "https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI"

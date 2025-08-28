@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: RADAR PH 2025 artist - Zae, and Sica",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Paul N Ballin",
   "name": "KALYE",
   "tracks": [
     {
@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "LezGo",
+        "url": "https://open.spotify.com/album/553cG9J6wkUahTqJ1OKtK3"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155777,
+      "name": "LezGo",
+      "url": "https://open.spotify.com/track/4LjwejvV5Lip3IKW20n9Ql"
+    },
+    {
+      "album": {
         "name": "Lil Kasalanan Shortie",
         "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
       },
@@ -3288,7 +3306,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 284500,
       "name": "LOOT",
       "url": "https://open.spotify.com/track/3oatEcORsK8cRYPWBcqXEC"
@@ -3446,6 +3464,28 @@
       "duration_ms": 194911,
       "name": "LWKY",
       "url": "https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC"
+    },
+    {
+      "album": {
+        "name": "Ma.",
+        "url": "https://open.spotify.com/album/3sKPCiCUEUsdQdjYeH8bH1"
+      },
+      "artists": [
+        {
+          "name": "Matt White",
+          "url": "https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93"
+        },
+        {
+          "name": "THUGSTA",
+          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156456,
+      "name": "Ma.",
+      "url": "https://open.spotify.com/track/7Hmh3SZMR6wlZEBzdNS15v"
     },
     {
       "album": {
@@ -5714,7 +5754,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 190000,
       "name": "That's My Type",
       "url": "https://open.spotify.com/track/492GiJVNa4nrriNWTwz876"

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-758 songs - 2 day 7 hr 59 min
+759 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 | 2023-07-21 | 2024-08-17 |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-08 |  |
 | [Get Up](https://open.spotify.com/track/4QRHDjBu4J6LBHmMriV12P) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq), [Julio Bravo](https://open.spotify.com/artist/2xENmdo7oEaFrxPWFin702) | [Get Up](https://open.spotify.com/album/0xq6Pn3IZ9uv4p9TzKk23t) | 3:39 | 2024-09-13 | 2024-11-09 |
-| [Get Up](https://open.spotify.com/track/66uQcDAdfRuty13WuchaAQ) | [Silvie Loto](https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um) | [Get Up](https://open.spotify.com/album/63aVxnGIzOIBS7DUWBypIs) | 3:00 | 2025-08-01 |  |
+| [Get Up](https://open.spotify.com/track/66uQcDAdfRuty13WuchaAQ) | [Silvie Loto](https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um) | [Get Up](https://open.spotify.com/album/63aVxnGIzOIBS7DUWBypIs) | 3:00 | 2025-08-01 | 2025-08-28 |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 | 2024-04-19 | 2025-02-22 |
 | [Gimme The Cheese](https://open.spotify.com/track/24Zma7ZOAwuz7TFhjiLlM0) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Gimme The Cheese](https://open.spotify.com/album/6LlD19pnRVKjpvzpy7tQ0R) | 2:57 | 2025-03-07 | 2025-08-09 |
@@ -674,6 +674,7 @@
 | [Till It's Time \- Radio Edit](https://open.spotify.com/track/2MrvGol3MWrVd3Y3JF85M9) | [Amine Edge](https://open.spotify.com/artist/5iCqqgYu0T23xUwnBFGpU1), [Marcjack](https://open.spotify.com/artist/4YNsi4BHl00HoRlfZv1mBw) | [Till It's Time](https://open.spotify.com/album/0Ais3T63SRLDDQG4fNoGjL) | 3:16 | 2024-11-15 | 2024-12-07 |
 | [Timbuktu \- Âme Remix \- Jerome Sydenham's Special Edit](https://open.spotify.com/track/2Q93Svo9osiBd5ZxPrd67g) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Timbuktu \(Âme Remix \- Jerome Sydenham's Special Edit\)](https://open.spotify.com/album/3fAX5wjbBB2P12fyHeeNKq) | 6:35 | 2025-05-16 | 2025-06-07 |
 | [Time Away](https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [ENDZ061](https://open.spotify.com/album/66l4BIequxiDPjxXoH900j) | 2:57 | 2025-08-15 |  |
+| [Time To Party](https://open.spotify.com/track/12moDsg4SVHTtUJinAWd51) | [ADR \(UK\)](https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub), [OUTTEN](https://open.spotify.com/artist/5gZ4m0VNt6bLOzC4gllkHD) | [Time To Party](https://open.spotify.com/album/0xh9NE03w3wQyQbYcuNABE) | 3:05 | 2025-08-27 |  |
 | [Time Twister](https://open.spotify.com/track/4VYW06X5XL7g9YeoAgsT57) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Midnight Voices](https://open.spotify.com/album/1Q36yRBq0D2uegppsXoVua) | 6:11 | 2025-02-07 |  |
 | [Times Lost](https://open.spotify.com/track/4rHdRblY0gPpezMAszRJ7P) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Times Lost](https://open.spotify.com/album/5FxUPYsKWbZuoLXxiT9kTl) | 6:02 | 2025-02-07 | 2025-03-15 |
 | [To The Rhythm](https://open.spotify.com/track/4OoSXPUgpu7tp7BWLVQkYL) | [Stuart Matheson](https://open.spotify.com/artist/3ww9l0O1eYkQEJHTyRhd6Q) | [To The Rhythm EP](https://open.spotify.com/album/65B0UAFS9zlSzUkRXvlxjT) | 3:47 | 2025-04-11 | 2025-07-26 |

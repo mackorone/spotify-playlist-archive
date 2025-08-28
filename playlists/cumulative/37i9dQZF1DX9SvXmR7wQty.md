@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aswell
 
-3,447 songs - 7 day 14 hr 8 min
+3,448 songs - 7 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,7 @@
 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 | 2023-10-06 | 2023-12-16 |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2022-05-07 |
 | [Comme au hockey](https://open.spotify.com/track/6u3B0R9Q160QrOGvxzzuQ8) | [Danny Boudreau](https://open.spotify.com/artist/4m1rTf3uGb1kzoZVnJwzpz) | [Traverser le désert](https://open.spotify.com/album/1nU20I0gf9qaVfRFNmmceq) | 3:34 | 2022-10-28 | 2022-11-12 |
-| [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 | 2025-07-11 |  |
+| [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 | 2025-07-11 | 2025-08-28 |
 | [Comme de la ouate](https://open.spotify.com/track/7Ds8ByXNh6LGIVxxGXdMS0) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Num2Num](https://open.spotify.com/album/0AvpI4m1NU8bfqTNyGyklR) | 3:47 | 2022-10-28 | 2022-11-12 |
 | [Comme la mer](https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Comme la mer](https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8) | 4:14 | 2025-01-10 | 2025-01-18 |
 | [Comme le dernier](https://open.spotify.com/track/0Z9AloOEIBVljdVuMTC0Zt) | [Cruzito](https://open.spotify.com/artist/4StDLRKg8Jtp0qmE35907p), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Comme le dernier](https://open.spotify.com/album/2xuSRXVCB7BHm6sz3VpNzs) | 3:12 | 2025-07-25 | 2025-08-02 |
@@ -1256,6 +1256,7 @@
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Hors\-piste](https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Mauvais Joueur](https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7) | 2:37 | 2023-04-14 | 2023-04-23 |
 | [Hot Ex](https://open.spotify.com/track/6DF61bBHy11bxuSjPi47R7) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Hot Ex](https://open.spotify.com/album/1zIrU3vob6YSekbhExoN5y) | 2:38 | 2023-10-20 | 2023-10-30 |
+| [Hot!](https://open.spotify.com/track/1YBCTYBfExd2FNr7GCuuoi) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX), [Amery](https://open.spotify.com/artist/1bwYRjgLFnaNYmSWoUyd7I) | [Hot!](https://open.spotify.com/album/176zDJOZ3av7xuBXD0urkR) | 2:06 | 2025-08-27 |  |
 | [Houston](https://open.spotify.com/track/41njRJ9m4HJ3yoP0B0MBgE) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Houston](https://open.spotify.com/album/2k39qRWdU209Mf1gc3zrXu) | 3:02 | 2024-01-12 | 2024-01-27 |
 | [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 | 2024-05-17 | 2024-05-25 |
 | [HWMB](https://open.spotify.com/track/6vl6Do3EvEys2PPbWGWzr9) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [HWMB](https://open.spotify.com/album/02yJFkyTmvwpQ28FZ6p5Ue) | 2:32 | 2024-11-15 | 2024-11-23 |

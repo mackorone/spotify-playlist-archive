@@ -17364,7 +17364,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 138181,
       "name": "Date",
       "url": "https://open.spotify.com/track/5OsHak3nnpM0Bk9rpp75bz"
@@ -19060,7 +19060,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
@@ -58492,7 +58492,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
@@ -58514,7 +58514,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -64881,6 +64881,24 @@
     },
     {
       "album": {
+        "name": "Set do Buzeira 3.0",
+        "url": "https://open.spotify.com/album/3tW21Z3txDhdZhNn5C3ieb"
+      },
+      "artists": [
+        {
+          "name": "Henrix",
+          "url": "https://open.spotify.com/artist/6ltUGOhWfO7gsfFyS1i0LY"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305574,
+      "name": "Set do Buzeira 3.0",
+      "url": "https://open.spotify.com/track/2tu7WL2gvBj6VomJmgloUy"
+    },
+    {
+      "album": {
         "name": "Set do G15 - A Revoada Come\u00e7ou",
         "url": "https://open.spotify.com/album/7gnwZedN17Dz5A7iE7Cxxu"
       },
@@ -70754,11 +70772,15 @@
         {
           "name": "BK2P",
           "url": "https://open.spotify.com/artist/47gch4yYiV3nWaETQKghkC"
+        },
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
         }
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 99111,
       "name": "THAIN\u00c1 THAIN\u00c1",
       "url": "https://open.spotify.com/track/68Qn3HtP5XnQVAIw1e9rvO"
@@ -76308,7 +76330,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 119999,
       "name": "Vem Fuder na Pele",
       "url": "https://open.spotify.com/track/14p62Exec4hR5MGAHJaiSx"
@@ -81036,6 +81058,24 @@
       "duration_ms": 264680,
       "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMOkSwG072hV"

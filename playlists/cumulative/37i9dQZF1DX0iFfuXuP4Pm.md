@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: IV OF SPADES
+> Mga nangunguna sa mundo ng OPM\. Cover: James Reid, TJ Monterde
 
-372 songs - 23 hr 6 min
+375 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/track/4ULo2EWy8w9Z6NoIra0cRo) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Gusto Ko Lang Mag\-Isa](https://open.spotify.com/album/1Gwcdr4P4HNoO3U23RSDlP) | 3:52 | 2024-12-04 | 2025-04-03 |
 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 | 2024-09-04 | 2025-03-06 |
 | [Halik Sobrang Diin](https://open.spotify.com/track/6cXmKmwevj5utucE8XG7SK) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [Halik Sobrang Diin](https://open.spotify.com/album/4OtUimDzomnLyZPdtswcbf) | 3:51 | 2024-04-10 | 2024-05-15 |
-| [Halika Na Lika Na](https://open.spotify.com/track/3lT2jcmbOgFFI3X74wkrCK) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Halika Na Lika Na](https://open.spotify.com/album/5wwXG9V7cPt5FtMYr8JQgB) | 2:44 | 2025-04-23 |  |
+| [Halika Na Lika Na](https://open.spotify.com/track/3lT2jcmbOgFFI3X74wkrCK) | [Maxie Andreison](https://open.spotify.com/artist/2QuQBf81nBbfyLSQcTvXtl) | [Halika Na Lika Na](https://open.spotify.com/album/5wwXG9V7cPt5FtMYr8JQgB) | 2:44 | 2025-04-23 | 2025-08-28 |
 | [Hanap](https://open.spotify.com/track/42HwpLFw73GBckZlWorib4) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Hanap](https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2) | 4:02 | 2024-12-04 | 2025-02-13 |
 | [Hanggang sa Magsawa](https://open.spotify.com/track/3jqZKT0N9hEx0uwe6Sm8pS) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [7th Sense](https://open.spotify.com/album/6fLn0CW5g9nLSplYDfomyl) | 5:55 | 2025-03-13 | 2025-05-22 |
 | [Happy Ending](https://open.spotify.com/track/1hv8gjkImdxHMw98bxXGre) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Happy Ending](https://open.spotify.com/album/2mWCsQlDlhidVlxyRRoQ1a) | 4:41 | 2024-11-28 | 2025-04-10 |
@@ -284,7 +284,7 @@
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |
 | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-06-05 | 2024-10-18 |
 | [PDKL](https://open.spotify.com/track/76mrtAj7T49UTsq5zKyrNT) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [PDKL](https://open.spotify.com/album/4CCqfS6Z4t8sORbgdjRGeb) | 3:54 | 2025-04-30 | 2025-07-24 |
-| [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 | 2025-05-21 |  |
+| [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 | 2025-05-21 | 2025-08-28 |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-06 | 2025-04-03 |
 | [PLANETA](https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk) | [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [PLANETA](https://open.spotify.com/album/4X8lD1CYW5tonDqQ9iUTSc) | 4:23 | 2024-03-06 | 2024-04-24 |
 | [PLY4](https://open.spotify.com/track/3nRlbohAuTQDgKdB7RQWBk) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe) | [PLY4](https://open.spotify.com/album/1pjgSL6hP3LmD21fwZkhQP) | 3:56 | 2025-07-02 | 2025-08-14 |
@@ -339,9 +339,10 @@
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-13 | 2025-02-28 |
 | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/track/3aNlKhDSguYgew75Vq8ELT) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/album/4TxjAxOvm228chbxndw1RJ) | 4:29 | 2024-02-28 | 2024-05-15 |
 | [Tahanan](https://open.spotify.com/track/09rd0SVMt00ZN4AcBdhXyl) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Tahanan](https://open.spotify.com/album/1H86BHAxqgYlvX3xR4xdcu) | 2:54 | 2025-01-15 | 2025-03-06 |
+| [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/track/6C6T5FSG8AZXgKPwZgVcNx) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/album/49bkCXhFHLjlxxNzCDmZ5U) | 4:45 | 2025-08-27 |  |
 | [Tanga](https://open.spotify.com/track/2PJkC7PGVqKRqM2W98n14r) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Tanga](https://open.spotify.com/album/0yb8i6UokYXrBfPVIpFwyh) | 3:03 | 2025-08-13 |  |
 | [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-06-12 | 2024-08-15 |
-| [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-02-06 |  |
+| [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-02-06 | 2025-08-28 |
 | [Tatlong Buwan](https://open.spotify.com/track/5fuF65QYgM8mgXTgu3XS3u) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [Tatlong Buwan](https://open.spotify.com/album/6kvSdv7ZFSPAggOKcefhp4) | 2:48 | 2024-05-01 | 2024-06-13 |
 | [Tayo](https://open.spotify.com/track/3sveSiExuvXMdTGdXEMO3z) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Tayo](https://open.spotify.com/album/35YnRTNicvoMURUPEBepqj) | 4:41 | 2025-03-19 | 2025-05-22 |
 | [tayo lang \(may alam\)](https://open.spotify.com/track/5SLbJ9NcVO8FaRKX5XImz8) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI), [Fana](https://open.spotify.com/artist/3kKBZLHVgnGKVsfNutJVip) | [tayo lang \(may alam\)](https://open.spotify.com/album/3ZPjyuE4jt5Hb2Bo3d4DRG) | 3:28 | 2025-06-25 | 2025-08-07 |
@@ -361,9 +362,11 @@
 | [Triumph](https://open.spotify.com/track/3JU64RR6S7P3y4ne7V5OMG) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Triumph](https://open.spotify.com/album/6jvr0yp0tK9JHnoXLqMDbG) | 2:53 | 2024-10-23 | 2024-12-05 |
 | [Tumalon](https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Tumalon](https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis) | 3:38 | 2024-12-18 | 2025-04-03 |
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-31 | 2024-08-15 |
+| [U Were Never Mine](https://open.spotify.com/track/5NOKWEXX4ZjCJuici3jkzy) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [U Were Never Mine](https://open.spotify.com/album/3BWq5rbJpBJo57U0f73lYj) | 3:27 | 2025-08-27 |  |
 | [Umaaligid](https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Umaaligid](https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd) | 3:40 | 2025-08-06 |  |
 | [Umiinit](https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Lola Amour](https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ) | 3:00 | 2024-04-17 | 2024-06-20 |
 | [Umuwi Na Tayo](https://open.spotify.com/track/6fDPr9fQhnjSYHKKmu4fRQ) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Umuwi Na Tayo](https://open.spotify.com/album/5XOpEA6PHajzxtr8oXYb0w) | 3:32 | 2024-03-27 | 2024-05-02 |
+| [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-27 |  |
 | [Wag Ipagsabi](https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Wag Ipagsabi](https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3) | 3:28 | 2025-01-01 | 2025-05-15 |
 | [Walang Alam](https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:05 | 2024-01-24 | 2024-08-29 |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-08-07 | 2025-01-02 |

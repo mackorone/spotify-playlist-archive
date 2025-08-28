@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 419402,
+  "num_followers": 419464,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAADTo6npexGAYWTAEOT5wQU0",
+  "snapshot_id": "aKz5AAAAAAB+55ttj3ZOSU+gvVY5rjxM",
   "tracks": [
     {
       "added_at": null,
@@ -447,30 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club Future Nostalgia (DJ Mix)",
-        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
           "name": "Jamiroquai",
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
         }
       ],
-      "duration_ms": 180040,
-      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
-      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
+      "duration_ms": 286212,
+      "name": "Deeper Underground - Full Version",
+      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
     },
     {
       "added_at": null,
@@ -507,18 +495,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+        "name": "Club Future Nostalgia (DJ Mix)",
+        "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
       "artists": [
         {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
           "name": "Jamiroquai",
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
         }
       ],
-      "duration_ms": 286212,
-      "name": "Deeper Underground - Full Version",
-      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
+      "duration_ms": 180040,
+      "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+      "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
     },
     {
       "added_at": null,

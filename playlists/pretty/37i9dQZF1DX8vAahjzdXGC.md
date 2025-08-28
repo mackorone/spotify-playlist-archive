@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Laufey, sombr, Lyodra, Judika & Andi Rianto dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,036 likes - 108 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,068 likes - 108 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 47 | [Memilih Kamu](https://open.spotify.com/track/3C6NNrBsFwfpZrfQBfqvT9) | [Black Hanifah](https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d), [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Memilih Kamu](https://open.spotify.com/album/1Y5FujYinAgXRXfsnA29RD) | 3:48 |
 | 48 | [Heaven](https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [EDUO](https://open.spotify.com/artist/2o3ddTmWSrGSyVQc3Sgf6b) | [Heaven](https://open.spotify.com/album/3V4lkg9bZdiD4W31Ec5DWc) | 3:34 |
 | 49 | [Melewatkanmu](https://open.spotify.com/track/3ckxohzQaYwhkXlkuwaZBF) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Melewatkanmu](https://open.spotify.com/album/0HNzalHfDpwXyfT2aDNdjF) | 4:06 |
-| 50 | [Primadona](https://open.spotify.com/track/6BG8E3ql03Ar4x0238Gaxq) | [Sentimental Moods](https://open.spotify.com/artist/1WRyQTFCoyzBtMbH1ercjU) | [Dua Sisi](https://open.spotify.com/album/0IhXtHnXZ9l6EMzopJyiAr) | 3:45 |
+| 50 | [Primadona](https://open.spotify.com/track/6BG8E3ql03Ar4x0238Gaxq) | [Sentimental Moods](https://open.spotify.com/artist/1WRyQTFCoyzBtMbH1ercjU), [Hara Josua](https://open.spotify.com/artist/4x9j706PG2EfGKdIYduzRu) | [Dua Sisi](https://open.spotify.com/album/0IhXtHnXZ9l6EMzopJyiAr) | 3:45 |
 | 51 | [Ready](https://open.spotify.com/track/2pCns6U2LU4gmRROcWQJiJ) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Ready](https://open.spotify.com/album/60wk0LODQ3wy8v82CLoR3d) | 2:26 |
 | 52 | [simfoni](https://open.spotify.com/track/5Mrf2P3cugwNj8tw4VIuz1) | [WEDA](https://open.spotify.com/artist/55Q1mmlqTlCX53FCeEMMdx) | [simfoni](https://open.spotify.com/album/0I2VBraIsZVcvvunwQOuxn) | 3:28 |
 | 53 | [Zarah](https://open.spotify.com/track/4QVjwjEfZVSbPYC97etvFS) | [Fletch](https://open.spotify.com/artist/68NOgUQRJdffBE7TTs7kTZ) | [Zarah](https://open.spotify.com/album/4IMZYFWcbHlJW5TVCA5c5c) | 4:52 |

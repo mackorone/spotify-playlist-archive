@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,304 likes - 73 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,277 likes - 73 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 |
 | 2 | [Glorious Day \(feat\. 初音ミク\)](https://open.spotify.com/track/1axqW3tCZ2nBbDBCY4moZn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Glorious Day](https://open.spotify.com/album/6Ovp9dcCxs7SHtVVkm2nzL) | 3:22 |
 | 3 | [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 |
-| 4 | [エスパーエスパー \(feat\. 初音ミク\)](https://open.spotify.com/track/1bObfXWv3fLv3K2psR3zUD) | [ナユタン星人](https://open.spotify.com/artist/2svnjD7GnFxQt6GOoJrewU), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [エスパーエスパー](https://open.spotify.com/album/6vrcNlEUSfB9epOrPiNYlt) | 2:56 |
+| 4 | [エスパーエスパー \(feat\. 初音ミク\)](https://open.spotify.com/track/1bObfXWv3fLv3K2psR3zUD) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [エスパーエスパー](https://open.spotify.com/album/6vrcNlEUSfB9epOrPiNYlt) | 2:56 |
 | 5 | [たびのまえ、たびのあと \(feat\. 初音ミク\)](https://open.spotify.com/track/4DQuqUMBPzN1KVYyuz6V6M) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [たびのまえ、たびのあと](https://open.spotify.com/album/5Egcw8EnRRDjxYAh5joAr0) | 3:19 |
 | 6 | [PARTY ROCK ETERNITY \(feat\. 初音ミク\)](https://open.spotify.com/track/1BBMfvjhkkQ6keN9NNbgS8) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [PARTY ROCK ETERNITY](https://open.spotify.com/album/6fnbGr0unw981Emvq0vkDF) | 2:52 |
 | 7 | [むげんのチケット \(feat\. 初音ミク&KAITO\)](https://open.spotify.com/track/3Nx1UHAQ34JsWa9JpeTR8a) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [むげんのチケット](https://open.spotify.com/album/208x8lbmy8TghiL1KP1Kp6) | 3:39 |

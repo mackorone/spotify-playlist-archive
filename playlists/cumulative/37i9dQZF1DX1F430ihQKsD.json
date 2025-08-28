@@ -4497,6 +4497,28 @@
     },
     {
       "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/176zDJOZ3av7xuBXD0urkR"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lachance",
+          "url": "https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX"
+        },
+        {
+          "name": "Amery",
+          "url": "https://open.spotify.com/artist/1bwYRjgLFnaNYmSWoUyd7I"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126360,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/1YBCTYBfExd2FNr7GCuuoi"
+    },
+    {
+      "album": {
         "name": "Hush Baby",
         "url": "https://open.spotify.com/album/4hrEkOenp0Psy2zFXRn7Zc"
       },

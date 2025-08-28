@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcSEAOqwtmQ3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcSEAOqwtmQ3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcSEAOqwtmQ3)
 
-### [Throwback Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DXcSEAOqwtmQ3)
+### [Rewind: Naija Hits](https://open.spotify.com/playlist/37i9dQZF1DXcSEAOqwtmQ3)
 
 > Kick nostalgia up a notch with these throwback bangers.
 

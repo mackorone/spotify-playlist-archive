@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXafe70fv9ymc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafe70fv9ymc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafe70fv9ymc)
 
-### [afrobeats after dark ](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
+### [sexy afro](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
 
-> sexy afrobeats
+> NSFW
 
 159 songs - 8 hr 2 min
 

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,080 songs - 11 day 16 hr 57 min
+5,083 songs - 11 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-09 | 2025-05-17 |
 | [Archangel](https://open.spotify.com/track/2Y96Rlay5yklTsDbrSDZ6H) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Archangel](https://open.spotify.com/album/5JG22vipJjE2PYrUi8QUxw) | 3:22 | 2024-12-13 | 2024-12-28 |
 | [Arco](https://open.spotify.com/track/4VK9kien3gFLzyzBtXJYbl) | [Ibon Errazkin](https://open.spotify.com/artist/6CEZx2TFx4FD2gyZXtrsTA) | [Claros Del Bosque](https://open.spotify.com/album/6ogSwvmnxQaaGnbiKLXrQz) | 1:59 | 2024-11-29 | 2024-12-07 |
+| [Arde](https://open.spotify.com/track/2N65eH4WeiTRkdUWobb9UL) | [Caballos Yonkis](https://open.spotify.com/artist/1DmvEK9MwvOsa8GQSd7BFM), [Cristina Martínez Lana](https://open.spotify.com/artist/3SxQjBbxGryXZBHplone2E) | [Arde](https://open.spotify.com/album/0j772boP3ust7jVtzLqC3S) | 5:19 | 2025-08-27 |  |
 | [arderse](https://open.spotify.com/track/67OG6Enh7fZUts8bTkxKtr) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5), [Caamaño & Ameixeiras](https://open.spotify.com/artist/6y3amaH2PNp48kslVnR7WH) | [arderse](https://open.spotify.com/album/77yHGs199QWdFrsoeZzHhp) | 3:26 | 2025-04-04 | 2025-04-12 |
 | [Ardoria](https://open.spotify.com/track/0ffN1eEy9dcDRho3LlAVVU) | [Salvar Doñana](https://open.spotify.com/artist/526ywrSIP4dMcygQven5RL) | [Salvar Doñana](https://open.spotify.com/album/329bjFIO06u9YzekklJb1k) | 3:41 | 2024-10-18 | 2024-10-26 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 | 2024-10-19 |
@@ -2804,6 +2805,7 @@
 | [Materia Oscura](https://open.spotify.com/track/4cWpIL8wiOeQPpA9o43CQK) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Materia Oscura](https://open.spotify.com/album/6C2DvuFSgxyGHL660PZU8j) | 3:58 | 2024-10-23 | 2024-11-09 |
 | [Materia Oscura](https://open.spotify.com/track/6QVNgqq4RDfXJKq19uUuMX) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Materia Oscura](https://open.spotify.com/album/2q0rYHAoMp53CCp9CoLi3S) | 3:58 | 2025-05-29 | 2025-06-07 |
 | [Material sensible](https://open.spotify.com/track/29XAbdPCoD87oIpKLIv4Jv) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Material sensible](https://open.spotify.com/album/59yHwqIaykQcvp5PsleTFy) | 2:26 | 2025-02-07 | 2025-02-15 |
+| [Math Equation](https://open.spotify.com/track/2r6yEYmV8vu1pjVHmKEr0f) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Math Equation](https://open.spotify.com/album/5XJQpbZe0z4S7NlQjkb30y) | 4:12 | 2025-08-27 |  |
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-08 | 2025-05-17 |
 | [Maya](https://open.spotify.com/track/67kcXDLOYLgdIixJjddZ9I) | [Le Nais](https://open.spotify.com/artist/44Wn7ZjTg4vIBEg22A6AMZ) | [Maya](https://open.spotify.com/album/36F66dCo3R2PeNAW5JEOf0) | 3:01 | 2024-06-28 | 2024-07-13 |
 | [Maybach Wallet](https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Maybach Wallet](https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3) | 2:33 | 2024-09-06 | 2024-09-14 |
@@ -3241,6 +3243,7 @@
 | [O bruar das cantareiras](https://open.spotify.com/track/12Jfxknh7qIXqaCroI8Avc) | [Xosé Lois Romero](https://open.spotify.com/artist/4C8faVCWNf7FMjAVVdgAgo), [Aliboria](https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L) | [O bruar das cantareiras](https://open.spotify.com/album/3oubOFesJqJT7q2kuqfu4P) | 4:25 | 2025-05-15 | 2025-05-24 |
 | [OA!](https://open.spotify.com/track/5sKiTIZkO6sD9xURvUuQtn) | [Anixe](https://open.spotify.com/artist/43x9okbcMtqMiCocTI9rJe) | [Paranoia](https://open.spotify.com/album/1ZoGBJvHfDNdxBpVXC6S6H) | 1:55 | 2024-11-28 | 2024-12-07 |
 | [Obsession](https://open.spotify.com/track/4Bkirn5WWarUk8qdA52Pcp) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Obsession](https://open.spotify.com/album/21DPNL7TLRsNH8p1mXj8us) | 4:01 | 2025-06-14 | 2025-06-28 |
+| [Obsession](https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Obsession](https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la) | 2:44 | 2025-08-27 |  |
 | [Obstáculo](https://open.spotify.com/track/10lVyE5ysDdxnJUtpRYMeL) | [Linda Mirada](https://open.spotify.com/artist/3HVwXZVVIC4IJgACkw3WEk) | [Obstáculo](https://open.spotify.com/album/3yVXHYmyYYtRcbEtgarFe3) | 4:35 | 2025-05-09 | 2025-05-17 |
 | [Ocio](https://open.spotify.com/track/5S2QxD6nMF2H83cDP9EiBg) | [balarrasa](https://open.spotify.com/artist/2TXqSE9FiKLU0ogIwlVSdY) | [Ocio](https://open.spotify.com/album/6eaUgoRUgqhEYGEMX9VIsy) | 3:15 | 2025-05-09 | 2025-05-17 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2024-10-19 |

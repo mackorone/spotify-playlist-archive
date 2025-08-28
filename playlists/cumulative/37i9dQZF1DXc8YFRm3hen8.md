@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Los Caballeros De La Quema
 
-381 songs - 1 day 0 hr 28 min
+382 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Caronte](https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Caronte](https://open.spotify.com/album/3o7hOrguLg6GIFURGsUeZG) | 3:53 | 2022-07-19 | 2022-07-28 |
 | [Casualidad](https://open.spotify.com/track/6DKUK1wABPWg7DoulUEzrs) | [Cony la Tuquera](https://open.spotify.com/artist/0GqHNuocCl9kNENsJNgvQJ), [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Casualidad](https://open.spotify.com/album/4i9TJ0ixbMoJIC0ud6UZJ1) | 4:14 | 2022-07-01 | 2022-07-29 |
 | [Cerca Lejos](https://open.spotify.com/track/01d2IW5H2F5tjLIKQO0Ncf) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 3:18 | 2025-05-02 | 2025-07-11 |
-| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 |  |
+| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 | 2025-08-28 |
 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 | 2023-12-15 | 2025-08-15 |
 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 | 2022-07-19 |  |
 | [Cicatriz](https://open.spotify.com/track/4htezaI7px4W2gBDmdFykC) | [El Espacio Es el Lugar](https://open.spotify.com/artist/2gaf0LgaKtSbX48iQcVtQc) | [Amnesia](https://open.spotify.com/album/3ckRA6M0sNoG7sNpDhL2Ge) | 3:47 | 2025-04-25 | 2025-05-02 |
@@ -182,6 +182,7 @@
 | [La Otra Ciudad](https://open.spotify.com/track/7isif6McdOOOtdcOsmQI8g) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Ciudad](https://open.spotify.com/album/3HoP4nyRkJSN1ZDesiuM7z) | 4:18 | 2022-07-19 | 2022-07-29 |
 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 | 2022-06-29 | 2022-07-20 |
 | [La Rama](https://open.spotify.com/track/0JWOMrDJ3oizqvlV1HZd5v) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 4:13 | 2022-06-29 | 2022-07-28 |
+| [La Rima del Poema Universal](https://open.spotify.com/track/7seC8Wr9VKMTQcLTD6krKQ) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P) | [El Paso](https://open.spotify.com/album/1ZrxkmQvbYnGf9wMZu7OaO) | 5:09 | 2025-08-27 |  |
 | [La Rubia Tarada](https://open.spotify.com/track/0RaRyvHA4z1VWq9BJhA65s) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 3:42 | 2023-03-03 | 2024-04-19 |
 | [La Sangre](https://open.spotify.com/track/7hT14hKoS60U4wdPEPPei2) | [Videotape](https://open.spotify.com/artist/1mgBvxATqGK1YZPzThNHnW), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Sangre](https://open.spotify.com/album/267R1MP85lzgBWHRjOLukU) | 3:37 | 2025-05-02 | 2025-07-11 |
 | [La Vida Cura](https://open.spotify.com/track/70H9KzJ3vy5655EHTpdiP4) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:12 | 2022-07-06 | 2022-07-14 |

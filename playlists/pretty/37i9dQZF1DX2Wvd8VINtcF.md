@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Florence + The Machine✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,929 likes - 160 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,939 likes - 160 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Josylvio
 
-97 songs - 4 hr 23 min
+98 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Banlieue](https://open.spotify.com/track/1GNQaqjUla0JLBM8bLxdL7) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [Banlieue](https://open.spotify.com/album/45tSyBs3b6fJhCG4qjWsPe) | 2:41 | 2025-07-17 | 2025-08-05 |
 | [BEN JE DOM?!](https://open.spotify.com/track/4RCInrdDyCR7uLDMw9yOAY) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [BEN JE DOM?!](https://open.spotify.com/album/0ZDbBUhewSBhxO7ekYoG94) | 2:16 | 2025-08-04 |  |
 | [Big 45](https://open.spotify.com/track/3P7poze29ks7ehISI4Qgpi) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [KA](https://open.spotify.com/artist/7gg1EFa02G9nKLqITlkHyB), [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC) | [Eigenwijs](https://open.spotify.com/album/5UaXfutr3ym7TSyWfozVgd) | 3:51 | 2025-07-17 | 2025-07-25 |
-| [BIG TIME](https://open.spotify.com/track/22nBwtL9r1UumgwqbiIc4D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG TIME](https://open.spotify.com/album/4KcENTAXETG5BOW9spdGp4) | 3:10 | 2025-08-14 |  |
+| [BIG TIME](https://open.spotify.com/track/22nBwtL9r1UumgwqbiIc4D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG TIME](https://open.spotify.com/album/4KcENTAXETG5BOW9spdGp4) | 3:10 | 2025-08-14 | 2025-08-28 |
+| [BIG TIME](https://open.spotify.com/track/65GxOG5BAgTG6UaJqMc8jZ) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 3:10 | 2025-08-26 |  |
 | [Blackjack](https://open.spotify.com/track/6EPpXbFmTMNtuICvJuCWhn) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Blackjack](https://open.spotify.com/album/7aLBaSpO39xBali0fp82pM) | 2:30 | 2025-07-17 |  |
 | [Boevenpad](https://open.spotify.com/track/7KNL4jiY6dE02qXNw9jBEa) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Boevenpad](https://open.spotify.com/album/530pOGhPq0Q8FXWTy0LFEX) | 2:34 | 2025-08-04 |  |
 | [CHAMPIONS LEAGUE \(feat\. Chivv\)](https://open.spotify.com/track/4CMEBMzz8j1jz4s0c3ftxZ) | [SMIB](https://open.spotify.com/artist/1z32oeFVVhOGidhdpkmw3t), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Loopey](https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [EENDRAGHT MAECKT MAGHT](https://open.spotify.com/album/76ORhlUMmJgarKyoju9D7H) | 3:20 | 2025-07-24 | 2025-08-15 |

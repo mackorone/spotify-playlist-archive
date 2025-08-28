@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Josylvio
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,835 likes - 65 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,827 likes - 65 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WJW](https://open.spotify.com/track/0yMtvWzuT86bMNO8CepMPm) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [WJW](https://open.spotify.com/album/4VRedjrKCj8evHQqOmLowm) | 2:26 |
 | 2 | [Rijcke Rapper](https://open.spotify.com/track/5q6iWoas2KoltMETxhtTa8) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Rijcke Rapper](https://open.spotify.com/album/1kUmiyYTg9PLnsx62UzecU) | 2:51 |
-| 3 | [BIG TIME](https://open.spotify.com/track/22nBwtL9r1UumgwqbiIc4D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG TIME](https://open.spotify.com/album/4KcENTAXETG5BOW9spdGp4) | 3:10 |
+| 3 | [BIG TIME](https://open.spotify.com/track/65GxOG5BAgTG6UaJqMc8jZ) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 3:10 |
 | 4 | [Knieblessure](https://open.spotify.com/track/0ImxzJIYD7irNZR9yUuRT0) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Knieblessure](https://open.spotify.com/album/67ZdtyuItHaZamegJrhIKJ) | 2:38 |
 | 5 | [160](https://open.spotify.com/track/7tkhoPEvhqjPlh3TcKHqU9) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [160](https://open.spotify.com/album/44jKkRxDb0ldNyEDq6eoib) | 1:44 |
 | 6 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15189,
+  "num_followers": 15192,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAABuUn75QkJV77y8vpyjXanm",
+  "snapshot_id": "aKz5AAAAAAADVKaM00bWKY8u9TU/Nuoy",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "More than Flowers",
-        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
       },
       "artists": [
-        {
-          "name": "Iam Astro",
-          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
-        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 187052,
-      "name": "More than Flowers",
-      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
+      "duration_ms": 313093,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetic Justice: Music from the Motion Picture",
-        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+        "name": "More than Flowers",
+        "url": "https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9"
       },
       "artists": [
+        {
+          "name": "Iam Astro",
+          "url": "https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P"
+        },
         {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC"
+      "duration_ms": 187052,
+      "name": "More than Flowers",
+      "url": "https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Julinho Ksd entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,715 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,731 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 6 | [Curto](https://open.spotify.com/track/34TiMAXPVeAjqns6vnf1TO) | [HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch), [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Curto](https://open.spotify.com/album/4PmEaNHkhwwlJUIQQLwYgM) | 2:19 |
 | 7 | [Insomnia](https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Insomnia](https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR) | 3:07 |
 | 8 | [Namastê](https://open.spotify.com/track/6UX58IdFIop2M8OAXbj6rA) | [MOBBERS](https://open.spotify.com/artist/0o2CVefufFC0laiAQozokD), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ), [MENDEZ](https://open.spotify.com/artist/7LDFDwC3WaP3aD9KSIblvb), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Namastê](https://open.spotify.com/album/5xCP2cuRmFVyPaER1VmKCr) | 2:42 |
-| 9 | [PAQUETÁ](https://open.spotify.com/track/3sAbh4SuadCa2LOW8S4pSJ) | [Trinity 3nity](https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Bill John](https://open.spotify.com/artist/2BGevNQpdhdGzE1R70I6SU), [Eraldina Santos](https://open.spotify.com/artist/6FX9AaGv645B9Vp5d3JCBK) | [PAQUETÁ](https://open.spotify.com/album/5yvF6Mpv9N716IpkSEUdao) | 3:08 |
+| 9 | [PAQUETÁ](https://open.spotify.com/track/3sAbh4SuadCa2LOW8S4pSJ) | [Trinity 3nity](https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Bill John](https://open.spotify.com/artist/2BGevNQpdhdGzE1R70I6SU), [Eraldina Santos](https://open.spotify.com/artist/3QTT5OcLepr3XakjC4SyeF) | [PAQUETÁ](https://open.spotify.com/album/5yvF6Mpv9N716IpkSEUdao) | 3:08 |
 | 10 | [Como 1 Rei](https://open.spotify.com/track/4PARMoAgm4LG2X8pfJNoxI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 3:11 |
 | 11 | [Tkt Pas](https://open.spotify.com/track/0xcZUMkdWxtvnhoeL0ei24) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Tkt Pas](https://open.spotify.com/album/7Kbm1JBWBUexKZX6fRYLS9) | 2:23 |
 | 12 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |

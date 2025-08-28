@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-704 songs - 1 day 21 hr 24 min
+706 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 | 2022-08-26 |
 | [God Ends Here](https://open.spotify.com/track/6uG7YeW7ICjTkp3L53upI9) | [Aeon](https://open.spotify.com/artist/3thZAdDkh3yDo21gLptJTc) | [God Ends Here](https://open.spotify.com/album/114qJpgmWt1wMJY51Da9zw) | 4:44 | 2022-01-14 | 2022-07-27 |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-01-23 | 2025-06-18 |
+| [God Of Mine](https://open.spotify.com/track/5C2H5w6b3FJSoikWsSHGUp) | [9 Dead](https://open.spotify.com/artist/5JV2PBzK9hKbN4fhUKJMUT) | [God Of Mine](https://open.spotify.com/album/1i6xUxBZs04xb4ZvlJqCKb) | 3:15 | 2025-08-22 |  |
 | [Golden Scars](https://open.spotify.com/track/2KyAab4ZrEARQsfl6QZLut) | [Outmayr](https://open.spotify.com/artist/1oazqYNFCBucvbVitAHB4C) | [Golden Scars](https://open.spotify.com/album/5y8JZW3y2uyAhAxneSJfwX) | 3:57 | 2021-12-17 | 2022-07-03 |
 | [Good People](https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Peter Rono](https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j) | [Empty Heaven](https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf) | 2:51 | 2021-12-17 |  |
 | [GOODBYE](https://open.spotify.com/track/33UpuHGggCndb1SLEQwgNw) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Devon Duarte](https://open.spotify.com/artist/5HgWYtdIGEFeNSFWpxqQl5) | [GOODBYE](https://open.spotify.com/album/7B6d0sG6UgKyhHwsHQF8LC) | 3:12 | 2022-05-06 | 2022-07-29 |
@@ -418,7 +419,7 @@
 | [Mercury](https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Mercury](https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b) | 2:03 | 2024-03-29 |  |
 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 | 2025-06-06 | 2025-07-16 |
 | [Midnight](https://open.spotify.com/track/7EsZWVFlIOwpkkg3YJHUS6) | [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [Midnight](https://open.spotify.com/album/2weX0db8qntVvcb39SiNVO) | 1:30 | 2025-07-25 |  |
-| [Mindless Omnipotent Master](https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Empyrean](https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb) | 4:38 | 2022-09-09 |  |
+| [Mindless Omnipotent Master](https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Empyrean](https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb) | 4:38 | 2022-09-09 | 2025-08-28 |
 | [Mirrors](https://open.spotify.com/track/3a5xdf1nPYi8l0FsWBUtKz) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Mirrors](https://open.spotify.com/album/4h6GP84d0vn4JHFn9Dwb6V) | 4:22 | 2021-12-17 | 2022-07-29 |
 | [Mirrors](https://open.spotify.com/track/4mPAEFa14pYmlT9GDrAXoM) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9) | 4:22 | 2023-02-24 | 2023-04-29 |
 | [Miserable Summer](https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Miserable Summer](https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2) | 4:54 | 2021-12-17 | 2024-08-24 |
@@ -544,7 +545,7 @@
 | [Scumprophet](https://open.spotify.com/track/4RmEemZjQl0BVZbWDcPoYu) | [Hollow Prophet](https://open.spotify.com/artist/6ogDfDc9YxecJUrpm9etXZ), [SCUMFUCK](https://open.spotify.com/artist/3rZszyIElLNiSPWPemCEWQ) | [Scumprophet](https://open.spotify.com/album/6EAWBs3FxAEsy1cawufZFS) | 4:44 | 2021-12-17 | 2022-04-07 |
 | [Seed](https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Seed](https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK) | 4:49 | 2025-06-06 |  |
 | [Seeing God \(feat\. Aaron Heard\)](https://open.spotify.com/track/74Kl9WSj63K7MJOZssDwAF) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs), [Aaron Heard](https://open.spotify.com/artist/2UBVwsstNxYlnn2pyyi84c) | [D](https://open.spotify.com/album/795u6k1CCuttNnhsDTM1ij) | 2:48 | 2021-12-17 | 2022-06-27 |
-| [Seeking Through The Vacant Vessel](https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Seeking Through The Vacant Vessel](https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l) | 2:45 | 2025-07-04 |  |
+| [Seeking Through The Vacant Vessel](https://open.spotify.com/track/72PZot8RjnmFqzg1BScDmJ) | [CELL](https://open.spotify.com/artist/4YQNVGQ28HK3g68Su40onJ) | [Seeking Through The Vacant Vessel](https://open.spotify.com/album/2UhLxDm4krwbgOc9Dm1M2l) | 2:45 | 2025-07-04 | 2025-08-28 |
 | [Sentenced](https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL) | [Sentenced](https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand) | 4:16 | 2024-06-25 | 2025-03-15 |
 | [Set the World on Fire](https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Set the World on Fire](https://open.spotify.com/album/3EWHosgZgHFx7SI2iTI2ZW) | 2:49 | 2025-04-25 |  |
 | [Seven Souls](https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Seven Souls](https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5) | 4:43 | 2021-12-17 | 2025-03-15 |
@@ -610,6 +611,7 @@
 | [The Failsafe Fallacy](https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/1TKgsk77shaDKEi2SmgK9R) | 4:45 | 2022-07-08 | 2023-08-03 |
 | [The Failsafe Fallacy](https://open.spotify.com/track/7vJtcOCXf4g2FoGTcIQMdJ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Luciferous](https://open.spotify.com/album/6tBRG2SO2SNDL1UdMp6A5P) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [The Fear of God](https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Fear of God](https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj) | 2:02 | 2024-08-23 |  |
+| [THE FINAL GATE](https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr) | [The Archaic Epidemic](https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l) | [THE FINAL GATE](https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N) | 3:04 | 2025-08-22 |  |
 | [The Gallow](https://open.spotify.com/track/0ioB64ttCtpxVvoQsaqVQH) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Gallow](https://open.spotify.com/album/4hImAik1vJKAfPmXFFg3q1) | 4:58 | 2023-12-13 | 2024-10-19 |
 | [The Isnis](https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [The Isnis](https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG) | 3:17 | 2022-09-09 |  |
 | [The Killing Womb](https://open.spotify.com/track/5gb2BesEN6FrtuApkKPPW2) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [The Killing Womb](https://open.spotify.com/album/1J1Alzur5kRYahOsgqCqCh) | 2:32 | 2022-01-07 | 2022-06-12 |

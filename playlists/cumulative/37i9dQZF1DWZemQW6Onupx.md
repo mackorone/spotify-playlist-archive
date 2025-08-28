@@ -2,7 +2,7 @@
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
+> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/>👉  Check out <a href="https://open.spotify.com/show/31eYyJk4EPoivEIZqyPzT1?si=04TtCDTaQoW0s9IgVFUR9A">Podcast</a> as well! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
 48 songs - 2 hr 32 min
 

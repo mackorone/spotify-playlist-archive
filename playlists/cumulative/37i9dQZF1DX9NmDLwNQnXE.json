@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 156007,
       "name": "La temp\u00eate",
       "url": "https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ"
@@ -3016,8 +3016,8 @@
       },
       "artists": [
         {
-          "name": "Pluie et tonnerre",
-          "url": "https://open.spotify.com/artist/1FoJFzUt8KdfLxzHL3wTwI"
+          "name": "Storm Machine",
+          "url": "https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk"
         }
       ],
       "date_added": "2021-11-10",
@@ -3106,8 +3106,8 @@
       },
       "artists": [
         {
-          "name": "Thundertalk",
-          "url": "https://open.spotify.com/artist/6k3QLsIquq8GR63RpsssHo"
+          "name": "Water Effects Center",
+          "url": "https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG"
         }
       ],
       "date_added": "2021-11-10",
@@ -3322,8 +3322,8 @@
       },
       "artists": [
         {
-          "name": "Mother Nature Recordings",
-          "url": "https://open.spotify.com/artist/2XVbrQz4APKq6tqZqGb2Gz"
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
         }
       ],
       "date_added": "2021-11-10",
@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Peceful Waters",
+        "url": "https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm"
+      },
+      "artists": [
+        {
+          "name": "Ablation",
+          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129288,
+      "name": "Night Storm",
+      "url": "https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3"
+    },
+    {
+      "album": {
         "name": "The Sound Of Thunder",
         "url": "https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR"
       },
@@ -3515,24 +3533,6 @@
     },
     {
       "album": {
-        "name": "Peceful Waters",
-        "url": "https://open.spotify.com/album/2bFCb65X1zLYlDrS1JLPOm"
-      },
-      "artists": [
-        {
-          "name": "Peceful Waters",
-          "url": "https://open.spotify.com/artist/2VfTfwQpjAkt3dR71njyYp"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129287,
-      "name": "Night Storm",
-      "url": "https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3"
-    },
-    {
-      "album": {
         "name": "Hyde Park Rain",
         "url": "https://open.spotify.com/album/6pdnloswEEFq9U5sbMc3g8"
       },
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 167500,
       "name": "No Irrigation Needed - Seamless",
       "url": "https://open.spotify.com/track/0Z7TLSV354yKvLrmbMJf8g"
@@ -7146,8 +7146,8 @@
       },
       "artists": [
         {
-          "name": "Weather Watcher",
-          "url": "https://open.spotify.com/artist/2wzYCm2bWxypuCR1UzL8Hw"
+          "name": "Dieter Esther",
+          "url": "https://open.spotify.com/artist/6z0YBDZwZIxUzf0rO3WMFB"
         }
       ],
       "date_added": "2021-11-10",
@@ -7560,8 +7560,8 @@
       },
       "artists": [
         {
-          "name": "Natur Musikanten",
-          "url": "https://open.spotify.com/artist/1cnvjBS4O1gaKv7LAIzFFT"
+          "name": "Mussina",
+          "url": "https://open.spotify.com/artist/0yC8fbzqIzSAGEPZtbSwal"
         }
       ],
       "date_added": "2021-11-10",

@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 181383,
       "name": "Amped",
       "url": "https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 188190,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR"
@@ -1298,6 +1298,28 @@
     {
       "album": {
         "name": "Unexpected",
+        "url": "https://open.spotify.com/album/4reugbzJpVWhzSQfeNR7c5"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Neiv",
+          "url": "https://open.spotify.com/artist/1oW5Knr3xHcZvZpekIYYuh"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174321,
+      "name": "Unexpected",
+      "url": "https://open.spotify.com/track/1Ab6qXXWkBrXMZj4G90SAP"
+    },
+    {
+      "album": {
+        "name": "Unexpected",
         "url": "https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3"
       },
       "artists": [
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 174321,
       "name": "Unexpected",
       "url": "https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,757 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,766 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 67 | [Autumn \(Live\)](https://open.spotify.com/track/7ywOerFm0G54DxRkCdN8Hr) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [New Gospel Revisited](https://open.spotify.com/album/0OWoqHnIOAPDh3bKXYXRHD) | 9:44 |
 | 68 | [All About My Girl \- Live](https://open.spotify.com/track/0J5Hom5SOKJObfBEMrCwHo) | [Wil Blades](https://open.spotify.com/artist/6HLIDmXT3eehC2JNmMnerV), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [George Sluppick](https://open.spotify.com/artist/6eaefvwlquYoOlAZ2dfoWK) | [All About My Girl](https://open.spotify.com/album/0rBdhF1tjqYRHCxcONrTke) | 10:30 |
 | 69 | [The Muse \- Live in New York City, February 8, 1975](https://open.spotify.com/track/31qdHIkBXaXoCoWTUnDIYh) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Live in New York City, February 8, 1975](https://open.spotify.com/album/4Hnv8GaFa8kQgOUn1WeJtM) | 5:55 |
-| 70 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
+| 70 | [Air Pakistan \- Live](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 | 71 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 72 | [Eighthundred Streets by Feet \(Live in Hamburg\)](https://open.spotify.com/track/0JTGz6NuHb7cuLM5GEbMZw) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [e.s.t\. Live in Hamburg](https://open.spotify.com/album/3PU1b3aDrbMKucRulElluF) | 9:35 |
 | 73 | [Softly as in a Morning Sunrise \- Live at Lincoln Center](https://open.spotify.com/track/3UkNjYoO81SVJFNkrkkjgX) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [The Complete Last Concert](https://open.spotify.com/album/4SQ03iwnOPvzgClDLWS5oZ) | 6:26 |

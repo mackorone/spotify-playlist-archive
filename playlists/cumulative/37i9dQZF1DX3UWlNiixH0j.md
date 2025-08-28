@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-2,631 songs - 6 day 20 hr 15 min
+2,632 songs - 6 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1798,7 +1798,7 @@
 | [だって](https://open.spotify.com/track/175C4JA6zfA4kaId3GWmft) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [だって](https://open.spotify.com/album/38IPKWm6SoIzlLTJXxD5p4) | 4:03 | 2024-01-30 | 2024-02-07 |
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-03-22 |
 | [だるがらみ \(feat\. 関口シンゴ\)](https://open.spotify.com/track/7JgW7JNMfzONhTlkknDzac) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [YOLO](https://open.spotify.com/album/0KGXhKD7VkUdqhR7QfCSxq) | 2:34 | 2023-08-29 | 2023-10-31 |
-| [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 | 2025-07-29 |  |
+| [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 | 2025-07-29 | 2025-08-28 |
 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 | 2023-04-04 | 2023-04-12 |
 | [ちょっとだけずっとグッド](https://open.spotify.com/track/6eKAAUvpxCMQp9iwTpwS5H) | [豊と良治](https://open.spotify.com/artist/5Xp0KrLGD6tSXCvUyNPexl) | [ちょっとだけずっとグッド](https://open.spotify.com/album/5SE4TMoyWUk8wL1i0RnzGR) | 3:00 | 2025-03-25 | 2025-04-02 |
 | [つむぎ](https://open.spotify.com/track/7fTmVIFBjGyzCnLx0DybVh) | [pony sandwich tour](https://open.spotify.com/artist/3CXkek5jZjlEAjM8hCXYkp) | [つむぎ](https://open.spotify.com/album/35y8yCbAOJXkMOCkSZnKgE) | 3:22 | 2024-04-09 | 2024-04-11 |
@@ -1901,6 +1901,7 @@
 | [アーリーデイジー](https://open.spotify.com/track/3WgFhWsRcOUn3jE6ifdmHV) | [Ellipsick](https://open.spotify.com/artist/1jtFbKwxW3ZKJV5zvhWmiW) | [アーリーデイジー](https://open.spotify.com/album/5vG81LgUBNAzRdhlOfOQhI) | 3:29 | 2024-05-28 | 2024-06-05 |
 | [イルミナ](https://open.spotify.com/track/5ekXHnjKmLTBrCQxtmSv8u) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [イルミナ](https://open.spotify.com/album/47F2d6ey1P2gOGWuzBOiV0) | 3:28 | 2025-02-25 | 2025-03-05 |
 | [インサイドホール](https://open.spotify.com/track/2IU7k7QUYT960WemRF7g4U) | [Wendy York Stand](https://open.spotify.com/artist/0L3bVqidFCtjVmfYcmY868) | [HAIN IN THE CITY](https://open.spotify.com/album/1Ve0R4gEI4tUFOCATcEqFc) | 3:40 | 2024-01-04 | 2024-01-13 |
+| [ウィノナライダー アンドロイド](https://open.spotify.com/track/4dQf9tCe3FeDL6lxkZKKGJ) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:45 | 2025-08-26 |  |
 | [ウィンディー](https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC) | [ウィンディー](https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i) | 3:42 | 2023-08-22 | 2023-08-24 |
 | [ウインクでおめかし](https://open.spotify.com/track/69wq2CZcZ7990DQB0AUKFT) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ウインクでおめかし](https://open.spotify.com/album/1ciDRa9ytqUauxDT7DO3k3) | 2:28 | 2025-03-18 | 2025-04-05 |
 | [ウェルテル](https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [ウェルテル](https://open.spotify.com/album/7I2pdc2wjO9J0jmZ2ldDYS) | 3:49 | 2024-08-06 | 2024-09-18 |

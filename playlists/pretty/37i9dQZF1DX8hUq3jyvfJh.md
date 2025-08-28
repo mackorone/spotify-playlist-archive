@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,008 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,012 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Mulher MC](https://open.spotify.com/track/2Ggrs1fIyg8lqbGkIbT9kr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX) | [Mulher MC](https://open.spotify.com/album/691DON7EpEoLHj20fUxOA9) | 3:55 |
 | 40 | [Eu Te Amo](https://open.spotify.com/track/6rthmVOqfprSIwadXngt4S) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Meraki Nina](https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V) | 3:38 |
 | 41 | [Divina Comédia](https://open.spotify.com/track/4a9qqG4nvQEvvJZ93VSD0G) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Divina Comédia](https://open.spotify.com/album/385nFASTAYOjWXVmMuWMWC) | 2:42 |
-| 42 | [Ten Commandments](https://open.spotify.com/track/3LAxDA234GrviAl7DeSHzi) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 5:02 |
-| 43 | [Cosmo e Wanda](https://open.spotify.com/track/4yC4hyptMVCJekxnHCck3y) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Artilheira](https://open.spotify.com/album/57vseSG0QgBscoazMP2JQd) | 2:12 |
+| 42 | [Cosmo e Wanda](https://open.spotify.com/track/4yC4hyptMVCJekxnHCck3y) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Artilheira](https://open.spotify.com/album/57vseSG0QgBscoazMP2JQd) | 2:12 |
+| 43 | [Ten Commandments](https://open.spotify.com/track/3LAxDA234GrviAl7DeSHzi) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 5:02 |
 | 44 | [Mexe com a minha cabeça](https://open.spotify.com/track/1HIlqQshgmmKCU0D8Ne8Cq) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:22 |
 | 45 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
 | 46 | [Bandida \- Remix](https://open.spotify.com/track/3uCaGqSBKi5ujNvPqZosnl) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Bandida \(Remix\)](https://open.spotify.com/album/3sQFnb3L4I1I590EYYT6u6) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『ENHYPEN WORLD TOUR ‘WALK THE LINE’ IN JAPAN』 のセットリストをスペシャルメッセージとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,740 likes - 27 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,734 likes - 27 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

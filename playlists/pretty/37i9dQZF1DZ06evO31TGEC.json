@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 51647,
+  "num_followers": 51655,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAABjfjgeMKO3utJku9f+535x",
+  "snapshot_id": "aKz5AAAAAABE409MNeIZVEADYDmEMgDX",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Que Se Mueran de Envidia",
+        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 180185,
-      "name": "Nadie Es De Nadie",
-      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+      "duration_ms": 214038,
+      "name": "Que Se Mueran de Envidia",
+      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Se Mueran de Envidia",
-        "url": "https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Que Se Mueran de Envidia",
-      "url": "https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD"
+      "duration_ms": 180185,
+      "name": "Nadie Es De Nadie",
+      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon de Nino",
-        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Regalo del Cielo",
-      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corazon de Nino",
+        "url": "https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Regalo del Cielo",
+      "url": "https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 186746,
       "name": "Contigo Me Gusta",
       "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,

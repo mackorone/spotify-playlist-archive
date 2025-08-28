@@ -1,6 +1,6 @@
 {
   "description": "Our favourite new music, curated by the XL team. ",
-  "num_followers": 16559,
+  "num_followers": 16556,
   "original_name": "XL Play",
   "owner": {
     "name": "XL Recordings",
@@ -666,6 +666,10 @@
         {
           "name": "soft threat",
           "url": "https://open.spotify.com/artist/7ff6cuyTZIiuv2rWfuxogV"
+        },
+        {
+          "name": "Joey LaBeija",
+          "url": "https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ"
         }
       ],
       "duration_ms": 150857,

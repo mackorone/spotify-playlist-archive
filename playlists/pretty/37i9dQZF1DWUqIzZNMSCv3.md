@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > The world's most iconic and relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,614 likes - 118 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,710 likes - 118 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 93 | [Das Wohltemperierte Klavier: Book 1, BWV 846\-869: Praeludium 23](https://open.spotify.com/track/6OzdhkIAw3Hj1GozRoyQTl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Bach, J.S.: The well\-tempered Clavier](https://open.spotify.com/album/3sHGzXs7ZKRRFmJxBp4YTv) | 1:19 |
 | 94 | [Album Leaves \(Stammbuchblätter\): I\. For Kateřina Kolářová](https://open.spotify.com/track/2czqg4YLVDdeDIvr8rYxyc) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [Jitka Čechová](https://open.spotify.com/artist/5Y25U2cOdB0UQ56nL8RcKX) | [Smetana: Piano Works 6](https://open.spotify.com/album/03lo5FIUM2JhOs66qCDFtg) | 1:57 |
 | 95 | [Anonymous: My Lady Carey's Dompe \(Arr\. Diluka for Piano\)](https://open.spotify.com/track/0xwBbPNHdwqFUITinuAVtJ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [My Lady Carey's Dompe](https://open.spotify.com/album/4cWQDQeXPkBkJD3SJPdoMd) | 1:18 |
-| 96 | [Nocturne No\. 1 in E Flat Major, H.24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
+| 96 | [Nocturne No\. 1 in E\-Flat Major, H\. 24](https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub) | 3:41 |
 | 97 | [12 Études, Op\. 25: No\. 1 in A\-Flat Major "Harp Study"](https://open.spotify.com/track/6sUXib7nhKRmQvBbx97KiM) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Chopin: 12 Études, Op\. 25: No\. 1, in A\-Flat Major "Harp Study"](https://open.spotify.com/album/5mUZMvTOjpGo0X3kLxPbjZ) | 2:30 |
 | 98 | [English Suite No\. 6 in D Minor, BWV 811: 4a\. Sarabande](https://open.spotify.com/track/2R1wZ2VfDxc4RWGLWr7cKc) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj) | [Bach: English Suite No\. 6 in D Minor, BWV 811: No\. 4a, Sarabande](https://open.spotify.com/album/1TyvGEa6gk2n70DnEjgwBf) | 2:29 |
 | 99 | [48 Esquisses, Op\. 63, Book 1: No\. 1, La vision](https://open.spotify.com/track/6EAnGnN45nHXMlVWMogf5f) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Steven Osborne](https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK) | [Alkan: Esquisses \(49 Sketches\), Op\. 63](https://open.spotify.com/album/58JynSBYoLbdjknAkaE1Ty) | 2:55 |

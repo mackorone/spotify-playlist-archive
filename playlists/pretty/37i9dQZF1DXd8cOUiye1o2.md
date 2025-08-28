@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Param Sundari dropped a 'Danger'\-ously hot bop! Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,927 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,060 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 64 | [Bas Ek Dhadak \- From "Dhadak 2"](https://open.spotify.com/track/1aV0CbIZbMGpYRFyTh4apW) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bas Ek Dhadak \(From "Dhadak 2"\)](https://open.spotify.com/album/3cDh6q8DISkIjX7sahQU8T) | 4:19 |
 | 65 | [Qismat](https://open.spotify.com/track/5HffBpqXWyPVE27WwcmGcY) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Qismat](https://open.spotify.com/album/1L9zM06rnQl8afi1l6VvMv) | 3:18 |
 | 66 | [Jaane Jaan](https://open.spotify.com/track/2OiKYKxP9blvUyP2tDGO8r) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Jaane Jaan](https://open.spotify.com/album/2l5aION6UUUALhTC2se9qy) | 2:11 |
-| 67 | [Maahi O Maahi](https://open.spotify.com/track/0BHVErgRxG5ssrlUOKyFnK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Maahi O Maahi](https://open.spotify.com/album/1vBDTWnU9jW2iCjrmfYNK3) | 3:28 |
+| 67 | [Maahi O Maahi](https://open.spotify.com/track/0BHVErgRxG5ssrlUOKyFnK) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Maahi O Maahi](https://open.spotify.com/album/1vBDTWnU9jW2iCjrmfYNK3) | 3:27 |
 | 68 | [Powerhouse \(From "Coolie The Powerhouse"\) \(Hindi\)](https://open.spotify.com/track/3GRxmioEL8CytKeANSlfhs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Kumaar](https://open.spotify.com/artist/5iegccQ9Mwub6iXqCdIyiw) | [Powerhouse \(From "Coolie The Powerhouse"\) \(Hindi\)](https://open.spotify.com/album/2woOlyoBjCsTljC0wyn971) | 3:26 |
 | 69 | [Kahani Meri](https://open.spotify.com/track/2xNDg2ITRFMgdzQxb3cL8k) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kahani Meri](https://open.spotify.com/album/08e8NYxLIuMzCcd6A1BFlV) | 4:08 |
 | 70 | [Bade Din Huye \(From "Love In Vietnam"\)](https://open.spotify.com/track/1S3MoKHNaCtCnuh1dQygMn) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Bade Din Huye \(From "Love In Vietnam"\)](https://open.spotify.com/album/4mqnUxPyfxKxKM7Gb8GmqK) | 5:53 |

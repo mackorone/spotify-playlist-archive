@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 207895,
+  "num_followers": 207928,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAADK7bycOBnU5Gi1QBzzY0Zv",
+  "snapshot_id": "aKz5AAAAAABKnaIPdMvOjBy8LRcDyzEr",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marcela Gandara (Live)",
         "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 330786,
       "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
       "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas - En Vivo",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 208920,
       "name": "Que Seas Mi Hogar (feat. Reyli Barba)",
       "url": "https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas - En Vivo",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soplando Vida",
-        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Brilla",
-      "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despi\u00e9rtame",
-        "url": "https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3"
+        "name": "Soplando Vida",
+        "url": "https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ"
       },
       "artists": [
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 187735,
-      "name": "Despi\u00e9rtame",
-      "url": "https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX"
+      "duration_ms": 199546,
+      "name": "Brilla",
+      "url": "https://open.spotify.com/track/1gMtFGkuJzV7T92tI5wE86"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 231496,
       "name": "Te Busqu\u00e9 (feat. Brian Sandoval)",
       "url": "https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Despi\u00e9rtame",
+        "url": "https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 187735,
+      "name": "Despi\u00e9rtame",
+      "url": "https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX"
     },
     {
       "added_at": null,

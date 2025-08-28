@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,941 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 6 | [Me Siento Libre](https://open.spotify.com/track/20AahfaNpsuIz9He5tWe7Q) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Me Siento Libre](https://open.spotify.com/album/7sdoXJL0QM5ybxdZfcd1lQ) | 3:09 |
 | 7 | [Van God](https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap) | [Van God](https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw) | 4:17 |
 | 8 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
-| 9 | [Todo Y Nada \- En Vivo](https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Todo Y Nada / Seguir Vale La Pena \(En Vivo\)](https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs) | 3:31 |
+| 9 | [Todo Y Nada \- En Vivo](https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Todo Y Nada / Seguir Vale La Pena \(Live\)](https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs) | 3:31 |
 | 10 | [Agua Viva](https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/07810vBHlKJsbSYUesp68P) | 3:39 |
 | 11 | [Amado Mio](https://open.spotify.com/track/74UKvcqvGS87RwCnSvmFfW) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Unplugged Evento Historico](https://open.spotify.com/album/65TpBgr5Ikt5wCyhMDqoSl) | 5:38 |
 | 12 | [Sin Tu Amor](https://open.spotify.com/track/7zoaxuyAARzX2SqkiHQQqD) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Anexo](https://open.spotify.com/album/0VWgiXOxnp07WJisg4AAHN) | 3:03 |

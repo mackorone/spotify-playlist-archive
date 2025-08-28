@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,559 likes - 107 songs - 5 hr 54 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,556 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 33 | [336](https://open.spotify.com/track/1QDCaXyylUsENC1teffkEk) | [OSSX](https://open.spotify.com/artist/0IlSNeQlqItatzdSJeZFLX) | [Liquidation](https://open.spotify.com/album/2XjvkJgwH8WNLb6zhQ5gbI) | 4:16 |
 | 34 | [Levantarse](https://open.spotify.com/track/6khhlRKgczz7I7iTBAZ4kH) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [Levantarse](https://open.spotify.com/album/7qlvnQWBmEFAbvvcwXn8mv) | 6:30 |
 | 35 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
-| 36 | [conceited](https://open.spotify.com/track/0Q0hIpIQpCLfthzXkFlgCn) | [soft threat](https://open.spotify.com/artist/7ff6cuyTZIiuv2rWfuxogV) | [conceited](https://open.spotify.com/album/4hnVVTeXFgJkvkJehhMDAN) | 2:30 |
+| 36 | [conceited](https://open.spotify.com/track/0Q0hIpIQpCLfthzXkFlgCn) | [soft threat](https://open.spotify.com/artist/7ff6cuyTZIiuv2rWfuxogV), [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [conceited](https://open.spotify.com/album/4hnVVTeXFgJkvkJehhMDAN) | 2:30 |
 | 37 | [GO DUMB](https://open.spotify.com/track/1ghvfEhXbOQSLHEt08qX8g) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK) | [GO DUMB](https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A) | 2:52 |
 | 38 | [WE ALL IN GOD’S PUM](https://open.spotify.com/track/6ZbzmrCnjz4U2e8HQrURWn) | [Brbko](https://open.spotify.com/artist/1RjSCvuRvWdXcsUMSVv5Tf) | [WE ALL IN GOD’S PUM](https://open.spotify.com/album/0YFWA4X5dJOld6hcxQQkz8) | 2:37 |
 | 39 | [Peroxide](https://open.spotify.com/track/2W9Kk6nJzXcIH514bB1rKf) | [James Massiah](https://open.spotify.com/artist/6xRjR59QNFtWqg9tUKvFc9) | [Bounty Law](https://open.spotify.com/album/1BXbDQs2KMslPKHaLvStHf) | 4:24 |

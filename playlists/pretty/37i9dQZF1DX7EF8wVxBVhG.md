@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,155 likes - 102 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,520 likes - 102 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 51 | [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/track/5xm4YHlyEDmE6f37pGOY7p) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Silent Presence \(Binaural Alpha 93.7 Hz \- 85.7 Hz\)](https://open.spotify.com/album/3WB3uTSe525ePD2hnKO96I) | 4:06 |
 | 52 | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/track/6zfn958Atr2Nrx4A4eGJI5) | [Smoove Nappers](https://open.spotify.com/artist/1FQ5ICSZEEZRk68yEJ0Ol1) | [Shaant Prayog Alpha 74Hz \- 82Hz](https://open.spotify.com/album/2ZLbL1RUAloHNUQxZpyqBm) | 2:35 |
 | 53 | [Window Seat Alpha 50\-60hz](https://open.spotify.com/track/6pXnt3PwcY5hJw7OqS3oqh) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Window Seat Alpha 50\-60hz](https://open.spotify.com/album/3ENxexlVLVHHYSamHt2ktT) | 2:49 |
-| 54 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 |
+| 54 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Leto Calo](https://open.spotify.com/artist/2lyZpfTmODBc76cQKcNPrh) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 |
 | 55 | [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 |
 | 56 | [Pasadena 65Hz \- 67Hz](https://open.spotify.com/track/2izGpvovzV40efrRgnG87o) | [Inner Society](https://open.spotify.com/artist/1eAKHzxuj5hu1fFP38wzFx) | [Pasadena 65Hz \- 67Hz](https://open.spotify.com/album/6jBVUioNs14SgxlrprDSZ1) | 3:34 |
 | 57 | [Binaural Algorithms Beta 15Hz](https://open.spotify.com/track/753yBTnJhDhE8zDOtNRQN8) | [Big Ordo](https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql) | [Binaural Algorithms](https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1) | 2:19 |

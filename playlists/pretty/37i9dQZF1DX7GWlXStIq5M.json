@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, FBC, Rogerio Flausino",
-  "num_followers": 369897,
+  "num_followers": 369882,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Cadela",
+        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+      },
+      "artists": [
+        {
+          "name": "MARIA MIRANDA",
+          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+        }
+      ],
+      "duration_ms": 197414,
+      "name": "Cadela",
+      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Sinais",
         "url": "https://open.spotify.com/album/35DzxwKI6e0mJBCmPxBUUE"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Cadela",
-        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
       },
       "artists": [
         {
-          "name": "MARIA MIRANDA",
-          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 197414,
-      "name": "Cadela",
-      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+      "duration_ms": 169701,
+      "name": "Sideral",
+      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -503,6 +519,26 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
+      },
+      "artists": [
+        {
+          "name": "WENNY",
+          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Pode Sair / Pode Ficar",
         "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
       },
@@ -523,22 +559,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
+        "name": "livre",
+        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
       },
       "artists": [
         {
-          "name": "WENNY",
-          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
+      "duration_ms": 63239,
+      "name": "livre",
+      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -567,22 +599,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "livre",
-        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        }
-      ],
-      "duration_ms": 63239,
-      "name": "livre",
-      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Minha Opini\u00e3o",
         "url": "https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 220470,
       "name": "Minha Opini\u00e3o",
       "url": "https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Sideral",
-      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "IRADOH",
         "url": "https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169484,
       "name": "Longe De Mim",
       "url": "https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "na minha mente",
         "url": "https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+        "name": "MOVEDI\u00c7A II",
+        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
       },
       "artists": [
         {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
+      "duration_ms": 146776,
+      "name": "AKO\u00c7A",
+      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -891,18 +907,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "MOVEDI\u00c7A II",
-        "url": "https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96"
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
       },
       "artists": [
         {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
         }
       ],
-      "duration_ms": 146776,
-      "name": "AKO\u00c7A",
-      "url": "https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H"
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -931,22 +947,6 @@
       "duration_ms": 146829,
       "name": "Chama",
       "url": "https://open.spotify.com/track/6NadLF4QyijMRzRdwrfeOR"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "O Motivo",
-        "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
+        "name": "Esse \u00c9 Meu Mundo",
+        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
       },
       "artists": [
         {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
         },
         {
-          "name": "Tutti Beats",
-          "url": "https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH"
+          "name": "Kaike",
+          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
         }
       ],
-      "duration_ms": 184019,
-      "name": "O Motivo",
-      "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
+      "duration_ms": 201792,
+      "name": "\u00c1gua de Coco",
+      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Esse \u00c9 Meu Mundo",
-        "url": "https://open.spotify.com/album/0SJaI6K43lSMaA0n8j8P3G"
+        "name": "O Motivo",
+        "url": "https://open.spotify.com/album/5j7Wfy6vxuPgjN1b1PY7SW"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
         },
         {
-          "name": "Kaike",
-          "url": "https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V"
+          "name": "Tutti Beats",
+          "url": "https://open.spotify.com/artist/7bn1rXxEuE0LpV3LQ5PatH"
         }
       ],
-      "duration_ms": 201792,
-      "name": "\u00c1gua de Coco",
-      "url": "https://open.spotify.com/track/7uaYY2vPvnd2EPgRGItzVP"
+      "duration_ms": 184019,
+      "name": "O Motivo",
+      "url": "https://open.spotify.com/track/1U3GnZsLzer0Rihu5Xljvt"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 180000,
       "name": "Assome",
       "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
+      },
+      "artists": [
+        {
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2025-08-22 03:00:09",

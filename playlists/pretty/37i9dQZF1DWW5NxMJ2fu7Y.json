@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 64125,
+  "num_followers": 64155,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "BL\u00c9DARD",
-        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
-      },
-      "artists": [
-        {
-          "name": "Shaw",
-          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
-        }
-      ],
-      "duration_ms": 204590,
-      "name": "FACE TO FACE",
-      "url": "https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "Marceline",
         "url": "https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 175568,
       "name": "Marceline",
       "url": "https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "BL\u00c9DARD",
+        "url": "https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1"
+        }
+      ],
+      "duration_ms": 204590,
+      "name": "FACE TO FACE",
+      "url": "https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
-      },
-      "artists": [
-        {
-          "name": "Pause",
-          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
-        }
-      ],
-      "duration_ms": 288949,
-      "name": "L\u2019Bayda Mon Amour",
-      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "Doberwoman",
         "url": "https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 288949,
+      "name": "L\u2019Bayda Mon Amour",
+      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Moral",
-        "url": "https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY"
-      },
-      "artists": [
-        {
-          "name": "Dada",
-          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
-        }
-      ],
-      "duration_ms": 202344,
-      "name": "Moral",
-      "url": "https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "3AYM",
         "url": "https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 280359,
       "name": "3AYM",
       "url": "https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "Moral",
+        "url": "https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY"
+      },
+      "artists": [
+        {
+          "name": "Dada",
+          "url": "https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0"
+        }
+      ],
+      "duration_ms": 202344,
+      "name": "Moral",
+      "url": "https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Nfss Lhala",
-        "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
       },
       "artists": [
         {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 200287,
-      "name": "Nfss Lhala",
-      "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
+      "duration_ms": 160000,
+      "name": "DIAMOND",
+      "url": "https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+        "name": "Nfss Lhala",
+        "url": "https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
         }
       ],
-      "duration_ms": 160000,
-      "name": "DIAMOND",
-      "url": "https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9"
+      "duration_ms": 200287,
+      "name": "Nfss Lhala",
+      "url": "https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E"
     },
     {
       "added_at": "2025-08-07 10:28:18",

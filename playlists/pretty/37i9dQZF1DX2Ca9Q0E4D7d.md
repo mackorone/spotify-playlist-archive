@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,081 likes - 68 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,158 likes - 68 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 23 | [Alpha Binaural Astral Echoes](https://open.spotify.com/track/54Hz2H60d33HYOcCaoUk6w) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Alpha Binaural Astral Echoes](https://open.spotify.com/album/7ve26rcVcrU2aRtrhbmluB) | 2:50 |
 | 24 | [Binaural Beta Sinus 100 Hz \- 114 Hz](https://open.spotify.com/track/727VTdgkCBN4zumcmpcfK2) | [Phil O Sophie](https://open.spotify.com/artist/4j7JJYsEkFjo8wcVJMdDcq) | [Binaural Delta Sinus 90 Hz \- 91 Hz](https://open.spotify.com/album/1KhUasLZZC8QJUSkihGBGu) | 2:22 |
 | 25 | [Deep Learning Beta 91 Hz \- 105 Hz](https://open.spotify.com/track/2UlF8rX1lTattkc8f0geqN) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Deep Learning Beta 91 Hz \- 105 Hz](https://open.spotify.com/album/4J2IxsXND8fTkG3JpFWywX) | 2:52 |
-| 26 | [Beta Waves 136Hz \- 150Hz](https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:47 |
+| 26 | [Beta Waves 136Hz \- 150Hz](https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk) | [Leto Calo](https://open.spotify.com/artist/2lyZpfTmODBc76cQKcNPrh) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:47 |
 | 27 | [Beta Sinus 432 Hz \- 446 Hz](https://open.spotify.com/track/4XdUOoovbSY6SyVWBx5btW) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Alm Bark](https://open.spotify.com/album/7kjqxCNiLvwxwDHA8DcJvI) | 3:37 |
 | 28 | [Binaural Beta Sinus Beats](https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q) | [Erwin Oscár](https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v) | [Binaural Brain Waves](https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI) | 2:39 |
 | 29 | [Beta Sinus 190 Hz \- 220 Hz](https://open.spotify.com/track/5IOc6vZvqbl0Nx9MxCbAxK) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Brainstate](https://open.spotify.com/album/5kuxZJvbGpL6lX2yOU8T6V) | 3:16 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 39 | [Dream Pools Beta \(60\-86hz\)](https://open.spotify.com/track/7AvU07Vg2WQCJogV0AtQZR) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Dream Pools Beta \(60\-86hz\)](https://open.spotify.com/album/1LVTVUh5Jw8dW4LCsMdUYW) | 2:35 |
 | 40 | [Deepstate Beta](https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Trillion](https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9) | 3:10 |
 | 41 | [Beta Escapes 103 hz \- 101 hz](https://open.spotify.com/track/2EEZjBet51P9GrEGJWIAME) | [Floating](https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C) | [Beta Binaural Flow](https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE) | 3:21 |
-| 42 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 |
+| 42 | [Beta Waves 110Hz \- 130Hz](https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg) | [Leto Calo](https://open.spotify.com/artist/2lyZpfTmODBc76cQKcNPrh) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:40 |
 | 43 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 |
 | 44 | [Radiating Cognition \(Beta 77.8Hz \- 96.1Hz\)](https://open.spotify.com/track/1TGCXEWldi4BSwI1Fr6fNk) | [sweetHz](https://open.spotify.com/artist/3ToHPsqBK9cowwR88Cn42B) | [Radiating Cognition \(Beta 77.8Hz \- 96.1Hz\)](https://open.spotify.com/album/1MKQNjQGS2AoVFUXo5MwjU) | 2:30 |
 | 45 | [Beta Resonance 25 Hz](https://open.spotify.com/track/4bWPFawFKCDdSsQ5zwZHpj) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Resonance](https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G) | 3:08 |

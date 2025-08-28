@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>MUSHVENOM\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,392 likes - 115 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,317 likes - 115 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_pH\-1](https://open.spotify.com/track/2bBzD97St8k4eZnyqc3lrT) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [KrOWN Audio liner](https://open.spotify.com/album/6u7MpErvD0bXspFMTI1hMz) | 0:02 |
 | 2 | [Spin the wheel \(feat\. Dr.Lee\)](https://open.spotify.com/track/6esZKBJj07DD3qUeO0mkq7) | [MUSHVENOM](https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f), [Dr.Lee](https://open.spotify.com/artist/5S9wxilR9XcbrfGNDpBL4Q) | [EARL](https://open.spotify.com/album/4MBhCiUivbI1uYle0vP1Ss) | 2:40 |
-| 3 | [PARTY PPL \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:45 |
+| 3 | [PARTY PPL \(Feat\. Min Jiwoon\)](https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:45 |
 | 4 | [she’s so outta control](https://open.spotify.com/track/3PBuQqQ4XVZjmLRlTQVV3n) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [KC2.5](https://open.spotify.com/album/1dDrVmFxkXq2knN8I883XT) | 3:18 |
 | 5 | [54321 \(Feat\. HAEWON of NMIXX\)](https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAEWON](https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 3:05 |
 | 6 | [Bad B\*\*ch \(Feat\. Sik\-K\)](https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BLUSH](https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg) | 2:32 |

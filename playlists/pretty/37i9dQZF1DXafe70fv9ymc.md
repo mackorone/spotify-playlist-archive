@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain](/playlists/plain/37i9dQZF1DXafe70fv9ymc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafe70fv9ymc)
 
-### [afrobeats after dark ](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
+### [sexy afro](https://open.spotify.com/playlist/37i9dQZF1DXafe70fv9ymc)
 
-> sexy afrobeats
+> NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,303 likes - 61 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,307 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

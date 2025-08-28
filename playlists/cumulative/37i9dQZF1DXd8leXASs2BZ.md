@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Hayato Yoshida
 
-1,074 songs - 2 day 1 hr 45 min
+1,075 songs - 2 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [Talk shit \(feat\. MELLMWOR1D\)](https://open.spotify.com/track/16ulmt1s9Xajg1prLeeghs) | [vivi](https://open.spotify.com/artist/2bRJAlkOHlUi3nK2jUpFtx), [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ) | [CULT](https://open.spotify.com/album/21qfKAFM1bul7f89ehClWi) | 2:20 | 2025-03-11 | 2025-06-27 |
 | [TANSAN](https://open.spotify.com/track/5il0S6qRr96qEOBXEAQpGC) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TANSAN](https://open.spotify.com/album/6R4BuIHSxxbXtngI530fmy) | 3:06 | 2024-01-25 | 2024-02-23 |
 | [Tears](https://open.spotify.com/track/7MawmVRLEexXh4FpxhaAUU) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Tears](https://open.spotify.com/album/5F4uqHJWWvtr6pHmcFVwDu) | 2:27 | 2024-07-10 | 2024-08-21 |
+| [Tekipaki](https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Tekipaki](https://open.spotify.com/album/1Tyr6qPtB9m7jVadeTgA57) | 2:18 | 2025-08-26 |  |
 | [Tempest](https://open.spotify.com/track/5iH2odZG4xXiv31RQcXCUC) | [関谷拳四郎](https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL) | [Love.zip](https://open.spotify.com/album/2PDzV1cEfjbsgClZYCivgs) | 3:31 | 2025-04-08 | 2025-07-23 |
 | [TEST \(feat\. GOLD DIGGA\)](https://open.spotify.com/track/3QTNVZEKkw7tnRoDckJNKl) | [S.I.](https://open.spotify.com/artist/6QecK8nUAIENxu5IpJESNh), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [TEST \(feat\. GOLD DIGGA\)](https://open.spotify.com/album/52HsA5djwj9v1qbcNKuTsm) | 2:33 | 2025-06-17 | 2025-07-16 |
 | [tetote](https://open.spotify.com/track/4jJi5kCvHjD7mRGx3lntbp) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [tetote](https://open.spotify.com/album/4OFhxMicg5pmdVaac6WFYY) | 2:02 | 2023-12-07 | 2024-01-31 |

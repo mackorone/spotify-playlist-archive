@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,887 likes - 108 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,892 likes - 108 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 86 | [銀河系的你](https://open.spotify.com/track/4yZYWc5tOphERAsXpUMMgW) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [銀河系的你](https://open.spotify.com/album/0b1MA7UKRnDb4iZXzFIf4K) | 3:29 |
 | 87 | [Last Glance](https://open.spotify.com/track/2yHGDdx60zZxNCSRKvY9xC) | [曹策勛](https://open.spotify.com/artist/0WNcJ4HLIndAptNMUWqt6O) | [Last Glance](https://open.spotify.com/album/7jWY1WRLTGMCfKC7k5ua7N) | 4:21 |
 | 88 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
-| 89 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
+| 89 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康鈞](https://open.spotify.com/artist/5jgY0JNTJ7nWvBHbToKDM3) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
 | 90 | [窮寡婦](https://open.spotify.com/track/6qy6gCMrhqjONOx6CsUnLL) | [Elim 以琳](https://open.spotify.com/artist/4Y9qG7S2ijwe068wxqn8pY), [Mini Liu](https://open.spotify.com/artist/1QHPn0LAG1uvkPzOyRXeaw), [雅博渡口](https://open.spotify.com/artist/608mwVFOr4eUD1H3oXxx6e) | [窮寡婦](https://open.spotify.com/album/3f2lOCACYLp8iGq0pAVnEw) | 2:51 |
 | 91 | [優先遺忘](https://open.spotify.com/track/5Dt8Y1r3bLwpvL3TeF2rwX) | [魚條](https://open.spotify.com/artist/5NpkBOIMi2iJocLhi5MTde) | [優先遺忘](https://open.spotify.com/album/4aKVSS8eBnjfRpyxAsvRYM) | 4:17 |
 | 92 | [Hard To Close Your Heart](https://open.spotify.com/track/4Gvol5iKG6S0GUC0KUaixA) | [T\-PLUZ](https://open.spotify.com/artist/50qfPTHn19KUbsXNNXwwrn), [高晨翔](https://open.spotify.com/artist/3RrF4pEnTOAgzPkxX9rxXV) | [Hard To Close Your Heart](https://open.spotify.com/album/633eeooUhCr0qAkmZesneg) | 4:06 |

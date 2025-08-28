@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,642 likes - 297 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,730 likes - 297 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,7 +255,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 245 | [Sunrise](https://open.spotify.com/track/5PMBsw2yDBmYJtAlz4G8FM) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Sunrise](https://open.spotify.com/album/6EZZq0ZMxuB0mE1OVb3VPy) | 2:55 |
 | 246 | [soaked up](https://open.spotify.com/track/7uJm5b3FwhvXSAhNCht3Ma) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [soaked up](https://open.spotify.com/album/5cWvZvvqzz6SwVU7MEGk56) | 2:41 |
 | 247 | [Airglow](https://open.spotify.com/track/3leeQGS5ZOJRXrQ8I2juxI) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Airglow](https://open.spotify.com/album/5eiuYQuowBrhyX2WIEYxxa) | 2:10 |
-| 248 | [MEL](https://open.spotify.com/track/0OayUuPc2bJsBWtcEn1r76) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tráz Água](https://open.spotify.com/artist/0daPxRxTWAiXkvOLcMV7Mh) | [OBG](https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C) | 3:00 |
+| 248 | [MEL](https://open.spotify.com/track/0OayUuPc2bJsBWtcEn1r76) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Traz Agua](https://open.spotify.com/artist/0daPxRxTWAiXkvOLcMV7Mh) | [OBG](https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C) | 3:00 |
 | 249 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 |
 | 250 | [Sun Soaked](https://open.spotify.com/track/4CFOO0ALDRXw6eVkFBVQXs) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Sun Soaked](https://open.spotify.com/album/7oa0OP3sKJEL0q4pmDbvbg) | 2:20 |
 | 251 | [don't blame the daylight](https://open.spotify.com/track/4IlJCdoYJOqg5mnSJdCI5h) | [aiXer](https://open.spotify.com/artist/38cxiZaVtAaOFokZfEN9Df) | [don't blame the daylight](https://open.spotify.com/album/3oSL1O5yE8E83Mi9muPpLw) | 2:30 |

@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-80 songs - 3 hr 27 min
+81 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [HARDER DADDY](https://open.spotify.com/track/2um7uRu16vlrh273WksELf) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [FANSERVICE](https://open.spotify.com/album/1iRaZxijTjfQ0qZiU6BoZK) | 2:33 | 2024-10-05 |  |
 | [i am now going to bark at you](https://open.spotify.com/track/4sYUhDDaWOSEsnCvvqfWKv) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [100 byaks and the Ultimate Swag](https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw) | 1:13 | 2024-09-19 |  |
 | [I Came \(to the party, obviously\)](https://open.spotify.com/track/1CdD6KC2mqtLHpOHPQ0Zuk) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Walkies\~](https://open.spotify.com/album/5jYQwo9B5e0OY0FpnV4uot) | 2:55 | 2024-10-05 |  |
+| [I love furry porn](https://open.spotify.com/track/0aPZo4BwluQ7KzWUlCmCbQ) | [Jennie journey](https://open.spotify.com/artist/4yhGHFJZeriPmVdrWbl4Mr) | [I love furry porn](https://open.spotify.com/album/5mZLdpplt3He5C87c2SC9U) | 1:27 | 2025-08-27 |  |
 | [I LOVE PEEING IN PUBLIC POOLS](https://open.spotify.com/track/1eExcxBSQFvJpDPdbd4kfy) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [I'M SICK AND TIRED OF MAKING GOOD MUSIC](https://open.spotify.com/album/1tNtScyY4OyrD8EmSo8otq) | 3:06 | 2023-11-14 |  |
 | [I LOVE PEEING IN PUBLIC POOLS](https://open.spotify.com/track/3z3F6N1cdu5LiJ1vmu1Fn2) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [I'M SICK AND TIRED OF MAKING GOOD MUSIC](https://open.spotify.com/album/1KNcLPb6MzM3w0oUgNrvCE) | 3:06 | 2024-10-05 |  |
 | [Interlewd](https://open.spotify.com/track/0BNZN1CG2x6Pnmm2z3Z1UV) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Solanin \(Deluxe\)](https://open.spotify.com/album/10hR8af9b6VFxyrMPHXL9n) | 2:15 | 2023-11-25 |  |

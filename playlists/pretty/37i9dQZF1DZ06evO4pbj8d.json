@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10689,
+  "num_followers": 10698,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKungAAAAABOm2gUdFfsWUb+8+8n9Div",
+  "snapshot_id": "aKz5AAAAAACuMJQ/Qo7g99U1zq3wGe2L",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Games",
-        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196097,
-      "name": "War Games",
-      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Rhythm",
         "url": "https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 206695,
       "name": "Somewhere (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0iKgYHKMDci0gpwjRzfiPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Games",
+        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "War Games",
+      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 214346,
-      "name": "younger days",
-      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
+      "duration_ms": 188493,
+      "name": "bad blood",
+      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 188493,
-      "name": "bad blood",
-      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
+      "duration_ms": 214346,
+      "name": "younger days",
+      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 222228,
-      "name": "Stacy",
-      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortune Favors The Bold",
         "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 222228,
+      "name": "Stacy",
+      "url": "https://open.spotify.com/track/2nMvxqGTwM9aJAOYH0jSWD"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Most Menő](https://open.spotify.com/playlist/37i9dQZF1DXd8ptjXuKXfB)
 
-> Cool és trendi dalok Magyarországon!
+> Cool és trendi dalok Magyarországon! Cover: mollywood
 
 392 songs - 19 hr 31 min
 

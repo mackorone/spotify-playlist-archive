@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 431400,
+  "num_followers": 431420,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
-      },
-      "artists": [
-        {
-          "name": "Vazquez Sounds",
-          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc"
+      },
+      "artists": [
+        {
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Mi Bolero",
-        "url": "https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb"
-      },
-      "artists": [
-        {
-          "name": "Fitasha",
-          "url": "https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mi Bolero",
-      "url": "https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
         "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
         "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 177854,
       "name": "Renegades - Acoustic Version",
       "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Mi Bolero",
+        "url": "https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb"
+      },
+      "artists": [
+        {
+          "name": "Fitasha",
+          "url": "https://open.spotify.com/artist/6TziwTrHsHSviAxb6EBoPk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mi Bolero",
+      "url": "https://open.spotify.com/track/1ODOzIbZ3iCc9Z8OHz55jc"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "C\u00f3gelo fuerte (antes de que cambie)",
-        "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
+        "name": "Amor del bueno",
+        "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
         }
       ],
-      "duration_ms": 207439,
-      "name": "C\u00f3gelo fuerte (antes de que cambie)",
-      "url": "https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG"
+      "duration_ms": 195882,
+      "name": "Amor del bueno",
+      "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1495,18 +1495,34 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Amor del bueno",
-        "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
+        "name": "C\u00f3gelo fuerte (antes de que cambie)",
+        "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
       },
       "artists": [
         {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
         }
       ],
-      "duration_ms": 195882,
-      "name": "Amor del bueno",
-      "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+      "duration_ms": 207439,
+      "name": "C\u00f3gelo fuerte (antes de que cambie)",
+      "url": "https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1527,22 +1543,6 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
+        "name": "when i paint my masterpiece",
+        "url": "https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 155583,
+      "name": "something in the wind",
+      "url": "https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
         "name": "reverie",
         "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
@@ -1615,6 +1631,22 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2025-08-21 07:32:32",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-08-21 07:32:32",
@@ -1651,58 +1683,22 @@
     {
       "added_at": "2025-08-21 07:32:32",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
       "artists": [
         {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "As\u00ed me va",
-        "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
         },
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
         }
       ],
-      "duration_ms": 155526,
-      "name": "As\u00ed me va",
-      "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
-    },
-    {
-      "added_at": "2025-08-21 07:32:32",
-      "album": {
-        "name": "Todo Lo Que No Est\u00e1",
-        "url": "https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sobral",
-          "url": "https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Todo Lo Que No Est\u00e1",
-      "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     }
   ],
   "unique_name": "Relax en casa",

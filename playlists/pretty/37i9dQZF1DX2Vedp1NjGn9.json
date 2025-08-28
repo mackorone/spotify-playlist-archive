@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2011. Cover: AWOLNATION",
-  "num_followers": 136250,
+  "num_followers": 136266,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "Ceremonials (Original Deluxe Version)",
         "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274853,
       "name": "No Light, No Light",
       "url": "https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
+        "name": "How Deep Is Your Love?",
+        "url": "https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "duration_ms": 387640,
+      "name": "How Deep Is Your Love?",
+      "url": "https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
         "name": "The Head and the Heart",
         "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
       },
@@ -1516,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1596,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1615,22 +1631,6 @@
       "duration_ms": 202613,
       "name": "Ten-Twenty-Ten",
       "url": "https://open.spotify.com/track/2dU1YAowJQIg42Aqj3xbjT"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
-        "name": "How Deep Is Your Love?",
-        "url": "https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf"
-      },
-      "artists": [
-        {
-          "name": "The Rapture",
-          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
-        }
-      ],
-      "duration_ms": 387640,
-      "name": "How Deep Is Your Love?",
-      "url": "https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL"
     }
   ],
   "unique_name": "Best of Indie 2011",

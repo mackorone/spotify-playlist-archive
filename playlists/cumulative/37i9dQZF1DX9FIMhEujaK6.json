@@ -1283,6 +1283,32 @@
     },
     {
       "album": {
+        "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+        "url": "https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        },
+        {
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+      "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
+    },
+    {
+      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS"
       },
@@ -1626,7 +1652,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 166451,
       "name": "I'll miss you",
       "url": "https://open.spotify.com/track/0DFVqaUmTttd4wozHaxcRe"

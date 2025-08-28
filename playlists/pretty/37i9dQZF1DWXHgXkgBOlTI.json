@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: CASIOPEA",
-  "num_followers": 31936,
+  "num_followers": 31945,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
         "name": "Re:Tokage",
         "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 265731,
       "name": "Nica's Dream",
       "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
       },
@@ -507,38 +523,6 @@
       "duration_ms": 277840,
       "name": "\u77f3\u306e\u6559\u4f1a",
       "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -575,18 +559,18 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
       },
       "artists": [
         {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 318240,
-      "name": "Golden Forest",
-      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+      "duration_ms": 236866,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -603,6 +587,22 @@
       "duration_ms": 426600,
       "name": "\u30b5\u30d5\u30a1\u30ea",
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Golden Forest",
+      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 249833,
-      "name": "Sakura Flutter",
-      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
         "name": "Floating in the midnight sun",
         "url": "https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 260861,
       "name": "Ephemeral summer",
       "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 249833,
+      "name": "Sakura Flutter",
+      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
         "name": "color & monochrome 2",
         "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 452866,
-      "name": "WAVE",
-      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-08-26 15:00:24",
@@ -803,6 +787,22 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 452866,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
         "name": "Ovall",
         "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-26 15:00:24",
       "album": {
-        "name": "Aromatic",
-        "url": "https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 294706,
-      "name": "El Ron Zacapa",
-      "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
-    },
-    {
-      "added_at": "2025-08-26 15:00:24",
-      "album": {
         "name": "Color & Monochrome 3",
         "url": "https://open.spotify.com/album/5qZgX7UnSf2lY1cej9u6Ev"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 256136,
       "name": "after heat",
       "url": "https://open.spotify.com/track/5HIuPHs5AtD3yYEJO5kEfc"
+    },
+    {
+      "added_at": "2025-08-26 15:00:24",
+      "album": {
+        "name": "Aromatic",
+        "url": "https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 294706,
+      "name": "El Ron Zacapa",
+      "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

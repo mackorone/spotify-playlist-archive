@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388782,
+  "num_followers": 388746,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-08-21 22:00:26",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207420,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
-    },
-    {
-      "added_at": "2025-08-21 22:00:26",
-      "album": {
         "name": "Yours Or Mine",
         "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 230977,
       "name": "Yours Or Mine",
       "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
+    },
+    {
+      "added_at": "2025-08-21 22:00:26",
+      "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207420,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2025-08-21 22:00:26",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-08-21 22:00:26",
       "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 296080,
-      "name": "Flower Moon",
-      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
-    },
-    {
-      "added_at": "2025-08-21 22:00:26",
-      "album": {
         "name": "Aliocha Schneider (Deluxe)",
         "url": "https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI"
       },
@@ -751,6 +731,42 @@
     {
       "added_at": "2025-08-21 22:00:26",
       "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "Flower Moon",
+      "url": "https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9"
+    },
+    {
+      "added_at": "2025-08-21 22:00:26",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110143,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
+    },
+    {
+      "added_at": "2025-08-21 22:00:26",
+      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-08-21 22:00:26",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2025-08-21 22:00:26",
-      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "added_at": "2025-08-21 22:00:26",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2025-08-21 22:00:26",
@@ -819,22 +835,6 @@
     {
       "added_at": "2025-08-21 22:00:26",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110143,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
-    },
-    {
-      "added_at": "2025-08-21 22:00:26",
-      "album": {
         "name": "Flower of the soul (full bloom)",
         "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 143268,
       "name": "Borrow mine",
       "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+    },
+    {
+      "added_at": "2025-08-21 22:00:26",
+      "album": {
+        "name": "Love Is... Infinite",
+        "url": "https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds"
+      },
+      "artists": [
+        {
+          "name": "Gypsy Mitchell",
+          "url": "https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD"
+        }
+      ],
+      "duration_ms": 400321,
+      "name": "It... What or Why?",
+      "url": "https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ"
     },
     {
       "added_at": "2025-08-21 22:00:26",
@@ -867,22 +883,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2025-08-21 22:00:26",
-      "album": {
-        "name": "Love Is... Infinite",
-        "url": "https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds"
-      },
-      "artists": [
-        {
-          "name": "Gypsy Mitchell",
-          "url": "https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD"
-        }
-      ],
-      "duration_ms": 400321,
-      "name": "It... What or Why?",
-      "url": "https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ"
     },
     {
       "added_at": "2025-08-21 22:00:26",

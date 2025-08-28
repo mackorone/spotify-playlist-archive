@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-693 songs - 1 day 16 hr 42 min
+694 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bodhai Neeye](https://open.spotify.com/track/1F7zl2SM8Ckqjsyf3OBVG3) | [Praveen Powers](https://open.spotify.com/artist/2n0JRtQVAdOos5ROmEX6c3), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Bodhai Neeye](https://open.spotify.com/album/6LejRIejmqPBhLqpOA5Xlx) | 5:22 | 2022-02-14 | 2022-05-31 |
 | [Bodhai Penne Nee](https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6) | [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD) | [Bodhai Penne Nee](https://open.spotify.com/album/6kbDQ0mrYj9QQBJQrgvMhQ) | 3:17 | 2023-01-16 | 2023-03-23 |
 | [Born SuperStar](https://open.spotify.com/track/2ODqYo3poNPyxk4olwf3vA) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Born SuperStar](https://open.spotify.com/album/1gDJ7WJxYUFeyhS2W6tilw) | 2:58 | 2024-11-19 | 2024-12-06 |
-| [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/track/6PyUshWytZsbBW1QwOSmaV) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Dongli Jumbo](https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9) | [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/album/5zhpLzpWCuXwco9c0NK9EE) | 2:43 | 2025-02-03 |  |
+| [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/track/6PyUshWytZsbBW1QwOSmaV) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Dongli Jumbo](https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9) | [BREAKUP ANTHEM \(Tamil\)](https://open.spotify.com/album/5zhpLzpWCuXwco9c0NK9EE) | 2:43 | 2025-02-03 | 2025-08-28 |
 | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/track/4mWpO1fpNXneis8q93SHpW) | [Rohit Gopalakrishnan](https://open.spotify.com/artist/0adFWVYEksLW8fPuQi2dV1), [Aarthi MN Ashwin](https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R), [Medha Ramasamy](https://open.spotify.com/artist/08pPLU6h73jp7wmuZwIwUb), [Siddharth Shandilyasa](https://open.spotify.com/artist/6r8Qnew7Dd79tqaMqTiz1s) | [Breathe \(Thodu Vaanam\)](https://open.spotify.com/album/7qZNggBLqmEiUsnk6lyDEH) | 3:53 | 2022-11-16 | 2023-02-07 |
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2022-12-02 | 2024-12-12 |
 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 | 2025-02-14 | 2025-05-24 |
@@ -281,6 +281,7 @@
 | [Kavithai Nee](https://open.spotify.com/track/6UQdMKDC4kmfWo9LWbsWcw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kavithai Nee](https://open.spotify.com/album/5AKSWXaPZJKKbmXwgFsry3) | 3:39 | 2023-06-26 | 2024-10-08 |
 | [Kazhivara](https://open.spotify.com/track/386Irrx3UfMmOwzmKX3b8m) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:04 | 2023-11-14 | 2024-06-14 |
 | [Kettu Paaru](https://open.spotify.com/track/2CwcuF6fNhmTZFFh9dmugx) | [Jay Nesh Isuran](https://open.spotify.com/artist/3q3CPxTgWd1Kb9F4Kdlvb3), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2) | [Kettu Paaru](https://open.spotify.com/album/0LJuolh9yhdltn1kuccEjy) | 2:57 | 2023-03-21 | 2024-04-11 |
+| [Kimchi Dosa](https://open.spotify.com/track/10CGE3JHF9XMDaicnLD46D) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN) | [Kimchi Dosa](https://open.spotify.com/album/2nLirBUQhM557pbuMgbnCP) | 4:02 | 2025-08-27 |  |
 | [King Brown \(Tamil\)](https://open.spotify.com/track/3ii46MrjAi0g1vXSWar5hH) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Amalraj Jothiraj](https://open.spotify.com/artist/4zkXAOhaXuYpEOZf9QdILW) | [King Brown \(Tamil\)](https://open.spotify.com/album/0uy5ieDAs3AnJzx1ZDSub7) | 4:10 | 2022-07-25 | 2023-02-07 |
 | [Kittakka Vaadi](https://open.spotify.com/track/2Dc4Kz0TR7JAPA9cW4FWLS) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Kittakka Vaadi](https://open.spotify.com/album/7CWRgvWh6YnKoNnSlfnvBt) | 1:02 | 2022-12-09 | 2023-03-23 |
 | [Kollaathey](https://open.spotify.com/track/3quKD6cr7vtSpLThkcSmzp) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs) | [Kollaathey](https://open.spotify.com/album/23yUcMx7AgxBYVKTUrMuMs) | 3:02 | 2025-05-23 |  |

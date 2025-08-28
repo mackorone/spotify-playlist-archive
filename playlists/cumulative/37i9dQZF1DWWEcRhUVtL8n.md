@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Dominic Fike
 
-2,185 songs - 4 day 19 hr 50 min
+2,186 songs - 4 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,6 +712,7 @@
 | [Forever Is A Charm](https://open.spotify.com/track/6TlRcJOQR1vXemRRfTcFw7) | [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Forever Is A Charm](https://open.spotify.com/album/2tu1YFttjNiRIsCICSMyEl) | 3:11 | 2022-09-09 | 2022-10-08 |
 | [Forget You](https://open.spotify.com/track/54xA4D0ZXwHUNwqxNUa5MW) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Forget You](https://open.spotify.com/album/0zWaiBUml8QNLZrblzmscs) | 2:55 | 2022-03-04 | 2022-03-31 |
 | [Forgetter](https://open.spotify.com/track/6gPjp4u5YfmNDzoZ2Rbo5P) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Forgetter](https://open.spotify.com/album/3vtD2JOVHzjORagu6gSw2m) | 3:21 | 2020-10-16 | 2020-11-03 |
+| [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-22 |  |
 | [Four Leaf Dream](https://open.spotify.com/track/2I8VEot3oo5qaVmCW16qOx) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Four Leaf Dream](https://open.spotify.com/album/6F1TXEZqGeUasahJdxs4hR) | 2:21 | 2022-02-25 | 2022-05-20 |
 | [Frames](https://open.spotify.com/track/2yJI5G0UdRudAIZkqredck) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV), [Raphael Futura](https://open.spotify.com/artist/2taFLpsy0M58c9GE5vjnsb) | [Frames](https://open.spotify.com/album/2KJ11IB3LpFbFyjCeQw194) | 2:54 | 2022-06-17 | 2022-07-18 |
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-06-02 | 2022-04-10 |
@@ -1795,7 +1796,7 @@
 | [Star Shaped Baby](https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Star Shaped Baby](https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9) | 2:49 | 2024-09-27 | 2025-01-18 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-08-13 | 2022-12-10 |
 | [Starlight](https://open.spotify.com/track/1Gvnzb3F9LghE6vaPC1qhI) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:09 | 2023-04-14 | 2023-04-29 |
-| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
+| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 | 2025-08-28 |
 | [stars](https://open.spotify.com/track/1Gk59qaFLA8KzfYk9UUOTH) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [stars](https://open.spotify.com/album/13WLNmXje7PAv59mIaiVaK) | 2:38 | 2022-09-16 | 2022-10-15 |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-12-08 | 2024-01-13 |
 | [Start a Band](https://open.spotify.com/track/0bJpzwBUgTaqIpD0CNI9DA) | [Pinkish Blu](https://open.spotify.com/artist/3zyLtDE21BNWJagUl4HWzu) | [Start a Band](https://open.spotify.com/album/6st35QCkJ8H7lbdYPedWMp) | 3:03 | 2021-05-03 | 2021-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,163 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,161 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 49 | [KENTRO](https://open.spotify.com/track/1kZ2FL3WV1mAulSSrtpStg) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [KENTRO](https://open.spotify.com/album/2gMwgBh1Sw73mOataTZWfC) | 2:08 |
 | 50 | [ATHINA](https://open.spotify.com/track/6KURM9fEiDWxHsepuicdx1) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [SE5EIMAIEKEI](https://open.spotify.com/album/0af7T692JsA9UIYXFdimyh) | 2:03 |
 | 51 | [DO DO DO](https://open.spotify.com/track/1VXkBopWGByUHkQTipDycM) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [FOR ALL THE BEACHES 2.8](https://open.spotify.com/album/2ugHLvVQosJYX1kFBDyMfp) | 2:00 |
-| 52 | [bichota](https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [bichota](https://open.spotify.com/album/52UuThkSQTrH7wXCjFLSk3) | 2:14 |
+| 52 | [bichota](https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [bichota](https://open.spotify.com/album/52UuThkSQTrH7wXCjFLSk3) | 2:13 |
 | 53 | [Ti Na Se Kanw](https://open.spotify.com/track/2vvaCwUTJ4m75KdpMweRJx) | [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F) | [SummerVerse](https://open.spotify.com/album/0qQpK2j34IlGvJGBFo2OTu) | 3:25 |
 | 54 | [Jetski](https://open.spotify.com/track/6ZSseV1FZGKhXQYkSoY6zA) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Bella Vita](https://open.spotify.com/album/6yTE3ykdHX9CKa5CjO5DRO) | 2:52 |
 | 55 | [DANNY PHANTOM](https://open.spotify.com/track/2RrO7rBV3BpeXn04tc2Za4) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [DANNY PHANTOM](https://open.spotify.com/album/0SyY81pSlirz049SGjE1JN) | 2:27 |

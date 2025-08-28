@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-388 songs - 1 day 12 hr 6 min
+389 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Kyun Aise Rehti Hoon](https://open.spotify.com/track/7CNN4EStQ8H0zEIvZHFMkP) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:49 | 2025-07-14 |  |
 | [Laage Re Nain](https://open.spotify.com/track/2CcDWQ91UP02tCJQBuYE8X) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Paras Nath](https://open.spotify.com/artist/01CtjxjRRR2qw4CWGWcLoF) | [Laage Re Nain](https://open.spotify.com/album/4bthXByXAgc3gD1zVRF4ix) | 4:30 | 2022-05-17 | 2023-09-12 |
 | [Laagi Lagan](https://open.spotify.com/track/1lC0VabWt3G9jSm3tLnh7B) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Anuja Zokarkar](https://open.spotify.com/artist/41nGHynGUDOWMtq9aiIJpE) | [Laagi Lagan](https://open.spotify.com/album/0pe7KWucbu7xaHnjeq1mNY) | 4:15 | 2022-05-17 | 2023-03-04 |
+| [Lakh Jatan](https://open.spotify.com/track/6JtVsFD1cjpTcXfw4SCapB) | [Sameer Pandit](https://open.spotify.com/artist/5U7GaQbrU6aH7HWSXqhkvi) | [Lakh Jatan](https://open.spotify.com/album/3g6OcjSjtYcACkDFGK4ymH) | 3:11 | 2025-08-21 |  |
 | [Last Chance](https://open.spotify.com/track/4dXcDVX3HVQrHFyGE11wue) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Land Of Gold](https://open.spotify.com/album/4zPcbxBEKkZDEjsdbQoEJi) | 4:42 | 2022-05-17 | 2023-03-23 |
 | [Lasya](https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Traces Of You](https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq) | 4:38 | 2022-05-17 | 2023-08-29 |
 | [Lat Ulajhi](https://open.spotify.com/track/77477vF5I3QnC4lgpwYKS2) | [Anjali Gaikwad](https://open.spotify.com/artist/0moRS5SepzNxum0J5tpL1f) | [Lat Ulajhi](https://open.spotify.com/album/4J8ezAfeDYpEYyLaQ56JGD) | 3:50 | 2022-05-17 | 2024-02-20 |
@@ -224,7 +225,7 @@
 | [Nadia](https://open.spotify.com/track/6c05B0BTOJbDyRy5KLI7my) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Beyond Skin](https://open.spotify.com/album/41qn4oxd4WFgz4JSBI9Ips) | 5:07 | 2022-05-17 | 2023-03-09 |
 | [Nadiya](https://open.spotify.com/track/5BqazWSXUaB9YdWBmSvABd) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:37 | 2023-08-01 | 2024-09-30 |
 | [Nadiya Bairi Bhayi](https://open.spotify.com/track/3iVw3VjNdA48znVMrag6bc) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Nadiya Bairi Bhayi](https://open.spotify.com/album/1mADW8kGZ8Y0Zkx3b388FZ) | 2:41 | 2023-09-25 | 2024-09-21 |
-| [Naihar](https://open.spotify.com/track/0IDI87TTGovIEtm8eTabOv) | [Chandan Jaiswal](https://open.spotify.com/artist/1obJ1FQ9IMW1WPs1EzRWZC), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Utkarsh Chaure](https://open.spotify.com/artist/5GAsCvSzAGw8bF0d5qYOXX) | [Naihar](https://open.spotify.com/album/6IrufDEP4eIJv72TJXYDUl) | 3:27 | 2025-08-07 |  |
+| [Naihar](https://open.spotify.com/track/0IDI87TTGovIEtm8eTabOv) | [Chandan Jaiswal](https://open.spotify.com/artist/1obJ1FQ9IMW1WPs1EzRWZC), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Utkarsh Chaure](https://open.spotify.com/artist/5GAsCvSzAGw8bF0d5qYOXX) | [Naihar](https://open.spotify.com/album/6IrufDEP4eIJv72TJXYDUl) | 3:27 | 2025-08-07 | 2025-08-28 |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-02-10 |  |
 | [Naina](https://open.spotify.com/track/1Qm4pSItUMDa0ROpSQ8ztj) | [Durba Banerjee](https://open.spotify.com/artist/5etPzPq4uUNG77culH8wc8), [Krishh Datta](https://open.spotify.com/artist/5GcmYWhvuXI2WHxtqcg5Ru) | [Naina](https://open.spotify.com/album/3daIlwFLqnqixreRQBMykM) | 5:16 | 2024-08-01 | 2025-01-07 |
 | [Naina Bawre](https://open.spotify.com/track/2AdjRQ1xp5volT2wj2DfOq) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Jammin \- Season 1](https://open.spotify.com/album/2TOpxaq3s212H86RbwKx4z) | 4:51 | 2022-05-17 | 2023-01-11 |

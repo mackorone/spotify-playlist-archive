@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,372,198 likes - 195 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,372,239 likes - 195 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 194 | [I Miss You](https://open.spotify.com/track/41z1UiFOpU9rI0ZGE1NloI) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [I Miss You](https://open.spotify.com/album/2Y91B51eaKObr0Og2zIgSr) | 2:37 |
 | 195 | [Snake Oil](https://open.spotify.com/track/1fo0083nKePBcIaLgX7yNG) | [The Afronaut](https://open.spotify.com/artist/0RcAEaIg21iTmK6ru4WS9U) | [Snake Oil](https://open.spotify.com/album/5bSp7XG8irPHVReZB6BuIw) | 2:17 |
 
-Snapshot ID: `AAAAAOQeT4g9OtTxC53phv+n61RXGaz/`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

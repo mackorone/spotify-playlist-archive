@@ -325,6 +325,32 @@
     },
     {
       "album": {
+        "name": "Dans Met Jou",
+        "url": "https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131124,
+      "name": "Dans Met Jou",
+      "url": "https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2"
+    },
+    {
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -402,7 +428,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 167343,
       "name": "Dichtbij Me (M'n Desire)",
       "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
@@ -782,7 +808,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 174609,
       "name": "Ik Ben Een Dromer",
       "url": "https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht"
@@ -1460,7 +1486,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 203799,
       "name": "Pure Verleiding",
       "url": "https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF"
@@ -1536,7 +1562,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 214975,
       "name": "Stiekem Gedanst",
       "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"

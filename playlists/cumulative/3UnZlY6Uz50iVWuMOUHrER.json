@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Light In The Eyes",
+        "url": "https://open.spotify.com/album/65KCvz7hvdXGykUywkKa6t"
+      },
+      "artists": [
+        {
+          "name": "Amazingblaze",
+          "url": "https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Light In The Eyes",
+      "url": "https://open.spotify.com/track/5O14fVdQ2VrgezsmMkOCtK"
+    },
+    {
+      "album": {
         "name": "In Memoro",
         "url": "https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm"
       },

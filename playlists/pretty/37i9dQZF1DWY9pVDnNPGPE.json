@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 9186,
+  "num_followers": 9195,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-07-08 05:46:42",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2025-07-08 05:46:42",
-      "album": {
         "name": "Wherever",
         "url": "https://open.spotify.com/album/47AfzSaiONoJo0WreAOMA1"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 171251,
       "name": "Wherever",
       "url": "https://open.spotify.com/track/4g9GTgyJ7f5uUpmh9zMtQF"
+    },
+    {
+      "added_at": "2025-07-08 05:46:42",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2025-07-08 05:46:42",
@@ -835,30 +835,6 @@
     {
       "added_at": "2025-07-08 05:46:42",
       "album": {
-        "name": "HAAN X Chan : Synergy",
-        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0"
-        }
-      ],
-      "duration_ms": 171115,
-      "name": "\ud654\ucc3d\ud574 (Feat. JUNE)",
-      "url": "https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX"
-    },
-    {
-      "added_at": "2025-07-08 05:46:42",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 184680,
       "name": "Picnic",
       "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
+    },
+    {
+      "added_at": "2025-07-08 05:46:42",
+      "album": {
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "\ud654\ucc3d\ud574 (Feat. JUNE)",
+      "url": "https://open.spotify.com/track/04BztykVfI5mjP27SYOvZX"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

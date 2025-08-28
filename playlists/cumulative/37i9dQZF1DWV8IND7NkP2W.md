@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-807 songs - 1 day 12 hr 26 min
+808 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 | 2024-04-07 |
 | [Afternoon Rain](https://open.spotify.com/track/1iJnHe4sAY9GIaXKWv3gly) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/3Ct0VS2eZA3QiVJXjwrhJR) | 2:53 | 2022-07-28 | 2023-04-27 |
 | [Afternoon Rain](https://open.spotify.com/track/5mpUj2p05omEr65a7DIJLS) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain](https://open.spotify.com/album/45ZDGJk840ObsQ4DnKiW3f) | 2:53 | 2022-01-06 | 2022-04-15 |
-| [Afternoon Sadness](https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Afternoon Sadness](https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU) | 2:10 | 2025-02-09 |  |
+| [Afternoon Sadness](https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Afternoon Sadness](https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU) | 2:10 | 2025-02-09 | 2025-08-28 |
 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2022-01-27 |  |
 | [Agua](https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Agua](https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0) | 2:00 | 2021-12-23 |  |
 | [Ai Ga Sutaretatte \- Instrumental](https://open.spotify.com/track/02jGDV1UmoVugsWbd8lqt6) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/7iPCwmAAliYJEfAU1UPWoR) | 4:11 | 2024-02-01 | 2024-04-19 |
@@ -741,6 +741,7 @@
 | [Twilight](https://open.spotify.com/track/0bckA5rHWQ5MGfBjmEa8VT) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3) | [Twilight](https://open.spotify.com/album/4ZUv7FPWlQctBXq7b3m6GX) | 2:38 | 2021-12-23 | 2022-06-19 |
 | [Twilight Breeze](https://open.spotify.com/track/5XsPSMjE9TvTJYhJbefrnl) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Twilight Breeze](https://open.spotify.com/album/0Kn6v7P1B6ZUimsQtJ8m9z) | 2:52 | 2024-10-26 | 2024-12-20 |
 | [twilight city](https://open.spotify.com/track/5IlwobI9ivRAJ7K2DYx7ar) | [Chillowfy](https://open.spotify.com/artist/21show38R2hYaNkEeCZNbZ), [obake](https://open.spotify.com/artist/1Sn5d9cy80Xg4T3TlWdloS) | [twilight city](https://open.spotify.com/album/5Sfg25CP4dV1LDZiZa5Izi) | 2:24 | 2021-12-23 | 2022-07-25 |
+| [Twilight Shadow \- dub's sunset dub \- dub mixed by Dub Master X](https://open.spotify.com/track/2JQ1Bi9viE9FZxbVw5lG0y) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [Dub Master X](https://open.spotify.com/artist/1473e1d8Vmn0FYvwYIGDfM) | [Twilight Shadow \- dub's sunset dub \(dub mixed by Dub Master X\)](https://open.spotify.com/album/3X9F52SXoc4hFxMscuTw4m) | 4:01 | 2025-08-20 |  |
 | [Twisted](https://open.spotify.com/track/3z9tJ9PKWuYkwRPyQKu5Cn) | [Shinjuku Jumpshot](https://open.spotify.com/artist/3Tssruxt0wSeVhuGQzrpGx) | [Twisted](https://open.spotify.com/album/1eXeA6YaC8BHOqixAMPZ8B) | 2:13 | 2022-03-31 | 2022-04-20 |
 | [Two 3 Four](https://open.spotify.com/track/0xHD1nrjbqXMKrzS4jPyQc) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [RAW WNDS MIXTAPE \#002](https://open.spotify.com/album/37ZZJrl8ilXbKRy5iwFerR) | 4:12 | 2021-12-23 | 2022-07-28 |
 | [U](https://open.spotify.com/track/6H6qrSldeRmzi5jHYELgMW) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [U](https://open.spotify.com/album/1Boz9tEroukxBpTBiG7plf) | 2:35 | 2021-12-23 | 2022-07-17 |

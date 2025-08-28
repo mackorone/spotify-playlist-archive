@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 이석훈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,535 songs - 4 day 3 hr 35 min
+1,536 songs - 4 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [LIE](https://open.spotify.com/track/3Fjb8kEVJ6tOfm2uUFTEt7) | [YOOK SUNGJAE](https://open.spotify.com/artist/7mFGOWJEkdlJBCXcJ5EWi9) | [LIE](https://open.spotify.com/album/2eYLpRHbySheFuIDyZyupu) | 4:08 | 2025-05-06 |  |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-20 | 2023-02-25 |
 | [LIGHT](https://open.spotify.com/track/5wZsoZu6pIO7QYtnZhy7iS) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [LIGHT](https://open.spotify.com/album/5sb137DVbWJeiO8wlk0o2A) | 3:33 | 2022-08-12 | 2022-11-23 |
-| [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 | 2025-05-22 |  |
+| [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 | 2025-05-22 | 2025-08-28 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 | 2022-12-27 |
 | [Like a child without sadness](https://open.spotify.com/track/5OIY4RcH99j9IdKvb26K2J) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [Like a child without sadness](https://open.spotify.com/album/2GLSX4nlF3JJYWl2SlVCjg) | 3:49 | 2023-04-26 | 2023-09-12 |
 | [Like A Dream](https://open.spotify.com/track/77L2vIs5W3RZXngqNMlKWS) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Like A Dream \(From "The story of Park’s marriage contract" Original Television Sountrack, Pt\. 4\)](https://open.spotify.com/album/4P5YhrMIngGGFqXzpOcmlj) | 4:09 | 2024-01-05 | 2024-05-18 |
@@ -956,6 +956,7 @@
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2021-12-23 | 2022-07-01 |
 | [Only You](https://open.spotify.com/track/3MODKrKhGJHI8pRP9Ih5k0) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Only You](https://open.spotify.com/album/0HZOGEkR6cFL6qXnlC4Vun) | 3:45 | 2023-10-04 | 2023-12-30 |
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-01 | 2022-11-23 |
+| [Only you](https://open.spotify.com/track/3XB6Ciu55ZxxWPDwdDYAfh) | [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Only you](https://open.spotify.com/album/65ytyjzFDFZFWq5TpCZHn8) | 3:15 | 2025-08-26 |  |
 | [Only You](https://open.spotify.com/track/6ubmkHNAPgJnqHUVb0qZ2M) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Only You](https://open.spotify.com/album/0Si3voeOstMVmSawqW9NJs) | 4:33 | 2023-03-15 | 2023-07-08 |
 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 | 2023-06-15 | 2023-12-14 |
 | [Only You](https://open.spotify.com/track/3Mt6BKkyUfbuJwjEurTeYr) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Only You \(Bargobargo X Yebit\)](https://open.spotify.com/album/1eHnLAfXK4mgSlSSXnWbeg) | 3:46 | 2024-02-21 | 2024-06-18 |

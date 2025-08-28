@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-251 songs - 17 hr 11 min
+252 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2024-01-12 | 2024-04-19 |
 | [Au Seve](https://open.spotify.com/track/2IZRKyfNf5wkUxz89DSCgV) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/4B7suN0MtI45BxJCDleJ8r) | 6:33 | 2020-11-06 | 2022-08-17 |
 | [Au Seve](https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N) | 6:33 | 2024-01-12 | 2025-05-17 |
+| [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 | 2025-08-07 |  |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-28 |  |
 | [Bass Tool \- Radio Edit](https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Bass Tool \(Radio Edit\)](https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy) | 3:42 | 2025-05-01 | 2025-05-30 |
 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 | 2024-09-27 |  |
@@ -254,7 +255,7 @@
 | [Woman of the Ghetto \- Catz 'n Dogz Remix](https://open.spotify.com/track/7vPeeVHtpJIJwy6PsONjvb) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Woman of the Ghetto](https://open.spotify.com/album/2qAYzFQzljys16Tvf63YLE) | 5:56 | 2020-11-06 | 2022-07-25 |
 | [Ya Kidding](https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030) | 3:58 | 2020-11-06 | 2024-04-19 |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-11-06 | 2023-10-16 |
-| [Yeah Yeah Yeah \- Edit](https://open.spotify.com/track/2yp1kALznMhk5uVd8PdA0j) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Yeah Yeah Yeah \(Edit\)](https://open.spotify.com/album/5CgHBjU9PiSUruJqKbVvx8) | 3:39 | 2025-08-07 |  |
+| [Yeah Yeah Yeah \- Edit](https://open.spotify.com/track/2yp1kALznMhk5uVd8PdA0j) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Yeah Yeah Yeah \(Edit\)](https://open.spotify.com/album/5CgHBjU9PiSUruJqKbVvx8) | 3:39 | 2025-08-07 | 2025-08-28 |
 | [Yosemite](https://open.spotify.com/track/00aaxjGeWqhsDSqPIVf3AK) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:26 | 2025-05-01 |  |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 | 2024-07-05 |
 | [You're Not a Popstar](https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [You're Not a Popstar](https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW) | 3:44 | 2025-05-29 | 2025-07-15 |

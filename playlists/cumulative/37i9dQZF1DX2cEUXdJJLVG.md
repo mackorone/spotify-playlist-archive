@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-434 songs - 1 day 1 hr 58 min
+435 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Hey Amy!](https://open.spotify.com/track/2FKMmtp1DyWn6iiplWyX9o) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/3R4FcKqbpFAxmOdn2p725V) | 2:57 | 2022-09-09 | 2023-10-22 |
 | [Hey Amy!](https://open.spotify.com/track/64x6DYFIlWKRtGMeOdNkfN) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC), [Ketta](https://open.spotify.com/artist/23iAWqyfMe6hnEkfI6UFTe), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Hey Amy!](https://open.spotify.com/album/7AFsIiFME2aS8qccETnkBp) | 2:57 | 2023-10-12 | 2024-05-10 |
 | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/track/1a6Khakt7DtZXzxePM5vwx) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Hey Stranger \(feat\. MAAD, JAEL & Jengi\)](https://open.spotify.com/album/5YRCULdZwINYqFIAnowGbK) | 3:21 | 2022-09-09 | 2023-07-08 |
+| [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 | 2025-08-27 |  |
 | [Holdin' On](https://open.spotify.com/track/68oX0D73hEJzpYypu8LI3e) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Holdin' On / Anything \(U Wanna Do\)](https://open.spotify.com/album/3xsQ8OnFMMhHu5ufvLzRZJ) | 4:01 | 2023-07-07 | 2025-05-20 |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-04-20 | 2025-03-28 |
 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2023-03-07 | 2023-10-05 |

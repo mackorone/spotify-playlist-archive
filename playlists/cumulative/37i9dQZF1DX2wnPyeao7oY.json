@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sumo Cyco",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Gore.",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 201956,
       "name": "Arch Enemy",
       "url": "https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b"
@@ -454,6 +454,24 @@
       "duration_ms": 88920,
       "name": "Baptism of Fire",
       "url": "https://open.spotify.com/track/3Uibazaf5GqFgyhGYGgq5Z"
+    },
+    {
+      "album": {
+        "name": "Barricade",
+        "url": "https://open.spotify.com/album/5We7rK4vfcTTowQdgLmPkb"
+      },
+      "artists": [
+        {
+          "name": "Patient Sixty-Seven",
+          "url": "https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Barricade",
+      "url": "https://open.spotify.com/track/3yJyOjr3kHfWHhAHFE6gOt"
     },
     {
       "album": {
@@ -774,7 +792,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 153714,
       "name": "bloom",
       "url": "https://open.spotify.com/track/45BDRlc6wxYRKkmVWEPKlr"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 242734,
       "name": "Burn My Creation",
       "url": "https://open.spotify.com/track/7zmggUnNu4v6uJEYNAFBNH"
@@ -1074,6 +1092,24 @@
       "duration_ms": 153285,
       "name": "Carry The Flag",
       "url": "https://open.spotify.com/track/1D8voUdYVZLHbaIkAEnqZ0"
+    },
+    {
+      "album": {
+        "name": "Cemetery Sun",
+        "url": "https://open.spotify.com/album/58j5O6cDwrBqMIrmEKPsy4"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Cemetery Sun",
+      "url": "https://open.spotify.com/track/0DsYKRaTpfrW0Df6tBZ200"
     },
     {
       "album": {
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 196825,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4"
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 184314,
       "name": "Cries of Domination",
       "url": "https://open.spotify.com/track/48pcLjb7fjc5v0kCEVs7GT"
@@ -1496,6 +1532,24 @@
       "duration_ms": 270093,
       "name": "Curwen",
       "url": "https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he"
+    },
+    {
+      "album": {
+        "name": "Cycle Of Sin",
+        "url": "https://open.spotify.com/album/0fF6BXgg3zpTbamUQEUKi3"
+      },
+      "artists": [
+        {
+          "name": "Extortionist",
+          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216044,
+      "name": "Cycle Of Sin",
+      "url": "https://open.spotify.com/track/6uxwmJjhfweAjphwOEFrJA"
     },
     {
       "album": {
@@ -2489,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/16DrDEkrAnMJX2O95PIHTQ"
+      },
+      "artists": [
+        {
+          "name": "Alchemize",
+          "url": "https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243829,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/2NI9zWzjX2gzKzlfflFWtL"
+    },
+    {
+      "album": {
         "name": "Forget It",
         "url": "https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8"
       },
@@ -2608,7 +2680,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 229546,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK"
@@ -2706,6 +2778,24 @@
       "duration_ms": 200439,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/7LZ7Fzmc02039E9itPqfaf"
+    },
+    {
+      "album": {
+        "name": "Go Ask Alice",
+        "url": "https://open.spotify.com/album/148Xiywsm1Qx94EyvTtuGw"
+      },
+      "artists": [
+        {
+          "name": "Soulkeeper",
+          "url": "https://open.spotify.com/artist/6sg8lduBgtJr5l4jMJBxLq"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163901,
+      "name": "Go Ask Alice",
+      "url": "https://open.spotify.com/track/1IAkmmhG1HSYtRQxBU1HuE"
     },
     {
       "album": {
@@ -2915,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Hammer Smashed Face - Emo Version",
+        "url": "https://open.spotify.com/album/4CEW9SNZBeqIuNrkrH1mRw"
+      },
+      "artists": [
+        {
+          "name": "Todd Barriage",
+          "url": "https://open.spotify.com/artist/5JvB18ikUg21Uv5MrUBagY"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249632,
+      "name": "Hammer Smashed Face - Emo Version",
+      "url": "https://open.spotify.com/track/16mGDk8zrm60MrBCSIOWWR"
+    },
+    {
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/428vU1rpDMtNYEMJFRqLFr"
       },
@@ -3028,6 +3136,24 @@
       "duration_ms": 177777,
       "name": "HIDE FROM THE LIGHT",
       "url": "https://open.spotify.com/track/2dFuqBk3nECBZMgq8a7vF7"
+    },
+    {
+      "album": {
+        "name": "Hide Your Evil",
+        "url": "https://open.spotify.com/album/6I67EzTCCMBkSksDLclSGI"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172896,
+      "name": "Hide Your Evil",
+      "url": "https://open.spotify.com/track/0OliHsJwDWAnUlG0kaMhor"
     },
     {
       "album": {
@@ -3587,6 +3713,28 @@
     },
     {
       "album": {
+        "name": "kratom",
+        "url": "https://open.spotify.com/album/6Ul1B2jOjz65qFxE3IPyY1"
+      },
+      "artists": [
+        {
+          "name": "NOVA BRUTE",
+          "url": "https://open.spotify.com/artist/1JQanS92h4TfGqd5fKZvWi"
+        },
+        {
+          "name": "EX-LUDO",
+          "url": "https://open.spotify.com/artist/0xTcUsBnw9GGAAw2P8zLyK"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172244,
+      "name": "kratom",
+      "url": "https://open.spotify.com/track/73IOVaqfXdvt6SKNEmHc9v"
+    },
+    {
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/35PZXY2rzxP2cWUIQXe33I"
       },
@@ -3670,7 +3818,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 211181,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/6dYRVP8CYMAaUpXprCY2BW"
@@ -3706,7 +3854,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 237493,
       "name": "Little Death",
       "url": "https://open.spotify.com/track/5CcdP6Gq2mH78hdAXxIVHC"
@@ -3836,6 +3984,28 @@
       "duration_ms": 138133,
       "name": "Loved by None",
       "url": "https://open.spotify.com/track/2ByGgUe2Z0M2xOPbivUwpr"
+    },
+    {
+      "album": {
+        "name": "lovely",
+        "url": "https://open.spotify.com/album/5ZN8O53uMCTcdr4COdYs4Z"
+      },
+      "artists": [
+        {
+          "name": "HumanKind",
+          "url": "https://open.spotify.com/artist/2ZtCsqVbwKq5zIIgDfEV9D"
+        },
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190885,
+      "name": "lovely",
+      "url": "https://open.spotify.com/track/2om9zI8QJeeWgGF2k2GkRZ"
     },
     {
       "album": {
@@ -3969,6 +4139,24 @@
     },
     {
       "album": {
+        "name": "Modern Fashion",
+        "url": "https://open.spotify.com/album/77uS44J5JgA5uhnZjtrF8x"
+      },
+      "artists": [
+        {
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142009,
+      "name": "Modern Fashion",
+      "url": "https://open.spotify.com/track/1jBCfOiKLgEaoS6YDa91o9"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/7q9zO7bLTSwTZqn1PwnqJf"
       },
@@ -4020,6 +4208,28 @@
       "duration_ms": 163840,
       "name": "Mugen Train",
       "url": "https://open.spotify.com/track/4HDsM8KEjAnLyUqPK6yj2E"
+    },
+    {
+      "album": {
+        "name": "Murderers",
+        "url": "https://open.spotify.com/album/5JL5pNpSU39LehO3iKtYg7"
+      },
+      "artists": [
+        {
+          "name": "Fronti\u00e8res",
+          "url": "https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc"
+        },
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200907,
+      "name": "Murderers",
+      "url": "https://open.spotify.com/track/54KpFhLOqTfX0VRj4JUWqu"
     },
     {
       "album": {
@@ -4254,7 +4464,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 156000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI"
@@ -4405,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
+    },
+    {
+      "album": {
         "name": "Opulence And Obsidian",
         "url": "https://open.spotify.com/album/6WwDhdOuR26xbBu93CIXxZ"
       },
@@ -4452,7 +4680,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 250401,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4Fml0YNyT7BCVYLzHrkGii"
@@ -4470,7 +4698,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 206655,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi"
@@ -4492,6 +4720,24 @@
       "duration_ms": 121852,
       "name": "Pastures",
       "url": "https://open.spotify.com/track/0HD2kWKZY5Ao4xv5AGGiRf"
+    },
+    {
+      "album": {
+        "name": "Personalities",
+        "url": "https://open.spotify.com/album/1byrSyyEh15BbsOJxFTBlR"
+      },
+      "artists": [
+        {
+          "name": "RevengeinKyoto",
+          "url": "https://open.spotify.com/artist/7avzhbB7YZbr3qba5F7O0B"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Personalities",
+      "url": "https://open.spotify.com/track/681IuFzFiGfCvkuxEGQDM5"
     },
     {
       "album": {
@@ -5181,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Skinwalking",
+        "url": "https://open.spotify.com/album/5vXSwYg9AJbL3LmFLjxCxK"
+      },
+      "artists": [
+        {
+          "name": "Hallow Sanctum",
+          "url": "https://open.spotify.com/artist/2xOZHdIPyqrwZPrl9bHCU5"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "Skinwalking",
+      "url": "https://open.spotify.com/track/6dXSzKFtgtxtTHRm77vkde"
+    },
+    {
+      "album": {
         "name": "slay ur enemies",
         "url": "https://open.spotify.com/album/4Y7XARCKI2aX8ND7mKpwX3"
       },
@@ -5228,7 +5492,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 239938,
       "name": "Sleight of Hand - Candyland Sessions",
       "url": "https://open.spotify.com/track/37gAUddvRyRBZscwdDkR7k"
@@ -5326,6 +5590,24 @@
       "duration_ms": 347333,
       "name": "Something Is Wrong",
       "url": "https://open.spotify.com/track/7AtGpI6Qep7WjitUMPZt1N"
+    },
+    {
+      "album": {
+        "name": "Soul Eater",
+        "url": "https://open.spotify.com/album/3pGNq1bngRYUReMVFs8bv9"
+      },
+      "artists": [
+        {
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246737,
+      "name": "Soul Eater",
+      "url": "https://open.spotify.com/track/2OjXaTHll2lwCNJhHXgaWv"
     },
     {
       "album": {
@@ -5448,7 +5730,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 239947,
       "name": "subjects",
       "url": "https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50"
@@ -5520,7 +5802,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 185777,
       "name": "SUFFER IN THE DARK",
       "url": "https://open.spotify.com/track/72tbts7CGQ7PWmnfCGvrPp"
@@ -5815,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "The Evil Order",
+        "url": "https://open.spotify.com/album/6ounycR6CwdkgvJRH3ecUq"
+      },
+      "artists": [
+        {
+          "name": "Violator",
+          "url": "https://open.spotify.com/artist/0lFI9B2QSbFVqS6gAZzg1a"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328333,
+      "name": "The Evil Order",
+      "url": "https://open.spotify.com/track/48TmBJGVr5l6jvpSsivK1m"
+    },
+    {
+      "album": {
         "name": "Passages",
         "url": "https://open.spotify.com/album/5peARHyQfrCC4wkD6MejWI"
       },
@@ -5866,7 +6166,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 266656,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/5OmePrjGCL3dSla3Fx3ws3"
@@ -6259,6 +6559,24 @@
     },
     {
       "album": {
+        "name": "undone by fate",
+        "url": "https://open.spotify.com/album/2MEa1VAnklDAvxvu2CjUTC"
+      },
+      "artists": [
+        {
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312456,
+      "name": "undone by fate",
+      "url": "https://open.spotify.com/track/3DTWvFHmvgeJ2k6jisAxbX"
+    },
+    {
+      "album": {
         "name": "Unjust God",
         "url": "https://open.spotify.com/album/7n6xW2xhJqMf5oi4yscWn2"
       },
@@ -6270,7 +6588,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 271626,
       "name": "Unjust God",
       "url": "https://open.spotify.com/track/74DQX5fBz8yOypEbENRAIG"
@@ -6700,7 +7018,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-28",
       "duration_ms": 198912,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/1xHlY90KUIbTriodDlHfLd"
@@ -6758,6 +7076,24 @@
       "duration_ms": 278399,
       "name": "Wounds Will Heal",
       "url": "https://open.spotify.com/track/4wAVTeE6nP81nnrHRGqDxW"
+    },
+    {
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273696,
+      "name": "Wrath",
+      "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
     },
     {
       "album": {

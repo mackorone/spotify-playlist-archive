@@ -4,7 +4,7 @@
 
 > Go inside the Marvel worlds that you love, with music from films including The Fantastic Four: First Steps, in theaters soon.
 
-221 songs - 9 hr 30 min
+222 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Thor: Ragnarok](https://open.spotify.com/track/4Jm9RwZ2C46J06ARRllUs5) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Thor: Ragnarok \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr) | 1:09 | 2024-01-05 |  |
 | [Thor: The Dark World \- From "Thor: The Dark World"/Score](https://open.spotify.com/track/5rQmuNRjKT6t33JlNJbc6I) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Thor: The Dark World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y) | 2:10 | 2024-01-05 |  |
 | [Thunderbolts\*](https://open.spotify.com/track/5OXtqgjZzi1Kj9EJlg45t2) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc) | 3:27 | 2025-05-01 |  |
+| [Thunderbolts\* \(The New Avengers Remix\) \- From "Thunderbolts\*"](https://open.spotify.com/track/08RBNAx1Ifktt3tPWmmGe3) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Thunderbolts\* \(The New Avengers Remix\) \[From "Thunderbolts\*"\]](https://open.spotify.com/album/3oIZPBzPcfyj95qtjBdeez) | 2:48 | 2025-08-27 |  |
 | [Too Late?](https://open.spotify.com/track/6yxe8tUng9r1UcT2VeZc9D) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 5\) \[Original Soundtrack\]](https://open.spotify.com/album/4uyGVW6v2abc3us2YKqISB) | 1:22 | 2024-01-05 |  |
 | [Totally Fine](https://open.spotify.com/track/10F9vRZJFsnB8KGesrzAPy) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 4:29 | 2024-01-05 |  |
 | [Tough Act to Follow](https://open.spotify.com/track/4cLZRWZsDQHpBqZiagymyb) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [The Falcon and the Winter Soldier: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG) | 1:16 | 2024-01-05 |  |
