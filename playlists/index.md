@@ -1,4 +1,4 @@
-## Playlists \(8755\)
+## Playlists \(8756\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -253,6 +253,7 @@
 - [80s Summer Rock](/playlists/pretty/37i9dQZF1DXaKs4phBF9kX.md)
 - [80s Workout](/playlists/pretty/37i9dQZF1DWZY6U3N4Hq7n.md)
 - [852 Hz](/playlists/pretty/37i9dQZF1DX10jlupqH0Bt.md)
+- [85cl](/playlists/pretty/4E70bCjqU7KHTsYIvpSy8F.md)
 - [9 to 5](/playlists/pretty/37i9dQZF1DWSMjsMIYcvmi.md)
 - [90's Allerbeste](/playlists/pretty/37i9dQZF1DWWu1NXpHyPJK.md)
 - [90's Alt Rock](/playlists/pretty/65mTEy33PMBRsfVtpwexlc.md)
