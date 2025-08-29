@@ -2,7 +2,7 @@
 
 ### [Hit Radio \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWVJyzEwVacEu)
 
-> De bekendste hits in Nederland\. Cover: Shaboozey & Myles Smith
+> De bekendste hits in NL 📻\. Cover: Shaboozey & Myles Smith
 
 339 songs - 16 hr 59 min
 

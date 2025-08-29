@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Almost Blue",
+        "url": "https://open.spotify.com/album/0a6MHgIjrFmmbIlFkAYHm8"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Almost Blue - Live",
+      "url": "https://open.spotify.com/track/0qHf3KrscjAaYN78jNUK3C"
+    },
+    {
+      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -368,7 +386,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 192906,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1gF8EnsbcFBaYsNig7LhtN"

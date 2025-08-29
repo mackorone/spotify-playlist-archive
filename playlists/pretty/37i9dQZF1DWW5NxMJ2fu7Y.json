@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 64155,
+  "num_followers": 64179,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Akhir mra andwi 3lik",
-        "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
-      },
-      "artists": [
-        {
-          "name": "Aujiss",
-          "url": "https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Akhir mra andwi 3lik",
-      "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "A9RASS x PSYCHO",
         "url": "https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 220010,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "Akhir mra andwi 3lik",
+        "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
+      },
+      "artists": [
+        {
+          "name": "Aujiss",
+          "url": "https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Akhir mra andwi 3lik",
+      "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Molno Jorjo",
-        "url": "https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc"
+        "name": "Bjouj",
+        "url": "https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT"
       },
       "artists": [
         {
-          "name": "Furelise",
-          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN"
+      "duration_ms": 207360,
+      "name": "Bjouj",
+      "url": "https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
+        "name": "Molno Jorjo",
+        "url": "https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
         "name": "AUJ",
         "url": "https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 222702,
       "name": "T9aws",
       "url": "https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
-        "name": "Bjouj",
-        "url": "https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT"
-      },
-      "artists": [
-        {
-          "name": "777YM",
-          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Bjouj",
-      "url": "https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Real Alien",
-        "url": "https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Iceburg",
-      "url": "https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "07",
         "url": "https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 213818,
       "name": "Maghandemch",
       "url": "https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "Real Alien",
+        "url": "https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Iceburg",
+      "url": "https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j"
     },
     {
       "added_at": "2025-08-07 10:28:18",

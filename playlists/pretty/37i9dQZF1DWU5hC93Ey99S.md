@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,809 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,995 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 5 | [Love Me Right](https://open.spotify.com/track/0gFtdNsqdG2Nb4F3S5yW4r) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk), [Jeanne Taylor](https://open.spotify.com/artist/1HnArnhrvMb1hHokXaZ6aR), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [Love Me Right](https://open.spotify.com/album/6wqO50mJ8BsZ3M1SQv2oFV) | 2:40 |
 | 6 | [Dance Without You](https://open.spotify.com/track/0GUhOjgRbZnsqmaz9rxhVr) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Dance Without You](https://open.spotify.com/album/5OpKlmpZ98jUQMeoVuNYAF) | 2:45 |
 | 7 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 |
-| 8 | [Can't find you](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Can't find you](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
+| 8 | [CAN'T FIND YOU](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [CAN'T FIND YOU](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 | 9 | [SOLANA](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [SOLANA](https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT) | 3:10 |
 | 10 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 |
 | 11 | [Set Me Free](https://open.spotify.com/track/0Or3Fgzkwg05zx0X83BG9V) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Set Me Free](https://open.spotify.com/album/2IZk3TgT9Q6T5oXkbN6Yn2) | 2:29 |

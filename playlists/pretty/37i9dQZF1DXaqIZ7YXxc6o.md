@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Ben Gerrans
+> Your weekly dose of new dance\. Cover: Human Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,225 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,234 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [MAKE ME FEEL](https://open.spotify.com/track/1rv65UJM8TskzGBAQ6EZ8V) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [MAKE ME FEEL](https://open.spotify.com/album/76h3nXT4CLGVZBFLFSnpyC) | 3:22 |
 | 100 | [LIGHTS](https://open.spotify.com/track/1b0iXteaGMJnBVrB1qPoed) | [Matty The Friend](https://open.spotify.com/artist/7f6X7MiH2bwZ6fHz2hXuCu), [Jaime Turner](https://open.spotify.com/artist/6M3iV7ZMWHwMOKHaiMa5ND) | [LIGHTS](https://open.spotify.com/album/4dKmydBSmV0rxKjUAWLlyQ) | 3:55 |
 
-Snapshot ID: `AAAAACX34SY3thEPduXs5dNWPVaNwS+6`
+Snapshot ID: `AAAAALr9LiSLsP9pjl1pyrr8gngmZCl5`

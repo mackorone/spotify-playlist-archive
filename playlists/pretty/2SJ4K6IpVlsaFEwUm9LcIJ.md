@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,204 likes - 72 songs - 4 hr 58 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,212 likes - 72 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 62 | [麻醉](https://open.spotify.com/track/43ETKz3JIboOOOxtYOqFa9) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [王菲97](https://open.spotify.com/album/5AeqIizTW4zfHAdqljMseu) | 4:00 |
 | 63 | [The Sailboat Song](https://open.spotify.com/track/5epBt5MByagXURhyKl2diz) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Stoned Soul Picnic](https://open.spotify.com/album/5prYrujbU18XFdkMkjnJGX) | 2:52 |
 | 64 | [Beacon Hill \- 2006 Remaster](https://open.spotify.com/track/36wdLg2FCX8Yu6bvzOZVGm) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 4:00 |
-| 65 | [Last Cloud Home](https://open.spotify.com/track/4VX2InnR8V5UvN5pSNTCg4) | [Orange Bicycle](https://open.spotify.com/artist/402ndP5t1fKcS2if8Vw3lD) | [Orange Bicycle](https://open.spotify.com/album/6CRJ3KiM8fPHqhd1k0QTzQ) | 3:05 |
-| 66 | [Blue \- 2021 Remaster](https://open.spotify.com/track/4Nz3VaVwFS48p6CYILxebB) | [Rain Parade](https://open.spotify.com/artist/1e9cOgMYTLJ0KFOjmTx13F) | [Explosions In the Glass Palace](https://open.spotify.com/album/7rOxe97IzTolDCSCXIdiSa) | 2:54 |
-| 67 | [Me, On The Beach](https://open.spotify.com/track/6bBBvE0Us9U5ivMDOyEIu9) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [Dream Sounds](https://open.spotify.com/album/3f9ZJ1QEyP5acU787crDml) | 6:45 |
-| 68 | [Idiot In The Park](https://open.spotify.com/track/4t5LaEd5Q3J6BBmSoIZP3F) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:19 |
-| 69 | [9 2 5](https://open.spotify.com/track/6IzuJx4beJwcP9ImbZsKYd) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:29 |
-| 70 | [Tossed Away](https://open.spotify.com/track/7vNMpCeU4hQSU94pdcmdr0) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:50 |
-| 71 | [Good House](https://open.spotify.com/track/3lVJWIGigp1gP69EAY24Ts) | [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Sleep Cycle](https://open.spotify.com/album/3koPfjNNoh3JJ0AD6WnKtT) | 7:01 |
-| 72 | [Water in Motion \- 2006 Remaster](https://open.spotify.com/track/2PnTIpGlHPY1FZkwDMlsnr) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 3:41 |
+| 65 | [Water in Motion \- 2006 Remaster](https://open.spotify.com/track/2PnTIpGlHPY1FZkwDMlsnr) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 3:41 |
+| 66 | [Last Cloud Home](https://open.spotify.com/track/4VX2InnR8V5UvN5pSNTCg4) | [Orange Bicycle](https://open.spotify.com/artist/402ndP5t1fKcS2if8Vw3lD) | [Orange Bicycle](https://open.spotify.com/album/6CRJ3KiM8fPHqhd1k0QTzQ) | 3:05 |
+| 67 | [Blue \- 2021 Remaster](https://open.spotify.com/track/4Nz3VaVwFS48p6CYILxebB) | [Rain Parade](https://open.spotify.com/artist/1e9cOgMYTLJ0KFOjmTx13F) | [Explosions In the Glass Palace](https://open.spotify.com/album/7rOxe97IzTolDCSCXIdiSa) | 2:54 |
+| 68 | [Me, On The Beach](https://open.spotify.com/track/6bBBvE0Us9U5ivMDOyEIu9) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [Dream Sounds](https://open.spotify.com/album/3f9ZJ1QEyP5acU787crDml) | 6:45 |
+| 69 | [Idiot In The Park](https://open.spotify.com/track/4t5LaEd5Q3J6BBmSoIZP3F) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 3:19 |
+| 70 | [9 2 5](https://open.spotify.com/track/6IzuJx4beJwcP9ImbZsKYd) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:29 |
+| 71 | [Tossed Away](https://open.spotify.com/track/7vNMpCeU4hQSU94pdcmdr0) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:50 |
+| 72 | [Good House](https://open.spotify.com/track/3lVJWIGigp1gP69EAY24Ts) | [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Sleep Cycle](https://open.spotify.com/album/3koPfjNNoh3JJ0AD6WnKtT) | 7:01 |
 
-Snapshot ID: `AAANCpXRBuPwz2zEZ32n5NKkK+ZNzl6R`
+Snapshot ID: `AAANCzQ9mTkMYdX0JBp0v+1pEznQbtry`

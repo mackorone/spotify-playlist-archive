@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1776,
+  "num_followers": 1780,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 55376,
-      "name": "Dos ojitos tengo",
-      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "\u00a1Fantastico!",
         "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 179026,
       "name": "Los Numeros",
       "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 55376,
+      "name": "Dos ojitos tengo",
+      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 158986,
       "name": "Mal\u00edsima",
       "url": "https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 50651,
+      "name": "Osos de Paseo",
+      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
     },
     {
       "added_at": "2020-04-27 15:43:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,167 likes - 123 songs - 10 hr 58 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,169 likes - 123 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 30 | [If it wasn't for Jesus \- from the studio](https://open.spotify.com/track/6gjZJNFr11sqlq8pDpS19f) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus \(from the studio\)](https://open.spotify.com/album/3CQcXGkmbJjXCeRHJEhaJo) | 4:02 |
 | 31 | [Won't He Do It \- Live](https://open.spotify.com/track/4FC3XAidDIMYLFIkxed9bA) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [33 \(Live\)](https://open.spotify.com/album/500D9cuyZpRq0mh13uxVUL) | 5:13 |
 | 32 | [Victory On The Way](https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:46 |
-| 33 | [Nothing Is Over](https://open.spotify.com/track/16JITzWPFUMY1uNgFIPmxc) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Nothing Is Over](https://open.spotify.com/album/3eFnq8loN5U5hUtJTSSy4E) | 4:24 |
+| 33 | [Nothing Is Over \- Live](https://open.spotify.com/track/16JITzWPFUMY1uNgFIPmxc) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Nothing Is Over \(Live\)](https://open.spotify.com/album/3eFnq8loN5U5hUtJTSSy4E) | 4:24 |
 | 34 | [Beautiful Day \- Live](https://open.spotify.com/track/36nLOcgEtfHRc6aCRP6kGL) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [Moments: 011 \(Live\)](https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC) | 3:52 |
 | 35 | [Come Into The Light/Touch The Sky \- Live](https://open.spotify.com/track/6fiCQ6J5220cCdTVl9Ioft) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light \(Live\)](https://open.spotify.com/album/68c3QXsNVkO3HIJEbxt2Pv) | 7:16 |
 | 36 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 |

@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-165 songs - 7 hr 59 min
+166 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2024-01-05 | 2025-05-07 |
 | [Sriracha](https://open.spotify.com/track/2o1WMrdNkgtGmchQ7lQ262) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial 2: Heidiwood Edition](https://open.spotify.com/album/13LkxmSDyseBJd5GA8sDam) | 1:59 | 2025-05-28 |  |
 | [Stolen Youth Theme](https://open.spotify.com/track/5oKbKWXw1hnA0FPjCJtdTy) | [Martin Crane](https://open.spotify.com/artist/2ouBaibHv2I5ZEFI2YB4sr) | [Stolen Youth: Inside the Cult at Sarah Lawrence \(Original Soundtrack\)](https://open.spotify.com/album/7wAd02Dh9IVaaMMqTppLVF) | 1:47 | 2024-01-05 |  |
+| [Strange Brew \- From "Alien: Earth"](https://open.spotify.com/track/6abqDtPi3XsikUPeHRVspQ) | [Noah Hawley](https://open.spotify.com/artist/5hMWNPplrj0gLHSOojE4me), [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Strange Brew \(From "Alien: Earth"\)](https://open.spotify.com/album/6xysFMk6pogEJWV5m2rmEc) | 2:44 | 2025-08-27 |  |
 | [Suncoast](https://open.spotify.com/track/7lKyxgVa7ouvaTNfK4Bml8) | [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc), [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Suncoast \(Original Soundtrack\)](https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t) | 2:16 | 2024-02-23 |  |
 | [Sunny Side Up Summer](https://open.spotify.com/track/2L4FsKQUUNJGGdqkxsdsMK) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [H\. Jon Benjamin](https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM), [Linda Belcher](https://open.spotify.com/artist/35z7Invq3DKL82VykSNIyE), [Dan Mintz](https://open.spotify.com/artist/397MkfYKFROVhksmvcf2nP), [Kristen Schaal](https://open.spotify.com/artist/0YSJvUTu5XXaaoIaNsAoIs), [Eugene Mirman](https://open.spotify.com/artist/2405AUADWenBRsMcOcDPd0) | [The Bob's Burgers Movie \(A Major Motion Burger Soundtrack\)](https://open.spotify.com/album/4racK1k0RK1kUl3eWROny7) | 3:57 | 2024-01-05 |  |
 | [Switch Lanes](https://open.spotify.com/track/2w1xwGmyQIoN9MhLdD8zQW) | [Mato Wayuhi](https://open.spotify.com/artist/70rrdlPO77vFHx1GLER7WT) | [Reservation Dogs: The Final Season \(Original Soundtrack\)](https://open.spotify.com/album/763K1MHlPlbyqjgRhmaq9m) | 2:03 | 2024-01-05 |  |

@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 187939,
       "name": "Bleikur Range Rover",
       "url": "https://open.spotify.com/track/0i4AOhWJqkedl62X2uxq4k"
@@ -11052,7 +11052,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 196905,
       "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
@@ -16416,7 +16416,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 246000,
       "name": "Forget-Me-Not",
       "url": "https://open.spotify.com/track/3KCI7rJ6wWQycz63STpv6D"
@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Forget-Me-Not",
       "url": "https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl"
@@ -21710,7 +21710,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 183937,
       "name": "HOT",
       "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
@@ -28724,7 +28724,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 179924,
       "name": "Lonely Without You",
       "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
@@ -29198,7 +29198,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
@@ -29216,7 +29216,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
@@ -30203,6 +30203,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -30608,7 +30626,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 348773,
       "name": "Mayonaise - 2011 Remaster",
       "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA"
@@ -42654,7 +42672,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3luic5gdP19rj3dZVNXFTE"
@@ -48614,7 +48632,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 201173,
       "name": "Today - 2011 Remaster",
       "url": "https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak"
@@ -48668,7 +48686,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 254626,
       "name": "Tonight, Tonight - Remastered 2012",
       "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
@@ -50746,7 +50764,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 154808,
       "name": "UPPI",
       "url": "https://open.spotify.com/track/3cDe5VRkx6SznwOqZ6rIYq"
@@ -53398,7 +53416,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 210813,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
@@ -54376,7 +54394,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"

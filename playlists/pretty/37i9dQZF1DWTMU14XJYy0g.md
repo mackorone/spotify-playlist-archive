@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Barbi Recanati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,513 likes - 103 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,500 likes - 103 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUBMUNDO](https://open.spotify.com/track/6lziQfVDLY8gocJpkNMgCQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [SUBMUNDO](https://open.spotify.com/album/0he4TYaI16gMtXhlJiHn8d) | 4:06 |
+| 1 | [Submundo](https://open.spotify.com/track/6lziQfVDLY8gocJpkNMgCQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Submundo](https://open.spotify.com/album/0he4TYaI16gMtXhlJiHn8d) | 4:06 |
 | 2 | [Paciencia](https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Paciencia](https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z) | 5:15 |
 | 3 | [Cirugía](https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 3:36 |
 | 4 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 26 | [Tu Razón de Ser](https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Tu Razón de Ser](https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn) | 3:26 |
 | 27 | [Refugio](https://open.spotify.com/track/1zbJrdazNgbWR88CrUVDAb) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Refugio](https://open.spotify.com/album/6F9syUZJubOERg42FJNHWl) | 4:16 |
 | 28 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 |
-| 29 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |
+| 29 | [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |
 | 30 | [Tormentón](https://open.spotify.com/track/7yWUqFK4tWYH3J7HSSzEm0) | [La Medianera](https://open.spotify.com/artist/75DO8anWSqwceTHoXKSEKR), [SEVANDER](https://open.spotify.com/artist/2mC1hKeg2XwGITlzQmupS8) | [Tormentón](https://open.spotify.com/album/5xRvU7dse3mY4cd32mrz9t) | 3:33 |
 | 31 | [La Revolución](https://open.spotify.com/track/0n1PsWE1TWLpk07lokQQhv) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [La Revolución](https://open.spotify.com/album/6HEqP6Ul5vVnEtFnEjkqOr) | 5:29 |
 | 32 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |

@@ -14202,6 +14202,24 @@
     {
       "album": {
         "name": "Somewhere Out There",
+        "url": "https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel Jones",
+          "url": "https://open.spotify.com/artist/7zpJcEpavXB7mOIdj4rtE1"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139149,
+      "name": "Somewhere Out There",
+      "url": "https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F"
+    },
+    {
+      "album": {
+        "name": "Somewhere Out There",
         "url": "https://open.spotify.com/album/1waJ5fuFNIicP9oSI6sObG"
       },
       "artists": [
@@ -14216,24 +14234,6 @@
       "duration_ms": 130022,
       "name": "Somewhere Out There",
       "url": "https://open.spotify.com/track/6OpoMm8kqOODt7ISNENERJ"
-    },
-    {
-      "album": {
-        "name": "Somewhere Out There",
-        "url": "https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg"
-      },
-      "artists": [
-        {
-          "name": "Solara Whisper",
-          "url": "https://open.spotify.com/artist/6swhOxLyYwb2PkQi5n23hi"
-        }
-      ],
-      "date_added": "2024-07-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139149,
-      "name": "Somewhere Out There",
-      "url": "https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F"
     },
     {
       "album": {

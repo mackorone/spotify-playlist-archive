@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Alex Velea, Connect-R, Smiley ",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: JO",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Era Era",
+        "url": "https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150882,
+      "name": "Era Era",
+      "url": "https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO"
+    },
+    {
+      "album": {
         "name": "eRAI",
         "url": "https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7"
       },
@@ -2568,6 +2586,24 @@
       "duration_ms": 184159,
       "name": "Iart\u0103-m\u0103",
       "url": "https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0"
+    },
+    {
+      "album": {
+        "name": "Iart\u0103-m\u0103 tu",
+        "url": "https://open.spotify.com/album/3BI64v9lDACUfRidxNPynn"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173469,
+      "name": "Iart\u0103-m\u0103 tu",
+      "url": "https://open.spotify.com/track/0RKB0DezMhni9wvfMyd4P8"
     },
     {
       "album": {
@@ -3090,7 +3126,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 141212,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0XgY5KlqJTmbpzgLpffOS4"
@@ -3466,6 +3502,24 @@
       "duration_ms": 187934,
       "name": "Muddy Waters",
       "url": "https://open.spotify.com/track/5FhKflM9C3d7yG8ztbZg5j"
+    },
+    {
+      "album": {
+        "name": "Multe veri",
+        "url": "https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152608,
+      "name": "Multe veri",
+      "url": "https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC"
     },
     {
       "album": {
@@ -5298,7 +5352,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 177049,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/6vMNao4AT6D51DPE9EDfik"

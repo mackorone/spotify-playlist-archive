@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,851 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,899 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 30 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prélude](https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Bach: Cello Suites Nos\. 1, 5 & 6](https://open.spotify.com/album/3cvjMNWg7t46NyDZzujfNg) | 2:32 |
 | 31 | [栄の活躍](https://open.spotify.com/track/1uPiELzYT6EZSIz6NBIzyX) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 3:09 |
 | 32 | [Shadow of Doubt](https://open.spotify.com/track/7po0feMdknjJCFuHkUGeSf) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 2\)](https://open.spotify.com/album/58nXdeGgTmfIfVjMdkwbGo) | 4:45 |
-| 33 | [dream..\. come true?](https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:43 |
+| 33 | [dream..\. come true?](https://open.spotify.com/track/0CreM2us2Cy9LD6R1bBnrg) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Chainsaw Man Original Soundtrack EP Vol.2 \(Episode 4\-7\)](https://open.spotify.com/album/4lvjSSzNcXLniTEyIrzaBX) | 1:43 |
 | 34 | [Again](https://open.spotify.com/track/7aCic4CXOZ3jbk4aLEtv8v) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:41 |
 | 35 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 |
 | 36 | [風は飛んだ](https://open.spotify.com/track/4tR8zDf56C8S4Mp8tTVTIj) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 2:53 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 | 53 | [ラクエン](https://open.spotify.com/track/4WFe6qT7bJLMMv2xB84der) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [WOLF'S RAIN](https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9) | 3:03 |
 | 54 | [シンシャ](https://open.spotify.com/track/5kdZroq0M2xIeMnZ64DFci) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [TVアニメ『宝石の国』オリジナルサウンドトラック](https://open.spotify.com/album/5yLnFLjrKde0Fih4A9H1X6) | 2:19 |
 | 55 | [Elegy of the Dynast](https://open.spotify.com/track/5M6ilhuxUWT0MVLWjucgGy) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER×HUNTER セレクト×ベスト×α](https://open.spotify.com/album/2a9NHZwSyE5SAt6Z0V0zHF) | 2:27 |
-| 56 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 |
+| 56 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 |
 | 57 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [YOSHIHIRO KANNO](https://open.spotify.com/artist/7jfKcvI5lGXF4QO4U08iB2), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 |
 | 58 | [Omake\-Pfadlib](https://open.spotify.com/track/0HxoynruEEEo4DF0axOFNj) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TV Anime "Attack on Titan" Original Soundtrack](https://open.spotify.com/album/3WDkuVqT1OfkTdCyYQ2gXa) | 3:31 |
 | 59 | [pfAD\-10:罪](https://open.spotify.com/track/3a3yOY5NhZV9msnSMC1T5e) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [七つの大罪 オリジナル・サウンドトラック 2](https://open.spotify.com/album/67H16vW2PEzBo2ZrTkWVHz) | 2:12 |

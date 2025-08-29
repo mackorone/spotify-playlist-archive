@@ -6452,6 +6452,24 @@
     {
       "album": {
         "name": "CHICHI",
+        "url": "https://open.spotify.com/album/5ETyAc0xXC4CAglYjFbNuq"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/2ARITkmrTclt5lGQPMmzwn"
+    },
+    {
+      "album": {
+        "name": "CHICHI",
         "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
       },
       "artists": [
@@ -24447,6 +24465,28 @@
     },
     {
       "album": {
+        "name": "OU TT",
+        "url": "https://open.spotify.com/album/7AyaR72XJIBdIqkN3NW94E"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244660,
+      "name": "OU TT",
+      "url": "https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh"
+    },
+    {
+      "album": {
         "name": "Arabi",
         "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
       },
@@ -26846,7 +26886,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 184253,
       "name": "RAZONES (feat. Morad)",
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
@@ -27496,7 +27536,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
@@ -28396,7 +28436,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -30942,7 +30982,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 176000,
       "name": "Taline",
       "url": "https://open.spotify.com/track/37wqLVXP8CZxLpmyuLxHlV"

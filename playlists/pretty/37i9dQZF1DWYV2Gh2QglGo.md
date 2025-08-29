@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Josh Ross
+> The home of Canadian country music\. Cover: Brett Kissel
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,161 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,179 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 74 | [Cowboys & Dreamers](https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Let Your Horses Run \- The Album](https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa) | 3:09 |
 | 75 | [I Ain't Country](https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [I Ain't Country](https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO) | 2:43 |
 
-Snapshot ID: `AAAAAFTvmCqUCUTbZ8Xcp9ITGxrIvf/2`
+Snapshot ID: `AAAAALu3GiM17K6eWzHzp6DTYiftfkfP`

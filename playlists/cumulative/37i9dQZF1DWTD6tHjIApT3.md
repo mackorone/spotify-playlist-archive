@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover:ロクデナシ
 
-3,293 songs - 8 day 18 hr 5 min
+3,295 songs - 8 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2091,6 +2091,7 @@
 | [ひかりのはなし](https://open.spotify.com/track/3yxCQpvmHOd2OOLmcghJEA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ひかりのはなし](https://open.spotify.com/album/6IFxKWApysHfpQIYN524xw) | 5:53 | 2022-07-26 | 2022-08-03 |
 | [ひかりの国](https://open.spotify.com/track/5fH0ynHoRCXR7VIYCflBPC) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりの国](https://open.spotify.com/album/15RcfQBTOcXLC1t5X9bn3r) | 5:16 | 2022-06-07 | 2022-07-06 |
 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳！〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 | 2024-07-17 |
+| [ひとえに壊れて](https://open.spotify.com/track/0e8SZnCimK0ESALP61L3Dc) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [ひとえに壊れて](https://open.spotify.com/album/0S8w6MVn1fdFCuowqBUrar) | 3:48 | 2025-08-26 |  |
 | [ひとちがい](https://open.spotify.com/track/3vsRjF60gYAiGsPgMLwzsy) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ひとちがい](https://open.spotify.com/album/3hKm4CfqAogfDZEowFTxSW) | 3:54 | 2024-05-07 | 2024-05-29 |
 | [ひとめもり](https://open.spotify.com/track/1mMDVySZj0nMBa4yebm3Bb) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [ひとめもり](https://open.spotify.com/album/2W8fHCw81Kpka42aHkw6DT) | 4:13 | 2024-03-05 | 2024-03-27 |
 | [ひとりごと](https://open.spotify.com/track/68USuzMKVJumOD1xcefdZ7) | [Asa yoji](https://open.spotify.com/artist/1HxALqjeA47S0wLQPHY9oA) | [ひとりごと](https://open.spotify.com/album/4khTFuDufrX8wVHZBfC05G) | 4:27 | 2025-02-04 | 2025-02-12 |
@@ -2442,6 +2443,7 @@
 | [マキシマイザー](https://open.spotify.com/track/7fgVDvB2Bt3GTAgnPSJKDG) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [マキシマイザー](https://open.spotify.com/album/6Dt9ApbwEWphTkoKpNcmVt) | 3:05 | 2024-02-20 | 2024-02-28 |
 | [マグマ](https://open.spotify.com/track/0Uy6aZsX0Q2nwNmP6Z5gNZ) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [マグマ I](https://open.spotify.com/album/5NsaiVz6Zszy7J2pwvNapg) | 3:25 | 2022-05-31 | 2022-06-08 |
 | [マジカルスターシャインメイクアップ☆](https://open.spotify.com/track/1vhpwJ29rrFJvTwExlakHC) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [マジカルスターシャインメイクアップ☆](https://open.spotify.com/album/4PTU9k1Iws0fagPE5U2zFe) | 3:22 | 2025-07-22 |  |
+| [マスカレード](https://open.spotify.com/track/2UKRKiW6GkDCVU2kBXdvVd) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [マスカレード](https://open.spotify.com/album/0KG3mfBsEtIPo0CvHZA4rc) | 3:34 | 2025-08-26 |  |
 | [マニマニ](https://open.spotify.com/track/7lFjSK6lMzWOLAF0yAoo21) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [マニマニ](https://open.spotify.com/album/75z3f76IhJjL2QgaOMmGg0) | 3:40 | 2024-05-28 | 2024-06-05 |
 | [マリー](https://open.spotify.com/track/11TsmSAUXzCdQm38D9U7NW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [マリー](https://open.spotify.com/album/6YvT2sePp3YJPdsYcD8Rnh) | 3:31 | 2025-07-08 |  |
 | [マルボロ](https://open.spotify.com/track/2ExTNmGAfJqiYnfKjCfbYW) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:53 | 2025-01-07 | 2025-01-15 |
@@ -2469,7 +2471,7 @@
 | [ヤッチマイナ!](https://open.spotify.com/track/7zdHVg51ysEcEgOUT3ewpb) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [ヤッチマイナ!](https://open.spotify.com/album/7LrZpZh8gj3P5cHEon11UI) | 3:08 | 2023-03-21 | 2023-03-29 |
 | [ヤマネ](https://open.spotify.com/track/1rOeAbMixBf1cALHZH6k6C) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [ヤマネ](https://open.spotify.com/album/37YAzLaSYo8TxAJ90WmELH) | 3:35 | 2023-12-05 | 2023-12-13 |
 | [ユリイカ](https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ユリイカ](https://open.spotify.com/album/2wCxkWZ2zxjUoBNgMZr8U0) | 3:45 | 2024-04-23 | 2025-02-05 |
-| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 |  |
+| [ヨロヨロ](https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ヨロヨロ](https://open.spotify.com/album/7KGimry3yj96A6Jd4z4eNk) | 2:35 | 2025-05-21 | 2025-08-29 |
 | [ライバー](https://open.spotify.com/track/0S5OgAipfqjXvfSHuESs8L) | [日向文](https://open.spotify.com/artist/6aWI8ZZ9CCyUFpayXQPoR2) | [ライバー](https://open.spotify.com/album/41522PDs5TFrKinuJ4BRNV) | 4:23 | 2022-06-07 | 2022-06-15 |
 | [ライフ・イズ・ビューティフォー](https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ライフ・イズ・ビューティフォー](https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d) | 4:26 | 2022-05-29 | 2022-08-04 |
 | [ライブ終わりに](https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [ライブ終わりに](https://open.spotify.com/album/2pywOWndfGqeFy7zYBdhO6) | 4:31 | 2023-08-08 | 2023-08-10 |
@@ -2965,7 +2967,7 @@
 | [東京マーブル](https://open.spotify.com/track/1JBLGTCiqdlrIfzaCW9Hey) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:02 | 2022-07-28 | 2022-08-03 |
 | [東京依存性](https://open.spotify.com/track/47b7ukPk8kqn5rqQAfBgiq) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [東京依存性](https://open.spotify.com/album/1e6zNhPukQK0Vt4fxUUoZM) | 2:47 | 2023-06-20 | 2023-06-22 |
 | [東雲の空](https://open.spotify.com/track/6a7YhzN8mpMGUvpznqAD2x) | [佐藤ミキ](https://open.spotify.com/artist/7HcKaZJPzvY40N22yz6Gel) | [東雲の空](https://open.spotify.com/album/2djZsw2Mg9qqNKwonrPECb) | 4:11 | 2022-06-02 | 2022-07-11 |
-| [松に鶴](https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL) | 3:29 | 2025-06-24 |  |
+| [松に鶴](https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL) | 3:29 | 2025-06-24 | 2025-08-29 |
 | [果てしないこと](https://open.spotify.com/track/6YuI8fAcMOKGBS7HHCTiBJ) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [果てしないこと](https://open.spotify.com/album/5vMxjBeVGirBB86WaE7GEX) | 5:21 | 2023-05-09 | 2023-05-17 |
 | [果てしない二人](https://open.spotify.com/track/4Yom29I6eZpdrUZiI2Cqis) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [果てしない二人](https://open.spotify.com/album/5kKS6IYSpmdWtT8XddQfKl) | 4:44 | 2022-10-06 | 2022-10-08 |
 | [果実を好きなだけ](https://open.spotify.com/track/4Xnxpbl2d5bAf8xjfquRqJ) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [果実を好きなだけ](https://open.spotify.com/album/52R5bzw6pCNebDYxWZQsob) | 3:54 | 2025-06-03 | 2025-06-11 |

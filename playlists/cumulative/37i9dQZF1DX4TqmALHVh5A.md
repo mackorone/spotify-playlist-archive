@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Flora Fishbach
+> La scène française branchée sur courant alternatif\. Photo : P.R2B
 
-322 songs - 17 hr 9 min
+324 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Girlfriend](https://open.spotify.com/track/3BvnwJMDF3MxPVGSitA4f3) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:43 | 2023-09-28 | 2023-11-10 |
 | [GROTSUNAMI](https://open.spotify.com/track/3SphPiIKHwnlCgAtBViaXU) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [GROTSUNAMI](https://open.spotify.com/album/3fMcKhyPKV3Snp09s2BuaB) | 2:03 | 2024-01-11 | 2024-10-04 |
 | [Géant](https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [x 1000](https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5) | 4:11 | 2024-04-18 | 2024-10-18 |
+| [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 | 2025-08-28 |  |
 | [Hardcore](https://open.spotify.com/track/5oTBD08V9CpqXK1e1T7WRd) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Hardcore](https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV) | 3:55 | 2024-06-27 | 2025-02-07 |
 | [Harmonium Blue](https://open.spotify.com/track/15jAQDymeWRbuzS9Y33tVV) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [DAZY](https://open.spotify.com/album/1p05EsQ9OsPst8KS8HWbOE) | 2:59 | 2025-03-20 |  |
 | [Hey Joe](https://open.spotify.com/track/57hKJDzT86Hb4XEvFKcSqZ) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Hey Joe](https://open.spotify.com/album/4X9EzY8mrxWMRfSU88ehaM) | 3:12 | 2025-04-10 | 2025-06-06 |
@@ -230,9 +231,10 @@
 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 | 2023-09-28 | 2023-10-27 |
 | [Playlist](https://open.spotify.com/track/1kgcQuaNQyWI0aGYtXLRAw) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [Playlist](https://open.spotify.com/album/3J5UVKv1TneYWee284coHA) | 3:49 | 2025-03-27 |  |
 | [PLAYSTATION](https://open.spotify.com/track/2Y7pSaRip0CegkydJUtzqp) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [PLAYSTATION](https://open.spotify.com/album/229ypZccM7Mpcl12Sc1r0F) | 3:13 | 2025-02-06 | 2025-05-16 |
-| [Plus de place nulle part](https://open.spotify.com/track/2i0EbjEWZWNn4kwQEaBfYI) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Plus de place nulle part](https://open.spotify.com/album/16czJL68bIXNHBxvCdSQZP) | 2:13 | 2025-03-06 |  |
+| [Plus de place nulle part](https://open.spotify.com/track/2i0EbjEWZWNn4kwQEaBfYI) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Plus de place nulle part](https://open.spotify.com/album/16czJL68bIXNHBxvCdSQZP) | 2:13 | 2025-03-06 | 2025-08-29 |
 | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/track/5riDJY8bBZ5q93T6SuEyCt) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PLUS RIEN N'EST GRAVE](https://open.spotify.com/album/4rRoWGVgwlIX75hKwLdtOg) | 2:10 | 2023-09-28 | 2023-11-10 |
 | [Premier Baiser](https://open.spotify.com/track/6zKP5wtxXNpzDWxcHA9LRa) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I), [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Premier Baiser](https://open.spotify.com/album/3pEJyWEz9kGVYzXE9j9MZt) | 2:50 | 2024-06-20 | 2024-11-29 |
+| [Presque Punk](https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/7Ismclfo1TZYljMc8FGfAj) | 3:53 | 2025-08-28 |  |
 | [Presque un secret](https://open.spotify.com/track/5Xsu89IWIRc3s3WCP4o69p) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Presque un secret](https://open.spotify.com/album/5N9tpTQqC42sOtGeevzngE) | 3:04 | 2023-09-28 | 2023-10-06 |
 | [Primitivism](https://open.spotify.com/track/6xs3GzoTKtL0f8iYx70BpZ) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Primitivism](https://open.spotify.com/album/3TO0lDkNsERv08EJlIYmFj) | 3:34 | 2024-04-04 | 2024-10-18 |
 | [Problèmes](https://open.spotify.com/track/1se9m5r5XhNKHYOA4XS0Yd) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Cabale](https://open.spotify.com/album/3KdpOBLkuf70nhwTu1anQV) | 2:58 | 2023-10-19 | 2024-06-01 |
@@ -241,7 +243,7 @@
 | [Que la biche soit en nous](https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Que la biche soit en nous](https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd) | 3:28 | 2024-06-20 | 2025-02-07 |
 | [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 | 2023-12-08 |
 | [Quelle heure est\-il](https://open.spotify.com/track/4Rm4gta5RlBOBAZHyuMTQ7) | [LAMOUR](https://open.spotify.com/artist/3y08s9jlzVAK7yrqqK2tj2) | [Quelle heure est\-il](https://open.spotify.com/album/0MggCPhrlljI3419jkOG0m) | 2:25 | 2025-03-20 |  |
-| [QUI FERA TAIRE LES KIDZ FUCKED UP??](https://open.spotify.com/track/6aLLPBxLZUK4E8DIKdcbN8) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [COMÈTE](https://open.spotify.com/album/4CKVF1Nic1t4j02iZnfi8Y) | 3:33 | 2025-03-13 |  |
+| [QUI FERA TAIRE LES KIDZ FUCKED UP??](https://open.spotify.com/track/6aLLPBxLZUK4E8DIKdcbN8) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [COMÈTE](https://open.spotify.com/album/4CKVF1Nic1t4j02iZnfi8Y) | 3:33 | 2025-03-13 | 2025-08-29 |
 | [Radio](https://open.spotify.com/track/3XDbBLoiPf3NNR4DY1wMld) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Radio](https://open.spotify.com/album/1nRoA7wDI7mraWdDMOteQ8) | 3:11 | 2023-09-28 | 2023-10-27 |
 | [Radio](https://open.spotify.com/track/7t4TKQwffyxm6VjV8xUzdP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Radio](https://open.spotify.com/album/4gjmcshJN2wyvrZZeIXO2M) | 2:50 | 2023-09-28 | 2023-11-17 |
 | [Rage2](https://open.spotify.com/track/6FEa9mo6Qrd1v0u5rTUlZU) | [SÜEÜR](https://open.spotify.com/artist/124RVleRdpnGBCTjulr6rq) | [ANANKÉ](https://open.spotify.com/album/7sUul65XdFnWzyjbhI0tpd) | 3:02 | 2023-09-28 | 2023-10-27 |

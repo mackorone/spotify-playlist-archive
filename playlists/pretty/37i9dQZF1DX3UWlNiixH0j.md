@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,364 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,391 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 64 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
 | 65 | [燕](https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [燕](https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir) | 3:49 |
 | 66 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
-| 67 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
-| 68 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
-| 69 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
-| 70 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
-| 71 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
-| 72 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
-| 73 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
+| 67 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 68 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
+| 69 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
+| 70 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
+| 71 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
+| 72 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
+| 73 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
 | 74 | [ウィノナライダー アンドロイド](https://open.spotify.com/track/4dQf9tCe3FeDL6lxkZKKGJ) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:45 |
 | 75 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
 

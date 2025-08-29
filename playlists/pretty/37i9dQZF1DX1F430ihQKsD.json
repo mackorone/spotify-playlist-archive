@@ -1,13 +1,29 @@
 {
   "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Ariane Roy",
-  "num_followers": 136293,
+  "num_followers": 136283,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqiB2dXy6gxNvPnfut7U9JSmcbj",
+  "snapshot_id": "AAAAADW7b6GU07OZM0yMl8d8yPtEippo",
   "tracks": [
+    {
+      "added_at": "2025-08-28 21:41:33",
+      "album": {
+        "name": "Beau Bassin",
+        "url": "https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "duration_ms": 157420,
+      "name": "Beau Bassin",
+      "url": "https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl"
+    },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {

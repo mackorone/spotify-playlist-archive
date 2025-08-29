@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,083 songs - 11 day 17 hr 9 min
+5,087 songs - 11 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-26 | 2024-08-10 |
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-24 | 2025-02-01 |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-30 | 2024-09-07 |
+| [Chateau Blues](https://open.spotify.com/track/75IGGN9fT7jNEyNJmSVHyq) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Chateau Blues](https://open.spotify.com/album/00JEIPiZLwrJx1EslEZO7z) | 3:01 | 2025-08-28 |  |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-02 | 2024-08-10 |
 | [Check Your Face](https://open.spotify.com/track/4sjKAFUfKvzORpA445jNjd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Check Your Face](https://open.spotify.com/album/2YoGoESwgJCsKE49veLfqy) | 2:56 | 2024-08-15 | 2024-08-24 |
 | [Cheeky](https://open.spotify.com/track/0BD5VUA6o7AH29u2dTzBYu) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What’s Wrong With New York?: Afters](https://open.spotify.com/album/6Koz57deVak6xZwiY5rOTK) | 2:35 | 2025-06-20 | 2025-06-28 |
@@ -1310,6 +1311,7 @@
 | [Duro De Verdad pt.2](https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Duro De Verdad pt.2](https://open.spotify.com/album/3c8T88YKC08bsaZiuY2KoA) | 3:24 | 2024-09-13 | 2024-09-21 |
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-07 | 2025-08-16 |
 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 | 2025-07-25 | 2025-08-02 |
+| [Dyslexic Palindrome](https://open.spotify.com/track/0yuc3D0SWBZE2jhS1wJ5FG) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Dyslexic Palindrome](https://open.spotify.com/album/0vt6shKPsE4vfxbEK09bk0) | 4:02 | 2025-08-28 |  |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-25 | 2025-08-02 |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-19 | 2024-07-27 |
 | [Día de Muertos](https://open.spotify.com/track/1qWIo4GCLWQIWdghY6GsTm) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1) | [Lo Que Hacía Mientras Dormías](https://open.spotify.com/album/4Lefr76YzH3XOs7g5azWrP) | 2:30 | 2025-03-07 | 2025-03-15 |
@@ -2694,6 +2696,7 @@
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-06-27 | 2025-07-05 |
 | [Lovesick Lullaby](https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lovesick Lullaby](https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu) | 2:55 | 2025-04-25 | 2025-05-10 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-30 | 2025-06-07 |
+| [Lovin' You](https://open.spotify.com/track/1LYQnXnGNw6yUr7xWRvZft) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin' You](https://open.spotify.com/album/3zPzlfpJLkQdi5MYWTBsMj) | 3:42 | 2025-08-28 |  |
 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 | 2024-11-08 | 2024-11-16 |
 | [Lowdown \(part i\)](https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Lowdown](https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS) | 3:15 | 2024-09-13 | 2024-09-21 |
 | [Luces de emergencia](https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Patrick](https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB) | 3:33 | 2025-01-31 | 2025-02-08 |
@@ -3896,6 +3899,7 @@
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-16 | 2024-08-24 |
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-02 | 2025-05-10 |
 | [Seems Like You Don’t Know Me](https://open.spotify.com/track/6z4XC6ijxA4sGZznuwyVMh) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Seems Like You Don’t Know Me](https://open.spotify.com/album/28DmvxyHPvYy8VSwO8pTXw) | 3:37 | 2025-03-21 | 2025-03-29 |
+| [Seguidores](https://open.spotify.com/track/32ioBJljmbgZrKYo282fnH) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Seguidores](https://open.spotify.com/album/4TF4x4MbSJSDRfKAUewKK8) | 2:50 | 2025-08-28 |  |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-24 | 2025-02-01 |
 | [Seize The Sun](https://open.spotify.com/track/2kuYksbeaWWT6nc7YhWmW1) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [I Miss the Sky](https://open.spotify.com/album/1Ffa7l8Fh6kPl4LV8KGste) | 3:39 | 2024-04-26 | 2024-05-10 |
 | [Self Love](https://open.spotify.com/track/5489cZv0Sf24kOWN8sModo) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Self Love](https://open.spotify.com/album/1QhEe7Dg2og3MpyEq2YNF1) | 2:52 | 2025-02-14 | 2025-02-22 |

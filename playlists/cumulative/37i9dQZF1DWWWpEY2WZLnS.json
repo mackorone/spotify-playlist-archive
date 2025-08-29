@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "NO A LA DELINCUENCIA",
+        "url": "https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111130,
+      "name": "COMO TE CONTE",
+      "url": "https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c"
+    },
+    {
+      "album": {
         "name": "Con Chapa",
         "url": "https://open.spotify.com/album/51IcpKcFOg9hlGbeYWJznO"
       },
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 105486,
       "name": "Dembere",
       "url": "https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs"

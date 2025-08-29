@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,537 likes - 102 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,538 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Domingo de lluvia](https://open.spotify.com/track/3Wq2c1bGTOapOtzmfFTUdH) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Lado Oscuro](https://open.spotify.com/album/77OI4ZSQBlNQxmXl9P3X2E) | 3:02 |
 | 2 | [Estoy Bien](https://open.spotify.com/track/3lzASIb59OFvxqNTw6B5FK) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Estoy Bien](https://open.spotify.com/album/4EWSzR5GPHL14zrLrh7YS8) | 2:51 |
-| 3 | [SUBMUNDO](https://open.spotify.com/track/6lziQfVDLY8gocJpkNMgCQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [SUBMUNDO](https://open.spotify.com/album/0he4TYaI16gMtXhlJiHn8d) | 4:06 |
+| 3 | [Submundo](https://open.spotify.com/track/6lziQfVDLY8gocJpkNMgCQ) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Submundo](https://open.spotify.com/album/0he4TYaI16gMtXhlJiHn8d) | 4:06 |
 | 4 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 |
 | 5 | [un tiro](https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:34 |
 | 6 | [Motorhome](https://open.spotify.com/track/1p6J3tHv9yIuNTXS7wd58c) | [Javi Punga](https://open.spotify.com/artist/7fcLQdGhHxFNqtI3GWRj7A) | [Motorhome](https://open.spotify.com/album/2Grqx4sY2zxW9Wl9hwzUr1) | 3:04 |

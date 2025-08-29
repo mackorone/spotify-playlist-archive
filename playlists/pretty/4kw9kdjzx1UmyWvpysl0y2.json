@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUheJY/8XSlFh/ecZC4QFfFvfbAm/u",
+  "snapshot_id": "AAAUhgbkm3rpKeDeo0tZrylFXwHisMI4",
   "tracks": [
+    {
+      "added_at": "2025-08-28 14:03:39",
+      "album": {
+        "name": "Hyperfocus",
+        "url": "https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 193272,
+      "name": "Hyperfocus",
+      "url": "https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc"
+    },
     {
       "added_at": "2025-08-27 14:18:41",
       "album": {

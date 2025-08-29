@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: Julieta.
+> El futuro ya está aquí\. Foto: LUSILLON.
 
-300 songs - 14 hr 34 min
+301 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 | 2022-02-17 | 2022-07-15 |
 | [Dime Que Me Calle](https://open.spotify.com/track/3ttTIArzkg0a5ZjE3nbz65) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Dime Que Me Calle](https://open.spotify.com/album/2vZAm4JUPbTlQIsRD4Qhp8) | 2:54 | 2021-12-31 | 2022-02-05 |
 | [Disneyland Paris](https://open.spotify.com/track/2AeMKItKccbghNb24kruJB) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Disneyland Paris](https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG) | 2:24 | 2022-06-06 | 2023-03-10 |
+| [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 | 2025-08-28 |  |
 | [Duerme](https://open.spotify.com/track/3nJxOzRqFnsknEP9O07cUX) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Duerme](https://open.spotify.com/album/2lh6z9MX5BEJ7dRHuvo5Rh) | 2:37 | 2024-04-18 | 2025-02-28 |
 | [Duerme](https://open.spotify.com/track/5C8N8ZWHsvLj49NChGmQGn) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Flamenco Flamenquito](https://open.spotify.com/album/51xUtTgInOpm7fhGin9JqW) | 2:37 | 2024-02-06 | 2024-04-19 |
 | [Dunas](https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dunas](https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK) | 1:48 | 2022-03-31 | 2023-02-08 |

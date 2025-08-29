@@ -4,7 +4,7 @@
 
 > Artie 5ive in cover della playlist con il top dello street rap italiano ⛓️
 
-857 songs - 1 day 15 hr 14 min
+858 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Braquages](https://open.spotify.com/track/2PBzppfFYOLhyNcuosCLF9) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Braquages](https://open.spotify.com/album/4V30NxcCKiJ18l4n9mwieP) | 2:24 | 2022-05-11 | 2022-05-31 |
 | [BRAZY \(feat\. Tony Boy\)](https://open.spotify.com/track/3IPv7M45EB2kDthF7JHpHV) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:18 | 2025-03-28 | 2025-07-18 |
 | [BRUJERIA](https://open.spotify.com/track/1bpLJUoNhsCLEZQ8CwBWEB) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:12 | 2023-11-02 | 2023-11-17 |
-| [BRUMOTTI](https://open.spotify.com/track/0A9r5sCaK9134x7wqeOrgX) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 2:25 | 2025-08-07 |  |
+| [BRUMOTTI](https://open.spotify.com/track/0A9r5sCaK9134x7wqeOrgX) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 2:25 | 2025-08-07 | 2025-08-29 |
 | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0) | [BRUTTE COSE \(feat\. MINUR\)](https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID) | 1:34 | 2023-02-02 | 2023-06-30 |
 | [BU!](https://open.spotify.com/track/2rhTJhBMz2l7iDKQzl2KCd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:25 | 2022-11-24 | 2022-12-08 |
 | [BU!](https://open.spotify.com/track/52Q2Ocg7mAG5B9LZ1szKoQ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:25 | 2022-12-06 | 2022-12-16 |
@@ -299,6 +299,7 @@
 | [Fils De Pute \(feat\. Speranza & Rafilù\)](https://open.spotify.com/track/24FFdPglqlH5uXwBwyY8kb) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:25 | 2023-12-01 | 2023-12-22 |
 | [FINCHÉ NON ARRIVA LA BELLA VITA](https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:00 | 2023-10-05 | 2023-11-03 |
 | [First Day Out](https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [First Day Out](https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG) | 2:51 | 2024-05-21 | 2024-09-06 |
+| [FOLLOW \(feat\. Lele Blade, Christian Revo\)](https://open.spotify.com/track/5sf1R96V9wdBdA8GjHt3gR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [FOLLOW \(feat\. Lele Blade, Christian Revo\)](https://open.spotify.com/album/3fD3dYo9dM0n731T6q9XW4) | 2:43 | 2025-08-28 |  |
 | [Formaggio](https://open.spotify.com/track/56zOij7nsZ24s6WyASo0Tc) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN) | [Formaggio](https://open.spotify.com/album/3LwFyQ4mo7wemhC7MCFkJC) | 2:39 | 2025-05-15 | 2025-05-23 |
 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 | 2023-10-13 |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-22 | 2024-06-14 |

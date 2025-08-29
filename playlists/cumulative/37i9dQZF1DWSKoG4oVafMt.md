@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,120 songs - 2 day 12 hr 21 min
+1,121 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 | 2022-08-18 |
 | [Akh Kashni](https://open.spotify.com/track/6XGSNHEcQyz9sBYT0Fo532) | [Ashu](https://open.spotify.com/artist/2d597pUuGdL3bcn0jhZuww), [Spade](https://open.spotify.com/artist/3LHmBcvmWp7KyQnJuoDxA9) | [Akh Kashni](https://open.spotify.com/album/7IOT37dqjUmqiCqcoxCgPf) | 2:58 | 2022-09-05 | 2022-09-23 |
 | [Akhan](https://open.spotify.com/track/4l5MyJoylIob2nr31WIzg3) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 | 2024-04-01 |  |
+| [Akhan Ch Vasavan \- From "Nikka Zaildar 4"](https://open.spotify.com/track/4JLu6LmAukJnqi3QCd9Tvb) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Akhan Ch Vasavan \(From "Nikka Zaildar 4"\)](https://open.spotify.com/album/3mneZzEEPzlHCs77efMibe) | 3:01 | 2025-08-28 |  |
 | [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/5zQ5FjF4FYWx6hBGQnhhSv) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/3bg4t9VQgDSdxdzFNdkV3i) | 3:48 | 2023-04-19 | 2025-06-05 |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2023-05-12 | 2024-03-28 |
 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 | 2024-08-02 |  |
@@ -124,7 +125,7 @@
 | [Bura Haal](https://open.spotify.com/track/2ciKJPKGL3vniRe8Wusx5Y) | [G Sangha](https://open.spotify.com/artist/7zre8eLPOlfXsW4SSQIj4Q) | [Bura Haal](https://open.spotify.com/album/76mOLcW3OQhsyXbSr0JcAG) | 3:02 | 2022-11-17 | 2022-12-16 |
 | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK) | 3:40 | 2023-06-21 | 2024-02-08 |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
-| [Butterflies](https://open.spotify.com/track/30cdthGmCUtEHTlsEexhpK) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv) | [Intense \(Deluxe Edition\)](https://open.spotify.com/album/6pVwv7THPN2KGH6sKd0lwJ) | 2:59 | 2025-08-12 |  |
+| [Butterflies](https://open.spotify.com/track/30cdthGmCUtEHTlsEexhpK) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv) | [Intense \(Deluxe Edition\)](https://open.spotify.com/album/6pVwv7THPN2KGH6sKd0lwJ) | 2:59 | 2025-08-12 | 2025-08-29 |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 | 2023-02-04 |
 | [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 | 2024-11-08 | 2024-12-05 |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 | 2022-08-18 |

@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-342 songs - 19 hr 5 min
+343 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Re Locos Otra Vez](https://open.spotify.com/track/2RLI4XpPQu1qeli6xfGrXa) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Re Locos Otra Vez](https://open.spotify.com/album/0Ia5qYXUpmPGGPRb6AKkVk) | 3:53 | 2024-12-20 | 2025-08-24 |
 | [RE MANIJA](https://open.spotify.com/track/1mP4PFtnRSxnC2wiiUkkb0) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [RE MANIJA](https://open.spotify.com/album/5IilPCTGtRn93PKjeHADUC) | 3:09 | 2025-05-09 | 2025-08-24 |
 | [Regresa Por Favor](https://open.spotify.com/track/4ZNTXxXvWoY9L0xMcrXiaa) | [1 de kal](https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Regresa Por Favor](https://open.spotify.com/album/3w8OvJaLNJdsOi8UVzNGpm) | 3:23 | 2024-08-16 | 2024-08-22 |
-| [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2023-05-26 |  |
+| [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 | 2023-05-26 | 2025-08-29 |
 | [Resaka](https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [¿Qué No Vale Nada?](https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac) | 3:34 | 2023-05-26 | 2024-04-19 |
 | [Ricky Paum Paum](https://open.spotify.com/track/57TUcUGf1NVqM3NcjYFAwa) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:55 | 2024-09-27 | 2025-03-23 |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2023-05-26 | 2024-03-06 |
@@ -321,6 +321,7 @@
 | [Una Calle Nos Separa](https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 3:32 | 2023-05-26 | 2024-04-19 |
 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 | 2023-05-26 | 2023-05-30 |
 | [Una copa mas](https://open.spotify.com/track/0tAKVEBAQnXc8LrWuSZOdv) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:44 | 2023-05-26 |  |
+| [Una Seca por Vos](https://open.spotify.com/track/3rndN8aGPfaBmBr3dS0xhV) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz) | 3:05 | 2025-08-22 |  |
 | [Una Vela](https://open.spotify.com/track/10f7PQtaXpUuM9QqExvkCG) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [Los gedientos del rock](https://open.spotify.com/artist/3FCxp8Oq0BRVvdnIEUIo0S) | [Una Vela](https://open.spotify.com/album/2TclDmUh8qqD6xUFjj7hly) | 2:01 | 2024-09-27 | 2024-10-16 |
 | [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 | 2023-09-08 |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2023-05-26 | 2024-04-19 |

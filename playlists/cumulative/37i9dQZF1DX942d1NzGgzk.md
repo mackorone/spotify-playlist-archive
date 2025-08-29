@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: yaemulli
+> The latest of R&B in the UK\. Cover: Mulaa Joans
 
-494 songs - 1 day 1 hr 41 min
+495 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 | 2023-08-18 | 2023-10-04 |
 | [Mandy](https://open.spotify.com/track/3PO4o0z1ao5ItW7C4HNd72) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Mandy](https://open.spotify.com/album/11TgzkZn6xP5E2jYkQJIga) | 3:05 | 2022-07-17 | 2023-05-15 |
 | [Marking My Time](https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau) | 4:28 | 2023-09-22 | 2024-04-26 |
+| [Members Only](https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Members Only](https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z) | 2:35 | 2025-08-28 |  |
 | [Memory Lane](https://open.spotify.com/track/6ZK6kijHXpQH1XGS6ZAygu) | [Neya](https://open.spotify.com/artist/7BkjHbT4VYLvWbtnZK8bcg) | [Memory Lane](https://open.spotify.com/album/2a6BJjAOIKQFCQ8LaHwR2c) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 | 2024-03-22 | 2025-01-24 |
 | [MET YOU AT A BAR](https://open.spotify.com/track/4OBgCqoGas1dSNyRXRtRpK) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:40 | 2024-12-06 | 2025-05-09 |
@@ -404,7 +405,7 @@
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-19 | 2024-09-13 |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-07-24 |  |
 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 | 2023-05-15 | 2024-09-13 |
-| [Sorry for Me](https://open.spotify.com/track/0YLOAFElqNxIl1YxerXBQu) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Sorry for Me](https://open.spotify.com/album/2iDGaGsNMSdtenLxFAz542) | 3:56 | 2025-07-24 |  |
+| [Sorry for Me](https://open.spotify.com/track/0YLOAFElqNxIl1YxerXBQu) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Sorry for Me](https://open.spotify.com/album/2iDGaGsNMSdtenLxFAz542) | 3:56 | 2025-07-24 | 2025-08-29 |
 | [Special Feeling](https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Special Feeling](https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx) | 3:15 | 2024-04-26 | 2024-05-11 |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-06-26 | 2025-07-24 |
 | [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 | 2024-12-13 | 2025-03-09 |

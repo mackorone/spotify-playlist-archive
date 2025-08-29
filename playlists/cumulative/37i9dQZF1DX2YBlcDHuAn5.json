@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Everlastingly",
+        "url": "https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe"
+      },
+      "artists": [
+        {
+          "name": "The Martial",
+          "url": "https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194175,
+      "name": "Everlastingly",
+      "url": "https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4"
+    },
+    {
+      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp"
       },
@@ -1198,6 +1216,24 @@
       "duration_ms": 186280,
       "name": "Flowers in the Fields",
       "url": "https://open.spotify.com/track/5FLPIPTV1R8g4gcQEcFcGB"
+    },
+    {
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "album": {
@@ -2460,7 +2496,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 197119,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/75Fd3PedFwTzjiDzYcBDHr"
@@ -4317,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
         "name": "Brand New Life",
         "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
       },
@@ -4516,7 +4570,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 233684,
       "name": "Won't Let 'Em Get Along",
       "url": "https://open.spotify.com/track/1QbrlKumzE3OHPOLDogetM"

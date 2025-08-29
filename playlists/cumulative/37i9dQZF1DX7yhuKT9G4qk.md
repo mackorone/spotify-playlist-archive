@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-122 songs - 7 hr 2 min
+124 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [But I Can Show U How](https://open.spotify.com/track/61nk9QwdEYLuVqXkefVnmZ) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [But I Can Show U How](https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC) | 2:40 | 2025-07-16 |  |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 |  |
 | [Changes](https://open.spotify.com/track/70Im6ch9dNGzxoGG6vpxcd) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Changes](https://open.spotify.com/album/4aldFjPokcR0SvHQ5KCP8c) | 5:19 | 2025-07-16 |  |
-| [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 |  |
+| [CHICKEN TENDIES](https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [CHICKEN TENDIES](https://open.spotify.com/album/72gGqv8n64gwUBY10SPI3N) | 3:16 | 2025-07-16 | 2025-08-29 |
 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 | 2025-07-16 |  |
 | [Colors](https://open.spotify.com/track/61Y8I1rRg4dbf5di8ZEO3S) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Colors](https://open.spotify.com/album/7qGLNk4J8QBK1auwmJT39b) | 3:20 | 2025-07-16 |  |
 | [Departure](https://open.spotify.com/track/5SzAXugSyV4nN9LxvnIiFp) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Departure](https://open.spotify.com/album/1SXiY0908RyXJTZ96fdDHi) | 3:19 | 2025-07-16 |  |
@@ -81,6 +81,7 @@
 | [No Room](https://open.spotify.com/track/7F4dU6quYSIJNCCLd7K5Bv) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [No Room](https://open.spotify.com/album/3xnkKMRp01iobdBfsICO6X) | 3:29 | 2025-07-16 |  |
 | [OKAY](https://open.spotify.com/track/6TR5u5u7ZynQwdrnlE0QHq) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OKAY](https://open.spotify.com/album/493kf8veQgFOYoI2w6MrUQ) | 2:50 | 2025-07-16 |  |
 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 | 2025-08-08 |  |
+| [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-08-28 |  |
 | [One of Us](https://open.spotify.com/track/2QOliionpGeW9UDnguKX52) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [One of Us](https://open.spotify.com/album/2whZgGM2nRFzNSaiH9AUle) | 3:06 | 2025-07-16 |  |
 | [Our Little Universe](https://open.spotify.com/track/3UIXJQYQcWh6aZKZ3jMzYx) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Our Little Universe](https://open.spotify.com/album/2OY9ZmUGo6RVQ8DxBePvPb) | 2:48 | 2025-07-16 |  |
 | [Out Loud](https://open.spotify.com/track/7MwjbZSNCzPpjpbHre3TJm) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [SammyB](https://open.spotify.com/artist/5GFqETG1gTsyg32HCBNmjQ) | [Out Loud](https://open.spotify.com/album/494ypzyniJnUOZqelCSYrd) | 3:52 | 2025-07-16 |  |
@@ -96,8 +97,9 @@
 | [Say The Word](https://open.spotify.com/track/0c26nvNqCEA2l1ez41KzkK) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Say The Word](https://open.spotify.com/album/5Ei5Z8c8mA8th5fgSoZSRr) | 2:48 | 2025-07-16 |  |
 | [Shine](https://open.spotify.com/track/0pD0ZDgjAMHLdFNov4sRta) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Shine](https://open.spotify.com/album/0NWWNpxBOkggyzp829Fudt) | 3:14 | 2025-07-16 |  |
 | [Sinking Like a Stone](https://open.spotify.com/track/12OOKJeLg0Vd28oQii9UvY) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Sinking Like a Stone](https://open.spotify.com/album/4dvpeRYEohWv3OyrUXSOxu) | 2:45 | 2025-07-16 |  |
-| [Slow Show](https://open.spotify.com/track/6vmvNj64lOYWs3Vs4vZbgv) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pG7mDkQhia2OyGE6fbkmJ) | 4:08 | 2025-07-16 |  |
+| [Slow Show](https://open.spotify.com/track/6vmvNj64lOYWs3Vs4vZbgv) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pG7mDkQhia2OyGE6fbkmJ) | 4:08 | 2025-07-16 | 2025-08-29 |
 | [Slowdown](https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Slowdown](https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm) | 4:07 | 2025-07-16 |  |
+| [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 | 2025-08-28 |  |
 | [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2025-07-16 |  |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-07-16 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2025-07-16 |  |
@@ -114,7 +116,7 @@
 | [To Tomorrow](https://open.spotify.com/track/5jaXe7XBdv63xbyYUeZQ6k) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [To Tomorrow](https://open.spotify.com/album/2LmcsPdZ4hXQ9kNUoLLvJh) | 3:24 | 2025-07-16 |  |
 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2025-07-16 |  |
 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 | 2025-07-16 |  |
-| [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 |  |
+| [Wait For Me](https://open.spotify.com/track/3UktGQO4TaIN3Jn7YtJoZr) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Wait For Me](https://open.spotify.com/album/4zqzaFoDBEm1iaM91taDCu) | 3:41 | 2025-07-16 | 2025-08-29 |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-07-16 |  |
 | [Wanderlust](https://open.spotify.com/track/6ytigxubOVOkboGnuxh0qT) | [Renata Louisa](https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE) | [Mother](https://open.spotify.com/album/2uumVlEkCVNVaSHov6OyC5) | 3:47 | 2025-07-16 |  |
 | [Weather The Storm](https://open.spotify.com/track/1nhpjqwvgg9chWuCgrrXE2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Weather The Storm](https://open.spotify.com/album/0ckoLZt4Xb73Vebt8AxHTE) | 5:00 | 2025-08-08 |  |
@@ -126,9 +128,9 @@
 | [Where/When](https://open.spotify.com/track/44J2PcpgCePXPB13CUsitY) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Where/When](https://open.spotify.com/album/2v2XQa8yperg0wnP4TYHNv) | 2:56 | 2025-07-16 |  |
 | [White Gold](https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [White Gold](https://open.spotify.com/album/2ZZpn5kiOjcDigcgthY4WQ) | 4:18 | 2025-07-16 |  |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/38k7lGHmy8LyVpkXLVnZSj) | 3:15 | 2025-07-16 |  |
-| [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-16 |  |
+| [With You](https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [With You](https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR) | 2:34 | 2025-07-16 | 2025-08-29 |
 | [World Is Waking Up](https://open.spotify.com/track/053nOMzHpuHNVjI1Ng2Q4b) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Cimo Fränkel](https://open.spotify.com/album/218TwB1jw3xnXtoW81aRak) | 2:21 | 2025-07-16 |  |
-| [You'll Never Know](https://open.spotify.com/track/2SjQ0fVlquesb0b1G4xvKJ) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [You'll Never Know](https://open.spotify.com/album/3NziPDhglD6wD5vhbojiWr) | 3:58 | 2025-07-16 |  |
+| [You'll Never Know](https://open.spotify.com/track/2SjQ0fVlquesb0b1G4xvKJ) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [You'll Never Know](https://open.spotify.com/album/3NziPDhglD6wD5vhbojiWr) | 3:58 | 2025-07-16 | 2025-08-29 |
 | [Zanzibar](https://open.spotify.com/track/1Gr7gNFaZVAbPqWXP0ZERp) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Zanzibar](https://open.spotify.com/album/4Scke8uNMgJ8gwAb5XSQzA) | 3:04 | 2025-07-16 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

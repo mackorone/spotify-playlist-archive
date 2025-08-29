@@ -2,9 +2,9 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Det Löser Sej🇳🇴🤝🇸🇪
+> 🇳🇴🤝🇸🇪
 
-1,445 songs - 2 day 11 hr 55 min
+1,446 songs - 2 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/107182OBau60C8og7ws7C9) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/0JJH5ylTQrJRfsSXrc7Lr6) | 3:13 | 2022-12-01 | 2023-02-25 |
 | [F\*CKED UP! \- SJUK REMIX!](https://open.spotify.com/track/1VcviCNAPM1uzajsIVxtkH) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP! \(SJUK REMIX!\)](https://open.spotify.com/album/7B75RXIeDKmyt2igFSoPpK) | 3:13 | 2023-02-23 | 2023-06-09 |
 | [F.F.F.](https://open.spotify.com/track/1P8daHkXA1EGdRoAPy6LCA) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [GRANNJÄNTAN](https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ) | [F.F.F.](https://open.spotify.com/album/1eoTeEVPkVMyJSBXU3tbsY) | 2:40 | 2024-04-18 | 2025-01-17 |
+| [fairytale](https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [fairytale](https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv) | 2:29 | 2025-08-28 |  |
 | [Fakk dig älskling](https://open.spotify.com/track/5aTc2p4FjhVpKcMDIIBtLN) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Fakk dig älskling](https://open.spotify.com/album/6LuncoRMdrLvDPAbzD5KW3) | 2:27 | 2024-01-18 | 2024-10-11 |
 | [Fakk Min X](https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Fakk Min X](https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ) | 1:51 | 2022-08-25 | 2022-10-21 |
 | [FAKKA UR](https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [X](https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz) | 2:12 | 2022-08-25 | 2023-02-03 |

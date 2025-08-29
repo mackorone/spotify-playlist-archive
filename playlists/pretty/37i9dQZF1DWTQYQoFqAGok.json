@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63821,
+  "num_followers": 63832,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Jazz Mariachi",
         "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
@@ -447,18 +463,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -479,22 +495,6 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer - Remastered",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -685,6 +685,26 @@
       "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Orquesta Moderna",
@@ -713,26 +733,6 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
-      "added_at": "2023-04-13 19:45:15",
-      "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
-      },
-      "artists": [
-        {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
-        },
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Mi Sentimiento Guerrerense",
@@ -747,22 +747,6 @@
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Vientos Del Norte",
-        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Valor De Volar",
-      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -787,18 +771,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+        "name": "Vientos Del Norte",
+        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
       },
       "artists": [
         {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
         }
       ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+      "duration_ms": 236840,
+      "name": "Valor De Volar",
+      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -819,6 +803,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Groove Zone",
         "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
       },
@@ -835,18 +835,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Hilando Lunas",
-        "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
       "artists": [
         {
-          "name": "Dulce Resillas & Fabiola Franyutti",
-          "url": "https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2"
+          "name": "Palapa",
+          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
+        },
+        {
+          "name": "Francisco Lelo de Larrea",
+          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
         }
       ],
-      "duration_ms": 364520,
-      "name": "Cenit",
-      "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
+      "duration_ms": 343187,
+      "name": "5:PM",
+      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     },
     {
       "added_at": "2024-08-29 03:09:23",

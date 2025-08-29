@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 62961,
+  "num_followers": 62985,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Uche Majajaan Wali",
+        "url": "https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 444000,
       "name": "Saari Raat",
       "url": "https://open.spotify.com/track/3mYsmSJruBRGkaw0VGRqhJ"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Uche Majajaan Wali",
-        "url": "https://open.spotify.com/album/1qqXlqwQpMMhif6Asuyhuj"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "Dholna",
-      "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -859,38 +859,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
-        "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
-      },
-      "artists": [
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 271406,
-      "name": "Ooncha",
-      "url": "https://open.spotify.com/track/5gvwg5kSAipxmzu8BVbkyG"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Parastish",
-        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Jehanzeb",
-          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Tu Jo Nahin",
-      "url": "https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Jugni",
         "url": "https://open.spotify.com/album/7iBuxFdkVH82S9xqwWrYj7"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 265466,
       "name": "Jugni",
       "url": "https://open.spotify.com/track/7DKwahqNfbI8Snze1QFg8o"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
+        "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 271406,
+      "name": "Ooncha",
+      "url": "https://open.spotify.com/track/5gvwg5kSAipxmzu8BVbkyG"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Parastish",
+        "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Jehanzeb",
+          "url": "https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Tu Jo Nahin",
+      "url": "https://open.spotify.com/track/7DS1Sx7CYAi78dprHqT2Gi"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Very Best Of Vital Signs Vol -1",
         "url": "https://open.spotify.com/album/2gkLlal7dxVaOml7Q7uqcm"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Suno Ke Mein Hun Jawan",
-        "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
-      },
-      "artists": [
-        {
-          "name": "Noori",
-          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
-        }
-      ],
-      "duration_ms": 262979,
-      "name": "Neend Ayay Na",
-      "url": "https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/758VIaUPNO3rY8nBxPTzv1"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 246533,
       "name": "Mahi-Ve",
       "url": "https://open.spotify.com/track/6u2uJXCU1gxiIyfa3LJkX2"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Suno Ke Mein Hun Jawan",
+        "url": "https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG"
+      },
+      "artists": [
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "duration_ms": 262979,
+      "name": "Neend Ayay Na",
+      "url": "https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Khwaab",
-        "url": "https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl"
+        "name": "Maazi Haal Mutaqbil",
+        "url": "https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I"
       },
       "artists": [
         {
-          "name": "Kashmir",
-          "url": "https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt"
+          "name": "Mizraab",
+          "url": "https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe"
         }
       ],
-      "duration_ms": 327499,
-      "name": "Khwaab",
-      "url": "https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN"
+      "duration_ms": 395669,
+      "name": "Kitnee Sadiyan",
+      "url": "https://open.spotify.com/track/3bVeAbKWxoIMXBff17AKqi"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,957 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,983 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 |
+| 1 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 |
 | 2 | [Giddy Up](https://open.spotify.com/track/7rAtB9982DtnSsw0225d3K) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Giddy Up](https://open.spotify.com/album/7yueiK3U9Q18o8OJV6IHgo) | 2:33 |
 | 3 | [Bye my night](https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Bye my night](https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng) | 3:54 |
 | 4 | [Love Power Warrior \(Prod\. hyeminsong\)](https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR) | [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 3:33 |

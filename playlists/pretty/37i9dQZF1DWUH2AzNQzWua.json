@@ -1,6 +1,6 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3926036,
+  "num_followers": 3925859,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2024-07-05 22:41:32",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-05 22:41:32",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
-    },
-    {
-      "added_at": "2024-07-05 22:41:32",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 189400,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:32",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/1BCSXIQn5NuqM19MjZuOQY"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
     },
     {
       "added_at": "2024-07-05 22:41:32",

@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Alles komt goed",
+        "url": "https://open.spotify.com/album/7KfVOzv3gB8dJtDRu4GoXC"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166337,
+      "name": "Alles komt goed",
+      "url": "https://open.spotify.com/track/0IMvO1xxbalY1O50LQbUp9"
+    },
+    {
+      "album": {
         "name": "Alles Met Jou",
         "url": "https://open.spotify.com/album/78XaAfFng3Ad9GErnBWnRe"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 194111,
       "name": "Altijd Vrijgezel",
       "url": "https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y"
@@ -1151,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Dans Met Mij De Sirtaki",
+        "url": "https://open.spotify.com/album/5qgYQ8ZC6X3XFamZ9w864e"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Dam",
+          "url": "https://open.spotify.com/artist/4raBuWSzk2K1qAnymk7Ypz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165795,
+      "name": "Dans Met Mij De Sirtaki",
+      "url": "https://open.spotify.com/track/5lS5D2nJr4yvVtU1SkmFpE"
+    },
+    {
+      "album": {
         "name": "Dansend Op Die Melodie",
         "url": "https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb"
       },
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 157125,
       "name": "De Laatste Sirtaki",
       "url": "https://open.spotify.com/track/7AA0oAZ4ugOQQEXFPRyKZ9"
@@ -2252,6 +2288,24 @@
       "duration_ms": 166190,
       "name": "Hangen In De Lampen",
       "url": "https://open.spotify.com/track/4chezyBSnO1VNvv05sKa4M"
+    },
+    {
+      "album": {
+        "name": "Hart Gestolen",
+        "url": "https://open.spotify.com/album/2iYMjlSP6sgjm6suHJEQV3"
+      },
+      "artists": [
+        {
+          "name": "Delano Bisschops",
+          "url": "https://open.spotify.com/artist/1Euc01XIupZAthccgXPuG5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hart Gestolen",
+      "url": "https://open.spotify.com/track/4EcPj0BCuBeO3u4PmKBuSM"
     },
     {
       "album": {
@@ -3771,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Kroegtijger",
+        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169040,
+      "name": "Kroegtijger",
+      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
+    },
+    {
+      "album": {
         "name": "La Bamba",
         "url": "https://open.spotify.com/album/5MKGdUaWMxLU07z5QDxDHc"
       },
@@ -3930,7 +4002,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 180375,
       "name": "Laat Mij Niet In De Steek",
       "url": "https://open.spotify.com/track/2FzOdziBfoerHwZp2mrPDX"
@@ -4082,7 +4154,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 174090,
       "name": "Langzaam Maar Zeker",
       "url": "https://open.spotify.com/track/67P14GhuYTImbanJ89ezCK"
@@ -4332,7 +4404,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 207730,
       "name": "M'n Volkswijk",
       "url": "https://open.spotify.com/track/1RTN1yEOkoidXgSybu3Msi"
@@ -5633,6 +5705,36 @@
     },
     {
       "album": {
+        "name": "Snelle Jelle",
+        "url": "https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Snelle Jelle",
+      "url": "https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq"
+    },
+    {
+      "album": {
         "name": "Space Piloot",
         "url": "https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1"
       },
@@ -5666,7 +5768,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 156000,
       "name": "Spenden (Ik Party Op Een Dinsdag)",
       "url": "https://open.spotify.com/track/67ogUEmKueBpm87lbwHq3o"
@@ -7356,6 +7458,24 @@
       "duration_ms": 178470,
       "name": "Zit liever hier dan thuis",
       "url": "https://open.spotify.com/track/641vYzJpo6qM5eQ9OCOsev"
+    },
+    {
+      "album": {
+        "name": "Zo Ben Ik Altijd Geweest",
+        "url": "https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF"
+      },
+      "artists": [
+        {
+          "name": "Wolter Kroes",
+          "url": "https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192107,
+      "name": "Zo Ben Ik Altijd Geweest",
+      "url": "https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR"
     },
     {
       "album": {

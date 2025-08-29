@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: Vince\)
+> Future K\-Pop hits! \(Cover: CORTIS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,431 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,477 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [Snowy Summer](https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Snowy Summer](https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN) | 2:57 |
 | 50 | [F\*cked Up](https://open.spotify.com/track/4RXBQjfrhHkVDiLZBd52yN) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [F\*cked Up](https://open.spotify.com/album/3UEl9CwTk4kDTxblSiNdQ9) | 3:44 |
 
-Snapshot ID: `AAAAANDa9qUY1O4XlW21kzOjH69qlBOz`
+Snapshot ID: `AAAAAFfx3b0I2krpYCWHeQ85Q+bIjydy`

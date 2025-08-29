@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > porque sí.<br/>📷 Frozouda
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,527 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,522 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 68 | [NÚMEROS](https://open.spotify.com/track/4WF8Ce2qc2hpbrtpaUiSPN) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [NÚMEROS](https://open.spotify.com/album/05L2g7oNkpi9nvze7voEgy) | 2:45 |
 | 69 | [Todo Tranca](https://open.spotify.com/track/68eLbVR4Kbso6paPjzepfU) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [Todo Tranca](https://open.spotify.com/album/2jorunFKQwMZ7CLOiYN8s1) | 2:41 |
 | 70 | [La Ciudad del Reggaetón](https://open.spotify.com/track/4zsPrWiOmEOEEXoq4167FX) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [SuperSerius](https://open.spotify.com/artist/03vwdd6SOkWASQinkYmxkE) | [La Ciudad del Regggaetón](https://open.spotify.com/album/6wnDAivOroB30WQIH890al) | 3:53 |
-| 71 | [Vamos a Casarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |
+| 71 | [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 |
 | 72 | [Jazmín Chino](https://open.spotify.com/track/36MQ25mKewo0S2fh2e3pUY) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/6dj1mxj9H7fHfiM5WmGJAK) | 2:40 |
 | 73 | [Candela](https://open.spotify.com/track/684u0hZtsMmdz4cxJ3MU0S) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Candela](https://open.spotify.com/album/0fxMGmOLhlDwP8Dxk3ehRy) | 2:53 |
 | 74 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |

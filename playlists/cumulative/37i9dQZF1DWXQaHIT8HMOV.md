@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Dokta Brain
+> Homegrown Ugandan gems in one playlist\. Cover: John Blaq
 
-459 songs - 23 hr 34 min
+461 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,11 +260,12 @@
 | [Mufaliso](https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6) | [Hatim and Dokey](https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ), [Kodish](https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X) | [Mufaliso](https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6) | 3:41 | 2023-07-13 | 2024-02-03 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2022-11-11 |
 | [Muleleetu](https://open.spotify.com/track/15KycmRRSpjaczTTgwowex) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Muleleetu](https://open.spotify.com/album/5sSTTcNNCE1SUVmp0sQ13D) | 2:38 | 2024-04-05 | 2025-02-08 |
+| [Mummy Yo](https://open.spotify.com/track/4ICBQ0SyH00WHiuQ3RbUPG) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Laika](https://open.spotify.com/artist/3bUcjrDYke1YzdN5ncdQJ7) | [African Buoy](https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl) | 3:12 | 2025-08-28 |  |
 | [Muntu Wange](https://open.spotify.com/track/2cltWvrDEDiWP5t9ufEOp3) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Muntu Wange](https://open.spotify.com/album/43OSX80VLJScSkGM1r7E8P) | 3:09 | 2024-02-09 | 2024-06-14 |
 | [Muntu Wange](https://open.spotify.com/track/1MzK3QdKmYJGJRHEZEIU80) | [Oma Afrikana](https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf) | [Muntu Wange](https://open.spotify.com/album/3am9ICPhUXW2iobYTud7ZC) | 3:01 | 2024-11-22 | 2024-12-14 |
 | [MUST KILL A MAN](https://open.spotify.com/track/4hbvrYUhXDe91sdi38p8KM) | [SUSU DANCES](https://open.spotify.com/artist/5xzkrHv0l4ZPXmyls39T3w), [Anko Ronie](https://open.spotify.com/artist/6MUYPxoPs1a1m7eTuEVtBN) | [MUST KILL A MAN](https://open.spotify.com/album/2YF8NH7GuT1mmWqtfHB99t) | 2:06 | 2025-04-14 | 2025-08-15 |
 | [Mwasuze Wa](https://open.spotify.com/track/1w8PZon1ltITJFDZ9lhesv) | [Denesi](https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [Mwasuze Wa](https://open.spotify.com/album/6Q1FbRWdX15G9BAICes1QK) | 2:42 | 2024-07-26 | 2024-10-11 |
-| [MWENGE BIGERE](https://open.spotify.com/track/4BOsDFj7pInD0ozmbZgxEZ) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [MWENGE BIGERE](https://open.spotify.com/album/2ioMfh0dzAtRL0TtMFo1dq) | 3:25 | 2024-12-13 |  |
+| [MWENGE BIGERE](https://open.spotify.com/track/4BOsDFj7pInD0ozmbZgxEZ) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [MWENGE BIGERE](https://open.spotify.com/album/2ioMfh0dzAtRL0TtMFo1dq) | 3:25 | 2024-12-13 | 2025-08-29 |
 | [My Crush](https://open.spotify.com/track/6FExeov9VrMYBirZHLlEPe) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [My Crush](https://open.spotify.com/album/0ejobrldirqhd1D1n1UWwW) | 2:31 | 2025-08-15 |  |
 | [My Date](https://open.spotify.com/track/7MymgauD1EQPJoApCn1RVG) | [Green Daddy](https://open.spotify.com/artist/2qNqbmGcLBZpjLv5IzuAWU), [Temperature Touch](https://open.spotify.com/artist/3gHHNHGrHh9JIJ8VtWKfVT) | [My Date](https://open.spotify.com/album/6pxjIHdQiPZyZ7oecyNPm4) | 3:30 | 2024-03-08 | 2025-05-23 |
 | [My Hero](https://open.spotify.com/track/1nZzoDuUje5KlTpte9rM1Q) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT) | [My Hero](https://open.spotify.com/album/1bK0u2oDaHIK8mWKDvfK16) | 2:42 | 2024-05-03 | 2024-07-19 |
@@ -335,6 +336,7 @@
 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-02-07 | 2025-05-23 |
 | [Outside](https://open.spotify.com/track/2qKzsHkkXWCQ394i1Fgykw) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:30 | 2024-03-15 | 2024-04-06 |
 | [Over](https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89) | [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Over](https://open.spotify.com/album/3O35nnZEXcmQht2m1vzNGl) | 2:33 | 2024-03-01 | 2024-06-08 |
+| [Owaye](https://open.spotify.com/track/2g8oqBQViuUcpbjSXnFvxq) | [Aaronx](https://open.spotify.com/artist/0xugx9prgn4pE8t7iZNk2W), [Chosen Becky](https://open.spotify.com/artist/7biE5oHnPv23DEVweLAS5D) | [Owaye](https://open.spotify.com/album/46tQ7A6qudCdnoJ1AsHazA) | 3:40 | 2025-08-28 |  |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 | 2023-07-30 |
 | [Party Mood](https://open.spotify.com/track/5v78YlySIPsrKJ1KHIRT2N) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:04 | 2024-03-15 | 2024-04-06 |
 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 | 2023-06-03 |
@@ -459,7 +461,7 @@
 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 | 2025-05-15 |  |
 | [YANSIGALAMU](https://open.spotify.com/track/20AU478BGEdpmVuTJdqqsn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [Fik Gaza](https://open.spotify.com/artist/7Ed62iIwlbzO0MmuBuWv6z) | [YANSIGALAMU](https://open.spotify.com/album/6RhjYsjwVD3KLM3nKoCVhs) | 2:44 | 2024-06-21 | 2024-10-25 |
 | [Yo Body](https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Yo Body](https://open.spotify.com/album/4NRlTxbeenzGsRORM3gLPC) | 3:15 | 2024-02-23 | 2024-08-09 |
-| [Yongeza](https://open.spotify.com/track/2rkITV0NVa5j0eRRXUrTI9) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Yongeza](https://open.spotify.com/album/4WtFIQIxOVfIGm3C1uI2zf) | 3:10 | 2025-04-17 |  |
+| [Yongeza](https://open.spotify.com/track/2rkITV0NVa5j0eRRXUrTI9) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Yongeza](https://open.spotify.com/album/4WtFIQIxOVfIGm3C1uI2zf) | 3:10 | 2025-04-17 | 2025-08-29 |
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-07-08 | 2022-11-07 |
 | [Young Everyday](https://open.spotify.com/track/53VFdjL8eUPYcuK5GvWtQA) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [JdM Officiall](https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9) | [Young Everyday](https://open.spotify.com/album/5UQXiVsW8GcXFato68GCGo) | 2:58 | 2024-10-10 | 2025-03-26 |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2024-02-03 |

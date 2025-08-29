@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,225 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,232 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 21 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
 | 22 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 |
 | 23 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
-| 24 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 |
-| 25 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
+| 24 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
+| 25 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 |
 | 26 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
 | 27 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 28 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 63 | [Jump](https://open.spotify.com/track/0LS222XE1wYJZ30WEy2HBa) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Deluxe Edition\)](https://open.spotify.com/album/3DXs5BdYeUvolvS87Hr99V) | 3:25 |
 | 64 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 |
 | 65 | [Awesome](https://open.spotify.com/track/1CCi2rldOo75tHL5kau6WA) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Awesome](https://open.spotify.com/album/0uWIKYtMsCNMlYMNyCcvBt) | 3:38 |
-| 66 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
-| 67 | [fix my eyes](https://open.spotify.com/track/6Ep2zX7LwsYw1eMDZu0Ukx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [fix my eyes](https://open.spotify.com/album/3nKZNJHgK4Gw4mOsrcMi0I) | 2:33 |
+| 66 | [fix my eyes](https://open.spotify.com/track/6Ep2zX7LwsYw1eMDZu0Ukx) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [fix my eyes](https://open.spotify.com/album/3nKZNJHgK4Gw4mOsrcMi0I) | 2:33 |
+| 67 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 68 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 69 | [Good Feeling \- Live](https://open.spotify.com/track/0bJ3hmRDGCMLM6fOcHygq1) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Live\)](https://open.spotify.com/album/7g2I02ahVqOq019UvjtGbF) | 4:49 |
 | 70 | [Sweeter](https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sweeter](https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q) | 3:36 |

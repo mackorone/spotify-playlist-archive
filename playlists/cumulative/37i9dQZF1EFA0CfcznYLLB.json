@@ -8371,6 +8371,24 @@
     },
     {
       "album": {
+        "name": "Yacht Master",
+        "url": "https://open.spotify.com/album/32sdZgXXoqns7O3ONgwJSW"
+      },
+      "artists": [
+        {
+          "name": "Xuliyo",
+          "url": "https://open.spotify.com/artist/3TIeNIMPocxv51llx8JNwq"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192563,
+      "name": "Yacht Master",
+      "url": "https://open.spotify.com/track/6hg1eLB1PW0psRa3RBOnHj"
+    },
+    {
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },

@@ -729,6 +729,32 @@
     },
     {
       "album": {
+        "name": "Akhan Ch Vasavan (From \"Nikka Zaildar 4\")",
+        "url": "https://open.spotify.com/album/3mneZzEEPzlHCs77efMibe"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181264,
+      "name": "Akhan Ch Vasavan - From \"Nikka Zaildar 4\"",
+      "url": "https://open.spotify.com/track/4JLu6LmAukJnqi3QCd9Tvb"
+    },
+    {
+      "album": {
         "name": "Akhian Nimanian (From \"Annhi Dea Mazaak Ae\")",
         "url": "https://open.spotify.com/album/3bg4t9VQgDSdxdzFNdkV3i"
       },
@@ -2460,7 +2486,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 179074,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30cdthGmCUtEHTlsEexhpK"

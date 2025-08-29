@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 20 min
+63 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,10 +43,11 @@
 | [I'm Da Man](https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Da Man](https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm) | 3:04 | 2023-05-02 |  |
 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 | 2023-05-02 |  |
 | [Indo ME](https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Indo ME](https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4) | 3:20 | 2023-11-10 |  |
+| [IYAIYA](https://open.spotify.com/track/6blQTbv4YDf6CqbgVxkGnN) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [IYAIYA](https://open.spotify.com/album/2v1Qor28TnZ4UrATo8aJpq) | 2:25 | 2025-08-29 |  |
 | [JOYFUL INTERLUDE](https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [PRONOIA 2.0](https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt) | 2:41 | 2024-08-03 |  |
 | [JUICY \- From "Joy Ride" Official Motion Picture Soundtrack](https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [JUICY \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6) | 2:30 | 2023-06-30 |  |
 | [Kawaii 808](https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Crisis Era](https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [The Holy Bassgod EP](https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA) | 2:46 | 2023-05-02 |  |
-| [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 | 2023-05-02 |  |
+| [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 | 2023-05-02 | 2025-08-29 |
 | [lollipop thug](https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts), [Rafkyboy](https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [SUGARTOWN](https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi) | 2:44 | 2024-06-09 |  |
 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 | 2023-05-02 |  |
 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 | 2023-05-02 |  |

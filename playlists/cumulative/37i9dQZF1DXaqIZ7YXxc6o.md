@@ -2,7 +2,7 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Ben Gerrans
+> Your weekly dose of new dance\. Cover: Human Movement
 
 3,403 songs - 7 day 18 hr 43 min
 

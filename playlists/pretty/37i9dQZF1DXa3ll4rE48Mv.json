@@ -363,22 +363,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Grrrl Angst",
-        "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
-      },
-      "artists": [
-        {
-          "name": "She/Her/hers",
-          "url": "https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg"
-        }
-      ],
-      "duration_ms": 230350,
-      "name": "Nvr Pass",
-      "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "In Birth",
         "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 176794,
       "name": "In Birth",
       "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Grrrl Angst",
+        "url": "https://open.spotify.com/album/1joEVEBQ4YuxikhoClLGBP"
+      },
+      "artists": [
+        {
+          "name": "She/Her/hers",
+          "url": "https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg"
+        }
+      ],
+      "duration_ms": 230350,
+      "name": "Nvr Pass",
+      "url": "https://open.spotify.com/track/7yJLS5bbD1BbVVXaRktMxP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/7xCGkKOjMAcKqUE5ggdntD"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 125935,
       "name": "I Hate the Weekend",
       "url": "https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79"
     },
     {
       "added_at": "2024-05-22 11:00:00",

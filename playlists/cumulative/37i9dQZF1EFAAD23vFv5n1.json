@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "Bottiglie Vuote",
+      "url": "https://open.spotify.com/track/31kO7My7HtRGRv0M20QZRN"
+    },
+    {
+      "album": {
         "name": "ANATOMIA CRISTALLO",
         "url": "https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv"
       },

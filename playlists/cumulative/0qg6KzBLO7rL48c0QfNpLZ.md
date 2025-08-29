@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,214 songs - 2 day 5 hr 35 min
+1,216 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Find My Way](https://open.spotify.com/track/4cJ8O7vr4PXIsKu32EkV4E) | [Blevo](https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Find My Way](https://open.spotify.com/album/50QDKZAyUDJTUQKrZ0d6Gb) | 2:01 | 2024-07-12 | 2025-03-14 |
 | [Find My Way To You](https://open.spotify.com/track/1kKhd9tL8oPAPatishvp7Z) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Find My Way To You](https://open.spotify.com/album/5C6iBu6TprId84XSKolqy4) | 2:54 | 2025-05-24 | 2025-08-02 |
 | [Find You](https://open.spotify.com/track/4pupB5o3t5oFMqPpZxhh5f) | [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Find You](https://open.spotify.com/album/67Rpd9k40WvlveiUOG3Yjp) | 2:23 | 2025-01-24 | 2025-03-22 |
+| [Fire](https://open.spotify.com/track/5VWmalHBOhuSonWy5SGNQX) | [Juron Cole](https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng), [idyllic](https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL) | [Fire](https://open.spotify.com/album/2QQhpqoBrt1liMJwYxCHpD) | 2:05 | 2025-08-28 |  |
 | [Fire In You](https://open.spotify.com/track/6GpncNJ5M1OgSEKjbo02gY) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [Fire In You](https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm) | 2:15 | 2025-01-03 | 2025-08-24 |
 | [Floating](https://open.spotify.com/track/557wRaFFKogsJ42cuktzqu) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Floating](https://open.spotify.com/album/1wbunGgTE31NEdxboGCXUI) | 2:36 | 2024-04-05 | 2025-02-05 |
 | [Flora](https://open.spotify.com/track/6bsqAKUCs6GU9MGGYDG0jr) | [aural](https://open.spotify.com/artist/2BbjZHngxcMpV9FVewdRzY) | [Flora](https://open.spotify.com/album/2Uof02VZdreIpcDYWK6MS6) | 2:26 | 2024-06-15 | 2024-08-10 |
@@ -708,6 +709,7 @@
 | [Mama Used To](https://open.spotify.com/track/5qJOLnTc9TNxumM0fJdW25) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Mama Used To](https://open.spotify.com/album/0VPuQl1rQDwYHlEzckmByP) | 2:58 | 2025-08-22 |  |
 | [Maybe In The Summer](https://open.spotify.com/track/7foJ5hOQ0i4oJbgtjdUa0w) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Maybe In The Summer](https://open.spotify.com/album/349cHC0kfEg2nf5ixElOed) | 2:29 | 2024-01-05 | 2024-08-10 |
 | [Maze](https://open.spotify.com/track/5BMuIMRF9Ts9SFsgpUEpIX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Maze](https://open.spotify.com/album/1jMqjTde8bxYLVUYszxq8C) | 2:56 | 2024-05-17 | 2024-09-10 |
+| [Meant For](https://open.spotify.com/track/0ewroEzclO3XFpMwCmGCO4) | [AgusAlvarez](https://open.spotify.com/artist/7rGnhW0N8GcFkxw3xgZucr) | [Meant For](https://open.spotify.com/album/69DatpxpFlERUcgQSQA10o) | 2:31 | 2025-08-28 |  |
 | [Memory Lane](https://open.spotify.com/track/6BZwKBfBHQ5kmsyobhJh8l) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Austin Salter](https://open.spotify.com/artist/7trQxYnOTGm2z0K3ZKqw7v) | [Memory Lane](https://open.spotify.com/album/7lAkstcSSDvo7IkqjHysc2) | 2:31 | 2024-08-23 | 2025-03-14 |
 | [Milestones](https://open.spotify.com/track/6lAiwoQXEmMFV8E43w559r) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Milestones](https://open.spotify.com/album/2kZXVpHpzfHYbGr4GtPRjl) | 2:07 | 2024-05-10 | 2024-06-15 |
 | [Million Little Stars](https://open.spotify.com/track/2oe8iA4MHQnMD93f4cbcsN) | [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Million Little Stars](https://open.spotify.com/album/3xtlKY8L7fzjyNtZdcMrDs) | 2:28 | 2024-07-19 | 2024-08-19 |

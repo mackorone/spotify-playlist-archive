@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 168052,
       "name": "Coeur Vagabond",
       "url": "https://open.spotify.com/track/0xQD0amV9gCVM65edA5vA6"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 187701,
       "name": "Il suffit d'une chanson",
       "url": "https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp"
@@ -2055,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "J'm'en voudrais",
+        "url": "https://open.spotify.com/album/7zbJLvOfTV4ldmVzY5DxO2"
+      },
+      "artists": [
+        {
+          "name": "Cobalt",
+          "url": "https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163074,
+      "name": "J'm'en voudrais",
+      "url": "https://open.spotify.com/track/4jwSH626zHuPoF0I0vh9qj"
+    },
+    {
+      "album": {
         "name": "Jamais deux sans trois",
         "url": "https://open.spotify.com/album/7MQxrbB9MquN4xxCXSIwgJ"
       },
@@ -2106,6 +2124,24 @@
       "duration_ms": 155589,
       "name": "Je ne pense qu'\u00e0 \u00e7a",
       "url": "https://open.spotify.com/track/3C24V2ZTjHQNo7frG1hRiM"
+    },
+    {
+      "album": {
+        "name": "On peut comme \u00e7a",
+        "url": "https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Je pardonne",
+      "url": "https://open.spotify.com/track/0DMEVqPd2MF7cEAZEzOOCm"
     },
     {
       "album": {
@@ -2887,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "les avions",
+        "url": "https://open.spotify.com/album/6PELiskolaUJaVhvFR9Pbk"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "les avions",
+      "url": "https://open.spotify.com/track/0rKI4LbWhiYLrokKjVxQHt"
+    },
+    {
+      "album": {
         "name": "Les cit\u00e9s de l'amour",
         "url": "https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT"
       },
@@ -3152,7 +3206,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 211616,
       "name": "L\u00c0-BAS",
       "url": "https://open.spotify.com/track/6nlb4zxOQGytBC7RrPADK9"
@@ -3466,7 +3520,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 177376,
       "name": "Million de Mois",
       "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
@@ -3488,6 +3542,28 @@
       "duration_ms": 165093,
       "name": "Mima",
       "url": "https://open.spotify.com/track/65s4YN5BiSzaNkVNJ17yYd"
+    },
+    {
+      "album": {
+        "name": "Mirror (feat Ma\u00eblle)",
+        "url": "https://open.spotify.com/album/5tsDhMIq48HcI8BjpYomEH"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        },
+        {
+          "name": "Ma\u00eblle",
+          "url": "https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Mirror (feat Ma\u00eblle)",
+      "url": "https://open.spotify.com/track/4xeCDqW1TTPVmXcYtXZlLG"
     },
     {
       "album": {
@@ -4886,7 +4962,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
@@ -5366,6 +5442,24 @@
       "duration_ms": 140947,
       "name": "Toute seule - 2024",
       "url": "https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP"
+    },
+    {
+      "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS"
     },
     {
       "album": {

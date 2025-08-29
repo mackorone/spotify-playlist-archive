@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Christmas Night in Harlem",
+        "url": "https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153350,
+      "name": "Christmas Night in Harlem",
+      "url": "https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw"
+    },
+    {
+      "album": {
         "name": "Christmas Wrapping",
         "url": "https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 174907,
       "name": "Do They Know It's Christmas",
       "url": "https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3"

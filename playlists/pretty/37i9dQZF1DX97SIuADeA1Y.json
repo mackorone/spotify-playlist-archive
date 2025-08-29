@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342703,
+  "num_followers": 342710,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
+      },
+      "artists": [
+        {
+          "name": "Kastuvas",
+          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "L'amour Toujours",
         "url": "https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 141549,
       "name": "L'amour Toujours",
       "url": "https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
-      },
-      "artists": [
-        {
-          "name": "Kastuvas",
-          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -807,22 +807,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Better Place - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -847,18 +843,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
       },
       "artists": [
         {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 130000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Fantasy Girl",
-        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
-      },
-      "artists": [
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        },
-        {
-          "name": "Sarah Lahn",
-          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
-        }
-      ],
-      "duration_ms": 195247,
-      "name": "Fantasy Girl",
-      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "It's A Hard Knock Life (Prezioso Remix)",
         "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 149788,
       "name": "It's A Hard Knock Life - Prezioso Remix",
       "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
+      },
+      "artists": [
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        },
+        {
+          "name": "Sarah Lahn",
+          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
+        }
+      ],
+      "duration_ms": 195247,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
     },
     {
       "added_at": "2025-02-14 16:04:15",

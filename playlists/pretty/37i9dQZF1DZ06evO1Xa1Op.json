@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21765,
+  "num_followers": 21767,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAADupXHuKPlNUjqqqx705Ox2",
+  "snapshot_id": "aK5KgAAAAAD5lBkbQYDPqpL5z4la/MzK",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Nitin Sawhney",
-          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
-        }
-      ],
-      "duration_ms": 313760,
-      "name": "Inchana Massina (feat. Nitin Sawhney)",
-      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 295200,
       "name": "Sadjona (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+        }
+      ],
+      "duration_ms": 313760,
+      "name": "Inchana Massina (feat. Nitin Sawhney)",
+      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
     },
     {
       "added_at": null,

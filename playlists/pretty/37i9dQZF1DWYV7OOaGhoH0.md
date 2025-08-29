@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Jesse Welles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,375 likes - 110 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,757,970 likes - 110 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

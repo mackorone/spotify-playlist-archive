@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Nate Smith
+> The best jazz new releases\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,416 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,461 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Inside](https://open.spotify.com/track/1d9pydw2dYVAWb0oBMGCGD) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL), [Cynthia Abraham](https://open.spotify.com/artist/0t2bkQctGNc4uafhIWypxu) | [Inside](https://open.spotify.com/album/1M1bKed4pggAuwqZxf8Oh7) | 3:28 |
 | 50 | [Eronel](https://open.spotify.com/track/7fT9VOOaFKZwfTTJjEeCO0) | [Fred Nardin](https://open.spotify.com/artist/1UHA7lPwTt1jk2UT7afakp) | [Trio \[+\]](https://open.spotify.com/album/5KzWT3s1S5wdLnckfZJxoP) | 3:42 |
 
-Snapshot ID: `AAAAAB6Hmh2XyixYfA+eFgOI/kZ9mOHj`
+Snapshot ID: `AAAAADc54UNNwJ75zdD2xmnQY9Noga5B`

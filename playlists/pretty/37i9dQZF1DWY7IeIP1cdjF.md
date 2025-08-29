@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from J Balvin & Jay Wheeler, KAROL G & Feid, Bad Bunny, and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,651,136 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,649,245 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 22840,
+  "num_followers": 22849,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAADl0JNUUSaJ+4rGAtkJgyuC",
+  "snapshot_id": "aK5KgAAAAADjZh4YlmPVU/sO6Yn8Zp+M",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Here to Infirmary",
-        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 170133,
-      "name": "Steamer Trunk",
-      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
+      "duration_ms": 183533,
+      "name": "Dethbed",
+      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "Steamer Trunk",
+      "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 136160,
       "name": "Fatally Yours",
       "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Dethbed",
-      "url": "https://open.spotify.com/track/0OH90D0hjNigKEWu46N7Vi"
     },
     {
       "added_at": null,

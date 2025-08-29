@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Bletka",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: bryska",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -800,6 +800,24 @@
       "duration_ms": 188566,
       "name": "Bilet",
       "url": "https://open.spotify.com/track/6uDRdQUVkjtfTCmEa6Twwk"
+    },
+    {
+      "album": {
+        "name": "Bilet w jedn\u0105 stron\u0119",
+        "url": "https://open.spotify.com/album/1TY4cHdT89azwLIETkf9km"
+      },
+      "artists": [
+        {
+          "name": "Ola K\u0119dra",
+          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160248,
+      "name": "Bilet w jedn\u0105 stron\u0119",
+      "url": "https://open.spotify.com/track/4Oj9FvHUrQJgsfAx17ApIF"
     },
     {
       "album": {
@@ -3016,6 +3034,28 @@
       "duration_ms": 150000,
       "name": "Garnitury",
       "url": "https://open.spotify.com/track/1G3TsAO1aJ4Mjmx1ya61Mr"
+    },
+    {
+      "album": {
+        "name": "GDZIE TRAFIA MI\u0141O\u015a\u0106, GDY UMIERA",
+        "url": "https://open.spotify.com/album/75mmJhjfvKWo4vGxCQK7Dt"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167844,
+      "name": "GDZIE TRAFIA MI\u0141O\u015a\u0106, GDY UMIERA",
+      "url": "https://open.spotify.com/track/3WH7Cwb58Emk21C75nBTAU"
     },
     {
       "album": {
@@ -5581,6 +5621,32 @@
     },
     {
       "album": {
+        "name": "MOTYL",
+        "url": "https://open.spotify.com/album/4S78lxIofp06Pq8u9tzoAS"
+      },
+      "artists": [
+        {
+          "name": "Olinda",
+          "url": "https://open.spotify.com/artist/2euulReYuHuStwIAbMXGta"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "Micha\u0142 Stach",
+          "url": "https://open.spotify.com/artist/1UQjDe2CJYSDYrIWIeCRp5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "MOTYL",
+      "url": "https://open.spotify.com/track/0DY1fqFPySq43OdTBwgrYb"
+    },
+    {
+      "album": {
         "name": "Motyla Noga!",
         "url": "https://open.spotify.com/album/0b4vzXuBzE6kCJ1blaYj0U"
       },
@@ -5846,7 +5912,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 153750,
       "name": "Na serio",
       "url": "https://open.spotify.com/track/4cZyfcaOma0bzqffllcVEC"
@@ -6357,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "Nie stanie si\u0119 nic",
+        "url": "https://open.spotify.com/album/1zAxRFawQdLWV8sUeHMGgK"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Nie stanie si\u0119 nic",
+      "url": "https://open.spotify.com/track/7hWcpNa2xm3mITvOGCse6O"
+    },
+    {
+      "album": {
         "name": "Nie Szkodzi",
         "url": "https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62"
       },
@@ -6630,7 +6714,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 153750,
       "name": "NIEPRZESPANE NOCE",
       "url": "https://open.spotify.com/track/2EyFpWTjbiaEGu0HAB6FBm"
@@ -7839,6 +7923,24 @@
     },
     {
       "album": {
+        "name": "Poddam si\u0119",
+        "url": "https://open.spotify.com/album/3TVCBsGdhHU382gbpDfzZ8"
+      },
+      "artists": [
+        {
+          "name": "Arek Borzdy\u0144ski",
+          "url": "https://open.spotify.com/artist/6c4ks4YTQfYc0J3vHsl7kK"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186716,
+      "name": "Poddam si\u0119",
+      "url": "https://open.spotify.com/track/7FLBDQBBSw4nhAXiIPtRq1"
+    },
+    {
+      "album": {
         "name": "Podnosz\u0119 Si\u0119",
         "url": "https://open.spotify.com/album/7sWZbNyuYaLkAMJAR2evue"
       },
@@ -7964,7 +8066,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 203478,
       "name": "Pomi\u0119dzy",
       "url": "https://open.spotify.com/track/47lFYYyNozHmGldFdHOeFJ"
@@ -10735,6 +10837,28 @@
     },
     {
       "album": {
+        "name": "Wi\u0119cej nas",
+        "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        },
+        {
+          "name": "EMO",
+          "url": "https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "Wi\u0119cej nas",
+      "url": "https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4"
+    },
+    {
+      "album": {
         "name": "Wolne duchy (feat. Daria Zawia\u0142ow, Mrozu & Kacperczyk)",
         "url": "https://open.spotify.com/album/3TNtZ6k211KiaNhldNtGie"
       },
@@ -11696,6 +11820,42 @@
       "duration_ms": 138666,
       "name": "Zosta\u0142em Tu Sam",
       "url": "https://open.spotify.com/track/6RYvPT8f1adZudUbFCAI8I"
+    },
+    {
+      "album": {
+        "name": "Zosta\u0142e\u015b",
+        "url": "https://open.spotify.com/album/19lz0Oc1lMV4SoEiRdoDQc"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175094,
+      "name": "Zosta\u0142e\u015b",
+      "url": "https://open.spotify.com/track/6Xbe0GbtUPT0j68E6JcrBF"
+    },
+    {
+      "album": {
+        "name": "Zosta\u0144 Ze Mn\u0105",
+        "url": "https://open.spotify.com/album/4JQpbDwHM3BelU6DqA1VTO"
+      },
+      "artists": [
+        {
+          "name": "Remik",
+          "url": "https://open.spotify.com/artist/0EE2SrtlQWScA3INhbbwkS"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136097,
+      "name": "Zosta\u0144 Ze Mn\u0105",
+      "url": "https://open.spotify.com/track/6q9ocwyJ28tM0xkJusbzs8"
     },
     {
       "album": {

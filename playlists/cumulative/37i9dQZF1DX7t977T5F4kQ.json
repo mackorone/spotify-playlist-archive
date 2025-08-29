@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Beeztrap KOTM",
+  "description": "The hottest and recent Ghana party starters. Cover: Quamina MP",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1906,6 +1906,24 @@
       "duration_ms": 219846,
       "name": "Botos",
       "url": "https://open.spotify.com/track/6O3TZOULjDgvSSXpI7VdvL"
+    },
+    {
+      "album": {
+        "name": "Love In The Club (Deluxe)",
+        "url": "https://open.spotify.com/album/7wmRhqrAJd1PvPSoTqPdsR"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Bra",
+      "url": "https://open.spotify.com/track/4FxArJ3yx3R2c2mRGKLB1j"
     },
     {
       "album": {
@@ -9938,7 +9956,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 193136,
       "name": "Time Heals All",
       "url": "https://open.spotify.com/track/1Nx1168hCpGQsg5iU9z6VK"

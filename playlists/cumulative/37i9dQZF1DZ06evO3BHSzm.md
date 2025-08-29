@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 51 min
+122 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Call Me Lightning](https://open.spotify.com/track/7DwHL5o6nscK81sYJrbDbO) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 2:25 | 2024-12-21 | 2024-12-22 |
 | [Coke After Coke](https://open.spotify.com/track/5GQeA8l8XhVYJ0A87hSFb2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 1:08 | 2024-10-11 | 2024-10-25 |
 | [Cut My Hair](https://open.spotify.com/track/3fTPxECrrq7Zl5IIPDJEEY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 3:44 | 2022-10-12 | 2025-08-23 |
-| [Cut My Hair](https://open.spotify.com/track/75AhlGB9aFWTxDfbmbdiCH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:44 | 2025-08-23 |  |
+| [Cut My Hair](https://open.spotify.com/track/75AhlGB9aFWTxDfbmbdiCH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:44 | 2025-08-23 | 2025-08-29 |
 | [Detour](https://open.spotify.com/track/0UA9nE47FbV0W5vhTjSy4N) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:46 | 2022-09-17 | 2022-10-13 |
 | [Don't Let Go The Coat](https://open.spotify.com/track/2W0OIBbPwrCzKwDApKN8uk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 3:48 | 2023-04-25 |  |
 | [Drowned](https://open.spotify.com/track/4ZT2Xki1u0HjBmMS6xbLsA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:26 | 2023-01-18 | 2023-08-09 |
@@ -89,10 +89,12 @@
 | [Pinball Wizard](https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 3:00 | 2022-09-17 |  |
 | [Please, Please, Please \- Stereo Version](https://open.spotify.com/track/27J9JQLDfGgGWqfcSLFmNp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 | 2022-09-22 | 2022-10-13 |
 | [Pure And Easy \- Lifehouse Chronicles / Home Studio Mix / Remastered 2022](https://open.spotify.com/track/7uSFlWM3e4PIgi8ZzcGjqO) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House](https://open.spotify.com/album/6cwiMSoaljYA0qOBqgq474) | 8:39 | 2023-07-23 | 2023-09-26 |
-| [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 | 2022-09-17 |  |
+| [Quadrophenia](https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 6:13 | 2022-09-17 | 2025-08-29 |
+| [Quadrophenia](https://open.spotify.com/track/2daz5cSUMul4An2vCSERJC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 6:13 | 2025-08-29 |  |
 | [Real Good Looking Boy](https://open.spotify.com/track/1CibGSnmmfeaob2a2hFT1i) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who\- The Greatest Hits & More \[International Version \(Edited\)\]](https://open.spotify.com/album/3DJhm4cXLwOuuV7YopBIrO) | 5:43 | 2022-12-26 | 2024-01-25 |
 | [Sea And Sand](https://open.spotify.com/track/1mcxcbwbOhBAk3XUSf1KVE) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:01 | 2022-12-26 | 2025-08-22 |
 | [See Me, Feel Me \- Single Version](https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 3:36 | 2022-09-17 |  |
+| [See Me, Feel Me / Listening To You \- Live At The Oval, London, England \- 9/18/1971](https://open.spotify.com/track/3Jd6LGdPGR3StjDhAufvpb) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At The Oval 1971](https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w) | 5:10 | 2025-08-29 |  |
 | [Sister Disco](https://open.spotify.com/track/7xo7YHCPkXlh8ibJmSHBFN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:22 | 2022-12-23 |  |
 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 | 2022-09-17 |  |
 | [So Glad To See Ya \- Live At The Oval, London, England \- 9/18/1971](https://open.spotify.com/track/0Mscb5XUfvjhsku5GmxfXw) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At The Oval 1971](https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w) | 1:05 | 2025-08-24 |  |

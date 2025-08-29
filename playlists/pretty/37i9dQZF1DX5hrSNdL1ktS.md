@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Cachirula, LOOJAN y Yeri Mua bufando
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,887 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,092 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 12 | [LOBO](https://open.spotify.com/track/289ulYf5qJMZ6lzk5aOr01) | [Momorán](https://open.spotify.com/artist/3spQy19QaH019mVXKyPWUT), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [LOBO](https://open.spotify.com/album/6qmA70ap8SzZgIaDJyBwfM) | 2:32 |
 | 13 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
 | 14 | [Uii \- Remix](https://open.spotify.com/track/57tl0pTeaJcWAjxJHI1sxB) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Uii \(Remix\)](https://open.spotify.com/album/2Bdk7y5zw1JdzUiWcZq4Me) | 2:58 |
-| 15 | [Nostalgia .0003 Me Llamó \- feat\. SINNKER](https://open.spotify.com/track/2Q5bLo3tPq6krEDCNyLUR6) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO), [SINNKER](https://open.spotify.com/artist/40na4awUF2WlNXomYk8rZT) | [Nostalgia](https://open.spotify.com/album/7AzJRTCI5sQWxNVTWVVZHW) | 2:55 |
+| 15 | [Nostalgia .0003 Me Llamó](https://open.spotify.com/track/2Q5bLo3tPq6krEDCNyLUR6) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Nostalgia](https://open.spotify.com/album/7AzJRTCI5sQWxNVTWVVZHW) | 2:55 |
 | 16 | [La Obsesión](https://open.spotify.com/track/1hEgPoDsfDOgSPGFlhJIcx) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [La Obsesión](https://open.spotify.com/album/1dPZVq2IONmlUEUNnOXgYc) | 3:13 |
 | 17 | [Gatito](https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Gatito](https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8) | 2:58 |
 | 18 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |

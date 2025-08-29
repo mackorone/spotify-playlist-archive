@@ -335,8 +335,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 325 | [Bitter Loss](https://open.spotify.com/track/1CFy1BShZQuiMCnAGja8la) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bitter Loss](https://open.spotify.com/album/0UqpMx3SgvGR0swT0yyeAv) | 3:23 |
 | 326 | [意識](https://open.spotify.com/track/0UWSwwUTnxnbu2KxonkoyF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 2:40 |
 | 327 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 |
-| 328 | [machrie](https://open.spotify.com/track/6PRDtyRDRPdxE2y07h33Z3) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [ma chérie](https://open.spotify.com/album/1WtQZclqIcvSPTtutuSPuo) | 5:23 |
+| 328 | [Ma Chérie](https://open.spotify.com/track/2O4LWfEyyuOl4QYXzycM0r) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Ma Chérie](https://open.spotify.com/album/0R46cDVpHKEJn5VkVnjpEN) | 5:23 |
 | 329 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 |
 | 330 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 |
 
-Snapshot ID: `AAAJOgAfXRph7jzxFueMinh5V3ouomif`
+Snapshot ID: `AAAJPemK41fJVzFyhsg6kgtwEpZiK0OY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd?si=\_S9SDVpeQaqDmtWHrGf99Q>Oncemore Six</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,900 likes - 100 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,932 likes - 100 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 |
 | 100 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 |
 
-Snapshot ID: `AAAAALoeS7d3e62GBYVu5zyGUJ1qesxe`
+Snapshot ID: `AAAAANaxI+9uS9J7rquAWLDKMh9OZBlL`

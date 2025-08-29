@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,842 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,866 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 10 | [THE PACE](https://open.spotify.com/track/5s1SiT5E88JmHLsPtyKOpu) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [MR004](https://open.spotify.com/album/62ldmhnuuGB7H8hGC3N5yw) | 3:53 |
 | 11 | [Inside Out](https://open.spotify.com/track/4LCImuntfrgyAsUxMWeNtU) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [FJAAK 012](https://open.spotify.com/album/5tdWGbHlEutdO9P3I87a2w) | 5:54 |
 | 12 | [Petal Pedal](https://open.spotify.com/track/457ZDGl76DHeJLxNsb8QjS) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Cloudborne 888](https://open.spotify.com/album/1oG5sDZMzPpb3OIjtXmSQ4) | 4:33 |
-| 13 | [Matter \- Polyfawn Remix](https://open.spotify.com/track/1GPZH0EFf3ZSKEWBDYdrbH) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [polyfawn](https://open.spotify.com/artist/5efLnGlUF8FdAQpyGtHmdk) | [Matter \(Polyfawn Remix\)](https://open.spotify.com/album/4vR5YFEEgJbw85ViaiplqV) | 2:34 |
+| 13 | [Matter \- polyfawn Remix](https://open.spotify.com/track/1GPZH0EFf3ZSKEWBDYdrbH) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [polyfawn](https://open.spotify.com/artist/5efLnGlUF8FdAQpyGtHmdk) | [Matter \(polyfawn Remix\)](https://open.spotify.com/album/4vR5YFEEgJbw85ViaiplqV) | 2:34 |
 | 14 | [Wicked](https://open.spotify.com/track/3EEptVzM4uHi9p4RuBMElo) | [Jeremiah Asiamah](https://open.spotify.com/artist/4a8asYwblfRPbHxD6Oc7W4), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [Jeremiah Asiamah Carnival EP](https://open.spotify.com/album/6IrESOBI7jLUTOkcWU7ZHy) | 3:00 |
 | 15 | [Silver Plate](https://open.spotify.com/track/0jsb9PIiOEaTS4rpB6D2uP) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Silver Plate](https://open.spotify.com/album/4loWqdSGa6b3A6HlRiiaSr) | 4:37 |
 | 16 | [All Night](https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [i can’t remember the name of this, but that's ok](https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ) | 4:09 |

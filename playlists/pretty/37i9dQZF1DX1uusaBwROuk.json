@@ -1,6 +1,6 @@
 {
   "description": "Roses are red, violet are blue, its been fun but i'm leaving you. \n",
-  "num_followers": 96620,
+  "num_followers": 96600,
   "original_name": "Breakup Szn",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-05-21 13:36:44",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
-    },
-    {
-      "added_at": "2025-05-21 13:36:44",
-      "album": {
         "name": "Decode",
         "url": "https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 261959,
       "name": "Decode",
       "url": "https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe"
+    },
+    {
+      "added_at": "2025-05-21 13:36:44",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2025-05-21 13:36:44",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-21 13:36:44",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5"
-    },
-    {
-      "added_at": "2025-05-21 13:36:44",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 181667,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h"
+    },
+    {
+      "added_at": "2025-05-21 13:36:44",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5"
     },
     {
       "added_at": "2025-05-21 13:36:44",

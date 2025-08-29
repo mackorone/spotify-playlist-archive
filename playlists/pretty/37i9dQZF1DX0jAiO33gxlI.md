@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Vandal
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,169 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,167 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 8 | [Bonde do esculacho](https://open.spotify.com/track/7cTN37m9Lhl1p6QAH5d0V6) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [Bonde do esculacho](https://open.spotify.com/album/1gHE3XGsJxsqHFdUZKk6xZ) | 2:08 |
 | 9 | [Blues da Piedade](https://open.spotify.com/track/2b4QXOUPzvKm0YsDeDTpwo) | [Bordion](https://open.spotify.com/artist/2kWHGezDNYLVHaxVQmOVUK), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Blues da Piedade](https://open.spotify.com/album/5pgZrv5qGbQ07R5R3ZaFk2) | 3:21 |
 | 10 | [Ela por Mim](https://open.spotify.com/track/2FGoAPhSLgk63CrwAk0NJN) | [ZinLeo](https://open.spotify.com/artist/5boubF3ivRCuuuXJpTPF8M), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Ela por Mim](https://open.spotify.com/album/1Mac1sdZ1eEOEMTtGLlvih) | 1:37 |
-| 11 | [Médico da Alma, Pt\. 2](https://open.spotify.com/track/6Hg72NNqWapJtXOBkLFpQZ) | [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [NÓIZ](https://open.spotify.com/artist/6IlYtq3ebcUBZW2bckVD2E), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy) | [Médico da Alma, Pt\. 2](https://open.spotify.com/album/0gGJh26jpYTsVM9vCNsRgQ) | 5:50 |
+| 11 | [Médico da Alma, Pt\. 2](https://open.spotify.com/track/6Hg72NNqWapJtXOBkLFpQZ) | [Mano Fler](https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [NÓIZ](https://open.spotify.com/artist/6IlYtq3ebcUBZW2bckVD2E), [Mortão VMG](https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs) | [Médico da Alma, Pt\. 2](https://open.spotify.com/album/0gGJh26jpYTsVM9vCNsRgQ) | 5:50 |
 | 12 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 13 | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/track/0KhxrKcloIqedRkOBqKULg) | [Lucky Real](https://open.spotify.com/artist/4eYZoQdST7n6eEraQfMXcz), [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/album/4NCFK3Hu3GmucbNhOomGJ8) | 2:30 |
 | 14 | [Compromisso](https://open.spotify.com/track/0bYZITJFGrKVHgsugGrzU7) | [Fred Sabino](https://open.spotify.com/artist/1jDLAa3oROr2bPKJyg7cJy), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Compromisso](https://open.spotify.com/album/6m5O9889AqXcRhddACkyhG) | 3:13 |

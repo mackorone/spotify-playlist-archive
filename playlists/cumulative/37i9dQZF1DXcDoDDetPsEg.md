@@ -2,7 +2,7 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Tyla, Wizkid
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Drake
 
 1,606 songs - 3 day 8 hr 57 min
 

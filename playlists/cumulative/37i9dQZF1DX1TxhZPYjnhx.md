@@ -2,9 +2,9 @@
 
 ### [Pop Rising Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DX1TxhZPYjnhx)
 
-> Discover new favorites or tomorrow's hits today\. Cover: Sezairi
+> Discover new favorites or tomorrow's hits today\. Cover: lullaboy, Stephanie Poetri
 
-913 songs - 2 day 0 hr 9 min
+918 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-26 | 2025-07-25 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-04 | 2024-11-13 |
 | [Girls Will Be Girls](https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:48 | 2025-06-12 | 2025-07-18 |
-| [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 | 2025-07-31 |  |
+| [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-07-31 |  |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-07-18 |
 | [GOAT](https://open.spotify.com/track/0T4IEn0sf3jKA74S0MOnaJ) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [Kaset](https://open.spotify.com/album/7J9EgZ74dLsD1WnFOVBYEC) | 3:45 | 2025-04-24 | 2025-06-27 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-05-30 |
@@ -477,6 +477,7 @@
 | [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 | 2025-01-23 | 2025-02-28 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-10 | 2024-08-08 |
 | [little sunny baby](https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [little sunny baby](https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4) | 2:11 | 2025-04-18 | 2025-05-02 |
+| [live with it](https://open.spotify.com/track/0NJBlOWxnGphq0fkCd3xIR) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [live with it](https://open.spotify.com/album/6jzlHvl2F5o3yjNID9GhXs) | 2:42 | 2025-08-28 |  |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-21 | 2024-09-26 |
 | [Looking Back](https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Looking Back](https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h) | 3:55 | 2025-05-09 | 2025-06-07 |
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-06-26 | 2024-11-28 |
@@ -556,6 +557,7 @@
 | [My Home Is In Your Arms](https://open.spotify.com/track/21otZelGEt8i36RHwxaNg5) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [My Home Is In Your Arms](https://open.spotify.com/album/5fKXjLbcXJTy5nvS6aJER3) | 3:01 | 2024-06-26 | 2024-08-01 |
 | [My Hometown Is Sinking](https://open.spotify.com/track/6gNJ4x41nHgnvfe8baw75g) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [My Hometown Is Sinking](https://open.spotify.com/album/3d5sL5QzwVxXL3KsbFRN2W) | 3:11 | 2025-04-10 | 2025-05-10 |
 | [My Life](https://open.spotify.com/track/4nkTlqKgdjIO7ZeNCJpbX3) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Life](https://open.spotify.com/album/42vSl0T71w4NCExWs1Pvyf) | 3:18 | 2024-10-30 | 2024-12-26 |
+| [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 | 2025-08-28 |  |
 | [My Love Will Remain](https://open.spotify.com/track/0xrn8inTNkXR8FGo6Z8OZY) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [My Love Will Remain](https://open.spotify.com/album/6i7JBA0K2QfeztrB7grOkt) | 3:52 | 2025-08-14 |  |
 | [my simple life](https://open.spotify.com/track/1FpUKD9oPAKA9jv1BH6jEl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [my simple life](https://open.spotify.com/album/1xAkst526OTH0FQNrApHrj) | 2:51 | 2025-05-29 | 2025-06-27 |
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2024-07-31 | 2024-11-13 |
@@ -694,6 +696,7 @@
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-26 | 2025-08-15 |
 | [She \(feat\. Kurtis Wells\)](https://open.spotify.com/track/4vUTpC8qw2oz8iL3o9Hb22) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 2:51 | 2025-08-14 |  |
 | [She Doesn't Care](https://open.spotify.com/track/4M2SFgI9i8XYhfVUHLSqdH) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [My Favourite Place To Be](https://open.spotify.com/album/54etm64LUuuzjfJqgYzECY) | 3:19 | 2025-08-07 |  |
+| [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 | 2025-08-28 |  |
 | [She loves me, And I love her](https://open.spotify.com/track/7q57PeMJhqnqVA0ok1j7LY) | [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [She loves me, And I love her](https://open.spotify.com/album/348qPH7ex70REDfMffEY6v) | 3:28 | 2025-05-09 | 2025-06-07 |
 | [Shed](https://open.spotify.com/track/6U3WPPsudfb6sCD7VUC6Hi) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Shed](https://open.spotify.com/album/6RJPC2gX5nCqkwMrf3STIA) | 3:46 | 2025-08-21 |  |
 | [Sheepish](https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Sheepish](https://open.spotify.com/album/34fnnzzQxjDkJ4lqApUygS) | 3:03 | 2024-10-23 | 2024-12-12 |
@@ -772,6 +775,7 @@
 | [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 | 2024-11-12 | 2025-01-31 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-28 | 2025-05-02 |
 | [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-18 | 2025-06-27 |
+| [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-27 | 2025-01-10 |
 | [Tears of Faith](https://open.spotify.com/track/16ydiDJ9OyUuSMswFQ4WTZ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Tears of Faith](https://open.spotify.com/album/0W7xdEp1vtfIb72BbTFA91) | 2:45 | 2025-01-30 | 2025-02-28 |
 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 | 2025-06-20 | 2025-07-25 |
@@ -903,6 +907,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-17 | 2024-09-12 |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-10 | 2025-05-30 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-17 | 2024-08-22 |
+| [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-08-28 |  |
 | [XTCY](https://open.spotify.com/track/0pnzM7eCtqfMBDhXV89T35) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [XTCY](https://open.spotify.com/album/1JtxJBcW6bAU3HI8NwfsjE) | 3:23 | 2025-04-24 | 2025-05-17 |
 | [Yesterday](https://open.spotify.com/track/463iSAKPicdA97NSR5rWhB) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Yesterday](https://open.spotify.com/album/5cvFHoDFMZq7BSw6G0gU9E) | 3:08 | 2025-08-21 |  |
 | [YOU](https://open.spotify.com/track/6p2eArI2fcdxiO8UenVfVy) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN](https://open.spotify.com/album/6fCGW5OWBTrtesYXjEze3h) | 3:33 | 2024-11-06 | 2025-01-10 |

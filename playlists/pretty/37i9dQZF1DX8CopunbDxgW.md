@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > it's the new EP from The Dare🗽❤️ and all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,159 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,064 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 62 | [Love Recycled 4](https://open.spotify.com/track/13NLxIbD8Bp1efHqpvfwTd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Love Recycled](https://open.spotify.com/artist/7oTQQWyea1bnyhmIgOQiWx) | [Love Recycled 4](https://open.spotify.com/album/5Sh815W2f63MzxYput4kvz) | 3:31 |
 | 63 | [This Side of Paradise](https://open.spotify.com/track/5sGGv5YSLW0IujA91KeFHJ) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [This Side of Paradise](https://open.spotify.com/album/7cVPsIgt3a4VpZQADl6HmB) | 2:25 |
 | 64 | [Young Man](https://open.spotify.com/track/1AA4Dgoob2TZZByNW3zJi7) | [Make A Dance](https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP) | [Young Man](https://open.spotify.com/album/6vB7WPA0ceo26nHh2h8Mip) | 3:26 |
-| 65 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 |
+| 65 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:35 |
 | 66 | [back of my mind](https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [back of my mind](https://open.spotify.com/album/4e1CZR6MJ1njKbxxAajWG5) | 1:47 |
 | 67 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 68 | [This Place Is Ours](https://open.spotify.com/track/4m5fy1ZShRdL2XaDVk9J10) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [This Place Is Ours](https://open.spotify.com/album/0hgGeKvub7xJ12hPOfD9LE) | 3:34 |

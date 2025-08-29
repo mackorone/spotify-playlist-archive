@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,858 likes - 161 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,781 likes - 161 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 19 | [Comanche](https://open.spotify.com/track/6xm0EofRJQDRmmDXtrzztB) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Every Ghost](https://open.spotify.com/album/0SEBgWj8fLuCIRblNA2sjh) | 3:08 |
 | 20 | [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 |
 | 21 | [The Highway Knows](https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [The Highway Knows](https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR) | 4:10 |
-| 22 | [Americana](https://open.spotify.com/track/2X8gbXCg0YqpdBlY8yLBCe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i), [The Texas Gentlemen](https://open.spotify.com/artist/3JA2PT9uQYXtSMNB2sCpKf) | [Americana](https://open.spotify.com/album/7x8DZtpI1dYEoqXKPHfenZ) | 3:34 |
+| 22 | [Americana](https://open.spotify.com/track/2X8gbXCg0YqpdBlY8yLBCe) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i), [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Americana](https://open.spotify.com/album/7x8DZtpI1dYEoqXKPHfenZ) | 3:34 |
 | 23 | [Motherland](https://open.spotify.com/track/0xKAnpxqrOUURQrjtg4eis) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Motherland](https://open.spotify.com/album/2VyK9euEJ1lle8NknF7hDy) | 3:20 |
 | 24 | [Robin's Egg \(feat\. I'm With Her\)](https://open.spotify.com/track/3okAzQRzCJrwpYtImGTBgM) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Robin's Egg \(feat\. I'm With Her\)](https://open.spotify.com/album/1HmbJ0ViFu8FIzWEdi9b88) | 3:04 |
 | 25 | [All Around Cowboy](https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [All Around Cowboy](https://open.spotify.com/album/6MI2xRnfVU5AtzafAtF928) | 2:57 |

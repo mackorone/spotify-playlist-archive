@@ -2508,7 +2508,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 158637,
       "name": "Joking",
       "url": "https://open.spotify.com/track/1XJKUkTvBkf20razODzMVp"
@@ -3590,7 +3590,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 184413,
       "name": "Love That Girl",
       "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 214506,
       "name": "Marguerita",
       "url": "https://open.spotify.com/track/6epwUk5pVSWjnYGNJgYNzm"
@@ -4837,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Note to self",
+        "url": "https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165458,
+      "name": "Note to self",
+      "url": "https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ"
+    },
+    {
+      "album": {
         "name": "Nothing I Need",
         "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
       },
@@ -4924,6 +4942,28 @@
       "duration_ms": 212985,
       "name": "Now I Know You",
       "url": "https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd"
+    },
+    {
+      "album": {
+        "name": "Nuit sauvage",
+        "url": "https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        },
+        {
+          "name": "SOLEIL ROUGE",
+          "url": "https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "Nuit sauvage",
+      "url": "https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai"
     },
     {
       "album": {
@@ -5044,6 +5084,24 @@
       "duration_ms": 208391,
       "name": "On Top",
       "url": "https://open.spotify.com/track/1pcSKI4na3DjV2aWwzJXHK"
+    },
+    {
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "album": {

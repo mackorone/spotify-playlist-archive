@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SHANK",
-  "num_followers": 130268,
+  "num_followers": 130285,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
-        "url": "https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p"
-      },
-      "artists": [
-        {
-          "name": "Sambomaster",
-          "url": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "Dim The Lights",
         "url": "https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 245720,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
+        "url": "https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p"
+      },
+      "artists": [
+        {
+          "name": "Sambomaster",
+          "url": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb \u30a4\u30ba \u30ce\u30c3\u30c8\u30c7\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU"
     },
     {
       "added_at": "2025-08-19 15:00:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "\u30d9\u30b9\u30c8\u3000\u30aa\u30d6\u3000\u30b4\u30fc\uff01\u30b4\u30fc\uff01",
-        "url": "https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k"
-      },
-      "artists": [
-        {
-          "name": "GO!GO!7188",
-          "url": "https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu"
-        }
-      ],
-      "duration_ms": 255786,
-      "name": "C7",
-      "url": "https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "\u68b5\u5504 -bonbai-",
         "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 265746,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "\u30d9\u30b9\u30c8\u3000\u30aa\u30d6\u3000\u30b4\u30fc\uff01\u30b4\u30fc\uff01",
+        "url": "https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k"
+      },
+      "artists": [
+        {
+          "name": "GO!GO!7188",
+          "url": "https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu"
+        }
+      ],
+      "duration_ms": 255786,
+      "name": "C7",
+      "url": "https://open.spotify.com/track/6X6ZSDU1g2gYh2foPRfYnT"
     },
     {
       "added_at": "2025-08-19 15:00:20",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "\u611b\u3059\u308bPOW",
-      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "Space Sonic",
         "url": "https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 122493,
       "name": "DEEP",
       "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "\u611b\u3059\u308bPOW",
+      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
     },
     {
       "added_at": "2025-08-19 15:00:20",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
+        "name": "\u541b\u306e\u98fc\u3044\u72ac\u306f\u3001\u53ef\u611b\u304f\u3066\u6700\u60aa\u3002",
+        "url": "https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98"
+      },
+      "artists": [
+        {
+          "name": "\u8d85\u2606\u793e\u4f1a\u7684\u30b5\u30f3\u30c0\u30eb",
+          "url": "https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4"
+        }
+      ],
+      "duration_ms": 283701,
+      "name": "\u30d5\u30e9\u30f3\u30b9\u6599\u7406",
+      "url": "https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
         "name": "77 Days",
         "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "\u541b\u306e\u98fc\u3044\u72ac\u306f\u3001\u53ef\u611b\u304f\u3066\u6700\u60aa\u3002",
-        "url": "https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98"
-      },
-      "artists": [
-        {
-          "name": "\u8d85\u2606\u793e\u4f1a\u7684\u30b5\u30f3\u30c0\u30eb",
-          "url": "https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4"
-        }
-      ],
-      "duration_ms": 283701,
-      "name": "\u30d5\u30e9\u30f3\u30b9\u6599\u7406",
-      "url": "https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "TRAIN-TRAIN",
         "url": "https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 233366,
       "name": "TRAIN-TRAIN",
       "url": "https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
-        "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
-      },
-      "artists": [
-        {
-          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
-          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv"
     },
     {
       "added_at": "2025-08-19 15:00:20",
@@ -1467,22 +1451,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "DREAMS NEVER END",
-        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Sunfist",
-          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "The Dream Is Not Dead",
-      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "\u5927\u90fd\u4f1a\u306b\u544a\u3050",
         "url": "https://open.spotify.com/album/65kozKwrc7PWlfM2ylbdO0"
       },
@@ -1495,6 +1463,38 @@
       "duration_ms": 88440,
       "name": "\u3053\u306e\u307e\u307e\u50d5\u3089\u304c\u5927\u4eba\u306b\u306a\u3063\u3066\u3082",
       "url": "https://open.spotify.com/track/5jQk8XgAfBHZpczOO5hJyc"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "DREAMS NEVER END",
+        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "The Dream Is Not Dead",
+      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
     },
     {
       "added_at": "2025-08-19 15:00:20",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-08-19 15:00:20",
       "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
-    },
-    {
-      "added_at": "2025-08-19 15:00:20",
-      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 236839,
       "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
       "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"
+    },
+    {
+      "added_at": "2025-08-19 15:00:20",
+      "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
     }
   ],
   "unique_name": "Punk Japan",

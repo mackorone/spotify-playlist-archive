@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 224346,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/75AhlGB9aFWTxDfbmbdiCH"
@@ -1486,10 +1486,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 373133,
       "name": "Quadrophenia",
       "url": "https://open.spotify.com/track/0tw9YJD5pF7JgjbKjO29kP"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373133,
+      "name": "Quadrophenia",
+      "url": "https://open.spotify.com/track/2daz5cSUMul4An2vCSERJC"
     },
     {
       "album": {
@@ -1544,6 +1562,24 @@
       "duration_ms": 216596,
       "name": "See Me, Feel Me - Single Version",
       "url": "https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe"
+    },
+    {
+      "album": {
+        "name": "Live At The Oval 1971",
+        "url": "https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310880,
+      "name": "See Me, Feel Me / Listening To You - Live At The Oval, London, England - 9/18/1971",
+      "url": "https://open.spotify.com/track/3Jd6LGdPGR3StjDhAufvpb"
     },
     {
       "album": {

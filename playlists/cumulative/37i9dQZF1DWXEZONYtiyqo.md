@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Alex Velea, Connect\-R, Smiley
+> Cele mai noi hituri pop românești\. Cover: JO
 
-301 songs - 14 hr 12 min
+304 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Easy](https://open.spotify.com/track/240ehfrZyCqV9bAWxpA1ur) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Easy](https://open.spotify.com/album/3pOFpjVO2oeqbzrYGcXkzP) | 2:55 | 2025-02-06 | 2025-02-21 |
 | [Echo](https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Echo](https://open.spotify.com/album/7mYcHs6sJgYiVmAOBTgemf) | 2:58 | 2025-04-10 |  |
 | [Energia ta](https://open.spotify.com/track/12lADUOFdAtvQw9io0tYbH) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Energia ta](https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe) | 3:08 | 2024-10-10 | 2024-11-01 |
+| [Era Era](https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Era Era](https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq) | 2:30 | 2025-08-28 |  |
 | [eRAI](https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [eRAI](https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7) | 2:44 | 2024-06-27 | 2024-11-22 |
 | [Fantasy](https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Fantasy](https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA) | 2:23 | 2025-07-03 |  |
 | [Fantezii](https://open.spotify.com/track/6VAC7pDgV8pKj4edMoVMxw) | [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Fantezii](https://open.spotify.com/album/2Ai1cUgk4nZsdTvTWuS1tO) | 2:33 | 2025-04-24 | 2025-06-13 |
@@ -137,6 +138,7 @@
 | [I Did](https://open.spotify.com/track/2Lcd6VzN6n80RhW3SbPqoM) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [I Did](https://open.spotify.com/album/0IAyUqUPKPMc2WPZlwe6m1) | 2:20 | 2025-04-24 | 2025-08-08 |
 | [Ia pe tine ceva](https://open.spotify.com/track/3uOgmS7h0gBIMR0l97LxKX) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a) | [Ia pe tine ceva](https://open.spotify.com/album/49ejRW1JRVb8vMQrVAHM6F) | 2:59 | 2025-07-31 |  |
 | [Iartă\-mă](https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Iartă\-mă](https://open.spotify.com/album/14au6hLrWkjxAloraOqoMX) | 3:04 | 2024-12-05 | 2025-01-10 |
+| [Iartă\-mă tu](https://open.spotify.com/track/0RKB0DezMhni9wvfMyd4P8) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Iartă\-mă tu](https://open.spotify.com/album/3BI64v9lDACUfRidxNPynn) | 2:53 | 2025-08-28 |  |
 | [Idem](https://open.spotify.com/track/63LTZSnj3GdCVg8Am43CPF) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Idem](https://open.spotify.com/album/3lbfx2amTttahpDOlfPGPg) | 3:10 | 2025-02-13 | 2025-03-28 |
 | [Iluzie](https://open.spotify.com/track/1awMO1eWN1buV4MuLaIaDG) | [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK) | [Iluzie](https://open.spotify.com/album/1bS1SesVsnfelzOPUAik9M) | 2:57 | 2025-07-24 | 2025-08-22 |
 | [Iluzii](https://open.spotify.com/track/2enZDi9FuIaDKcTxGFxwnA) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Iluzii](https://open.spotify.com/album/5CvDyS9MJyZI82Y0GkwVpH) | 2:11 | 2024-09-26 | 2024-10-25 |
@@ -163,7 +165,7 @@
 | [Lose My Mind](https://open.spotify.com/track/2yqRofXpLseanc6HhxJD10) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Lose My Mind](https://open.spotify.com/album/7qJTvPgy2GXFN20yVHHYnH) | 2:45 | 2025-04-24 | 2025-06-06 |
 | [Love Is Harder](https://open.spotify.com/track/1g07YHuWwMdjqlrWcVp2ie) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Love Is Harder](https://open.spotify.com/album/1oZEw4wsKHqNxpVCIzifvB) | 2:09 | 2024-09-26 | 2024-12-20 |
 | [Lucky](https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Lucky](https://open.spotify.com/album/3dM2QCvKEt1HiHY2vUBqSC) | 2:29 | 2025-06-05 | 2025-06-20 |
-| [Lullaby](https://open.spotify.com/track/0XgY5KlqJTmbpzgLpffOS4) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Lullaby](https://open.spotify.com/album/3FU4yAZqPp6iOY04H0Iy1p) | 2:21 | 2025-07-31 |  |
+| [Lullaby](https://open.spotify.com/track/0XgY5KlqJTmbpzgLpffOS4) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Lullaby](https://open.spotify.com/album/3FU4yAZqPp6iOY04H0Iy1p) | 2:21 | 2025-07-31 | 2025-08-29 |
 | [Lume, Lume](https://open.spotify.com/track/4cIvBXueYjHnD27zCLFKLh) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Lume, Lume](https://open.spotify.com/album/6wMoTxZxyBP5yy91h1Iykp) | 2:50 | 2025-06-26 |  |
 | [Lumea mea](https://open.spotify.com/track/6L9fmQDOhcYCS0hit70XQj) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Lumea mea](https://open.spotify.com/album/0PYxCYbxahfOkLVKok1KMq) | 2:23 | 2024-07-11 | 2024-08-02 |
 | [Lumea n\-ar mai fi](https://open.spotify.com/track/0cmwnlJSvOX4PUqOYmvhc0) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd) | [Lumea n\-ar mai fi](https://open.spotify.com/album/2tamkWSKugOV7hkZdJV91K) | 3:00 | 2025-02-20 | 2025-07-04 |
@@ -182,6 +184,7 @@
 | [Mon Amour](https://open.spotify.com/track/1KEPKvUUcD6xzDjRr66zix) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi) | [Mon Amour](https://open.spotify.com/album/5YSbInc3BAz30S8gtfKxYy) | 2:43 | 2024-07-18 | 2024-08-09 |
 | [Mor de dor](https://open.spotify.com/track/3YdToSFUV6IBrOAoZM6fQa) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [El Amor](https://open.spotify.com/album/44sbvoVwioQ78BIE9a0X4i) | 2:22 | 2025-08-21 |  |
 | [Muddy Waters](https://open.spotify.com/track/5FhKflM9C3d7yG8ztbZg5j) | [Vanotek](https://open.spotify.com/artist/2TOr71R5gmHQNH2xEcYtCu) | [Muddy Waters](https://open.spotify.com/album/0XWclfppVRoIXO58cYVwSI) | 3:07 | 2025-05-08 | 2025-06-06 |
+| [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 | 2025-08-28 |  |
 | [MY LOVE](https://open.spotify.com/track/1MBnhHSNh5MgiTcDlOnuMW) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [MY LOVE](https://open.spotify.com/album/2o2LAhKCCaQZmtruPQEdKh) | 2:24 | 2024-09-05 | 2024-11-29 |
 | [Mykonos](https://open.spotify.com/track/6gDNJXtt4G6ql2MENIEng1) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Mykonos](https://open.spotify.com/album/0Y03QIWPMMFFsIen51DXLy) | 2:45 | 2024-08-01 | 2024-09-20 |
 | [Mă mai ia](https://open.spotify.com/track/0fzJXPwzyhXfHPIorHk2Ju) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mă mai ia](https://open.spotify.com/album/5bAa6wpYhlERe0A4fTm0lX) | 2:48 | 2024-06-27 | 2024-10-11 |
@@ -275,7 +278,7 @@
 | [Te lo daria todo](https://open.spotify.com/track/0u87PC5GRBmjtixfgWyzk8) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Canciones del Corazón](https://open.spotify.com/album/2cgTOtTT4pJARi9rpRQpcq) | 3:12 | 2025-06-12 | 2025-07-11 |
 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 | 2024-08-29 | 2024-11-15 |
 | [Te\-am desenat](https://open.spotify.com/track/0Cuc3pVieq02jC2l7ReUwK) | [Doddy](https://open.spotify.com/artist/5j11BMuSj9oaTlYqHKAjqB), [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Te\-am desenat](https://open.spotify.com/album/0m71zzWghJaJW8r44YQaGb) | 3:16 | 2025-06-26 | 2025-07-25 |
-| [Tengo](https://open.spotify.com/track/6vMNao4AT6D51DPE9EDfik) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Tengo](https://open.spotify.com/album/2bjNxDZCgkwqteFLhimblV) | 2:57 | 2025-07-31 |  |
+| [Tengo](https://open.spotify.com/track/6vMNao4AT6D51DPE9EDfik) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Tengo](https://open.spotify.com/album/2bjNxDZCgkwqteFLhimblV) | 2:57 | 2025-07-31 | 2025-08-29 |
 | [Tic Tac](https://open.spotify.com/track/1IreaHikJBzfNrYelwZTTJ) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Fragil](https://open.spotify.com/album/6yhC3vwtBLrnrkMXlQpH0t) | 2:54 | 2025-06-12 | 2025-07-18 |
 | [Tic Tac](https://open.spotify.com/track/4sqDXPVMJXS3GBU2UB240S) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Tic Tac](https://open.spotify.com/album/1MqLIr8USyADc54Z13xK1R) | 2:53 | 2025-03-20 | 2025-03-22 |
 | [TLS](https://open.spotify.com/track/3j8VKfpN2aDOQXvjjipWM4) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa) | [TLS](https://open.spotify.com/album/07dbbcAmgNGigoAIUpiQrp) | 2:46 | 2024-11-14 | 2024-12-20 |

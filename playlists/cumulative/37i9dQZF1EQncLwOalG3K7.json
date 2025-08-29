@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYIx1RKPjEUi>Vance Joy</a>, <a href=spotify:playlist:37i9dQZF1EIXwVPBRIzypW>Jennifer Lopez</a>, <a href=spotify:playlist:37i9dQZF1EIYFn2a25JvJu>Naim Daniel</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXiwr7gKUNCe>Ne-Yo</a>, <a href=spotify:playlist:37i9dQZF1EIV1YwNbOoIsu>Nicki Minaj</a>, <a href=spotify:playlist:37i9dQZF1EIZquwgUSywEt>M\u0153nia</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+    },
+    {
+      "album": {
         "name": "PRISM",
         "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
       },
@@ -974,7 +996,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 301428,
       "name": "Enjoy The Show (feat. Future)",
       "url": "https://open.spotify.com/track/637oNhilCI9UlkWkUW4Grt"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 199293,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/64hZX40A8Z14efLfF0JjwT"
@@ -2144,6 +2166,24 @@
       "duration_ms": 157130,
       "name": "Million Good Reasons",
       "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
+    },
+    {
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/2vB9ME0oZwfTGAUMC71CaT"
     },
     {
       "album": {
@@ -2686,6 +2726,28 @@
       "duration_ms": 240240,
       "name": "Se Me Va La Voz",
       "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
+    },
+    {
+      "album": {
+        "name": "Seni Berdamai Dengan Takdir",
+        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
+      },
+      "artists": [
+        {
+          "name": "Naim Daniel",
+          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
+        },
+        {
+          "name": "Adnin Roslan",
+          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235890,
+      "name": "Seni Berdamai Dengan Takdir",
+      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
     },
     {
       "album": {

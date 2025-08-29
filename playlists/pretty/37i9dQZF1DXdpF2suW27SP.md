@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Julinho Ksd entra na zona.
+> Mizzy Miles, Teto & Ryu entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,731 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,748 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
 | 70 | [Eu Vou Vencer](https://open.spotify.com/track/702bq8Ud8dIxysgrRvTqv0) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [Eu Vou Vencer](https://open.spotify.com/album/2Q1ojLgXp6qbjmhEhonNeJ) | 4:17 |
 
-Snapshot ID: `AAAAAF+MQxClbO/fPPSFoCKoFLu9pRq1`
+Snapshot ID: `AAAAAP1FZ1C2KO51fWHbATkWx+V0tCrn`

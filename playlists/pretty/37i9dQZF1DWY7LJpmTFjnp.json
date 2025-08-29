@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Amigos Invisibles en portada. ",
-  "num_followers": 992311,
+  "num_followers": 992168,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "El Segundo Es Felino",
         "url": "https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Juguete",
-        "url": "https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Juguete",
-      "url": "https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Juguete",
+        "url": "https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Juguete",
+      "url": "https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Parison",
-        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -1020,25 +1020,13 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        },
-        {
-          "name": "Lng Sht",
-          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
         }
       ],
-      "duration_ms": 291074,
-      "name": "Parison",
-      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
+      "duration_ms": 348320,
+      "name": "Fugaz (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
+      "url": "https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1091,6 +1079,54 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "A 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Lo Pasado, Pasado",
+      "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Parison",
+        "url": "https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        },
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        }
+      ],
+      "duration_ms": 291074,
+      "name": "Parison",
+      "url": "https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -1107,42 +1143,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 348320,
-      "name": "Fugaz (feat. Rub\u00e9n Albarr\u00e1n) - En Vivo",
-      "url": "https://open.spotify.com/track/3UymFgXyRZun9nBxj4tiVI"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "A 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Lo Pasado, Pasado",
-      "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Volovan",
-        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 209346,
-      "name": "Ella Es Azul",
-      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "No Olvidamos",
         "url": "https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "Volovan",
+        "url": "https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 209346,
+      "name": "Ella Es Azul",
+      "url": "https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Vivir As\u00ed Es Morir de Amor",
         "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 220493,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "PRISMARAMA",
-        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "Incendio de Amor/Carmelita",
-      "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
-        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
+        "name": "PRISMARAMA",
+        "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
-      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
+      "duration_ms": 287613,
+      "name": "Incendio de Amor/Carmelita",
+      "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "Gringo Hunter (De la Serie de Netflix \"Gringo Hunters\")",
+        "url": "https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Gringo Hunter - De la Serie de Netflix \"Gringo Hunters\"",
+      "url": "https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 220795,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "Mi Forma De Sentir",
-        "url": "https://open.spotify.com/album/0v1CmBSnKEFdu6SUZmtdgd"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        },
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 211078,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/550qlmHuS9NwNkaKqh0VE3"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1571,6 +1551,26 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/0v1CmBSnKEFdu6SUZmtdgd"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        },
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 211078,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/550qlmHuS9NwNkaKqh0VE3"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
         "name": "El Negro",
         "url": "https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 269149,
       "name": "El Negro",
       "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2025-08-22 06:00:12",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-08-22 06:00:12",
       "album": {
+        "name": "Maria Barracuda",
+        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Barracuda",
+          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
+        }
+      ],
+      "duration_ms": 201333,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
+    },
+    {
+      "added_at": "2025-08-22 06:00:12",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
-    },
-    {
-      "added_at": "2025-08-22 06:00:12",
-      "album": {
-        "name": "Maria Barracuda",
-        "url": "https://open.spotify.com/album/1bhUnlxM5e8p9jkvHDGGu9"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Barracuda",
-          "url": "https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv"
-        }
-      ],
-      "duration_ms": 201333,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
     }
   ],
   "unique_name": "La + Chingona",

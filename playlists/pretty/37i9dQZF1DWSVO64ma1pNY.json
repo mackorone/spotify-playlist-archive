@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 298957,
+  "num_followers": 298975,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Hats Off to the Bull",
+        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Face to the Floor",
+      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Hats Off to the Bull",
-        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Face to the Floor",
-      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Will Of The People",
-        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198849,
-      "name": "Will Of The People",
-      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 244358,
       "name": "Next To Nothing",
       "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198849,
+      "name": "Will Of The People",
+      "url": "https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 265113,
-      "name": "Stingin' Belle",
-      "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Someone's Gonna Die Tonight",
         "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 202169,
       "name": "Someone's Gonna Die Tonight",
       "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 265113,
+      "name": "Stingin' Belle",
+      "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+      "duration_ms": 301080,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/05lBXOMA1uHpVPEQZyjoh3"
     }
   ],
   "unique_name": "Anger Management",

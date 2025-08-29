@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> TR3NACRIA au top des bangers dance/electro du moment !
+> Disco Lines x Tinashe au top des bangers dance/electro du moment !
 
 287 songs - 13 hr 14 min
 
@@ -273,7 +273,7 @@
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2024-01-18 | 2024-02-02 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-28 | 2024-04-05 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-03-22 | 2024-04-05 |
-| [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-02-13 |  |
+| [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-02-13 |  |
 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-07-24 |  |
 | [Walking Away \(Infinity\)](https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I) | [Matway](https://open.spotify.com/artist/5okL9oHMW5wof7D0x2hQLQ), [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Walking Away \(Infinity\)](https://open.spotify.com/album/2NQXrwAkAvrjoPT537SfI2) | 2:23 | 2025-02-06 |  |
 | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9) | 2:30 | 2024-03-22 | 2024-06-15 |

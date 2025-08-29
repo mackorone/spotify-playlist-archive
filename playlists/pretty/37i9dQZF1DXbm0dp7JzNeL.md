@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 
 > Take comfort in these melancholy masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,789 likes - 53 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,832 likes - 53 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm0dp7JzNeL.md) - [plain]
 | 52 | [Musica Universalis](https://open.spotify.com/track/3SbWH8MplM5UGGc6FEbfiI) | [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Chie Peters](https://open.spotify.com/artist/5uJjb4BD81Pd85hLX54Y4z), [Jacques Ammon](https://open.spotify.com/artist/3vVgUsQIebZf7vtCcbkOi1), [Deutsches Kammerorchester Berlin](https://open.spotify.com/artist/6MOokA8GHsPYpyNGc8Rz2f) | [Spheres \- Einaudi, Glass, Nyman, Pärt, Richter](https://open.spotify.com/album/3fgv2psQv8GMNdHh9Q1WQM) | 2:33 |
 | 53 | [Femme fatale: II\. Hedda Gabler](https://open.spotify.com/track/1Bduf1neXrZICpr5uGWbJn) | [Belinda Gehlert](https://open.spotify.com/artist/5l9bRWnZfpKEaV1Za2I0RQ), [Zephyr Quartet](https://open.spotify.com/artist/5BzFlYHR53XPl3THdmwUj5) | [Femme fatale: II\. Hedda Gabler](https://open.spotify.com/album/61HGFtP7WjOd1tSB5j1qmA) | 3:52 |
 
-Snapshot ID: `AAAAAJ9ZKds6WbHEzJ4B+9hcosBtrQIA`
+Snapshot ID: `AAAAABJBaLMAahyTCN8HbPepoATa9I94`

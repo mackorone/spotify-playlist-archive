@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256\. Cover: The Mith
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,466 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 44 | [Till the Sun Come Up](https://open.spotify.com/track/7hfmd4M2UqADLZkCVI4KVr) | [Baru](https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj), [Julius Sese](https://open.spotify.com/artist/00Y8QKiQhDuuJLQrEmrE2k), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Chwez Funk](https://open.spotify.com/album/5JjbFmQFnJYzKBOTz1Dqw0) | 4:10 |
 | 45 | [Make Dat Money](https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP) | [Pryce Teeba](https://open.spotify.com/artist/7LZeZZQTTiqOuxCN30dlGX), [Blessed San](https://open.spotify.com/artist/6ZCmGsvdReqqz3Iz789x9n) | [Make Dat Money](https://open.spotify.com/album/7u7QCwz0TXUGafOMWB8OGe) | 3:42 |
 | 46 | [Nekyo kyene](https://open.spotify.com/track/4MAtvNHJiuwUuNQyFHhC4E) | [Ebrahim Soul'o](https://open.spotify.com/artist/2YZW7Vm2kjy63WJQQ1UM4w) | [Conjolted](https://open.spotify.com/album/7dzbjLQcOssXTqqzu1HLrI) | 3:26 |
-| 47 | [Atiibwa](https://open.spotify.com/track/0OyULIXkDqy4QMcVN74EQi) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Omungi Atiibwa](https://open.spotify.com/album/4fR3oI5K1Y8FssSqZh3XYE) | 3:53 |
-| 48 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 |
-| 49 | [Lost Yourself](https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Lost Yourself](https://open.spotify.com/album/1IQoFSV5fxC4xlSVhHfRFn) | 4:16 |
-| 50 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
+| 47 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 |
+| 48 | [Been Bout My Thang](https://open.spotify.com/track/3YqQ0MrGo9npncbgBY6V0K) | [Lyrical G](https://open.spotify.com/artist/5iD7gwj4rQU0igiodSYGwQ), [GNL Zamba](https://open.spotify.com/artist/0FwYpgOB3J1HjxIRExeWhK) | [Geezy](https://open.spotify.com/album/3QoGhTuJ3IklGlZOVjK5xd) | 3:04 |
 
-Snapshot ID: `AAAAAJmYtsoqPG7VorBQ0I0t0aMcgHkp`
+Snapshot ID: `AAAAAKpaTjRGD7uy5/EJf7NYLJQXRa4C`

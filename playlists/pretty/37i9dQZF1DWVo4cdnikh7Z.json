@@ -1,13 +1,37 @@
 {
-  "description": "New Music from Kollywood.\nCover : Coolie",
-  "num_followers": 720517,
+  "description": "New Music from Kollywood.\nCover : Madharaasi",
+  "num_followers": 720566,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/F2Lw+TC1qMi5gdijtmW61OpMp",
+  "snapshot_id": "AAAAAIeMJMs7kqBlrvxRP6qoWvL1HmBW",
   "tracks": [
+    {
+      "added_at": "2025-07-31 13:51:13",
+      "album": {
+        "name": "Salambala (From \"Madharaasi\") (Tamil)",
+        "url": "https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "duration_ms": 207219,
+      "name": "Salambala (From \"Madharaasi\") (Tamil)",
+      "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
+    },
     {
       "added_at": "2025-08-02 11:46:37",
       "album": {
@@ -77,10 +101,38 @@
       "url": "https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei"
     },
     {
-      "added_at": "2025-07-31 13:51:13",
+      "added_at": "2025-08-28 13:30:26",
       "album": {
-        "name": "Salambala (From \"Madharaasi\") (Tamil)",
-        "url": "https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG"
+        "name": "Oorum Blood (From \"Dude\")",
+        "url": "https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "bebhumika",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        }
+      ],
+      "duration_ms": 240107,
+      "name": "Oorum Blood - From \"Dude\"",
+      "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
+    },
+    {
+      "added_at": "2025-08-28 13:30:26",
+      "album": {
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
       },
       "artists": [
         {
@@ -88,17 +140,17 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
         },
         {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 207219,
-      "name": "Salambala (From \"Madharaasi\") (Tamil)",
-      "url": "https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE"
+      "duration_ms": 235499,
+      "name": "Thangapoovey",
+      "url": "https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5"
     },
     {
       "added_at": "2025-07-24 05:42:21",
@@ -125,30 +177,6 @@
       "url": "https://open.spotify.com/track/3watEGWsGyrEgd6GxkeGSI"
     },
     {
-      "added_at": "2025-08-27 13:55:57",
-      "album": {
-        "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
-        "url": "https://open.spotify.com/album/07dZfgVCNQhJFd1euhpppX"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 291789,
-      "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
-      "url": "https://open.spotify.com/track/3xsszPcM3byg2C90m2f7bG"
-    },
-    {
       "added_at": "2025-08-02 11:45:29",
       "album": {
         "name": "Coolie (Original Motion Picture Soundtrack)",
@@ -171,6 +199,30 @@
       "duration_ms": 216081,
       "name": "Chikitu",
       "url": "https://open.spotify.com/track/268QzVxQvBG6neINWb8lJz"
+    },
+    {
+      "added_at": "2025-08-27 13:55:57",
+      "album": {
+        "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
+        "url": "https://open.spotify.com/album/07dZfgVCNQhJFd1euhpppX"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "duration_ms": 291789,
+      "name": "Enjaami Thandhaane (From \"Idli Kadai\")",
+      "url": "https://open.spotify.com/track/3xsszPcM3byg2C90m2f7bG"
     },
     {
       "added_at": "2025-07-28 09:54:01",
@@ -217,32 +269,32 @@
       "url": "https://open.spotify.com/track/6Ce0KCbllK0WknIK2YIafx"
     },
     {
-      "added_at": "2025-08-14 06:00:56",
+      "added_at": "2025-08-28 13:30:26",
       "album": {
-        "name": "Kalaaba (From \"WAR 2\") - Tamil Version",
-        "url": "https://open.spotify.com/album/3fcZMcM2EQAQQNRFsLwBhx"
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         },
         {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
         },
         {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
         }
       ],
-      "duration_ms": 215538,
-      "name": "Kalaaba (From \"WAR 2\") - Tamil Version",
-      "url": "https://open.spotify.com/track/3FqidVJr8mjIZqeV4I4dr2"
+      "duration_ms": 260000,
+      "name": "Unadhu Enadhu",
+      "url": "https://open.spotify.com/track/1B0Uwn0xLJbs5YlRlc5nnA"
     },
     {
       "added_at": "2025-08-13 05:41:34",
@@ -321,6 +373,58 @@
       "url": "https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv"
     },
     {
+      "added_at": "2025-08-14 06:00:56",
+      "album": {
+        "name": "Kalaaba (From \"WAR 2\") - Tamil Version",
+        "url": "https://open.spotify.com/album/3fcZMcM2EQAQQNRFsLwBhx"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 215538,
+      "name": "Kalaaba (From \"WAR 2\") - Tamil Version",
+      "url": "https://open.spotify.com/track/3FqidVJr8mjIZqeV4I4dr2"
+    },
+    {
+      "added_at": "2025-08-28 13:30:26",
+      "album": {
+        "name": "Madharaasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 203593,
+      "name": "Usara Uruvi",
+      "url": "https://open.spotify.com/track/5BC6PGgOrUG1MyC5aEeBOY"
+    },
+    {
       "added_at": "2025-08-25 13:16:17",
       "album": {
         "name": "Mute Love Story (From \"Oh God Beautiful\")",
@@ -343,6 +447,30 @@
       "duration_ms": 190928,
       "name": "Mute Love Story (From \"Oh God Beautiful\")",
       "url": "https://open.spotify.com/track/4WlAPxUGdIrx8qOmdsJoUc"
+    },
+    {
+      "added_at": "2025-08-28 13:30:26",
+      "album": {
+        "name": "Tharana (From \"Think Originals\")",
+        "url": "https://open.spotify.com/album/0Sa8BOaNU4A1aNv9X5Dg7K"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 215036,
+      "name": "Tharana - From \"Think Originals\"",
+      "url": "https://open.spotify.com/track/6cyet3dduffZ3CxIFgjHKY"
     },
     {
       "added_at": "2025-08-09 16:26:22",
@@ -399,6 +527,22 @@
       "duration_ms": 232106,
       "name": "Kokki",
       "url": "https://open.spotify.com/track/4m18DkswlAUnFmYzPapLb7"
+    },
+    {
+      "added_at": "2025-08-29 00:57:24",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/4cMkmpYg6xlw6WEXtZCWwA"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/5v7QZFYm665ZYc4QAkJLfb"
     },
     {
       "added_at": "2025-07-23 09:59:46",
@@ -695,30 +839,6 @@
       "duration_ms": 270122,
       "name": "Innum Ethana Kaalam - From \"Bomb\"",
       "url": "https://open.spotify.com/track/1x4OvN3VpnadNFY1UadbMo"
-    },
-    {
-      "added_at": "2025-08-18 13:26:42",
-      "album": {
-        "name": "WAR 2 - Tamil",
-        "url": "https://open.spotify.com/album/3d2UxSOJ1UEOWfRflqwS8Y"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 190899,
-      "name": "Hey Nanba Nanba",
-      "url": "https://open.spotify.com/track/08iuThbsgOgT1KLvZvdYxv"
     },
     {
       "added_at": "2025-08-25 13:23:03",
@@ -1073,30 +1193,6 @@
       "url": "https://open.spotify.com/track/6OEY4EgyHxwJ8IhanTnvEL"
     },
     {
-      "added_at": "2025-08-01 07:07:44",
-      "album": {
-        "name": "Othukkiriya (From \"Blackmail\")",
-        "url": "https://open.spotify.com/album/5WgPrOlHc44cNLeHzaJ17o"
-      },
-      "artists": [
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Eknath",
-          "url": "https://open.spotify.com/artist/5kpofE2PHdhOFVxwpdVI33"
-        }
-      ],
-      "duration_ms": 228076,
-      "name": "Othukkiriya (From \"Blackmail\")",
-      "url": "https://open.spotify.com/track/1wVZrSzqxTDOP4hMnR3d9C"
-    },
-    {
       "added_at": "2025-08-06 12:52:24",
       "album": {
         "name": "Mercury Pookkalaai (From \"Madhupriyan\")",
@@ -1347,50 +1443,6 @@
       "duration_ms": 226405,
       "name": "Ulagena Uruveduthaay (From \"WAR 2\") - Tamil Version",
       "url": "https://open.spotify.com/track/1hdFnSgT1tu5D3gMQHRJlQ"
-    },
-    {
-      "added_at": "2025-07-21 06:31:40",
-      "album": {
-        "name": "Trending Ponnu (From \"Trending\")",
-        "url": "https://open.spotify.com/album/3G7YZHvllEiuBuKydsKUE2"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Trending Ponnu (From \"Trending\")",
-      "url": "https://open.spotify.com/track/4HFDtGr7IFDA4KNTC0wKiK"
-    },
-    {
-      "added_at": "2025-07-22 09:42:27",
-      "album": {
-        "name": "Rekkai Mulaithen",
-        "url": "https://open.spotify.com/album/6WhrsKocvtEkizR6Cc3Gno"
-      },
-      "artists": [
-        {
-          "name": "Theeson",
-          "url": "https://open.spotify.com/artist/0vmZiK1KvPuLrLgznHL6VC"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "M.M.Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 299035,
-      "name": "Hey Azhaghiye",
-      "url": "https://open.spotify.com/track/7rge2KGCHbC5E7IrrIdB6w"
     },
     {
       "added_at": "2025-07-31 10:08:39",
@@ -1677,22 +1729,6 @@
       "url": "https://open.spotify.com/track/2O939K3rBfTlkvWfRSTpnO"
     },
     {
-      "added_at": "2025-07-17 10:57:16",
-      "album": {
-        "name": "Benny - The Rage (From \"Benny - Tamil\")",
-        "url": "https://open.spotify.com/album/2eFOD2Wqozr3fK8FaaoduF"
-      },
-      "artists": [
-        {
-          "name": "Sachin Basrur",
-          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
-        }
-      ],
-      "duration_ms": 144315,
-      "name": "Benny - The Rage (From \"Benny - Tamil\")",
-      "url": "https://open.spotify.com/track/7el1VZVV88heSaHsSIX3EG"
-    },
-    {
       "added_at": "2025-07-18 06:58:15",
       "album": {
         "name": "Kuberaa (Tamil)",
@@ -1741,86 +1777,6 @@
       "url": "https://open.spotify.com/track/3Qp3mxYAeE1hi2UhhfkdKd"
     },
     {
-      "added_at": "2025-07-14 06:21:22",
-      "album": {
-        "name": "Endhooru Poradi Pulla (From \"Seetha Payanam\") (Tamil)",
-        "url": "https://open.spotify.com/album/46gIstiYfF8LPhkgO5rbzP"
-      },
-      "artists": [
-        {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
-        },
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "Sruthy Sivadas",
-          "url": "https://open.spotify.com/artist/2umA7zyZwVLzQuFpvYdzdQ"
-        },
-        {
-          "name": "Suresh Jithan",
-          "url": "https://open.spotify.com/artist/0lJx0HVqt1RQelLtFVx1UD"
-        }
-      ],
-      "duration_ms": 255789,
-      "name": "Endhooru Poradi Pulla (From \"Seetha Payanam\") (Tamil)",
-      "url": "https://open.spotify.com/track/5MkMO7d8QXt3cBBaO1hKIe"
-    },
-    {
-      "added_at": "2025-07-14 06:19:32",
-      "album": {
-        "name": "Mahavatar Narsimha (Tamil) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/5TWEwtlcIxGVXcceuffvJx"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Aparna Harikumar",
-          "url": "https://open.spotify.com/artist/7LNUzNqFRlLgmF05m4yyXK"
-        },
-        {
-          "name": "VyasDeva",
-          "url": "https://open.spotify.com/artist/3xhYC9T40QLVtniFRhr136"
-        },
-        {
-          "name": "Jayadeva Goswami (Traditional)",
-          "url": "https://open.spotify.com/artist/1zpdc1GLh4lEbdMaaSkcbT"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Namaste Narsimha - Orchestral Version",
-      "url": "https://open.spotify.com/track/15FvlZKIS3FqeujwavdWT9"
-    },
-    {
-      "added_at": "2025-07-10 07:10:33",
-      "album": {
-        "name": "FAFA Song (From \"Maareesan\")",
-        "url": "https://open.spotify.com/album/36fEK8eY91QO5MEJIM5dNz"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Mathichiyam Bala",
-          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "FAFA Song (From \"Maareesan\")",
-      "url": "https://open.spotify.com/track/27ke1ttrAria0hIFs6WK3A"
-    },
-    {
       "added_at": "2025-06-23 14:02:20",
       "album": {
         "name": "Muzhumathiyae",
@@ -1843,30 +1799,6 @@
       "duration_ms": 225257,
       "name": "Muzhumathiyae - From \"Oho Enthan Baby\"",
       "url": "https://open.spotify.com/track/68lCUcwumQzfvc6zqjrzbu"
-    },
-    {
-      "added_at": "2025-06-24 13:43:34",
-      "album": {
-        "name": "VETRIVEL",
-        "url": "https://open.spotify.com/album/6ZKcXGg8qUdA8oT9WaFixs"
-      },
-      "artists": [
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 147034,
-      "name": "VETRIVEL",
-      "url": "https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM"
     }
   ],
   "unique_name": "Latest Tamil",

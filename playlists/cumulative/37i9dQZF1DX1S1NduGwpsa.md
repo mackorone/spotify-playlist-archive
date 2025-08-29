@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Nate Smith
+> The best jazz new releases\. Cover: Laufey
 
 801 songs - 2 day 9 hr 1 min
 

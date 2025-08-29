@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 111900,
+  "num_followers": 111926,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAAB17oHct9FRolyBnfk51FDh",
+  "snapshot_id": "aK5KgAAAAACFOU+RhKR0S5jtt3ehvEDh",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 203880,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/6oIjJi274wP86uqFxQRlKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 156337,
-      "name": "K-I-L-L-I-N-G",
-      "url": "https://open.spotify.com/track/1ADdo5xu02u6qFW9c5bhAq"
+      "duration_ms": 217572,
+      "name": "WATCH OUT!",
+      "url": "https://open.spotify.com/track/3U4pOVUBotrEwil5pPAK4r"
     },
     {
       "added_at": null,
@@ -651,26 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
+        "name": "ReAniMate 3.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
       "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
-        },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 254887,
-      "name": "Out In the Rain",
-      "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
+      "duration_ms": 208240,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
     },
     {
       "added_at": null,
@@ -691,18 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 3.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
       "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        },
         {
           "name": "Halestorm",
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+      "duration_ms": 254887,
+      "name": "Out In the Rain",
+      "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
     },
     {
       "added_at": null,

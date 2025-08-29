@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17906,
+  "num_followers": 17923,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABWO4evO1P1I0/Yc5jdOmRw",
+  "snapshot_id": "aK5KgAAAAABJy0MyKhq8+l3BVhoCRzeu",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo Rojo",
-        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Te Enamores",
+        "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
+      "url": "https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 225520,
       "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
       "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Te Enamores",
-        "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
-      "url": "https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Lado (En Vivo)",
-        "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tik Tik Tik",
         "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 191546,
       "name": "Tik Tik Tik",
       "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Lado (En Vivo)",
+        "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
     },
     {
       "added_at": null,
@@ -871,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+        "name": "D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
       },
       "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+      "duration_ms": 209440,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Krzyk Mody",
-  "num_followers": 23922,
+  "num_followers": 23926,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,30 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
+        "name": "Mam plan",
+        "url": "https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu"
+      },
+      "artists": [
+        {
+          "name": "zuziula",
+          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Mam plan",
+      "url": "https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
         "name": "Czy o mnie my\u015blisz?",
         "url": "https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 152906,
       "name": "Hold On You",
       "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
-        "name": "Mam plan",
-        "url": "https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu"
-      },
-      "artists": [
-        {
-          "name": "zuziula",
-          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
-        },
-        {
-          "name": "Young Leosia",
-          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
-        },
-        {
-          "name": "Mjonszu",
-          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Mam plan",
-      "url": "https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
-        "name": "Lepsze dni",
-        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 215842,
-      "name": "Lepsze dni",
-      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
         "name": "Wiem co z nami b\u0119dzie",
         "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 200268,
       "name": "Wiem co z nami b\u0119dzie",
       "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
+        "name": "Lepsze dni",
+        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 215842,
+      "name": "Lepsze dni",
+      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
+        "name": "Dajesz Mi Serce",
+        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Dajesz Mi Serce",
+      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
         "name": "Na chwil\u0119",
         "url": "https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 150904,
       "name": "Na chwil\u0119",
       "url": "https://open.spotify.com/track/2cqTnKnKnYKeS91hpSI2d4"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
-        "name": "Dajesz Mi Serce",
-        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 185204,
-      "name": "Dajesz Mi Serce",
-      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
+        "name": "Za d\u0142ugo",
+        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
+      },
+      "artists": [
+        {
+          "name": "Paulina Miku\u0142a",
+          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
+        }
+      ],
+      "duration_ms": 217070,
+      "name": "Za d\u0142ugo",
+      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
         "name": "\u010cyrvone Nebo",
         "url": "https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 164951,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
-        "name": "Za d\u0142ugo",
-        "url": "https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin"
-      },
-      "artists": [
-        {
-          "name": "Paulina Miku\u0142a",
-          "url": "https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht"
-        }
-      ],
-      "duration_ms": 217070,
-      "name": "Za d\u0142ugo",
-      "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
-        "name": "wylosujesz go!",
-        "url": "https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 128812,
-      "name": "wylosujesz go!",
-      "url": "https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
         "name": "R\u00f3\u017ce",
         "url": "https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 151846,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
+        "name": "wylosujesz go!",
+        "url": "https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 128812,
+      "name": "wylosujesz go!",
+      "url": "https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -1007,6 +1007,22 @@
       "duration_ms": 235178,
       "name": "Czas",
       "url": "https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2025-08-26 22:00:06",
       "album": {
-        "name": "Toskania",
-        "url": "https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W"
-      },
-      "artists": [
-        {
-          "name": "Julia Przybylska",
-          "url": "https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP"
-        }
-      ],
-      "duration_ms": 139903,
-      "name": "Toskania",
-      "url": "https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/5R2bGv16Uk0YL2R1cy394F"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 215713,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/0hv9WfQMyLzzhut0JsNRaS"
+    },
+    {
+      "added_at": "2025-08-26 22:00:06",
+      "album": {
+        "name": "Toskania",
+        "url": "https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W"
+      },
+      "artists": [
+        {
+          "name": "Julia Przybylska",
+          "url": "https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP"
+        }
+      ],
+      "duration_ms": 139903,
+      "name": "Toskania",
+      "url": "https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm"
     },
     {
       "added_at": "2025-08-26 22:00:06",
@@ -1147,22 +1163,6 @@
       "duration_ms": 135348,
       "name": "K\u0142\u00f3dki",
       "url": "https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO"
-    },
-    {
-      "added_at": "2025-08-26 22:00:06",
-      "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
-      },
-      "artists": [
-        {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     }
   ],
   "unique_name": "up next",

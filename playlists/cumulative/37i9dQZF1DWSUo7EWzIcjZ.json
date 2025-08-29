@@ -4363,24 +4363,6 @@
     },
     {
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "date_added": "2021-02-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 361273,
-      "name": "Morena / Los Dise\u00f1adores / Por Ella / El Equipo",
-      "url": "https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa"
-    },
-    {
-      "album": {
         "name": "20 Aniversario, Vol. 2",
         "url": "https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac"
       },
@@ -4450,6 +4432,24 @@
       "duration_ms": 281760,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
+    },
+    {
+      "album": {
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361273,
+      "name": "Morena/Los Dise\u00f1adores/Por Ella/El Equipo",
+      "url": "https://open.spotify.com/track/2BgxqdufX10rDrxp0O2ECa"
     },
     {
       "album": {
@@ -7096,7 +7096,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 365273,
-      "name": "Yo Que Te Am\u00e9 / Cu\u00e1nta Vida / Todo Aquello / T\u00fa Vacil\u00e1ndome",
+      "name": "Yo Que Te Am\u00e9/Cu\u00e1nta Vida/Todo Aquello/T\u00fa Vacil\u00e1ndome",
       "url": "https://open.spotify.com/track/1LduVfHrZmcdf8e1jdptGN"
     },
     {

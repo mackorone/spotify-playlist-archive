@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "REACTOR",
+        "url": "https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp"
+      },
+      "artists": [
+        {
+          "name": "femtanyl",
+          "url": "https://open.spotify.com/artist/53e9n1LucuH3guikmtv180"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "ATTACKING VERTICAL",
+      "url": "https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd"
+    },
+    {
+      "album": {
         "name": "RAMU",
         "url": "https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn"
       },
@@ -7436,6 +7454,24 @@
       "duration_ms": 144360,
       "name": "It's Random",
       "url": "https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM"
+    },
+    {
+      "album": {
+        "name": "REACTOR",
+        "url": "https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp"
+      },
+      "artists": [
+        {
+          "name": "femtanyl",
+          "url": "https://open.spotify.com/artist/53e9n1LucuH3guikmtv180"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "IT'S TIME",
+      "url": "https://open.spotify.com/track/4hJAHfT4Q92Bj93RlYtCou"
     },
     {
       "album": {

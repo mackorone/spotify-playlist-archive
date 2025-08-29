@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> A curated space for the avant\-garde\. Cover: Sudan Archives
+> A curated space for the avant\-garde\. Cover: Blood Orange
 
-1,687 songs - 3 day 20 hr 49 min
+1,688 songs - 3 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Circle Games](https://open.spotify.com/track/6VZRm4X4getEc5XG1wqDe5) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Circle Games](https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD) | 4:09 | 2024-10-04 | 2025-03-01 |
 | [Circulation](https://open.spotify.com/track/5kxUyE4eEZF5SKeD2Q09RC) | [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC) | [Circulation](https://open.spotify.com/album/1IMM3bKohRoNLfDDH7kzEC) | 3:30 | 2024-07-05 | 2024-10-26 |
 | [circus](https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [circus](https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r) | 2:13 | 2022-10-14 | 2023-01-14 |
-| [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 | 2025-07-18 |  |
+| [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:35 | 2025-07-18 |  |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-28 | 2022-11-12 |
 | [Clavicle](https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clavicle](https://open.spotify.com/album/72ORLqTAUwh9s0VofE4WCb) | 3:33 | 2022-07-22 | 2022-08-20 |
 | [Clayboy](https://open.spotify.com/track/3BESrc7B6JJqt7hFNx2gmb) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:35 | 2025-07-25 |  |
@@ -1352,6 +1352,7 @@
 | [something ! anything !](https://open.spotify.com/track/3iMHZ8Fb0yoVvv50eR6pub) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [something ! anything !](https://open.spotify.com/album/50d0vnaOLkiOyrDeQRpWuw) | 2:55 | 2024-08-23 | 2024-12-07 |
 | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/track/6fufMi1AWJEFVKlGGTZqxY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/album/0SDUfvrP8ak0rxHlsw50Nc) | 4:27 | 2022-07-22 | 2022-08-20 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-04 | 2022-05-28 |
+| [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-08-29 |  |
 | [Sorted](https://open.spotify.com/track/7rzI77KjJsJc4f0JS0HWZU) | [Jahmal Padmore](https://open.spotify.com/artist/23Bcuvf8yPnEONduRdlIpD) | [Sorted](https://open.spotify.com/album/51yPhwMfpJAt0Eg172ils2) | 3:48 | 2022-04-29 | 2022-05-28 |
 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 | 2025-07-18 |  |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-19 | 2023-10-21 |

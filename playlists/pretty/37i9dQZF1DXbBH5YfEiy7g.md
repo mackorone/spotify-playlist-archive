@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Takie Ndou and Rofhiwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,240 likes - 100 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,355 likes - 100 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Ngidle](https://open.spotify.com/track/4EHnPTebdfncfJ3Qez0hFP) | [D'braz](https://open.spotify.com/artist/06l0SbL4Tz5E4GVjWJDbGL), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby), [Lwami](https://open.spotify.com/artist/4ojVz3Vc0diTbr3GlZZ0y8) | [Ngidle](https://open.spotify.com/album/5edJhneY7kPAHQ2jas0tRk) | 5:45 |
 | 100 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 |
 
-Snapshot ID: `AAAAAAwFbJQivjRDZCi1AHCikZrNtz7I`
+Snapshot ID: `AAAAAAxthS4FVNE/Qqj/ph7HsB9THSpa`

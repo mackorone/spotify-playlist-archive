@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Devil Wears Prada
 
-1,310 songs - 3 day 8 hr 13 min
+1,311 songs - 3 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,7 +765,7 @@
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |
 | [Mystic Cord](https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Mystic Cord](https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE) | 3:01 | 2023-11-27 | 2024-02-10 |
-| [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 | 2025-06-20 |  |
+| [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 | 2025-06-20 | 2025-08-29 |
 | [Needle Eye](https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Needle Eye](https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ) | 2:49 | 2024-08-12 | 2024-12-19 |
 | [Nefarious](https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Nefarious](https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt) | 4:11 | 2023-05-26 | 2024-11-23 |
 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 | 2023-05-01 | 2024-02-24 |
@@ -1285,6 +1285,7 @@
 | [White Rabbit](https://open.spotify.com/track/48gotqEngeagErLW3C1FUs) | [Saving Vice](https://open.spotify.com/artist/1bN0Zx15XhmvTjNF2cPs0b) | [White Rabbit](https://open.spotify.com/album/7MpFnrbyOhfoaZKFypWdci) | 3:50 | 2022-05-13 | 2022-10-05 |
 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 | 2022-07-01 | 2022-12-17 |
 | [Who's fault?](https://open.spotify.com/track/24ScjFWnIcKFU47ye9qN87) | [DEXCORE](https://open.spotify.com/artist/5M8Z8Dlx2uLSH88WgxLlG4) | [\-18\-](https://open.spotify.com/album/4njBljf92NKv5NBIh6xA9s) | 4:35 | 2022-01-21 | 2022-04-09 |
+| [WHY ARE WE CALLING IT LOVE?](https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a) | [PINKNOISE](https://open.spotify.com/artist/2USllv850CGVjxqji1jxcd) | [HUMAN=KIND](https://open.spotify.com/album/1TepAW5KwOt3Yoz1HA4N7x) | 3:11 | 2025-08-22 |  |
 | [Wick](https://open.spotify.com/track/3yMU4otI6sZZBNSq2TYdXf) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Wick](https://open.spotify.com/album/4oewdHvESs5w4EtvGG6Abx) | 3:09 | 2025-07-25 |  |
 | [Wide Awake](https://open.spotify.com/track/3Link655QbLbSLj8iunFG7) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Wide Awake](https://open.spotify.com/album/5M54uawIq9qyn5ZZ3TPScG) | 2:39 | 2025-05-16 |  |
 | [Wide Open](https://open.spotify.com/track/6Td517jDDCCvHKo7vk7mnP) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wide Open](https://open.spotify.com/album/0B7QibJPKamPw36p7FY79u) | 5:17 | 2022-07-13 | 2022-07-23 |

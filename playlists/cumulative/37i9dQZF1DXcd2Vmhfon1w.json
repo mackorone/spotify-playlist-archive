@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Nach & Trueno.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 173363,
       "name": "Dirhams",
       "url": "https://open.spotify.com/track/4XSznOmC2LEQsqlvEpCGnF"
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 215730,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7hP3drw0BAsw9Oi7THcsWc"
@@ -6351,6 +6351,28 @@
     },
     {
       "album": {
+        "name": "La Sonrisa de Mi Cara",
+        "url": "https://open.spotify.com/album/2MNaLoscvfN9Pt4jbzzbth"
+      },
+      "artists": [
+        {
+          "name": "RADE",
+          "url": "https://open.spotify.com/artist/2Be5gecyvPCbsLUp0o6k6h"
+        },
+        {
+          "name": "Ocer y Rade",
+          "url": "https://open.spotify.com/artist/0fgRCULXpG4okFdlpat4e3"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "La Sonrisa de Mi Cara",
+      "url": "https://open.spotify.com/track/2orchyaow9iJMVdccLl11s"
+    },
+    {
+      "album": {
         "name": "La Vida Sin Ti",
         "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
       },
@@ -6446,7 +6468,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 195539,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/40TU0hOH8xc3nwulPYyLl8"
@@ -6610,7 +6632,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 173277,
       "name": "LLAMADAS DEL DIABLO",
       "url": "https://open.spotify.com/track/0rOk67sKm60hNHXSrDQBw6"
@@ -6826,7 +6848,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 168683,
       "name": "Los \u00faltimos vivos",
       "url": "https://open.spotify.com/track/6Ay67wJy9QQA71revDOIj1"
@@ -7641,6 +7663,28 @@
     },
     {
       "album": {
+        "name": "Mi Ciudad",
+        "url": "https://open.spotify.com/album/2Jw770YCxFSPF5r7ac0Li0"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224529,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/5h4QnuWR5vyKFHabF6eKTW"
+    },
+    {
+      "album": {
         "name": "Mi Condena",
         "url": "https://open.spotify.com/album/0DtcJk7CoznzFlCp5DFld3"
       },
@@ -7990,6 +8034,28 @@
       "duration_ms": 197647,
       "name": "Montecarlo",
       "url": "https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS"
+    },
+    {
+      "album": {
+        "name": "Moonlight's Puppet Remix",
+        "url": "https://open.spotify.com/album/6Fvmo9FBVmTnZZAQcbIlz2"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125825,
+      "name": "Moonlight's Puppet Remix",
+      "url": "https://open.spotify.com/track/5PSaLujSojEfsog1wwG17m"
     },
     {
       "album": {
@@ -8886,7 +8952,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 194181,
       "name": "Ojos Tristes",
       "url": "https://open.spotify.com/track/395ddVr1qpl3WC91GWBjvK"
@@ -9467,6 +9533,28 @@
     },
     {
       "album": {
+        "name": "Poco a Poco",
+        "url": "https://open.spotify.com/album/0q1VjTfbC30yaZb03oRde2"
+      },
+      "artists": [
+        {
+          "name": "Jarfaiter",
+          "url": "https://open.spotify.com/artist/7hqwOMu222wUGHIzm49sJk"
+        },
+        {
+          "name": "Geckodelarue",
+          "url": "https://open.spotify.com/artist/7pN6gysuGSvvdMpWPyDoN4"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111696,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/08rNMX9zgEtl5pZUvtRFp7"
+    },
+    {
+      "album": {
         "name": "Polos Opuestos",
         "url": "https://open.spotify.com/album/5pQ1P9ta8EX9198vZfZhKa"
       },
@@ -10014,6 +10102,24 @@
       "duration_ms": 129795,
       "name": "RAPSINCORTE 53",
       "url": "https://open.spotify.com/track/5ofJvtZyDEk7UZmkFsVSo1"
+    },
+    {
+      "album": {
+        "name": "RAPSINCORTE 54",
+        "url": "https://open.spotify.com/album/7dJ7Rkr8MlwP77ZYAha4Ky"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149013,
+      "name": "RAPSINCORTE 54",
+      "url": "https://open.spotify.com/track/55pnGCrk2HZ3DigXap0KQA"
     },
     {
       "album": {

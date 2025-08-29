@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169872,
+      "name": "7er",
+      "url": "https://open.spotify.com/track/4z19vywjpPdfmcX6Ks5j3b"
+    },
+    {
+      "album": {
         "name": "PLUG LOVE",
         "url": "https://open.spotify.com/album/1OZW8azw6lNPX5cIYNgxZG"
       },
@@ -1913,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "District",
+        "url": "https://open.spotify.com/album/4nxzO65DR0aB8Fjba9Rhrb"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142005,
+      "name": "District",
+      "url": "https://open.spotify.com/track/6gmEu6n1ZICPC0TztF7C0R"
+    },
+    {
+      "album": {
         "name": "Do you lie",
         "url": "https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI"
       },
@@ -2380,7 +2420,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 160427,
       "name": "F\u00dcR IMMER",
       "url": "https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS"
@@ -2720,7 +2760,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 124137,
       "name": "Hinterhofjargon",
       "url": "https://open.spotify.com/track/5O1DGumpBQxnTNjpzXXxaZ"
@@ -4084,7 +4124,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 135445,
       "name": "MIS (feat. Summer Cem)",
       "url": "https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd"
@@ -5316,6 +5356,24 @@
       "duration_ms": 140952,
       "name": "Shy",
       "url": "https://open.spotify.com/track/2H7lkInTNzdGJY3IEGGZ8Z"
+    },
+    {
+      "album": {
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "album": {

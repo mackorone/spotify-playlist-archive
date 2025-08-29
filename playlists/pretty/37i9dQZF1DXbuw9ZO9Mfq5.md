@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 56th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show on Fri., Oct\. 10th at 7:30 & 10 pm ET on <a href="https://www.tbn.org/2025doveawards">TBN</a> & the TBN+ app\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,556 likes - 135 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,555 likes - 135 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 11 | [All For You](https://open.spotify.com/track/2TCyoBUM7MNalMXmEQRlX8) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:32 |
 | 12 | [HEAVEN ON THIS EARTH](https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:05 |
 | 13 | [I Need Faith](https://open.spotify.com/track/3A5vkgvvNimHf3UdEadHJD) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [I Need Faith](https://open.spotify.com/album/4fO3zszTEILpBOV5jxRIlU) | 2:14 |
-| 14 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
+| 14 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
 | 15 | [Still Here](https://open.spotify.com/track/2cuI3ZFQxp92Lw2Udgwucw) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Still Here](https://open.spotify.com/album/5CX6SJZM34BEFTBujK9T9i) | 2:55 |
 | 16 | [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 |
 | 17 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 |

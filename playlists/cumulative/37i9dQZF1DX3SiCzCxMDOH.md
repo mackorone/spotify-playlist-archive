@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-961 songs - 2 day 8 hr 20 min
+963 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Echoes](https://open.spotify.com/track/2X3Huoa0RpqV1NVzIqjrv1) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Echoes](https://open.spotify.com/album/1VXahXA1DTUj5sbi2oBpGI) | 3:03 | 2024-10-14 | 2025-06-06 |
 | [Echoes of a Lonely Love](https://open.spotify.com/track/1hg3JYrnrScJRWDAhzlAvn) | [The Low Light Trio](https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT) | [Echoes of a Lonely Love](https://open.spotify.com/album/6LwTy6FXobxNAQsWSgcfPa) | 2:52 | 2025-07-01 |  |
 | [Echoes of Elegance](https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Echoes of Elegance](https://open.spotify.com/album/0S1X3z1LbNOqeRNzRjKDHn) | 4:11 | 2023-11-17 | 2024-11-19 |
+| [Echoes of Summer](https://open.spotify.com/track/4Zjr6BJUHbJniyT8hXHC26) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Echoes of Summer](https://open.spotify.com/album/4KRl6cqIYQcDQ2UtSDQ4mm) | 3:14 | 2025-08-28 |  |
 | [Echoes Of You](https://open.spotify.com/track/6BG5Ve4XaMq8GjaIGpg9la) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [Echoes Of You](https://open.spotify.com/album/10EiwKj6O9sd9hzdZCxXe8) | 3:16 | 2024-05-23 |  |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-24 | 2024-09-10 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-08-10 | 2025-07-24 |
@@ -434,7 +435,7 @@
 | [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 | 2023-03-23 | 2025-06-06 |
 | [Just Friends](https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Just Friends](https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr) | 2:35 | 2022-12-22 | 2024-05-11 |
 | [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 | 2024-05-23 | 2025-08-20 |
-| [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 |  |
+| [Just Ourselves](https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Just Ourselves](https://open.spotify.com/album/0Wlpr3FAxEIQFnm9jTMQAB) | 3:48 | 2022-12-01 | 2025-08-29 |
 | [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-05-23 | 2025-06-06 |
 | [Kings & Queens](https://open.spotify.com/track/6s8YKLawXuQJC9vmbUY8X6) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 2:49 | 2023-08-24 | 2024-12-04 |
 | [La Vie en rose](https://open.spotify.com/track/5E5quIvMG1ZlnwFqSolvhx) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [La Vie en rose](https://open.spotify.com/album/5FHVsjOvLsFzLPyxWBmM9E) | 2:48 | 2022-05-24 | 2022-06-29 |
@@ -516,7 +517,7 @@
 | [Margot In May](https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Margot In May](https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su) | 3:46 | 2024-04-23 | 2024-06-25 |
 | [Mark My Words](https://open.spotify.com/track/2p2p9uRPlLZBgT11V0b3x8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Mark My Words](https://open.spotify.com/album/1UVNOCxsPSeyohRPDpGArV) | 3:37 | 2023-11-17 |  |
 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 |  |
-| [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 |  |
+| [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 | 2025-08-29 |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 |  |
 | [Meets the Sea](https://open.spotify.com/track/4Zs5DSz0nNvKWMTNKoAQ78) | [Nordklang Collective](https://open.spotify.com/artist/0o2YTCBctZKK3CxDw6yVf9) | [Meets the Sea](https://open.spotify.com/album/7gNaMqsgryJessmqyAYNyQ) | 3:37 | 2025-01-07 |  |
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
@@ -912,6 +913,7 @@
 | [What’s It About?](https://open.spotify.com/track/3Boo42xOD5ZfPiCYjEXx1h) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [What’s It About?](https://open.spotify.com/album/0OryfredcYeA9NjVWMqhb7) | 2:41 | 2024-09-27 |  |
 | [When All Was Said and Done](https://open.spotify.com/track/4RTUdqbqiuKJ3cu7PBvScU) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [When All Was Said and Done](https://open.spotify.com/album/2RD4jX3CYtP6pvuNAnLqPi) | 4:35 | 2022-05-17 | 2024-07-16 |
 | [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-04-11 | 2025-03-19 |
+| [When I Was Yours](https://open.spotify.com/track/4xoijX1lySMC1oeffLMwxy) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [When I Was Yours](https://open.spotify.com/album/0s7ihgzcnczatG62r5PI41) | 3:43 | 2025-08-28 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-04-11 | 2024-05-24 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 | 2024-06-12 |

@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-127 songs - 7 hr 19 min
+127 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-08 |  |
 | [Losing My Mind](https://open.spotify.com/track/56iS3PFiFfZHGV5FXYm2fq) | [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB), [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX) | [Losing My Mind](https://open.spotify.com/album/0sjiOcEYautpiNZjTtYt4o) | 3:55 | 2025-07-25 | 2025-08-09 |
 | [Lost and Found](https://open.spotify.com/track/10ZxS2ESRcGo774KZXMcX8) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Jamie Scott](https://open.spotify.com/artist/3GmfV6ZlTLGA669yMuLplT) | [Lost and Found](https://open.spotify.com/album/4I4neDTr7ebLtrhmVijhai) | 3:07 | 2025-07-11 |  |
-| [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:56 | 2025-08-22 |  |
+| [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:26 | 2025-08-22 |  |
 | [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 | 2025-07-11 |  |
 | [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 | 2025-07-11 |  |
 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-23 |  |

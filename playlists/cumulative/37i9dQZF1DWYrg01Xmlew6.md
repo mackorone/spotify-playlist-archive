@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
 
-505 songs - 23 hr 8 min
+506 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Blitz](https://open.spotify.com/track/6prazZbaULprg73XDkvbhl) | [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [Blitz](https://open.spotify.com/album/2GLCKvVFJXwSuV4R4gHJd8) | 1:59 | 2025-05-01 |  |
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2023-04-21 |
 | [BLUE MONDAY](https://open.spotify.com/track/4jmZLQ7K0JVlekpbCriGt7) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [BLUE MONDAY](https://open.spotify.com/album/02Lf7gnhP4dGUjDS19pScl) | 2:36 | 2023-05-25 | 2023-07-07 |
-| [Boogie Woogie](https://open.spotify.com/track/6L61wR8tqb2Y3Xcr3HY5DS) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ANDROGINO \(Deluxe\)](https://open.spotify.com/album/5lwDT8qhYUuGUSGZLn72gj) | 2:28 | 2025-08-07 |  |
+| [Boogie Woogie](https://open.spotify.com/track/6L61wR8tqb2Y3Xcr3HY5DS) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ANDROGINO \(Deluxe\)](https://open.spotify.com/album/5lwDT8qhYUuGUSGZLn72gj) | 2:28 | 2025-08-07 | 2025-08-29 |
 | [BRATZ](https://open.spotify.com/track/5I3FJAEbsA6wHrCoNb5fhs) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [BRATZ](https://open.spotify.com/album/2Uyn21YkIpQLeBAeWyZZfX) | 2:12 | 2025-06-05 |  |
 | [BRUMOTTI](https://open.spotify.com/track/0A9r5sCaK9134x7wqeOrgX) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 2:25 | 2025-07-17 |  |
 | [Bye Bye](https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Bye Bye](https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U) | 2:18 | 2022-05-10 | 2022-07-29 |
@@ -149,6 +149,7 @@
 | [FILLER](https://open.spotify.com/track/3DMSz9IhDVwCl0UEyAFnVP) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [FILLER](https://open.spotify.com/album/4f6ZrCXaC1yxTo6QT1bHvT) | 2:51 | 2024-09-19 | 2024-10-11 |
 | [Fino a quando non muoio \(feat\. Vaz Tè\)](https://open.spotify.com/track/7aJUttpLAxSOrlCmYSVz5X) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Via Piombai](https://open.spotify.com/album/4RBnfg3OcCrv5a0J1FbNoQ) | 2:33 | 2024-01-11 | 2024-02-16 |
 | [FLOW LACOSTE](https://open.spotify.com/track/2KPjsuO3olYhmtXs9doqnK) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [FLOW LACOSTE](https://open.spotify.com/album/3g90o8oZzDtb2xwr9N0jMZ) | 1:54 | 2024-11-21 |  |
+| [FOLLOW \(feat\. Lele Blade, Christian Revo\)](https://open.spotify.com/track/5sf1R96V9wdBdA8GjHt3gR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F) | [FOLLOW \(feat\. Lele Blade, Christian Revo\)](https://open.spotify.com/album/3fD3dYo9dM0n731T6q9XW4) | 2:43 | 2025-08-28 |  |
 | [Forever Alone](https://open.spotify.com/track/4Ck5wIeWVH0EbtCsQoZ9sl) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Forever Alone](https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw) | 3:12 | 2023-07-20 | 2024-10-18 |
 | [FRATMO \(feat\. Baby Gang & Massimo Pericolo\)](https://open.spotify.com/track/3TSRoC7iBwITPZmKfcPvzS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/48XM18Azz6c6afvKV239IW) | 3:10 | 2025-04-24 | 2025-05-23 |
 | [Freestyle \#6](https://open.spotify.com/track/3i6eW7nR7Cw9Hiqc1kz4IH) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Freestyle Pack](https://open.spotify.com/album/3TnUcY9yhAJR81udv7RYXS) | 3:01 | 2022-10-13 | 2023-05-26 |

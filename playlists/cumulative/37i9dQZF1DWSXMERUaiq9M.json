@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 130063,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Faux Fur (like you like it)",
+        "url": "https://open.spotify.com/album/2nD51R8vddPKRGW7el4TPK"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143038,
+      "name": "Faux Fur (like you like it)",
+      "url": "https://open.spotify.com/track/6yVY5sNFFrpxloDUjwVOHU"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
       },
@@ -4914,6 +4932,24 @@
       "duration_ms": 211541,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ"
+    },
+    {
+      "album": {
+        "name": "Instant Moments",
+        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
+      },
+      "artists": [
+        {
+          "name": "Divasi",
+          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "Instant Moments",
+      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
     },
     {
       "album": {
@@ -10720,7 +10756,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"

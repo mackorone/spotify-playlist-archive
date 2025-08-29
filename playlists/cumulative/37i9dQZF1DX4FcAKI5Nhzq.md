@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: Vince\)
+> Future K\-Pop hits! \(Cover: CORTIS\)
 
 1,403 songs - 3 day 3 hr 37 min
 

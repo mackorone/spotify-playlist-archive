@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,496 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,445 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 23 | [Who's Driving You?](https://open.spotify.com/track/7jVl8vn5RKZFXodIXZd13j) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [ELEMENTS Vol\. 2](https://open.spotify.com/album/0Ign7x9QgYkG3sDMZhMAqY) | 3:50 |
 | 24 | [ROCKING EVERYWHERE](https://open.spotify.com/track/3YGTE9uHpcGRN0AvEgZ7tq) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [ROCKING EVERYWHERE](https://open.spotify.com/album/6Bmt5AmLUY2LQaDlNCndMp) | 1:39 |
 | 25 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
-| 26 | [poser](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
+| 26 | [POSER](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
 | 27 | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Now and at the Hour of Our Death \(feat\. BONES\)](https://open.spotify.com/album/6pqnNGhTMgWt2nvMIn7QlD) | 4:14 |
 | 28 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |
 | 29 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |

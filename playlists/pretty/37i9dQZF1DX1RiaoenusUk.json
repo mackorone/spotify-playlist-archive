@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33436,
+  "num_followers": 33451,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Needle in the Groove",
+        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
+      },
+      "artists": [
+        {
+          "name": "Papa Grows Funk",
+          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "Do U Want It?",
+      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "Lev\u00e1ntate y Anda",
         "url": "https://open.spotify.com/album/49OWyv7bujYuq4ipISG2pW"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 188730,
       "name": "Lev\u00e1ntate y Anda",
       "url": "https://open.spotify.com/track/4s5x65KhC8IATvwQtTaXbR"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Needle in the Groove",
-        "url": "https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4"
-      },
-      "artists": [
-        {
-          "name": "Papa Grows Funk",
-          "url": "https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Do U Want It?",
-      "url": "https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Combustication",
-        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Coconut Boogaloo",
-      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Combustication",
+        "url": "https://open.spotify.com/album/409EgDFqusiF1kmmm3NBzN"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Coconut Boogaloo",
+      "url": "https://open.spotify.com/track/0yoEamYgfqtyvU05cmPUbv"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "RE$FRIADO",
         "url": "https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 203506,
       "name": "Baila el Funk",
       "url": "https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Chicas on Fire - Single",
-        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
-      },
-      "artists": [
-        {
-          "name": "Shocklenders",
-          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
-        }
-      ],
-      "duration_ms": 240085,
-      "name": "Chicas on Fire",
-      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Chicas on Fire - Single",
+        "url": "https://open.spotify.com/album/19hyihRj65Z9jPhBAXaErH"
+      },
+      "artists": [
+        {
+          "name": "Shocklenders",
+          "url": "https://open.spotify.com/artist/45F0w3u4aSG89gClIx4QIR"
+        }
+      ],
+      "duration_ms": 240085,
+      "name": "Chicas on Fire",
+      "url": "https://open.spotify.com/track/1OJTHnR95k4N0mNfYYkoFB"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Super 8",
         "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Melod\u00edas",
         "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
         "name": "Sobrado",
         "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 163250,
       "name": "Sobrado",
       "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-07-04 11:50:10",
       "album": {
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2025-07-04 11:50:10",
+      "album": {
         "name": "F\u00e1bulas",
         "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 326661,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
-    },
-    {
-      "added_at": "2025-07-04 11:50:10",
-      "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2025-07-04 11:50:10",
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
         }
       ],
-      "duration_ms": 224864,
-      "name": "Back up in Flames",
-      "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     }
   ],
   "unique_name": "Nota Funk",

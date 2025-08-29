@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Perunggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,344 likes - 124 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,356 likes - 124 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 123 | [Menari\-nari](https://open.spotify.com/track/2cjU9mwkKGLkHWOUKDea3C) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Menari\-nari](https://open.spotify.com/album/3bTT7rVY52QQZ25nUADEaC) | 3:37 |
 | 124 | [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 |
 
-Snapshot ID: `AAAAAP1V2uS3l00uJFk1fCQEiQIT8A1C`
+Snapshot ID: `AAAAABP/spwEAbf4gLMo/XcGSvcuXBAq`

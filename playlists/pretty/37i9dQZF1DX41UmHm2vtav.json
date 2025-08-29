@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 489404,
+  "num_followers": 489489,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -251,30 +251,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 152851,
+      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
         "name": "Morar No Mar",
         "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 230500,
       "name": "Morar No Mar",
       "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
         "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 208615,
       "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
       "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2025-07-19 01:17:37",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2025-07-19 01:17:37",
       "album": {
+        "name": "Monalisa (KVSH Remix)",
+        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Monalisa (KVSH Remix)",
+      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
+    },
+    {
+      "added_at": "2025-07-19 01:17:37",
+      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 193562,
       "name": "O Cajado",
       "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
-    },
-    {
-      "added_at": "2025-07-19 01:17:37",
-      "album": {
-        "name": "Monalisa (KVSH Remix)",
-        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Monalisa (KVSH Remix)",
-      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
     },
     {
       "added_at": "2025-07-19 01:17:37",

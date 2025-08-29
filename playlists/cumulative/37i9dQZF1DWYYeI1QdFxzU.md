@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-189 songs - 13 hr 3 min
+190 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blue \(2013 Archive\)](https://open.spotify.com/track/6k4j9Onu3e9kRIAFCrhsqC) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Music For The Uninvited \(10 Year Anniversary\)](https://open.spotify.com/album/0XgEABVNkID09NOh1bG4n9) | 4:14 | 2024-07-03 | 2024-09-07 |
 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2024-01-05 | 2025-03-12 |
 | [Born Again](https://open.spotify.com/track/7aPrEWIVmwNb9suOKmgvAM) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Laura Roy](https://open.spotify.com/artist/5QPrSgtPwMPMdDNWQyQDXR) | [Born Again](https://open.spotify.com/album/7IaZQiXprSp7xhqhuSIDKu) | 4:04 | 2024-09-19 | 2025-01-08 |
+| [Broken Arrows \- Portico Quartet Rework](https://open.spotify.com/track/20h3zih9fIOMvupdSsBawu) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Broken Arrows \(Portico Quartet Rework\)](https://open.spotify.com/album/3M64RZHX596gZE5KCyhUtd) | 5:52 | 2025-08-28 |  |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2021-10-15 | 2023-08-02 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2021-10-15 |  |
 | [Cardano Circles](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Seme](https://open.spotify.com/album/61qvmOwUqxttEs99FGShmn) | 3:45 | 2024-03-01 | 2024-11-01 |
@@ -168,7 +169,7 @@
 | [Tell Me \- Pt\. 1 / Endel Chill Soundscape](https://open.spotify.com/track/1dQEuPyUXdo0UnXXk098DU) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven \(Endel Chillout Soundscape\)](https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm) | 3:07 | 2023-11-17 | 2024-01-13 |
 | [Temple Deadbeat](https://open.spotify.com/track/4HayGBr8v4oLrS4bd22iWW) | [Bit Cloudy](https://open.spotify.com/artist/7hNjsQs0YPZVgdjkFRGCJX) | [Temple Deadbeat](https://open.spotify.com/album/2Bn0eO0ziBsiQsRcUCnW1s) | 4:45 | 2021-10-15 | 2022-07-29 |
 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 | 2021-10-15 | 2023-11-17 |
-| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 |  |
+| [The Missing Piece](https://open.spotify.com/track/1y5j8Ke5GlHAhnxBqM0apw) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [The Missing Piece](https://open.spotify.com/album/38QmZa8ks65KhvcOP9fjL9) | 4:16 | 2024-12-13 | 2025-08-29 |
 | [The Power](https://open.spotify.com/track/3dbRz4RjoPFpJP2mKsNdSN) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/6EFIdOL19pRkRyCjG8O9Pz) | 4:14 | 2021-10-15 | 2022-07-15 |
 | [Think About What You Love](https://open.spotify.com/track/6pSzOFRKPabWwBq0B3NgJ7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Song For Alpha \(B\-Sides & Remixes\)](https://open.spotify.com/album/3TmEZZRORnWbgpeFKRO6QU) | 4:56 | 2021-10-15 | 2022-07-29 |
 | [This Feeling](https://open.spotify.com/track/6iK0ChTEvfDY9qH9dotiuX) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [This Feeling](https://open.spotify.com/album/5LxqYEPtM9ceTn1FIbWiW5) | 4:41 | 2024-01-05 |  |

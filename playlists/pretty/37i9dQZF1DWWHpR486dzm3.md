@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,023 likes - 78 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,027 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 77 | [kaupunki](https://open.spotify.com/track/1UUF01o8BzFfQB4UsDLiWl) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [kaupunki](https://open.spotify.com/album/2tcXBlbPDnJXx9dIkbFYBT) | 3:47 |
 | 78 | [Vit eld](https://open.spotify.com/track/3Vh5LKTh4cEznVXW7EsV7H) | [Vasas flora och fauna](https://open.spotify.com/artist/0ZpIOvLXBgAdqQdG4FSOXc), [Folke Nikanor](https://open.spotify.com/artist/0nWS9zGIhQ7PTrfyxBDtHY) | [Vit eld](https://open.spotify.com/album/3PUml7UfD2WoFfMwdmtpeC) | 3:09 |
 
-Snapshot ID: `AAAAAKzOTcVvV1RSIsnhgvXp8irdSZ7n`
+Snapshot ID: `AAAAAKoObrb0R6gi9QI0dYgmv8JxVGSw`

@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 197114,
+  "num_followers": 197284,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
+        "name": "Corridos de Caballos Pura Sangre",
+        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Oak Tree Special",
-      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
+      "duration_ms": 186720,
+      "name": "El Demonio",
+      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Corridos de Caballos Pura Sangre",
-        "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
       "artists": [
         {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
         }
       ],
-      "duration_ms": 186720,
-      "name": "El Demonio",
-      "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
+      "duration_ms": 274000,
+      "name": "Oak Tree Special",
+      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "El cantador (En vivo)",
         "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
       },
@@ -679,22 +663,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175778,
-      "name": "Cuadra los Parientes - En Vivo",
-      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "Cuadra los Parientes - En Vivo",
+      "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "El Pulm\u00f3n",
         "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
@@ -771,22 +755,6 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 164821,
-      "name": "Caballo R-15 - En Vivo",
-      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 276760,
       "name": "El Profeta",
       "url": "https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 164821,
+      "name": "Caballo R-15 - En Vivo",
+      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2025-05-09 06:00:12",

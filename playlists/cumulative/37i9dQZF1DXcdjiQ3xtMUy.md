@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Claydee, Katerina
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Sicario, Konstantinos Argiros, SNIK
 
-198 songs - 10 hr 13 min
+199 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Auto Pou Thes](https://open.spotify.com/track/06uAAjzOcbp1ZDrLTE5bZL) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Auto Pou Thes](https://open.spotify.com/album/10zUlVAi0dnrhEuv57mt7V) | 2:55 | 2025-05-15 |  |
 | [AUTOS](https://open.spotify.com/track/0EwKlAawFATYjR7Od5ps6k) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV) | [AUTOS](https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs) | 3:11 | 2024-10-24 | 2025-06-06 |
 | [Ax Kardia Mou](https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ax Kardia Mou](https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf) | 2:59 | 2025-06-13 |  |
+| [AYGOUSTOS](https://open.spotify.com/track/2klGl2ub6l3empTt8NcpfI) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [AYGOUSTOS](https://open.spotify.com/album/38MeanPBHZa6IFFAAeq4xi) | 2:30 | 2025-08-28 |  |
 | [Balkan Christmas](https://open.spotify.com/track/4D0d32TD5t6Acmcwzqnaln) | [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O) | [Balkan Christmas](https://open.spotify.com/album/1D4vh45eZNrWnOBhLXJq4O) | 2:24 | 2024-12-19 | 2025-01-31 |
 | [BLOUZAKI](https://open.spotify.com/track/7eVEcqGwyn59jK1hBaFhgP) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:36 | 2025-05-01 |  |
 | [Bomba](https://open.spotify.com/track/75JT04sGadvvNkfUDEhuwt) | [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Bomba](https://open.spotify.com/album/1qZvff3aZbd2zw9RscdR45) | 2:26 | 2024-11-07 | 2025-02-21 |
@@ -205,6 +206,6 @@
 | [Xrysopsara](https://open.spotify.com/track/7fB6xNyWP2NR3Ibbn9AeIF) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Xrysopsara](https://open.spotify.com/album/0c7rZBUiSJxTYqED0SfLYW) | 3:54 | 2024-06-27 | 2024-07-19 |
 | [Xrysopsara \- Display & Tony Fragment Remix](https://open.spotify.com/track/3bbac3ROc4kqb6tMJhe5mD) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28), [Tony Fragment](https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj) | [Xrysopsara \(Display & Tony Fragment Remix\)](https://open.spotify.com/album/3arKOWYRyVlDbX8Z4nJBOM) | 3:34 | 2024-07-18 | 2025-03-07 |
 | [Yperfainomeno](https://open.spotify.com/track/2Yqy3VMmglyH7rn4EfXKPq) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM) | [Yperfainomeno](https://open.spotify.com/album/3yF1BVK5VErdnm9m7Be9fD) | 2:47 | 2024-06-27 | 2024-07-05 |
-| [Απόψε](https://open.spotify.com/track/4IIUn9OE6dfk078WfJigiB) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ) | [Απόψε](https://open.spotify.com/album/327l58Oz4mcaXMLNSuaFVR) | 3:14 | 2025-07-10 |  |
+| [Απόψε](https://open.spotify.com/track/4IIUn9OE6dfk078WfJigiB) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ) | [Απόψε](https://open.spotify.com/album/327l58Oz4mcaXMLNSuaFVR) | 3:14 | 2025-07-10 | 2025-08-29 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

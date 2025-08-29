@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 
 > Música de piano suave para dormir bebés profundamente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,244 likes - 50 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,255 likes - 50 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXBw4KXgZE0.md) - [plain]
 | 41 | [Cradle song](https://open.spotify.com/track/49lAAST3iv9MmmrYeK0STj) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Cradle song](https://open.spotify.com/album/2NMKhGrIRjBiITd4u9yNEs) | 2:10 |
 | 42 | [Sandman](https://open.spotify.com/track/3YwcohusRJnODwSxCSdLeg) | [Tiny Hush](https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF) | [Sandman](https://open.spotify.com/album/5PjDNLHyLtqJGmxhRsxgEP) | 1:45 |
 | 43 | [On the bridge of Avignon](https://open.spotify.com/track/1Er4WgzhppOWFlmflkbwUL) | [Pete Morton](https://open.spotify.com/artist/4ZPuSOZorbyFg7JrwV1rxz) | [On the bridge of Avignon](https://open.spotify.com/album/4pv6fAPFwe8rXR6zRYjQ1S) | 1:01 |
-| 44 | [Somewhere Out There](https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F) | [Solara Whisper](https://open.spotify.com/artist/6swhOxLyYwb2PkQi5n23hi) | [Somewhere Out There](https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg) | 2:19 |
+| 44 | [Somewhere Out There](https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F) | [Ezekiel Jones](https://open.spotify.com/artist/7zpJcEpavXB7mOIdj4rtE1) | [Somewhere Out There](https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg) | 2:19 |
 | 45 | [The Sleeping Valley](https://open.spotify.com/track/7HfhQ5Mj9szjyMrnZdoi2F) | [Lucas Moon](https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS) | [The Sleeping Valley](https://open.spotify.com/album/0GGgiz3oX70EHNdfkSPrpm) | 2:09 |
 | 46 | [Rest on My Shoulder](https://open.spotify.com/track/4tMkGbJzW65bqH9fxXdqsU) | [Jean Gilmore](https://open.spotify.com/artist/4Kyy2wqus01j9Cie2mFIlT) | [Rest on My Shoulder](https://open.spotify.com/album/7hD35wcV5jBbhDJnsCl5DH) | 2:07 |
 | 47 | [Fairy Dust](https://open.spotify.com/track/3bJK8GugWTUGa9cDXioatC) | [Naomi Nora](https://open.spotify.com/artist/0YNOeiHmQFjfYhfSU8TOq7) | [Fairy Dust](https://open.spotify.com/album/6IU9I01l4WeGTg6pwOke7V) | 2:04 |

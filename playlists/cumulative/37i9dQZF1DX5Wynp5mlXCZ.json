@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: TVORCHI & The Maneken",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: RAJA & Jamala",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT"
@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "album": {
         "name": "I'M HIS, HE'S MINE (feat. Doechii)",
         "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
       },
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 228923,
       "name": "Manuscript",
       "url": "https://open.spotify.com/track/19uuIw82xrHu7afEOddYiI"
@@ -3479,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "album": {
         "name": "Teresa & Maria",
         "url": "https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB"
       },
@@ -3739,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "Truth, Peace, Love, Acid",
+        "url": "https://open.spotify.com/album/7A7x2wJL7tfD8ADAsxChsp"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199134,
+      "name": "Truth, Peace, Love, Acid",
+      "url": "https://open.spotify.com/track/2gxrSR8QROUH669XjI4VI0"
+    },
+    {
+      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
       },
@@ -3960,7 +4018,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 217582,
       "name": "Walk of Fame (feat. Brittany Howard) - Edit",
       "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
@@ -4174,6 +4232,28 @@
       "duration_ms": 188952,
       "name": "Zombie Lady",
       "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+    },
+    {
+      "album": {
+        "name": "ZORYA",
+        "url": "https://open.spotify.com/album/0FsG2IzRu8fOolpgXrjmDr"
+      },
+      "artists": [
+        {
+          "name": "RAJA",
+          "url": "https://open.spotify.com/artist/7EK7B7gZvw0YbHODFWElZ4"
+        },
+        {
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "ZORYA",
+      "url": "https://open.spotify.com/track/1SwKzfF8uLsF9np5YkEouS"
     },
     {
       "album": {
@@ -5782,7 +5862,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 181541,
       "name": "\u041c\u0443\u0445\u0438",
       "url": "https://open.spotify.com/track/0O8tdlDY8XVmKSr7IkGwjU"
@@ -6129,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "\u043d\u0435 \u0440\u043e\u0437\u0443\u043c\u0456\u044e",
+        "url": "https://open.spotify.com/album/4KbmPHzyHuo5TrbCUOi8kA"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138705,
+      "name": "\u043d\u0435 \u0440\u043e\u0437\u0443\u043c\u0456\u044e",
+      "url": "https://open.spotify.com/track/5Wi06XjwPWApv4yvU8O3RH"
+    },
+    {
+      "album": {
         "name": "\u043d\u0435 \u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
         "url": "https://open.spotify.com/album/40yfNbvl5yqQUDHLZjAPl4"
       },
@@ -6180,7 +6278,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 181000,
       "name": "\u041d\u0435\u0432\u0436\u0435",
       "url": "https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw"
@@ -6824,10 +6922,28 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 166285,
       "name": "\u0441\u0442\u0456\u043a",
       "url": "https://open.spotify.com/track/5qmqtLN4Qh79sRRB1TStfW"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0443\u0434\u043d\u043e \u041a\u043e\u0435\u043b\u044c\u043e",
+        "url": "https://open.spotify.com/album/10R1XYsYTw7OVaz8nzu5uF"
+      },
+      "artists": [
+        {
+          "name": "Schmalgauzen",
+          "url": "https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227125,
+      "name": "\u0421\u0443\u0434\u043d\u043e \u041a\u043e\u0435\u043b\u044c\u043e",
+      "url": "https://open.spotify.com/track/0UQOng1uYQhY0ob0QJoptH"
     },
     {
       "album": {

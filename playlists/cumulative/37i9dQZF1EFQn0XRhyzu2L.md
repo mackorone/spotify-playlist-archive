@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-619 songs - 1 day 10 hr 8 min
+624 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [chocolate](https://open.spotify.com/track/5UNr6YHvQs8UBZjm3AHwPG) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 2:36 | 2024-02-27 |  |
 | [Chosen Family](https://open.spotify.com/track/7ESINUDVrHhoPNY3oslqKC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:05 | 2024-02-27 |  |
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2024-02-27 |  |
-| [Christmas Morning](https://open.spotify.com/track/3e6hg15CXjN8t5bLHSiMtU) | [kennedi](https://open.spotify.com/artist/3Sx9IqYQkjkkSE8EWPL6bT) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:41 | 2024-02-27 |  |
+| [Christmas Morning](https://open.spotify.com/track/3e6hg15CXjN8t5bLHSiMtU) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:41 | 2024-02-27 |  |
 | [Chromatica I](https://open.spotify.com/track/3CGZ7wfk4skmuyQgua1C1K) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 1:00 | 2024-08-08 | 2024-09-01 |
 | [Chromatica II](https://open.spotify.com/track/0oQc0F6KUE7QY7k5TU6bic) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 0:41 | 2024-08-31 |  |
 | [Cinnamon](https://open.spotify.com/track/1S74z8DNPyyZlN2xs3OpgD) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:09 | 2025-08-18 |  |
@@ -368,6 +368,7 @@
 | [More To Learn](https://open.spotify.com/track/6aznIyz45o0yYLvMEHxRTj) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:46 | 2024-02-27 |  |
 | [Moving Along](https://open.spotify.com/track/4UQajPk0EPvbwWTl0fYi4C) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:17 | 2024-02-27 |  |
 | [Moxie](https://open.spotify.com/track/3mt2AxuyKl3sXsNL84XW6L) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [All I Ever Want Is Everything](https://open.spotify.com/album/1U2atfLjw1MKte54JUjcQR) | 3:15 | 2024-03-29 |  |
+| [Mr\. Miracle](https://open.spotify.com/track/2NuMBPxpGMgKw54M2YepBa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:12 | 2025-08-28 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2024-02-27 |  |
 | [Mrs\. Claus](https://open.spotify.com/track/0POWy59GCBJQjw6tcQVYxE) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:55 | 2024-02-27 |  |
 | [Music.](https://open.spotify.com/track/5wtEspIZ7Ox4KwmjeVsjee) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:35 | 2024-02-27 |  |
@@ -429,9 +430,11 @@
 | [PAPI](https://open.spotify.com/track/2k6oLQC0nAw99WL1euDWdG) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [PAPI](https://open.spotify.com/album/3mwb9N7rZZ9dQD75y4a8KD) | 2:30 | 2024-02-27 |  |
 | [Parachute](https://open.spotify.com/track/67ndgAWo70E6uz1vKlFZfB) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 2:58 | 2025-05-25 |  |
 | [parents](https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:51 | 2024-02-27 |  |
+| [Past Life](https://open.spotify.com/track/6X5XfDaweonx5mIQHZiHNB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:29 | 2025-08-28 |  |
 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 | 2024-04-08 |  |
 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 | 2024-02-27 |  |
 | [Perfect](https://open.spotify.com/track/2cMtkfv5jEb5UpIjJntl5g) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 4:02 | 2024-02-27 |  |
+| [Picnic In Paris](https://open.spotify.com/track/4RF4dFRCAuWkLXIPYwRbr7) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:16 | 2025-08-28 |  |
 | [Pictures of You](https://open.spotify.com/track/4LVcQI2OT4JRb4riFwQXuK) | [HMLTD](https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw) | [Pictures of You](https://open.spotify.com/album/2ES8m0KwPOWaYoDuAQ1azW) | 3:14 | 2024-02-27 |  |
 | [Pink](https://open.spotify.com/track/4mmpBLrld3UTeSNv8cMuz9) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:48 | 2024-02-27 |  |
 | [Play The Woman](https://open.spotify.com/track/3nWM5n7AIUPZ5LyVmNOhtt) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:13 | 2025-06-14 |  |
@@ -479,6 +482,7 @@
 | [Room Service](https://open.spotify.com/track/53bwArVbvrLDhIQTKboA5W) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 5:17 | 2024-02-27 |  |
 | [Run](https://open.spotify.com/track/6szw2Y2ywtth0oc7ODN3Tz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [COIN](https://open.spotify.com/album/247KCXJJqEGxii7kfI4NZ2) | 3:26 | 2024-02-27 | 2025-06-28 |
 | [Run](https://open.spotify.com/track/5DFbj1RfpjymQqRe8TaJgk) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Big Fat Lie \(Deluxe\)](https://open.spotify.com/album/4bri66CrtrD3e2I6ge0Ja0) | 3:30 | 2025-06-27 |  |
+| [Salt Water](https://open.spotify.com/track/0oOSHxhfKEFai7FKFk6tOJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 4:15 | 2025-08-28 |  |
 | [Same Sky \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0vOjEXesAjCBONR81Hiba5) | [Shanel Bailey](https://open.spotify.com/artist/4Ywqo5tpQKmto302ZFFPqc), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 3:25 | 2024-02-27 |  |
 | [Savages](https://open.spotify.com/track/6vx7gboeybkKFcfiJYInGs) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Savages](https://open.spotify.com/album/7dyGIJhUnVvkSbRCPDv3aG) | 3:21 | 2024-02-27 |  |
 | [Say It](https://open.spotify.com/track/2iteg9Efsw7ERDjRHYQA4k) | [Katie Waissel](https://open.spotify.com/artist/4mfrDjcp5zjsb9AjTG1mTt) | [B.C, Pt\. 1](https://open.spotify.com/album/0QkUX2wuX1nnKHBF1KnxfC) | 3:37 | 2025-01-09 | 2025-04-12 |
@@ -518,6 +522,7 @@
 | [Stopped Buying Diamonds](https://open.spotify.com/track/6j1qrYeRkiWkCkPsgpuM0e) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Stopped Buying Diamonds](https://open.spotify.com/album/5GkROEPJucwWwJoerPZsDI) | 2:36 | 2024-02-27 |  |
 | [Strangers](https://open.spotify.com/track/701MqraZ3kyR5uXRyU6iN3) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 4:23 | 2025-05-31 |  |
 | [stupid](https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:53 | 2024-02-27 |  |
+| [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 | 2025-08-28 |  |
 | [Summer In The City](https://open.spotify.com/track/5fFmZbXzn7iskrkyqsYtLA) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Summer In The City](https://open.spotify.com/album/7mN58OcKQ0vFazWOkBrx29) | 3:43 | 2024-02-27 |  |
 | [Sunset Blvd](https://open.spotify.com/track/1E70pcxXiSQLtxdowVXkbM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:47 | 2025-04-02 |  |
 | [SUPERMODEL](https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:28 | 2024-02-27 |  |

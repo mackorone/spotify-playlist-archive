@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 34066,
+  "num_followers": 34077,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAAAVVSwPXY5+7uBCK3F3C8f2",
+  "snapshot_id": "aK5KgAAAAAD81K3Afvkfe0zQprml97iZ",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shallow Life",
+        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Adrenaline",
+        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/7tIXyFkZc4p3GTx5YQMbJl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "These Scars Won't Define Us (Tour Version)",
         "url": "https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab"
       },
@@ -139,38 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Adrenaline",
-        "url": "https://open.spotify.com/album/7m9ZCS7eFROU7vCrE5hIW6"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/7tIXyFkZc4p3GTx5YQMbJl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shallow Life",
-        "url": "https://open.spotify.com/album/7kitcTV4f9h0cvH6NaNqH0"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/4DXswc4p8mel7E6C1ZSHDq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Empire",
         "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
       },
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 243826,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1ipx7qJSnTuFuPGnPnLWp8"
+      "duration_ms": 264533,
+      "name": "The Siege",
+      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 264533,
-      "name": "The Siege",
-      "url": "https://open.spotify.com/track/0QP6Q6euM4X32r5aEjmkjO"
+      "duration_ms": 243826,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1ipx7qJSnTuFuPGnPnLWp8"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 371426,
-      "name": "Veneficium",
-      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
+      "duration_ms": 230333,
+      "name": "Daylight Dancer",
+      "url": "https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Daylight Dancer",
-      "url": "https://open.spotify.com/track/4EnbEcYpoGQAIGNLaZa4Nn"
+      "duration_ms": 371426,
+      "name": "Veneficium",
+      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 218906,
       "name": "Within Me",
       "url": "https://open.spotify.com/track/23iFER67b8UKCW67hQTJOs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 257173,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 201906,
       "name": "To the Edge",
       "url": "https://open.spotify.com/track/1ljUMhT0vIaNhMRrf8RYXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 257173,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/49aRzdu6ITEHbWbLQaXTzi"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Anima (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Sword of Anger",
-      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Anima (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/2Op5m54XfuEqqXYRG0435d"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Sword of Anger",
+      "url": "https://open.spotify.com/track/61DtDotCR1DeZPbI6Ky0UP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 261053,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/6eR2jeiMILXRto4lxZzzEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Self Deception",
+      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 222466,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/1CxtFFOZHWMR6oiG3GbIiq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Self Deception",
-      "url": "https://open.spotify.com/track/4Q6f9HqFcXzWQtHyvhVOLA"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 196124,
+  "num_followers": 196148,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAACxeAFKPp3paA6mQpK7SjlU",
+  "snapshot_id": "aK5KgAAAAADezqaV+sI8EvmHw1Q9Emx5",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hurley (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 194306,
       "name": "Memories",
       "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 191826,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+      "duration_ms": 177280,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV"
     },
     {
       "added_at": null,

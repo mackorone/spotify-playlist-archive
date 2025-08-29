@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-884 songs - 2 day 10 hr 35 min
+886 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [ascension](https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:12 | 2024-07-31 |  |
 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 | 2024-04-14 |  |
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
+| [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-08-28 |  |
 | [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
 | [avOcadO SHakE૮꒰ ˶• ༝ •˶꒱ა \\̅\_̅/̷̚ʾ](https://open.spotify.com/track/3sDkuBJVMkMOQ70MK8y7yN) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:33 | 2024-02-19 |  |
 | [Awake on foreign shores](https://open.spotify.com/track/04jsvZ48NlfZPVGXks5kiV) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [New History Warfare Vol\. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI) | 1:30 | 2023-12-16 | 2024-10-11 |
@@ -407,6 +408,7 @@
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2022-12-29 | 2025-07-25 |
 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 | 2023-02-07 | 2024-06-28 |
 | [It's Random](https://open.spotify.com/track/6Sj5jAdiIWAAAYZc9dn9ZM) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:24 | 2024-02-24 | 2024-03-05 |
+| [IT'S TIME](https://open.spotify.com/track/4hJAHfT4Q92Bj93RlYtCou) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 2:07 | 2025-08-28 |  |
 | [It's Working](https://open.spotify.com/track/2sCaihW0VlDKecbUgMSzRY) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 4:06 | 2022-07-25 |  |
 | [Ivory](https://open.spotify.com/track/4JaqygglHv9rWW6B2NfgF6) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 0:45 | 2023-06-21 |  |
 | [J & J](https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Mainframe](https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h) | [Johnson & Jonson](https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h) | 4:21 | 2025-07-26 |  |

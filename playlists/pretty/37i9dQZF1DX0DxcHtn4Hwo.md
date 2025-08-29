@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,328 likes - 250 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,441 likes - 250 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 87 | [Under the Twilight Rays](https://open.spotify.com/track/1pQc8bSzu550taYNPBn52J) | [Iris Avory](https://open.spotify.com/artist/20V4zCnXKfYPn2rzNQaRMF) | [Under the Twilight Rays](https://open.spotify.com/album/7JjiapBnVQQO8PNbqFfcnr) | 1:47 |
 | 88 | [Sleepy Clouds](https://open.spotify.com/track/1rkOCmcFSdyIS5Ct4ABJ2i) | [Orion Nights](https://open.spotify.com/artist/66FOnIrGlHNlqMye0Ph82d) | [Sleepy Clouds](https://open.spotify.com/album/3uaMDdG7qSerUcqdqBMpqJ) | 1:52 |
 | 89 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 |
-| 90 | [Somewhere Out There](https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F) | [Solara Whisper](https://open.spotify.com/artist/6swhOxLyYwb2PkQi5n23hi) | [Somewhere Out There](https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg) | 2:19 |
+| 90 | [Somewhere Out There](https://open.spotify.com/track/0EiJJ4nsoPtbfMAnNZIW4F) | [Ezekiel Jones](https://open.spotify.com/artist/7zpJcEpavXB7mOIdj4rtE1) | [Somewhere Out There](https://open.spotify.com/album/23MLvDNIxfV33tUOBv5TBg) | 2:19 |
 | 91 | [Jolly Lolly Lullaby](https://open.spotify.com/track/0diZ2SjV238ZEGrbNL0Azf) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Jolly Lolly Lullaby](https://open.spotify.com/album/1MO41v3H6PGBASqILBOWyt) | 2:16 |
 | 92 | [Paws and Purrs](https://open.spotify.com/track/29naeVfaiB4vwSLO9FbNBp) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Paws and Purrs](https://open.spotify.com/album/4rXndm3szy9Ke4ubSQAjk2) | 1:44 |
 | 93 | [Staircase Lullaby](https://open.spotify.com/track/74lpl3BCa6lLcAAlFxrb7L) | [Matthias Haven](https://open.spotify.com/artist/59ydryl5aKFtSWCrVGRuTQ) | [Staircase Lullaby](https://open.spotify.com/album/5VNBnQfWgUoCoFarl2g9mO) | 1:45 |

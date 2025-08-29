@@ -2,7 +2,7 @@
 
 ### [hits de l'été 2025](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de ton été 🌞 Photo : GIMS
+> La BO officielle de ton été 🌞 Photo : Bleu Soleil & LUIZA
 
 390 songs - 19 hr 39 min
 

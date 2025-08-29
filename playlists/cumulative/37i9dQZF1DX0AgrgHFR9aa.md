@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Georgio
+> Les plus belles plumes rap français du moment\. Photo : Sopico
 
-254 songs - 13 hr 31 min
+256 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Le riz et la sauce](https://open.spotify.com/track/2bxOp6KU3GdIlWAZNgA8D7) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Paraît que les miracles n'existent pas](https://open.spotify.com/album/6LUXDm9fS8mtWtJFhVcM95) | 2:27 | 2025-03-06 | 2025-03-28 |
 | [Ledger \(feat\. PLK\)](https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-27 | 2025-01-24 |
 | [Les anges pleurent plus qu'avant](https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [Les anges pleurent plus qu'avant](https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79) | 2:56 | 2024-10-24 | 2024-12-13 |
+| [Les bons choix](https://open.spotify.com/track/1JF6IOxHFZIRZiMhEUWo06) | [Matou](https://open.spotify.com/artist/7yHWMjHKT8Y5k2gTYfVqW0), [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Les bons choix](https://open.spotify.com/album/1s97bugl9qtDoTDSDryW2I) | 2:36 | 2025-08-28 |  |
 | [LES DEUX](https://open.spotify.com/track/77XtFDw5WnZNu29e77W9rJ) | [Durden](https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [LES DEUX](https://open.spotify.com/album/7sK4s7scskdO8vugFrwV8q) | 3:45 | 2025-04-24 | 2025-05-30 |
 | [LES ENFANTS MENTENT](https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LES ENFANTS MENTENT](https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ) | 4:24 | 2024-10-24 | 2025-03-28 |
 | [LES OISEAUX VOLENT](https://open.spotify.com/track/3Lmk5r6EyczAbU1fe6LR91) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [UNIVERS OBSERVABLE](https://open.spotify.com/album/3ilRyWHTFnJS7MyLU8yb2r) | 2:32 | 2025-05-29 |  |
@@ -158,7 +159,7 @@
 | [Libre\-penseur](https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Libre\-penseur](https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ) | 2:32 | 2025-01-16 | 2025-05-23 |
 | [Loup noir](https://open.spotify.com/track/4ZKVvqYmWN3YDsxSKrfIBp) | [Euphonik](https://open.spotify.com/artist/0uRneTUgP2kyaFBDWmALuW) | [Loup noir](https://open.spotify.com/album/2hpxbLIZn3nzJPw5FaK8Uz) | 2:42 | 2025-04-24 | 2025-06-13 |
 | [LOYAL](https://open.spotify.com/track/5l9LW7OIwaNsptOOc1KbeR) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [LOYAL](https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh) | 2:50 | 2024-12-19 | 2025-01-10 |
-| [Luca Brasi](https://open.spotify.com/track/3nZZ0w526JBdbiwHsDh9W3) | [2mezur](https://open.spotify.com/artist/3qu9vnUrmiUMI9hHRYPq8K), [Willy Bank](https://open.spotify.com/artist/2mzkRKsVL19d9dgspnS3gr) | [Luca Brasi](https://open.spotify.com/album/32UzixnOLc19HUQ1w5swHh) | 2:40 | 2025-07-17 |  |
+| [Luca Brasi](https://open.spotify.com/track/3nZZ0w526JBdbiwHsDh9W3) | [2mezur](https://open.spotify.com/artist/3qu9vnUrmiUMI9hHRYPq8K), [Willy Bank](https://open.spotify.com/artist/2mzkRKsVL19d9dgspnS3gr) | [Luca Brasi](https://open.spotify.com/album/32UzixnOLc19HUQ1w5swHh) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [LUEUR D'ESPOIR](https://open.spotify.com/track/1CCsdrc8QT6kFzm0LggO2l) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO) | [LUEUR D'ESPOIR](https://open.spotify.com/album/38mkXQseJ2zu9M2qn7Lezc) | 1:16 | 2025-05-01 | 2025-05-23 |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 | 2024-12-20 |
 | [MALADE](https://open.spotify.com/track/4eoDItFrXkDOF1t98XKqUN) | [BENDE](https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS) | [MALADE](https://open.spotify.com/album/2fTBXx3cEXzk7PvBn9yIlg) | 2:37 | 2025-05-22 | 2025-06-20 |
@@ -221,7 +222,7 @@
 | [Ruban](https://open.spotify.com/track/3vwQ6xRSMX9dvolbVVRWu8) | [Brass](https://open.spotify.com/artist/6KXzXCAytbihhQEBybFTkB) | [Ruban](https://open.spotify.com/album/4tN1RBmfkMYqhCP1F8j9cN) | 2:55 | 2025-04-03 | 2025-04-25 |
 | [RUBIS](https://open.spotify.com/track/0VA5yP6vM863LUYxtp5JcG) | [OCHO DEVILS](https://open.spotify.com/artist/0uxNJJOuuzhuk6qjvCX86u) | [RUBIS](https://open.spotify.com/album/3jB0uq2CizhJ4iGhOLPUPU) | 2:19 | 2025-03-27 | 2025-04-18 |
 | [Répondez\-moi 2024 / Humain](https://open.spotify.com/track/5BphWiCC0CWGbLXtygIqXT) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Abysses & Ivresse des profondeurs](https://open.spotify.com/album/01jWZbg74Ckcr7I0u1xwtU) | 8:17 | 2024-09-12 | 2024-11-15 |
-| [SANS MENTIR](https://open.spotify.com/track/4xaYehmInIFzs5oubXTVPQ) | [BENDE](https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS) | [SANS MENTIR](https://open.spotify.com/album/6Q052mhJvX0qiDNso4FCYt) | 2:41 | 2025-07-17 |  |
+| [SANS MENTIR](https://open.spotify.com/track/4xaYehmInIFzs5oubXTVPQ) | [BENDE](https://open.spotify.com/artist/6Y33uL0LaEvZjAsHkVGxLS) | [SANS MENTIR](https://open.spotify.com/album/6Q052mhJvX0qiDNso4FCYt) | 2:41 | 2025-07-17 | 2025-08-29 |
 | [Si tu savais](https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Si tu savais](https://open.spotify.com/album/1xlQ3BxNYhjlMn15MVhPmt) | 2:49 | 2024-11-14 | 2025-01-17 |
 | [Soledad](https://open.spotify.com/track/0bqx9kMHW5SSy4RmNuBCvN) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [NIRVANA](https://open.spotify.com/album/5p583Gi2HJlcjJDQ7R2Tox) | 2:52 | 2025-05-22 |  |
 | [SOLO AU RESTAURANT PT.2](https://open.spotify.com/track/0CUuRoaFEKjTeNfQa2aASp) | [Hologram Lo'](https://open.spotify.com/artist/0YjLBTzWfiNLqIseRzCa5e), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [SOLO AU RESTAURANT PT.2](https://open.spotify.com/album/4LIfTIHvvEHE4fKAxC5qYB) | 3:26 | 2025-08-07 |  |
@@ -240,6 +241,7 @@
 | [UFOV](https://open.spotify.com/track/6ZhIsycBDgeFpWxUzkLBoj) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [PANDEMONIUM](https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM) | 3:33 | 2025-03-27 | 2025-05-30 |
 | [Un jour en moins](https://open.spotify.com/track/1RaDFEHcTNqqkzv1t7vJo9) | [Eta](https://open.spotify.com/artist/4hLEWmW8SCJYxZkWfSJakZ) | [Un jour en moins](https://open.spotify.com/album/5niEdHugu5ZJjkjEvMzZoT) | 2:06 | 2025-08-07 |  |
 | [Un monde meilleur](https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV) | [Sentin’l](https://open.spotify.com/artist/49eWq2JOL6lBj9ELT70IWi), [Yamoy](https://open.spotify.com/artist/39pzhf6yFUFgGzUdwk4sne) | [Unique & ordinaire, Vol\. 2](https://open.spotify.com/album/5r5IoJl8UNIiUxbrGL7Zw1) | 3:30 | 2024-09-19 | 2024-10-18 |
+| [Une clope après l'amour](https://open.spotify.com/track/7pzXgJYFvrh6l7mbp0dlrb) | [Sopico](https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Volez\-moi](https://open.spotify.com/album/7Egvv3698pmgv4FsrAFvdx) | 2:55 | 2025-08-28 |  |
 | [UNE FLEUR ÇA S'ARROSE](https://open.spotify.com/track/0jtyOKokE0QaIO15xJiVaZ) | [N3MS](https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J) | [UNE FLEUR ÇA S'ARROSE](https://open.spotify.com/album/0KK5DBNXkoTWxgMT1Qimi0) | 3:13 | 2025-01-16 | 2025-03-14 |
 | [Une fois ou deux](https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Une fois ou deux](https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [UNIVERS SONS](https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV) | [Deemax](https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt) | [À MA PLACE \- Version Complète](https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5) | 3:42 | 2024-08-22 | 2024-09-27 |

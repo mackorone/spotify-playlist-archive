@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Leomile
 
-704 songs - 2 day 2 hr 16 min
+705 songs - 2 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abantu abaThandanako \(feat\. NtoMusica, Nokulunga Vilakazi, Lunga Dima\)](https://open.spotify.com/track/6JpBemU4DvK1ZjBeS9ADtn) | [Daskidoh](https://open.spotify.com/artist/0kja8d7Y2jmEMPREkWJf8U), [Pixie L](https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G), [Lunga Dima](https://open.spotify.com/artist/5fyWQbqYFny969khZRMKRU), [Nokulunga Vilakazi](https://open.spotify.com/artist/6wtQMMlPR1S9gBNIsNOTZK), [NtoMusica](https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw) | [iKhambo Lami](https://open.spotify.com/album/5UI6I0JRQlmU4Kf8ukF4rm) | 4:00 | 2024-06-20 | 2024-10-12 |
 | [Abantu Bam](https://open.spotify.com/track/0UwENEL1GkvnoxHqT1Wv8q) | [Mr Vee Sholo](https://open.spotify.com/artist/3Qb0EgeDtnCKvw9HzE4x9U) | [Abantu Bam](https://open.spotify.com/album/2gnhRknPpOxmViYm4TsKgl) | 4:40 | 2025-04-24 |  |
 | [Abazali](https://open.spotify.com/track/6J0jX6MuObIpZkP1Ob9V3C) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Abazali](https://open.spotify.com/album/2JBdrMf9aP33faZjfBMkzG) | 2:55 | 2025-08-15 |  |
+| [Abazali](https://open.spotify.com/track/7yfB1QDIyeVUbmZhMnFstw) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Painfully Happy](https://open.spotify.com/album/6VLAPA4OpFBrPoLZp46FGH) | 2:55 | 2025-08-29 |  |
 | [Abazazi Bafunani](https://open.spotify.com/track/0spmIF7xn9SuE5hH5ubT8f) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Icala Le Mpumelelo](https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo) | 3:49 | 2025-04-14 |  |
 | [Abelungu](https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7) | [Diezel Smoke](https://open.spotify.com/artist/0hQEcRSi3aKAYzRuOo7ZF5), [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [Abelungu](https://open.spotify.com/album/2VIQm1GmXG8iZUXytiydxJ) | 4:24 | 2022-07-25 | 2022-09-16 |
 | [Abondaba](https://open.spotify.com/track/64hkawrDFd2UW8wuuf5DGN) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Abondaba](https://open.spotify.com/album/0iLKzBFZd9dqHy6dQNkXZa) | 4:42 | 2023-08-10 | 2024-02-09 |

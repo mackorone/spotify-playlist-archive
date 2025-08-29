@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "Moments (Live)",
+        "url": "https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ"
+      },
+      "artists": [
+        {
+          "name": "Worship House",
+          "url": "https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4"
+        },
+        {
+          "name": "Providence Worship",
+          "url": "https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN"
+        },
+        {
+          "name": "Jordan & Cami Herndon",
+          "url": "https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 646666,
+      "name": "Champion / Gratitude - Live",
+      "url": "https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b"
       },
@@ -388,7 +414,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 646666,
       "name": "Champion/Gratitude - Live",
       "url": "https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U"

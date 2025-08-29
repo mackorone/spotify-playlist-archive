@@ -282,6 +282,32 @@
     {
       "album": {
         "name": "Apologize",
+        "url": "https://open.spotify.com/album/5YVA57wxJEMX35wHtjjMLX"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        },
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DV8",
+          "url": "https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219654,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/2Iuoz2Q3MK4zuvyRYceVnT"
+    },
+    {
+      "album": {
+        "name": "Apologize",
         "url": "https://open.spotify.com/album/4JTsq0MtyoDGGljuVNnoLO"
       },
       "artists": [
@@ -1346,7 +1372,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 122384,
       "name": "Destination Calabria",
       "url": "https://open.spotify.com/track/4cLprMptXuUk5zhvFFKIU3"
@@ -1982,7 +2008,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 217532,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0zDUzxZaH3nuhuf1GbwdGs"
@@ -3577,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/150eaGJt3E58Ou4qEsPtuA"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123003,
+      "name": "One (Your Name)",
+      "url": "https://open.spotify.com/track/4naMhfCUZfa72VlNd9Jy1d"
+    },
+    {
+      "album": {
         "name": "ONE IN A MILLION",
         "url": "https://open.spotify.com/album/7MDHanMahglxsPCi2GYasg"
       },
@@ -4020,7 +4064,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 190412,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td"
@@ -4186,7 +4230,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -4360,7 +4404,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
@@ -5314,7 +5358,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 163875,
       "name": "ZAAG IN PARIS",
       "url": "https://open.spotify.com/track/3aw99hPbrG6YTxtXYGF8XI"

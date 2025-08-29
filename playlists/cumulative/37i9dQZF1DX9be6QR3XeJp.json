@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: chi",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Mulaa Joans",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3296,6 +3296,24 @@
       "duration_ms": 176473,
       "name": "maradona",
       "url": "https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ"
+    },
+    {
+      "album": {
+        "name": "Members Only",
+        "url": "https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Members Only",
+      "url": "https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8"
     },
     {
       "album": {

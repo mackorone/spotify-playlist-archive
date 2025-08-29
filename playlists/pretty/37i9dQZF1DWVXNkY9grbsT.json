@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 113375,
+  "num_followers": 113425,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
         "name": "Part 1",
         "url": "https://open.spotify.com/album/1LqFZnAHmoay7Nx5xZXErO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 486877,
       "name": "Part 1",
       "url": "https://open.spotify.com/track/1rjpUQAtezTwQkJRdP80I9"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "A Necessary Escape (Part 2)",
-        "url": "https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 503200,
-      "name": "A Necessary Escape (Part 2)",
-      "url": "https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Piedras 2",
         "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 225625,
       "name": "I, you",
       "url": "https://open.spotify.com/track/7xznVSBGvlqEbxMPFAoEZY"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "A Necessary Escape (Part 2)",
+        "url": "https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 503200,
+      "name": "A Necessary Escape (Part 2)",
+      "url": "https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
+        "name": "Oaxaca de Ju\u00e1rez",
+        "url": "https://open.spotify.com/album/3jhwQW4VvN7KUdRhzhhCxu"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Tal Arditi",
+          "url": "https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A"
+        }
+      ],
+      "duration_ms": 278054,
+      "name": "Oaxaca de Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/2K8QNiSGkPB8gKe8c188CA"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 236000,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5sfe15oQuTlwOR0NkLmSOp"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "Oaxaca de Ju\u00e1rez",
-        "url": "https://open.spotify.com/album/3jhwQW4VvN7KUdRhzhhCxu"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Tal Arditi",
-          "url": "https://open.spotify.com/artist/1JkIjayfiEEYvIaUYY4b7A"
-        }
-      ],
-      "duration_ms": 278054,
-      "name": "Oaxaca de Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/2K8QNiSGkPB8gKe8c188CA"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Canone Infinito Xtended",
-        "url": "https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Senni",
-          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Trapped in an Oil Painting",
-      "url": "https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 354306,
       "name": "Love and the Framed Insects",
       "url": "https://open.spotify.com/track/58y66qr6jc5eMTFbrXacL7"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Canone Infinito Xtended",
+        "url": "https://open.spotify.com/album/0e4LkbjCZ3pEEjFSpXQGn1"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Senni",
+          "url": "https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Trapped in an Oil Painting",
+      "url": "https://open.spotify.com/track/2CXI4cnhzLHf4zR3uncwPe"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Total Blue",
         "url": "https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "La Hormiga",
-        "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 133751,
-      "name": "La Hormiga",
-      "url": "https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+        "name": "La Hormiga",
+        "url": "https://open.spotify.com/album/14jVdvucxcnyMieoKd1rwb"
       },
       "artists": [
         {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
         }
       ],
-      "duration_ms": 139184,
-      "name": "Heterodina",
-      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+      "duration_ms": 133751,
+      "name": "La Hormiga",
+      "url": "https://open.spotify.com/track/0pwuRwjgzeOFF8FmB3pjyM"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1383,6 +1367,22 @@
       "duration_ms": 282026,
       "name": "Prism Inversion, Pantanal/La Habana",
       "url": "https://open.spotify.com/track/622N4M8xbptYJdNIOTuUZo"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 139184,
+      "name": "Heterodina",
+      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Kumquat",
         "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Heaven Come Crashing",
-        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Our Wretched Fantasy",
-      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Sigh In My Ear",
         "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 264000,
       "name": "Your First Armadillo",
       "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Heaven Come Crashing",
+        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Our Wretched Fantasy",
+      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+        "name": "Migratory",
+        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
         }
       ],
-      "duration_ms": 334589,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
+      "duration_ms": 216914,
+      "name": "Ocean Flow",
+      "url": "https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Migratory",
-        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
       },
       "artists": [
         {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "duration_ms": 216914,
-      "name": "Ocean Flow",
-      "url": "https://open.spotify.com/track/1v6TpJ9g0QjdLkMqromKCl"
+      "duration_ms": 334589,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
+        "name": "Migratory",
+        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        }
+      ],
+      "duration_ms": 311296,
+      "name": "Tower of Cloud",
+      "url": "https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
         "name": "Lirica Ucraina",
         "url": "https://open.spotify.com/album/4p1swJex2Vd7xPUaHt9sjb"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 201000,
       "name": "Fuggire",
       "url": "https://open.spotify.com/track/4RjoxUEGdbH1xBD0RgpACX"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "Joy Paradox (Reimagined)",
-        "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        }
-      ],
-      "duration_ms": 313641,
-      "name": "Recompose - In Nature",
-      "url": "https://open.spotify.com/track/3WdNEYkSo7d6E9EKJLIaSe"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1895,18 +1895,34 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Migratory",
-        "url": "https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv"
+        "name": "Joy Paradox (Reimagined)",
+        "url": "https://open.spotify.com/album/4L0ugCc2D3eFwuSV7nPonU"
       },
       "artists": [
         {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
         }
       ],
-      "duration_ms": 311296,
-      "name": "Tower of Cloud",
-      "url": "https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria"
+      "duration_ms": 313641,
+      "name": "Recompose - In Nature",
+      "url": "https://open.spotify.com/track/3WdNEYkSo7d6E9EKJLIaSe"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "QQQQ",
+        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 256579,
+      "name": "COMBAT",
+      "url": "https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -1927,22 +1943,6 @@
       "duration_ms": 152500,
       "name": "Worms In",
       "url": "https://open.spotify.com/track/2cb4G4H8rJ5JqueU6hr25X"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "QQQQ",
-        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 256579,
-      "name": "COMBAT",
-      "url": "https://open.spotify.com/track/6P4tx1EUztDygxuZ6RyRSs"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2155,18 +2155,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+        "name": "After the Rain",
+        "url": "https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "Cole Pulice",
+          "url": "https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh"
         }
       ],
-      "duration_ms": 184120,
-      "name": "Doff",
-      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
+      "duration_ms": 540883,
+      "name": "After the Rain",
+      "url": "https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "After the Rain",
-        "url": "https://open.spotify.com/album/5wPmRnCE9RttrYzug8zFyp"
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
       },
       "artists": [
         {
-          "name": "Cole Pulice",
-          "url": "https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 540883,
-      "name": "After the Rain",
-      "url": "https://open.spotify.com/track/7o20ATLEOEw9xpAN1dx9Rn"
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/4PP9pDce3hXmHNNHcgp2I8"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Water Still Flows",
-        "url": "https://open.spotify.com/album/5uPmJJBPxrrSbIjvUjEbXB"
-      },
-      "artists": [
-        {
-          "name": "Rich Ruth",
-          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
-        }
-      ],
-      "duration_ms": 393320,
-      "name": "God Won't Speak",
-      "url": "https://open.spotify.com/track/7qWgh1aq5S79TCXAly1ypm"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Kinder der Sonne (From \"Komplizen\")",
         "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
       },
@@ -2303,18 +2287,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Mind Over Matter",
-        "url": "https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC"
+        "name": "Water Still Flows",
+        "url": "https://open.spotify.com/album/5uPmJJBPxrrSbIjvUjEbXB"
       },
       "artists": [
         {
-          "name": "Arborra",
-          "url": "https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK"
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
         }
       ],
-      "duration_ms": 164385,
-      "name": "Where In The World",
-      "url": "https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7"
+      "duration_ms": 393320,
+      "name": "God Won't Speak",
+      "url": "https://open.spotify.com/track/7qWgh1aq5S79TCXAly1ypm"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2335,18 +2319,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Pantone 6",
-        "url": "https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8"
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/4eTMcDeZNdsTivV59ClWTC"
       },
       "artists": [
         {
-          "name": "To Rococo Rot",
-          "url": "https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a"
+          "name": "Arborra",
+          "url": "https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK"
         }
       ],
-      "duration_ms": 241930,
-      "name": "Pantone 6",
-      "url": "https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk"
+      "duration_ms": 164385,
+      "name": "Where In The World",
+      "url": "https://open.spotify.com/track/1x2DBc1N9dXorxIhNqSjW7"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2363,6 +2347,46 @@
       "duration_ms": 273788,
       "name": "System Verse",
       "url": "https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Pantone 6",
+        "url": "https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8"
+      },
+      "artists": [
+        {
+          "name": "To Rococo Rot",
+          "url": "https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a"
+        }
+      ],
+      "duration_ms": 241930,
+      "name": "Pantone 6",
+      "url": "https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Firephly",
+          "url": "https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K"
+        }
+      ],
+      "duration_ms": 425000,
+      "name": "A Model Of Reality - Firephly Remix",
+      "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2399,46 +2423,6 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        },
-        {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Firephly",
-          "url": "https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K"
-        }
-      ],
-      "duration_ms": 425000,
-      "name": "A Model Of Reality - Firephly Remix",
-      "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "Music to Watch Seeds Grow By 003: Graintable (Blue Flax)",
-        "url": "https://open.spotify.com/album/7Biwp91nueC53JYdwbDk0a"
-      },
-      "artists": [
-        {
-          "name": "Graintable",
-          "url": "https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG"
-        }
-      ],
-      "duration_ms": 262645,
-      "name": "Netsuke From The Garden",
-      "url": "https://open.spotify.com/track/7yDZCtUYyBC1dglmHKIsby"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
@@ -2471,6 +2455,22 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
+        "name": "Music to Watch Seeds Grow By 003: Graintable (Blue Flax)",
+        "url": "https://open.spotify.com/album/7Biwp91nueC53JYdwbDk0a"
+      },
+      "artists": [
+        {
+          "name": "Graintable",
+          "url": "https://open.spotify.com/artist/0NXPdtXsGvsPSQ68kmFqfG"
+        }
+      ],
+      "duration_ms": 262645,
+      "name": "Netsuke From The Garden",
+      "url": "https://open.spotify.com/track/7yDZCtUYyBC1dglmHKIsby"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
         "name": "In Time",
         "url": "https://open.spotify.com/album/5ORhEyIhj3zvUSpzwkLf9V"
       },
@@ -2483,6 +2483,22 @@
       "duration_ms": 580992,
       "name": "In Time",
       "url": "https://open.spotify.com/track/4kW70csQpDODpJHf6h7V7P"
+    },
+    {
+      "added_at": "2025-08-26 15:36:31",
+      "album": {
+        "name": "Eleven Fugues For Sodium Pentothal",
+        "url": "https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A"
+      },
+      "artists": [
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
+        }
+      ],
+      "duration_ms": 129037,
+      "name": "Dim Hopes",
+      "url": "https://open.spotify.com/track/7yNH2twHv2Tk90prpWlwIV"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2507,18 +2523,18 @@
     {
       "added_at": "2025-08-26 15:36:31",
       "album": {
-        "name": "Eleven Fugues For Sodium Pentothal",
-        "url": "https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A"
+        "name": "Films That Start with Rain",
+        "url": "https://open.spotify.com/album/0I7RaIu3FKZLZWsNoQaNN1"
       },
       "artists": [
         {
-          "name": "Adam Wiltzie",
-          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
+          "name": "Hele",
+          "url": "https://open.spotify.com/artist/4DZZXFmpCO9HuXxqknSaFc"
         }
       ],
-      "duration_ms": 129037,
-      "name": "Dim Hopes",
-      "url": "https://open.spotify.com/track/7yNH2twHv2Tk90prpWlwIV"
+      "duration_ms": 228146,
+      "name": "Films That Start with Rain",
+      "url": "https://open.spotify.com/track/1yLPif0JrbY8fzGGUoTUlH"
     },
     {
       "added_at": "2025-08-26 15:36:31",
@@ -2535,22 +2551,6 @@
       "duration_ms": 221826,
       "name": "Sumerian Green",
       "url": "https://open.spotify.com/track/1clrCBwtMxOc9KoZLh1Iy4"
-    },
-    {
-      "added_at": "2025-08-26 15:36:31",
-      "album": {
-        "name": "Films That Start with Rain",
-        "url": "https://open.spotify.com/album/0I7RaIu3FKZLZWsNoQaNN1"
-      },
-      "artists": [
-        {
-          "name": "Hele",
-          "url": "https://open.spotify.com/artist/4DZZXFmpCO9HuXxqknSaFc"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Films That Start with Rain",
-      "url": "https://open.spotify.com/track/1yLPif0JrbY8fzGGUoTUlH"
     },
     {
       "added_at": "2025-08-26 15:36:31",

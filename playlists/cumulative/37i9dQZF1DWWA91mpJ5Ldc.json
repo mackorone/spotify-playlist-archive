@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "P\u00c9ROLAS",
+        "url": "https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "P\u00c9ROLAS",
+      "url": "https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN"
+    },
+    {
+      "album": {
         "name": "Para Dias Ruins",
         "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 212540,
       "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"

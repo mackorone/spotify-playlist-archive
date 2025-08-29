@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec disiz
+> Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-204 songs - 11 hr 16 min
+206 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,10 +107,11 @@
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-27 | 2024-10-04 |
 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 | 2025-06-19 |  |
 | [Le mauvais garçon](https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [Le mauvais garçon](https://open.spotify.com/album/0bixY4p5CCGmoO8Btr9676) | 3:07 | 2024-12-05 | 2025-04-25 |
+| [Le retour des beaux jours](https://open.spotify.com/track/7yFFmbTlVZZHW33AdcMBKP) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/45IfEOM2tJVHxpNiC9uOmG) | 3:35 | 2025-08-28 |  |
 | [Le rivage](https://open.spotify.com/track/0NAAqdRd9ZJhFCk6fm4IXF) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Le rivage](https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9) | 2:35 | 2025-03-13 | 2025-08-01 |
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 | 2024-11-08 |
 | [Le secret](https://open.spotify.com/track/1iLTV03L1kSo2M5AN0z3BE) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Le secret](https://open.spotify.com/album/2pkqJCNYaXmJdHNOKN66Zq) | 3:05 | 2024-11-14 | 2025-01-11 |
-| [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 | 2025-03-27 |  |
+| [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 | 2025-03-27 | 2025-08-29 |
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 | 2025-02-20 | 2025-05-16 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
@@ -175,7 +176,7 @@
 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 | 2024-09-19 | 2025-01-24 |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 | 2024-11-29 |
 | [Rêveur, Rêveur](https://open.spotify.com/track/63qs1xM7ReJTFEi3pKdN3R) | [Louis Chedid](https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn) | [Rêveur, Rêveur](https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB) | 2:57 | 2024-11-14 | 2024-11-29 |
-| [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 | 2025-03-20 |  |
+| [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 | 2025-03-20 | 2025-08-29 |
 | [SAKTI](https://open.spotify.com/track/4TYbR1TD6OQc6WyOHmFNub) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAKTI](https://open.spotify.com/album/6itM1YkHGuEUOtV4WEVV2a) | 3:14 | 2024-06-27 | 2024-10-18 |
 | [Salut](https://open.spotify.com/track/1JKaVKszQvRRRWkC4Jl7NE) | [Côme Ranjard](https://open.spotify.com/artist/40PTFLX9GHiZm6sF2RCCoz) | [Salut](https://open.spotify.com/album/2JrNI1AjKnD11vR5Gn4hXo) | 3:42 | 2024-08-29 | 2024-09-20 |
 | [sapon](https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [contrebande 02\. le disque de l'été](https://open.spotify.com/album/5TB3BEqeBapkuKPe4adFbG) | 3:10 | 2024-06-27 | 2024-10-18 |
@@ -208,6 +209,7 @@
 | [à l'autre bout du tel](https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [à l'autre bout du tel](https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum) | 3:33 | 2025-06-05 |  |
 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 | 2024-08-29 | 2024-11-22 |
 | [À quoi tu penses ?](https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H), [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x), [Pierre Souchon](https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ) | [À quoi tu penses ?](https://open.spotify.com/album/4OBljJluufDECpKXqDs27P) | 3:20 | 2025-01-30 | 2025-07-11 |
+| [Ça va](https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Ça va](https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl) | 3:14 | 2025-08-28 |  |
 | [Éclaircie sur le jardin](https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [L’impermanence](https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN) | 2:25 | 2024-12-05 | 2025-01-31 |
 | [Été 19](https://open.spotify.com/track/2ZQkK63KQfTp9PzUH9bgok) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 2:59 | 2024-11-21 | 2025-01-17 |
 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 | 2025-05-15 |  |

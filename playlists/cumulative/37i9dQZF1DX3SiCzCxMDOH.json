@@ -4025,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Summer",
+        "url": "https://open.spotify.com/album/4KRl6cqIYQcDQ2UtSDQ4mm"
+      },
+      "artists": [
+        {
+          "name": "The 52nd Street Club",
+          "url": "https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194567,
+      "name": "Echoes of Summer",
+      "url": "https://open.spotify.com/track/4Zjr6BJUHbJniyT8hXHC26"
+    },
+    {
+      "album": {
         "name": "Echoes Of You",
         "url": "https://open.spotify.com/album/10EiwKj6O9sd9hzdZCxXe8"
       },
@@ -7744,7 +7762,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 228738,
       "name": "Just Ourselves",
       "url": "https://open.spotify.com/track/08G11yzcwoMuJrUy4ucLge"
@@ -9220,7 +9238,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 262707,
       "name": "Maze of Tranquility",
       "url": "https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp"
@@ -16350,6 +16368,24 @@
       "duration_ms": 289945,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z"
+    },
+    {
+      "album": {
+        "name": "When I Was Yours",
+        "url": "https://open.spotify.com/album/0s7ihgzcnczatG62r5PI41"
+      },
+      "artists": [
+        {
+          "name": "Douglas Ruby Trio",
+          "url": "https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223757,
+      "name": "When I Was Yours",
+      "url": "https://open.spotify.com/track/4xoijX1lySMC1oeffLMwxy"
     },
     {
       "album": {

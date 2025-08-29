@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,741 likes - 90 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,753 likes - 90 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 2 | [You Never Show Your Love \- Teklife Mix](https://open.spotify.com/track/6mQYuYZKOVACLwV1pUGe5G) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [You Never Show Your Love](https://open.spotify.com/album/4CTzq9lmRvcZCU5pFuJWyZ) | 4:04 |
 | 3 | [XTC](https://open.spotify.com/track/3uoYHTXZI3TMH7R4QJuIP7) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 5:35 |
-| 4 | [WTF! \- Original Mix](https://open.spotify.com/track/3UjxXcg6FOsn34jtYfzrJG) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7) | [WTF!](https://open.spotify.com/album/0SkVVDve9z8c82Pv4lbgFg) | 4:06 |
+| 4 | [WTF!](https://open.spotify.com/track/3UjxXcg6FOsn34jtYfzrJG) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [MoonDoctoR](https://open.spotify.com/artist/5bVR7EKHmtLsjjE7MtCIm7), [FreshtillDef](https://open.spotify.com/artist/503Cv0ES3BtLIqnp95So1N) | [WTF!](https://open.spotify.com/album/0SkVVDve9z8c82Pv4lbgFg) | 4:06 |
 | 5 | [Walk It Out](https://open.spotify.com/track/0ahg93hZiQUPpzbi7gf4nT) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Fly Juice EP](https://open.spotify.com/album/0sjEmyMNDytxDLC1gmuE1b) | 4:01 |
 | 6 | [Love Pressure](https://open.spotify.com/track/23ewztfwfSuULU946Dn96d) | [Sepalcure](https://open.spotify.com/artist/2MPSxDniHj2BKV7GSSOFMA) | [Love Pressure](https://open.spotify.com/album/0ZvTHbulGkprF5000GSBcK) | 4:09 |
 | 7 | [DON'T WANT U](https://open.spotify.com/track/41ueb4xBWRyysuOZXH6gGj) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:27 |

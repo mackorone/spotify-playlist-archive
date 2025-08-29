@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto:Chinoy
 
-314 songs - 19 hr 54 min
+315 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dormir En Cadenas](https://open.spotify.com/track/27voMIbulE2GdVxchzuV0a) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Nuevos Paisajes](https://open.spotify.com/album/35sSZGSyZEcHMkNPcAZuHB) | 4:29 | 2023-10-13 | 2024-02-20 |
 | [Dormir en Cadenas](https://open.spotify.com/track/1KgQYMZgyY7c1eGk0MVzvq) | [Cede](https://open.spotify.com/artist/5gg0cZdcWGowFq4M0PiO7C) | [Dormir en Cadenas](https://open.spotify.com/album/6qCPo2VJtEa7o9lRLCvzWu) | 4:30 | 2022-04-08 | 2022-07-27 |
 | [Dual](https://open.spotify.com/track/0RFhbOwk4IWANsiZGeedTr) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:24 | 2023-06-23 | 2024-03-09 |
-| [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 | 2022-04-08 |  |
+| [Dual](https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX) | 4:24 | 2022-04-08 | 2025-08-29 |
 | [Dual](https://open.spotify.com/track/2DZ3nXTxxmwBe9f7D7ruFE) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Dual](https://open.spotify.com/album/6PPyGzsdOpAwX1RQBakY5Y) | 4:24 | 2023-03-03 | 2023-06-27 |
 | [Déjate Caer \- 2024](https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta](https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V) | 3:22 | 2024-03-08 |  |
 | [Eclipse](https://open.spotify.com/track/5oWhkOd58YO5LzNvIwCSG3) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Eclipse](https://open.spotify.com/album/1vcXzG08KpYWIKU6QVGp6I) | 5:19 | 2022-04-08 | 2024-08-31 |
@@ -269,6 +269,7 @@
 | [surfing caracol](https://open.spotify.com/track/2B5vdXagsT3RN8uGzBdeTk) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rapida comida](https://open.spotify.com/album/1huDYq4RA3dB74HmvtTqg5) | 2:04 | 2022-04-08 | 2022-07-20 |
 | [Surfing caracol](https://open.spotify.com/track/41xLPySJ8th6QbO0aEKrBd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rápida Comida](https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid) | 2:04 | 2022-09-23 | 2024-04-19 |
 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 | 2022-04-08 | 2024-08-31 |
+| [Te amodio](https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk) | [Te Amodio](https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes) | 3:14 | 2025-08-28 |  |
 | [Te Mueres \- En Vivo](https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Mueres](https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub) | 6:46 | 2022-04-08 | 2022-10-08 |
 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 | 2022-08-26 |  |
 | [Time Bazaar](https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Time Bazaar](https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR) | 3:56 | 2022-04-08 | 2023-03-03 |

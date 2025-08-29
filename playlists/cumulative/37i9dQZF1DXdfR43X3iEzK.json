@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "my alt/pop could mean anything\ncover: luvcat \ud83d\ude33",
+  "description": "my alt/pop could mean anything \u2694\ufe0f cover: artemas ",
   "name": "alt/pop",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 197234,
       "name": "#1",
       "url": "https://open.spotify.com/track/3CpV327Qk2H9KQCzns92bx"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 127888,
       "name": "As Scared As Can Be",
       "url": "https://open.spotify.com/track/1yjXEIowi1Rp64zlkYnxvn"
@@ -732,6 +732,24 @@
       "duration_ms": 224700,
       "name": "babygirl (like n01 else)",
       "url": "https://open.spotify.com/track/3kBOW8cxHKciSs8fesdjho"
+    },
+    {
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204674,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/4MIyiOOiMv10ybKL0N3hQN"
     },
     {
       "album": {
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 194171,
       "name": "Bones And All",
       "url": "https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 204988,
       "name": "David",
       "url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 208801,
       "name": "Got Something Good",
       "url": "https://open.spotify.com/track/4Z0COCJu249UEx0KEkzsoi"
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 172653,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/2wZz5mg6quvxbVwJhb6DHU"
@@ -4285,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "IT'S HARD (to be a Man)",
+        "url": "https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180267,
+      "name": "IT'S HARD (to be a Man)",
+      "url": "https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss"
+    },
+    {
+      "album": {
         "name": "misfit.",
         "url": "https://open.spotify.com/album/4DMku5uHZbI91xDhHU4PIG"
       },
@@ -4458,7 +4494,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 161146,
       "name": "Keep My Cool",
       "url": "https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l"
@@ -5108,7 +5144,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 195371,
       "name": "madonna",
       "url": "https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx"
@@ -6802,7 +6838,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 233187,
       "name": "See The Stars",
       "url": "https://open.spotify.com/track/7JAPlyO7GpNJkfUsbUDJ3F"
@@ -7772,7 +7808,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 193732,
       "name": "The Influencer",
       "url": "https://open.spotify.com/track/3RmfInL24wjZfWr6MNohKs"
@@ -7939,7 +7975,7 @@
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229011,
+      "duration_ms": 229009,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
     },
@@ -7978,6 +8014,24 @@
       "duration_ms": 188852,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/5SpOH9eTlrWYbQbpqsTkEY"
+    },
+    {
+      "album": {
+        "name": "eat me alive / u don't have to tell me",
+        "url": "https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135919,
+      "name": "u don't have to tell me",
+      "url": "https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF"
     },
     {
       "album": {
@@ -8127,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "album": {
         "name": "Common People",
         "url": "https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu"
       },
@@ -8272,6 +8344,24 @@
       "duration_ms": 158739,
       "name": "Whatcha Mean",
       "url": "https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "album": {

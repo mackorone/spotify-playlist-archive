@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-614 songs - 1 day 11 hr 2 min
+615 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Back There](https://open.spotify.com/track/0NBFHo21e5tX6nZdIjAIhT) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 2:02 | 2022-03-25 | 2022-10-01 |
 | [Bad Behaviour \- Busty and the Bass Remix](https://open.spotify.com/track/7wEhnDrdSm7bUAl5g1jDX8) | [Blue Belly](https://open.spotify.com/artist/03bICu3gRRsxcnjEpG6u3g), [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Bad Behaviour \(Busty and the Bass Remix\)](https://open.spotify.com/album/1jeYjFGaJvNoC3VgrPdxKE) | 3:43 | 2022-03-25 | 2022-04-16 |
 | [Baleine et moi \(take 10\)](https://open.spotify.com/track/1qKGgaZnRL3dQxJqFWrWE9) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Baleine et moi \(take 10\) / Portrait d'une Marianne](https://open.spotify.com/album/5kx9LSIXnSrQCC8GYgxC4R) | 4:25 | 2022-11-21 | 2023-01-28 |
+| [Beau Bassin](https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Beau Bassin](https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb) | 2:37 | 2025-08-28 |  |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-25 | 2022-10-22 |
 | [Beaux yeux](https://open.spotify.com/track/10JgZbQ9rStUkJcUB0SY5R) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Beaux yeux](https://open.spotify.com/album/71vGN5WKF17AZOuJA5BKpT) | 2:20 | 2025-02-21 |  |
 | [Bermudes](https://open.spotify.com/track/79lTYn64xiWpQaP3AgtFYC) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Bermudes](https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c) | 2:55 | 2024-10-04 | 2025-03-29 |

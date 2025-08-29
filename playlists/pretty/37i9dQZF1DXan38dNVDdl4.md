@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Konshens
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,313 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,265 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 79 | [My Woman](https://open.spotify.com/track/4T3z9vQCpCqZHJazLXiMfd) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi), [Chambah](https://open.spotify.com/artist/6WKWGcRMN83IBGozupiLhS) | [Guarded \- EP](https://open.spotify.com/album/0HfUgNY3Sj0sZuFLskCP2E) | 3:06 |
 | 80 | [Earth a Hell \(with Mavado\)](https://open.spotify.com/track/71DmdPgo1mhjzVyJAiCN0S) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Earth a Hell \(with Mavado\)](https://open.spotify.com/album/5w7wLLtzD6ZIt8p55oKk0O) | 2:48 |
 
-Snapshot ID: `AAAAAPvMLZ7V0q4o2c8DYqQv442Vigvq`
+Snapshot ID: `AAAAAAe0LTCN0kHFETBrnDZwETUxG6AN`

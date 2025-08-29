@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some calm and cool Jazz
 
-731 songs - 1 day 19 hr 18 min
+732 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Her Conversation](https://open.spotify.com/track/6K2aRbro2PrqBu5r48tFsG) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Her Conversation](https://open.spotify.com/album/3n3QOFYssFytooqKAsSPXj) | 3:31 | 2025-03-18 | 2025-07-16 |
 | [Here's That Rainy Day](https://open.spotify.com/track/2qyXVaQWQMa8TvzB71EmWE) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Here's That Rainy Day](https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG) | 3:47 | 2023-03-23 | 2024-11-12 |
 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 | 2023-11-17 |  |
+| [Holding a moment](https://open.spotify.com/track/0s03POMpbhDKboD5UQqKBf) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Holding a moment](https://open.spotify.com/album/2ei3iALNMyyMjiZmFZ7Yed) | 4:04 | 2025-08-28 |  |
 | [Holograms](https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Holograms](https://open.spotify.com/album/32TK2PRS6wBvm4JIM9DdNk) | 3:52 | 2023-02-23 | 2024-10-02 |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
 | [Home town](https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Home town](https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr) | 2:58 | 2023-01-12 |  |
@@ -246,7 +247,7 @@
 | [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 | 2024-11-12 |
 | [I Can Always Tell](https://open.spotify.com/track/5PWDSQk8KukXxtUoclRCYf) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [I Can Always Tell](https://open.spotify.com/album/4yGXyO00Pq6xd8561J8vg8) | 3:23 | 2024-02-23 | 2025-02-11 |
 | [I Can't Get Started](https://open.spotify.com/track/0bAD35qAAMrn6c37PTJ36r) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [I Can't Get Started](https://open.spotify.com/album/3MspyES9KjpsxXTuZrrzrf) | 2:31 | 2025-01-27 |  |
-| [I can’t believe](https://open.spotify.com/track/51vjomXA33xkClM7msfQfd) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [I can’t believe](https://open.spotify.com/album/0OLO1urC70IFB2gX6XHUsM) | 3:30 | 2025-03-24 |  |
+| [I can’t believe](https://open.spotify.com/track/51vjomXA33xkClM7msfQfd) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [I can’t believe](https://open.spotify.com/album/0OLO1urC70IFB2gX6XHUsM) | 3:30 | 2025-03-24 | 2025-08-29 |
 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 | 2022-05-17 | 2023-03-25 |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 | 2024-06-25 |
 | [I Could Have Danced All Night](https://open.spotify.com/track/4joWQeG1gfrqk8Vclbkl6B) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 6:47 | 2022-05-17 | 2022-08-30 |

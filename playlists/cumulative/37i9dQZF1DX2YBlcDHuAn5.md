@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-241 songs - 14 hr 17 min
+244 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-04 | 2025-01-17 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-05-22 |  |
 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2023-09-07 | 2024-09-20 |
+| [Everlastingly](https://open.spotify.com/track/4adqsG2XY26kxpZlQSLyY4) | [The Martial](https://open.spotify.com/artist/4BHKObtnIJsk0jcli22C5L) | [Everlastingly](https://open.spotify.com/album/09qQhI75Wea2oUagJtYNJe) | 3:14 | 2025-08-28 |  |
 | [Eye of the Storm](https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4), [Jop Dorris](https://open.spotify.com/artist/5t2SmFNNI1Si5LssCNsrS3) | [Eye of the Storm](https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp) | 3:45 | 2025-04-25 | 2025-08-27 |
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 | 2023-08-17 | 2025-01-17 |
@@ -72,6 +73,7 @@
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 | 2024-06-13 | 2025-04-14 |
 | [Flowers in the Fields](https://open.spotify.com/track/5FLPIPTV1R8g4gcQEcFcGB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Flowers in the Fields](https://open.spotify.com/album/0PRGDUzgoxuwujJqD57qLB) | 3:06 | 2024-08-01 | 2025-01-17 |
+| [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 | 2025-08-28 |  |
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2024-08-30 |
 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 | 2025-05-15 |  |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
@@ -138,7 +140,7 @@
 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 | 2024-04-11 | 2024-04-19 |
 | [Love to See You Cry](https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD) | [Love to See You Cry](https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD) | 4:22 | 2023-10-05 | 2025-01-17 |
 | [Love You So](https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Love You So](https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55) | 3:14 | 2023-03-16 | 2024-09-13 |
-| [Lucky](https://open.spotify.com/track/75Fd3PedFwTzjiDzYcBDHr) | [Dolce Beringer](https://open.spotify.com/artist/0QRS1CtPmAumRtBjDOdKZU) | [Lucky](https://open.spotify.com/album/6ohdMJxq8bARSiRs4V3hny) | 3:17 | 2025-07-17 |  |
+| [Lucky](https://open.spotify.com/track/75Fd3PedFwTzjiDzYcBDHr) | [Dolce Beringer](https://open.spotify.com/artist/0QRS1CtPmAumRtBjDOdKZU) | [Lucky](https://open.spotify.com/album/6ohdMJxq8bARSiRs4V3hny) | 3:17 | 2025-07-17 | 2025-08-29 |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2023-02-23 | 2023-10-06 |
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-17 |  |
 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 | 2023-02-23 | 2023-09-01 |
@@ -236,6 +238,7 @@
 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2024-09-26 |  |
 | [Whatever Turns You On](https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV) | 2:04 | 2023-04-27 | 2024-04-19 |
 | [Whatever Turns You On](https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/2P77B79bBTT8GHjs1BrmZI) | 2:04 | 2023-02-23 | 2024-09-13 |
+| [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 | 2025-08-28 |  |
 | [When It's Through](https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Brand New Life](https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU) | 2:33 | 2024-05-25 | 2024-08-30 |
 | [When Lovers Become Friends](https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [When Lovers Become Friends](https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l) | 3:59 | 2023-05-11 | 2025-01-17 |
 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 | 2023-02-23 | 2024-06-28 |
@@ -246,7 +249,7 @@
 | [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-09 |  |
 | [Win My Heart](https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4) | [Mycah](https://open.spotify.com/artist/11LEf5PXavWVHgzSLXcaeV) | [Win My Heart](https://open.spotify.com/album/5rtIZDLfrJ5k2mtnvcaPu1) | 3:50 | 2024-09-19 | 2024-11-09 |
 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 | 2025-04-17 |  |
-| [Won't Let 'Em Get Along](https://open.spotify.com/track/1QbrlKumzE3OHPOLDogetM) | [JOASH](https://open.spotify.com/artist/0lyPU5DtC3T67GiEtJ2SJX) | [Won't Let 'Em Get Along](https://open.spotify.com/album/2tr18iimucQdn3ptjsZRaz) | 3:53 | 2025-08-14 |  |
+| [Won't Let 'Em Get Along](https://open.spotify.com/track/1QbrlKumzE3OHPOLDogetM) | [JOASH](https://open.spotify.com/artist/0lyPU5DtC3T67GiEtJ2SJX) | [Won't Let 'Em Get Along](https://open.spotify.com/album/2tr18iimucQdn3ptjsZRaz) | 3:53 | 2025-08-14 | 2025-08-29 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 | 2023-09-22 |
 | [Young At Heart](https://open.spotify.com/track/1EmCT6WLXdn6WMagoOtsXy) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS) | [Young At Heart](https://open.spotify.com/album/5wnk5LWQOATrZmAz0x1VUX) | 5:23 | 2024-11-08 | 2025-02-05 |
 

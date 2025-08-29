@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 陳蕾 Panther Chan
+> 感受女聲力量。Cover: Cath黃妍
 
-549 songs - 1 day 8 hr 41 min
+553 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [DRUNK DIAL](https://open.spotify.com/track/6cCZ3sjNNwAFF2q7mUpY5X) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [DRUNK DIAL](https://open.spotify.com/album/6gwaYFmhFno0FWnjWfMJH3) | 3:38 | 2024-07-25 |  |
 | [DTR](https://open.spotify.com/track/6ybBP43qQcKEGeDbZVflZu) | [VIVA](https://open.spotify.com/artist/662zDVWmEH6bK7P5FaQ7GY) | [DTR](https://open.spotify.com/album/2OnNKK0pybBa1p9oWy2ZMp) | 2:34 | 2024-08-01 |  |
 | [Dum Dum](https://open.spotify.com/track/3hfAcz6q8GmeHoC9gPS6Vn) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dum Dum](https://open.spotify.com/album/0Ov3I6NuDV5d41mZhvSc9f) | 3:05 | 2024-06-27 |  |
+| [Dun Waste My Time](https://open.spotify.com/track/4CEN1KywvQZ0YogpZvwrN3) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [Dun Waste My Time](https://open.spotify.com/album/5DYJRAZSrZt0vipdVwAmBB) | 3:08 | 2025-08-28 |  |
 | [Eye to Eye](https://open.spotify.com/track/1M7etW6Eh6EL3Rh4jIXuRk) | [Me&](https://open.spotify.com/artist/4MbLZsgkHJF3xq52M6ACgr) | [Eye to Eye](https://open.spotify.com/album/1FkHpK7wESNrJ3S3xnXEAO) | 3:27 | 2024-06-27 |  |
 | [eyes on me.](https://open.spotify.com/track/5AVSje7hjvmKjxJEN3s26m) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [eyes on me.](https://open.spotify.com/album/20NvVPIJJkNPeXUR6Xcf1Q) | 3:30 | 2024-08-01 |  |
 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 | 2024-06-27 |  |
@@ -301,6 +302,7 @@
 | [單身不會死](https://open.spotify.com/track/6VVCbUi2Bn7MfMDXZSV8ss) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [單身不會死](https://open.spotify.com/album/5BqAONqMf65GyxBQAIKbYc) | 2:42 | 2025-08-14 |  |
 | [喵喵厭世學](https://open.spotify.com/track/5Cex2CJTLDN1bWbtF9RZ8W) | [黃健怡](https://open.spotify.com/artist/7qajreH6nUWuPXAoW2BFSb) | [喵喵厭世學](https://open.spotify.com/album/7kEm3PHPvDwFbVDIMXXuwV) | 4:01 | 2024-06-27 |  |
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 |  |
+| [回望](https://open.spotify.com/track/5EYHwU9P9ziWeR2nkn16sT) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [回望](https://open.spotify.com/album/452SLZP43DIZBvND4JPr87) | 3:35 | 2025-08-28 |  |
 | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \(劇集《企業強人》片尾曲\)](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 | 2024-09-19 |  |
 | [垃圾女星](https://open.spotify.com/track/2tAHyOEk02Ao7hGMazvaFg) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [垃圾女星](https://open.spotify.com/album/7hIgg1r3CdA8OgHHbFCDtN) | 3:31 | 2024-06-27 |  |
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 |  |
@@ -333,6 +335,7 @@
 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 | 2024-06-27 |  |
 | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/track/5ZqIDd1adGJHhILcPXeE6Y) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/album/6IUuElV1sctU8hirdTyieP) | 3:33 | 2024-06-27 |  |
 | [平凡的我重生](https://open.spotify.com/track/4S9sYZnRHkxxkuCfRSRo7M) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [平凡的我重生](https://open.spotify.com/album/5cqlRpVY9pBdwpTwSjULnt) | 3:40 | 2024-06-27 |  |
+| [幸運兒](https://open.spotify.com/track/6Z4siL1lRnQxQo2AvIcle0) | [Kira Chan](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [幸運兒](https://open.spotify.com/album/0sLKkpNhNZS3P3e7Hxg4fl) | 4:15 | 2025-08-28 |  |
 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 | 2024-06-27 |  |
 | [弄哭男孩子](https://open.spotify.com/track/10K6w1fJp52uMQLgXCKQW9) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [弄哭男孩子](https://open.spotify.com/album/4KXX3XI6XzME9ZpAHt3I9P) | 4:25 | 2024-06-27 |  |
 | [引我笑](https://open.spotify.com/track/5NV6UYomi1d0o02vPEi0nm) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [引我笑](https://open.spotify.com/album/6a8DC52Ao3RD86JQM0RU9M) | 3:17 | 2024-09-05 |  |
@@ -382,6 +385,7 @@
 | [我養你 Pamper Ü](https://open.spotify.com/track/2xHtMhtGFjKGNZ6AibKDpz) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [我養你 Pamper Ü](https://open.spotify.com/album/6BDOJxX6c4XbgBWkYT1VB6) | 2:56 | 2024-09-19 |  |
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2024-06-27 |  |
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2024-06-27 |  |
+| [把自己還給自己](https://open.spotify.com/track/6lqZDNLv855czAX2ZZ5iBO) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [把自己還給自己](https://open.spotify.com/album/5xP3bpxRTd0LnBT4rlgqEv) | 3:18 | 2025-08-28 |  |
 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 | 2024-06-27 |  |
 | [拯救我自己](https://open.spotify.com/track/4cAiQJTsXtFeuprgYtEWfz) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [拯救我自己](https://open.spotify.com/album/7Lc3darGqlfHrzAKp9vSmv) | 3:50 | 2024-06-27 |  |
 | [接住](https://open.spotify.com/track/3P7xcO3UKI6c5SVjFFK7Id) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [接住](https://open.spotify.com/album/4GPqgcqnfoaNKHzXmqEKPQ) | 3:43 | 2025-08-07 |  |

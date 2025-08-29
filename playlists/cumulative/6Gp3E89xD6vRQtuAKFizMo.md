@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-491 songs - 23 hr 39 min
+492 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [I Don't Miss U](https://open.spotify.com/track/5yHpXftp1WadoINgFucZTz) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:43 | 2022-09-23 | 2022-12-10 |
 | [I Don't Need](https://open.spotify.com/track/4tprhjwyw50wkDHk2uEmyT) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Rock It](https://open.spotify.com/album/0Va6IqwgpkDhMjHgZzt2qq) | 3:25 | 2024-07-19 | 2025-04-27 |
 | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/track/6UqFkScHnQt2nOBXqUKEHp) | [KULTIVATE](https://open.spotify.com/artist/6ZeCz9p9x3KPpHTGD16vlL), [BLASE](https://open.spotify.com/artist/7EABimSw8VPqaOEfQHMMj0) | [I Don't Need You \(feat\. Blasé\)](https://open.spotify.com/album/3EyhxTmX8kx4C6RNfWbdIp) | 3:29 | 2023-05-26 | 2025-04-27 |
+| [I Got Soul \(Super Bad\)](https://open.spotify.com/track/41LxUALaLM5fnPTEexCN9g) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [I Got Soul \(Super Bad\)](https://open.spotify.com/album/3H0ootot0DGXzvmq9tQ1EW) | 2:22 | 2025-08-28 |  |
 | [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/track/5g25NbR1XTe48Wmz17rh7R) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [I Think I Like You \(feat\. CHYL\)](https://open.spotify.com/album/363ZIyafmc3TxEhPuZfoJZ) | 2:57 | 2025-02-21 |  |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/3lxZcsc5oYIXKEXJuUpOhF) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:29 | 2025-06-13 |  |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/0rvkp8K9tBp8LY427LzrZb) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:10 | 2025-06-13 |  |

@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Meja Kunta
 
-158 songs - 10 hr 35 min
+159 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 | 2022-08-05 |  |
 | [Kawaida](https://open.spotify.com/track/2OX2XuzszykpmPMggvG4gY) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kawaida](https://open.spotify.com/album/27adM18YiFgeDsfKNHA4kh) | 3:45 | 2025-08-21 |  |
 | [Kidimbwi](https://open.spotify.com/track/5X2Ah5XTeVnysfZMh5ilY9) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Kidimbwi](https://open.spotify.com/album/75CObft7TmFOtbAUabkTrm) | 6:13 | 2022-08-05 | 2023-12-24 |
-| [Kijitu](https://open.spotify.com/track/1WHmt1c3JRczbNlrZdzEZ7) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Kijitu](https://open.spotify.com/album/6znnG8RlGTPpjUUAGuCT6K) | 2:16 | 2024-05-16 |  |
+| [Kijitu](https://open.spotify.com/track/1WHmt1c3JRczbNlrZdzEZ7) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Kijitu](https://open.spotify.com/album/6znnG8RlGTPpjUUAGuCT6K) | 2:16 | 2024-05-16 | 2025-08-29 |
 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 | 2023-09-14 |  |
 | [Kijumbe](https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Kijumbe](https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG) | 3:22 | 2025-06-05 | 2025-07-18 |
 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 | 2023-09-01 |  |
@@ -73,6 +73,7 @@
 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 | 2022-08-05 |  |
 | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Jetty Mc](https://open.spotify.com/artist/04pRUHmMXLeGtMCInTm142), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx) | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3) | 4:21 | 2025-03-28 |  |
 | [Marejesho](https://open.spotify.com/track/41D9fiXwXEoaIpTcKvop3G) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Hassan Mapenzi](https://open.spotify.com/artist/4yDF3IlkVmivoqjNHXt8Ga) | [Marejesho](https://open.spotify.com/album/4VYG8Q8YNr9fYsO5eLEOpV) | 3:30 | 2025-06-05 | 2025-07-25 |
+| [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 | 2025-08-29 |  |
 | [Mbabaifu](https://open.spotify.com/track/1GM6D0xdZxL7l42m44WLOi) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Shufayna kisauti](https://open.spotify.com/artist/6jrRPmRVu0tp5M56vnaKG0) | [Mbabaifu](https://open.spotify.com/album/28Di56j1gayfBSqetkIag5) | 3:27 | 2022-12-16 | 2023-09-02 |
 | [Mchepuko](https://open.spotify.com/track/12zGv1X0dXwtz7gU2yL0j3) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Mchepuko](https://open.spotify.com/album/3ZJ0RRiA56WsQb3G2M4N6F) | 4:33 | 2023-01-20 | 2025-03-08 |
 | [Mijangiri](https://open.spotify.com/track/6Qni3RIWz9yZDqtaA8D158) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Mijangiri](https://open.spotify.com/album/4YmrTDVjrh1jPi6UfXm5Ly) | 5:51 | 2025-03-28 | 2025-05-02 |

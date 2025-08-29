@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "Eternity (Orchestral Version)",
+        "url": "https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205113,
+      "name": "Eternity - Orchestral Version",
+      "url": "https://open.spotify.com/track/4WL7hA2rs7DFMjfQ8SpX94"
+    },
+    {
+      "album": {
         "name": "Everything I Wanted (Live Version)",
         "url": "https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i"
       },
@@ -908,7 +926,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"

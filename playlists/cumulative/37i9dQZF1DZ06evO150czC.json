@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 317000,
       "name": "Mais Um Dia",
       "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
@@ -980,10 +980,32 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 239211,
       "name": "Prioridade",
       "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+    },
+    {
+      "album": {
+        "name": "Prioridade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255663,
+      "name": "Prioridade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE"
     },
     {
       "album": {
@@ -1104,7 +1126,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 286023,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"

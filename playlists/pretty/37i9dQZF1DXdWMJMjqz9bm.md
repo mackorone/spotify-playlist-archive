@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,272 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,327 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 3 | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX) | 3:14 |
 | 4 | [Do Me Like That](https://open.spotify.com/track/0awBcRfiov8aqQ8dEYbx7F) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Get The Message](https://open.spotify.com/album/4U1dfEX1jrOr0mo0jAuL35) | 3:31 |
 | 5 | [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 |
-| 6 | [poser](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
+| 6 | [POSER](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
 | 7 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 | 8 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 9 | [LIVE RIGHT](https://open.spotify.com/track/6zt0h7qdpcVr2OOTRUJTqg) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH](https://open.spotify.com/album/17BbrYyPUMl3zpcKo7gHML) | 3:39 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Claydee, Katerina",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sicario, Konstantinos Argiros, SNIK",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -794,6 +794,24 @@
       "duration_ms": 179498,
       "name": "Ax Kardia Mou",
       "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
+    },
+    {
+      "album": {
+        "name": "AYGOUSTOS",
+        "url": "https://open.spotify.com/album/38MeanPBHZa6IFFAAeq4xi"
+      },
+      "artists": [
+        {
+          "name": "Danae",
+          "url": "https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150680,
+      "name": "AYGOUSTOS",
+      "url": "https://open.spotify.com/track/2klGl2ub6l3empTt8NcpfI"
     },
     {
       "album": {
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 194876,
       "name": "\u0391\u03c0\u03cc\u03c8\u03b5",
       "url": "https://open.spotify.com/track/4IIUn9OE6dfk078WfJigiB"

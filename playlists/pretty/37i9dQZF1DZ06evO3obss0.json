@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 127102,
+  "num_followers": 127268,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAADsMqioQmF3aFR/gefX3ofw",
+  "snapshot_id": "aK5KgAAAAAAFmXpLVlRzOjKUq57soAYe",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 199353,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Number 1 Angel",
         "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 238749,
       "name": "Dreamer - Compound Version",
       "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 199353,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1"
     },
     {
       "added_at": null,

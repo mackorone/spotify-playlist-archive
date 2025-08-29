@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including sombr, Trauffer, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,941 likes - 112 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,942 likes - 112 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 111 | [Famous](https://open.spotify.com/track/2qKXQjN3b2igYZXNFZ6eu0) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Famous](https://open.spotify.com/album/11jxNLPRRRS43Fbv2MFe1K) | 2:29 |
 | 112 | [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 |
 
-Snapshot ID: `AAAAAEWMheafS9+oxS7EZj86IhCYVGET`
+Snapshot ID: `AAAAAH5yknr/r+Ogv3aWbEuzyqWuFQrp`

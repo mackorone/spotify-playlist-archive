@@ -4,7 +4,7 @@
 
 > sad girl summer 2025 in full swing\. Curated by néomí \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
 
-253 songs - 15 hr 12 min
+254 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Sober](https://open.spotify.com/track/3WKFCNvNqQNlyqrjGdZGRe) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:42 | 2025-07-03 |  |
 | [Soft Currents](https://open.spotify.com/track/6Lq6haqwKOJ2OiqsFwhnIE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/3QHdGQFzgpIvvSFA83bqyh) | 3:11 | 2025-07-03 |  |
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2025-07-03 |  |
+| [Sounds Of An Early Morning](https://open.spotify.com/track/3JZqG72YPLiIChom7dGCau) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [Sounds Of An Early Morning](https://open.spotify.com/album/6yeVsvCmUKoc967n5mzkVD) | 3:09 | 2025-08-28 |  |
 | [Spare](https://open.spotify.com/track/4etImuKYSTUblC9MBa2B3D) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Spare](https://open.spotify.com/album/4GSKZGEdk85RyoWm4wL4Jh) | 3:38 | 2025-07-03 |  |
 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-05-15 | 2025-07-04 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-07-03 |  |

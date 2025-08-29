@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,665 likes - 315 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,765 likes - 315 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

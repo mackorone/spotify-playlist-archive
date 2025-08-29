@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > KETTAMA and Chris Stussy with the B2B of the year!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,183 likes - 200 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,215 likes - 200 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

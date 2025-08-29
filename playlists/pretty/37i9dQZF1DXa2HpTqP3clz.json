@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167136,
+  "num_followers": 167152,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Back Porch Bluegrass",
-        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
-      },
-      "artists": [
-        {
-          "name": "The Dillards",
-          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Polly Vaughn",
-      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Back Porch Bluegrass",
+        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
+      },
+      "artists": [
+        {
+          "name": "The Dillards",
+          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Polly Vaughn",
+      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -499,26 +499,18 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Never Losing Me",
-        "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Holler Choir",
-          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
-        },
-        {
-          "name": "Susto Stringband",
-          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
         }
       ],
-      "duration_ms": 173906,
-      "name": "Never Losing Me",
-      "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
+      "duration_ms": 225946,
+      "name": "Smoky Mountain Girl",
+      "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -559,34 +551,26 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n"
+        "name": "Never Losing Me",
+        "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
       },
       "artists": [
         {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Smoky Mountain Girl",
-      "url": "https://open.spotify.com/track/0np7pLWzNJcW06dIil3fWp"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        },
+        {
+          "name": "Susto Stringband",
+          "url": "https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 173906,
+      "name": "Never Losing Me",
+      "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -603,6 +587,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 132794,
       "name": "Winds Forever Blow",
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Runnin' from the Weather",
-        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
-      },
-      "artists": [
-        {
-          "name": "Larry & Joe",
-          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Runnin' from the Weather",
-      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+        "name": "Runnin' from the Weather",
+        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
       },
       "artists": [
         {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+          "name": "Larry & Joe",
+          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
         }
       ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+      "duration_ms": 261333,
+      "name": "Runnin' from the Weather",
+      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1227,6 +1211,22 @@
       "duration_ms": 272326,
       "name": "Please Mr Please",
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 173688,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Hang Around for the Heartbreak",
-        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Hang Around for the Heartbreak",
-      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Hang Around for the Heartbreak",
+        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hang Around for the Heartbreak",
+      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
     },
     {
       "added_at": "2025-08-15 04:00:22",

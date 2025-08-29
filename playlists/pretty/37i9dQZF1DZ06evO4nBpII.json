@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1124153,
+  "num_followers": 1124304,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAAB7p+vyAvnmkcto2mth+dBh",
+  "snapshot_id": "aK5KgAAAAAAC7kxohcPok8jukLZk55Cf",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 123541,
-      "name": "Look Ma, No Brains!",
-      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 123464,
       "name": "Fuck Off",
       "url": "https://open.spotify.com/track/3OTGZhc6EuE1XZ8849hHi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 123541,
+      "name": "Look Ma, No Brains!",
+      "url": "https://open.spotify.com/track/6zypPV86f8oALbijmqDsrv"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - The Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "When It's Time",
-      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182506,
       "name": "Scattered",
       "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot - The Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "When It's Time",
+      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 196794,
-      "name": "Suzie Chapstick",
-      "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198093,
       "name": "Redundant",
       "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 196794,
+      "name": "Suzie Chapstick",
+      "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 120442,
-      "name": "She's a Rebel",
-      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 132080,
       "name": "The Grouch",
       "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 120442,
+      "name": "She's a Rebel",
+      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
     },
     {
       "added_at": null,

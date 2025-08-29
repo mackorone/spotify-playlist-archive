@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103370,
+  "num_followers": 103371,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABb4zm8uTbDirb01XGuPBvV",
+  "snapshot_id": "aK5KgAAAAACqQILYhnEABbnssi3KALfy",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 173244,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 173244,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
     },
     {
       "added_at": null,
@@ -398,11 +398,15 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 207543,
-      "name": "Perfect Love",
-      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
+      "duration_ms": 198340,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
     },
     {
       "added_at": null,
@@ -466,15 +470,11 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 198340,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
+      "duration_ms": 207543,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
     },
     {
       "added_at": null,

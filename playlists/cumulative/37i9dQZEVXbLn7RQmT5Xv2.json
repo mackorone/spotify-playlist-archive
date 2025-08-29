@@ -7304,7 +7304,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 196650,
       "name": "Khaleny Fe Hodnak",
       "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
@@ -15104,6 +15104,24 @@
     {
       "album": {
         "name": "Yaah",
+        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250135,
+      "name": "Yaah",
+      "url": "https://open.spotify.com/track/26gwWepGyD010IUMA55OMr"
+    },
+    {
+      "album": {
+        "name": "Yaah",
         "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
       },
       "artists": [
@@ -15190,7 +15208,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 196806,
       "name": "Yazmeely",
       "url": "https://open.spotify.com/track/04D5KuZipPeHYZF61sG4Mj"
@@ -19782,7 +19800,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 272433,
       "name": "\u0644\u0645\u0627 \u0628\u064a\u0648\u062d\u0634\u0646\u064a",
       "url": "https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT"

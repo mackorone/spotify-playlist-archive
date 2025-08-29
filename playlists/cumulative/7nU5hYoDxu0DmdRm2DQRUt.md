@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-284 songs - 1 day 4 hr 0 min
+285 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Tokyo Love Affair](https://open.spotify.com/track/2vaJvmFZEvRyEKQEtoSSgH) | [Barbara Boeing](https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Tokyo Love Affair](https://open.spotify.com/album/32Zu6hIPbZJZyR8ToTNpUN) | 5:07 | 2024-11-06 |  |
 | [tone print](https://open.spotify.com/track/2mPOKzIlD0Oylc9yTAFxeU) | [ali dada](https://open.spotify.com/artist/2TajKAEMNr2as5eTROKYKH) | [SUM](https://open.spotify.com/album/28HnYzY8VVEc4fr7HXLidB) | 4:13 | 2024-09-20 |  |
 | [Too Much Pressure](https://open.spotify.com/track/4fBDRUqkQpax3B0eFH3AzD) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo) | [Pressure Double Down EP](https://open.spotify.com/album/6GKIqd160KklupFvytxl8I) | 14:53 | 2025-01-31 |  |
+| [Tregua](https://open.spotify.com/track/1egKD08pHb5GcfYdVjZDuT) | [Ribé](https://open.spotify.com/artist/6ngaaPvB4d3cGA8pcr6U1I), [Roll Dann](https://open.spotify.com/artist/6pGi6xcoMSsa4xGhpUew4Y) | [Klockworks 40](https://open.spotify.com/album/7nkFPtOc4YEF5nEv3IQmrc) | 5:00 | 2025-08-28 |  |
 | [Turkish Bazar \- Chris Liebing Remake](https://open.spotify.com/track/12pjGZHDyQxuROgK2gZ4My) | [Emmanuel Top](https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA), [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Turkish Bazar \(Chris Liebing Remake\)](https://open.spotify.com/album/3C1cipNpGyYScn0IhKCo1Q) | 8:00 | 2025-03-14 |  |
 | [U' Focu Ranni](https://open.spotify.com/track/6gbEIEC34vTQm8Q33XRuIv) | [DJ Agitated](https://open.spotify.com/artist/3tNo3v8Lir5yba0AdwWuDg) | [Horses of Volcanoes and the Moon](https://open.spotify.com/album/46j1DNh2hY2Vg4tlEdQOkp) | 6:35 | 2025-03-14 |  |
 | [Upside Down](https://open.spotify.com/track/4exjIVd2rMY5j8hRl9aM5v) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Upside Down](https://open.spotify.com/album/6GEe7kbKKJYby6J1JYmmkw) | 6:06 | 2025-01-20 |  |

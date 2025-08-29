@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6f5fW2F9JIU.md) - [plain]
 
 > Music from "THE IDOLM@STER"\. アイドルマスターの楽曲を1つのプレイリストで。<br/>©窪岡俊之 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,140 likes - 106 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,146 likes - 106 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

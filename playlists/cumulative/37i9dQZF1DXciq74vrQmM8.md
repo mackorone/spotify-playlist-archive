@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. teethin
+> welcome to our universe ft\. chalk
 
-1,180 songs - 2 day 9 hr 53 min
+1,186 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [braindead!](https://open.spotify.com/track/4GYRVROTrMnOnMzOlWizzO) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [HI! NICE TO MEET YA](https://open.spotify.com/album/4HM4CTkJrx5x2pK0sgNALM) | 2:43 | 2022-05-12 | 2022-05-18 |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-20 | 2023-10-13 |
 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 | 2024-08-15 | 2024-10-18 |
+| [BREAK FREE](https://open.spotify.com/track/5gCifD21fmGpnyxkvPtIEI) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [BREAK FREE](https://open.spotify.com/album/1SyBh4Y6Jf1r7LSzaH8zHm) | 3:07 | 2025-08-28 |  |
 | [break me!](https://open.spotify.com/track/4kAtlOHiKnGFfJVPfLyHo1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [break me!](https://open.spotify.com/album/3mV2ebkKgbEaEjnTbi0sJD) | 2:33 | 2022-06-02 | 2022-09-23 |
 | [break!](https://open.spotify.com/track/7172TPIseIF3lB54hmlo14) | [inuday](https://open.spotify.com/artist/29OqAIxz15uCoDjXX0a4Gg) | [break!](https://open.spotify.com/album/2V8H83CvzDHOCiFBs28D7m) | 2:26 | 2024-03-22 | 2024-06-22 |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-21 | 2025-02-21 |
@@ -428,6 +429,7 @@
 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2022-03-31 | 2022-04-29 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-05-25 | 2023-11-18 |
 | [Glitch](https://open.spotify.com/track/4AxHnAcF7NNUIddf4qDTPu) | [D1VA](https://open.spotify.com/artist/5TyOhXk3vDyBXSLIKVCIJY), [XIU](https://open.spotify.com/artist/71wMLgrCzyWyrlU3e4A2xY) | [Glitch](https://open.spotify.com/album/7lnf3Q4p9c7wytuft17js7) | 1:41 | 2024-05-16 | 2024-06-28 |
+| [Glory](https://open.spotify.com/track/4cwjsl7zxbj8sCz6rSly3V) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Glory](https://open.spotify.com/album/0s97eei2v75miDeZOeexxF) | 3:42 | 2025-08-28 |  |
 | [GLUE2](https://open.spotify.com/track/5LGHsa3tFfcM6qc1gUkrhy) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [GLUE2](https://open.spotify.com/album/0usqoonogsd5ZvTfS7myJM) | 2:55 | 2022-02-25 | 2022-03-11 |
 | [go die!](https://open.spotify.com/track/4ISTVbFzJhmbhjSxu8kfFS) | [KO Aka Koala](https://open.spotify.com/artist/280n850sA1H4odLFK1qpNi) | [go die!](https://open.spotify.com/album/2aZbaaBeQ5kgeSRYXghEFS) | 2:23 | 2022-04-19 | 2022-04-29 |
 | [Go Fuck Myself](https://open.spotify.com/track/0qv3e08PTZ4Wq7prI3Wd1q) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Go Fuck Myself](https://open.spotify.com/album/2WV8r8ag3RMw5VdPQuylx9) | 2:43 | 2024-10-03 | 2025-07-04 |
@@ -753,6 +755,7 @@
 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-07 |  |
 | [N.O.V.A](https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [N.O.V.A](https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487) | 2:40 | 2025-07-24 |  |
 | [Nadi](https://open.spotify.com/track/6tlJe47ByWS9zs1op6cHfB) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Nadi](https://open.spotify.com/album/3wPfyer3cgvYnj9fAvIzMK) | 3:07 | 2025-05-01 |  |
+| [NAKED](https://open.spotify.com/track/23FE8L9m7gFYt9UBpWfJCo) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [NAKED](https://open.spotify.com/album/2E9m50Y6IaXTewP1sT6ZP6) | 3:14 | 2025-08-28 |  |
 | [Napalm](https://open.spotify.com/track/2Smp3Fk79CMuvll4TBm999) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 2:30 | 2023-03-08 | 2023-03-09 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2022-04-01 |
 | [NATURAL SELECTION](https://open.spotify.com/track/3xzIJWhbEOf0fiQezTP9hu) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [NATURAL SELECTION](https://open.spotify.com/album/1SSCqPLzK3FU8j2EDMszhS) | 3:32 | 2025-07-31 |  |
@@ -798,12 +801,14 @@
 | [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 | 2025-03-28 | 2025-08-09 |
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-08-22 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
+| [Out Of My Reach](https://open.spotify.com/track/52V8PYxelw5uo1HWlaccFM) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [You Heartbreaker, You](https://open.spotify.com/album/7tr3cQyR38oOHQzIVwZ3IY) | 3:31 | 2025-08-28 |  |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 | 2024-05-09 | 2024-08-23 |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 | 2023-06-30 |
 | [Overwhelming](https://open.spotify.com/track/3Mc0QasTpouabBFgz7L48c) | [Raven Numan](https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI) | [Overwhelming](https://open.spotify.com/album/2F4AFhVkQs4mgDH12dFru4) | 3:41 | 2024-08-29 | 2024-10-04 |
 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 | 2024-09-05 | 2025-06-20 |
 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 | 2021-12-27 | 2022-02-18 |
+| [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 | 2025-08-28 |  |
 | [Paint The Town Blue \- From The Series "Arcane League of Legends"](https://open.spotify.com/track/2c0cYM1BbZRLprDJUCsH6Q) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1Khhjk3sDULsnEGLUVwRwU) | 1:54 | 2024-09-05 | 2025-06-20 |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2022-04-19 | 2022-04-29 |
 | [pantychrist](https://open.spotify.com/track/27DeRdtJaFAm1GIwxyu49B) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [pantychrist](https://open.spotify.com/album/0Gji77UOi0Y8AD2x4aeCbi) | 2:47 | 2022-04-19 | 2023-02-24 |
@@ -830,7 +835,7 @@
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-28 | 2022-08-26 |
 | [Pink Ski Mask](https://open.spotify.com/track/7uxdFBbvLnYMETZ3l1ALwz) | [Blissful Euphoria](https://open.spotify.com/artist/0CAfE2aA3yXVTOBD9f80VQ) | [Pink Ski Mask](https://open.spotify.com/album/0abrEo7bpHRoAS0mbm4jqy) | 3:52 | 2022-03-04 | 2022-03-11 |
 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 | 2024-08-15 | 2024-10-11 |
-| [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 | 2025-05-15 |  |
+| [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 | 2025-05-15 | 2025-08-29 |
 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 | 2022-09-10 |
 | [PLASTIC](https://open.spotify.com/track/7KF3yW2VZX7Ddu6gPREdUf) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [PLASTIC](https://open.spotify.com/album/3Mgup1DdHwGNSejCMZz5Et) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 | 2022-10-06 | 2022-12-01 |
@@ -857,6 +862,7 @@
 | [PRINCELESS PRINCESS](https://open.spotify.com/track/3ov9X8yrGi3jKX9ua8T2qq) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/28RnLQk5KA7XWhaWoijuH1) | 3:43 | 2025-05-15 |  |
 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 | 2022-08-04 | 2023-03-03 |
 | [PRISON](https://open.spotify.com/track/6ru3rcoXUkmfWLT0OSBbUa) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [PRISON](https://open.spotify.com/album/6XGUYuj6Nl6fthoUqVugmJ) | 2:41 | 2023-05-18 | 2023-07-07 |
+| [Prized Possession](https://open.spotify.com/track/0a65KzuGdGYMGAee4idItb) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Prized Possession](https://open.spotify.com/album/2ODWdOyl8zjGA5OG8g7huA) | 4:11 | 2025-08-28 |  |
 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 | 2024-09-20 | 2025-06-06 |
 | [Prototype](https://open.spotify.com/track/0vN2Hxw1ECS8325UbkpPnR) | [City Sleeps](https://open.spotify.com/artist/1BdJEosPRMs34GwvwxxtSf) | [Not An Angel](https://open.spotify.com/album/5Q9SL4XfHdaDrpQWr0YaaH) | 3:16 | 2024-05-28 | 2024-06-07 |
 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 | 2023-11-17 | 2024-05-29 |

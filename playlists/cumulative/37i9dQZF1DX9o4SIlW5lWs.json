@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Date cuenta",
+        "url": "https://open.spotify.com/album/6N2L9L69osVQXss8wjojYN"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157244,
+      "name": "Date cuenta",
+      "url": "https://open.spotify.com/track/3X0FSUKlgyj4mq9BCJzDqE"
+    },
+    {
+      "album": {
         "name": "De Amor Voy a Morirme",
         "url": "https://open.spotify.com/album/0tXY3rHWyKS2VD3hpEbXOK"
       },
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 209279,
       "name": "El amor de mi vida",
       "url": "https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe"
@@ -4418,7 +4440,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 239580,
       "name": "La Culpable",
       "url": "https://open.spotify.com/track/4iRGviSPkKyGI5M1ETM4h2"
@@ -5800,7 +5822,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 170000,
       "name": "Motivo Real",
       "url": "https://open.spotify.com/track/2QsYfTSbyUhJ49ZVArZZh7"
@@ -6562,7 +6584,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 189561,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/1gCImmVhuYwxt9c5TFYFgm"
@@ -9466,7 +9488,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 229760,
       "name": "Tu Amante Tu Amigo",
       "url": "https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR"

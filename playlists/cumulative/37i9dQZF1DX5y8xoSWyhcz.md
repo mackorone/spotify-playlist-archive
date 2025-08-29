@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,338 songs - 2 day 21 hr 9 min
+1,342 songs - 2 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Dear First Love,](https://open.spotify.com/track/6PowfeWOvFBlueUpvct3HI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Dear First Love,](https://open.spotify.com/album/1YANDmdijaWWHMzhZVD5rX) | 3:16 | 2020-10-29\* | 2020-11-04 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-10 | 2021-05-08 |
 | [death wish](https://open.spotify.com/track/68kc71kxyfuWFLTheYyZlO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [death wish](https://open.spotify.com/album/3JflsWk7Mj8FVcwvGGkiPf) | 2:40 | 2021-09-25 | 2021-10-09 |
+| [Deep Diving](https://open.spotify.com/track/5mCDtS8o9KNQpQufN59Oxg) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/3qAy9Ahs6fUPa1ssJOCEot) | 3:22 | 2025-08-29 |  |
 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-07 | 2023-12-16 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-10-13 |
 | [Deep end](https://open.spotify.com/track/1hmcogF6Lz6QqiibEZqXjQ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 2:03 | 2021-10-02 | 2022-02-12 |
@@ -536,6 +537,7 @@
 | [hope ur ok](https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:29 | 2021-05-22 | 2021-09-18 |
 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 | 2024-04-19 |  |
 | [Hot in NY](https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Hot in NY](https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8) | 1:58 | 2023-09-15 | 2024-04-06 |
+| [Hot!](https://open.spotify.com/track/1YBCTYBfExd2FNr7GCuuoi) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX), [Amery](https://open.spotify.com/artist/1bwYRjgLFnaNYmSWoUyd7I) | [Hot!](https://open.spotify.com/album/176zDJOZ3av7xuBXD0urkR) | 2:06 | 2025-08-29 |  |
 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-05-16 |  |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-07-10 | 2022-01-15 |
 | [Hotel Lobby](https://open.spotify.com/track/6iDOz3Eiq0LucNf2eHKoxt) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t), [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Together Alone](https://open.spotify.com/album/1sPejSJ9oRQu72BBEmLjZo) | 3:15 | 2021-06-27 | 2021-08-14 |
@@ -1217,6 +1219,7 @@
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2023-02-11 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-13 | 2021-04-24 |
+| [Track 11](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 0:00 | 2025-08-29 |  |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |
 | [trophy wife](https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [trophy wife](https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv) | 2:49 | 2024-06-28 |  |
@@ -1255,6 +1258,7 @@
 | [Video Game](https://open.spotify.com/track/0o4z9a1hPLutLeNY68wdgg) | [ICELANDIA](https://open.spotify.com/artist/1yzsj3y6dbpXYqk3DPPl63) | [Video Game](https://open.spotify.com/album/3ebINvMV9ZlwSwFNvK3vTJ) | 3:01 | 2021-01-23 | 2021-05-03 |
 | [Vintage](https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Vintage](https://open.spotify.com/album/3m5bt0XOKIh1SfbycLiDfk) | 2:35 | 2021-02-06 | 2021-03-06 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-27 | 2021-04-10 |
+| [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-29 |  |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2021-12-24 | 2022-03-05 |
 | [voicemail](https://open.spotify.com/track/5CsdNmE7ESC2bZnRwgmiUt) | [DAVIN](https://open.spotify.com/artist/09RjELlXo48h84xDdXzvlP) | [voicemail](https://open.spotify.com/album/3fTVzf17JB0xuCcqj2W09g) | 2:23 | 2021-07-04 | 2021-10-16 |
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-11-13 | 2022-02-19 |

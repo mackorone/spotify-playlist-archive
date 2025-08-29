@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-287 songs - 18 hr 54 min
+288 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2022-05-06 |  |
 | [Rolling](https://open.spotify.com/track/3Rmq4pfpcj3b11twkz7iaH) | [Andrés Cotter](https://open.spotify.com/artist/5LOlcDgC9Q8H5Yp2wC09Nz), [Eitan Avineri](https://open.spotify.com/artist/7JR8J5nzo0Imy2j9xQtEBE), [Western Standard Time Ska Orchestra](https://open.spotify.com/artist/307wefpFQglED5zeNdeDSA) | [Rolling](https://open.spotify.com/album/2iFs0YvvTnRf2d2XYtv5hX) | 3:20 | 2023-08-11 | 2023-08-19 |
 | [Rumbos](https://open.spotify.com/track/5MnnfxY6P5il3uLuNXiqNa) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Rumbos](https://open.spotify.com/album/0I8OcfGllqQ6WApI1abJGw) | 2:49 | 2022-05-06 | 2022-06-19 |
-| [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 | 2022-05-06 |  |
+| [Runaway \(En Vivo\)](https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:07 | 2022-05-06 | 2025-08-29 |
 | [Runnin' out of Fools](https://open.spotify.com/track/6kvm98YbESolyOzhUDSLRG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Runnin' out of Fools](https://open.spotify.com/album/4Ya39nwsZDpmDZFF4IyjUQ) | 3:39 | 2022-05-06 | 2022-07-29 |
 | [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2022-12-23 | 2023-03-03 |
 | [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 | 2024-10-03 | 2025-02-02 |
@@ -237,6 +237,7 @@
 | [Sisters](https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo) | [Panal](https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP) | [Sisters](https://open.spotify.com/album/4CvPKgGnPxfiE2X2Tm4Hmx) | 3:23 | 2022-05-06 | 2023-05-09 |
 | [Slogan](https://open.spotify.com/track/4E5D8hsCn2PXgSsLuOoBiE) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Slogan](https://open.spotify.com/album/5q7M8NZx8u9WXNxpMqAktL) | 3:25 | 2022-05-06 | 2022-07-29 |
 | [Sola](https://open.spotify.com/track/5CwBS7sTrb5OF7TlkGi7kS) | [Lady Ant](https://open.spotify.com/artist/5xNT61iNuxz65g5rnhL7yZ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Sola](https://open.spotify.com/album/79oDCzsAddl5eWpxZsAw7m) | 3:53 | 2022-05-06 | 2022-07-17 |
+| [Soledad](https://open.spotify.com/track/09XteREgKef9CQs8i3IqmI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soledad](https://open.spotify.com/album/34OIE4O8ChYAMav2XQqKQc) | 3:21 | 2025-08-28 |  |
 | [Sonido Fresco](https://open.spotify.com/track/0CKgR8v1Q3mBXi82zOHCBu) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Ritmo Elemental](https://open.spotify.com/album/3U9YPS5z5nKmo6y0O58fME) | 3:46 | 2022-05-06 | 2022-07-28 |
 | [Sonido Fresco](https://open.spotify.com/track/1gka28UzjRHhMcRpaux6o8) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Ritmo Elemental](https://open.spotify.com/album/59ogO85mMUoWI8ijg6VBLl) | 3:48 | 2022-07-01 | 2023-03-03 |
 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 | 2024-03-08 |  |

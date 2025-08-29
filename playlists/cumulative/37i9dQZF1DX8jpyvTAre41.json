@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Three Days Grace",
+  "description": "The best rock songs of the moment. Cover: Bryan Adams",
   "name": "Rock Now",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 208970,
       "name": "100%",
       "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 173791,
       "name": "And a Big Load",
       "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 191129,
       "name": "BRAINDEAD (feat. Toby Morse)",
       "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
@@ -3447,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Can I Call You in the Morning?",
+        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Can I Call You in the Morning?",
+      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
+    },
+    {
+      "album": {
         "name": "Can't Be Still",
         "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
       },
@@ -3862,6 +3880,46 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/4kgZryM9RH7aEkkaNLDWu2"
+    },
+    {
+      "album": {
+        "name": "Guess I'm Fallin In Love",
+        "url": "https://open.spotify.com/album/1UIpytdwikFGWxzCGGeiSa"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "Chateau Blues",
+      "url": "https://open.spotify.com/track/2msGEY3GkkvEV6ACsfD34X"
+    },
+    {
+      "album": {
+        "name": "Caught Stealing (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ox54iBEAeghJpulMDAVfD"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        },
+        {
+          "name": "Caught Stealing Movie",
+          "url": "https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/3LiNrrRozLyzYfeK1CflCA"
     },
     {
       "album": {
@@ -5311,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "DISSOLVER",
+        "url": "https://open.spotify.com/album/1mGDBjDJPYARBiHsdkKtXP"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "DISSOLVER",
+      "url": "https://open.spotify.com/track/2i92nH8v7MK7nPT9ONUyFk"
+    },
+    {
+      "album": {
         "name": "Divorce",
         "url": "https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL"
       },
@@ -5394,7 +5470,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 217000,
       "name": "Don't Get Lost In The Dark",
       "url": "https://open.spotify.com/track/6xcAAJkDNzrAUwqxE99zSq"
@@ -5952,6 +6028,24 @@
       "duration_ms": 154775,
       "name": "Easy Come, Easy Go",
       "url": "https://open.spotify.com/track/7CtlMZ6x0FPJJblcTpr49X"
+    },
+    {
+      "album": {
+        "name": "Easy Come, Easy Go",
+        "url": "https://open.spotify.com/album/3GZjCLfJ4o617hscOXgn43"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145748,
+      "name": "Easy Come, Easy Go - Punch Party Remix",
+      "url": "https://open.spotify.com/track/76HdOI3texMW1BTzvatgrh"
     },
     {
       "album": {
@@ -7000,7 +7094,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 250172,
       "name": "Fatal Flaw",
       "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
@@ -8187,7 +8281,7 @@
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 193131,
+      "duration_ms": 191379,
       "name": "Glum",
       "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
     },
@@ -9585,6 +9679,24 @@
     },
     {
       "album": {
+        "name": "Roll With The Punches",
+        "url": "https://open.spotify.com/album/5hSKVnqKENCvocHGmMCl4W"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144186,
+      "name": "How's That Workin' For Ya?",
+      "url": "https://open.spotify.com/track/4HVzU5ygBChTzF4pZVyXy7"
+    },
+    {
+      "album": {
         "name": "Howlin\u2019 At The Moon",
         "url": "https://open.spotify.com/album/3I3OYfWBcuVq9AV8JDhbKJ"
       },
@@ -9716,6 +9828,24 @@
       "duration_ms": 247886,
       "name": "I Am Water",
       "url": "https://open.spotify.com/track/2VIPNegQVvaAXEZxJhfeeg"
+    },
+    {
+      "album": {
+        "name": "i can see my house from here",
+        "url": "https://open.spotify.com/album/591BNdcCsjsCseHBIYLP8q"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188112,
+      "name": "i can see my house from here",
+      "url": "https://open.spotify.com/track/2P8fkvUIsc5IWuyxVXe4gj"
     },
     {
       "album": {
@@ -14410,7 +14540,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 205466,
       "name": "Never Ever Let You Go",
       "url": "https://open.spotify.com/track/4yr2XZ9ujDpZXwvqDZQ8wk"
@@ -14687,6 +14817,24 @@
     },
     {
       "album": {
+        "name": "No Damn Fears",
+        "url": "https://open.spotify.com/album/3dOnUiclom9Lj3A4fsShRf"
+      },
+      "artists": [
+        {
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261859,
+      "name": "No Damn Fears",
+      "url": "https://open.spotify.com/track/63wu8tCkgGNthwVSCL4JMP"
+    },
+    {
+      "album": {
         "name": "No Longer Young",
         "url": "https://open.spotify.com/album/3P5u2du5gv7RVsHAvIORW2"
       },
@@ -14698,7 +14846,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 153851,
       "name": "No Longer Young",
       "url": "https://open.spotify.com/track/2QgRR2igdWsqymmUy0FSza"
@@ -17015,6 +17163,28 @@
     },
     {
       "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186025,
+      "name": "Red Velvet (with Ari Abdul)",
+      "url": "https://open.spotify.com/track/0khMRTeMTOkwvqE9fJdgGH"
+    },
+    {
+      "album": {
         "name": "Red Velvet (with Ari Abdul)",
         "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
       },
@@ -17470,7 +17640,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 217637,
       "name": "Rot",
       "url": "https://open.spotify.com/track/6leXzAS4DAnwOI0luKXqj6"
@@ -17622,6 +17792,28 @@
       "duration_ms": 188680,
       "name": "run!",
       "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
+    },
+    {
+      "album": {
+        "name": "RUNNING",
+        "url": "https://open.spotify.com/album/1KcDf4nBsPLfolvekryHLK"
+      },
+      "artists": [
+        {
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+        },
+        {
+          "name": "HunnaV",
+          "url": "https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122877,
+      "name": "RUNNING",
+      "url": "https://open.spotify.com/track/2yx9gPM2hoEolYDhscu5sv"
     },
     {
       "album": {
@@ -19635,6 +19827,24 @@
     },
     {
       "album": {
+        "name": "Straight Line Was A Lie",
+        "url": "https://open.spotify.com/album/30Byf6kLkgZ3B2lp739Hlo"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "Straight Line Was A Lie",
+      "url": "https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4"
+    },
+    {
+      "album": {
         "name": "VIVA HINDS",
         "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
       },
@@ -20154,7 +20364,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 192619,
       "name": "Tacklebox",
       "url": "https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA"
@@ -21786,7 +21996,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 234866,
       "name": "To Be Seen",
       "url": "https://open.spotify.com/track/2XmapHk5xt31f5trQf0WjA"
@@ -22042,6 +22252,24 @@
       "duration_ms": 189476,
       "name": "Touch Myself",
       "url": "https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x"
+    },
+    {
+      "album": {
+        "name": "The Sound of You Laughing",
+        "url": "https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa"
     },
     {
       "album": {
@@ -22728,7 +22956,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 187658,
       "name": "Venom Moon Rising",
       "url": "https://open.spotify.com/track/0Ofxy9VZ4OHQ40HgPwF8Or"
@@ -23370,7 +23598,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 185966,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/0jQqAuHe3GaJTdNvAyTwqi"
@@ -23572,7 +23800,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 187557,
       "name": "What Do You Do?",
       "url": "https://open.spotify.com/track/4Z3WmB8mAZz0qdb69SidLT"

@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Viens on essaie" de Vitaa & Julien Doré est le Grand Hit de la semaine.
+> "Les étoiles" de Léman est le Grand Hit de la semaine.
 
 274 songs - 14 hr 4 min
 
@@ -98,7 +98,7 @@
 | [fou](https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [fou](https://open.spotify.com/album/1fYpB6W7Yt1RopNSdVGMk9) | 2:48 | 2024-01-11 | 2024-02-23 |
 | [Fuguer](https://open.spotify.com/track/14EyAVX55liO55GZUr6LOQ) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 3:06 | 2023-10-05 | 2023-12-15 |
 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-09-12 | 2025-04-11 |
-| [Hallelujah \- Live à Notre\-Dame](https://open.spotify.com/track/7s3KNhg90zZhRewUTie2AS) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd) | [Hallelujah \(Live à Notre\-Dame\)](https://open.spotify.com/album/447QjRNZM6f0UzC0DfY2Mk) | 4:02 | 2025-04-24 |  |
+| [Hallelujah \- Live à Notre\-Dame](https://open.spotify.com/track/7s3KNhg90zZhRewUTie2AS) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd) | [Hallelujah \(Live à Notre\-Dame\)](https://open.spotify.com/album/447QjRNZM6f0UzC0DfY2Mk) | 4:02 | 2025-04-24 | 2025-08-29 |
 | [Heures sup](https://open.spotify.com/track/0DbiWBF8ihZgovInamLwTx) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Une autre vie](https://open.spotify.com/album/3kOhzA5Vb2pp8nPf1BR1iA) | 3:19 | 2024-03-21 | 2024-05-03 |
 | [Hey Bro](https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Hey Bro](https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD) | 2:30 | 2023-09-28 | 2024-04-19 |
 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 | 2023-09-28 | 2024-01-26 |
@@ -220,7 +220,7 @@
 | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/track/1SXq81JaEMfD3L7aGJv7K3) | [Léa Zelia](https://open.spotify.com/artist/0yRrjkmoosrBlPC3nUXsbk), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Adryano](https://open.spotify.com/artist/2UDlaOGt9VWAqsbNmsYzYk) | [Plus L'Time \(Stereo Love\)](https://open.spotify.com/album/09DH6CFGrS9EPoxv4Vi3ea) | 2:54 | 2024-08-01 | 2024-10-18 |
 | [Popcorn Salé](https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Popcorn Salé](https://open.spotify.com/album/2gN39EbfqN5KLxoqPv6M3V) | 3:58 | 2023-09-28 | 2024-04-19 |
 | [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-12-14 | 2024-01-19 |
-| [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 | 2025-07-03 | 2025-08-08 |
+| [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 | 2025-07-03 |  |
 | [Prière de n'pas déranger](https://open.spotify.com/track/21x29ojKg5qjtoCD1ZUO5y) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:25 | 2024-12-12 | 2025-02-21 |
 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 | 2024-01-18 | 2024-10-25 |
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-11-09 | 2024-06-07 |

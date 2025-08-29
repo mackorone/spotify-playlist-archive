@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 4,081 likes - 105 songs - 5 hr 47 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 4,080 likes - 105 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 | 36 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 37 | [Water Stadium](https://open.spotify.com/track/3pW7ztKpPJPMZhQZRjdjaI) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Tower of God: Workshop Battle \(Original Series Soundtrack\)](https://open.spotify.com/album/22wIbprKFLrHmI2oKTVeoI) | 2:15 |
 | 38 | [Viole](https://open.spotify.com/track/3GNlF4YneZ8IW0hFakA6Lr) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Tower of God: Return of the Prince \(Original Series Soundtrack\)](https://open.spotify.com/album/6q35CZzmJd9tPWmKYFwzBn) | 3:03 |
-| 39 | [love theme](https://open.spotify.com/track/6ZHO6Mbg1MHsq2L0RYlPON) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 4:30 |
-| 40 | [seiko](https://open.spotify.com/track/1waz1cYWU49VeQnvbqodIE) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 3:33 |
-| 41 | [paranormal funk](https://open.spotify.com/track/5P6YT8cyVACgvYBO73yyuz) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | ["DAN DA DAN" Original Soundtrack Lead Trax](https://open.spotify.com/album/7FkNRXPbQUhRo5oP8FT7af) | 3:58 |
+| 39 | [love theme](https://open.spotify.com/track/6ZHO6Mbg1MHsq2L0RYlPON) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 4:30 |
+| 40 | [seiko](https://open.spotify.com/track/1waz1cYWU49VeQnvbqodIE) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [Dan Da Dan \(Original Series Soundtrack\)](https://open.spotify.com/album/3nv7aYjXbr6EPeq3pRaXmQ) | 3:33 |
+| 41 | [paranormal funk](https://open.spotify.com/track/5P6YT8cyVACgvYBO73yyuz) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | ["DAN DA DAN" Original Soundtrack Lead Trax](https://open.spotify.com/album/7FkNRXPbQUhRo5oP8FT7af) | 3:58 |
 | 42 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 43 | [The Demon Lord](https://open.spotify.com/track/4oeX8OfCAPqHqL7abInWEh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Series Soundtrack\)](https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1) | 3:10 |
 | 44 | [Falling Up](https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Falling Up](https://open.spotify.com/album/2TTrJfMviwpwoCtwyPBN8B) | 3:10 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,310 songs - 2 day 17 hr 53 min
+1,311 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [ARASAN DA](https://open.spotify.com/track/5sIHhx9IOpQ7ggv16wLsWZ) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:11 | 2022-09-10 | 2023-05-06 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-03-18 | 2023-01-14 |
 | [Arıyo](https://open.spotify.com/track/0f5wEn5loiPLw2ItV8Qxoi) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Arıyo](https://open.spotify.com/album/48i9T2rTEgtK7K5j44Hq92) | 2:13 | 2025-04-12 | 2025-06-15 |
-| [Arıyo](https://open.spotify.com/track/2tn5ROyAtMeBg4NCQMTTnD) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:13 | 2025-06-14 |  |
+| [Arıyo](https://open.spotify.com/track/2tn5ROyAtMeBg4NCQMTTnD) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:13 | 2025-06-14 | 2025-08-29 |
 | [Arıyorum](https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E) | 3:13 | 2021-09-19 | 2022-01-05 |
 | [Arıyorum](https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Arıyorum](https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH) | 3:13 | 2022-01-04 | 2022-08-03 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-05-28 |
@@ -552,7 +552,7 @@
 | [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 | 2022-09-11 |
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-28 |  |
 | [Hakim Bey](https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3) | [KADR](https://open.spotify.com/artist/5IbdRuOxSxGes8BU3lKmBx) | [Hakim Bey](https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ) | 2:47 | 2021-10-24 | 2021-12-20 |
-| [Hako diyorlar](https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:13 | 2025-07-19 | 2025-08-28 |
+| [Hako diyorlar](https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:13 | 2025-07-19 |  |
 | [Halbuki](https://open.spotify.com/track/5RZH849e1ZWa2qeVz6O3mK) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Halbuki](https://open.spotify.com/album/4ARvEbxaobzhKT2lvOvHMJ) | 3:22 | 2024-08-27 | 2025-02-11 |
 | [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-12 | 2022-10-02 |
 | [Halen](https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 3:52 | 2022-06-04 | 2022-06-06 |
@@ -798,6 +798,7 @@
 | [Lütfen](https://open.spotify.com/track/3tdECBQEI1vwJhYu4EQhRB) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/3zItDhKXMKTNtyQDnoteJK) | 2:27 | 2021-08-22 | 2021-08-26 |
 | [Lütfen](https://open.spotify.com/track/6AVblFcGxnVp66PUmIcRIf) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/1f4PePKL0J3waEvNsUP9J8) | 2:27 | 2021-08-20 | 2021-08-21 |
 | [M.](https://open.spotify.com/track/6wfb4nI2Vih263JqC8WSoW) | [Anıl Emre Daldal](https://open.spotify.com/artist/5MHG3bmjGh0aqT8hS3nPzS) | [M.](https://open.spotify.com/album/03smIQd1UMqU4jjyaUtAHl) | 3:43 | 2022-12-26 | 2023-02-09 |
+| [MA CHÉRIE](https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 2:35 | 2025-08-28 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-26 | 2024-12-08 |
 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 | 2024-11-26 | 2024-12-03 |
 | [MAGAZIN](https://open.spotify.com/track/6ivhsnbHyB37W4zD16OO5F) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 3:03 | 2023-11-25 | 2023-11-29 |
@@ -1283,7 +1284,7 @@
 | [Çarşamba Tatili](https://open.spotify.com/track/4324xYtPWZH1XbIh8UkBiZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Çarşamba Tatili](https://open.spotify.com/album/0EcMkdfM1SyrhUR3LN0WkY) | 1:43 | 2021-07-18 | 2021-08-08 |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-15 | 2025-06-12 |
 | [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-06-03 | 2023-07-15 |
-| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-16 |  |
+| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-16 | 2025-08-29 |
 | [Çevir Tavukları](https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Çevir Tavukları](https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ) | 3:24 | 2024-03-23 | 2024-04-01 |
 | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/track/23mm9aftN5GODdix3IY64M) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/album/11QO5v6BppeVyIfe0TxRM9) | 2:22 | 2021-07-08 | 2021-07-18 |
 | [Çiftetelli](https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Çiftetelli](https://open.spotify.com/album/40KYcI9yGdQhAWIOYyaE1L) | 2:11 | 2021-07-04 | 2021-07-16 |

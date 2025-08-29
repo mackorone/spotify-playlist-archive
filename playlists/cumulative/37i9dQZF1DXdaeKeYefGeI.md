@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Stef Bos
 
-219 songs - 13 hr 22 min
+220 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Neem Me Mee](https://open.spotify.com/track/5lVqvFE37CbpD75XnAIhPn) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Neem Me Mee](https://open.spotify.com/album/6YmoIcfsjJVggNYE7gzPwk) | 2:54 | 2023-11-09 |  |
 | [Niemand In De Stad](https://open.spotify.com/track/3dE95e0gGFeoPPRt4njApK) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 4:51 | 2023-02-10 | 2023-12-14 |
 | [Niet Of Nooit Geweest](https://open.spotify.com/track/4439gDsZasiXC4mGpw6yJc) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Naar Huis](https://open.spotify.com/album/3FN2HuiYuwTvIueH6LOmEg) | 4:02 | 2023-02-10 | 2023-04-07 |
+| [Noem Mij Bij Jouw Naam](https://open.spotify.com/track/5UymQJVIxkBRKEod5Hpltf) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Noem Mij Bij Jouw Naam](https://open.spotify.com/album/3Gxm8zzoZqGvr94wgbL7CA) | 3:07 | 2025-08-28 |  |
 | [Nooit meer van God los](https://open.spotify.com/track/7wJsXhYmhctZfCYqV4ape3) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO), [Jacco Wynia](https://open.spotify.com/artist/2eECDzEtWx8eIi22B4rCAn) | [Nooit meer van God los](https://open.spotify.com/album/3jKnaMHuS5aXneVwSnLarK) | 3:06 | 2023-04-06 | 2024-05-10 |
 | [Nu jij dan bent geboren](https://open.spotify.com/track/441HNWL3Vau3QAL9XHMeiw) | [Ernst Jansz](https://open.spotify.com/artist/4coHdOCwAsgKoy4WNp9p92) | [Een liefdeslied](https://open.spotify.com/album/5O1U8qlqnJ1jyK4guAmsOn) | 4:11 | 2024-11-07 |  |
 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2023-02-10 | 2023-03-18 |
@@ -168,7 +169,7 @@
 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 | 2023-02-10 |  |
 | [Pastorale](https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 4:16 | 2024-04-18 | 2025-03-28 |
 | [Pastorale \- Remastered](https://open.spotify.com/track/2BUfuy4p88WKk3d49B1ayP) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If), [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Pastorale \(Remastered\)](https://open.spotify.com/album/4NgdGBam7i5ua7YzaJZ8Z8) | 4:15 | 2023-02-10 | 2024-04-19 |
-| [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 | 2024-03-21 |  |
+| [Plastic Rozen](https://open.spotify.com/track/2Tr9FOnn1mqqewSynDt2eV) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Plastic Rozen](https://open.spotify.com/album/0R82ZImoVaZMUQCahYFlVy) | 3:16 | 2024-03-21 | 2025-08-29 |
 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 | 2025-05-22 |  |
 | [Samen Zijn](https://open.spotify.com/track/3ZMdjAHgHDihm21VZt5RxB) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Samen Zijn](https://open.spotify.com/album/3y7ncQnFAmLzxu4ukpPPSn) | 4:23 | 2023-02-10 | 2024-04-19 |
 | [Samen Zijn](https://open.spotify.com/track/75Bhe67bl6ndyrlkJ1OpH5) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:24 | 2024-04-18 | 2024-10-11 |

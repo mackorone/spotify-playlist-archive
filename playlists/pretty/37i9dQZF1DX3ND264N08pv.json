@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 87404,
+  "num_followers": 87449,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-08-07 22:00:42",
       "album": {
-        "name": "Hardcore Riot",
-        "url": "https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        },
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 160762,
-      "name": "Hardcore Riot",
-      "url": "https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut"
-    },
-    {
-      "added_at": "2025-08-07 22:00:42",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 175800,
       "name": "Raven",
       "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
+    },
+    {
+      "added_at": "2025-08-07 22:00:42",
+      "album": {
+        "name": "Hardcore Riot",
+        "url": "https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 160762,
+      "name": "Hardcore Riot",
+      "url": "https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut"
     },
     {
       "added_at": "2025-08-07 22:00:42",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-08-07 22:00:42",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
+    },
+    {
+      "added_at": "2025-08-07 22:00:42",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2YCJDUX94R7AM7JbMrR4QV"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 163902,
       "name": "Madness",
       "url": "https://open.spotify.com/track/7uakufDBCclVj27i5DUtwx"
-    },
-    {
-      "added_at": "2025-08-07 22:00:42",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     }
   ],
   "unique_name": "Hardcore Rage 2025",

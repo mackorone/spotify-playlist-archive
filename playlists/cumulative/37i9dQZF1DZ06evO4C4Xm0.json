@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 163887,
       "name": "Safety",
       "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "The Last To Know / Ringing Ocean",
+        "url": "https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157073,
+      "name": "The Last To Know",
+      "url": "https://open.spotify.com/track/2lXiIPp2cMu8ibphjMcW1m"
+    },
+    {
+      "album": {
         "name": "The Pearl",
         "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
@@ -3336,7 +3358,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 221199,
       "name": "Trying",
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"

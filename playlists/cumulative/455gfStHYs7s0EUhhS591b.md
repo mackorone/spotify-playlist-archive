@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-210 songs - 12 hr 30 min
+212 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Barely Open](https://open.spotify.com/track/1KkfkJhP1xyZ5xZNkKFdyC) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp), [Landon Ryle](https://open.spotify.com/artist/1ZuahBYwNDFPAo6QAsnxTf) | [Barely Open](https://open.spotify.com/album/6UV98tpCgQmqmWZ8mPvHAg) | 4:00 | 2025-06-19 |  |
 | [Be Free](https://open.spotify.com/track/0fylbJr2BUY900Pwp021up) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO) | [Be Free](https://open.spotify.com/album/03b52JK9DHZi6pa3y5QJqT) | 2:32 | 2025-07-04 |  |
 | [Be My Baby](https://open.spotify.com/track/2CozAgDNZ6jxZCsZrtSFul) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 3:06 | 2025-07-18 |  |
+| [Be Somebody](https://open.spotify.com/track/08i4fdRU41VU7tdSlpVb14) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Be Somebody](https://open.spotify.com/album/0PDLin87k6ky44k0lo2Xts) | 2:45 | 2025-08-29 |  |
 | [Beautiful \- Ambient Mix](https://open.spotify.com/track/4UxPC9z8wDFRWFTH2qIYcE) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Beautiful](https://open.spotify.com/album/20jr0kmwPGbf6QFFK8lb76) | 4:51 | 2025-06-19 |  |
 | [Begin Again](https://open.spotify.com/track/4oB9WMQPDAWPDDhiuwAQcz) | [Soledrifter](https://open.spotify.com/artist/0sJTtqSRef7kNEI8afqDyy), [Tommie Cotton](https://open.spotify.com/artist/6YhRXzCs8JTH2eynvl9Cnv) | [Begin Again](https://open.spotify.com/album/5JoayytHdG1MDFdasMEhXn) | 3:05 | 2025-08-15 |  |
 | [Best Part Of Us \- Acoustic Version](https://open.spotify.com/track/28ddSLt7tvgX0qmcziAq2O) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us \(Acoustic Version\)](https://open.spotify.com/album/772h4Njc5s504JivFhxdK8) | 2:44 | 2025-07-18 |  |
@@ -52,6 +53,7 @@
 | [Curiosity](https://open.spotify.com/track/5nGHltMfN4Mv5X0KRxz1OE) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Atlas Internet Cafe](https://open.spotify.com/album/5NYixQn4hBXehTNROuqlAY) | 2:46 | 2025-06-19 |  |
 | [Dancing People Are Never Wrong](https://open.spotify.com/track/4admt90cSChznePxyzUVCP) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [The Bianca Story](https://open.spotify.com/artist/1p6obHqCF3E42HYbyQrHhE) | [Dancing People Are Never Wrong](https://open.spotify.com/album/3pISRwuc4xXShYnEp1L49R) | 3:19 | 2025-07-18 |  |
 | [Dark Belts](https://open.spotify.com/track/0tCD5iDugyIqGJALEG7jHB) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Cassini](https://open.spotify.com/album/6FE8QceGF0DzQyMIpWkvZq) | 3:55 | 2025-06-19 |  |
+| [Daydreams](https://open.spotify.com/track/2VVx8kelRCfVWeCCRqTqHs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Daydreams](https://open.spotify.com/album/0oASdkx9nrneQtqihIKvme) | 3:13 | 2025-08-29 |  |
 | [Deep Inside](https://open.spotify.com/track/2W7oS0eMpYU2lAAprAT6hL) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Summer Is Calling, Vol\. 1](https://open.spotify.com/album/2zaKbh9KmiTtkpSAHaeikd) | 2:43 | 2025-08-22 |  |
 | [Defiance](https://open.spotify.com/track/2hIqWlIinmg23A9uYQbi77) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R) | [Chill Executive Officer \(CEO\), Vol\. 37 \[Selected by Maykel Piron\]](https://open.spotify.com/album/0lA3lSQ5oQeOtQ8CV1QeG7) | 3:41 | 2025-07-04 |  |
 | [Disconnected](https://open.spotify.com/track/4LYaFcMoIwqRtaDCED5DJM) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Disconnected](https://open.spotify.com/album/52o5ZbStGF7H2ikwU447l8) | 4:36 | 2025-07-18 |  |

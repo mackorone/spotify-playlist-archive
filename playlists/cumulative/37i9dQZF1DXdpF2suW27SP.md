@@ -2,7 +2,7 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Julinho Ksd entra na zona.
+> Mizzy Miles, Teto & Ryu entram na zona.
 
 852 songs - 1 day 20 hr 55 min
 

@@ -4,7 +4,7 @@
 
 > Soft rain for restful sleeping
 
-247 songs - 11 hr 47 min
+247 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,6 @@
 | [Cool Air & Rain](https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH) | [Why Wynne](https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8) | [Drizzle Down](https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc) | 2:11 | 2022-04-07 |  |
 | [Cool Turbulence Rain](https://open.spotify.com/track/3bNmDdrA65YYjaNJ4fJm7k) | [Devika Arkes](https://open.spotify.com/artist/1QxXQCVzes3IC2zMLSGOQR) | [Rain Bliss](https://open.spotify.com/album/3XsdDkAezeXlQaCNwMUJgD) | 2:04 | 2022-04-07 |  |
 | [Cosy Morning Rain](https://open.spotify.com/track/3x1njiYHSttnMf3dLIVpAb) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Night Rain](https://open.spotify.com/album/6cxTguNqoApoXfmUUOPYb6) | 1:40 | 2022-04-07 | 2023-06-21 |
-| [Cosy Storm](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Noise of Water](https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:20 | 2022-04-07 |  |
 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 | 2022-04-07 |  |
 | [Cozy Rainstorm](https://open.spotify.com/track/5uE44R0FKMlwXkCEv2fNsg) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Rain](https://open.spotify.com/album/09uiRFIx0IzJozPYwxePUr) | 3:29 | 2022-04-07 |  |
 | [Darkened Nights](https://open.spotify.com/track/57fdbNKvnuUL0E5NxBEtsp) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Rainfall](https://open.spotify.com/album/1hcIsPiPlRtfRmY1pxpRXT) | 3:36 | 2022-04-07 |  |
@@ -240,6 +239,7 @@
 | [stormy hill](https://open.spotify.com/track/3L8Mm4pLUNUN8ladx83rUU) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [stormy hill](https://open.spotify.com/album/7DAVGaECRlp9l6s0tkW8NM) | 2:31 | 2022-04-07 | 2022-11-13 |
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2022-04-07 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2022-04-07 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2022-04-07 |  |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2022-04-07 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2022-04-07 |  |
 | [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 | 2022-04-07 |  |

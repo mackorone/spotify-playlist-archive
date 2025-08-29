@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-192 songs - 10 hr 44 min
+193 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [How Come](https://open.spotify.com/track/4xxh8QJvVvY70QVlIxtqfx) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:34 | 2024-03-30 |  |
 | [How Come](https://open.spotify.com/track/5TGqgKB5rS1midWmUVW3mR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:34 | 2024-02-04 | 2024-03-27 |
 | [How Come](https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Orginal Hound Dog](https://open.spotify.com/album/658zaQmPASrqYsobMOMJaq) | 2:36 | 2022-08-07 | 2024-02-01 |
+| [I Ain't No Fool Either](https://open.spotify.com/track/7n4SPaX8qnWgHNNOUUAD23) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:16 | 2025-08-29 |  |
 | [I Ain't No Fool Either](https://open.spotify.com/track/0DwsiGGLtI73QsaEusW498) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS) | 2:21 | 2025-01-07 | 2025-02-23 |
 | [I Ain'T No Fool Either](https://open.spotify.com/track/0MxbxO6TfmPqZ0VOKcbzFU) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:23 | 2024-02-08 | 2024-06-18 |
 | [I Ain't No Fool Either](https://open.spotify.com/track/7531kRO4g6zJHiMlYVYOy6) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:23 | 2022-08-18 | 2022-08-26 |
@@ -164,7 +165,7 @@
 | [Tell Me Pretty Baby](https://open.spotify.com/track/4UlyQrREv6y6TbCoOJ7Pjq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY) | 5:07 | 2022-08-05 | 2022-11-09 |
 | [Tell Me Pretty Baby \- 2022 Remaster](https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:07 | 2022-11-12 |  |
 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 | 2022-08-05 |  |
-| [The Big Change](https://open.spotify.com/track/1dtVIOyd80Z3q9vaqChGao) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:40 | 2025-08-18 | 2025-08-24 |
+| [The Big Change](https://open.spotify.com/track/1dtVIOyd80Z3q9vaqChGao) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:40 | 2025-08-18 |  |
 | [The Big Change](https://open.spotify.com/track/75MSIpS4EUiM6JnZ32FQKR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS) | 2:44 | 2025-01-20 | 2025-01-24 |
 | [The Big Change](https://open.spotify.com/track/3bZBypHEmW6TUx7JVHJ5FB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:44 | 2023-03-27 | 2023-09-01 |
 | [The Big Change](https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:45 | 2022-08-05 | 2022-10-13 |

@@ -2,7 +2,7 @@
 
 ### [iced matcha dreams 💫 ](https://open.spotify.com/playlist/37i9dQZF1DWWMOVAIsOBIW)
 
-> dreamy, sparkly pop \- for  journals, and iced matcha lattes
+> dreamy, sparkly pop \- for  junk journals, and iced matcha lattes
 
 50 songs - 2 hr 51 min
 

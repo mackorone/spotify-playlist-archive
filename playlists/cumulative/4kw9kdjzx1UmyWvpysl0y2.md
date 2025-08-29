@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,058 songs - 2 day 11 hr 17 min
+1,059 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Hopeless](https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Hopeless](https://open.spotify.com/album/4cUL3xUF0WnEM1L2KDLTPb) | 3:43 | 2024-05-29 | 2024-08-21 |
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
+| [Hyperfocus](https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Hyperfocus](https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc) | 3:13 | 2025-08-28 |  |
 | [Hyperstrike](https://open.spotify.com/track/0UKAhAIlMCi61n7Q8Q0hmR) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Hyperstrike](https://open.spotify.com/album/4OQXloIuW9Z0PTpPqIfF2d) | 3:19 | 2025-04-14 | 2025-07-09 |
 | [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 | 2024-05-07 |
 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-21 | 2024-11-13 |

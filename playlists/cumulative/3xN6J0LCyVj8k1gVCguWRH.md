@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,257 songs - 12 day 6 hr 3 min
+5,259 songs - 12 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2161,6 +2161,7 @@
 | [I Like Him / Them Changes / Party Girl / Human \- Mashup](https://open.spotify.com/track/3r7yEbiJDWPOFprhf0ksCR) | [Lola Coker](https://open.spotify.com/artist/4lur8moISLyua0JzmHpPrc) | [I Like Him / Them Changes / Party Girl / Human \(Mashup\)](https://open.spotify.com/album/4gkhyee81GCoLCTRZVqAfS) | 3:30 | 2020-07-21 | 2020-08-20 |
 | [I Like It](https://open.spotify.com/track/3yJlB7Y7iHJLjZIIsLIBL5) | [Bunnetta](https://open.spotify.com/artist/3U51hncaJNJkY13VBMArhu), [Gabriel Piattore](https://open.spotify.com/artist/2XGd4DB8hMeAoHDMazsaaN), [Bueno Mayo](https://open.spotify.com/artist/6kOw6SqZ8u6OCLsxK9gKOP), [Breezy Oakk](https://open.spotify.com/artist/01m2RgItagPeup61suqakE), [Wilson Pura Vida](https://open.spotify.com/artist/6prvYrBtl4c855HUYBBmuo) | [I Like It](https://open.spotify.com/album/2LqbyFgUiZJs1Vx7vTY9Wb) | 4:48 | 2024-07-20 | 2024-08-01 |
 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 | 2021-08-28 | 2021-09-11 |
+| [I Like It Rough](https://open.spotify.com/track/4UAQJBRVyoucUqCrQiKZQ3) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [I Like It Rough](https://open.spotify.com/album/1xsqxJGZt2N0Rte0OtTuXU) | 1:59 | 2025-08-28 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-08-12 |  |
 | [I Love Everything About You](https://open.spotify.com/track/40lFDDp9VfIIA5pifXygXM) | [IntraVknows](https://open.spotify.com/artist/0CUm8oyD2dE0kjhJUD2dGE) | [I Love Everything About You](https://open.spotify.com/album/7gEYgQLHUG4tSZ1gshnthL) | 3:32 | 2025-07-29 | 2025-08-28 |
 | [I Love the Night](https://open.spotify.com/track/1EtPElTFFiOou0DukonCCq) | [Who Are You Lutra Lutra ??](https://open.spotify.com/artist/5srt7b42Fps0sNWf88aard) | [Queensland Rain](https://open.spotify.com/album/6JETSL1rqQvRF9RNetl7CS) | 3:16 | 2022-08-05 | 2022-08-22 |
@@ -4406,6 +4407,7 @@
 | [Take You Out](https://open.spotify.com/track/5VXYORIQk8MEUNWG1l5zHx) | [Robin Cause](https://open.spotify.com/artist/6cUJpnoTruVkDeTfB9EK6F) | [Take You Out](https://open.spotify.com/album/5K0NNrVofI58gd8TgCTxv3) | 2:13 | 2023-08-25 | 2023-09-26 |
 | [Take You There](https://open.spotify.com/track/2jvhv0M8bc07k3xQOAkTXD) | [Drayon](https://open.spotify.com/artist/3HLLfu9pgy7YnmeAzB59wa) | [Take You There](https://open.spotify.com/album/63rTeiENuRInyplb33ha7C) | 2:38 | 2025-03-18 | 2025-03-30 |
 | [Take Your Time](https://open.spotify.com/track/3wD5A8WbLMFpXD5LpkpcTC) | [Mara Sol](https://open.spotify.com/artist/0UDswthm0YlfCrzJ488cJG) | [Take Your Time](https://open.spotify.com/album/5T15Kubwnfj60Gz2Pnp8ZR) | 3:40 | 2024-08-18 | 2024-08-30 |
+| [Take7](https://open.spotify.com/track/4mbHvpxRHErXuVxflcnmdH) | [Cam Be](https://open.spotify.com/artist/43Uz3wKgS1vaJ2xKCvEH8E), [Neak](https://open.spotify.com/artist/4QSOG2wDqDPm2BdgnNr3KM) | [a film called black](https://open.spotify.com/album/60Vagxb33XOBKABxhF2biZ) | 3:58 | 2025-08-28 |  |
 | [Taken By Dreams](https://open.spotify.com/track/01EW2EJIJuqLbDvz0hljWQ) | [MaKenzie Thomas](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0), [Rhythm&Truth](https://open.spotify.com/artist/0QIHW98V3e4bOsrhBpUGn7) | [Love, MaKenzie](https://open.spotify.com/album/7v6ZSabXARDkpTRmNRzFeR) | 3:52 | 2022-04-13 | 2022-04-29 |
 | [TAKING OFF](https://open.spotify.com/track/6XWk0BydYS1Yj9AFWW0Tyj) | [Leona Berlin](https://open.spotify.com/artist/0E8W46zqpbupCQg9MJwsTJ) | [TAKING OFF](https://open.spotify.com/album/0HaCTtexcCcZ4NDq749Dd2) | 4:03 | 2024-07-05 | 2024-07-17 |
 | [Tako Tsubo](https://open.spotify.com/track/3UkRzl6NoPVV44DTDQuWiX) | [SYLVANO](https://open.spotify.com/artist/4dE0APO4S5W1VLeYCKMuO4) | [Tako Tsubo](https://open.spotify.com/album/1lYJ2YaeSI3WtlZCfYIV3v) | 2:55 | 2024-10-18 | 2024-11-02 |

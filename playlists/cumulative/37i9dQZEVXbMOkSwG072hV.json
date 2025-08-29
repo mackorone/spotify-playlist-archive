@@ -24755,6 +24755,32 @@
     },
     {
       "album": {
+        "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
+        "url": "https://open.spotify.com/album/5lOW4YHylAtV72h5dpmjdu"
+      },
+      "artists": [
+        {
+          "name": "Gordinho Bolado",
+          "url": "https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77"
+        },
+        {
+          "name": "Felipe Original",
+          "url": "https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi"
+        },
+        {
+          "name": "Bolado na Base",
+          "url": "https://open.spotify.com/artist/2RL3LwofYTX5hz0xZjnVXP"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151270,
+      "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
+      "url": "https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz"
+    },
+    {
+      "album": {
         "name": "Eu Vou Bater Tambor",
         "url": "https://open.spotify.com/album/65jm5rQ8LqqMKYnGb0bMD0"
       },
@@ -34328,7 +34354,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 300373,
       "name": "Jesus Ta L\u00e1",
       "url": "https://open.spotify.com/track/7wSPaZVUps9HudUq5RGSKa"

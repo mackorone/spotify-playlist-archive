@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Los Caballeros De La Quema
 
-382 songs - 1 day 0 hr 33 min
+384 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 | 2022-07-06 |  |
 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 | 2022-06-29 | 2022-07-29 |
 | [Despiértate Nena \(Herencia Lebón\)](https://open.spotify.com/track/0sVPghWdY3HdWDZnPobjni) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [Herencia Lebón 1](https://open.spotify.com/album/4Tl5twEpmrOihG7K566fQn) | 4:56 | 2023-08-25 | 2023-09-22 |
+| [Despues de Ti](https://open.spotify.com/track/5SsBW4ZR0XKebM3NEtuY2r) | [Giros](https://open.spotify.com/artist/5qZ2Um0qzmcmSsIoMGg1Im), [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Despues de Ti](https://open.spotify.com/album/6qQ1jl8dt8F8pi3gZTV3x3) | 3:47 | 2025-08-29 |  |
 | [Detener el Tiempo](https://open.spotify.com/track/60PZ8GsP5PzSMnvTJaGjXw) | [Nacho Contreras](https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS) | [Detener el Tiempo](https://open.spotify.com/album/4yUzltg6s8AJKrIHA1Nb8c) | 2:50 | 2025-02-21 | 2025-04-04 |
 | [DOCTORA II](https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 5:37 | 2023-09-21 | 2024-04-19 |
 | [Domingo de lluvia](https://open.spotify.com/track/3Wq2c1bGTOapOtzmfFTUdH) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Lado Oscuro](https://open.spotify.com/album/77OI4ZSQBlNQxmXl9P3X2E) | 3:02 | 2025-08-15 |  |
@@ -298,7 +299,8 @@
 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 | 2022-07-01 |  |
 | [Rezando Solo \(En Vivo\)](https://open.spotify.com/track/0XSQ9yqkQ3Kx8U44QhkJ4b) | [Indio Solari y los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Rezando Solo \(En Vivo\)](https://open.spotify.com/album/6xU4VN8x2AImGFY93l5c8A) | 5:30 | 2022-06-29 | 2022-07-29 |
 | [Rezo por Vos](https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:29 | 2022-06-29 |  |
-| [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-08-01 |  |
+| [RNA](https://open.spotify.com/track/71D1njDu0BuVHOVxIq1XKH) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [RNA](https://open.spotify.com/album/6XG7U713s9z1QfIj1tl6R9) | 2:24 | 2025-08-29 |  |
+| [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 | 2025-08-01 | 2025-08-29 |
 | [Ríos de Lava](https://open.spotify.com/track/0f70fllnpYQJlADzm3dkEX) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Ríos de Lava \- Single](https://open.spotify.com/album/0KYN7DMEh83usaeNAXgV9i) | 3:43 | 2022-06-29 | 2022-07-29 |
 | [Sabias Palabras](https://open.spotify.com/track/2FejLYSy4vtLAEkmw0gVtk) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Sabias Palabras](https://open.spotify.com/album/5wde6HXV4RkeebjSBc8mqR) | 3:54 | 2025-02-28 | 2025-04-04 |
 | [Sabina y Piazzolla](https://open.spotify.com/track/4q5fAtYMfcBQorgbFZhRGE) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Sabina y Piazzolla](https://open.spotify.com/album/6D3M5OdaxgaZOdx50hXYTj) | 4:02 | 2023-06-23 | 2024-05-13 |
@@ -383,7 +385,7 @@
 | [Voy Dejando Atrás](https://open.spotify.com/track/6snF6krbkLtbfYq3Ue0rgo) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Voy Dejando Atrás](https://open.spotify.com/album/6BN8riRvckGDLeNDjJ5gJ7) | 4:22 | 2022-07-01 | 2022-07-28 |
 | [Washington](https://open.spotify.com/track/1kdC7TRPWpZC0O26qBggLD) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [LA FUERZA](https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC) | 4:12 | 2023-06-16 | 2023-08-26 |
 | [Ya Lo Sabés](https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:28 | 2022-06-29 | 2022-07-29 |
-| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2023-12-15 |  |
+| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2023-12-15 | 2025-08-29 |
 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 | 2022-11-08 | 2023-04-15 |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2022-07-19 | 2024-04-19 |
 | [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 | 2022-07-19 | 2022-07-25 |

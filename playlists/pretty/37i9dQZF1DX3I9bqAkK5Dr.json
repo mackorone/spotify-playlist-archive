@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! \nCover : Jagdish, Ayaan, Damini",
-  "num_followers": 40850,
+  "num_followers": 40858,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQ0tPi4YNt4h3MVeq6RxHS5XQlo",
+  "snapshot_id": "AAAAAHBGddk75rZDEzuNEsCP6wRKxGK6",
   "tracks": [
     {
       "added_at": "2025-06-26 14:17:50",
@@ -127,6 +127,30 @@
       "duration_ms": 300000,
       "name": "Sahana",
       "url": "https://open.spotify.com/track/2E7qd2YJGFGFrHv4NuHsfv"
+    },
+    {
+      "added_at": "2025-08-28 15:39:34",
+      "album": {
+        "name": "Ishtam",
+        "url": "https://open.spotify.com/album/1raEru2yGC5jhJA4YODNTj"
+      },
+      "artists": [
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Viswadeep",
+          "url": "https://open.spotify.com/artist/20eHdBJvNYtoZut3dAnK35"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "Ishtam",
+      "url": "https://open.spotify.com/track/5Kt4Ynpxw1dYXjyhxRlcna"
     },
     {
       "added_at": "2025-08-13 08:24:44",
@@ -635,30 +659,6 @@
       "duration_ms": 265384,
       "name": "Naa Kannula Mungitlo",
       "url": "https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4"
-    },
-    {
-      "added_at": "2024-05-20 06:55:32",
-      "album": {
-        "name": "Sinnadhani Soopule",
-        "url": "https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Saketh Komanduri",
-          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
-        },
-        {
-          "name": "Dasari Meghanaa Naidu",
-          "url": "https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "Sinnadhani Soopule",
-      "url": "https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI"
     },
     {
       "added_at": "2022-07-18 06:19:46",

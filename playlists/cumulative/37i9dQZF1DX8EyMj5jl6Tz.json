@@ -433,6 +433,32 @@
     },
     {
       "album": {
+        "name": "Black & Yellow (You Know What It Is)",
+        "url": "https://open.spotify.com/album/7dmEhweRMApVN0puJrBJMD"
+      },
+      "artists": [
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Black & Yellow (You Know What It Is)",
+      "url": "https://open.spotify.com/track/3V3lvMtl6LBfi62u1CQf77"
+    },
+    {
+      "album": {
         "name": "Bloody Mary",
         "url": "https://open.spotify.com/album/1NQrHje8ePDgOJNbEFxh9e"
       },
@@ -942,6 +968,28 @@
       "duration_ms": 146117,
       "name": "Eres Tu (Better Off Alone) [with Nicky Jam]",
       "url": "https://open.spotify.com/track/6NntHaXivKLrk5wGPOfyYj"
+    },
+    {
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/25awL6MI8fVp448RcXVLYn"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155859,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1wZbHTKhnHGuxAen2xwRpn"
     },
     {
       "album": {
@@ -2258,7 +2306,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 145326,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5F2AF7rY1J6pATMjxQXQKR"
@@ -2464,7 +2512,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 171555,
       "name": "Ritmo De La Noche (Vamos A La Playa)",
       "url": "https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo"
@@ -3432,6 +3480,50 @@
       "duration_ms": 173760,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/4a2f4vrwllEtdifbu6nBdg"
+    },
+    {
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/2vEirkieyW6IO3A8HZoxbv"
+      },
+      "artists": [
+        {
+          "name": "Billy The Kit",
+          "url": "https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171149,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/2OaZQ3D8RrRqQxjtzbMqQs"
+    },
+    {
+      "album": {
+        "name": "Vamos A La Playa",
+        "url": "https://open.spotify.com/album/10ZpTebByNNtpQKYVSNkwU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Vamos A La Playa",
+      "url": "https://open.spotify.com/track/0yspwHZDIr9AGqD2NmSNrc"
     },
     {
       "album": {

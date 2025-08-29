@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "1976",
+        "url": "https://open.spotify.com/album/3Lacl3x3kFDUNDaXwKH4JN"
+      },
+      "artists": [
+        {
+          "name": "Giobia",
+          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434318,
+      "name": "1976",
+      "url": "https://open.spotify.com/track/3y29lHaC7hjPrIkiuMvtDB"
+    },
+    {
+      "album": {
         "name": "20 Anni",
         "url": "https://open.spotify.com/album/70hFi8paYjGC46iKryIY2D"
       },
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 193933,
       "name": "AZZURRISSIMO",
       "url": "https://open.spotify.com/track/65A1gOtlKS8JMuSh2hANFX"
@@ -5189,6 +5207,28 @@
     },
     {
       "album": {
+        "name": "Clever",
+        "url": "https://open.spotify.com/album/2m2ZKSiyQkfdxV7NVW86aW"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "PENGSHUi",
+          "url": "https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159502,
+      "name": "Clever",
+      "url": "https://open.spotify.com/track/4BZ4ln6z5H7xu5JiOJKign"
+    },
+    {
+      "album": {
         "name": "COCKTAIL DI GAMBERI",
         "url": "https://open.spotify.com/album/57d3CXrTKi7iX7G0G9vDZq"
       },
@@ -6380,7 +6420,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 189636,
       "name": "Dal tramonto all'alba - Uomini in nero",
       "url": "https://open.spotify.com/track/1Wrbjeacx1OTuNbCoqYwLH"
@@ -9014,7 +9054,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 179184,
       "name": "Filler",
       "url": "https://open.spotify.com/track/16GFTOjmMxERZeoM5wyyL1"
@@ -11364,7 +11404,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 298166,
       "name": "hold you down",
       "url": "https://open.spotify.com/track/6AssdoPaRJS8VzmgK1L7w1"
@@ -13456,7 +13496,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 225733,
       "name": "koto",
       "url": "https://open.spotify.com/track/5yniFR8drO6iJjst7yr2p0"
@@ -13666,6 +13706,24 @@
       "duration_ms": 186155,
       "name": "La Band",
       "url": "https://open.spotify.com/track/72a2Fjwg7RJVuZ16k8ejEh"
+    },
+    {
+      "album": {
+        "name": "La Band",
+        "url": "https://open.spotify.com/album/168oxW1FUtHoZFPtJRJtlV"
+      },
+      "artists": [
+        {
+          "name": "Little Pieces of Marmelade",
+          "url": "https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285500,
+      "name": "La Band",
+      "url": "https://open.spotify.com/track/3bD69HK4kIPTC4C5Ddb0Mp"
     },
     {
       "album": {
@@ -18610,7 +18668,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 141600,
       "name": "Nu Crash",
       "url": "https://open.spotify.com/track/7AIvdcvikbJphZ663gp1Xe"
@@ -20314,7 +20372,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 211982,
       "name": "Pijama",
       "url": "https://open.spotify.com/track/3eWInGh94TsJluZORHEYUj"
@@ -20476,7 +20534,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 238000,
       "name": "Pisciacane",
       "url": "https://open.spotify.com/track/5C3dL3CvycjVoV07aSZVLn"
@@ -20984,6 +21042,28 @@
       "duration_ms": 173236,
       "name": "Practical Magic",
       "url": "https://open.spotify.com/track/7oHOCMEmkntfn5HKuM7b4h"
+    },
+    {
+      "album": {
+        "name": "Precipitiamo di sicuro",
+        "url": "https://open.spotify.com/album/7tFZgqCqjEWIJPyzsbRnQq"
+      },
+      "artists": [
+        {
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
+        },
+        {
+          "name": "Kalpa",
+          "url": "https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346813,
+      "name": "Precipitiamo di sicuro / Inc. (feat. Kalpa)",
+      "url": "https://open.spotify.com/track/2rSHmQt2qiAbQbPTAO50ET"
     },
     {
       "album": {
@@ -21716,7 +21796,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 208300,
       "name": "Ragazzi della baia",
       "url": "https://open.spotify.com/track/26lCXDLbYI8CrLzRsRd9UL"
@@ -21868,7 +21948,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 131685,
       "name": "RE DEL POGO",
       "url": "https://open.spotify.com/track/40buy3xMQENOySNMJ8oysu"
@@ -22428,6 +22508,24 @@
       "duration_ms": 134576,
       "name": "Rumore bianco",
       "url": "https://open.spotify.com/track/6s7rr8yzAFv1ckxvbH8iai"
+    },
+    {
+      "album": {
+        "name": "Run Like Hell",
+        "url": "https://open.spotify.com/album/3KvGUoDBvHkzJAelYYm8Ij"
+      },
+      "artists": [
+        {
+          "name": "Lake Jack",
+          "url": "https://open.spotify.com/artist/6ElX5JTkE4WR52zJr671u0"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Run Like Hell",
+      "url": "https://open.spotify.com/track/1uftj5jWJ9VcQrARuwLgi0"
     },
     {
       "album": {
@@ -27344,7 +27442,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 174857,
       "name": "ULTIMA",
       "url": "https://open.spotify.com/track/0OFsFGe3yGqGsCvFpKJq53"
@@ -27532,6 +27630,24 @@
       "duration_ms": 193524,
       "name": "UN MILIONE DI ANNI",
       "url": "https://open.spotify.com/track/77xWqxvnDdmOBptObU18PW"
+    },
+    {
+      "album": {
+        "name": "Un milione di anni",
+        "url": "https://open.spotify.com/album/0nqRSalfTZgRjJVKTYy7kr"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258099,
+      "name": "Un milione di anni",
+      "url": "https://open.spotify.com/track/3PP5bAeGdXQIdFUbXv0n56"
     },
     {
       "album": {
@@ -28012,7 +28128,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 180165,
       "name": "VELENO E CURA",
       "url": "https://open.spotify.com/track/2Iihu1erH7WLoP97nKcHmV"
@@ -28470,6 +28586,24 @@
       "duration_ms": 205818,
       "name": "VIVO",
       "url": "https://open.spotify.com/track/1AKdXiYcmFNohrmunRRPt9"
+    },
+    {
+      "album": {
+        "name": "VIVO",
+        "url": "https://open.spotify.com/album/3Zn2Ml9XyocrpqRs33BQUy"
+      },
+      "artists": [
+        {
+          "name": "NOVE",
+          "url": "https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184782,
+      "name": "VIVO",
+      "url": "https://open.spotify.com/track/6c8V6VOqQ60rSz5z34BBCh"
     },
     {
       "album": {

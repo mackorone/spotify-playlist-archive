@@ -3067,6 +3067,28 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2R2ghF8ZmMr6AWTA9lvhff"
+      },
+      "artists": [
+        {
+          "name": "RINZO",
+          "url": "https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf"
+        },
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186258,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1Zr1B7HQnDCGCOrL4lGHTB"
+    },
+    {
+      "album": {
         "name": "DELTA",
         "url": "https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH"
       },

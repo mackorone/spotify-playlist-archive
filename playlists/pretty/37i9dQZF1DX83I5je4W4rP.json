@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1071117,
+  "num_followers": 1071098,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
+        "name": "Set Yourself Free",
+        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Set Yourself Free",
-        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "All for You",
-        "url": "https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/4Yy6k6BnisqPKcMEJ1YmJI"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Round n Round",
         "url": "https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 296719,
       "name": "Round n Round (feat. Pepper & Kaleo Wassman)",
       "url": "https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/4Yy6k6BnisqPKcMEJ1YmJI"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 189094,
+      "name": "Free Your Mind (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
         "name": "Some Say the Ocean (Reggae Remix)",
         "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 189094,
-      "name": "Free Your Mind (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Sunburn (with Tropidelic)",
-        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
-      },
-      "artists": [
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 240435,
-      "name": "Sunburn (with Tropidelic)",
-      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Batshit Crazy",
         "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
@@ -1695,6 +1675,50 @@
       "duration_ms": 221870,
       "name": "Greed",
       "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Sunburn (with Tropidelic)",
+        "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
+      },
+      "artists": [
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 240435,
+      "name": "Sunburn (with Tropidelic)",
+      "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Floating (with Iration & The Elovaters)",
+        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Floating (with Iration & The Elovaters)",
+      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1747,30 +1771,6 @@
       "duration_ms": 244184,
       "name": "Things You Can't Control",
       "url": "https://open.spotify.com/track/7Ll4gdgKSLGayN7BGhyuSh"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Floating (with Iration & The Elovaters)",
-        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Floating (with Iration & The Elovaters)",
-      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Single for the Summer (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
       },
       "artists": [
         {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Single for the Summer (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+      "duration_ms": 199971,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1867,18 +1863,58 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+        "name": "Single for the Summer (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         }
       ],
-      "duration_ms": 199971,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+      "duration_ms": 159490,
+      "name": "Single for the Summer (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Tall Grass (with Surfer Girl)",
+        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
+      },
+      "artists": [
+        {
+          "name": "Beach Fly",
+          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 246064,
+      "name": "Tall Grass (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1907,42 +1943,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Tall Grass (with Surfer Girl)",
-        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
-      },
-      "artists": [
-        {
-          "name": "Beach Fly",
-          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 246064,
-      "name": "Tall Grass (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Good Times (Roll On)",
         "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
       },
@@ -1955,34 +1955,6 @@
       "duration_ms": 225371,
       "name": "Good Times (Roll On)",
       "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2023,6 +1995,34 @@
       "duration_ms": 269308,
       "name": "Dancing on the Moon (feat. Edley Shine)",
       "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
     },
     {
       "added_at": "2025-04-21 20:51:45",

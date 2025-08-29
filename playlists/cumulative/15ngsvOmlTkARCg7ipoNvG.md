@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,006 songs - 1 day 16 hr 33 min
+2,007 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,6 +1208,7 @@
 | [Not Alone](https://open.spotify.com/track/5Q92OPvXFuxp1zS71UtjDZ) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Drift](https://open.spotify.com/album/7rqa0u1lTDoT45FPqTYVfd) | 1:06 | 2022-01-12 |  |
 | [Nothing But Time](https://open.spotify.com/track/2jBi8yJimRvwD0jcUkhcHh) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
 | [Nothing But You And I](https://open.spotify.com/track/0qy0m8Qx0GqJih9QVaGLUG) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Late Night Conversations](https://open.spotify.com/album/1jKpY7zvJwX9uPLq9EbuOI) | 2:51 | 2022-01-12 | 2023-04-09 |
+| [Novel](https://open.spotify.com/track/0S9K8PIpnafXDfJrT5sJMO) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Novel](https://open.spotify.com/album/75bfgadiTpwhC3xBrtoVNw) | 1:00 | 2025-08-28 |  |
 | [November Arr\. For Cello](https://open.spotify.com/track/6xSzfVLucapWBYz6MwQwOF) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [November](https://open.spotify.com/album/2BqWlWVTsXtdbv992fVhHQ) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [November Love](https://open.spotify.com/track/0xNKEWs0xY0aqDQHRZMKno) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [November Love](https://open.spotify.com/album/4Mrgr1eP46hSzjo47gpjTU) | 1:00 | 2024-11-06 |  |
 | [November Nights Arr\. For Cello](https://open.spotify.com/track/26k7OzdahlD9GdbjJvPma4) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [November Nights](https://open.spotify.com/album/05bcrrcFV0dvcNWASKNpaZ) | 1:00 | 2024-02-09 | 2024-02-13 |

@@ -21657,6 +21657,24 @@
     },
     {
       "album": {
+        "name": "Novel",
+        "url": "https://open.spotify.com/album/75bfgadiTpwhC3xBrtoVNw"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60437,
+      "name": "Novel",
+      "url": "https://open.spotify.com/track/0S9K8PIpnafXDfJrT5sJMO"
+    },
+    {
+      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/2BqWlWVTsXtdbv992fVhHQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,414 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,430 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 19 | [War](https://open.spotify.com/track/0KFBeOOgwCtOgn8yucRy1X) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [War](https://open.spotify.com/album/5yiHTjdshcqtHKlmiJ5I6Y) | 2:50 |
 | 20 | [Woke Up This Morning](https://open.spotify.com/track/0T22HzueBkYKi1whnS1YiN) | [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Woke Up This Morning](https://open.spotify.com/album/1s3ijlyu1aRrxHy8ELBZyb) | 2:12 |
 | 21 | [My Enemies](https://open.spotify.com/track/6QUjDyRtxbX4e5X87hDuHh) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [My Enemies](https://open.spotify.com/album/6omnvGQhlFfXHc07X5jbHx) | 2:59 |
-| 22 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
+| 22 | [I Need Help](https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [I Need Help](https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2) | 2:48 |
 | 23 | [Still Here](https://open.spotify.com/track/2cuI3ZFQxp92Lw2Udgwucw) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Still Here](https://open.spotify.com/album/5CX6SJZM34BEFTBujK9T9i) | 2:55 |
 | 24 | [Passion Project](https://open.spotify.com/track/4bxzxkxvSmexHS9NpIWcPH) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Stik Figa](https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB) | [Passion Project](https://open.spotify.com/album/3zNxNz9uy4g6tdZN2ecpKN) | 3:05 |
 | 25 | [Our Father](https://open.spotify.com/track/3fnQzIs0LaYXGaABIodEXe) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Our Father](https://open.spotify.com/album/541gtz3E9adyiEz7VbPo4C) | 2:01 |

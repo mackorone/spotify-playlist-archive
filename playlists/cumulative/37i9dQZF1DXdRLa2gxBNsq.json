@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 160034,
       "name": "All Cayetanos Are Bastards",
       "url": "https://open.spotify.com/track/7zlGLO9CuP87PAqkthjoFj"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 240986,
       "name": "Herida de guerra",
       "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 130718,
       "name": "Huele a Mierda",
       "url": "https://open.spotify.com/track/1AgRFpZgvhQtTPlmAMGhAW"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 242230,
       "name": "Ingenier\u00eda Social",
       "url": "https://open.spotify.com/track/79rREhErzFjLRa8DmmupCo"
@@ -4913,6 +4913,24 @@
     },
     {
       "album": {
+        "name": "Profetas",
+        "url": "https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8"
+      },
+      "artists": [
+        {
+          "name": "Fatiga",
+          "url": "https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178050,
+      "name": "Profetas",
+      "url": "https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm"
+    },
+    {
+      "album": {
         "name": "Prozak, Etumina y Haloperidol",
         "url": "https://open.spotify.com/album/3ddUlQ4oxiHCjpzoRzG0xu"
       },
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 216592,
       "name": "Tres Cabezas",
       "url": "https://open.spotify.com/track/1GUx8HW9ycyXmKXVr1Vk2C"

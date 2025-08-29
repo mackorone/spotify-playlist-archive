@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-206 songs - 11 hr 13 min
+207 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 | 2025-04-16 |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 | 2025-04-16 |
 | [Pelangi \- From "Cikgu Diva"](https://open.spotify.com/track/07ZbuMc2LJNyA93ofiKtdp) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Pelangi \(From "Cikgu Diva"\)](https://open.spotify.com/album/65T4vUTaR6OMybcXa60Ebd) | 2:38 | 2025-01-16 | 2025-04-16 |
+| [Peluk](https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Peluk](https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q) | 4:03 | 2025-08-28 |  |
 | [Penjenayah](https://open.spotify.com/track/6kzPERocoSCCvzBvJTCqTT) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [Penjenayah](https://open.spotify.com/album/056axZKJqgBUyY417snj8I) | 2:57 | 2025-04-15 |  |
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-18 | 2024-12-05 |
 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 | 2025-04-15 |  |

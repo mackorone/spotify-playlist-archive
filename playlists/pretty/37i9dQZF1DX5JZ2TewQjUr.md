@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  宇宙幽靈 Uchu Yurei
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,366 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,368 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [路人潛能100](https://open.spotify.com/track/1fy2ujSdEHyMbACQLT2VxV) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [路人潛能100](https://open.spotify.com/album/5OMsrBxs7UEK33wTrARqJR) | 3:41 |
 | 100 | [FASHION](https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BALLOONS & BUBBLES](https://open.spotify.com/album/6m4m0bomFQOpBMgkDbRDwT) | 3:27 |
 
-Snapshot ID: `AAAAADsDgocq+oZOmU+CUUUwrMVJbnJP`
+Snapshot ID: `AAAAADMMpz1tN+taQll8apr2N01SVBtZ`

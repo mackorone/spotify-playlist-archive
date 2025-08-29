@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 209000,
       "name": "Maybe Someday - Dave Version",
       "url": "https://open.spotify.com/track/40rVAk5Yi5t5LRzkJmCEUg"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 149000,
       "name": "stuck on u",
       "url": "https://open.spotify.com/track/5AF1AJAWKPfjAVvIv1x2QQ"
@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "\u53ea\u60f3\u548c\u4f60\u770b\u6d77",
+        "url": "https://open.spotify.com/album/1yFAMKACHaHZO67Q1wVRHY"
+      },
+      "artists": [
+        {
+          "name": "Ruth Kueo",
+          "url": "https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189212,
+      "name": "\u53ea\u60f3\u548c\u4f60\u770b\u6d77",
+      "url": "https://open.spotify.com/track/2nPv2QOdzssVuE4BWxq3KD"
+    },
+    {
+      "album": {
         "name": "\u53ea\u60f3\u628a\u4f60\u5077\u5077\u85cf\u597d(\u300a\u5077\u5077\u85cf\u4e0d\u4f4f\u300b\u7535\u89c6\u5267\u4e3b\u9898\u66f2/\u7247\u5934\u66f2)",
         "url": "https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX"
       },
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 186122,
       "name": "\u5fc3\u52d5\u62cd\u62cd",
       "url": "https://open.spotify.com/track/7sUbenrBzw6retvleBHvUB"
@@ -6036,6 +6054,24 @@
       "duration_ms": 245292,
       "name": "\u6c92\u554f\u984c",
       "url": "https://open.spotify.com/track/6gcHyODO5PtwxkIB26OSMe"
+    },
+    {
+      "album": {
+        "name": "\u6c92\u6709\u9632\u5099",
+        "url": "https://open.spotify.com/album/1ZabWvUeTv49eJCdwHGCqH"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "\u6c92\u6709\u9632\u5099",
+      "url": "https://open.spotify.com/track/4o1VLDG427usXtT9rk2EO5"
     },
     {
       "album": {
@@ -8022,6 +8058,24 @@
       "duration_ms": 178442,
       "name": "\u9760\u8fd1",
       "url": "https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu"
+    },
+    {
+      "album": {
+        "name": "\u9760\u8fd1\u4e00\u70b9\uff01",
+        "url": "https://open.spotify.com/album/0EAYFu1kD503xowhb2BIi4"
+      },
+      "artists": [
+        {
+          "name": "HOW1E",
+          "url": "https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165194,
+      "name": "\u9760\u8fd1\u4e00\u70b9\uff01",
+      "url": "https://open.spotify.com/track/4hHWrmEHvE1eRpwCvcumdC"
     },
     {
       "album": {

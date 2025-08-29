@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24235,
+  "num_followers": 24236,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABuMlKUm+tKcqeXFu5HQI8T",
+  "snapshot_id": "aK5KgAAAAACmlzztr4dcqtGyAxjhEsk/",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "Midnight Regulations",
-      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Switcheroo Series",
         "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 219560,
       "name": "Charlie Sheen vs. Henry Rollins",
       "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/5ku47u1TTWQiq2YwPckmdx"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Emerald Street",
-      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Switcheroo Series",
         "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 347253,
       "name": "Tonight, I'm Going to Wash the Hippy",
       "url": "https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 195826,
+      "name": "Emerald Street",
+      "url": "https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,012 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,007 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [El Barrio \- Spanish](https://open.spotify.com/track/2x9drpriJTSJ5o6niM2Kk0) | [Hurricane G](https://open.spotify.com/artist/7qcHusKwagP6hU5r1mhhvl) | [All Woman](https://open.spotify.com/album/2jyaJHEHRC1zwkSaQae4GC) | 4:18 |
 | 32 | [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 |
 | 33 | [Vai dar Trabalho](https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Vai dar Trabalho](https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr) | 3:06 |
-| 34 | [Black Money](https://open.spotify.com/track/3xoCPJwnQ3ZI5szGsSsIc6) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:02 |
-| 35 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
+| 34 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
+| 35 | [Black Money](https://open.spotify.com/track/3xoCPJwnQ3ZI5szGsSsIc6) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:02 |
 | 36 | [Pose](https://open.spotify.com/track/1yPJYuQktZ51yGXHlsKras) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Zaila](https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj) | [Pose](https://open.spotify.com/album/6W0sVbgxTdfYkkVYZo3Ksl) | 3:34 |
 | 37 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
 | 38 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 |

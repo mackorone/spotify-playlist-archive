@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 26 | [da primeira vez \(from the first time\)](https://open.spotify.com/track/6MUBtm6xa86IvHYw9e0u4k) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Todas as coisas do coração](https://open.spotify.com/album/2q73QEdkpX3QOVeG3vLj8W) | 3:21 |
 | 27 | [Run With Me](https://open.spotify.com/track/44c7rjIm7eMKVT66tz5cOP) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:21 |
 | 28 | [Déjà Vu](https://open.spotify.com/track/7ipXvWl43mmCl2kgBZg9FR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:56 |
-| 29 | [I Would](https://open.spotify.com/track/3RmMJsu61de81IF81mMLhl) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [I Would](https://open.spotify.com/album/37VisWjdFZUOuWuqAAe466) | 3:44 |
-| 30 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
+| 29 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
+| 30 | [I Would](https://open.spotify.com/track/3RmMJsu61de81IF81mMLhl) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [I Would](https://open.spotify.com/album/37VisWjdFZUOuWuqAAe466) | 3:44 |
 | 31 | [Keeping Love Alive](https://open.spotify.com/track/7kCCdSNqB49oplJe3vnc19) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Endurance](https://open.spotify.com/album/0k1VF4vzODNMUQageIc3j5) | 2:03 |
 | 32 | [Beautiful Life](https://open.spotify.com/track/7riLWN8xJpulvAYzvFcKS4) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Union J \(Deluxe\)](https://open.spotify.com/album/3uUmVrNEI2rGGeaREn3zlE) | 4:03 |
 | 33 | [Beautiful to Me](https://open.spotify.com/track/7fa1oiFqQFhlO8ghtLIGpR) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:33 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 95 | [All I Care About Is You](https://open.spotify.com/track/7MFeKvFDQugbhKLbCqbfPA) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Given Up, Giving Up](https://open.spotify.com/album/5LRp2IQEmVCF8DyEZchYLJ) | 3:02 |
 | 96 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `Ab6pqgAAAACJyOVeMRbDzgknbNNqIcXW`
+Snapshot ID: `Ab6vSgAAAAChrAL2Z1xKjVHqqOZKSW9M`

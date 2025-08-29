@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,404 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,449 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 43 | [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 |
 | 44 | [Come Take My Hand \- Spiady Remix](https://open.spotify.com/track/7gX4bpFwdU52E2XKSCjFOw) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs) | [Come Take My Hand \(Spiady Remix\)](https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6) | 2:40 |
 | 45 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
-| 46 | [Hardcore Riot](https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Hardcore Riot](https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP) | 2:40 |
-| 47 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 46 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
+| 47 | [Hardcore Riot](https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Hardcore Riot](https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP) | 2:40 |
 | 48 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
-| 49 | [Madness](https://open.spotify.com/track/7uakufDBCclVj27i5DUtwx) | [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Madness](https://open.spotify.com/album/2YCJDUX94R7AM7JbMrR4QV) | 2:43 |
-| 50 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
+| 49 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
+| 50 | [Madness](https://open.spotify.com/track/7uakufDBCclVj27i5DUtwx) | [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Madness](https://open.spotify.com/album/2YCJDUX94R7AM7JbMrR4QV) | 2:43 |
 
 Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

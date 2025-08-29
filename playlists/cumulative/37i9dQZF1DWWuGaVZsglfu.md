@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Rombongan Bodonk Koplo, Ncum
+> The best tracks from the world of music\. Cover: Silet Open Up, Jacson Seran, Juan Reza, Diva Aurel
 
 394 songs - 22 hr 21 min
 

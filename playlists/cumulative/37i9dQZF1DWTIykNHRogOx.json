@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec disiz",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Le retour des beaux jours",
+        "url": "https://open.spotify.com/album/45IfEOM2tJVHxpNiC9uOmG"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215546,
+      "name": "Le retour des beaux jours",
+      "url": "https://open.spotify.com/track/7yFFmbTlVZZHW33AdcMBKP"
+    },
+    {
+      "album": {
         "name": "Le rivage",
         "url": "https://open.spotify.com/album/1edaYiBOVXqs0WFwTNGLO9"
       },
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 149493,
       "name": "Le spleen d\u2019une vie sublime",
       "url": "https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 206000,
       "name": "Saisons",
       "url": "https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw"
@@ -3750,6 +3768,28 @@
       "duration_ms": 200984,
       "name": "\u00c0 quoi tu penses ?",
       "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"
+    },
+    {
+      "album": {
+        "name": "\u00c7a va",
+        "url": "https://open.spotify.com/album/28H5Pp4wCwxWkGv15589Nl"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "\u00c7a va",
+      "url": "https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9"
     },
     {
       "album": {

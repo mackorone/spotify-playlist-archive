@@ -1,12 +1,12 @@
 {
   "description": "Intimate, sultry, satisfying. =",
-  "num_followers": 841691,
+  "num_followers": 842219,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC7yAALX5Ik+2/j9fEyTuBMH651v",
+  "snapshot_id": "AAAAAAWv3mlNNK9nXH54XpCTIZPfIzTu",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:21",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-08-15 04:00:21",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 234853,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r"
+    },
+    {
+      "added_at": "2025-08-15 04:00:21",
+      "album": {
         "name": "Mezzanine",
         "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 234853,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-08-15 04:00:21",
       "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 328293,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF"
-    },
-    {
-      "added_at": "2025-08-15 04:00:21",
-      "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 126120,
       "name": "Ghostride",
       "url": "https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS"
+    },
+    {
+      "added_at": "2025-08-15 04:00:21",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 328293,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF"
     },
     {
       "added_at": "2025-08-15 04:00:21",

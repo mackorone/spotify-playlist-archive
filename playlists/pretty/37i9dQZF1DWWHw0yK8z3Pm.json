@@ -1,12 +1,12 @@
 {
-  "description": "Fearless sounds at the crossroads of country and folk. Cover: Tyler Childers",
-  "num_followers": 68610,
+  "description": "Fearless sounds at the crossroads of country and folk. Cover: Martin Kerr",
+  "num_followers": 68615,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIC6xkG4wK6nRsHE1tndV+KA7TLU",
+  "snapshot_id": "AAAAAJrVvHfUwszVyx7wzjRhNlUW07i7",
   "tracks": [
     {
       "added_at": "2025-08-14 17:11:47",
@@ -25,60 +25,52 @@
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
-      "added_at": "2025-08-14 17:11:47",
+      "added_at": "2025-08-29 00:01:20",
       "album": {
-        "name": "Better than the Floor",
-        "url": "https://open.spotify.com/album/5zprpbKkTiYN1NO8DHfdB7"
+        "name": "Great Joy & Happiness",
+        "url": "https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs"
+      },
+      "artists": [
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Great Joy & Happiness",
+      "url": "https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
       },
       "artists": [
         {
           "name": "Sam Barber",
           "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 189502,
-      "name": "Better than the Floor",
-      "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
+      "duration_ms": 228546,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-08-29 00:01:20",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Overdue for a Revolution",
+        "url": "https://open.spotify.com/album/2FvoGSx1dL19dFLDz1tYYD"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Martin Kerr",
+          "url": "https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t"
         }
       ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2025-08-22 00:01:30",
-      "album": {
-        "name": "Something In The Way",
-        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 302592,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4rWfkKTQmpeH4UZvDAw2PR"
     },
     {
       "added_at": "2025-08-14 17:11:47",
@@ -117,20 +109,24 @@
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
-      "added_at": "2025-08-08 00:01:27",
+      "added_at": "2025-08-29 00:01:20",
       "album": {
-        "name": "Losing Streak",
-        "url": "https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h"
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/0FPQrFfvzrzs9lmFBUzu9D"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Julianna Riolino",
+          "url": "https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b"
+        },
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
         }
       ],
-      "duration_ms": 249870,
-      "name": "Losing Streak",
-      "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
+      "duration_ms": 262213,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf"
     },
     {
       "added_at": "2025-08-22 00:01:30",
@@ -187,18 +183,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "added_at": "2025-08-08 00:01:27",
@@ -215,22 +215,6 @@
       "duration_ms": 221626,
       "name": "Swim Practice",
       "url": "https://open.spotify.com/track/7lwqsnc3iWCFXpRGuiuUqQ"
-    },
-    {
-      "added_at": "2025-08-08 00:01:27",
-      "album": {
-        "name": "Are We Feeling Okay?",
-        "url": "https://open.spotify.com/album/26aCuNIGoKs8vy0fPpUZLJ"
-      },
-      "artists": [
-        {
-          "name": "Evan Redsky",
-          "url": "https://open.spotify.com/artist/1qZng7TJN7pOHMSUItFB8s"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Are We Feeling Okay?",
-      "url": "https://open.spotify.com/track/1JD7DkwwolY7oUgE67mLew"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -253,6 +237,22 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 240413,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
+    },
+    {
       "added_at": "2025-07-25 04:01:35",
       "album": {
         "name": "Goldie Montana",
@@ -271,8 +271,8 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 240413,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
@@ -335,22 +319,6 @@
       "duration_ms": 202653,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Colorado, TX",
-        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
-      },
-      "artists": [
-        {
-          "name": "Mah Moud",
-          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Colorado, TX",
-      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -371,6 +339,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Colorado, TX",
+        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Colorado, TX",
+      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "No Place Left to Leave (2006)",
         "url": "https://open.spotify.com/album/2dUlzOFbYohtRpYHXklj0K"
       },
@@ -387,8 +371,24 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH"
+      "duration_ms": 224108,
+      "name": "Music for the Soul",
+      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -465,10 +465,10 @@
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
     },
     {
-      "added_at": "2025-08-01 04:01:27",
+      "added_at": "2025-07-25 04:01:35",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+        "name": "Home Tonight",
+        "url": "https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 224108,
-      "name": "Music for the Soul",
-      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
+      "duration_ms": 207212,
+      "name": "Home Tonight",
+      "url": "https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -545,20 +545,24 @@
       "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
     },
     {
-      "added_at": "2025-07-25 04:01:35",
+      "added_at": "2025-08-14 17:11:47",
       "album": {
-        "name": "Home Tonight",
-        "url": "https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA"
+        "name": "Better than the Floor",
+        "url": "https://open.spotify.com/album/5zprpbKkTiYN1NO8DHfdB7"
       },
       "artists": [
         {
           "name": "Sam Barber",
           "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 207212,
-      "name": "Home Tonight",
-      "url": "https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG"
+      "duration_ms": 189502,
+      "name": "Better than the Floor",
+      "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -675,6 +679,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Lavender Days",
+        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "The Otter",
+      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Elderberry Wine",
         "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
       },
@@ -691,18 +711,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Lavender Days",
-        "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
+        "name": "Underdressed at the Symphony",
+        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 178080,
-      "name": "The Otter",
-      "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
+      "duration_ms": 213355,
+      "name": "Underdressed at the Symphony",
+      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -723,22 +743,6 @@
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Underdressed at the Symphony",
-        "url": "https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 213355,
-      "name": "Underdressed at the Symphony",
-      "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -889,6 +893,22 @@
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
     },
     {
+      "added_at": "2025-08-22 00:01:30",
+      "album": {
+        "name": "Something In The Way",
+        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 302592,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
+    },
+    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
@@ -903,6 +923,22 @@
       "duration_ms": 229357,
       "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
+    },
+    {
+      "added_at": "2025-08-22 00:01:30",
+      "album": {
+        "name": "Devil\u2019s Den",
+        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 230112,
+      "name": "The Great Caucasian God",
+      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -951,22 +987,6 @@
       "duration_ms": 179829,
       "name": "Milwaukee",
       "url": "https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G"
-    },
-    {
-      "added_at": "2025-08-22 00:01:30",
-      "album": {
-        "name": "Devil\u2019s Den",
-        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 230112,
-      "name": "The Great Caucasian God",
-      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1107,22 +1127,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Life Lessons",
         "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
       },
@@ -1151,6 +1155,22 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1235,18 +1255,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+        "name": "Misty Morning",
+        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+      "duration_ms": 182866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1267,34 +1287,18 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Misty Morning",
-        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
       },
       "artists": [
         {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Save Your Soul / Say Goodbye, Tell No One",
-        "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Save Your Soul",
-      "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1311,6 +1315,22 @@
       "duration_ms": 248706,
       "name": "Mean Old Sun",
       "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Save Your Soul / Say Goodbye, Tell No One",
+        "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Save Your Soul",
+      "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1361,6 +1381,22 @@
       "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     },
     {
+      "added_at": "2025-08-08 00:01:27",
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 249870,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
+    },
+    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "American Dreaming",
@@ -1393,20 +1429,20 @@
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
     },
     {
-      "added_at": "2025-07-11 04:00:29",
+      "added_at": "2025-08-22 00:01:30",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+        "name": "Billionaire",
+        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+      "duration_ms": 250200,
+      "name": "Billionaire",
+      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1429,20 +1465,20 @@
       "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
     },
     {
-      "added_at": "2025-08-22 00:01:30",
+      "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Billionaire",
-        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
       "artists": [
         {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Billionaire",
-      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1479,22 +1515,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "One More Dance Around The Sun",
         "url": "https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS"
       },
@@ -1507,6 +1527,22 @@
       "duration_ms": 286211,
       "name": "One More Dance Around The Sun",
       "url": "https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/3eMDuIysSkp3nUlmTrxbfx"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1635,38 +1671,6 @@
       "duration_ms": 227000,
       "name": "Bibles In Hotel Rooms",
       "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Pain Pills Or Pews EP",
-        "url": "https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 182392,
-      "name": "Ain't Dead Yet",
-      "url": "https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Down Rounder",
-        "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 139333,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
     }
   ],
   "unique_name": "Renegades",

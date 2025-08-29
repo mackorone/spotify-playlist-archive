@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Lagu\-lagu dari artis perempuan inspiratif Indonesia\. Dikurasi bersama dengan Tissa Biani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,302 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,304 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

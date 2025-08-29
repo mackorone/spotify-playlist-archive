@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Mickael Carreira,	Anselmo Ralph, Tony Carreira, Toy
+> Uma playlist de pura alma pop! Foto: Yasmine & Nenny
 
-294 songs - 15 hr 33 min
+295 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 |  |
 | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/track/3LintSc7Y6RlQAsJT9aJPc) | [Mariza](https://open.spotify.com/artist/65nZq8l5VZRG4X445F5kmN) | [AMAR\-TE \- A COLORS SHOW](https://open.spotify.com/album/0hRkh7InnZ2mgmqylauavI) | 3:40 | 2024-11-01 | 2024-11-15 |
 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 | 2024-07-11 |  |
-| [Amor](https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Amor](https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm) | 3:19 | 2025-07-25 |  |
+| [Amor](https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Amor](https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm) | 3:19 | 2025-07-25 | 2025-08-29 |
 | [Amor de Agosto](https://open.spotify.com/track/6wVVIGFQdgQkYYEaYcGC2M) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Amor de Agosto](https://open.spotify.com/album/43OLhOCAzmBiNuoNS856NS) | 2:49 | 2025-07-17 |  |
 | [Amor de Ferro](https://open.spotify.com/track/7LET87zmdD3hHXmijQwR9r) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Pedro Abrunhosa](https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR) | [Amor de Ferro](https://open.spotify.com/album/41VTRpC4jsaDttVJqZaAzm) | 3:34 | 2024-06-27 | 2025-02-07 |
 | [Amor De Ganga](https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz) | [Miguel Luz](https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm) | [Amor De Ganga](https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT) | 3:26 | 2024-10-24 | 2025-03-14 |
@@ -126,6 +126,7 @@
 | [FAZ DE CONTA](https://open.spotify.com/track/7EZDGijQNTqyGiAvfDImPM) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [LUV IS A LEGACY](https://open.spotify.com/album/0UBZuBDUto5yCLqlVTFJPR) | 2:52 | 2024-11-08 | 2024-12-13 |
 | [Feitos de Carne e Osso](https://open.spotify.com/track/4dQbdqBvaYqCivQtZn7dpW) | [Tomás Rocha](https://open.spotify.com/artist/1yTbBPlT5SgrGUTa6sYjnd), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Feitos de Carne e Osso](https://open.spotify.com/album/1kofreqUl3caFAfpCkE78u) | 3:00 | 2025-03-14 | 2025-05-23 |
 | [Fica](https://open.spotify.com/track/71aUNoaXhwTWfLdWkHCMDW) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Fica](https://open.spotify.com/album/3ZPGpDLZvb7uF9IAKC656t) | 2:59 | 2025-01-17 | 2025-02-28 |
+| [Fica À Espera](https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Fica À Espera](https://open.spotify.com/album/47pnlWiEK2a1Weg7OiMbfF) | 3:21 | 2025-08-28 |  |
 | [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 | 2024-07-18 | 2024-09-06 |
 | [Flash](https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Flash](https://open.spotify.com/album/48CCNFMg4Mw7GOiL66oRvG) | 3:24 | 2024-09-05 | 2024-11-15 |
 | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 | 2024-08-15 | 2025-03-14 |

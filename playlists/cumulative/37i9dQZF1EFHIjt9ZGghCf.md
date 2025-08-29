@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 18 hr 4 min
+176 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Cast My Cares](https://open.spotify.com/track/0jGFiSskGornBEhfkdmd8R) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Son of a Father](https://open.spotify.com/album/3RRe0jzYthFNe1KJxTRdg6) | 4:19 | 2024-06-11 |  |
 | [Champion \(Live\)](https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:46 | 2024-07-13 |  |
 | [Champion \- Live](https://open.spotify.com/track/2YRx8jviX9HnvxD0uDIOma) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 8:46 | 2024-06-11 | 2024-07-14 |
+| [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 | 2025-08-28 |  |
 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 | 2024-06-11 | 2025-02-16 |
-| [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 | 2025-02-15 |  |
+| [Champion/Gratitude \- Live](https://open.spotify.com/track/7C29F2bxN0l5E6p8XMk32U) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/3ipf9dH4349UTXQQD0yRVH) | 10:46 | 2025-02-15 | 2025-08-29 |
 | [circles](https://open.spotify.com/track/1J4G6pMK5dUAzDvCEu7oAR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 | 2024-07-12 |  |
 | [circles](https://open.spotify.com/track/4uTuS5lSl8sWzvgTaisrwl) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:49 | 2024-06-11 | 2024-07-13 |
 | [Cold Outside](https://open.spotify.com/track/7DvyZPGqOg41haNQrlPUGO) | [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Cold Outside](https://open.spotify.com/album/7HcdCG3pd2TnJTuJE5HOGB) | 3:49 | 2024-06-11 | 2025-08-04 |

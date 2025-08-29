@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Deep, ambient and dub techno soundscapes.",
-  "name": "Deep Techno",
+  "description": "techno you can relax/study to ",
+  "name": "ambient techno",
   "tracks": [
     {
       "album": {
@@ -688,6 +688,28 @@
       "duration_ms": 475986,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo"
+    },
+    {
+      "album": {
+        "name": "Jazz Da Bazz",
+        "url": "https://open.spotify.com/album/24MqTjPyjWFrCFdPpxx8wt"
+      },
+      "artists": [
+        {
+          "name": "Recoil [ZA]",
+          "url": "https://open.spotify.com/artist/0GzKP9rOJeR7mkw0kfqjJa"
+        },
+        {
+          "name": "Secret Cinema",
+          "url": "https://open.spotify.com/artist/6TrT2n9RVox8c9xpffVKyW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414250,
+      "name": "Jazz Da Bazz",
+      "url": "https://open.spotify.com/track/2crt4Lq4DTkAHdThJiWU7r"
     },
     {
       "album": {
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 520466,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK"

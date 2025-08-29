@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige!  🦇
+> Den bästa och största rocklistan i Sverige!
 
-340 songs - 21 hr 28 min
+344 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 | 2024-06-27 | 2024-09-27 |
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2024-06-27 | 2025-01-10 |
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
-| [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 | 2025-03-27 |  |
+| [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 | 2025-03-27 | 2025-08-29 |
 | [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-29 | 2025-06-27 |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-06-27 | 2024-09-07 |
 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 | 2024-06-27 | 2025-03-14 |
@@ -195,6 +195,7 @@
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-02-28 |
 | [Man or Machine](https://open.spotify.com/track/67qbDFm5D85FW1SdQdR3zJ) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Man or Machine](https://open.spotify.com/album/47PTlWJZ63K44apcONGkjo) | 2:54 | 2025-02-20 | 2025-04-25 |
 | [Mark Of My Sins](https://open.spotify.com/track/2NCjHF264ecPXqOrcgp8Da) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Mark Of My Sins](https://open.spotify.com/album/4yoXS8P9Ejz8co7Wkugba4) | 3:19 | 2025-04-24 |  |
+| [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 | 2025-08-28 |  |
 | [Masquerade](https://open.spotify.com/track/3f90dK4nMplILHk6x8N0ln) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Masquerade](https://open.spotify.com/album/6w90gfyharUnFixdrtpWll) | 3:03 | 2024-06-27 | 2024-09-20 |
 | [MAYHEM](https://open.spotify.com/track/5k7ZBC0OtY7WezS1ZnY1O3) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [MAYHEM](https://open.spotify.com/album/6tsPVTCmhiyDS5YOr4nQWM) | 3:03 | 2024-09-19 | 2024-12-20 |
 | [Maze of Fools](https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Maze of Fools](https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay) | 3:18 | 2024-11-21 | 2025-01-10 |
@@ -234,9 +235,11 @@
 | [Random Acts of Violence](https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Random Acts of Violence](https://open.spotify.com/album/0bXLGRMVw2yxYLDCCfn2vX) | 4:06 | 2024-06-27 | 2024-11-19 |
 | [Recoil](https://open.spotify.com/track/2QVacWXUWzvPIIIqyTc2m5) | [Liar Thief Bandit](https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi) | [ICON](https://open.spotify.com/album/3OTFgfsxf9fKpZNkN0FBjg) | 4:31 | 2024-06-27 | 2025-03-14 |
 | [Red](https://open.spotify.com/track/6ObVNFIAGmcZX7Wykx0e6h) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Red](https://open.spotify.com/album/67cg1m0SxkTuCkvadzvg7o) | 3:30 | 2024-06-27 | 2025-01-24 |
+| [Red, White and Jersey](https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 3:36 | 2025-08-28 |  |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-22 | 2025-08-22 |
 | [Roar Like Thunder](https://open.spotify.com/track/2504SqP5lMZIiRKoTkvPUN) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Roar Like Thunder](https://open.spotify.com/album/75D9FDdpYuEj7dp1hMhKIM) | 3:07 | 2025-03-20 | 2025-05-16 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-27 | 2025-01-24 |
+| [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-08-28 |  |
 | [Run to the Hills \- 1998 Remastered Version](https://open.spotify.com/track/2JS1iE5A5RHvUPH5Zl9jlF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 3:53 | 2024-06-27 | 2025-04-12 |
 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-06-27 | 2024-09-07 |
 | [Running to You](https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Running to You](https://open.spotify.com/album/5ALki6UvIzJh0velsJFYQn) | 3:03 | 2025-04-03 | 2025-04-25 |
@@ -276,7 +279,7 @@
 | [Tack och förlåt](https://open.spotify.com/track/1ChrAQySLLaU0SZeLApkcy) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Tack och förlåt](https://open.spotify.com/album/6NeIVfl4HZwtM3jdLMDE4u) | 3:45 | 2024-06-27 | 2024-09-20 |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-06 | 2024-09-27 |
 | [Take My Hand](https://open.spotify.com/track/7GHIoYHCbk6PbmWQlz578M) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Take My Hand](https://open.spotify.com/album/5gwqxGeT5yLGfG3Uy8z1KU) | 2:46 | 2024-08-22 | 2024-11-08 |
-| [Take the Power](https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dirty & Divine](https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr) | 2:58 | 2025-02-06 |  |
+| [Take the Power](https://open.spotify.com/track/4aXuTRHtpIluJ17qdv4Ier) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dirty & Divine](https://open.spotify.com/album/0ud2bmJAS87JO2eYEqkMNr) | 2:58 | 2025-02-06 | 2025-08-29 |
 | [Teenage Rebel](https://open.spotify.com/track/0i5DEAK979g2ZN8JLhQe7L) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:32 | 2024-06-27 | 2024-11-08 |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-04-24 | 2025-06-06 |
 | [The Age of AGI](https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W) | [Endigo](https://open.spotify.com/artist/6CMARBTk7A5cN9UW9LZqDj) | [The Age of AGI](https://open.spotify.com/album/4Tw9c6YmLJlLEv8fCJvgpM) | 3:44 | 2024-06-27 | 2024-09-20 |
@@ -310,12 +313,13 @@
 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 | 2024-06-27 | 2024-11-08 |
 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 | 2025-05-15 |  |
 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 | 2024-12-19 | 2025-06-20 |
-| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 |  |
+| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-29 |
+| [Tonight We Must Be Warriors](https://open.spotify.com/track/0zYWqMOr2xtOEGM8B326fw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Tonight We Must Be Warriors](https://open.spotify.com/album/7qU5jLj7GI7h9pNk1spCU5) | 4:10 | 2025-08-28 |  |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-02-14 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-10 |
 | [Unbreakable](https://open.spotify.com/track/2aCDSwEeyqRbTI0iaroTWZ) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Unbreakable](https://open.spotify.com/album/3akqEprag6eKeObpB2iB44) | 4:49 | 2025-07-10 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-03-28 |
-| [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 |  |
+| [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-19 | 2025-08-29 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-11-07 | 2025-04-12 |
 | [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 | 2025-06-12 |  |

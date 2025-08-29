@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-684 songs - 1 day 10 hr 39 min
+686 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [An unexpected guest](https://open.spotify.com/track/5DWJOyeZPXPJlIog4SLMlo) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [An unexpected guest](https://open.spotify.com/album/5RyEiIubY9MsKtIEU8H10z) | 3:05 | 2024-03-08 | 2024-08-07 |
 | [Angel Eyes](https://open.spotify.com/track/26lMfUWnrXOXQb9XJpuy6F) | [Grace Wither](https://open.spotify.com/artist/2vGiqF0un3L1GYZZcu1Fs3) | [Angel Eyes](https://open.spotify.com/album/3VDsMjedDDreoeWb4THND9) | 2:32 | 2023-01-05 | 2023-05-05 |
 | [Another Night](https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Another Night](https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG) | 2:25 | 2024-01-12 | 2024-12-10 |
+| [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 | 2025-08-28 |  |
 | [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2023-09-22 | 2024-06-28 |
 | [Around Me](https://open.spotify.com/track/3GCaoFaGqlbsSXFCFrHozb) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Around Me](https://open.spotify.com/album/6878HE0QBMwKRpceYf0U5z) | 2:42 | 2023-04-13 | 2025-05-10 |
 | [As Time Goes By](https://open.spotify.com/track/1YGrZ7JjSgG0F5mkPTLJd1) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [As Time Goes By](https://open.spotify.com/album/7scZsHKFNYwwCD7S6U057m) | 4:02 | 2022-05-24 | 2023-02-17 |
@@ -179,6 +180,7 @@
 | [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 | 2024-04-24 |
 | [Eyes of a Child](https://open.spotify.com/track/7pY8FzCYOWKHu34PsSk5Bb) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Eyes of a Child](https://open.spotify.com/album/0FUmnuEG5fyCj24OWHhNNB) | 2:54 | 2024-08-19 |  |
 | [Fading Away](https://open.spotify.com/track/2Lj90XBNH1Tl3vtD6vJcUj) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Fading Away](https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET) | 2:47 | 2025-03-10 |  |
+| [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 | 2025-08-28 |  |
 | [Faithful In Paradise](https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Faithful In Paradise](https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY) | 2:17 | 2024-04-02 | 2025-02-11 |
 | [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling Grace](https://open.spotify.com/track/6Kxymny2MGIHFaUr7oRZz2) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [Falling Grace](https://open.spotify.com/album/3ZfFf7JB18eNSCh91qCIsg) | 2:08 | 2024-07-12 |  |
@@ -206,7 +208,7 @@
 | [From Me To You](https://open.spotify.com/track/1aHk3RgcwX99ZuADGGOKRy) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [From Me To You](https://open.spotify.com/album/3RH2RB6gQFANVxsSXa6WFN) | 2:37 | 2024-04-02 | 2025-08-20 |
 | [From Now on](https://open.spotify.com/track/47XEkNeHaDlKs440AyBMij) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [From Now on](https://open.spotify.com/album/1ceMaaWO0tpwrgx7LzLeuJ) | 2:35 | 2024-04-17 |  |
 | [From The Moment \(When We Kissed\)](https://open.spotify.com/track/3CuXYUD4I9WUUremPavOWb) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [From The Moment \(When We Kissed\)](https://open.spotify.com/album/3YoAr5li2rHJEorMksbwc1) | 4:11 | 2024-02-02 | 2025-02-11 |
-| [Full Moon Hike](https://open.spotify.com/track/3AtccUNxKL52a5RNrcd2bk) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Full Moon Hike](https://open.spotify.com/album/2jpf5Zh64f7t8Rn0XByGNa) | 2:23 | 2023-05-25 |  |
+| [Full Moon Hike](https://open.spotify.com/track/3AtccUNxKL52a5RNrcd2bk) | [Jan Holdsworth](https://open.spotify.com/artist/1xefND4JiYjKNKPGc7ng1I) | [Full Moon Hike](https://open.spotify.com/album/2jpf5Zh64f7t8Rn0XByGNa) | 2:23 | 2023-05-25 | 2025-08-29 |
 | [Genil](https://open.spotify.com/track/3OEAQoD8wzqvmKgLXFhUYI) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Genil](https://open.spotify.com/album/68CUVHoFKWeYgv68RrMstw) | 2:41 | 2024-01-05 |  |
 | [Gentle Nightfall](https://open.spotify.com/track/4C7ShIQ1lzkwlwJhfCnXcD) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Gentle Nightfall](https://open.spotify.com/album/6NQyqE4zhqTlaLUcFgnHlK) | 3:53 | 2023-11-17 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/6KGqqJais6l3hxsn0D0U5d) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [Georgia On My Mind](https://open.spotify.com/album/28eTmi4KQYJ3iu3pRqT27u) | 3:30 | 2022-04-12 | 2025-03-04 |
@@ -329,7 +331,7 @@
 | [Leave Us Fonder](https://open.spotify.com/track/3LjHn0yHI37EQryp4DSnRe) | [Yuffin Joah](https://open.spotify.com/artist/33XuwZaY3Ku1OgM4f5xwz8) | [Leave Us Fonder](https://open.spotify.com/album/3vc6MOXMp1pOyo37yWSkbO) | 2:05 | 2025-08-01 |  |
 | [Lenox Hill](https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Lenox Hill](https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7) | 2:31 | 2023-02-23 |  |
 | [Let Me know you](https://open.spotify.com/track/7Go50FPzlQ1qlBUaZa8PTj) | [Elliot Baxter](https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq) | [Let Me know you](https://open.spotify.com/album/3roUKIfkQYUfbCstEpTLYr) | 2:41 | 2024-02-02 | 2024-07-13 |
-| [Let us go](https://open.spotify.com/track/1mktGHzwYkZp9CtcZXY6Lo) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Let us go](https://open.spotify.com/album/2E5xCcnk1weh6XdcnGyARg) | 2:36 | 2024-05-23 |  |
+| [Let us go](https://open.spotify.com/track/1mktGHzwYkZp9CtcZXY6Lo) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Let us go](https://open.spotify.com/album/2E5xCcnk1weh6XdcnGyARg) | 2:36 | 2024-05-23 | 2025-08-29 |
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 | 2025-07-02 |
 | [Let's Get Away](https://open.spotify.com/track/3sE2c9m6eByRjMBDvWMs2c) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Let's Get Away](https://open.spotify.com/album/6KJJn6jCQLDGh2TMJk0Kgf) | 2:49 | 2024-02-23 | 2024-06-18 |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-10 | 2025-07-24 |

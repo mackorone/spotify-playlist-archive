@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-179 songs - 13 hr 54 min
+180 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Quiéreme](https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:06 | 2024-03-28 |  |
 | [Recuerdame](https://open.spotify.com/track/4MaCRgEVU0iP2gIfnCLATK) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 3:29 | 2022-12-16 | 2024-04-19 |
 | [Recuerdos De Un Amor](https://open.spotify.com/track/3wuz9mtkYKNghH1RspSFr9) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 3:59 | 2024-03-28 |  |
-| [Regalame una Noche](https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:08 | 2024-03-28 |  |
+| [Recuérdame](https://open.spotify.com/track/3guEMz0qsJBGZD3pNL5y9K) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Inquietos por el Mundo](https://open.spotify.com/album/5shy1nYHyjL9JhC72V5uFx) | 3:27 | 2024-03-28 |  |
+| [Regalame una Noche](https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:08 | 2024-03-28 | 2025-08-29 |
 | [Relicario de besos](https://open.spotify.com/track/3wUK8PFIIFHuOHQWbRmAMV) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam) | 4:15 | 2024-03-28 | 2025-02-24 |
 | [Se Me Salen las Lagrimas](https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [De Primera](https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc) | 5:07 | 2024-03-28 | 2024-10-24 |
 | [Señora](https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 100 Vallenatos más Recordados, Dedicados, Vendidos, Sonados\. Vol.1](https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI) | 3:58 | 2024-03-28 | 2025-05-22 |

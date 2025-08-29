@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Scared of Myself",
+        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Scared of Myself",
+      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },

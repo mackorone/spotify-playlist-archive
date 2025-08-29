@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-404 songs - 21 hr 20 min
+405 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Work My Move](https://open.spotify.com/track/4jalCHulbDNFm6oFDWSPGA) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [4 Days In LA](https://open.spotify.com/album/7vt6urA0qadT8GzMqyytfU) | 2:43 | 2025-01-09 | 2025-04-12 |
 | [WORKIN ME](https://open.spotify.com/track/4MAsYGSgxsaj73dC2lvFC4) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:49 | 2023-12-13 |  |
 | [WYO \(feat\. BlakeIANA\)](https://open.spotify.com/track/1bh0NqcTg6oaqpSEMWSWW4) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:36 | 2023-12-13 |  |
+| [Yacht Master](https://open.spotify.com/track/6hg1eLB1PW0psRa3RBOnHj) | [Xuliyo](https://open.spotify.com/artist/3TIeNIMPocxv51llx8JNwq) | [Yacht Master](https://open.spotify.com/album/32sdZgXXoqns7O3ONgwJSW) | 3:12 | 2025-08-28 |  |
 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 | 2023-12-13 | 2025-07-10 |
 | [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Don Season 2](https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto) | 3:00 | 2025-07-09 |  |
 | [Yellow](https://open.spotify.com/track/4Hj5yNHgu2dyrnzRQN7Gld) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:00 | 2025-06-27 |  |

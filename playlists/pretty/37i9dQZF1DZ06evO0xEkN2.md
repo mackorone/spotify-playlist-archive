@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,485 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,515 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xEkN2.md) - [plain]
 | 49 | [Cha Cha Love](https://open.spotify.com/track/0qD5NSPzBWhSc8zdpJ6brO) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha\-Cha Love](https://open.spotify.com/album/33GzwOk7AR9y4fJyp7UIhk) | 3:32 |
 | 50 | [A Todos los Rumberos](https://open.spotify.com/track/5hIDmYCrX2be6ZolvvItJe) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 4:31 |
 
-Snapshot ID: `aKz5AAAAAADPjYzrNlu+tYb9SF1Tp37g`
+Snapshot ID: `aK5KgAAAAABrCD2cG92N6+xfmgvHdABt`

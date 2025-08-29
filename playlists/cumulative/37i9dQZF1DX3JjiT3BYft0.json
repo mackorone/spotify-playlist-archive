@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Feathered Dreams",
+        "url": "https://open.spotify.com/album/3nB1xLYWLMUA8gpi1Zq68m"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253300,
+      "name": "Portray Empathy",
+      "url": "https://open.spotify.com/track/21EwZl3EMt5UPD6XhzpuJB"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0"
       },
@@ -8028,7 +8046,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 255000,
       "name": "\u8a93\u3044\u306eWingbeat",
       "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"

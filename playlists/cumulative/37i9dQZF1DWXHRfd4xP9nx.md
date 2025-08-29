@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-347 songs - 16 hr 21 min
+347 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,6 @@
 | [Cool Air & Rain](https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH) | [Why Wynne](https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8) | [Drizzle Down](https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc) | 2:11 | 2022-10-27 |  |
 | [Cool Turbulence Rain](https://open.spotify.com/track/3bNmDdrA65YYjaNJ4fJm7k) | [Devika Arkes](https://open.spotify.com/artist/1QxXQCVzes3IC2zMLSGOQR) | [Rain Bliss](https://open.spotify.com/album/3XsdDkAezeXlQaCNwMUJgD) | 2:04 | 2022-10-27 |  |
 | [Cosy Morning Rain](https://open.spotify.com/track/3x1njiYHSttnMf3dLIVpAb) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Night Rain](https://open.spotify.com/album/6cxTguNqoApoXfmUUOPYb6) | 1:40 | 2022-10-27 | 2023-12-21 |
-| [Cosy Storm](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Noise of Water](https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 2:20 | 2023-12-20 |  |
 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 | 2022-10-27 |  |
 | [Cozy Calming Nocturnal Rain](https://open.spotify.com/track/7yfJG16maztJXFzCQ3RJEa) | [Drip\-Drop](https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA) | [Nocturnal Cozy Rain](https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA) | 2:40 | 2022-10-27 |  |
 | [Deciduous Forest Rain](https://open.spotify.com/track/7EjYp81XPWKHiTC2sBuDcb) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain for Soothing Souls](https://open.spotify.com/album/23kglUYmApubc91wqBaE58) | 3:00 | 2023-12-20 |  |
@@ -322,11 +321,12 @@
 | [Sunday](https://open.spotify.com/track/4eiy9EuD5I1fj0q1icyX4s) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:33 | 2023-12-20 |  |
 | [Sunday Clouds](https://open.spotify.com/track/3MEnQB3hVAixFDItaDAYPB) | [Tom D\. Waters](https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh) | [Sunday Clouds](https://open.spotify.com/album/5eWYCjOMNRIKOJ3Jf2uIMi) | 2:33 | 2023-12-20 |  |
 | [Surrender to rain](https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5) | [Rayne](https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy) | [Surrender to rain](https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq) | 3:28 | 2022-10-27 |  |
+| [Sweater Weather](https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Noise of Water](https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK) | 1:58 | 2023-12-20 |  |
 | [Tempête printanière](https://open.spotify.com/track/6WKm1ecd68hRHzvQ4geEcX) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Une tempête humide](https://open.spotify.com/album/4bo1Q8gx21bcEUemVUE7YS) | 2:24 | 2023-12-20 |  |
 | [Thailand Thunderstorm \(Nature\)](https://open.spotify.com/track/5RCT6cwxeRYNV4KbOh1taU) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 4:11 | 2023-12-20 |  |
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2022-10-27 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2022-10-27 |  |
-| [The Noise Generator](https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP) | [The Noise Generator](https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:58 | 2022-10-27 |  |
+| [The Noise Generator](https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:58 | 2022-10-27 |  |
 | [The Sky's Crying](https://open.spotify.com/track/1h8pTlNe6iVtLezUkNC0H2) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Undulation](https://open.spotify.com/album/7zeMN53HHrixeogYjoWEXv) | 3:28 | 2022-10-27 | 2023-12-21 |
 | [There Is Always Tomorrow](https://open.spotify.com/track/5w2MqEtJPba4bMvVn7wtkh) | [Aquamoon](https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA) | [Waterworlds](https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM) | 1:48 | 2022-10-27 | 2023-12-21 |
 | [Thunder Around The Clock](https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Century Storm](https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ) | 2:20 | 2023-12-20 |  |

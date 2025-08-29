@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,022 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,685 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 50 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 |
 
-Snapshot ID: `AAAAAOUERg2QdQnPO7e0wZlr3ToBSJZe`
+Snapshot ID: `AAAAABYhozQi1VZVqw23I2cKpuMGwuPz`

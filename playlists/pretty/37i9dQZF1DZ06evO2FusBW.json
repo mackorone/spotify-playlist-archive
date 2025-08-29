@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10941,
+  "num_followers": 10942,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAACw8d3Gjo7VnBwNKL4WQ/NE",
+  "snapshot_id": "aK5KgAAAAABvMH/1IZ+zEHE7GgfSIW7s",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twilight Meditation",
-        "url": "https://open.spotify.com/album/4ytfQGxT3f06uV1Q5oY2II"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 298468,
-      "name": "Twilight Meditation",
-      "url": "https://open.spotify.com/track/29s05gFh3nl12QRV4pgNbB"
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Twilight Meditation",
+        "url": "https://open.spotify.com/album/4ytfQGxT3f06uV1Q5oY2II"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 137213,
-      "name": "Memory of Water",
-      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
+      "duration_ms": 298468,
+      "name": "Twilight Meditation",
+      "url": "https://open.spotify.com/track/29s05gFh3nl12QRV4pgNbB"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193133,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Flo",
-      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 170346,
       "name": "La Vernatelle",
       "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Flo",
+      "url": "https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 310240,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotive Piano",
         "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 114633,
       "name": "Perfect Balance",
       "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 310240,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 111",
-        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 142083,
-      "name": "Meditation 111",
-      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 3",
         "url": "https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 230604,
       "name": "Meditation 3",
       "url": "https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meditation 111",
+        "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 142083,
+      "name": "Meditation 111",
+      "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Winter Impressions",
         "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208871,
       "name": "Falling into a Dream",
       "url": "https://open.spotify.com/track/6RGnazKbWUw3YQUR9Cd5Y3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
     },
     {
       "added_at": null,

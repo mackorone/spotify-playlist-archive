@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 1 min
+167 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BlaBlaBla](https://open.spotify.com/track/14XKk6Ly4Os7O3KKMLBnfP) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:34 | 2024-06-06 |  |
 | [Blank](https://open.spotify.com/track/0FqfiePOpYPAbzfxgusZBh) | [NAVA](https://open.spotify.com/artist/07fJSFMHRMV8YKbiwpE67R) | [Bloom](https://open.spotify.com/album/5rZR4RN5PQnbhlhYb2Yauf) | 2:29 | 2024-04-29 |  |
 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 | 2024-04-29 |  |
+| [Bottiglie Vuote](https://open.spotify.com/track/31kO7My7HtRGRv0M20QZRN) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:15 | 2025-08-28 |  |
 | [BREAKOUT v10](https://open.spotify.com/track/6bkNqpZYmcM4kbOCa8ubPl) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:19 | 2024-04-29 |  |
 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 | 2024-04-29 |  |
 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 | 2024-04-29 |  |

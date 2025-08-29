@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-322 songs - 14 hr 23 min
+322 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Breathe Out](https://open.spotify.com/track/5PEATiUtV0CSiIczAYLSUx) | [Michael Pole](https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk) | [Relaxation Storm](https://open.spotify.com/album/6YGgvY6PR6WN4Go2sm5BfK) | 2:02 | 2021-11-10 |  |
 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 | 2021-11-10 |  |
 | [By The Window](https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:01 | 2023-02-13 |  |
-| [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Tropicallers](https://open.spotify.com/artist/4yWbv6GvbwNLjPGgvQkSfr) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-02-13 |  |
+| [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Regendans](https://open.spotify.com/artist/1E2RM3DEqGzR4ZX6cyHVY3) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-02-13 |  |
 | [Calm Deluge Sounds](https://open.spotify.com/track/28WIaeozgN7ff4JoXlOywG) | [Wilderness Recorders](https://open.spotify.com/artist/7yWuFubtaAy9QImLX4oZsY) | [Afternoon Rain Sounds](https://open.spotify.com/album/5AQPFFr9p2fKvcnzK8B6TZ) | 2:44 | 2023-02-13 | 2025-08-26 |
 | [Calm Rain & Thunder](https://open.spotify.com/track/5fkUSLLclp3LdXiMw3zTgR) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Rain & Thunder](https://open.spotify.com/album/06gtdmD7olwgoeFyiGjTeI) | 3:20 | 2021-11-10 | 2023-02-14 |
 | [Calm Rain and Distant Thunder](https://open.spotify.com/track/44h6z1eReBUJaTl0cY8pof) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 2:06 | 2021-11-10 | 2022-03-05 |
@@ -51,6 +51,7 @@
 | [Dark skies](https://open.spotify.com/track/48jzJCr5iHi1aMuhTKlXP0) | [LWD Rain](https://open.spotify.com/artist/6lrsSXFmqs1QlXzV9XjQxL) | [LWD Rain](https://open.spotify.com/album/2XXKpJdXfo89hdDUJwrNJH) | 2:01 | 2021-11-10 |  |
 | [Dark Storm](https://open.spotify.com/track/2bI4BdFdtdDBM2q3xB3IZR) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:00 | 2021-11-10 |  |
 | [Das Unwetter](https://open.spotify.com/track/7D9DQF0eBc7E3OLBNXaKIu) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Regen und Donner](https://open.spotify.com/album/094KCo8MLAqrfNjBkDkI46) | 3:12 | 2021-11-10 |  |
+| [Deep Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2021-11-10 |  |
 | [Deep Rain Thunder](https://open.spotify.com/track/06l4p419P3L42mTUa5KJw4) | [VDWW](https://open.spotify.com/artist/5wVLiKYylh7CoORGyuVgS2) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 1:55 | 2021-11-10 | 2023-06-16 |
 | [Deep Rumble](https://open.spotify.com/track/6VBbtB6SJVmhCnRnqSt9Ec) | [Oblitzy](https://open.spotify.com/artist/10uSPhynSCflghfXy9d11O) | [Deep Rumble](https://open.spotify.com/album/0Sg3nFvTjNSsZysu6JiGFz) | 2:15 | 2023-02-13 |  |
 | [Deep Storm](https://open.spotify.com/track/5T9OJA2LwDfIy2N6tEoJSD) | [Illustrike](https://open.spotify.com/artist/3fSaLzfLqxs7heaciEryrS) | [Deep Storm](https://open.spotify.com/album/36LIkvquwcFFqod2v2diY7) | 2:48 | 2023-02-13 |  |
@@ -127,7 +128,6 @@
 | [Light Rain \- Distant Thunder](https://open.spotify.com/track/3Cs5FEzThXXBVwavjW2DaX) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 2:58 | 2021-11-10 |  |
 | [Light Rain and Thunder](https://open.spotify.com/track/3rsXIGQjD96knIRVdayTBe) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Resting \(Rain and Rivers\)](https://open.spotify.com/album/0cFuXOpJc5jFYnKJVIHfbW) | 3:08 | 2021-11-10 |  |
 | [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2023-02-13 |  |
-| [Light Rain Thunder](https://open.spotify.com/track/7lxs4cWZvIUrjA1iSWpCot) | [VDWW](https://open.spotify.com/artist/5wVLiKYylh7CoORGyuVgS2) | [VDWW](https://open.spotify.com/album/5uyVbRWOOEPzlOGv6Q1oNP) | 2:10 | 2021-11-10 |  |
 | [Light Thunder](https://open.spotify.com/track/4FhNfshbuUPgY5ckqdgvYG) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Latent Heat](https://open.spotify.com/album/6DoMdu0QC5znGu4jG2BvVp) | 2:39 | 2021-11-10 |  |
 | [Light Up The Sky](https://open.spotify.com/track/7bnY0z3DPNHk3gfhLvAuvx) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Lightning In the Sky](https://open.spotify.com/album/76XtY4E8aszFjzA6jRySU5) | 3:28 | 2021-11-10 |  |
 | [Lightning](https://open.spotify.com/track/17T1PhUwVor4Q4ZdqhkVL7) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Rumbling Storm](https://open.spotify.com/album/4Lc0u3AHqUcO9d9gSx9wak) | 3:36 | 2021-11-10 |  |
@@ -171,7 +171,6 @@
 | [Orage et pluie](https://open.spotify.com/track/69VKaaJc2F7oRttcg6tTC7) | [Hi\-Def FX](https://open.spotify.com/artist/114xO3n0xOrXmOLqwVoHj2) | [Légère pluie d'orage](https://open.spotify.com/album/2SGw4AZyKFo9jMVOXsSQqy) | 2:09 | 2021-11-10 |  |
 | [Out In the Wild](https://open.spotify.com/track/4H2UoVHDlQe6t14ulSYW6y) | [Rainy Forecast](https://open.spotify.com/artist/5GYZ767vZMxu1fBVrkQd8K) | [Rainy Forecast](https://open.spotify.com/album/69fopENmMR03vJpI5kxLSK) | 2:28 | 2021-11-10 |  |
 | [Pacific Thunderstorm](https://open.spotify.com/track/6Gn6lVvz2hQM6b23dVZmyB) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mindful Nature Sounds](https://open.spotify.com/album/1JDDBTwePa24pDBW7NGrp7) | 1:56 | 2021-11-10 | 2023-06-16 |
-| [Peaceful Weather](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Exclusive Nature](https://open.spotify.com/artist/0hc7iYm9MFl0ST7NrCXeDt) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 2:17 | 2021-11-10 |  |
 | [Perfect Rain](https://open.spotify.com/track/7MhZHbrf3xvUdUBO0NCWYJ) | [Eva Poured](https://open.spotify.com/artist/2onyfad7LrF4JDAJ0AuuGt) | [Incloudly](https://open.spotify.com/album/6EE0pydRvW6K1TcNlu4T4s) | 2:01 | 2021-11-10 |  |
 | [Piogga](https://open.spotify.com/track/0ZRTBESw4BjX22iOcU3kRx) | [L'acqua Cade](https://open.spotify.com/artist/6LvjboIMlXnreAptglx2SP) | [Gocce](https://open.spotify.com/album/7Meq6WVLcmNcK9r4Sn3WvQ) | 2:39 | 2021-11-10 |  |
 | [Pleasing Thunder](https://open.spotify.com/track/5CQNpdepfUJbBoNHJu60Z9) | [Heatriction](https://open.spotify.com/artist/2FbDF4xiccQePu55TLkYHx) | [Thunder Nap](https://open.spotify.com/album/6CJ2CVPzlBhg9bfLQbQ1yJ) | 3:38 | 2023-02-13 |  |
@@ -190,6 +189,7 @@
 | [Rain & Thunder](https://open.spotify.com/track/390qr10wt5OInQ92Vd7ADt) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Rain & Thunder](https://open.spotify.com/album/3lSiIzAOT48IJLDgNb3Orw) | 3:12 | 2021-11-10 |  |
 | [Rain & Thunder Outside The Palace](https://open.spotify.com/track/5H6GwQZbsw9LSewKcfb57O) | [Royal Rain](https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe) | [Rain For The Queen](https://open.spotify.com/album/2q0IUlA89T4UMf4n4j2DMR) | 3:30 | 2023-02-13 |  |
 | [Rain & Thunderstorms in the Neighbourhood](https://open.spotify.com/track/7dmtnsYMNqLCYo9FpOdo4E) | [Pluviæ](https://open.spotify.com/artist/5C2cVr4FbejP0dqohKdUgV) | [Nocturno](https://open.spotify.com/album/0vX6BWyW01PaXOvWmeoQao) | 1:38 | 2021-11-10 | 2023-02-14 |
+| [Rain and Thunder](https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Exclusive Nature](https://open.spotify.com/album/6MwRMdOHG26JL8ZdZpCjow) | 1:24 | 2021-11-10 |  |
 | [Rain Coming Down](https://open.spotify.com/track/24lHr1XxXOxfaHkF7ZR5Zc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [A Stormy Night](https://open.spotify.com/album/6HLYpQwA1LmxmduBYqWfAC) | 3:36 | 2021-11-10 |  |
 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 | 2021-11-10 |  |
 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 | 2023-06-15 |  |

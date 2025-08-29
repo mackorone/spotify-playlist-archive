@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
 
 257 songs - 18 hr 0 min
 

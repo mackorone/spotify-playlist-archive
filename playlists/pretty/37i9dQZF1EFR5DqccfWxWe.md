@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 43 | [Dime Si Hay Algo](https://open.spotify.com/track/01Pj5LzkZ3BFA3JilDeG5I) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/7IckMsQqMkoc70tL61rIMb) | 2:40 |
 | 44 | [Hoy](https://open.spotify.com/track/775kAAJaXWoBW5C6cUq6Qd) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 4:17 |
 | 45 | [Nada](https://open.spotify.com/track/7bmrNLt6Ah2wat6l5S6UPx) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:49 |
-| 46 | [Lo Pide El Alma](https://open.spotify.com/track/7e2HwACzhFgtk3dRI8BEa5) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo) | [Lo Pide El Alma](https://open.spotify.com/album/2tAVR9qi9EEpucu72yxSO0) | 3:57 |
-| 47 | [Este Fuego \- De La Telenovela "Fuego Ardiente"](https://open.spotify.com/track/761N0nQAx5t2td96kc3T51) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Este Fuego \(De La Telenovela "Fuego Ardiente"\)](https://open.spotify.com/album/7IW4bOn7VYTxOsiUop7RbZ) | 2:55 |
+| 46 | [Este Fuego \- De La Telenovela "Fuego Ardiente"](https://open.spotify.com/track/761N0nQAx5t2td96kc3T51) | [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Este Fuego \(De La Telenovela "Fuego Ardiente"\)](https://open.spotify.com/album/7IW4bOn7VYTxOsiUop7RbZ) | 2:55 |
+| 47 | [Lo Pide El Alma](https://open.spotify.com/track/7e2HwACzhFgtk3dRI8BEa5) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo) | [Lo Pide El Alma](https://open.spotify.com/album/2tAVR9qi9EEpucu72yxSO0) | 3:57 |
 | 48 | [Los Rotos](https://open.spotify.com/track/4LfaPS55yqBB6RcXISNTJw) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Los Rotos](https://open.spotify.com/album/6bk5BlDLY3NQzfRUpFOTRW) | 3:26 |
 | 49 | [Amor Enemigo](https://open.spotify.com/track/09ShSF60AV1k3q4cuK9W4f) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 3:23 |
 | 50 | [Gold](https://open.spotify.com/track/5tNnFb9USigmVjX7djoylM) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:48 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 82 | [Moon](https://open.spotify.com/track/2Pb0asnHvIdA3ucKxL6jDq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:28 |
 | 83 | [Es Natural](https://open.spotify.com/track/6aOOqRlTsuctw37ZdSKi9E) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:55 |
 | 84 | [How Many Times \- Spanish Version](https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG) | 3:25 |
-| 85 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
-| 86 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
+| 85 | [Encontrei](https://open.spotify.com/track/0IsDPloVKxEerfg2agbXdE) | [Marina Elali](https://open.spotify.com/artist/77Wl6L20WG41VO6pqpHrkL) | [Novelas](https://open.spotify.com/album/1W9H44bGFEzck4PlrmKq9q) | 4:13 |
+| 86 | [Demons](https://open.spotify.com/track/7ENsj3LM785UVmHRjKRIkq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:39 |
 | 87 | [Tanto Tanto](https://open.spotify.com/track/2x8msXIipcu1jAfCQiI0E3) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 3:08 |
 | 88 | [El Río](https://open.spotify.com/track/3gXGDykfDtnjMhJnB95wfy) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Que No Me Falte la Voz](https://open.spotify.com/album/2ZhZD15Y01S8wapcjUqc3h) | 3:04 |
 | 89 | [Perdón](https://open.spotify.com/track/4ahFxPMoOnLiIcmF2Vvznh) | [Johann Vera](https://open.spotify.com/artist/3LP4XtcdBxAaO3ZevTTppB) | [Perdón](https://open.spotify.com/album/2Q4d9ZQdMCUp5UdW80wAal) | 3:14 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 152 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 | 153 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 
-Snapshot ID: `Ab6pqgAAAAAm07WAlBHsIgIYs1m++J9K`
+Snapshot ID: `Ab6vVAAAAAANeA3JBcKXXgCgAJMZ6Tm1`

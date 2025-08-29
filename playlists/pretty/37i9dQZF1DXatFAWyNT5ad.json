@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 150187,
+  "num_followers": 150201,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Takes One To Know One",
-        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Takes One To Know One",
-      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 224968,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Takes One To Know One",
+        "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Takes One To Know One",
+      "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "FEAR OF HEIGHTS",
         "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 154189,
       "name": "FEAR OF HEIGHTS",
       "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 180114,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
+    },
+    {
       "added_at": "2025-08-15 04:00:09",
       "album": {
         "name": "RENO (ALL IN)",
@@ -943,6 +959,38 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -963,54 +1011,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 180114,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Communicating",
-        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Communicating",
-      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Communicating",
+        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Communicating",
+      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 140363,
       "name": "The Watchers",
       "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "JUMP!",
-        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 194928,
-      "name": "JUMP!",
-      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1621,22 +1621,6 @@
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
     },
     {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
-    },
-    {
       "added_at": "2025-08-22 04:00:13",
       "album": {
         "name": "Everything In Transit: Strings Attached",
@@ -1651,6 +1635,22 @@
       "duration_ms": 261238,
       "name": "Dark Blue (Strings Attached Version)",
       "url": "https://open.spotify.com/track/5449HN9URNirAUgZKMDpgF"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 203033,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Kissing Death",
         "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 265120,
       "name": "Everknown",
       "url": "https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Flowers / Algorithm & Blues (Over & Over)",
-        "url": "https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 224805,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 212414,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Flowers / Algorithm & Blues (Over & Over)",
+        "url": "https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 224805,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204147,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "THE PRESSURE",
         "url": "https://open.spotify.com/album/1PhJCX9YFI5owjjDifo6he"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 172677,
       "name": "THE PRESSURE",
       "url": "https://open.spotify.com/track/2ERCG1bzpgMLgOFoFG7Sml"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "LOSER!!",
-        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "LOSER!!",
-      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
       },
@@ -2043,22 +2027,6 @@
       "duration_ms": 191554,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204147,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2083,6 +2051,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Something of Wonder",
         "url": "https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV"
       },
@@ -2099,18 +2083,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Mugshot",
-        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
+        "name": "LOSER!!",
+        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
         }
       ],
-      "duration_ms": 189101,
-      "name": "Mugshot",
-      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+      "duration_ms": 228133,
+      "name": "LOSER!!",
+      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2131,18 +2115,38 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+        "name": "Mugshot",
+        "url": "https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6"
       },
       "artists": [
         {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
         }
       ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+      "duration_ms": 189101,
+      "name": "Mugshot",
+      "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "STRANGERS",
+        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        },
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 223176,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2163,6 +2167,22 @@
       "duration_ms": 150404,
       "name": "Final Nail (with Charlotte Sands)",
       "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2195,26 +2215,6 @@
       "duration_ms": 142596,
       "name": "Young Broke",
       "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "STRANGERS",
-        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        },
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 223176,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2487,26 +2487,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Death Grip",
-        "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
-      },
-      "artists": [
-        {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
-        },
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 191292,
-      "name": "Death Grip",
-      "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Forgiving Spree",
         "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
       },
@@ -2535,6 +2515,26 @@
       "duration_ms": 157504,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        },
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 191292,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
     },
     {
       "added_at": "2025-08-15 04:00:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3171474,
+  "num_followers": 3171662,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABjyKtXbPxjrrATvokQTqKb",
+  "snapshot_id": "aK5KgAAAAAAOgV9BPXR3f1KJ82zbmbZ9",
   "tracks": [
     {
       "added_at": null,
@@ -63,7 +63,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud (Japan Version)",
+        "name": "Loud",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
@@ -155,7 +155,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud (Japan Version)",
+        "name": "Loud",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
@@ -543,7 +543,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud (Japan Version)",
+        "name": "Loud",
         "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
       },
       "artists": [
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud (Japan Version)",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "California King Bed",
-      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rated R",
         "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Hc9zEVvu3wOJXI5YVhXe2"
       },
@@ -903,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
       "artists": [
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 227533,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
+      "duration_ms": 216293,
+      "name": "Nobody's Business",
+      "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
     }
   ],
   "unique_name": "This Is Rihanna",

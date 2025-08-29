@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Mik L x Nesly",
+  "description": "Les hits zouk du moment. Photo : Kim x Kany",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1947,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "Inoubliable",
+        "url": "https://open.spotify.com/album/0rbrqmBZILKsuw7jIExIdd"
+      },
+      "artists": [
+        {
+          "name": "Klowdy",
+          "url": "https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY"
+        },
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Inoubliable",
+      "url": "https://open.spotify.com/track/6Meu5E8RItga0bsCQdIyK3"
+    },
+    {
+      "album": {
         "name": "Intouchable",
         "url": "https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha"
       },
@@ -2528,6 +2550,28 @@
       "duration_ms": 231000,
       "name": "La temp\u00e9rature",
       "url": "https://open.spotify.com/track/27BWRLH34mfG5wvAA1Leij"
+    },
+    {
+      "album": {
+        "name": "Laisse tomber",
+        "url": "https://open.spotify.com/album/0pG53BQ4xRQp0dcgtqnAgg"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/6LTRCYaB0ZWUgaCjjAApfL"
     },
     {
       "album": {
@@ -3514,7 +3558,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 145227,
       "name": "Ohana",
       "url": "https://open.spotify.com/track/6uqAOPe2Wf5rY2O23Iezh8"
@@ -4642,7 +4686,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 145786,
       "name": "Solide",
       "url": "https://open.spotify.com/track/59JggtITZo95KTyvVJ94e5"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-549 songs - 1 day 2 hr 43 min
+550 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Do It](https://open.spotify.com/track/4zdaqhDpl2pXrwTsqbqRG8) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY) | [Do It](https://open.spotify.com/album/2Xw3ZpFx2PD9KOLShZm7qO) | 2:38 | 2021-10-29 | 2022-08-06 |
 | [Do It All Again](https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Do It All Again](https://open.spotify.com/album/1WIy38HHVBg8KG3hVkCE2V) | 2:17 | 2022-09-30 | 2024-11-09 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-10-29 | 2022-08-06 |
-| [Don't Be Shy](https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Don't Be Shy](https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF) | 2:39 | 2025-05-09 |  |
+| [Don't Be Shy](https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Don't Be Shy](https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF) | 2:39 | 2025-05-09 | 2025-08-29 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2022-04-01 | 2022-08-06 |
 | [Don't Leave Me High \- SubSoda Remix](https://open.spotify.com/track/5X502Qx0RZ8qdvE0U2vojn) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7), [SubSoda](https://open.spotify.com/artist/5QQGUGslrAKpWDsBBixjar) | [Don't Leave Me High](https://open.spotify.com/album/1GKmqNTj64TYTgJJ2nWSsN) | 2:07 | 2024-01-12 | 2024-03-02 |
 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-08-12 | 2024-08-31 |
@@ -272,6 +272,7 @@
 | [Juicy Sushi](https://open.spotify.com/track/0Y5IZuawYGfvmmLwRz1YW2) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Juicy Sushi](https://open.spotify.com/album/3tKRSStZAlKxPsW9RuOZI2) | 2:24 | 2021-10-29 | 2022-04-20 |
 | [Jump](https://open.spotify.com/track/2YmJ7GSvltpviGIIatXcZB) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P) | [Jump](https://open.spotify.com/album/4Ch2r1VGfR8x2uaznYAnlr) | 2:49 | 2024-04-19 | 2024-05-04 |
 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-05-05 | 2023-06-05 |
+| [Keep On Dancin’](https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2) | [Keep On Dancin’](https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj) | 3:27 | 2025-08-22 |  |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 | 2023-09-23 |
 | [Last Call](https://open.spotify.com/track/4NNbfrTRxqytVvgw1A2ajE) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/0DyriCMgX3WYavt9F1gIQO) | 3:02 | 2023-12-08 | 2024-04-19 |
 | [Last Call](https://open.spotify.com/track/4x8mvegC6XJG0K9i3EpnxN) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Last Call](https://open.spotify.com/album/6cDcKVDFEqRj6BayY9Hkrj) | 3:02 | 2023-11-10 | 2024-11-09 |

@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-389 songs - 18 hr 45 min
+390 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Chupable](https://open.spotify.com/track/5e9Otk4mv4O0DOoKjjZcG1) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chikybombom La Pantera](https://open.spotify.com/artist/4nKbC3BWCO0m0CdQ42OZB5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chupable](https://open.spotify.com/album/2CYVPdemfQfUrEK3rMBkbb) | 2:57 | 2021-11-19 | 2023-03-11 |
 | [Cintureo \- Remix](https://open.spotify.com/track/1cQTT0WyAvD4LL0m42J8M4) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Cintureo \(Remix\)](https://open.spotify.com/album/4vXmy6wJi0L1Yc9ybulXqk) | 2:44 | 2023-11-28 |  |
 | [Claro Que Sí](https://open.spotify.com/track/3f1XDZ7EwQv62eDGHygmdf) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Claro Que Sí](https://open.spotify.com/album/2cfGH1DMwK3gU4UwCxEwkT) | 2:40 | 2022-03-18 | 2023-06-28 |
+| [COMO TE CONTE](https://open.spotify.com/track/1MbN7WXNGp1ckPmY2TTq2c) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [NO A LA DELINCUENCIA](https://open.spotify.com/album/5iSajsi3eaEZzQou6VVclw) | 1:51 | 2025-08-28 |  |
 | [Con Chapa](https://open.spotify.com/track/5baVENoXFaLXbrTTT0czSN) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Con Chapa](https://open.spotify.com/album/51IcpKcFOg9hlGbeYWJznO) | 3:32 | 2022-03-18 | 2023-03-11 |
 | [Conmigo No](https://open.spotify.com/track/4qk3rXT02ce6MCLDG3yvjx) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [Conmigo No](https://open.spotify.com/album/2WyFcmJTLoVxLExU4W3PfT) | 2:55 | 2023-02-09 | 2023-05-27 |
 | [Cooperas Con los Federicos](https://open.spotify.com/track/5FzJJHLpEDf39ZSbRnQYSK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Cooperas Con los Federicos](https://open.spotify.com/album/3P8uMdPghm5rMXsac9cbbU) | 2:58 | 2021-11-19 | 2022-07-16 |
@@ -81,7 +82,7 @@
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-12-08 |  |
 | [Dema Ga Ge Gi Go Gu](https://open.spotify.com/track/47trirgpaLmWk4Lqk3RrZk) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Disciplina \(Puerto Rico Edition\)](https://open.spotify.com/album/6tY1ry2gzMNkGEttyxN22G) | 3:38 | 2023-05-26 | 2023-08-01 |
 | [Demaga Ge Gi Go Gu](https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Disciplina \(Puerto Rico Edition\)](https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw) | 3:38 | 2022-08-19 | 2023-03-11 |
-| [Dembere](https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Dembere](https://open.spotify.com/album/5tuZEOHB4GCApx7IAlBUuU) | 1:45 | 2023-12-13 |  |
+| [Dembere](https://open.spotify.com/track/6Ts2LQc2vF9SdeQ5w2abCs) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Dembere](https://open.spotify.com/album/5tuZEOHB4GCApx7IAlBUuU) | 1:45 | 2023-12-13 | 2025-08-29 |
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-06-22 | 2023-10-14 |
 | [Desacato Escolar](https://open.spotify.com/track/2jm33owvUVJgwbjl0VkfAB) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Desacato Escolar](https://open.spotify.com/album/2cWzuplC5MLtAT8UjhajTY) | 2:37 | 2021-11-19 | 2023-03-11 |
 | [Después De Mi](https://open.spotify.com/track/7m49PsHjWjKuQR5lmqNC2z) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Después De Mi](https://open.spotify.com/album/09GJrxXo2kjm8z8A0f2SIf) | 2:25 | 2023-02-09 | 2023-06-28 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Julliany Souza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,106 likes - 31 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,134 likes - 31 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fé pelo Ouvir com Julliany Souza](https://open.spotify.com/episode/5RWyI0RxbpyC0MkD8ifIb5) | [Fé Pelo Ouvir](https://open.spotify.com/show/2fsHP8VR9uPAe3GC3iRvxv) | [Fé Pelo Ouvir](https://open.spotify.com/album/2fsHP8VR9uPAe3GC3iRvxv) | 0:51 |
 | 2 | [Mensagem: Perdão que Restaura](https://open.spotify.com/episode/1tshuncqeT9JrfskbeJ4bn) | [Fé Pelo Ouvir](https://open.spotify.com/show/2fsHP8VR9uPAe3GC3iRvxv) | [Fé Pelo Ouvir](https://open.spotify.com/album/2fsHP8VR9uPAe3GC3iRvxv) | 1:58 |
-| 3 | [Quem É Esse?](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse?](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
+| 3 | [Quem É Esse? \- Ao Vivo](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse? \(Ao Vivo\)](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
 | 4 | [Tu és + Águas Purificadoras \- Ao Vivo](https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Hamilton Rabelo](https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X) | [A Boa Parte \(Ao Vivo\)](https://open.spotify.com/album/0RQmJsjyVrI8sUuKIKwQSC) | 7:56 |
 | 5 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 |
 | 6 | [Nunca Houve Amor Igual ao Teu](https://open.spotify.com/track/7vPBuQMwaSvx9sHuuQCXJO) | [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Nunca Houve Amor Igual ao Teu](https://open.spotify.com/album/6FOoO6vpV35z8ZtbKDCia1) | 6:42 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 12 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 |
 | 13 | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/track/3OqucjwU8VsOF6AzSd1XHi) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Para Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/12Y9mCcfr7xn7l6u6XDVzs) | 9:42 |
 | 14 | [Mensagem: Força no Meio da Tempestade](https://open.spotify.com/episode/1Y30Aov2dgXKMHeFQ1oxdP) | [Fé Pelo Ouvir](https://open.spotify.com/show/2fsHP8VR9uPAe3GC3iRvxv) | [Fé Pelo Ouvir](https://open.spotify.com/album/2fsHP8VR9uPAe3GC3iRvxv) | 1:11 |
-| 15 | [Deus É Quem Me Fortalece](https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Deus É Quem Me Fortalece](https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP) | 6:23 |
+| 15 | [Deus É Quem Me Fortalece \- Ao Vivo](https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Deus É Quem Me Fortalece \(Ao Vivo\)](https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP) | 6:23 |
 | 16 | [Eu Confio em Ti](https://open.spotify.com/track/1o5cxva1ufQzt3LzPkzFQ2) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Eu Confio em Ti](https://open.spotify.com/album/1Je4S0LE5hmX8I2HW14tTJ) | 5:03 |
 | 17 | [Clamo Jesus \- Ao Vivo](https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB) | [Clamo Jesus \(Ao Vivo\)](https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC) | 7:17 |
 | 18 | [Escape](https://open.spotify.com/track/3hEB1O2VaMmcqqS3UMlFiR) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Escape](https://open.spotify.com/album/0ktZTu9TsfGKPUvwWtQ0UE) | 7:06 |

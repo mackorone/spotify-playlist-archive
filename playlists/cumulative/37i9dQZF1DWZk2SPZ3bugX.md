@@ -4,7 +4,7 @@
 
 > 🍾
 
-240 songs - 13 hr 55 min
+241 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 | 2022-12-08 | 2023-01-05 |
 | [Nu Lova](https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Nu Lova](https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj) | 3:22 | 2024-12-06 | 2025-02-21 |
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2023-01-04 | 2024-09-21 |
+| [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 | 2025-08-28 |  |
 | [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-22 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-09 |  |
@@ -203,7 +204,7 @@
 | [Sugar \(feat\. Francesco Yates\)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:39 | 2023-03-24 |  |
 | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/track/5IWO7pAg0tfthWbgicUahc) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Sugar Rush \(Late Night Snacks\)](https://open.spotify.com/album/6CKfs5bseJw5KZH2WBw7La) | 3:35 | 2025-02-20 |  |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-25 |  |
-| [Sunshine](https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sunshine](https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc) | 3:32 | 2025-07-10 |  |
+| [Sunshine](https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sunshine](https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc) | 3:32 | 2025-07-10 | 2025-08-29 |
 | [Sunshine](https://open.spotify.com/track/1u73X4Z35xAanZNuWIdkUZ) | [Kitty Mack](https://open.spotify.com/artist/4uoSIZh3PyGU7NeRX0S28v) | [Sunshine](https://open.spotify.com/album/2S6aowhjHKwLC1x564lC0O) | 1:58 | 2025-06-26 | 2025-07-19 |
 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 | 2025-02-27 | 2025-06-06 |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-12-08 | 2023-03-25 |

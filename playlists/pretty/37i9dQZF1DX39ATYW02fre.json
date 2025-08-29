@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 259266,
+  "num_followers": 259301,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
-      },
-      "artists": [
-        {
-          "name": "Alex Baker",
-          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
-        },
-        {
-          "name": "Hanging Valleys",
-          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 261746,
       "name": "amelia",
       "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2ALEn1ILPaPj885QMF9C4O"
+      },
+      "artists": [
+        {
+          "name": "Alex Baker",
+          "url": "https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo"
+        },
+        {
+          "name": "Hanging Valleys",
+          "url": "https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1G5APoTLndLof2DsggGPzz"
     },
     {
       "added_at": "2025-08-27 11:10:29",

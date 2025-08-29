@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Painfully Happy",
+        "url": "https://open.spotify.com/album/6VLAPA4OpFBrPoLZp46FGH"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175781,
+      "name": "Abazali",
+      "url": "https://open.spotify.com/track/7yfB1QDIyeVUbmZhMnFstw"
+    },
+    {
+      "album": {
         "name": "Icala Le Mpumelelo",
         "url": "https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo"
       },

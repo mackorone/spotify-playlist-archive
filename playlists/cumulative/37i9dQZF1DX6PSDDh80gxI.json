@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 127016,
       "name": "Gelosissima",
       "url": "https://open.spotify.com/track/4zkGZ4utSxlzdDEYh8LOqm"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 211623,
       "name": "L'Anguria",
       "url": "https://open.spotify.com/track/4ydPsrewqTuZ4OB8Vyi5Og"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 179405,
       "name": "Marco",
       "url": "https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 215945,
       "name": "Miao",
       "url": "https://open.spotify.com/track/1bA1XFvz1mmii9x6uOCsD4"
@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Quando",
+        "url": "https://open.spotify.com/album/2SLe2XImYjuXKF8h2BslTg"
+      },
+      "artists": [
+        {
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477494,
+      "name": "Quando",
+      "url": "https://open.spotify.com/track/4EoQ9ceurNc1aVtdLCgYi2"
+    },
+    {
+      "album": {
         "name": "QUANTO TI IMPORTA",
         "url": "https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY"
       },
@@ -4888,7 +4906,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 197577,
       "name": "quasi all'improvviso",
       "url": "https://open.spotify.com/track/6eocEEZLEKEArXqydsMZHO"
@@ -5422,7 +5440,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 164387,
       "name": "SISTEMARSI",
       "url": "https://open.spotify.com/track/3fLzgb9uGcb1hJTkNFnwrc"
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 205413,
       "name": "Situazione complicata",
       "url": "https://open.spotify.com/track/2f3TSWcQlu8sRr5ymkVRFl"
@@ -5987,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Tuareg",
+        "url": "https://open.spotify.com/album/1Ns0mmFgzffnMQSi9Hv9ww"
+      },
+      "artists": [
+        {
+          "name": "Laila Al Habash",
+          "url": "https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220266,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/6FLcWRbOznMsx55HF46oBL"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
@@ -6226,6 +6262,24 @@
       "duration_ms": 200624,
       "name": "Un Altro Universo",
       "url": "https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c"
+    },
+    {
+      "album": {
+        "name": "Un milione di anni",
+        "url": "https://open.spotify.com/album/0nqRSalfTZgRjJVKTYy7kr"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258099,
+      "name": "Un milione di anni",
+      "url": "https://open.spotify.com/track/3PP5bAeGdXQIdFUbXv0n56"
     },
     {
       "album": {
@@ -6550,7 +6604,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 221078,
       "name": "Zagara",
       "url": "https://open.spotify.com/track/39t65cFCSsP6XPguuOB2K7"

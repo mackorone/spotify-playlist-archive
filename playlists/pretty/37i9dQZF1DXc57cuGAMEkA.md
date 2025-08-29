@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。sombr, Laufey, Daniel Caesar and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,080 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,402 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 79 | [Ink and Feather](https://open.spotify.com/track/2VKZK8kVCRKKvqwuhAewae) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [Ink and Feather](https://open.spotify.com/album/6Fg2clXDwHDwHOjROjH9PM) | 3:24 |
 | 80 | [Keep An Eye On Summer](https://open.spotify.com/track/20xtYX3ouFKnmpwfILur6Q) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Keep An Eye On Summer](https://open.spotify.com/album/5E3cCJ93pNRC766xAExAGE) | 2:46 |
 
-Snapshot ID: `AAAAAOHS/bJiV6kb8vAA/NArPCZNNDvx`
+Snapshot ID: `AAAAANadwriYJ493guABd0XIaAtNvIiT`

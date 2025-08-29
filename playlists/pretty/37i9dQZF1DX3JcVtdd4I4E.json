@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7684,
+  "num_followers": 7686,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,26 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Hate You So Much",
-        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
       "artists": [
         {
-          "name": "Saga Ludvigsson",
-          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 156519,
-      "name": "Hate You So Much",
-      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -211,26 +219,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "A Lovestory",
-        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+        "name": "Hate You So Much",
+        "url": "https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
         }
       ],
-      "duration_ms": 184120,
-      "name": "A Lovestory",
-      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+      "duration_ms": 156519,
+      "name": "Hate You So Much",
+      "url": "https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 166760,
       "name": "Test It",
       "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -923,18 +923,34 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
       },
       "artists": [
         {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Landmarks",
+        "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
+      },
+      "artists": [
+        {
+          "name": "Bye Bye Brenda",
+          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
+        }
+      ],
+      "duration_ms": 235068,
+      "name": "Drive With Our Eyes Closed",
+      "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -971,22 +987,6 @@
       "duration_ms": 188601,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Landmarks",
-        "url": "https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp"
-      },
-      "artists": [
-        {
-          "name": "Bye Bye Brenda",
-          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "Drive With Our Eyes Closed",
-      "url": "https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy"
     },
     {
       "added_at": "2025-05-06 11:46:39",

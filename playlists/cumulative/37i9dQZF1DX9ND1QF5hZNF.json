@@ -813,6 +813,32 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
+    },
+    {
+      "album": {
         "name": "Bolide allemand",
         "url": "https://open.spotify.com/album/2ggT3ZPX8xC4eUPPlpvAKH"
       },
@@ -1003,7 +1029,7 @@
     },
     {
       "album": {
-        "name": "Can't find you",
+        "name": "CAN'T FIND YOU",
         "url": "https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi"
       },
       "artists": [
@@ -1020,7 +1046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215357,
-      "name": "Can't find you",
+      "name": "CAN'T FIND YOU",
       "url": "https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j"
     },
     {
@@ -1146,7 +1172,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
@@ -1768,6 +1794,32 @@
       "duration_ms": 188946,
       "name": "Fio Maravilha",
       "url": "https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh"
+    },
+    {
+      "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
     },
     {
       "album": {
@@ -2426,7 +2478,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
@@ -3318,7 +3370,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 214503,
       "name": "MIND GAMES",
       "url": "https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE"
@@ -3496,7 +3548,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 162545,
       "name": "My Home",
       "url": "https://open.spotify.com/track/0tIxOfTgJDiaXqXP60O4ho"
@@ -4471,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "Russian Roulette",
+        "url": "https://open.spotify.com/album/0sCjMjmrFC7AxI0rhkHU4K"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168715,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/2Bz5QMGrL79GU6TVNZyMxO"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/7puwo6jAXZxJX5DSWC0GvA"
       },
@@ -4882,7 +4956,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 146250,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/7lkCCTUKQFQiwOSVBXkEQM"
@@ -5589,6 +5663,28 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/2m28W8dWqxyN4c96iVlKOv"
+      },
+      "artists": [
+        {
+          "name": "Yung Omz ",
+          "url": "https://open.spotify.com/artist/0XtHWrMRipVdHRV9QNyu04"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136229,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/7oyyJKYV35Rd8VXOov7Gbp"
+    },
+    {
+      "album": {
         "name": "Vitruvian Man",
         "url": "https://open.spotify.com/album/5nTGhORf2quungxiPTYyRs"
       },
@@ -6094,7 +6190,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 178419,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"

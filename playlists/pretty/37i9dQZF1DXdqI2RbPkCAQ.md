@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 
 > marrakech season
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,802 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,557 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqI2RbPkCAQ.md) - [plain]
 | 68 | [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 |
 | 69 | [King Gnawa](https://open.spotify.com/track/143XW6GuhjhSbIiX58zf5X) | [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Tariq Hmitti](https://open.spotify.com/artist/4VfCms8XPx6e5diHuVrRaH) | [King Gnawa](https://open.spotify.com/album/1ojVnTZVPOoXcHZloPCHGl) | 3:22 |
 | 70 | [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 |
-| 71 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
+| 71 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 |
 | 72 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 |
 | 73 | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/track/6QMUjJ6U90lSwC6wjzH5jP) | [AVÖ](https://open.spotify.com/artist/1YHoYxvG5RWfGN3pt3vuMb), [GUAPO \(AO\)](https://open.spotify.com/artist/3adV86NBSzuLeQ4me5eIJe), [Cheb Rayan](https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR) | [Dana Dana \(ft\. Rima\)](https://open.spotify.com/album/27btvaDkPDLQJhPRlaJMlt) | 3:04 |
 | 74 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |

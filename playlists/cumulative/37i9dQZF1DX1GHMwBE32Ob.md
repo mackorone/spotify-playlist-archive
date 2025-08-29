@@ -2,9 +2,9 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Shoday
+> From the trenches\. Through the streets.<br/>Cover: Naira Marley
 
-384 songs - 17 hr 40 min
+385 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 | 2024-01-05 |
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2024-01-08 | 2024-11-17 |
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 | 2023-08-18 |
+| [Cartoon](https://open.spotify.com/track/2oFL8pXqAbtfncsBauFmAI) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Cartoon](https://open.spotify.com/album/5KPfaqMCwyBBe783158gWe) | 2:43 | 2025-08-29 |  |
 | [Casa](https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [More Kashcoming](https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd) | 2:34 | 2024-02-23 | 2024-03-29 |
 | [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 | 2025-01-21 | 2025-05-31 |
 | [Casamigos](https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Casamigos](https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk) | 2:10 | 2024-07-19 | 2024-08-30 |
@@ -339,7 +340,7 @@
 | [Stronger](https://open.spotify.com/track/1JW5qjse9QQn9jfseFeYsD) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Stronger](https://open.spotify.com/album/6tYoYFfnVfseQRC7iVWHyP) | 3:05 | 2023-01-12 | 2023-02-04 |
 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 | 2024-05-17 | 2025-04-20 |
 | [Sunny Ade](https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Sunny Ade](https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia) | 2:16 | 2024-01-15 |  |
-| [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 | 2025-06-20 |  |
+| [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 | 2025-06-20 | 2025-08-29 |
 | [Taka Oshi](https://open.spotify.com/track/2NexijiPK9irTO8VsjiF9N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Big Time](https://open.spotify.com/album/6T069OH10Fo4kfJGO6kiWG) | 2:13 | 2023-03-10 | 2023-03-18 |
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-07 | 2024-06-21 |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2024-10-13 |

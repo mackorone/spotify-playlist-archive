@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 188243,
+  "num_followers": 188277,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "L.W.",
-        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 220216,
-      "name": "O.N.E.",
-      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Mangy Love",
         "url": "https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 254541,
       "name": "Opposite House",
       "url": "https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "L.W.",
+        "url": "https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 220216,
+      "name": "O.N.E.",
+      "url": "https://open.spotify.com/track/5Tr57zEsUBRckxVrwgsoQU"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Hanging On",
+        "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
+      },
+      "artists": [
+        {
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
+        }
+      ],
+      "duration_ms": 191801,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "& I'm Fine Today",
-        "url": "https://open.spotify.com/album/5D062RPrAS76knCMha1xCw"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Far Out Feeling",
-      "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
     }
   ],
   "unique_name": "Psych & Groove",

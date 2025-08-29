@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-392 songs - 23 hr 30 min
+393 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Innallu](https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Brinda Ch](https://open.spotify.com/artist/035vaODl6w8VhNWMa6CT7E) | [Innallu](https://open.spotify.com/album/0xEZk7IZUdqEP0rWkMW0EP) | 4:20 | 2023-10-13 | 2024-07-31 |
 | [Intermediate](https://open.spotify.com/track/3sIEDEQCVtSdsJSuBrkTwX) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Intermediate](https://open.spotify.com/album/4tZszXN6ekajeIsZltJCon) | 5:40 | 2024-02-09 |  |
 | [Inthena Inthena](https://open.spotify.com/track/4YbQwnwgbTg7eIq10oB9No) | [Maruthi Kodimoju](https://open.spotify.com/artist/6NB8Z3w2Ti8Rwf2DYhS6Ag) | [Inthena Inthena](https://open.spotify.com/album/2p3b6wCV1MNfG6nXSmbbiq) | 3:50 | 2023-03-07 | 2023-06-05 |
+| [Ishtam](https://open.spotify.com/track/5Kt4Ynpxw1dYXjyhxRlcna) | [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Viswadeep](https://open.spotify.com/artist/20eHdBJvNYtoZut3dAnK35) | [Ishtam](https://open.spotify.com/album/1raEru2yGC5jhJA4YODNTj) | 2:40 | 2025-08-28 |  |
 | [Janaki](https://open.spotify.com/track/3ZAQJr4l7GxjTZ1LxR5imO) | [Syel](https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT), [Maansi Gautam](https://open.spotify.com/artist/7rbzhIalhUWFHq9yLggbFP) | [Janaki](https://open.spotify.com/album/232yFf1RjYugU574aoGdp6) | 4:00 | 2024-09-12 | 2024-12-14 |
 | [Jeena Marna](https://open.spotify.com/track/1XqnI6gFr03nmNatopVCW6) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4) | [Rhythm of Love](https://open.spotify.com/album/5swoNPRR3TAD32WC5STPof) | 4:33 | 2024-12-20 | 2025-04-24 |
 | [Jimpak Chipak](https://open.spotify.com/track/75SwvdhOdYQ9FAVfzBcpsF) | [MC Mike](https://open.spotify.com/artist/3fJeUWROZ8RmlLHDWTtqYo), [MC Uneek](https://open.spotify.com/artist/5V59VPRPHoUasr8KOncBne), [Om Sripathi](https://open.spotify.com/artist/6cHpt2n70Z4fNJdkP7r13T) | [Jimpak Chipak](https://open.spotify.com/album/5Bl77fvZRxNfEkudOcjgaT) | 3:07 | 2022-07-18 | 2024-01-20 |
@@ -333,7 +334,7 @@
 | [Shyama Shyam](https://open.spotify.com/track/4rrtLmqjnTuyg8KgsZ7d1K) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Shyama Shyam](https://open.spotify.com/album/6Fr6MEyJc80Fz0A9umQHG5) | 5:21 | 2025-08-19 |  |
 | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 | 2024-02-15 |
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |
-| [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 |  |
+| [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 | 2025-08-29 |
 | [SIT6](https://open.spotify.com/track/5ndaoJCdoTpy55Hn90OPOF) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Pandurang Mutalik](https://open.spotify.com/artist/05JPHnIGzkOlRHWAClPMzQ) | [SIT6](https://open.spotify.com/album/4hYsvraU5vUtrRMR0rt9Gn) | 4:27 | 2024-10-23 | 2024-11-07 |
 | [Sitaara](https://open.spotify.com/track/2KP8VAuJiugv5UTUYcYSjo) | [Jagdish Chintala](https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC), [Ayaan](https://open.spotify.com/artist/6spST6ycDQVKJ7ErwvDsjS), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [Sitaara](https://open.spotify.com/album/1NFMWGcu3uV7TtvNwStETI) | 2:45 | 2024-10-07 | 2024-12-21 |
 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 | 2023-09-11 | 2024-04-19 |

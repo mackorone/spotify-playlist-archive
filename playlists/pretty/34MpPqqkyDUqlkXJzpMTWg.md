@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
 
-### [Winter  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
+### [Herfst  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
 
 > Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,017 likes - 79 songs - 4 hr 24 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,013 likes - 79 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 | 78 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 |
 | 79 | [Can’t Fix Repeaters](https://open.spotify.com/track/79tQAvTMbRJagvWymtCMoR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Can’t Fix Repeaters](https://open.spotify.com/album/0vbzibfVL5zJevWN13xbxY) | 3:21 |
 
-Snapshot ID: `AAA8LXSl8ETSfHo7Kla1RVl52RUEcVfq`
+Snapshot ID: `AAA8LtIAIOI0svuQE04L26uyIiFzBuzL`

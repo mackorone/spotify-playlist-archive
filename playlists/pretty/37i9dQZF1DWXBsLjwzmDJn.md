@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 
 > Enjoy music from "TOKYO REVENGERS"! Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,619 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,621 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,120 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,210 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 93 | [Chasing Shadows](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Chasing Shadows](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
 | 94 | [All For The Glory](https://open.spotify.com/track/7vaYafNVrxCBZJagbhJB40) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [All For The Glory](https://open.spotify.com/album/6DPXDXZQ6QDHYOa2hTOPhL) | 2:52 |
 | 95 | [Thoughts and Prayers \- Ultra Edition](https://open.spotify.com/track/5CN5yQ6F1HnJB3ENptW3Cz) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm \(Ultra Edition\)](https://open.spotify.com/album/5m3UhAh9gFeNFbr9o8rTd1) | 4:29 |
-| 96 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
+| 96 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 |
 | 97 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 |
 | 98 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
 | 99 | [Kerosene](https://open.spotify.com/track/11DmWsJq63RyfNY8m0MiH3) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Kerosene](https://open.spotify.com/album/5Q5o2jUS5MFcdDm16o1VcK) | 4:01 |

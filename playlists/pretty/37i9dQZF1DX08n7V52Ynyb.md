@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,999 likes - 115 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,041 likes - 115 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 27 | [Embraceable You](https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9) | [Embraceable You](https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6) | 4:48 |
 | 28 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 |
 | 29 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 |
-| 30 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q) | 6:11 |
-| 31 | [Violets for Your Furs](https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Violets for Your Furs](https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt) | 3:36 |
+| 30 | [Violets for Your Furs](https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Violets for Your Furs](https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt) | 3:36 |
+| 31 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q) | 6:11 |
 | 32 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 |
 | 33 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 |
 | 34 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "The Last Dinner Party au top des meilleurs morceaux rock du moment.",
+  "description": "YUNGBLUD au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 227586,
       "name": "Bloom Baby Bloom",
       "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "album": {
         "name": "Drummer",
         "url": "https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp"
       },
@@ -2050,6 +2068,24 @@
       "duration_ms": 268369,
       "name": "Even In Arcadia",
       "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
+    },
+    {
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "album": {
@@ -3987,7 +4023,7 @@
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 204336,
+      "duration_ms": 201372,
       "name": "Mirtazapine",
       "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
     },
@@ -6574,7 +6610,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 242878,
       "name": "There\u2019s Always Gonna Be Something",
       "url": "https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD"
@@ -7162,6 +7198,24 @@
       "duration_ms": 188901,
       "name": "Where Does The Light Get In?",
       "url": "https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x"
+    },
+    {
+      "album": {
+        "name": "White Horses",
+        "url": "https://open.spotify.com/album/6tEb8Sfv84ZzelGTWS7Ni0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/28lKZhxCDxqJEPyK8G4y91"
     },
     {
       "album": {

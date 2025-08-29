@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-144 songs - 7 hr 41 min
+145 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 | 2022-12-21 |  |
 | [Et Bam \- Acoustic Version](https://open.spotify.com/track/0jzqED9Bdc3j5xhkCRoWkC) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/7jgPrbkL61uBDMhdgJBb6X) | 3:35 | 2024-04-04 | 2024-04-19 |
 | [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 | 2024-03-14 | 2025-01-04 |
+| [Eternity \- Orchestral Version](https://open.spotify.com/track/4WL7hA2rs7DFMjfQ8SpX94) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Eternity \(Orchestral Version\)](https://open.spotify.com/album/4PVrTYM62DSSUwTKX39wAR) | 3:25 | 2025-08-28 |  |
 | [Everything I Wanted \- Live Version](https://open.spotify.com/track/7yHQWI18l9t7u6nXUpQPGP) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Everything I Wanted \(Live Version\)](https://open.spotify.com/album/0VOsH3JbQkbd5ba3kHSu4i) | 2:59 | 2024-01-25 | 2024-03-15 |
 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-26 | 2025-04-04 |
 | [Fallin’ \(Adrenaline\) \- Acoustic](https://open.spotify.com/track/3muwps1KXhdLIMGOuzorjF) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:35 | 2022-12-21 | 2023-01-13 |
@@ -54,7 +55,7 @@
 | [Following the Sun \- Acoustic](https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:37 | 2022-12-21 | 2024-04-13 |
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 | 2022-12-21 |  |
 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3fHvOiVB4KfakM0Iaw3u2D) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/69REZAzvlxLHqPYGrH7wr4) | 3:27 | 2023-05-23 | 2024-04-19 |
-| [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-11 |  |
+| [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-11 | 2025-08-29 |
 | [Freed from Desire \(Acoustic Version\)](https://open.spotify.com/track/50C5YxTknuct7YpC4WXmAG) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Un homme à la hauteur \(Bande originale du film\)](https://open.spotify.com/album/1Zj9cDigNQ85AEcXv0asXj) | 3:06 | 2022-12-21 | 2023-11-21 |
 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 | 2023-11-20 |  |
 | [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 | 2025-07-10 |  |

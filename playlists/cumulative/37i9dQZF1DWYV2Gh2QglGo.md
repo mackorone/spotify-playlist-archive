@@ -2,7 +2,7 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Josh Ross
+> The home of Canadian country music\. Cover: Brett Kissel
 
 355 songs - 19 hr 7 min
 

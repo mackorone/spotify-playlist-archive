@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733820,
+  "num_followers": 733842,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "ballerini",
-        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 236226,
-      "name": "half of my hometown - ballerini album version",
-      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -879,34 +879,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+        "name": "ballerini",
+        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
-      },
-      "artists": [
-        {
-          "name": "The Dryes",
-          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
-        }
-      ],
-      "duration_ms": 227661,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
+      "duration_ms": 236226,
+      "name": "half of my hometown - ballerini album version",
+      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -923,6 +907,22 @@
       "duration_ms": 186316,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK"
+      },
+      "artists": [
+        {
+          "name": "The Dryes",
+          "url": "https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Giving It All (To You)",
-        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
-      },
-      "artists": [
-        {
-          "name": "Haley & Michaels",
-          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Giving It All (To You)",
-      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Nothing New",
         "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 218174,
       "name": "Nothing New",
       "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Giving It All (To You)",
+        "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
+      },
+      "artists": [
+        {
+          "name": "Haley & Michaels",
+          "url": "https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Giving It All (To You)",
+      "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "It Don't Work Like That",
-        "url": "https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Foster",
-          "url": "https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4"
-        }
-      ],
-      "duration_ms": 181524,
-      "name": "It Don't Work Like That",
-      "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Time Is Cold (Coffee House Version)",
         "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "It Don't Work Like That",
+        "url": "https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Foster",
+          "url": "https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4"
+        }
+      ],
+      "duration_ms": 181524,
+      "name": "It Don't Work Like That",
+      "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Western Wedding",
-        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231471,
-      "name": "Long Haul - Piano / Vocal",
-      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 195701,
       "name": "End of the Rain",
       "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Western Wedding",
+        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Long Haul - Piano / Vocal",
+      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
     },
     {
       "added_at": "2025-08-21 15:35:38",

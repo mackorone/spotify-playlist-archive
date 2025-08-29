@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M6NOJJM7Pj.md) - [plain]
 
 > Dive into the rich music history of Assassin's Creed with the official playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,512 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,597 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

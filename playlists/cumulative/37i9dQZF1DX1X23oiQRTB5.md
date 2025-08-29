@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Tiakola x La Mano 1.9 au top de la première playlist de rap français.
+> Hamza au top de la première playlist de rap français.
 
 352 songs - 18 hr 0 min
 

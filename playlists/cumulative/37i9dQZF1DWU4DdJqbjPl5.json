@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Sweet R&B straight out of Africa. Cover: Shekhina",
+  "description": "Sweet R&B straight out of Africa. Cover: Tiwa Savage",
   "name": "Tantalizers",
   "tracks": [
+    {
+      "album": {
+        "name": "This One Is Personal",
+        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169314,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+    },
     {
       "album": {
         "name": "5 Star",
@@ -5626,7 +5644,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 148392,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj"

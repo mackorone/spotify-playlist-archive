@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-304 songs - 20 hr 18 min
+305 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 | 2021-10-31 | 2024-07-27 |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2021-10-31 | 2024-04-19 |
 | [Thank God I'm Not Alone](https://open.spotify.com/track/548bzYziy54164GQtXyihm) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Thank God I'm Not Alone](https://open.spotify.com/album/48VcWMgbgGWhTEhd8IEWy9) | 3:22 | 2025-08-08 |  |
-| [Thank God I'm Not Alone \- From Claire's Phone](https://open.spotify.com/track/6evLRCoKGHIJwz7AaBuzHx) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Thank God I'm Not Alone \(From Claire's Phone\)](https://open.spotify.com/album/4qdDQabqGvhoWBr39D1gaR) | 4:27 | 2025-08-08 |  |
+| [Thank God I'm Not Alone \- From Claire's Phone](https://open.spotify.com/track/6evLRCoKGHIJwz7AaBuzHx) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Thank God I'm Not Alone \(From Claire's Phone\)](https://open.spotify.com/album/4qdDQabqGvhoWBr39D1gaR) | 4:27 | 2025-08-08 | 2025-08-29 |
 | [The End of It All](https://open.spotify.com/track/6AuHZv02ETpa6nqIKYKmfJ) | [Alisha Eich](https://open.spotify.com/artist/1JPHdpv6nDDHx9yq4ZWOz1) | [The End of It All](https://open.spotify.com/album/0hq1hZo1gYMvPefGk6XojX) | 3:34 | 2024-07-26 | 2025-04-05 |
 | [The Gardener](https://open.spotify.com/track/3dZILL9CJXjOdIs2Bhy3oK) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Gardener](https://open.spotify.com/album/1H4kzo0ZeHaH9lVuUkfvbs) | 4:06 | 2025-04-05 | 2025-08-09 |
 | [The Gospel is Rest](https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [The Gospel is Rest](https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q) | 4:40 | 2021-10-31 | 2025-04-05 |
@@ -274,6 +274,7 @@
 | [This Is My Father's World](https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Rachael Lampa](https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y) | [This Is My Father's World](https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy) | 3:27 | 2023-02-07 | 2024-06-23 |
 | [together forever](https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [together forever](https://open.spotify.com/album/63j9BaXZoVMISZ89x8iYU6) | 3:10 | 2025-04-05 | 2025-08-09 |
 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 | 2021-10-31 | 2024-04-19 |
+| [Tomorrow Mind](https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U) | [Yaz Williams](https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy), [Callan Brown](https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu) | [Tomorrow Mind](https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ) | 3:39 | 2025-08-08 |  |
 | [Total Praise](https://open.spotify.com/track/6D5GStnuEUkCJj3McCO2cl) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Jessica Fox](https://open.spotify.com/artist/3Dm16XD7wyhiAZ8uFHgmnp), [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [Total Praise](https://open.spotify.com/album/7MF7shCgI1cSsPUVQ5wkQt) | 1:59 | 2025-08-08 |  |
 | [Transparente](https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 5:05 | 2021-10-31 | 2024-04-19 |
 | [Tremble](https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Tremble](https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx) | 4:59 | 2021-10-31 | 2024-06-23 |

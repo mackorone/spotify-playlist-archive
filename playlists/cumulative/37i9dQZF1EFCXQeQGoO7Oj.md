@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-626 songs - 1 day 13 hr 32 min
+627 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,8 @@
 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 | 2024-11-16 |  |
 | [Oh Oh](https://open.spotify.com/track/3lAYDUHm3i4TLpsjjhpPVk) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:53 | 2024-01-29 |  |
 | [Ohne Dich](https://open.spotify.com/track/5a8hlKNT5xIFor5nt3N5Qd) | [TEAM 5ÜNF](https://open.spotify.com/artist/1KrFD8M1dOfOZLz8qrQQiW) | [Einmal Boyband und zurück](https://open.spotify.com/album/0lr868sYp1U12KVmGNBbw1) | 3:30 | 2024-01-29 |  |
-| [Olympia](https://open.spotify.com/track/2eNKO7NQLFeoeNO8WKJsmG) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Olympia](https://open.spotify.com/album/2usbm3mqqOEN6w8ydMemOV) | 4:06 | 2024-01-29 |  |
+| [Olympia](https://open.spotify.com/track/6dIevytgOEVS7FgRr5pZGv) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Loud Pipes Save Lives \(Sport Edition\)](https://open.spotify.com/album/60xjUSLhmapOUQkBfD4114) | 4:05 | 2025-08-28 |  |
+| [Olympia](https://open.spotify.com/track/2eNKO7NQLFeoeNO8WKJsmG) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Olympia](https://open.spotify.com/album/2usbm3mqqOEN6w8ydMemOV) | 4:06 | 2024-01-29 | 2025-08-29 |
 | [On My Mind](https://open.spotify.com/track/5a7NdkF09AfD0H607eiOkX) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:33 | 2024-01-29 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/0gC7GdWEUHmo9ZZ35aUKQg) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [My House](https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH) | 3:34 | 2024-01-29 |  |
 | [One More Night](https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed Track By Track](https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2) | 3:39 | 2024-01-29 |  |

@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "Canerandagio",
+        "url": "https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164363,
+      "name": "Addio (feat. Salmo)",
+      "url": "https://open.spotify.com/track/1lCR4Zwyp1JFGhXVjlFfts"
+    },
+    {
+      "album": {
         "name": "Mediterraneo",
         "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
       },
@@ -676,6 +698,28 @@
       "duration_ms": 166000,
       "name": "Beh ok (feat. Madman)",
       "url": "https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47"
+    },
+    {
+      "album": {
+        "name": "Canerandagio",
+        "url": "https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168113,
+      "name": "Biancoenero (feat. Jake La Furia)",
+      "url": "https://open.spotify.com/track/6LymhYMtDBfHxjVb9parOd"
     },
     {
       "album": {
@@ -2906,7 +2950,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 162666,
       "name": "JOE CASSANO TRIBUTE",
       "url": "https://open.spotify.com/track/6OdKzKcbXWnRHrBE1naN1c"
@@ -5105,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Roc-A-Fella",
+        "url": "https://open.spotify.com/album/1FGzWu6MVqwbwJzCUv1YkJ"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "Roc-A-Fella",
+      "url": "https://open.spotify.com/track/1IM2cqFHLUDSpgTZmytUfQ"
+    },
+    {
+      "album": {
         "name": "Roccia",
         "url": "https://open.spotify.com/album/0PH4e4zlC3tF7PgzpsSliB"
       },
@@ -5210,7 +5272,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 279815,
       "name": "Santosubito/Rubik",
       "url": "https://open.spotify.com/track/5Cy6JEcPV3Q9BYhDTpWF8Y"
@@ -5232,7 +5294,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 164533,
       "name": "Sbang (feat. Noyz Narcos)",
       "url": "https://open.spotify.com/track/1zN5tJJ3jWoXITsA5mjtw1"

@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 152068,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/75erprL1Lw7amMLGmtcdgw"
@@ -170,7 +170,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 226050,
       "name": "A Million Like You",
       "url": "https://open.spotify.com/track/15UotJUnbOatmRx0ZqpPGk"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 168750,
       "name": "Arenales 2984",
       "url": "https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 186334,
       "name": "Aurial",
       "url": "https://open.spotify.com/track/65xdN7QgXmJ1nb9IP3vOPX"
@@ -862,6 +862,32 @@
       "duration_ms": 414000,
       "name": "Bugs & Blossoms - Original Mix",
       "url": "https://open.spotify.com/track/3gLlJl105YAouFQnFGgiH8"
+    },
+    {
+      "album": {
+        "name": "Burda (MAMI Remix)",
+        "url": "https://open.spotify.com/album/5zjfgBOI54kEKbvHNmwWPS"
+      },
+      "artists": [
+        {
+          "name": "Ornery",
+          "url": "https://open.spotify.com/artist/7fvMgVTb0XO1Xct2Y1o7Ho"
+        },
+        {
+          "name": "Serval (AR)",
+          "url": "https://open.spotify.com/artist/0eCO3KeYFZKdLKMjbeqpRf"
+        },
+        {
+          "name": "MAMI",
+          "url": "https://open.spotify.com/artist/5ggst36NN0Gj7JRv5pMKql"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202380,
+      "name": "Burda - MAMI Remix",
+      "url": "https://open.spotify.com/track/1B6loqDKnrCPuM0kBxmlQc"
     },
     {
       "album": {
@@ -1294,7 +1320,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 315428,
       "name": "CORBETA",
       "url": "https://open.spotify.com/track/7ftUOMEXNxMlttm4wBr0Es"
@@ -1642,7 +1668,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 362195,
       "name": "Dune",
       "url": "https://open.spotify.com/track/06SqSaZ4xRH9tKBrXPHS7T"
@@ -1748,7 +1774,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 384000,
       "name": "Electrolyze",
       "url": "https://open.spotify.com/track/1lPJCQwymF3tUJqo01Tx30"
@@ -2110,7 +2136,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 257827,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/07Lf7eUE3LGxh8rqjE3xMP"
@@ -2904,7 +2930,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 432895,
       "name": "Kalamazoo",
       "url": "https://open.spotify.com/track/2ivLGHxaLq8xkJTQ81qpWy"
@@ -3474,7 +3500,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 226816,
       "name": "Melancol\u00eda en el after",
       "url": "https://open.spotify.com/track/6Y3krPlsTjMqMC9O28NG8V"
@@ -4458,7 +4484,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 340937,
       "name": "Rave All Night",
       "url": "https://open.spotify.com/track/0Wzwn6GfG4aIBSBUitspRh"
@@ -4621,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Rising Dawn",
+        "url": "https://open.spotify.com/album/28oBFfFi3NP7NF1UAthhZu"
+      },
+      "artists": [
+        {
+          "name": "LondonGround",
+          "url": "https://open.spotify.com/artist/1KrOwCpc0OZhhJIW3wWgl8"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Rising Dawn",
+      "url": "https://open.spotify.com/track/0tn0gK7b5Dua8lfS6ZmgjW"
+    },
+    {
+      "album": {
         "name": "Seasons | Winter 2020",
         "url": "https://open.spotify.com/album/368fuamMcpa6Xp3GWCDvPR"
       },
@@ -4672,6 +4716,32 @@
       "duration_ms": 415578,
       "name": "Rival",
       "url": "https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/4xqNNssTQ9AwP1pMk7gGPd"
+      },
+      "artists": [
+        {
+          "name": "Torazza",
+          "url": "https://open.spotify.com/artist/0B7BhMVRUOzbqey0IGPlpI"
+        },
+        {
+          "name": "Figueredo (AR)",
+          "url": "https://open.spotify.com/artist/4cyoKVb1COMRpx2QNZg8Rk"
+        },
+        {
+          "name": "Giorgio Stefano",
+          "url": "https://open.spotify.com/artist/3NFTYeAHSkEWw2YOtBPQjM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334488,
+      "name": "Rockstar - Giorgio Stefano & Figueredo (AR) Remix",
+      "url": "https://open.spotify.com/track/4OnDSQ5IZtoYSpZdH8Vh1S"
     },
     {
       "album": {
@@ -4944,7 +5014,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 225853,
       "name": "Si te Vas",
       "url": "https://open.spotify.com/track/6WRLeJo5Z889waku7dElld"
@@ -5042,7 +5112,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 259047,
       "name": "Southern Sun - Anunnakis Remix",
       "url": "https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln"
@@ -5176,6 +5246,28 @@
       "duration_ms": 537523,
       "name": "Stranded Mind - Extended Mix",
       "url": "https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6"
+    },
+    {
+      "album": {
+        "name": "Subliminal Verses",
+        "url": "https://open.spotify.com/album/4uEA136nqalZPhcWkVgxOY"
+      },
+      "artists": [
+        {
+          "name": "Redspace",
+          "url": "https://open.spotify.com/artist/7DW9eqgg0IgQOQBhtCLAfc"
+        },
+        {
+          "name": "Martin Di Sciascio",
+          "url": "https://open.spotify.com/artist/12UjfrZr2EdktvDeIw6rom"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456393,
+      "name": "Subliminal Verses",
+      "url": "https://open.spotify.com/track/5zvjECHXCAkIuVbpfde1PE"
     },
     {
       "album": {
@@ -5412,7 +5504,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 374000,
       "name": "The Raveolution",
       "url": "https://open.spotify.com/track/0fTXTxCAk94ZUEjqoUvb1d"
@@ -5562,7 +5654,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 346451,
       "name": "Time Slave - Sasha Carassi Remix",
       "url": "https://open.spotify.com/track/3TtX778gdmSSx2wlgZcEIx"
@@ -5959,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic Subterfuge",
+        "url": "https://open.spotify.com/album/4oAfHSI1itVbK1jcAN6AaV"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Dubiansky",
+          "url": "https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296194,
+      "name": "Volver - Mixed",
+      "url": "https://open.spotify.com/track/6B96cwbgKr7LcnTVdcubJf"
+    },
+    {
+      "album": {
         "name": "Voyage (Denis Horvat Remix)",
         "url": "https://open.spotify.com/album/03ENmS6U3KWsZiPG6jUdJe"
       },
@@ -6069,6 +6179,32 @@
     },
     {
       "album": {
+        "name": "Future Avenue Mixed 010 | Bynomic (DJ Mix)",
+        "url": "https://open.spotify.com/album/025h14dWpN2Il5vN5yDgyp"
+      },
+      "artists": [
+        {
+          "name": "Stan Seba",
+          "url": "https://open.spotify.com/artist/3sdUhuXSlgwkcKqP59QYTe"
+        },
+        {
+          "name": "Bynomic",
+          "url": "https://open.spotify.com/artist/3IPeu01jH572q9bnvdKnPG"
+        },
+        {
+          "name": "Mauro Aguirre",
+          "url": "https://open.spotify.com/artist/4n2ueHY6kjwEX11Nuvhy0T"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Yellow and Red Stone - Mauro Aguirre Remix - Mixed",
+      "url": "https://open.spotify.com/track/3gdIFM81duMu1KinhiV3zj"
+    },
+    {
+      "album": {
         "name": "Disco Remix",
         "url": "https://open.spotify.com/album/1hsuJ2uYMXfpUlEzRFOvm3"
       },
@@ -6092,7 +6228,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 303505,
       "name": "Yo Soy la Disco (Pabels, Signo & Mago House Mix)",
       "url": "https://open.spotify.com/track/5TRezAlW81XxWzUEYYgO9B"

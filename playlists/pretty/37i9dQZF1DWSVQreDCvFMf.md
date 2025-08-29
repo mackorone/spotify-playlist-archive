@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Mark Carpio
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,775 likes - 141 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,811 likes - 141 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

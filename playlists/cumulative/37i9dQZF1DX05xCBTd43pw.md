@@ -2,9 +2,9 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Kings Elliot
+> Grüezi! This is 100% made in Switzerland\.  Cover: Benjamin Amaru
 
-389 songs - 20 hr 4 min
+391 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 | 2024-10-19 |
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-12 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 | 2025-07-11 |
+| [Dancing Alone Again](https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Dancing Alone Again](https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C) | 3:11 | 2025-08-28 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 | 2025-04-05 | 2025-07-10 |
@@ -105,6 +106,7 @@
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
+| [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 | 2025-08-28 |  |
 | [Ehreteam](https://open.spotify.com/track/7aqXRqvTzoOyxt9vQpCL6c) | [ETO](https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj) | [Ehreteam](https://open.spotify.com/album/2jDRPzcGRsai4aB5f79md1) | 2:53 | 2025-04-24 | 2025-05-02 |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
@@ -332,7 +334,7 @@
 | [Surfer Girl](https://open.spotify.com/track/3WLqSWEgz0Dxo2D5qKfXAP) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Surfer Girl](https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg) | 3:39 | 2024-06-27 | 2024-10-04 |
 | [Sweet Nothing](https://open.spotify.com/track/1Sh5Sch6XuUojE5eH0innu) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4QYNec3HTSxq2ghYSrEBv2) | 3:20 | 2024-11-05 | 2024-11-10 |
 | [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-11-01 | 2025-02-08 |
-| [Talk](https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Talk](https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU) | 3:07 | 2025-06-05 |  |
+| [Talk](https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Talk](https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU) | 3:07 | 2025-06-05 | 2025-08-29 |
 | [Telefone](https://open.spotify.com/track/71wA37ZBebeJG2ckJ9FsLv) | [Film 2](https://open.spotify.com/artist/7IVcyzxxgbupWxn6R2SFhZ) | [Telefone](https://open.spotify.com/album/2rzOpU8XegetRKR8Vstbrm) | 3:09 | 2025-04-24 | 2025-05-02 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
@@ -387,7 +389,7 @@
 | [Winner4Life](https://open.spotify.com/track/0pSl7HdS2qMpnxauQQGMDS) | [Pato](https://open.spotify.com/artist/3kwSyO1era9AP6vAh13hTu) | [Winner4Life](https://open.spotify.com/album/2tNlLfmxuVjaeAxqO1BpZ5) | 2:38 | 2025-04-24 | 2025-05-02 |
 | [With Me](https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [With Me](https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub) | 3:17 | 2025-02-21 | 2025-04-18 |
 | [Without My Love](https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Without My Love](https://open.spotify.com/album/222SoIbjNhExQMwEExMvek) | 2:56 | 2024-10-11 | 2024-10-19 |
-| [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-31 |  |
+| [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-31 | 2025-08-29 |
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 |  |
 | [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |

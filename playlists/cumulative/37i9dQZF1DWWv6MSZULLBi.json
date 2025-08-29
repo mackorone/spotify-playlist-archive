@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Kathleen Edwards",
+  "description": "A laid-back trip in the folk scene. Cover: Luca Fogale",
   "name": "Folk & Friends",
   "tracks": [
+    {
+      "album": {
+        "name": "1 Million Feet High",
+        "url": "https://open.spotify.com/album/5nSnr2J0If0asfDclzCc4Q"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "1 Million Feet High",
+      "url": "https://open.spotify.com/track/4XTu7b8124jDhQJqDQimDU"
+    },
     {
       "album": {
         "name": "1 of 2",
@@ -344,7 +362,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
@@ -773,6 +791,24 @@
     },
     {
       "album": {
+        "name": "All You Show",
+        "url": "https://open.spotify.com/album/1algA8DpFyTmlzqyjx7YF3"
+      },
+      "artists": [
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "All You Show",
+      "url": "https://open.spotify.com/track/7Do8ZdOYHngMkRkiUycVJT"
+    },
+    {
+      "album": {
         "name": "Same Sun EP",
         "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
@@ -860,6 +896,24 @@
       "duration_ms": 258105,
       "name": "Already There",
       "url": "https://open.spotify.com/track/4eQgIa4i3nr4ReoujolhCc"
+    },
+    {
+      "album": {
+        "name": "Nerve (Extended)",
+        "url": "https://open.spotify.com/album/0P4hnEPtNGN0NEanSrKHJv"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Roger",
+          "url": "https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215765,
+      "name": "Am I Ever Gonna Love? - Acoustic",
+      "url": "https://open.spotify.com/track/4BVcFiq2VFBN73rRf8T1FM"
     },
     {
       "album": {
@@ -1938,7 +1992,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 245520,
       "name": "Beg, Steal, Borrow",
       "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
@@ -2792,7 +2846,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 288383,
       "name": "Broken Seams",
       "url": "https://open.spotify.com/track/60RLZa6m9UDrSFdEcqu4sU"
@@ -3805,6 +3859,24 @@
     },
     {
       "album": {
+        "name": "Colours In My Head",
+        "url": "https://open.spotify.com/album/46b4EysLlD0WsTfHMuRj2K"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198166,
+      "name": "Colours In My Head",
+      "url": "https://open.spotify.com/track/5zvsfw6kpXTjG8dRdhxPEb"
+    },
+    {
+      "album": {
         "name": "Come on By",
         "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
       },
@@ -4814,6 +4886,24 @@
       "duration_ms": 267526,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/6aCNLZj3lmzadbU7wGFMs6"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/0ToewkCodCvaw7jaCKCj0i"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168522,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/3PKunRQLUFM8ZvMOKhBoAK"
     },
     {
       "album": {
@@ -6883,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "Fire Fire Fire (Live from Peterborough)",
+        "url": "https://open.spotify.com/album/2PEPPP28ECqEGlLSpYoB99"
+      },
+      "artists": [
+        {
+          "name": "Craig Cardiff",
+          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323490,
+      "name": "Fire Fire Fire - Live from Peterborough",
+      "url": "https://open.spotify.com/track/4fNBCU7ia1ZSCG3tY6I3G5"
+    },
+    {
+      "album": {
         "name": "Fireball Whiskey",
         "url": "https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO"
       },
@@ -7259,6 +7367,24 @@
     },
     {
       "album": {
+        "name": "For",
+        "url": "https://open.spotify.com/album/1VkVZ17FmuSdzcBF0czLak"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251725,
+      "name": "For",
+      "url": "https://open.spotify.com/track/2ftKiA9Le9hAvxtli5LZQr"
+    },
+    {
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -7552,7 +7678,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 217400,
       "name": "Freezing - Better with Laci",
       "url": "https://open.spotify.com/track/45K4WXlrAWMfOPyxX2oSNz"
@@ -7768,7 +7894,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 313728,
       "name": "Giant Eye",
       "url": "https://open.spotify.com/track/4NfLz4xMhMEkP1aWoWNKeT"
@@ -8722,6 +8848,24 @@
       "duration_ms": 229848,
       "name": "Helium",
       "url": "https://open.spotify.com/track/2uvDjPwNsu94t8ATG0yia1"
+    },
+    {
+      "album": {
+        "name": "Between You and Me",
+        "url": "https://open.spotify.com/album/1C9cwCoi45V5snbeDJY3wJ"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325322,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/7KQuq61c48KrQ2kMIvrCuC"
     },
     {
       "album": {
@@ -10072,7 +10216,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 222629,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC"
@@ -10616,7 +10760,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 342081,
       "name": "It Might Be Raining",
       "url": "https://open.spotify.com/track/145lUae1lkz99tKcwwEK9x"
@@ -12790,7 +12934,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 224419,
       "name": "Marlay Park",
       "url": "https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z"
@@ -13186,7 +13330,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 252666,
       "name": "Millions",
       "url": "https://open.spotify.com/track/66PYWmVolRfCo0oaZp0H7L"
@@ -14758,7 +14902,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 159066,
       "name": "Of Amber",
       "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
@@ -15988,7 +16132,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 222920,
       "name": "Pine",
       "url": "https://open.spotify.com/track/0a3SUkWh13mUx6mh2Lg2mq"
@@ -17028,7 +17172,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 215660,
       "name": "Running Boy",
       "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
@@ -18272,7 +18416,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 155607,
       "name": "Sold Me a Dream",
       "url": "https://open.spotify.com/track/2jG1rNcqw9KjOk6tminvNn"
@@ -19027,6 +19171,24 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/47sEjajsjiq4i2KugE6ECz"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264319,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2aVADnbKwE8qwflEFUKWFa"
+    },
+    {
+      "album": {
         "name": "If I Was, I Am",
         "url": "https://open.spotify.com/album/648zHL2TdKCfvMmTPFlEGl"
       },
@@ -19732,6 +19894,24 @@
       "duration_ms": 147121,
       "name": "Ten Hands",
       "url": "https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc"
+    },
+    {
+      "album": {
+        "name": "Terrified",
+        "url": "https://open.spotify.com/album/7jU9fP0eHl2WzcYe7tSaqY"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129526,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/3DzIIdsWENl0iH6a2XcyO5"
     },
     {
       "album": {
@@ -21279,6 +21459,42 @@
     },
     {
       "album": {
+        "name": "Shoulda Listened",
+        "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
+      },
+      "artists": [
+        {
+          "name": "Ken Presse",
+          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
+    },
+    {
+      "album": {
+        "name": "Hangover Terrace",
+        "url": "https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6"
+    },
+    {
+      "album": {
         "name": "In Lieu Of Light",
         "url": "https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z"
       },
@@ -21994,6 +22210,24 @@
       "duration_ms": 186987,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
+    },
+    {
+      "album": {
+        "name": "Watercress",
+        "url": "https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Watercress",
+      "url": "https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y"
     },
     {
       "album": {

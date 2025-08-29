@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4287,
+  "num_followers": 4290,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABWSry2Ch2qyMqN8pWlI8rw",
+  "snapshot_id": "aK5KgAAAAABptxpC98n9PUlG66OD/Sja",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 102186,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Swear",
-      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belongs To The Dead",
         "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 102186,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
     },
     {
       "added_at": null,

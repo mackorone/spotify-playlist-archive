@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Beau Bassin",
+        "url": "https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157420,
+      "name": "Beau Bassin",
+      "url": "https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl"
+    },
+    {
+      "album": {
         "name": "Applaudissez, bande de chameaux",
         "url": "https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl"
       },

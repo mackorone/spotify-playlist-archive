@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169553,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/7mrauQo5bJ8hPPqJ0HfDyZ"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/3vlnDdcS7NxDYFu6eTQvEm"
       },
@@ -1396,6 +1418,28 @@
       "duration_ms": 210822,
       "name": "Don't Bother Me",
       "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go (Radio Mix)",
+        "url": "https://open.spotify.com/album/6xTiUPA4FuJ1qoVYtI8xWk"
+      },
+      "artists": [
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Don't Let Me Go - Radio Mix",
+      "url": "https://open.spotify.com/track/5dv2jjdxdwsnbRtJnQXaFT"
     },
     {
       "album": {
@@ -1621,6 +1665,32 @@
     },
     {
       "album": {
+        "name": "Energy Inside",
+        "url": "https://open.spotify.com/album/5UibPsFsEXXz0JZmxIBpUi"
+      },
+      "artists": [
+        {
+          "name": "Cash Only",
+          "url": "https://open.spotify.com/artist/3YCvK0FOrGJifQmDc12PVE"
+        },
+        {
+          "name": "G-Double-E (NL)",
+          "url": "https://open.spotify.com/artist/4jqEtqBGG1BgJftVe5vin6"
+        },
+        {
+          "name": "Holly Ellison",
+          "url": "https://open.spotify.com/artist/2sDMxPZ5rTvGivtiw9yHPy"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "Energy Inside",
+      "url": "https://open.spotify.com/track/15adbLGWrw68SHq4chirCl"
+    },
+    {
+      "album": {
         "name": "Every Morning (Todd Terry's Dub Remix)",
         "url": "https://open.spotify.com/album/0IPFDGzokAyo24oTBkIXuW"
       },
@@ -1796,7 +1866,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 386366,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/1wL3b7Xqo2JdAL1zSmVmJ8"
@@ -1862,6 +1932,24 @@
       "duration_ms": 190645,
       "name": "Feel Real Good",
       "url": "https://open.spotify.com/track/2TCRA9ufgB5ThqH61P59X2"
+    },
+    {
+      "album": {
+        "name": "Feelin Right, It's Alright",
+        "url": "https://open.spotify.com/album/7fpJSlDyW8NtLNu3kTLvgK"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Feelin Right, It's Alright - Edit",
+      "url": "https://open.spotify.com/track/6gZGSCTLkMo2mEp3JkHdtM"
     },
     {
       "album": {
@@ -2016,10 +2104,54 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 181190,
       "name": "Freedom - Todd Terry Edit Mix",
       "url": "https://open.spotify.com/track/2O1EEwAr3Pr7biGE2BgZ4g"
+    },
+    {
+      "album": {
+        "name": "Gargantuas",
+        "url": "https://open.spotify.com/album/4ZDNKCkWHiM5NxG6uQEwG4"
+      },
+      "artists": [
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415384,
+      "name": "Gargantuas",
+      "url": "https://open.spotify.com/track/2OYWYIUYQ3ipz8xwVgyDc2"
+    },
+    {
+      "album": {
+        "name": "Get Deep",
+        "url": "https://open.spotify.com/album/1GO0TeT5aL6qgCCSygwwYU"
+      },
+      "artists": [
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197903,
+      "name": "Get Deep",
+      "url": "https://open.spotify.com/track/2KZRg2Bh3U1PtDsQgNc0wu"
     },
     {
       "album": {
@@ -2456,7 +2588,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 160005,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/7dzAqPbgIqbBuSvz9j8wRH"
@@ -2790,6 +2922,24 @@
       "duration_ms": 236280,
       "name": "Hurts On You - The Deepshakerz Edit",
       "url": "https://open.spotify.com/track/1rum5OlAeG3BkfbMX7mYZd"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/6Ohvh7RHzKlIPAdP4mCnk4"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173167,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN"
     },
     {
       "album": {
@@ -3128,7 +3278,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 207360,
       "name": "I'll Wait - Groove Technicians Edit",
       "url": "https://open.spotify.com/track/3TVtNfoQaEY9N5KVpLsdJs"
@@ -3318,7 +3468,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 181921,
       "name": "It Feels Much Better",
       "url": "https://open.spotify.com/track/1GsEyWzxbT2rz8tpDgm0h6"
@@ -3854,7 +4004,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 186240,
       "name": "Laid Back - Radio Mix",
       "url": "https://open.spotify.com/track/52aYXtPmgdVj5PL6VqZBfK"
@@ -4375,6 +4525,28 @@
     },
     {
       "album": {
+        "name": "Mind, Body & Soul",
+        "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "Mind, Body & Soul",
+      "url": "https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38"
+    },
+    {
+      "album": {
         "name": "Mira Que",
         "url": "https://open.spotify.com/album/5eGqjaslGUjQubjb7GYWxF"
       },
@@ -4474,7 +4646,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 198906,
       "name": "Mover",
       "url": "https://open.spotify.com/track/2dINmjLJbLxsEH39ZhQFFu"
@@ -4772,7 +4944,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 168188,
       "name": "Nothing Like It",
       "url": "https://open.spotify.com/track/4F7NrmHKoY2PddH9WwOsZ9"
@@ -4830,10 +5002,28 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 169523,
       "name": "Once Upon A Time - Remix",
       "url": "https://open.spotify.com/track/6ESBVBhqupM2EogMPZXL0I"
+    },
+    {
+      "album": {
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/4kWfICLbBZerqEdHWq2Mz5"
+      },
+      "artists": [
+        {
+          "name": "Pinto (NYC)",
+          "url": "https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173543,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/2FYoKvQU1i9DPBCiRPHOru"
     },
     {
       "album": {
@@ -5610,7 +5800,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 178926,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
@@ -5985,6 +6175,32 @@
     },
     {
       "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/5WV5qFR16D2wmRCyqQuHui"
+      },
+      "artists": [
+        {
+          "name": "Ridney",
+          "url": "https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204761,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/1tglvWBOGeRtyFcjOzRj66"
+    },
+    {
+      "album": {
         "name": "MAW Lost Tapes 9",
         "url": "https://open.spotify.com/album/28tVAfNFZkQ1IaNPMKN2mJ"
       },
@@ -6095,6 +6311,24 @@
     },
     {
       "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "album": {
         "name": "The Doobie",
         "url": "https://open.spotify.com/album/23GTe73P1L5uR1ngPgQLyj"
       },
@@ -6110,7 +6344,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 344640,
       "name": "The Doobie - Todd Edwards Remix",
       "url": "https://open.spotify.com/track/1YbsqemmdzrUVkOGbJXDn3"
@@ -6547,6 +6781,24 @@
     },
     {
       "album": {
+        "name": "This Co",
+        "url": "https://open.spotify.com/album/2jrEMtM8IgUlJ0u4glu0AR"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "This Co - TNT Edit",
+      "url": "https://open.spotify.com/track/15HPQ6BWrEWHCrcAtclfIf"
+    },
+    {
+      "album": {
         "name": "This Is Freak",
         "url": "https://open.spotify.com/album/4IS9aJ6RzrZCFULlkC8VjW"
       },
@@ -6658,7 +6910,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 189960,
       "name": "This Rhythm (feat. RAHH)",
       "url": "https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66"

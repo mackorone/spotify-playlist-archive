@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -7404,7 +7404,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 314026,
       "name": "EM CH\u1ec8 L\u00c0",
       "url": "https://open.spotify.com/track/7k9aYmnQ1nrp3RMTxNtUQV"
@@ -10022,7 +10022,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 165555,
       "name": "H\u00e0 N\u1ed9i",
       "url": "https://open.spotify.com/track/5PGh9MyKry8slG5AfvD1eD"
@@ -10108,7 +10108,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 245454,
       "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
       "url": "https://open.spotify.com/track/7gSQxwCpEMjg8wb6Y3oqe7"
@@ -13308,6 +13308,28 @@
       "duration_ms": 173000,
       "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
       "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
+    },
+    {
+      "album": {
+        "name": "L\u00fd Do N\u00e0o \u0110\u1ec3 Quay L\u1ea1i V\u1edbi Nhau",
+        "url": "https://open.spotify.com/album/2FugIEqHbqksCHvqnqxc0y"
+      },
+      "artists": [
+        {
+          "name": "PAR SG",
+          "url": "https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY"
+        },
+        {
+          "name": "New$oulZ",
+          "url": "https://open.spotify.com/artist/27oQp8PzRPJwkkLQvBMEzZ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116142,
+      "name": "L\u00fd Do N\u00e0o \u0110\u1ec3 Quay L\u1ea1i V\u1edbi Nhau",
+      "url": "https://open.spotify.com/track/11OxuU5y7ebAJyKaY8dOl0"
     },
     {
       "album": {
@@ -24758,7 +24780,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

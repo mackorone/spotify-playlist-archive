@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Le\-one in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,585 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,799 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Fammi Un Sorriso](https://open.spotify.com/track/02YGjSuE9z5UJQclMUaNUk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Fammi Un Sorriso](https://open.spotify.com/album/0N0fLWG8aHBO83FOMU26AF) | 2:56 |
 | 50 | [Credo di Esserci](https://open.spotify.com/track/5j1sRdybeDBwQA7qzcwiCG) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Credo di Esserci](https://open.spotify.com/album/5Kq1XMq8nCUjaWJLOnhvhw) | 2:10 |
 
-Snapshot ID: `AAAAAKfWL2L/8M827IvBkaCxwl28z0Pj`
+Snapshot ID: `AAAAAOOU24Ycwygta1GIC2F0eGTLaAul`

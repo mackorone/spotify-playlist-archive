@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo : Lewis Capaldi
+> Les hits de demain sont déjà ici\. Photo : Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,011 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,020 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 40 | [Les étoiles](https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Les étoiles](https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8) | 2:43 |
 
-Snapshot ID: `AAAAAMYidNvWMsDix/31XF5TPt32xeax`
+Snapshot ID: `AAAAAItGW7UMGEUwQT8sPLCgvdZqA+0B`

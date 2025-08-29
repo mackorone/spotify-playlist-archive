@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Duru",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: \u00d6yk\u00fc ",
   "name": "Ke\u015fif",
   "tracks": [
+    {
+      "album": {
+        "name": "4AM IST",
+        "url": "https://open.spotify.com/album/0xB2UF0Ipu1riYiFwvrk4M"
+      },
+      "artists": [
+        {
+          "name": "BED",
+          "url": "https://open.spotify.com/artist/4l0aYni7bRqK53sJx85PqD"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130714,
+      "name": "4AM IST",
+      "url": "https://open.spotify.com/track/4RH68GIWehSJXXF7pzsueV"
+    },
     {
       "album": {
         "name": "Ada",
@@ -312,6 +330,24 @@
       "duration_ms": 170888,
       "name": "Aynen \u00d6yle",
       "url": "https://open.spotify.com/track/0x7yFBpn5ivfO1FacplL6u"
+    },
+    {
+      "album": {
+        "name": "AYNI BAHANELER",
+        "url": "https://open.spotify.com/album/6og17cks2emChRxQIIyFsq"
+      },
+      "artists": [
+        {
+          "name": "\u00d6yk\u00fc",
+          "url": "https://open.spotify.com/artist/4RhGRpWkUswnIi6vHMa0Jr"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "AYNI BAHANELER",
+      "url": "https://open.spotify.com/track/0M8W5kUAVDToKGJtpcC6g4"
     },
     {
       "album": {
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 163635,
       "name": "DEL\u0130KANLI",
       "url": "https://open.spotify.com/track/0hOig8ipH6xHU7ui9yXQGv"
@@ -1455,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "D\u00fc\u015f",
+        "url": "https://open.spotify.com/album/1vTymFilMLsNVMCbOHJTdk"
+      },
+      "artists": [
+        {
+          "name": "Aneeka",
+          "url": "https://open.spotify.com/artist/3LG1Dds0r6J5oXnIHazDLb"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "D\u00fc\u015f",
+      "url": "https://open.spotify.com/track/5YBQb5VJOtcP9JfGO8fhZi"
+    },
+    {
+      "album": {
         "name": "D\u00dc\u015eLER\u0130M",
         "url": "https://open.spotify.com/album/5hBZZAzvX2Otm312ORebxl"
       },
@@ -1574,7 +1628,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 148349,
       "name": "Elveda",
       "url": "https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w"
@@ -2353,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "\u0130\u015fte De B\u00f6yle",
+        "url": "https://open.spotify.com/album/4PMB0miN18Yl10OQIPo9X3"
+      },
+      "artists": [
+        {
+          "name": "Duru And",
+          "url": "https://open.spotify.com/artist/79h9QbZLQ5w3lgDxDOanyQ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141720,
+      "name": "\u0130\u015fte De B\u00f6yle",
+      "url": "https://open.spotify.com/track/7dX613EBq3NEULW2oHzHyO"
+    },
+    {
+      "album": {
         "name": "Kalbim Vazge\u00e7er mi?",
         "url": "https://open.spotify.com/album/7gPUDvmlP1T8ZKxYylVgHA"
       },
@@ -3010,7 +3082,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 255700,
       "name": "r\u00fcyet",
       "url": "https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o"
@@ -3220,6 +3292,28 @@
       "duration_ms": 188088,
       "name": "sen o de\u011filsin",
       "url": "https://open.spotify.com/track/3Xg9NYwlg81098vb43VhvR"
+    },
+    {
+      "album": {
+        "name": "Sen Ol",
+        "url": "https://open.spotify.com/album/72FRlkbaouw3dYnCuUHwg2"
+      },
+      "artists": [
+        {
+          "name": "Ekin Kurt",
+          "url": "https://open.spotify.com/artist/0iM3AuF59TOPyxJkpl3MiM"
+        },
+        {
+          "name": "Julia Jarabanda",
+          "url": "https://open.spotify.com/artist/6hHrXYqMiRMiOQ0hTeFaTz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192046,
+      "name": "Sen Ol",
+      "url": "https://open.spotify.com/track/3jfK4hieQJyLEnQkpTcEjf"
     },
     {
       "album": {
@@ -4392,7 +4486,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 147529,
       "name": "Yar\u0131n\u0131 Yok Ac\u0131s\u0131 Var",
       "url": "https://open.spotify.com/track/717Nc063BXMtll6aMKeCtI"
@@ -5116,7 +5210,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 187346,
       "name": "\u00dcz\u00fcld\u00fc\u011f\u00fcm Zamanlarda",
       "url": "https://open.spotify.com/track/12lZ76ibE7cuD2kIR8D89i"

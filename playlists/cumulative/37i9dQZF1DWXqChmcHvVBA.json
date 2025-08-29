@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "MIX DE FRUTAS",
+        "url": "https://open.spotify.com/album/6WIIOaeytSBHGH0xtQWoXP"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "AJO Y AGUA",
+      "url": "https://open.spotify.com/track/7hEIITeLAnNBBlYNG5tryM"
+    },
+    {
+      "album": {
         "name": "Al Que Te Toque Rkt",
         "url": "https://open.spotify.com/album/3rD559B4jIqgfWzTUoWTVK"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 165605,
       "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
       "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 212000,
       "name": "MDQ - REMIX OFICIAL",
       "url": "https://open.spotify.com/track/1ACploEfZLPleQxgFQuNKU"
@@ -3307,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "no me llores",
+        "url": "https://open.spotify.com/album/3Mw32npgxPmKcB7uxsd4AN"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "no me llores",
+      "url": "https://open.spotify.com/track/31ADaq3knYnKfKDbyeKoRb"
+    },
+    {
+      "album": {
         "name": "NO SE VE NA",
         "url": "https://open.spotify.com/album/2bHpbrSulNCo8ZOEV0btLA"
       },
@@ -3408,6 +3452,24 @@
       "duration_ms": 226119,
       "name": "No te vayas a enamorar (feat. OKY & Sasha Ferro)",
       "url": "https://open.spotify.com/track/0fs236enB88OOQ5r0V6RwY"
+    },
+    {
+      "album": {
+        "name": "MIX DE FRUTAS",
+        "url": "https://open.spotify.com/album/6WIIOaeytSBHGH0xtQWoXP"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NO, MANZANA",
+      "url": "https://open.spotify.com/track/45CZCIVIOAoZ4lbCDDYrpk"
     },
     {
       "album": {
@@ -3948,7 +4010,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 160909,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/2zWbjhfs4DoDJ3Lwl5GJ1n"
@@ -5666,7 +5728,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 122723,
       "name": "TITAN",
       "url": "https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr"

@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Deshoras",
+        "url": "https://open.spotify.com/album/7F5vE3C3nYca5gflNrBMiB"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Deshoras",
+      "url": "https://open.spotify.com/track/2WyhoctUbgmlm4Ff2RBzvm"
+    },
+    {
+      "album": {
         "name": "Transparente",
         "url": "https://open.spotify.com/album/53EIsRN8rSPlkW1FvEepts"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 272187,
       "name": "La Crecida",
       "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"

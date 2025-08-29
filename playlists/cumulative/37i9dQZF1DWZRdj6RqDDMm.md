@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: JVSON
 
-551 songs - 1 day 7 hr 4 min
+552 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-10-20 |  |
 | [Healer](https://open.spotify.com/track/54CGIAeSJL9cO7Lu0DW0FY) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Healer](https://open.spotify.com/album/4CnpfAL2P5gKv9myxRwH24) | 4:45 | 2025-01-31 | 2025-03-28 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-21 |  |
+| [here for you \(live\) \- Live](https://open.spotify.com/track/3VQmZWus8cAatajKOqkCxQ) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [perfect union \(but make it live\) \[Live\]](https://open.spotify.com/album/5Iq8WTQ6bKrti2uX5F3lgz) | 4:32 | 2025-08-29 |  |
 | [Hiding Place](https://open.spotify.com/track/4QDHniJKIohZMdCDAtA0XD) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Hiding Place](https://open.spotify.com/album/2xBNAgpCRFDKJtPpnZhSsK) | 3:16 | 2024-03-15 | 2024-11-08 |
 | [Higher](https://open.spotify.com/track/4x3Ur7vXn0OGCanM0H14TP) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Higher](https://open.spotify.com/album/25P2aZHiOFgElq2h72SXTq) | 2:24 | 2025-04-04 | 2025-05-30 |
 | [Higher oh \- Live](https://open.spotify.com/track/6vOiTgozU5X0lWRoasn35p) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q) | [Higher oh \(Live\)](https://open.spotify.com/album/6ty3mbgv5Y6Bc2yp294hRN) | 3:46 | 2025-05-02 | 2025-07-11 |

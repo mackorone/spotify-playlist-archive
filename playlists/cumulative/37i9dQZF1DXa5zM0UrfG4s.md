@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-413 songs - 18 hr 55 min
+414 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Hon kan inte banka plåt](https://open.spotify.com/track/6wy0CoUqP1fl93OpZkr8g9) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Hon kan inte banka plåt](https://open.spotify.com/album/6F68Xk20E7SFurcQuRggZW) | 2:08 | 2022-12-08 | 2023-03-31 |
 | [Hopp inn i kjerra](https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hopp inn i kjerra](https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH) | 2:20 | 2025-03-13 |  |
 | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/track/2TLVUAQzq9FnzSxFYGOF7Y) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H) | 1:36 | 2022-09-22 | 2022-10-14 |
-| [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 | 2025-03-27 |  |
+| [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 | 2025-03-27 | 2025-08-29 |
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
 | [Hvis Morgendagen Aldri Kommer](https://open.spotify.com/track/3mF0hLdjrLroWBIpkrodI4) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Blanke Ark](https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H) | 4:37 | 2022-03-24 | 2022-04-19 |
 | [HVIT PELIKAN](https://open.spotify.com/track/6qZuPyOD4ROhYMaBeIA5ZS) | [Dandy Lion](https://open.spotify.com/artist/3Il8nRZ80Wbjs2UGkysK5F), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [HVIT PELIKAN](https://open.spotify.com/album/4ByBcmO9fANmzo47mE1R6Y) | 2:19 | 2021-12-16 | 2022-04-18 |
@@ -257,6 +257,7 @@
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |
 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 | 2022-06-09 | 2024-09-20 |
 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 | 2021-12-16 | 2025-05-23 |
+| [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 | 2025-08-28 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2023-06-22 | 2024-10-18 |
 | [Mango IPA \- Remix](https://open.spotify.com/track/6TUkYXRUzsB9i5fBK0BJ30) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Mango IPA \(Remix\)](https://open.spotify.com/album/4ykZO8NjS3qSnvg5H1JTQM) | 3:22 | 2021-12-16 | 2022-10-16 |
 | [MASSE BASS](https://open.spotify.com/track/0cf57fei5SIXNXNpm4J2lo) | [HÆNRIK](https://open.spotify.com/artist/0Cbloj3JVaNSDP5VrxyEik) | [MASSE BASS](https://open.spotify.com/album/4hYsFbbfnlTavEWV62JIAL) | 2:09 | 2023-09-14 | 2024-02-09 |

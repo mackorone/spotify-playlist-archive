@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVQfeA9N7Q0g.md) - [plain]
 
 > Olly ha vinto il festival di Sanremo! 💐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,393 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,274 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

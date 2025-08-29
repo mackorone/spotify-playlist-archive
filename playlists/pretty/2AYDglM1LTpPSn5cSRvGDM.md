@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 91,831 likes - 100 songs - 5 hr 47 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 91,860 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 | 89 | [Moment](https://open.spotify.com/track/4ljIiaRgzD42JdFZxZrPNv) | [Seelo](https://open.spotify.com/artist/4n68pXVRVB9JemWAyAgRan), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Moment](https://open.spotify.com/album/3JOzuf0BB48Qr0h6XXI0Fw) | 2:53 |
 | 90 | [Illithid's March](https://open.spotify.com/track/7vsrgJA2nB9x0jM0SlHX9D) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Viligir](https://open.spotify.com/artist/5cVoZHtetVYkVqwK0g741D), [Pastelle](https://open.spotify.com/artist/4n44JgB3xSOFlt21cCIc0T) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 4:50 |
 | 91 | [Tears](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tears](https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt) | 3:57 |
-| 92 | [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:56 |
+| 92 | [Madan](https://open.spotify.com/track/7ljzf9Lu5hbzLrE6jU0nLd) | [U\-Jeen](https://open.spotify.com/artist/0AFOtwiZNKRKPx7WlDXUWJ), [Spectorsonic](https://open.spotify.com/artist/73xgdt1MLi3493DXG5koga), [Alex Believe](https://open.spotify.com/artist/6QtCY1hjuTMMf0e3T6u8z5), [INNA JAYA](https://open.spotify.com/artist/7sJXnbiOYLH3CCmCfT3bo2) | [Madan](https://open.spotify.com/album/6NvgXX3065McysQS0PjvED) | 2:26 |
 | 93 | [Pieces](https://open.spotify.com/track/0AovhHXreaDvf75BQONHSZ) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX) | [Pieces](https://open.spotify.com/album/3J0XNOFDnIClZeYAlb6N5o) | 2:57 |
 | 94 | [Tell Me Who You Are \- Pete K Remix](https://open.spotify.com/track/2SbZT5o1H4WUAa2ubnWonJ) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX), [Jas.](https://open.spotify.com/artist/3ueCEKtgkcjy2YxGPjCobz), [Pete K](https://open.spotify.com/artist/2kwivERZbT1vThOGo32Wx6) | [Tell Me Who You Are \(Pete K Remix\)](https://open.spotify.com/album/0jPk6JZQHx23x5YbicC7P1) | 4:13 |
 | 95 | [Ready For Love](https://open.spotify.com/track/1bWSXWm6pgjY8ufBk9Tjw2) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Ready For Love](https://open.spotify.com/album/6DX1zutIyO9hkllVrYYgKE) | 3:14 |

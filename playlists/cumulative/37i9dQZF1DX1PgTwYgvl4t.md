@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-233 songs - 1 day 3 hr 58 min
+236 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [God Has Done Me Well](https://open.spotify.com/track/7v3pqEg8SQr30Id4T7kRZn) | [Victor Atenaga](https://open.spotify.com/artist/7Gnq3VWNEzKpouU0B7hMJr), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Osa Ekhator](https://open.spotify.com/artist/6fuP5lC0tFLaTSTZ0BWwS0) | [God Has Done Me Well](https://open.spotify.com/album/63ayOU5TbQ8JIVEBs1IfB6) | 6:27 | 2025-02-21 | 2025-03-28 |
 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 | 2024-05-09 |  |
 | [God Turned It Around](https://open.spotify.com/track/4lhSUVejTiMCyE7CbytBx2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 10:19 | 2024-05-09 |  |
+| [Great and Mighty](https://open.spotify.com/track/0Xpb7quWmjbEUtMolZKuBr) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Great and Mighty](https://open.spotify.com/album/2NM3BD949dyy9SA5b5rN4s) | 6:35 | 2025-08-29 |  |
 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 | 2024-07-26 | 2024-10-18 |
 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 | 2025-01-10 | 2025-02-14 |
 | [Hallowed Moment](https://open.spotify.com/track/5vBv3SmwJmUazpYczCNn6E) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Alone With God](https://open.spotify.com/album/2UFiqcUFhpWHEqx2TQ0jBp) | 4:45 | 2025-04-11 | 2025-07-18 |
@@ -102,7 +103,9 @@
 | [Holy Holy \- Revisited](https://open.spotify.com/track/4F27Sv0lG1bwpgB77uxmK8) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Lizzie Noiki](https://open.spotify.com/artist/6PC9kNSWd9WufkroWEiUrh) | [Holy Holy \(Revisited\)](https://open.spotify.com/album/1An2JPT8HL3wmBmdc2Ztw2) | 8:44 | 2025-01-03 | 2025-02-07 |
 | [Holy Spirit](https://open.spotify.com/track/5G80Slm9gl5Y372d0suB05) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Holy Spirit](https://open.spotify.com/album/6sBgLVd4wshumVIIZJmEL5) | 3:43 | 2025-02-21 | 2025-05-23 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
+| [How Excellent Is Your Name \- Live](https://open.spotify.com/track/2PkBsj7plaSZabkhuwy5RW) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [How Excellent Is Your Name \(Live\)](https://open.spotify.com/album/52mkWaKaDVVkYcReBBCrom) | 5:55 | 2025-08-29 |  |
 | [Hungry for You](https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hungry for You](https://open.spotify.com/album/5b80Kb9atpUSjZwa0crLAy) | 8:03 | 2024-09-20 | 2025-01-10 |
+| [I Believe](https://open.spotify.com/track/4aBhXsIOid0Ywk8SagSDeX) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD) | [The Lord's](https://open.spotify.com/album/7kFFcia3s1RBDmsyDPPm0S) | 6:15 | 2025-08-29 |  |
 | [I Cant Tell It All](https://open.spotify.com/track/6h8Kqtmm4skWxoXkVhnTMT) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [I Cant Tell It All](https://open.spotify.com/album/3hJEXMrli90vxYUlDubnHd) | 5:03 | 2024-12-27 | 2025-04-04 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
 | [I give you praise](https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [I give you praise](https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY) | 13:36 | 2025-05-23 | 2025-08-08 |

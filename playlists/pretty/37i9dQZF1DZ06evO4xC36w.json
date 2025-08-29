@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 975831,
+  "num_followers": 975982,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAADtjsENOG58PNevkoklQXSa",
+  "snapshot_id": "aK5KgAAAAAA2v5FlOaLSytSmw1wXBcLk",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 3: Con Tambora",
         "url": "https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 178607,
-      "name": "No Le Tengas Compasi\u00f3n",
-      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian con Tambora",
         "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 157222,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De Joan Sebastian",
+        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
       "duration_ms": 180906,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/67mC1sqidIwycByzWmT96o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De Joan Sebastian",
-        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,

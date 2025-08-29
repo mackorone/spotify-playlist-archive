@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-142 songs - 11 hr 27 min
+143 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,9 +50,10 @@
 | [Drop](https://open.spotify.com/track/6Syd5k9s9HnBfTk5aEpCMh) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i) | 2:54 | 2022-06-10 | 2024-04-19 |
 | [Electric Pranaam](https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu) | [Epic Shit](https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc) | 5:16 | 2022-06-10 |  |
 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 | 2022-06-10 |  |
+| [Empathy \(Vaishnava Janato\)](https://open.spotify.com/track/6BUyuLhCaNhpAQFyxZmoiE) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Kailash Satyarthi](https://open.spotify.com/artist/3DHSvmqyBGYbxhTSho4Ftn), [Remy Le Boeuf](https://open.spotify.com/artist/6fKaPbQlGgDcbtF90RD8iH), [Pascal Le Boeuf](https://open.spotify.com/artist/3OzyjZvYgXNBiK4FkKG64X), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Jarrett Johnson](https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt), [Dave Gross](https://open.spotify.com/artist/5GnWQTVsfT6J464pwyGF8z), [Erwilian](https://open.spotify.com/artist/2qmu9C9fWBAhbD4o4orObv), [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Gandhi \- Mantras Of Compassion](https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK) | 2:55 | 2025-08-28 |  |
 | [Enna Thavam Seithanai \- Instrumental](https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [This Is Carnatic Fusion, Vol\. 3](https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9) | 4:17 | 2022-06-10 |  |
 | [Entharo Pallavi & Charanam](https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 4:54 | 2022-06-10 |  |
-| [Ex\-Animo](https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 3:24 | 2022-06-10 |  |
+| [Ex\-Animo](https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 3:24 | 2022-06-10 | 2025-08-29 |
 | [Ex\-Animo](https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 3:24 | 2022-06-10 | 2024-04-19 |
 | [Ex\-Animo](https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 3:24 | 2022-06-10 | 2023-11-05 |
 | [For Tom](https://open.spotify.com/track/12SKOQnmgrFQogNZI9Lmld) | [Sanjay Divecha](https://open.spotify.com/artist/2Z68fPcM9qkmKpaBIFrVWJ), [Vasundhara Vee](https://open.spotify.com/artist/14O8IcSoBXHkWx7cp3UeR8) | [Leela](https://open.spotify.com/album/3VP9x8JTNS2oYFIT2VGQNa) | 4:35 | 2025-07-07 |  |

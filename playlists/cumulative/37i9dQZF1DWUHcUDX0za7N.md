@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: ODUMODUBLVCK
 
-631 songs - 1 day 5 hr 41 min
+632 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Allez Tobina](https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allez Tobina](https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK) | 1:40 | 2025-06-13 | 2025-07-04 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-09-29 |
 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 | 2024-11-15 |  |
+| [Amen \(God My Dealer\)](https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Amen \(God My Dealer\)](https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO) | 2:44 | 2025-08-28 |  |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-06-28 | 2025-05-19 |
 | [Andale](https://open.spotify.com/track/0rIZdSwtW26f2Ljmi8chI5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Angle 90 \- Remix](https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Angle 90 \(Remix\)](https://open.spotify.com/album/3PybRJAt7AHKnJPQeKWNN3) | 3:10 | 2023-09-29 | 2023-10-13 |
@@ -222,7 +223,7 @@
 | [Flimsy Excusees](https://open.spotify.com/track/2rB5XZMKGKxbhXS9B5HVTp) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Flimsy Excusees/ Bad Character](https://open.spotify.com/album/6OFSAmfK3cCLQpP0XSEo5p) | 2:36 | 2022-09-12 | 2022-10-07 |
 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 |  |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 |  |
-| [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 |  |
+| [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2025-08-29 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 |  |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 |  |
 | [Frenemies](https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [Frenemies](https://open.spotify.com/album/7yAck9wFhYhgzUMNO6B5ws) | 2:47 | 2024-03-01 | 2024-03-29 |

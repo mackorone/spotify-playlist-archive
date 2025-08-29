@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,861 likes - 33 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,903 likes - 33 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 18 | [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 |
 | 19 | [Jen High](https://open.spotify.com/track/5a7ukZt5n6y5iyWWXJTEH0) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 20 | [Rose](https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:44 |
-| 21 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 |
+| 21 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
 | 22 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
-| 23 | [Shero](https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Needs x UN Women Present HeForShe](https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1) | 6:42 |
+| 23 | [Jigoo \- Radio Edit](https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o) | [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Jigoo \(Radio Edit\)](https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf) | 4:03 |
 | 24 | [Maktoop](https://open.spotify.com/track/7iIzRv3H2BtA03xuAmxiOu) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:54 |
 | 25 | [Day Without Yesterday](https://open.spotify.com/track/0OhEIJc0H8ZbRtQbeVBpaz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Day Without Yesterday / Six O Six](https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3) | 5:39 |
 | 26 | [Your Art](https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 1:57 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 32 | [When Round, They Go \- Terekke Remix](https://open.spotify.com/track/2jcLXice4V8TNsvwE76498) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Terekke](https://open.spotify.com/artist/0VkQxm6BXV8KqEFmUpg5Lu) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
 | 33 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `aKz5AAAAAABDx21R25SaxuuHVvjG4qqo`
+Snapshot ID: `aK5KgAAAAACtQ/IRjsOuwXC3VuXy5Gbt`

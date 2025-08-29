@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 389357,
+  "num_followers": 389480,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-08-15 15:29:55",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2025-08-15 15:29:55",
-      "album": {
         "name": "Caf\u00e9 da MaLu, Vol. 04",
         "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 163076,
       "name": "P\u00e9 na Areia",
       "url": "https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF"
+    },
+    {
+      "added_at": "2025-08-15 15:29:55",
+      "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2025-08-15 15:29:55",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-08-15 15:29:55",
       "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2025-08-15 15:29:55",
-      "album": {
         "name": "Que Seja de Alegria",
         "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 174853,
       "name": "Que Seja de Alegria",
       "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
+    },
+    {
+      "added_at": "2025-08-15 15:29:55",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
     },
     {
       "added_at": "2025-08-15 15:29:55",

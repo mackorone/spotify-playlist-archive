@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,501 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,505 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 21 | [In The Middle](https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [In The Middle](https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D) | 6:05 |
 | 22 | [Hunting Season](https://open.spotify.com/track/0tKMZFO30VbRFulQzIWxjX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Hunting Season](https://open.spotify.com/album/2x425wKGZzQLlrbVNkvNyr) | 2:55 |
 | 23 | [Adrenaline](https://open.spotify.com/track/3uak79H1daVZzvrXpbfhsc) | [SALVIA](https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8) | [Adrenaline](https://open.spotify.com/album/7oYAIl23ZDcBULy8OIEZWV) | 2:56 |
-| 24 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:24 |
+| 24 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 |
 | 25 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
 | 26 | [Quiet Life](https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Quiet Life](https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2) | 3:16 |
 | 27 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 84 | [she came for a sweet time](https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [she came for a sweet time](https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY) | 4:19 |
 | 85 | [GOD SAVE THE PONY.](https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ) | 3:09 |
 
-Snapshot ID: `AAAAAPnXTdkI80YI6C6fkiYXcM1R1PAQ`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

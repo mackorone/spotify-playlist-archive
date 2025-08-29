@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 트라이: 우리는 기적이 된다 \(The Winning Try\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,169 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,056 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [A Man In Yellow Shirt \(Drama Live Ver\)](https://open.spotify.com/track/17zzvZnljn5Y9VBwIt3erK) | [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti), [Chae Won Bin](https://open.spotify.com/artist/3NSZzukyqYMM6qI9fvYZeh) | [Who Is She OST Part.5](https://open.spotify.com/album/6bQDwfQulzCjPxOiQdnfe0) | 3:07 |
 | 100 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 |
 
-Snapshot ID: `AAAAAOlnsSZU99iN1/3hOOpaRfojJdGc`
+Snapshot ID: `AAAAAANTj8+kCQuWFbWrE8LcuhSepbAP`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: TYCH, Brunzyn, Getit en meer...",
+  "description": "Nieuw: Nathan, Orco, Vurr Flashy & Safouu en meer...",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 154698,
       "name": "1 Voor De Money",
       "url": "https://open.spotify.com/track/30IzllhL2C7P2fOd34NNVW"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 293903,
       "name": "1001 BARZ",
       "url": "https://open.spotify.com/track/4qIcCNNlz4WukuFAIIKvVg"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 153600,
       "name": "Biggie Doen",
       "url": "https://open.spotify.com/track/3brdVfw3eyXHcSXXwua6Q1"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 125248,
       "name": "Blauwsel",
       "url": "https://open.spotify.com/track/0LHvMSawK2h9a28UtU2sld"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 144000,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 117073,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/2NKVyiziZbmvIBaS0XHf8P"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 189142,
       "name": "DOMME PLONS",
       "url": "https://open.spotify.com/track/7dvttSpv7d1wCR8THRXr6E"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 136800,
       "name": "E\u00e9n Van De Twee",
       "url": "https://open.spotify.com/track/7vObOT8fUxP8N8E3BTVtUZ"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 167250,
       "name": "Flits",
       "url": "https://open.spotify.com/track/2HqtM2lE7bw883Soxfg14P"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 173164,
       "name": "Hoelang",
       "url": "https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 123296,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/1bN1FoCeBkFaPWcF8V4Cmo"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 203333,
       "name": "Laan Van London",
       "url": "https://open.spotify.com/track/7tSbhg47Hlk2thtSwZYso4"
@@ -988,10 +988,46 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 105600,
       "name": "LENG ONES",
       "url": "https://open.spotify.com/track/6nwaziI4azySYanq0yzDJO"
+    },
+    {
+      "album": {
+        "name": "Les Lezen",
+        "url": "https://open.spotify.com/album/0xevRAoUR4X1Y5BKKMPw4b"
+      },
+      "artists": [
+        {
+          "name": "Safouu",
+          "url": "https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Les Lezen",
+      "url": "https://open.spotify.com/track/65jh319aG0gx8VpSNKUEPd"
+    },
+    {
+      "album": {
+        "name": "LVD (Leef voor dit)",
+        "url": "https://open.spotify.com/album/4rdrjfu1gtJl2XzqytYK0n"
+      },
+      "artists": [
+        {
+          "name": "YGN KAMII",
+          "url": "https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109016,
+      "name": "LVD (Leef voor dit)",
+      "url": "https://open.spotify.com/track/42ocYfSEVV1IiDruAurOOC"
     },
     {
       "album": {
@@ -1031,6 +1067,54 @@
     },
     {
       "album": {
+        "name": "MAKINA",
+        "url": "https://open.spotify.com/album/53vvwKlifFZdwN7ogYPinN"
+      },
+      "artists": [
+        {
+          "name": "Orco",
+          "url": "https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Narco",
+          "url": "https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "MAKINA",
+      "url": "https://open.spotify.com/track/7mYakNpvYwOYGjTNrfTBqN"
+    },
+    {
+      "album": {
+        "name": "MEER & MEER",
+        "url": "https://open.spotify.com/album/4xOezOHMrps02j6UxqKLCM"
+      },
+      "artists": [
+        {
+          "name": "B4RKIE",
+          "url": "https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs"
+        },
+        {
+          "name": "SKO",
+          "url": "https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "MEER & MEER",
+      "url": "https://open.spotify.com/track/1x450EOqnqRDAmf5V1HaFd"
+    },
+    {
+      "album": {
         "name": "Meer Money",
         "url": "https://open.spotify.com/album/2QlR4QRBLoAll73tKyWktI"
       },
@@ -1042,7 +1126,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 127500,
       "name": "Meer Money",
       "url": "https://open.spotify.com/track/54OgxYjv2mDpkZ4aw5mWAD"
@@ -1116,6 +1200,24 @@
       "duration_ms": 144000,
       "name": "Niet Als Ik",
       "url": "https://open.spotify.com/track/6Yuarkvu1lGFxjeZsYF5N3"
+    },
+    {
+      "album": {
+        "name": "Niks meer te verliezen",
+        "url": "https://open.spotify.com/album/2rE3vpnGzrlDe8uWAnKOEt"
+      },
+      "artists": [
+        {
+          "name": "Mies",
+          "url": "https://open.spotify.com/artist/2UtiF4krqQ3xlkXVC9tgbW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Niks meer te verliezen",
+      "url": "https://open.spotify.com/track/2wp3IRjfWEMi4LzzTwLU5m"
     },
     {
       "album": {
@@ -1283,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Powers testen",
+        "url": "https://open.spotify.com/album/1HT1dqZVbKKnVPsXaTuWiI"
+      },
+      "artists": [
+        {
+          "name": "Vurr Flashy",
+          "url": "https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101363,
+      "name": "Powers testen",
+      "url": "https://open.spotify.com/track/3IeMafaunO6uavy8hFLNmp"
+    },
+    {
+      "album": {
         "name": "Prayin For",
         "url": "https://open.spotify.com/album/5w6EYj52ZVqcGkjmG9HJaS"
       },
@@ -1434,7 +1554,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 144000,
       "name": "Team",
       "url": "https://open.spotify.com/track/7JVfx9A6NQv9iFPpviuAXK"
@@ -1544,7 +1664,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 164878,
       "name": "Uit De Gutter",
       "url": "https://open.spotify.com/track/2YvyZdrW3djsduCxqf6oAN"
@@ -1617,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Yade Lauren",
+        "url": "https://open.spotify.com/album/3d01JLmrEfwcTMoe5YaizH"
+      },
+      "artists": [
+        {
+          "name": "Jezz",
+          "url": "https://open.spotify.com/artist/6zWmVW0Cn33S8IP0bw1JNJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Yade Lauren",
+      "url": "https://open.spotify.com/track/69ht6FNdOsRVTqKh0O0Iia"
+    },
+    {
+      "album": {
         "name": "Yusu",
         "url": "https://open.spotify.com/album/2iCp4w7ubcdI3OyfdlODbr"
       },
@@ -1632,6 +1770,24 @@
       "duration_ms": 165500,
       "name": "Yusu",
       "url": "https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs"
+    },
+    {
+      "album": {
+        "name": "Zonder Bedoeling",
+        "url": "https://open.spotify.com/album/0ZZp5SO2RUwSxNismoKVIl"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/4BOkPqfWOHtk5TLVyILCg3"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Zonder Bedoeling",
+      "url": "https://open.spotify.com/track/1TLmpC3FLXAxgP73mfUdJG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6"

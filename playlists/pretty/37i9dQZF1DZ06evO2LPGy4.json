@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 465867,
+  "num_followers": 465917,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAACszCcGorxIZn+n2cb4DdQ9",
+  "snapshot_id": "aK5KgAAAAADe5Maqc/4+mMBbThddxVPt",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9chame el Grito",
-        "url": "https://open.spotify.com/album/4OhJsEqxJlY5PAWHgQImIQ"
+        "name": "Comer\u00e9 Callado, Vol. 2",
+        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 174000,
-      "name": "\u00c9chame el Grito",
-      "url": "https://open.spotify.com/track/7wi9QA160IcRTaZ9HC17E2"
+      "duration_ms": 172267,
+      "name": "El Aroma de Tu Piel",
+      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 2",
-        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
+        "name": "\u00c9chame el Grito",
+        "url": "https://open.spotify.com/album/4OhJsEqxJlY5PAWHgQImIQ"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 172267,
-      "name": "El Aroma de Tu Piel",
-      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
+      "duration_ms": 174000,
+      "name": "\u00c9chame el Grito",
+      "url": "https://open.spotify.com/track/7wi9QA160IcRTaZ9HC17E2"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Supremac\u00eda",
-        "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
-      },
-      "artists": [
-        {
-          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento Feat. Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "El Cartel de la Rana",
-      "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Que Falta",
         "url": "https://open.spotify.com/album/2rlU1lP7dG380YCf3EVkZu"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 208714,
       "name": "El Jefe F",
       "url": "https://open.spotify.com/track/0QAc7380P8KgrL85DuRQcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Supremac\u00eda",
+        "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento Feat. Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "El Cartel de la Rana",
+      "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

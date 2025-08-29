@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83082,
+  "num_followers": 83099,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "Dat Heb Jij Gedaan (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8"
+      },
+      "artists": [
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Dat Heb Jij Gedaan - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
         "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 165375,
       "name": "Van God Los - Official 2025 Kamping Kitsch Club Anthem",
       "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "Dat Heb Jij Gedaan (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8"
-      },
-      "artists": [
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Dat Heb Jij Gedaan - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Bietje Bas",
         "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 154616,
       "name": "Bietje Bas",
       "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2025-08-07 22:00:34",

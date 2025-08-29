@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México\. Luis R Conriquez, Fuerza Regida &  Neton Vega en portada 🔥
+> Los hits de ahora en la playlist más grande de México\. Chino Pacas en portada 🔥
 
 892 songs - 1 day 23 hr 58 min
 

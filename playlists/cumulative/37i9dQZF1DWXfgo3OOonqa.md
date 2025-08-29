@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,998 songs - 3 day 13 hr 45 min
+2,000 songs - 3 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Allt Ja Sagt](https://open.spotify.com/track/0wTMnyphTnhWvs92czXhL2) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Allt Ja Sagt](https://open.spotify.com/album/7E3onZZyusR6FhduyhiyFB) | 2:16 | 2025-05-15 |  |
 | [Allt jag har](https://open.spotify.com/track/5KfmgX5U3aIE2QREABWleI) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [Allt jag har](https://open.spotify.com/album/2lC2Ikke3js0INuXJdoKt2) | 2:46 | 2022-05-05 | 2022-06-01 |
 | [Allt jag kan](https://open.spotify.com/track/4jLmn1hr99vDd9MlrDmltR) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv) | [Gänget & Jag Del 2](https://open.spotify.com/album/5k93NF19yz80JnsTU1pvT7) | 5:10 | 2021-12-16 | 2022-01-28 |
+| [Alltid Hennes](https://open.spotify.com/track/0f0zKt7NwdWef9N19rZBrS) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Alltid Hennes](https://open.spotify.com/album/3JiNY9KABFktlKpdqp14m9) | 2:24 | 2025-08-28 |  |
 | [Allting Har Sitt Pris](https://open.spotify.com/track/7gtuepfo1W8FYTnYmmwjMe) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Allting Har Sitt Pris](https://open.spotify.com/album/2YR3DvmlK0cSQwDbW0z6tv) | 3:49 | 2022-02-18 | 2022-04-29 |
 | [ALLTING JAG GJORDE](https://open.spotify.com/track/1WsvqkLYba4fGV2kupDX4l) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [DRILLOGI](https://open.spotify.com/album/2atzFyuCDPe3NWmYlX5Ngt) | 3:09 | 2022-01-31 | 2022-04-22 |
 | [Allting På Menyn](https://open.spotify.com/track/6Ue9LEeSKKe3PaILTaNjFF) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Allting På Menyn](https://open.spotify.com/album/09iWtCrDwIKRrOvl2J7EUf) | 2:54 | 2022-08-12 | 2022-09-09 |
@@ -802,6 +803,7 @@
 | [Hey Ma](https://open.spotify.com/track/7wkRyCd628oRfW3c78534F) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Hey Ma](https://open.spotify.com/album/4qfqWzsEYkMCS75fF4c49Y) | 2:16 | 2023-05-11 | 2023-06-16 |
 | [Hiding](https://open.spotify.com/track/1eYsZaXm9dwOduVcsDucjB) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Hiding](https://open.spotify.com/album/2KyOs1fncVeyUX3qc3IytV) | 2:15 | 2022-03-24 | 2022-04-29 |
 | [High](https://open.spotify.com/track/4DaTeWimor2bpS9Amx2gFm) | [MiMs](https://open.spotify.com/artist/4ZwLbKLMoZW1dG7SAhoyUg), [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [High](https://open.spotify.com/album/6J8mvPqoNOfgVBKQstUuos) | 2:42 | 2022-05-05 | 2022-05-20 |
+| [HIGHLIFE](https://open.spotify.com/track/5LZHyInfEfvBrRYvApfCP9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [HIGHLIFE](https://open.spotify.com/album/0JKQMoMJzbYQRHdI5lKQpw) | 2:20 | 2025-08-28 |  |
 | [HIMALAYA](https://open.spotify.com/track/6Fds1BSHjY8ia5EXeOiTew) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [HIMALAYA](https://open.spotify.com/album/1msbiwA4zg7shpM3edSS18) | 2:11 | 2023-10-05 | 2024-01-26 |
 | [Himlen kan vänta](https://open.spotify.com/track/0gj3x4ogcfykMjHW90qUmZ) | [Organismen](https://open.spotify.com/artist/3emB29NMQgg857lVCa241t) | [Himlen kan vänta](https://open.spotify.com/album/4FQRdYnV0WCalOqkjyRR1c) | 2:48 | 2022-10-13 | 2022-10-28 |
 | [himmel/helvete](https://open.spotify.com/track/7l7AhIgabgR11SHAcr2PAC) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [himmel/helvete](https://open.spotify.com/album/615IMVNEQaIUBqm8egjCZV) | 2:18 | 2024-01-11 | 2024-04-26 |

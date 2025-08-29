@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-448 songs - 22 hr 40 min
+449 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,8 @@
 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 | 2024-07-26 |  |
 | [They Call It Dancing](https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk) | [Charles Franklin](https://open.spotify.com/artist/6d9SBgm6DqjiYAqWI8Xtdl) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 1:29 | 2024-07-26 |  |
 | [They Like Ike \- From "Call Me Madam"](https://open.spotify.com/track/59gVPV9i6QhwewSk7fWFoH) | [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [12 Songs From Call Me Madam \(With Selections From "Panama Hattie"\) \[Original Broadway Cast Recording\]](https://open.spotify.com/album/5Zq9801IjeGoPk3sQAi6o1) | 3:06 | 2024-07-26 |  |
-| [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2024-07-26 |  |
+| [They Say It's Wonderful](https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:20 | 2024-07-26 | 2025-08-29 |
+| [They Say It's Wonderful](https://open.spotify.com/track/2TFzmt2xRoSd3KNelJcUxZ) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 3:02 | 2025-08-28 |  |
 | [They Were All Out of Step But Jim](https://open.spotify.com/track/2tLjzmjTjSD2VDRT3HIurc) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Foolish Questions](https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7) | 2:57 | 2024-12-19 |  |
 | [They Were All out of Step but Jim](https://open.spotify.com/track/5tvl4itsBPlqcrraDF2TkM) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Presenting Billy Murray](https://open.spotify.com/album/4Br2d8eVvEQPk9GPSG6eWO) | 2:57 | 2024-07-26 | 2024-12-12 |
 | [They Were All Out of Step But Jim \(World War 1\) \[Recorded 1918\]](https://open.spotify.com/track/3ahMxjkWRiCzBDfTlGg2MN) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Comic Ragtime & World War 1 Songs \(Encore 5\) \[Recorded 1916\-1919\]](https://open.spotify.com/album/790rcjUGkCZfI5idQEwQoG) | 2:57 | 2024-12-11 | 2024-12-20 |

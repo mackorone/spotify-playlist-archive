@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate 30 years of friendship and beyond with Disney and Pixar's Toy Story.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,334 likes - 93 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,346 likes - 93 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Classic love story? Enemies to lovers? Or something more..\. complicated? Spend Cupid’s holiday with romance anime tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,076 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,066 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 16 | [プレパレード‐postparade mix](https://open.spotify.com/track/651d1337mdcWzOYuEh2ZTj) | [逢坂大河・櫛枝実乃梨・川嶋亜美\(釘宮理恵、堀江由衣、喜多村英梨\)](https://open.spotify.com/artist/7e85JGlHFZ6FaQl01gyNLh) | [「とらドラ!」 キャラクターソングアルバム](https://open.spotify.com/album/2X3K3BZmLs7o9SKASt9Nsy) | 3:30 |
 | 17 | [ユキトキ](https://open.spotify.com/track/0qZnYZwT5wwocVRtFyuzDF) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1eZwN6LkReilngM6OjLJCJ) | 4:29 |
 | 18 | [Q&A リサイタル！](https://open.spotify.com/track/1COAlDjRh3XW8yAB8UN929) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Sunny Side Story](https://open.spotify.com/album/56takW3ZriHntrUx5n7NYj) | 4:49 |
-| 19 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 |
+| 19 | [lit\(var\)](https://open.spotify.com/track/7mZ5nhoyb6vcInY3AherBC) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [映画 聲の形 オリジナル・サウンドトラック a shape of light【形態A】](https://open.spotify.com/album/7ESzwDgNKNk8qJtbOAmX3Y) | 2:14 |
 | 20 | [言わないけどね。](https://open.spotify.com/track/13saEo7ciOYh6nUGrC79cx) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [星に名前をつけるとき](https://open.spotify.com/album/4w0N1X4kmwzMxH4umBaF6H) | 4:32 |
 | 21 | [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 |
 | 22 | [My Secret](https://open.spotify.com/track/0Y3m2qOe1k4Gxw4uYm8oOf) | [水野佐彩](https://open.spotify.com/artist/5s3GA75NaP2pBjqOiPyAoP) | [My Secret](https://open.spotify.com/album/3KrGwUUWyZrqrm2mWsYnL3) | 3:42 |

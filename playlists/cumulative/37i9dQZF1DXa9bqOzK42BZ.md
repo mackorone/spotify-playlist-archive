@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO?si=fqM7FOF0TyGe\_Q8OgNmSqA">Walter Chilambo</a>
 
-263 songs - 22 hr 40 min
+266 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Halleluya](https://open.spotify.com/track/25ymsjbR025pCqSJjAL3W1) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Halleluya](https://open.spotify.com/album/2WqU7vDpaVwNvjRZ7ljIwb) | 3:00 | 2025-06-13 |  |
 | [Halleluyah](https://open.spotify.com/track/5PUw4w2gNG8ICTO5nPfwpz) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Halleluyah](https://open.spotify.com/album/6rqvnt4GNUTHEBMpjdyDSW) | 4:00 | 2024-12-06 | 2025-03-21 |
 | [Hararat](https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hararat](https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS) | 3:45 | 2023-04-07 | 2024-09-06 |
+| [Hatatuacha](https://open.spotify.com/track/2qnxh0XE78UG0Ai5uBFOQ0) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Hatatuacha](https://open.spotify.com/album/3y6PLi1J0mxU51alR8DkLj) | 9:15 | 2025-08-29 |  |
 | [Hatua Nyingine](https://open.spotify.com/track/3KxKo4HOHceQbD1wRQCtVU) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hatua Nyingine](https://open.spotify.com/album/5tyFYjcZ8ZZuIEPupzmWph) | 3:01 | 2024-05-03 | 2025-07-18 |
 | [Hekima Yako](https://open.spotify.com/track/5hgE39Qp8NZ4AH6OPwvj4O) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Hekima Yako](https://open.spotify.com/album/1XJi0mvsuEwpELBDRoIj6Q) | 4:20 | 2024-06-21 | 2025-02-21 |
 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 | 2022-06-24 |  |
@@ -85,6 +86,7 @@
 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:26 | 2025-03-28 |  |
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 | 2024-07-12 |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 | 2023-04-21 |
+| [Kimya](https://open.spotify.com/track/6nqH0IFvSpysYdVN5aiTyn) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Kimya](https://open.spotify.com/album/65XUJTpJBKcnNcEKuGcjB8) | 3:39 | 2025-08-29 |  |
 | [Kiriro Drill \- Remix](https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Kiriro Drill \(Remix\)](https://open.spotify.com/album/4f5Aubguh5ezrvP8lFeuVq) | 1:53 | 2024-04-19 | 2024-09-06 |
 | [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 | 2022-06-24 | 2023-04-15 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-06-16 |  |
@@ -166,6 +168,7 @@
 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 | 2023-08-25 |  |
 | [Nishike Mkono Bwana](https://open.spotify.com/track/7f16UXvpb37sQMzZs31Gnc) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nishike Mkono Bwana](https://open.spotify.com/album/2voS8bqTJ6NPmMvtUJqGtk) | 5:56 | 2024-09-27 | 2025-03-21 |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2023-11-24 |  |
+| [Nitakuabudu](https://open.spotify.com/track/4cVfzdhhBZIzeLMTuYN8BZ) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Linnete Bahati](https://open.spotify.com/artist/2hesIamxQrYfvNFRqVIGiw) | [Nitakuabudu](https://open.spotify.com/album/7ENNLdbVWtuO8OCbSvS0Iy) | 4:00 | 2025-08-29 |  |
 | [Nitakungoja](https://open.spotify.com/track/2NHd6djppB1dXE88EgLsfi) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Nitakungoja](https://open.spotify.com/album/5i9feOeVUEQU3I0sTVYFC4) | 3:41 | 2025-08-15 |  |
 | [Nitendee Muujiza](https://open.spotify.com/track/2LaBKtwYXJUcezbtsTm6mv) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nitendee Muujiza](https://open.spotify.com/album/6JTwPg2DEXufA77WVTbpZv) | 7:39 | 2025-03-21 | 2025-07-25 |
 | [Nitume](https://open.spotify.com/track/3cL9yo7yNtcwnxmEihEhy7) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Jaguar](https://open.spotify.com/artist/0cenougOfkeia2aXkKWAUy) | [Nitume](https://open.spotify.com/album/4w353odvJymxTjPYThWZNt) | 3:08 | 2024-03-01 | 2025-02-21 |

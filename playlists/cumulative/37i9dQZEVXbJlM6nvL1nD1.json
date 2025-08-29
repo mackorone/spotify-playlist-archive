@@ -13186,7 +13186,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
@@ -14630,7 +14630,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -16544,10 +16544,28 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+    },
+    {
+      "album": {
+        "name": "PORCELANA",
+        "url": "https://open.spotify.com/album/4sd5sCQVP1MH0U9cK62yob"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        }
+      ],
+      "date_added": "2025-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "PORCELANA",
+      "url": "https://open.spotify.com/track/4wlv3MSrlHVXpr6Z6zeK3T"
     },
     {
       "album": {
@@ -19402,7 +19420,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
@@ -23288,24 +23306,6 @@
       "duration_ms": 103240,
       "name": "X20X",
       "url": "https://open.spotify.com/track/1lqJic7VMR7PBlwpPrZuPK"
-    },
-    {
-      "album": {
-        "name": "XCLANA",
-        "url": "https://open.spotify.com/album/4sd5sCQVP1MH0U9cK62yob"
-      },
-      "artists": [
-        {
-          "name": "Jombriel",
-          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
-        }
-      ],
-      "date_added": "2025-05-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 168071,
-      "name": "XCLANA",
-      "url": "https://open.spotify.com/track/4wlv3MSrlHVXpr6Z6zeK3T"
     },
     {
       "album": {

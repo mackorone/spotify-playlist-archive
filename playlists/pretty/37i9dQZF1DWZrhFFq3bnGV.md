@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,457 likes - 95 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,465 likes - 95 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 94 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 |
 | 95 | [Di Pusat Jakarta](https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [Di Pusat Jakarta](https://open.spotify.com/album/4xH2VwMdlg44P9P3qMnjjR) | 3:19 |
 
-Snapshot ID: `AAAAAJ2CgtGxo0v5h69nyVdlhe7JoLSF`
+Snapshot ID: `AAAAAFzMGSxRUZmSUnCaFYxr6Q5bU4yF`

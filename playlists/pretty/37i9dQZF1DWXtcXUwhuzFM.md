@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat AHTI ja Behm, Pihlaja, Arppa, sombr, Ava Max ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,624 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,633 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 99 | [Riding The Vibe](https://open.spotify.com/track/1JaZuZihksOa3c8UNkOaPI) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA), [Konsta Mikkonen](https://open.spotify.com/artist/4TomUu18zeKgBI0x1p10Z9) | [Riding The Vibe](https://open.spotify.com/album/5tEqpzsyWuBvkOWRhA6tZz) | 2:34 |
 | 100 | [Kuole & Kuihdu](https://open.spotify.com/track/1mvWHIbgg5mUc8SrQQkd6R) | [Arseeni](https://open.spotify.com/artist/2XsXBnVGUQmDoujM7oDwmf) | [Kuole & Kuihdu](https://open.spotify.com/album/4qzKeyrEmiLzSaRL4HIDIa) | 2:21 |
 
-Snapshot ID: `AAAAANRmEUt/2QYB0YEloRi9YEa4FxR5`
+Snapshot ID: `AAAAAH8M5szfdmR3oU+BYRZtqXu8KOPx`

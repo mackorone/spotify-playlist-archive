@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Mr Eazi
+> The tracks heating up the continent right now!  Cover: Kizz Daniel
 
 547 songs - 1 day 8 hr 27 min
 

@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 192364,
+  "num_followers": 192357,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-08-08 09:37:05",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 244421,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
+    },
+    {
+      "added_at": "2025-08-08 09:37:05",
+      "album": {
         "name": "Dissolve",
         "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 208944,
       "name": "I Don\u00b4t Feel",
       "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
-    },
-    {
-      "added_at": "2025-08-08 09:37:05",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 244421,
-      "name": "Pride",
-      "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
     },
     {
       "added_at": "2025-08-08 09:37:05",

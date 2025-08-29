@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NONT TANONT, PiXXiE
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: GEMINI, FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,344 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,345 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [ตบปาก \(On That Day\)](https://open.spotify.com/track/10D7yv6SOcpsAVLFHSbRC5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ตบปาก \(On That Day\)](https://open.spotify.com/album/0riyZVpGxdtt56RF4VYm83) | 3:32 |
 | 50 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
 
-Snapshot ID: `AAAAAKpdJZCuawiI38sLdCh0JUKsxjeP`
+Snapshot ID: `AAAAAGUEcC45yQTlK3u6hqo5NFz7SH5p`

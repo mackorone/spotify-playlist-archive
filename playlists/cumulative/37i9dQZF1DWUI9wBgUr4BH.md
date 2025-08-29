@@ -2,7 +2,7 @@
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo : Lewis Capaldi
+> Les hits de demain sont déjà ici\. Photo : Doja Cat
 
 666 songs - 1 day 9 hr 8 min
 

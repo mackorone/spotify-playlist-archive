@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,935 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,874 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 100 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 |
 | 101 | [MINIVAN](https://open.spotify.com/track/68RAkH2eP79AT3NKF0wvcT) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [Junii](https://open.spotify.com/artist/0sfpaC9iuqZoAjbX4WQMun) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:07 |
 | 102 | [Everybody Raps](https://open.spotify.com/track/1ynplfvDO3RQh6exp05LIl) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Everybody Raps](https://open.spotify.com/album/2bI6wODy8Q2rzCNH8gBoRF) | 2:52 |
-| 103 | [poser](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
+| 103 | [POSER](https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [we owe you an explanation](https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1) | 2:23 |
 | 104 | [BAM BAM](https://open.spotify.com/track/3KIZLRI8eFFYKshsPsJEDA) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [BAM BAM](https://open.spotify.com/album/5BNDwEqRnTxBkV7iKIVtcR) | 2:22 |
 | 105 | [Born in Jamaica](https://open.spotify.com/track/5S7rhnNkFFfUcLWhsvv9L8) | [Friends Only](https://open.spotify.com/artist/0EF4AfflaI8N4XDajX10pA), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [MediSun](https://open.spotify.com/artist/0IsmvNH84dS9wcMSCPC5UM), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Born in Jamaica](https://open.spotify.com/album/3cjWNe9LWwJ9d2GLDFyGqb) | 4:04 |
 | 106 | [West Indies](https://open.spotify.com/track/03B2nFjlNghR6afhu6XBXW) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [West Indies](https://open.spotify.com/album/3YBsssYf1DYIJRAOfJw31Z) | 3:04 |

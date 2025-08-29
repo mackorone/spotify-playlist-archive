@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kaz Ba\u0142agane, Quebonafide",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Avi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "CADILLAC",
+        "url": "https://open.spotify.com/album/6t8Z3IBSNyOMDVPvoEfAtE"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "CADILLAC",
+      "url": "https://open.spotify.com/track/2Z6z7IMNmMnbc4GUiDGi4k"
+    },
+    {
+      "album": {
         "name": "CALVIN KELER (OUTRO)",
         "url": "https://open.spotify.com/album/0d0azA3hRD4UNo4qc49QBQ"
       },
@@ -3558,7 +3576,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 172388,
       "name": "CZEMU NIE \u015aPISZ?",
       "url": "https://open.spotify.com/track/4lJ88RKrUiW4UP1IAu3Dhj"
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -7026,6 +7044,28 @@
       "duration_ms": 169371,
       "name": "Kawa\u0142ek nieba",
       "url": "https://open.spotify.com/track/6oCMGHf3T6X8S4JlG0vC5L"
+    },
+    {
+      "album": {
+        "name": "Kawior",
+        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "BL Beatz",
+          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Kawior",
+      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
     },
     {
       "album": {
@@ -12951,6 +12991,28 @@
     },
     {
       "album": {
+        "name": "POW POW",
+        "url": "https://open.spotify.com/album/5QiddCKmbpB2JTo03Dl6ML"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "Dajczman",
+          "url": "https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "POW POW",
+      "url": "https://open.spotify.com/track/0RgYjo6BqSxhPXus5e4DDR"
+    },
+    {
+      "album": {
         "name": "Power Up",
         "url": "https://open.spotify.com/album/0iwUNQApuN2m00w8Y5opQ8"
       },
@@ -16970,7 +17032,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 159207,
       "name": "WSZYSTKIE FAJNE",
       "url": "https://open.spotify.com/track/79msc4MejGngvS6UgvWtvR"

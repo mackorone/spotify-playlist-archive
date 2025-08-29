@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Offset, Gunna and Young Nudy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,941,498 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,940,197 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 50 | [AI Marley](https://open.spotify.com/track/5rCTD50Q76KjAQfKyBBl5T) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DESHAWN](https://open.spotify.com/album/1kBZ0CgBB3hqPCENxpKTNl) | 3:45 |
 | 51 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
 
-Snapshot ID: `AAAAAHrtgWqFQWiOCbJ6B8AHwdDGd8+V`
+Snapshot ID: `AAAAANI7KjZA93hwBhXEH6j2k/OtYe+a`

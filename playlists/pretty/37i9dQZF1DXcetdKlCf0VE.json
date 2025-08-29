@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 28567,
+  "num_followers": 28584,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2025-07-04 12:43:51",
       "album": {
-        "name": "Sibelius: Songs",
-        "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Tom Krause",
-          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
-        },
-        {
-          "name": "Irwin Gage",
-          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Segelfahrt (Under Sail)",
-      "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
-    },
-    {
-      "added_at": "2025-07-04 12:43:51",
-      "album": {
         "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
         "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
       },
@@ -371,8 +347,8 @@
     {
       "added_at": "2025-07-04 12:43:51",
       "album": {
-        "name": "Sibelius: Essentials",
-        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
+        "name": "Sibelius: Songs",
+        "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
       },
       "artists": [
         {
@@ -380,17 +356,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+          "name": "Tom Krause",
+          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
         },
         {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
         }
       ],
-      "duration_ms": 727409,
-      "name": "Pohjolas Daughter, Op. 49",
-      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
+      "duration_ms": 108133,
+      "name": "Segelfahrt (Under Sail)",
+      "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
     },
     {
       "added_at": "2025-07-04 12:43:51",
@@ -423,8 +399,8 @@
     {
       "added_at": "2025-07-04 12:43:51",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+        "name": "Sibelius: Essentials",
+        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
       },
       "artists": [
         {
@@ -432,13 +408,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
         }
       ],
-      "duration_ms": 273213,
-      "name": "Rakastava, Op. 14: The Lover",
-      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
+      "duration_ms": 727409,
+      "name": "Pohjolas Daughter, Op. 49",
+      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2025-07-04 12:43:51",
@@ -487,6 +467,26 @@
     {
       "added_at": "2025-07-04 12:43:51",
       "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 273213,
+      "name": "Rakastava, Op. 14: The Lover",
+      "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
+    },
+    {
+      "added_at": "2025-07-04 12:43:51",
+      "album": {
         "name": "Sibelius/Grieg: String Quartets",
         "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
       },
@@ -503,26 +503,6 @@
       "duration_ms": 374000,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
       "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
-    },
-    {
-      "added_at": "2025-07-04 12:43:51",
-      "album": {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Emerson String Quartet",
-          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
-        }
-      ],
-      "duration_ms": 516200,
-      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
-      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
     },
     {
       "added_at": "2025-07-04 12:43:51",
@@ -563,6 +543,26 @@
       "duration_ms": 288000,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
       "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+    },
+    {
+      "added_at": "2025-07-04 12:43:51",
+      "album": {
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
+        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "duration_ms": 516200,
+      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
+      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
     },
     {
       "added_at": "2025-07-04 12:43:51",

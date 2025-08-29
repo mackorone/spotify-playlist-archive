@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > Bad time for Swans fans: Blind and Blood Promise each went down almost 10 spots! Was Birthing not good enough for y&\#x27;all?
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 30 likes - 99 songs - 12 hr 42 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 31 likes - 99 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

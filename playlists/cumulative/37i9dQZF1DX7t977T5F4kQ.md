@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Beeztrap KOTM
+> The hottest and recent Ghana party starters\. Cover: Quamina MP
 
-540 songs - 1 day 3 hr 54 min
+541 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Boozen](https://open.spotify.com/track/7hsWIzTg4crtYzYanUBGQD) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN) | [Boozen](https://open.spotify.com/album/7oB8cDMcd087vjZodijtYV) | 3:15 | 2024-10-25 | 2025-04-01 |
 | [Born Great](https://open.spotify.com/track/0ZEBc9KwXBgIgviUuEGnD9) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Born Great](https://open.spotify.com/album/701amHFoAxrmlgyZ1mk8nM) | 2:10 | 2024-10-12 | 2024-10-26 |
 | [Botos](https://open.spotify.com/track/6O3TZOULjDgvSSXpI7VdvL) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [Botos](https://open.spotify.com/album/5GF9JyVeeYMvjjhe3ugWCK) | 3:39 | 2023-07-14 | 2023-07-21 |
+| [Bra](https://open.spotify.com/track/4FxArJ3yx3R2c2mRGKLB1j) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Love In The Club \(Deluxe\)](https://open.spotify.com/album/7wmRhqrAJd1PvPSoTqPdsR) | 3:02 | 2025-08-29 |  |
 | [Break It](https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Break It](https://open.spotify.com/album/0fWgG7vdLxWOOJZSKGKARN) | 2:35 | 2025-03-14 | 2025-07-11 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2023-10-27 | 2025-03-08 |
 | [Brown Skin Girl](https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:08 | 2023-06-02 | 2024-06-01 |
@@ -487,7 +488,7 @@
 | [Thy Grace](https://open.spotify.com/track/6MBpgxXASTwAB4XSgIsBCH) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Thy Grace](https://open.spotify.com/album/0YSrY0F9lGpMn4w6t0jZ9R) | 3:18 | 2022-11-04 | 2022-12-02 |
 | [TIENS MA MONEY \(feat\. Stonebwoy\)](https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:49 | 2025-08-22 |  |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2025-03-08 |
-| [Time Heals All](https://open.spotify.com/track/1Nx1168hCpGQsg5iU9z6VK) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Time Is on My Side](https://open.spotify.com/album/3ASS1Gvr24klSgbVcFwPGD) | 3:13 | 2025-08-22 |  |
+| [Time Heals All](https://open.spotify.com/track/1Nx1168hCpGQsg5iU9z6VK) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Time Is on My Side](https://open.spotify.com/album/3ASS1Gvr24klSgbVcFwPGD) | 3:13 | 2025-08-22 | 2025-08-29 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-03 |  |
 | [Tobinco](https://open.spotify.com/track/32FnB6UFAo9RC1DoP2KfDp) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Tobinco](https://open.spotify.com/album/03Oxk0R8ECMuzePW0kT4PT) | 3:00 | 2025-01-31 | 2025-07-25 |
 | [Tomorrow](https://open.spotify.com/track/4F1qhy14MdQoYcgrJUGt3a) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Tomorrow](https://open.spotify.com/album/6rXRhlh1NEEI5eLb6UdRVk) | 2:28 | 2023-05-12 | 2023-09-15 |

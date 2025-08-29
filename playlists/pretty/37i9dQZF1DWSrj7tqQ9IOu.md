@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Oscar Anton
+> The best French indie tracks right now\. Cover : Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,097 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,079 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [All Along \(Tout ce que tu veux\)](https://open.spotify.com/track/6uTcNVzvzHythOZ2BKsBiR) | [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All Along \(Tout ce que tu veux\)](https://open.spotify.com/album/602ktSRBGVxn3wkZ7WjwAF) | 3:07 |
 | 50 | [Le feu le sang](https://open.spotify.com/track/5U50fO1l8MS5TNOIydWOtc) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [La nuit je rêve](https://open.spotify.com/album/0PjASuaP8hd9mh46TNcLvN) | 2:24 |
 
-Snapshot ID: `AAAAABYVlxOacFlCNg8ebiuvbCtBIiWP`
+Snapshot ID: `AAAAAMij+ioQLWmL65bB+LD5jhibdWaP`

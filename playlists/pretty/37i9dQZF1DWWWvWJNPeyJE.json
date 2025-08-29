@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 347814,
+  "num_followers": 347925,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Nov 12",
+        "url": "https://open.spotify.com/album/6QCz4rp100thq8ax0CN2Ek"
+      },
+      "artists": [
+        {
+          "name": "SoMo",
+          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
+        }
+      ],
+      "duration_ms": 423529,
+      "name": "Nov 12",
+      "url": "https://open.spotify.com/track/1ZzbD3g1K6LY2S1w5cdowm"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Nov 12",
-        "url": "https://open.spotify.com/album/6QCz4rp100thq8ax0CN2Ek"
-      },
-      "artists": [
-        {
-          "name": "SoMo",
-          "url": "https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs"
-        }
-      ],
-      "duration_ms": 423529,
-      "name": "Nov 12",
-      "url": "https://open.spotify.com/track/1ZzbD3g1K6LY2S1w5cdowm"
     },
     {
       "added_at": "2024-09-02 12:32:28",

@@ -1,12 +1,12 @@
 {
   "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 56861,
+  "num_followers": 56903,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAABDx21R25SaxuuHVvjG4qqo",
+  "snapshot_id": "aK5KgAAAAACtQ/IRjsOuwXC3VuXy5Gbt",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jigoo (Radio Edit)",
-        "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
+        "name": "Needs x UN Women Present HeForShe",
+        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
       },
       "artists": [
-        {
-          "name": "Maurice Fulton",
-          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
-        },
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 243066,
-      "name": "Jigoo - Radio Edit",
-      "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
+      "duration_ms": 402838,
+      "name": "Shero",
+      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Needs x UN Women Present HeForShe",
-        "url": "https://open.spotify.com/album/3hbGmZaqQjrAWrF8X5vna1"
+        "name": "Jigoo (Radio Edit)",
+        "url": "https://open.spotify.com/album/6juwIAOIKkN7D9JavrZnSf"
       },
       "artists": [
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        },
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 402838,
-      "name": "Shero",
-      "url": "https://open.spotify.com/track/1SCavOqanyTnGotH0xL4b6"
+      "duration_ms": 243066,
+      "name": "Jigoo - Radio Edit",
+      "url": "https://open.spotify.com/track/15bJAVsKK8osEoMzYkQB1o"
     },
     {
       "added_at": null,

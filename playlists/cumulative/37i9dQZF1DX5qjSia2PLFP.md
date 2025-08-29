@@ -2,7 +2,7 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> They got next and now\. Cover: <a href="spotify:artist:6ygDlIilHZqielxxkvmIVH">J.P.</a>
+> They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
 1,270 songs - 2 day 10 hr 39 min
 
@@ -672,7 +672,7 @@
 | [Mahogany](https://open.spotify.com/track/29pLDVB6NG2VZlCkZO6aic) | [Lux](https://open.spotify.com/artist/3QcAmDlLxOYsStRBxxskR7) | [Mahogany](https://open.spotify.com/album/5ww0YpaAtUopBUJs6FfPkv) | 2:10 | 2023-10-25 | 2023-11-01 |
 | [MAKE A WISH](https://open.spotify.com/track/1r4vcPwDJMZ9pTEJ4iR4Fc) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [MAKE A WISH](https://open.spotify.com/album/1ZxGkAHb0BLB3BlGCQcOzr) | 2:51 | 2023-04-28 | 2023-07-15 |
 | [Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/78sCqOveQ69s5RDoou3KLH) | 2:36 | 2025-03-12 | 2025-05-17 |
-| [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 | 2025-08-08 |  |
+| [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 | 2025-08-08 | 2025-08-29 |
 | [MAKE IT UP](https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MAKE IT UP](https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm) | 2:58 | 2023-11-03 | 2024-01-13 |
 | [Make Sum Noise](https://open.spotify.com/track/0Yih2BwSERfnXqSvDlXufR) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [Make Sum Noise](https://open.spotify.com/album/6oS0V02fdhysk81rEiaXI4) | 1:54 | 2024-03-29 | 2024-04-13 |
 | [Make Up \(Dont Look The Same\)](https://open.spotify.com/track/4a0yVAkHM9HnIYIOJLalzp) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [DoonieVerse](https://open.spotify.com/album/7vpSZirYCsgTAJ3IXCxAxE) | 2:13 | 2025-01-17 | 2025-03-01 |
@@ -924,7 +924,7 @@
 | [Ride Home](https://open.spotify.com/track/2rnWo5yqcjpx0lldvnTdIU) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ride Home](https://open.spotify.com/album/73tlDSppnnmvWbbBPRQDI6) | 2:58 | 2024-04-19 | 2024-04-27 |
 | [Ride With Me](https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Ride With Me](https://open.spotify.com/album/0NEnJxG2rs1VogwQb3Ac0R) | 3:52 | 2022-03-04 | 2022-06-08 |
 | [RIDIN 4 U](https://open.spotify.com/track/4YrCMmKendEc0HTGmTQR84) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 3:50 | 2024-04-05 | 2024-04-13 |
-| [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/track/4bv07aSDDXJsDI7VUDRZW8) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/album/6BZ8PR1CCa58Zoz2rwlA73) | 2:22 | 2025-08-22 |  |
+| [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/track/4bv07aSDDXJsDI7VUDRZW8) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/album/6BZ8PR1CCa58Zoz2rwlA73) | 2:22 | 2025-08-22 | 2025-08-29 |
 | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/track/26j5KruhbUBKNb7uN2Pyd3) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/album/17o2BffeZ5neJvgWDmvs9Y) | 2:25 | 2025-07-25 | 2025-08-09 |
 | [RISK, RISK, RISK!](https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [RISK, RISK, RISK!](https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ) | 3:21 | 2023-09-01 | 2023-12-16 |
 | [RISKY](https://open.spotify.com/track/6lRPCX37cioYwZItkUpAtl) | [SONNY](https://open.spotify.com/artist/3KDKJ7Z0kgJrQS1CH43PM4) | [RISKY](https://open.spotify.com/album/09iik9pLTXIQPV7bBnFvut) | 2:39 | 2023-01-06 | 2023-07-08 |
@@ -1132,7 +1132,7 @@
 | [Too Hot](https://open.spotify.com/track/4usGSO2f7aE9aKC05itGbq) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Too Hot](https://open.spotify.com/album/0Gde461yTS29VnscdMNrtX) | 2:04 | 2022-08-05 | 2022-10-15 |
 | [Too Much, Too Fast](https://open.spotify.com/track/5oXSyMpfGALEQYh4PVuHLm) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Too Much, Too Fast](https://open.spotify.com/album/7cFFL0TmlLzxl2INKQGlxy) | 2:34 | 2021-08-20 | 2022-03-05 |
 | [Too Slow \(feat\. STAR BANDZ\)](https://open.spotify.com/track/1opgZsZPJJhZuEytACUaKH) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [ANIMALS ONLY](https://open.spotify.com/album/6m3DNzm0j8VH4YBX7g7WI0) | 2:30 | 2024-10-04 | 2024-10-08 |
-| [Took A Turn](https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Took A Turn](https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3) | 4:52 | 2025-08-22 |  |
+| [Took A Turn](https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Took A Turn](https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3) | 4:52 | 2025-08-22 | 2025-08-29 |
 | [Top Of Cars](https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p) | [Lil M.U.](https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn) | [Handful](https://open.spotify.com/album/6Jt7B3f6UkWvvP71hjuTl1) | 2:16 | 2025-08-08 |  |
 | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/track/6y9XZjgz78wjamOPRi5031) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:34 | 2024-03-15 | 2024-04-27 |
 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 | 2024-02-16 | 2024-03-02 |

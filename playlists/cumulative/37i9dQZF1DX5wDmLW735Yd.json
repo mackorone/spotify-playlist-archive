@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Issey Cross",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, Mia Falls",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 129201,
       "name": "4 Me",
       "url": "https://open.spotify.com/track/26bL8XQSyFjdWUhwO9de8J"
@@ -1631,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Badman Talk",
+        "url": "https://open.spotify.com/album/6JXpd9RqKGRUKbYYmgL1ND"
+      },
+      "artists": [
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        },
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "Badman Talk",
+      "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
+    },
+    {
+      "album": {
         "name": "B-Sides Mixtape",
         "url": "https://open.spotify.com/album/7dcBkJzSZ4WWyZthl6ol2A"
       },
@@ -2018,6 +2040,28 @@
       "duration_ms": 233314,
       "name": "Behind The Mask",
       "url": "https://open.spotify.com/track/7t90goXJ1DMTC36oY8NyEz"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5Vf6v01qChWz8bQpsfXNHj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
+        },
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/41s1Ug10w5WMCj0htbO4vX"
     },
     {
       "album": {
@@ -2965,6 +3009,28 @@
     },
     {
       "album": {
+        "name": "Calgary",
+        "url": "https://open.spotify.com/album/72kkaqtl4k0w0nxfaRO0OU"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        },
+        {
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227657,
+      "name": "Calgary",
+      "url": "https://open.spotify.com/track/5gmYVdDn3Y4TOw8UqfkXFl"
+    },
+    {
+      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -2998,7 +3064,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 170057,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
@@ -6196,7 +6262,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 201847,
       "name": "Feel The Vibration",
       "url": "https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY"
@@ -8170,7 +8236,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 162648,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/0ykfRQb9qAxg25exPzDx6M"
@@ -8638,7 +8704,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 223213,
       "name": "Hit The Brakes",
       "url": "https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX"
@@ -9128,6 +9194,28 @@
       "duration_ms": 181414,
       "name": "If Love Could Have Saved You",
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
+    },
+    {
+      "album": {
+        "name": "If We Ever",
+        "url": "https://open.spotify.com/album/3s4UEFmRloMlo251IVJN1e"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209850,
+      "name": "If We Ever",
+      "url": "https://open.spotify.com/track/1IgGwEIQkA7wEo1ewvxVsN"
     },
     {
       "album": {
@@ -10026,6 +10114,28 @@
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
+    },
+    {
+      "album": {
+        "name": "LAST NIGHT",
+        "url": "https://open.spotify.com/album/6Cy546hnBbHFPNAxQZ2jse"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Devaney",
+          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+        },
+        {
+          "name": "Ayah Marar",
+          "url": "https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219740,
+      "name": "LAST NIGHT",
+      "url": "https://open.spotify.com/track/6Ha2EXymRCkSiG8NtQtWBB"
     },
     {
       "album": {
@@ -11404,7 +11514,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 147318,
       "name": "Made In Romania",
       "url": "https://open.spotify.com/track/3UdvaAWbTRWQdtbuElsqSU"
@@ -11448,6 +11558,28 @@
       "duration_ms": 275862,
       "name": "Magnetize",
       "url": "https://open.spotify.com/track/5Cqzp9lLkwo17ayc7sUNte"
+    },
+    {
+      "album": {
+        "name": "Make Forever",
+        "url": "https://open.spotify.com/album/3Li5yfh1hvasolGwy6Sv87"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Make Forever",
+      "url": "https://open.spotify.com/track/4hSwrKDgwetxHUeI5CUler"
     },
     {
       "album": {
@@ -11784,7 +11916,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 250973,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4IhtB9iT2nYzKyu1jn87uP"
@@ -13912,7 +14044,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 173211,
       "name": "Override",
       "url": "https://open.spotify.com/track/4WFNzYMsKwhCDeI06ZAuCC"
@@ -15811,6 +15943,28 @@
     },
     {
       "album": {
+        "name": "RUDEBOI",
+        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204342,
+      "name": "RUDEBOI",
+      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+    },
+    {
+      "album": {
         "name": "Run (Part 2)",
         "url": "https://open.spotify.com/album/5OtPOcB7CqVhiXujPZuNuK"
       },
@@ -16388,7 +16542,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 147234,
       "name": "Sexy Money",
       "url": "https://open.spotify.com/track/3V86nh7BVSfSU2v306NRph"
@@ -17260,7 +17414,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 204236,
       "name": "Sound of You",
       "url": "https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn"
@@ -19596,7 +19750,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 264137,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/4Yu2BqFkpx9WCUZFeXkM7e"

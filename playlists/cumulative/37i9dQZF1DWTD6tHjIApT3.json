@@ -39611,6 +39611,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u3068\u3048\u306b\u58ca\u308c\u3066",
+        "url": "https://open.spotify.com/album/0S8w6MVn1fdFCuowqBUrar"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228566,
+      "name": "\u3072\u3068\u3048\u306b\u58ca\u308c\u3066",
+      "url": "https://open.spotify.com/track/0e8SZnCimK0ESALP61L3Dc"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u3061\u304c\u3044",
         "url": "https://open.spotify.com/album/3hKm4CfqAogfDZEowFTxSW"
       },
@@ -46165,6 +46183,24 @@
     },
     {
       "album": {
+        "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0KG3mfBsEtIPo0CvHZA4rc"
+      },
+      "artists": [
+        {
+          "name": "harha",
+          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2UKRKiW6GkDCVU2kBXdvVd"
+    },
+    {
+      "album": {
         "name": "\u30de\u30cb\u30de\u30cb",
         "url": "https://open.spotify.com/album/75z3f76IhJjL2QgaOMmGg0"
       },
@@ -46686,7 +46722,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 155859,
       "name": "\u30e8\u30ed\u30e8\u30ed",
       "url": "https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW"
@@ -55946,7 +55982,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 209000,
       "name": "\u677e\u306b\u9db4",
       "url": "https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: frytz",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: lovehead",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1443,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Alles nochmal",
+        "url": "https://open.spotify.com/album/6oz1EMIzZGtyt6fHA79K1F"
+      },
+      "artists": [
+        {
+          "name": "KORD",
+          "url": "https://open.spotify.com/artist/10eOhWMO6HsEnrkASAstOP"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197901,
+      "name": "Alles nochmal",
+      "url": "https://open.spotify.com/track/5lXeIRwaMBH5DlQinCXZWK"
+    },
+    {
+      "album": {
         "name": "Alles Nur Gelogen",
         "url": "https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 181266,
       "name": "an mir vorbei",
       "url": "https://open.spotify.com/track/4GkCMFKlylyKIMfsQida90"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 135294,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF"
@@ -3207,6 +3225,32 @@
     },
     {
       "album": {
+        "name": "blitzdings",
+        "url": "https://open.spotify.com/album/62NxD4pnss2wsGClFgqyI4"
+      },
+      "artists": [
+        {
+          "name": "Strob",
+          "url": "https://open.spotify.com/artist/0JP5ABLaBXOg8HFsxUoPzC"
+        },
+        {
+          "name": "H\u00e6nsen",
+          "url": "https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66"
+        },
+        {
+          "name": "zuender",
+          "url": "https://open.spotify.com/artist/4lCQMLf3GIOuDzrhVsd2FW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "blitzdings",
+      "url": "https://open.spotify.com/track/3EKXeTSVrbK0zizMs2vUmd"
+    },
+    {
+      "album": {
         "name": "Blitzlicht",
         "url": "https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII"
       },
@@ -3464,6 +3508,28 @@
       "duration_ms": 187000,
       "name": "Boxsack",
       "url": "https://open.spotify.com/track/7DQuPLmkfztfrAvrjaAvom"
+    },
+    {
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/4TJ9aa5aX8hcZWEJvvU5La"
+      },
+      "artists": [
+        {
+          "name": "Das Lumpenpack",
+          "url": "https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM"
+        },
+        {
+          "name": "REMOTE BONDAGE",
+          "url": "https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/2UxkrQLBfUt1VM91s7sHu9"
     },
     {
       "album": {
@@ -4930,7 +4996,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 174390,
       "name": "Die Sekunden",
       "url": "https://open.spotify.com/track/6B7ay1FTOVzdkChkmCOBTY"
@@ -9313,6 +9379,24 @@
     },
     {
       "album": {
+        "name": "Haifischbecken",
+        "url": "https://open.spotify.com/album/0jL4GZTFvl6yaFHbDMIVCh"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139915,
+      "name": "Haifischbecken",
+      "url": "https://open.spotify.com/track/2sL7gSkWNsHU3zEMT67edU"
+    },
+    {
+      "album": {
         "name": "halb 4",
         "url": "https://open.spotify.com/album/4MoIBEE5Es7PYZLf3Fj536"
       },
@@ -10050,7 +10134,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 120003,
       "name": "Herz - Sped up",
       "url": "https://open.spotify.com/track/6ZepWUn2C1zuUAsKrdqA58"
@@ -11080,6 +11164,28 @@
       "duration_ms": 146347,
       "name": "Immer Noch Wach",
       "url": "https://open.spotify.com/track/4fhxUNlBCZIr3dw0nU366l"
+    },
+    {
+      "album": {
+        "name": "immer sommer",
+        "url": "https://open.spotify.com/album/5a0ExFcI82LyZQ0Y7bchaA"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        },
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140161,
+      "name": "immer sommer",
+      "url": "https://open.spotify.com/track/3zfu7j7trFnjVpqcc6bm6y"
     },
     {
       "album": {
@@ -12879,6 +12985,24 @@
     },
     {
       "album": {
+        "name": "Kratzer im Lack",
+        "url": "https://open.spotify.com/album/1KseR7fgmDEDT72VQaZQ1p"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165697,
+      "name": "Kratzer im Lack",
+      "url": "https://open.spotify.com/track/792ngQE00Q3U6BWzRX5zZB"
+    },
+    {
+      "album": {
         "name": "Kreise Durch Die Stadt",
         "url": "https://open.spotify.com/album/6hb8PvKx43L693b9qtWkDt"
       },
@@ -13474,6 +13598,28 @@
       "duration_ms": 109829,
       "name": "leicht beschwipst_demo2",
       "url": "https://open.spotify.com/track/5PEGV3HAYmM6Irk9Vnx32M"
+    },
+    {
+      "album": {
+        "name": "Leih mir deine Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/1bVGlKuyzbSDjYLu1N9PTG"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        },
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174089,
+      "name": "Leih mir deine Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/0UwodZZOtdzMUVQugw3cYC"
     },
     {
       "album": {
@@ -15402,7 +15548,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 160925,
       "name": "Morphin",
       "url": "https://open.spotify.com/track/26VgJ6gWiwlclmLvx6CE7P"
@@ -16618,7 +16764,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 125840,
       "name": "okaytanz",
       "url": "https://open.spotify.com/track/1nYkzv2l66SPWZtNXkphwr"
@@ -17834,7 +17980,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 144276,
       "name": "Rennrad-Romantik",
       "url": "https://open.spotify.com/track/5IJ9Vcm4d3bTm5tbEeZBaQ"
@@ -17852,7 +17998,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 125142,
       "name": "Reset",
       "url": "https://open.spotify.com/track/2TlpKmAtulHU7ZVbn2An8a"
@@ -17994,6 +18140,28 @@
       "duration_ms": 193710,
       "name": "RIP",
       "url": "https://open.spotify.com/track/3vqML7qAPUXH7AbtESolBY"
+    },
+    {
+      "album": {
+        "name": "Ritalin",
+        "url": "https://open.spotify.com/album/0pvZwnFhVmFkpAXwikxiEg"
+      },
+      "artists": [
+        {
+          "name": "GbR",
+          "url": "https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm"
+        },
+        {
+          "name": "Urbannino",
+          "url": "https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Ritalin",
+      "url": "https://open.spotify.com/track/4LWIAz3HVqCaqmHnMV62el"
     },
     {
       "album": {
@@ -18172,6 +18340,24 @@
       "duration_ms": 162000,
       "name": "Rosenkohl",
       "url": "https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis"
+    },
+    {
+      "album": {
+        "name": "rote ampeln",
+        "url": "https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137426,
+      "name": "rote ampeln",
+      "url": "https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt"
     },
     {
       "album": {
@@ -18428,6 +18614,24 @@
       "duration_ms": 166406,
       "name": "sag mir was ich nicht wei\u00df",
       "url": "https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2"
+    },
+    {
+      "album": {
+        "name": "Sag Was",
+        "url": "https://open.spotify.com/album/74SNenOHsrAiCaxuu6Nxe9"
+      },
+      "artists": [
+        {
+          "name": "Akryl",
+          "url": "https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sag Was",
+      "url": "https://open.spotify.com/track/5h7eSdgx20arGtQSfftIBw"
     },
     {
       "album": {
@@ -19355,6 +19559,28 @@
     },
     {
       "album": {
+        "name": "Seltsame Welt",
+        "url": "https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        },
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Seltsame Welt",
+      "url": "https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6"
+    },
+    {
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/1pipnTMh10iIYUmm1fMfhH"
       },
@@ -20129,6 +20355,24 @@
     },
     {
       "album": {
+        "name": "sommer_25",
+        "url": "https://open.spotify.com/album/63RJkJx2wxDZs3GidvMGoa"
+      },
+      "artists": [
+        {
+          "name": "elia",
+          "url": "https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166993,
+      "name": "Sommernachtszeit",
+      "url": "https://open.spotify.com/track/73Uti6398ce4wgVk24jWfH"
+    },
+    {
+      "album": {
         "name": "Sommerpoesie",
         "url": "https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l"
       },
@@ -20292,6 +20536,28 @@
       "duration_ms": 160621,
       "name": "sonnenbrand",
       "url": "https://open.spotify.com/track/60odu1d4jqMAw7kMpvpVV4"
+    },
+    {
+      "album": {
+        "name": "Sonnencreme",
+        "url": "https://open.spotify.com/album/2kVjb7YgrZZrnrUNsRC1Sr"
+      },
+      "artists": [
+        {
+          "name": "futurebae",
+          "url": "https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q"
+        },
+        {
+          "name": "Tropikel Ltd",
+          "url": "https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124986,
+      "name": "Sonnencreme",
+      "url": "https://open.spotify.com/track/5BnTLaDhcCRa4BC5MZNAJT"
     },
     {
       "album": {
@@ -20678,7 +20944,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 135328,
       "name": "steh nicht auf",
       "url": "https://open.spotify.com/track/0GHPOb9kflv0RIQNK46lcq"
@@ -22716,7 +22982,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 129362,
       "name": "Vermiss",
       "url": "https://open.spotify.com/track/1p4rgMDWkD8aSybsJBvHpV"
@@ -23016,7 +23282,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 150760,
       "name": "Vielleicht bin ich dumm",
       "url": "https://open.spotify.com/track/1sCIAy3TWvWljo1iH7nc5J"
@@ -23222,7 +23488,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 171180,
       "name": "Vorhang Auf",
       "url": "https://open.spotify.com/track/1lL0UyhGyv4cLglooF3rNc"
@@ -25012,7 +25278,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 205161,
       "name": "Zeig mir",
       "url": "https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y"

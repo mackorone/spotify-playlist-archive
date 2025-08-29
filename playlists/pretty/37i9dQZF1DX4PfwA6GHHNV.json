@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21698,
+  "num_followers": 21717,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "Gingado",
-        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        },
-        {
-          "name": "DIMELLABS",
-          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
-        }
-      ],
-      "duration_ms": 147125,
-      "name": "Gingado",
-      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
         "name": "RELACIONAMENTO SOLO",
         "url": "https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 155000,
       "name": "RELACIONAMENTO SOLO",
       "url": "https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
+        "name": "Gingado",
+        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        },
+        {
+          "name": "DIMELLABS",
+          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
+        }
+      ],
+      "duration_ms": 147125,
+      "name": "Gingado",
+      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
     },
     {
       "added_at": "2025-08-22 17:11:08",

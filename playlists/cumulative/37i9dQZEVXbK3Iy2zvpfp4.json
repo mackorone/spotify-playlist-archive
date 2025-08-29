@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 201133,
       "name": "Amada mia, Amore mio",
       "url": "https://open.spotify.com/track/2msgKwlTVdfdhcuUBfKo3W"
@@ -12106,7 +12106,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 141595,
       "name": "COGITO ERGO SUM",
       "url": "https://open.spotify.com/track/2rR4dCpx3di6fyg3xlknsl"
@@ -46194,7 +46194,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 207800,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv"
@@ -49934,7 +49934,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -57484,7 +57484,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 157219,
       "name": "SP\u00c1NEK",
       "url": "https://open.spotify.com/track/55EkJGkSS6boe9oPxyBzV3"
@@ -62894,7 +62894,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 84977,
       "name": "TRALALERO TRALALA x Sigma Boy",
       "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"
@@ -64233,6 +64233,28 @@
     },
     {
       "album": {
+        "name": "unlike me (cyber$tar mix)",
+        "url": "https://open.spotify.com/album/0up0hhSMO1HkehZlCwjyUd"
+      },
+      "artists": [
+        {
+          "name": "cyber$tar",
+          "url": "https://open.spotify.com/artist/14yGVt70FHM2iV7X0LCKTO"
+        },
+        {
+          "name": "Kate Havnevik",
+          "url": "https://open.spotify.com/artist/6lb32Pf1I52GnEfnDlu9FR"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155432,
+      "name": "unlike me (cyber$tar mix)",
+      "url": "https://open.spotify.com/track/1eoVl7IOkvYh1ajE4DSW3k"
+    },
+    {
+      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -65556,7 +65578,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 169818,
       "name": "Vielleicht Vielleicht - Holy Priest & elMefti Remix",
       "url": "https://open.spotify.com/track/2nWw7VrUn8Ijo45K6WIIna"
@@ -67522,6 +67544,28 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "wgft (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
     },
     {
       "album": {
@@ -72048,7 +72092,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

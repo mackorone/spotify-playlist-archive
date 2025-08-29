@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/1gqbeuB8Ls3PPiRvQZNZTI"
+      },
+      "artists": [
+        {
+          "name": "Bassboy",
+          "url": "https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy"
+        },
+        {
+          "name": "Klaudia Keziah",
+          "url": "https://open.spotify.com/artist/6LxjYYRkYzxpRzPxZy8mXW"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/2bcLsfi0igVwm5NiHTA9mw"
+    },
+    {
+      "album": {
         "name": "<3<3<3",
         "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
       },
@@ -162,7 +184,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 166015,
       "name": "Aight Boom (feat. Scrufizzer)",
       "url": "https://open.spotify.com/track/75GSsRPXsU16dUd5uVAbHX"
@@ -2966,6 +2988,28 @@
       "duration_ms": 168015,
       "name": "Hide N Seek (feat. TAET)",
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        },
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153126,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
     },
     {
       "album": {
@@ -6780,7 +6824,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 180000,
       "name": "U",
       "url": "https://open.spotify.com/track/1yBIVECGDfhoebR6QnwWxo"

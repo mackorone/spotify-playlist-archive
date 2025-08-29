@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-542 songs - 1 day 6 hr 47 min
+543 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Badhuke Bangaaravu](https://open.spotify.com/track/7b04RMKJmRqoL1mPrJ111F) | [Nishchith Raj](https://open.spotify.com/artist/7ead5yMnHG5kNYW1d6Vdop), [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH) | [Badhuke Bangaaravu](https://open.spotify.com/album/5akFz3v75BBTzFZOf6kHvH) | 3:57 | 2025-05-09 |  |
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 | 2023-09-21 |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
+| [Bar Butterfly](https://open.spotify.com/track/7uqRpR4n59TQhwKGZT2lpH) | [Stoney Rhino](https://open.spotify.com/artist/1pduTHsOHofmFHHM2ONTKc) | [Bar Butterfly](https://open.spotify.com/album/3tTMFTa9hDlDFJsKKqvM0G) | 3:33 | 2025-08-28 |  |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
 | [Bayaside Ninna](https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Bayaside Ninna](https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j) | 2:02 | 2024-01-08 | 2024-05-22 |
 | [Beautiful Vibe](https://open.spotify.com/track/37F4JHQqAubJYe33EJ1Snf) | [Abhi Multi](https://open.spotify.com/artist/6oHfz3dNr75Sg9DNVyyHV4), [Pacific](https://open.spotify.com/artist/3pALV1fSZ5E1tFNcTy68nG) | [Beautiful Vibe](https://open.spotify.com/album/3gC3KRMrXytFSlmiPX5hgT) | 3:11 | 2025-01-31 | 2025-06-24 |
@@ -317,7 +318,7 @@
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 | 2023-09-05 |
 | [Mugile](https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [VJSH](https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [Mugile](https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY) | 2:41 | 2023-12-14 | 2024-04-13 |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
-| [My Love \- Kannada](https://open.spotify.com/track/5M6VZVB1wTwgCGqAUln2CT) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Kannada\)](https://open.spotify.com/album/5SMHqxu7YwAGsIHCPDTn9k) | 4:30 | 2025-02-18 |  |
+| [My Love \- Kannada](https://open.spotify.com/track/5M6VZVB1wTwgCGqAUln2CT) | [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [Lavanya Anthanna](https://open.spotify.com/artist/7d32jgcfKXHGw38r5Tav7s), [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [My Love \(Kannada\)](https://open.spotify.com/album/5SMHqxu7YwAGsIHCPDTn9k) | 4:30 | 2025-02-18 | 2025-08-29 |
 | [Na Driver Ni Nanna Lover](https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Malappa Halabar](https://open.spotify.com/artist/7rnqc49Vemgd04MOvFt2bu) | [Na Driver Ni Nanna Lover](https://open.spotify.com/album/1EzCYR82ygQft5ixRTBtk5) | 9:39 | 2024-08-23 | 2025-04-12 |
 | [Na Kandante](https://open.spotify.com/track/06VvdhOAfxUz4QUjODLFRW) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN) | [Na Kandante](https://open.spotify.com/album/31BGDEPy5ls39aG7dXuwif) | 1:13 | 2024-08-22 | 2025-03-12 |
 | [Na Ninne Preetisuve](https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ) | 3:40 | 2023-10-26 | 2024-02-17 |

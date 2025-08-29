@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4wG1zZBw7hm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4wG1zZBw7hm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4wG1zZBw7hm)
 
-### [Deep Techno](https://open.spotify.com/playlist/37i9dQZF1DX4wG1zZBw7hm)
+### [ambient techno](https://open.spotify.com/playlist/37i9dQZF1DX4wG1zZBw7hm)
 
-> Deep, ambient and dub techno soundscapes.
+> techno you can relax/study to
 
-104 songs - 12 hr 14 min
+105 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Heavy Snow](https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound, Pt\. 1](https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2) | 9:10 | 2025-03-14 |  |
 | [I, Cavallo](https://open.spotify.com/track/6kTteVJEEkVs3Zges11EPO) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [I, Cavallo](https://open.spotify.com/album/4pC6V3FzQnCnBZJy9OWVm2) | 6:57 | 2025-03-14 |  |
 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 | 2025-03-14 |  |
+| [Jazz Da Bazz](https://open.spotify.com/track/2crt4Lq4DTkAHdThJiWU7r) | [Recoil \[ZA\]](https://open.spotify.com/artist/0GzKP9rOJeR7mkw0kfqjJa), [Secret Cinema](https://open.spotify.com/artist/6TrT2n9RVox8c9xpffVKyW) | [Jazz Da Bazz](https://open.spotify.com/album/24MqTjPyjWFrCFdPpxx8wt) | 6:54 | 2025-08-28 |  |
 | [Kingston](https://open.spotify.com/track/4WOmFmr0FVQyhVji655Io5) | [Rod Modell](https://open.spotify.com/artist/6ZX4eVTPQBJ7q0cIShOmKD) | [Kettle Point](https://open.spotify.com/album/54DISapbGDCL9c01qJKE5k) | 6:05 | 2025-03-14 |  |
 | [Königsforst 1](https://open.spotify.com/track/7joLh1gqRVsHuwccyjILbj) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 9:38 | 2025-03-14 |  |
 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 | 2025-03-14 |  |
@@ -84,7 +85,7 @@
 | [Rigning Tvö](https://open.spotify.com/track/2F5teMdMoSdbij9pOlnIuv) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Rigning \(2018\)](https://open.spotify.com/album/50u0AJ0W0NAZpPF0Waikl3) | 6:35 | 2025-03-14 |  |
 | [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 | 2025-03-14 |  |
 | [Sands of Rainbow](https://open.spotify.com/track/0n8gv3n5Do8SvY14NUt0Es) | [Insect O.](https://open.spotify.com/artist/3DvAgRmwCrUUlnvqASCdDB) | [Bondi Dub](https://open.spotify.com/album/2FPGWeGodZYh0CDrbSmHoO) | 7:36 | 2025-03-14 | 2025-08-12 |
-| [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 | 2025-03-14 |  |
+| [Satellite](https://open.spotify.com/track/3TzyEnXCEFChnH6SQyzOsK) | [Father OhmikRon](https://open.spotify.com/artist/7hSnuuKcrmPv3E1oH8e8p9) | [Dub Systems](https://open.spotify.com/album/43DhDXjmMqGFsxyXxLsesZ) | 8:40 | 2025-03-14 | 2025-08-29 |
 | [Seduction](https://open.spotify.com/track/0mEVAXbjfanF5Xetns8pPV) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:16 | 2025-03-14 |  |
 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 | 2025-03-14 |  |
 | [Sleepygirl 1](https://open.spotify.com/track/7d7BxwnjpR4WrBHmyo5tnA) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Sleepygirls](https://open.spotify.com/album/1C04uwe7mOJ9ogiOCjnKqd) | 5:23 | 2025-03-14 |  |

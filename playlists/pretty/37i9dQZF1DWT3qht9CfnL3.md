@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,029 likes - 98 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,028 likes - 98 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
-| 2 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/album/5GjKG3Y8OvSVJO55dQTFyD) | 3:29 |
+| 2 | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/album/5GjKG3Y8OvSVJO55dQTFyD) | 3:29 |
 | 3 | [Nada](https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Error 93](https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O) | 5:05 |
 | 4 | [Tóxicos](https://open.spotify.com/track/58YTVwfAguvDrw019utJoP) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Tóxicos](https://open.spotify.com/album/37Aa1Q2tGIicei6G1yzh5F) | 2:44 |
 | 5 | [Sola](https://open.spotify.com/track/6ypxZlBgfczJnNLWvx0ytg) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sola](https://open.spotify.com/album/4CMuT50pdU5XwFls4pgLCZ) | 2:13 |

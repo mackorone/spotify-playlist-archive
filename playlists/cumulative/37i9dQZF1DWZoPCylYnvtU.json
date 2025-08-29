@@ -779,24 +779,6 @@
     },
     {
       "album": {
-        "name": "Noise of Water",
-        "url": "https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK"
-      },
-      "artists": [
-        {
-          "name": "Noise of Water",
-          "url": "https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl"
-        }
-      ],
-      "date_added": "2023-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140434,
-      "name": "Cosy Storm",
-      "url": "https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P"
-    },
-    {
-      "album": {
         "name": "Cosy Sunday Rain",
         "url": "https://open.spotify.com/album/2nD8pACY6boiON9uVSaLJm"
       },
@@ -5414,6 +5396,24 @@
       "duration_ms": 208000,
       "name": "Surrender to rain",
       "url": "https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5"
+    },
+    {
+      "album": {
+        "name": "Noise of Water",
+        "url": "https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK"
+      },
+      "artists": [
+        {
+          "name": "Weather Pass",
+          "url": "https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118143,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P"
     },
     {
       "album": {

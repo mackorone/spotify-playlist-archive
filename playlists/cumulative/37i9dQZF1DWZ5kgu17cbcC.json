@@ -2543,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "Strange Brew (From \"Alien: Earth\")",
+        "url": "https://open.spotify.com/album/6xysFMk6pogEJWV5m2rmEc"
+      },
+      "artists": [
+        {
+          "name": "Noah Hawley",
+          "url": "https://open.spotify.com/artist/5hMWNPplrj0gLHSOojE4me"
+        },
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164760,
+      "name": "Strange Brew - From \"Alien: Earth\"",
+      "url": "https://open.spotify.com/track/6abqDtPi3XsikUPeHRVspQ"
+    },
+    {
+      "album": {
         "name": "Suncoast (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t"
       },

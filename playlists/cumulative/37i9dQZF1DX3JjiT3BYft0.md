@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-456 songs - 1 day 8 hr 33 min
+457 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Photograph](https://open.spotify.com/track/53N4g5riYJaAKnyog0VxTd) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:16 | 2025-02-25 | 2025-03-12 |
 | [Photograph](https://open.spotify.com/track/0fNoGzHAhHpCpwsUkL55SO) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Photograph](https://open.spotify.com/album/4N721OcjQQhZtB9wtzhxGY) | 4:17 | 2022-05-17 | 2022-07-26 |
 | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/track/1z08YefAMfJ2ptFaniswty) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Pico! Papi! Girls Band Party☆PICO!!!](https://open.spotify.com/album/4pWMug5ycdlFxRDG0Cj2xI) | 4:18 | 2022-06-23 | 2022-10-01 |
+| [Portray Empathy](https://open.spotify.com/track/21EwZl3EMt5UPD6XhzpuJB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Feathered Dreams](https://open.spotify.com/album/3nB1xLYWLMUA8gpi1Zq68m) | 4:13 | 2025-08-26 |  |
 | [Prelude to Gold](https://open.spotify.com/track/0Rbgngwzqoshr5LpGVZ7xB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 4:30 | 2022-08-30 | 2022-09-21 |
 | [Proud of oneself](https://open.spotify.com/track/3LkLzp3pFCU70XjfPMqZJS) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 3:55 | 2022-05-17 | 2022-07-28 |
 | [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 | 2023-05-30 | 2024-04-03 |
@@ -438,7 +439,7 @@
 | [花園電気ギター!!!](https://open.spotify.com/track/5ycmMZBbaKAISsDxA4iCE7) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 3:17 | 2022-05-17 | 2025-05-28 |
 | [花園電気ギター！！！](https://open.spotify.com/track/0GRDxtvxmz51U425YzSQnn) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 3:19 | 2022-09-20 | 2024-04-19 |
 | [詩超絆](https://open.spotify.com/track/06gQEKIudRfsor7tdfGJr2) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/6GBBqk1v5okNnioUXqMi7D) | 3:57 | 2024-11-28 |  |
-| [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 | 2023-03-14 |  |
+| [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 | 2023-03-14 | 2025-08-29 |
 | [走り始めたばかりのキミに](https://open.spotify.com/track/3Ts1xBEZBVIO6YpedhDy6h) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [バンドリ!「走り始めたばかりのキミに/ティアドロップス」](https://open.spotify.com/album/5naHriVgqbOAwQXqG6g7bD) | 4:19 | 2022-05-17 | 2022-07-08 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 | 2022-09-20 | 2024-04-19 |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV:大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 | 2022-05-17 |  |

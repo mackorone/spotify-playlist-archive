@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43973,
+  "num_followers": 43970,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaYMfQ4Ncl3+swLCzzck0L+24ILpIe",
+  "snapshot_id": "AAAaYmA/Qpelxe3OL4Ry8NgA/m1I5ZGP",
   "tracks": [
+    {
+      "added_at": "2025-08-28 15:23:01",
+      "album": {
+        "name": "I Got Soul (Super Bad)",
+        "url": "https://open.spotify.com/album/3H0ootot0DGXzvmq9tQ1EW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 142968,
+      "name": "I Got Soul (Super Bad)",
+      "url": "https://open.spotify.com/track/41LxUALaLM5fnPTEexCN9g"
+    },
     {
       "added_at": "2025-08-22 16:32:19",
       "album": {

@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 169986,
       "name": "Acolyte (feat. Dadju & Ninho)",
       "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 160879,
       "name": "Body Count",
       "url": "https://open.spotify.com/track/7fzclQRVoYohfPDMOx9Py8"
@@ -5146,7 +5146,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 215446,
       "name": "J'Y PENSE",
       "url": "https://open.spotify.com/track/2VSwZ3x3IOEs2lK5IXo8Yx"
@@ -6541,6 +6541,32 @@
     },
     {
       "album": {
+        "name": "Lokumu",
+        "url": "https://open.spotify.com/album/0GpCZdu1gaLjRHmWuNh6U1"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        },
+        {
+          "name": "Dahmu Manero",
+          "url": "https://open.spotify.com/artist/6u2PCOsTjeBE42y6NaQRtp"
+        },
+        {
+          "name": "MAD M.A.M",
+          "url": "https://open.spotify.com/artist/5qOYOIm1j9icaO07vbyAam"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Lokumu",
+      "url": "https://open.spotify.com/track/28cZ7SkmfnGKDNYZ3NC1J3"
+    },
+    {
+      "album": {
         "name": "Lolita",
         "url": "https://open.spotify.com/album/1gwnP9Kx0kf3kHnap68sry"
       },
@@ -7447,6 +7473,32 @@
     },
     {
       "album": {
+        "name": "Mbotama Espoir",
+        "url": "https://open.spotify.com/album/2El1k9q5ablQFw8aOeJrwf"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "Orph\u00e9e Wemba",
+          "url": "https://open.spotify.com/artist/06QyxxTiGim3S3wr316klR"
+        },
+        {
+          "name": "Otis Olela",
+          "url": "https://open.spotify.com/artist/70MabHvVmZj65fDg3bchFX"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236476,
+      "name": "Mbotama Espoir",
+      "url": "https://open.spotify.com/track/7uM82MuyEYV7fRpqShWQOy"
+    },
+    {
+      "album": {
         "name": "Melinda",
         "url": "https://open.spotify.com/album/6EsMHDVOyyNAyix75MjIMv"
       },
@@ -7966,6 +8018,28 @@
       "duration_ms": 170500,
       "name": "Mukongo",
       "url": "https://open.spotify.com/track/6WVDlfwQiquzD8daC0vCgI"
+    },
+    {
+      "album": {
+        "name": "MUKUCHU",
+        "url": "https://open.spotify.com/album/1davpmN1l93Uij1h63ulsC"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "MUKUCHU",
+      "url": "https://open.spotify.com/track/7gZzzsMe0SFyXSIslFwkzu"
     },
     {
       "album": {

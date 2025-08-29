@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: \(sic\)boy \*👉 <a href="https://spice.eplus.jp/articles/340284">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,310 likes - 76 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,301 likes - 76 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 53 | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/track/4PC50SVpunelqtTeXUAG41) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [東川亜希子](https://open.spotify.com/artist/26wUFJYN45UPECKEFcocoq) | [Nothing \#3 \(feat\. 東川亜希子\)](https://open.spotify.com/album/5fYd5VD8XTRV9nQenYzmKf) | 3:01 |
 | 54 | [真実](https://open.spotify.com/track/0HCNfRFxM6myYEmM6MEVmg) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [真実](https://open.spotify.com/album/3FYvHb9PsVWEE810q2tGzP) | 4:26 |
 | 55 | [LOVE](https://open.spotify.com/track/4cWECNscvzCR1uXr5gaT4C) | [Crazy Ken Band](https://open.spotify.com/artist/5kIOu0jisbh3SI7gT6rgq2) | [LOVE](https://open.spotify.com/album/2Axsliu1hsinDBQytvFCwp) | 3:10 |
-| 56 | [Between Them](https://open.spotify.com/track/4zROw8RJqpEKl6UgxdvgKE) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [MIYA](https://open.spotify.com/artist/3udE4vZ3uSgZ1MPvZIiiiq) | [Between Them](https://open.spotify.com/album/2DQTkC7L0QUJLkrHO04VS6) | 5:22 |
+| 56 | [Between Them](https://open.spotify.com/track/4zROw8RJqpEKl6UgxdvgKE) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [MIYA\(Ålborg\)](https://open.spotify.com/artist/3pP4cAFj6dkQuukluPZj2b) | [Between Them](https://open.spotify.com/album/2DQTkC7L0QUJLkrHO04VS6) | 5:22 |
 | 57 | [明晰夢](https://open.spotify.com/track/15SemxrkBb7JkJ0nQ14SKI) | [楓 幸枝](https://open.spotify.com/artist/2VCpkbUqhSU1FmZFmtozdn), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [明晰夢](https://open.spotify.com/album/0kecbL56Nddz1LZ1w7aIiK) | 3:00 |
 | 58 | [my\_fancy\_world\_ending](https://open.spotify.com/track/00UINEjWhNTrx8F8oW7nDR) | [Aoi Mizuno](https://open.spotify.com/artist/2HPnhVahdXW9IXUYGDFq5c), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [& fancy.](https://open.spotify.com/album/5hyymWZ4dTp8w9ALeEVLUh) | 6:40 |
 | 59 | [軸受たち](https://open.spotify.com/track/0obS85kS9EjVZhQDCMoJlg) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [軸受たち](https://open.spotify.com/album/5PURTfqdFbrSFg288Wylst) | 4:21 |

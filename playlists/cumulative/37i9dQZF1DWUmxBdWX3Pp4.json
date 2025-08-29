@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 154391,
       "name": "Cuatro Rifles",
       "url": "https://open.spotify.com/track/6bZPqpsLzf3YZ11CxQl3Mo"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 157500,
       "name": "De Nadie Me Dejo",
       "url": "https://open.spotify.com/track/23M3B2s7eeCmJ6GNGJiwMv"
@@ -9880,7 +9880,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 144000,
       "name": "RICH NENE",
       "url": "https://open.spotify.com/track/4RczdDangpVwvMgSLbaxhS"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 219491,
       "name": "RMPR T",
       "url": "https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts"
@@ -10650,7 +10650,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 117645,
       "name": "Ski Mask",
       "url": "https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK"
@@ -11498,7 +11498,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 152673,
       "name": "TRANKILA",
       "url": "https://open.spotify.com/track/4dUpta1dmPkBSfAmLps8ZA"
@@ -12506,10 +12506,48 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 148800,
       "name": "Yeti",
       "url": "https://open.spotify.com/track/349FLkJtROXAcVmfO1EZoU"
+    },
+    {
+      "album": {
+        "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+        "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375381,
+      "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+      "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
       "album": {

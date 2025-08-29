@@ -2827,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "Canerandagio",
+        "url": "https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178263,
+      "name": "Lunarossa (feat. Mahmood)",
+      "url": "https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp"
+    },
+    {
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },

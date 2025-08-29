@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. mgk
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,601 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,570 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 29 | [neckdeep](https://open.spotify.com/track/5zMZ5EoTzjvoRGHTt5cmal) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [neckdeep](https://open.spotify.com/album/1OIRD9TXUp6Pzklt3JKTQZ) | 2:58 |
 | 30 | [the cost of giving up](https://open.spotify.com/track/2PcaKowfrJ2FDoBP5uxHaU) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:17 |
 | 31 | [SINS \(with Sueco & WesGhost\)](https://open.spotify.com/track/2YUrjNtdRSDVR35IBiyLlq) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SINS \(with Sueco & WesGhost\)](https://open.spotify.com/album/5r5oU1Zx0paGlnx0PfryqZ) | 3:52 |
-| 32 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:24 |
+| 32 | [Mirtazapine](https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Mirtazapine](https://open.spotify.com/album/1993KteXUGJJK4K6Doli3L) | 3:21 |
 | 33 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 |
 | 34 | [Death of Me](https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Death of Me](https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO) | 3:11 |
 | 35 | [Unhinged](https://open.spotify.com/track/6ESC79zhktiwcijTphwKLh) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Unhinged](https://open.spotify.com/album/6B8FMz3hpOEthM4xK8fZE8) | 2:03 |

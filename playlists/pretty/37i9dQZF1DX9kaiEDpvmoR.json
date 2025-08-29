@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93584,
+  "num_followers": 93579,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
+        "name": "Human (feat. Jesse & Joy)",
+        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 243795,
+      "name": "Human (feat. Jesse & Joy)",
+      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
         "name": "Vill du ha mig?",
         "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
       },
@@ -195,38 +215,18 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 166432,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -247,18 +247,18 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -295,8 +295,8 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Human (feat. Jesse & Joy)",
-        "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
       },
       "artists": [
         {
@@ -304,13 +304,13 @@
           "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
         },
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
         }
       ],
-      "duration_ms": 243795,
-      "name": "Human (feat. Jesse & Joy)",
-      "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
+      "duration_ms": 166432,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
+        "name": "Dansa i neon",
+        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 195113,
+      "name": "Dansa i neon",
+      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
         "name": "Graven vid Gullmars",
         "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Dansa i neon",
-        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
+        "name": "Sign on the Window",
+        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
       },
       "artists": [
         {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 195113,
-      "name": "Dansa i neon",
-      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+      "duration_ms": 183946,
+      "name": "Sign on the Window",
+      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Sign on the Window",
-        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Sign on the Window",
-      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
         "name": "Just idag \u00e4r jag stark",
         "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
-        "name": "Goodwill",
-        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 316124,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
+        "name": "Goodwill",
+        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "duration_ms": 316124,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
         "name": "While you got me",
         "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 211920,
       "name": "While you got me",
       "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
+        "name": "L\u00e5nat",
+        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
+      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "L\u00e5nat",
-        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
       "artists": [
         {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
-      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1223,22 +1239,6 @@
       "duration_ms": 199336,
       "name": "\u00c4lskade v\u00e4n",
       "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
         "name": "Maja H\u00f6nstjuv",
         "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 204560,
       "name": "Maja H\u00f6nstjuv",
       "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
-      },
-      "artists": [
-        {
-          "name": "Maja Ivarsson",
-          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
     },
     {
       "added_at": "2025-08-21 22:00:18",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-21 22:00:18",
       "album": {
-        "name": "Fyllda Av Sommar",
-        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 204287,
-      "name": "Fyllda Av Sommar",
-      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
-    },
-    {
-      "added_at": "2025-08-21 22:00:18",
-      "album": {
         "name": "Men bara om min \u00e4lskade v\u00e4ntar",
         "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 213774,
       "name": "Men bara om min \u00e4lskade v\u00e4ntar",
       "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+    },
+    {
+      "added_at": "2025-08-21 22:00:18",
+      "album": {
+        "name": "Fyllda Av Sommar",
+        "url": "https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Fyllda Av Sommar",
+      "url": "https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S"
     },
     {
       "added_at": "2025-08-21 22:00:18",

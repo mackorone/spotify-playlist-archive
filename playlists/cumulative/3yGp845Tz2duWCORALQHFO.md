@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,710 songs - 8 day 9 hr 46 min
+3,711 songs - 8 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3363,6 +3363,7 @@
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-07 | 2024-06-17 |
 | [Treetop Empire](https://open.spotify.com/track/7vyHSPyFhLdpxQkTtBeUwM) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Treetop Empire](https://open.spotify.com/album/2rFJDjakYDE3x3uWF8wEW0) | 4:03 | 2024-06-16 | 2024-06-21 |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-03-01 |
+| [Tribe](https://open.spotify.com/track/7vmgF9zF4cV2Fz02YXATDl) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Tribe](https://open.spotify.com/album/72pk5WwJAQTI7jycJrWqh0) | 4:52 | 2025-08-28 |  |
 | [Trick Daddy](https://open.spotify.com/track/3Luwyvu9z27Di8fy78sGa4) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Trick Daddy / I Got Money](https://open.spotify.com/album/5yHdlP0VgQDJUBGyMDzh2t) | 3:00 | 2024-05-17 | 2024-05-25 |
 | [Trifecta](https://open.spotify.com/track/1v8ey9429Z5ulObgHhYcqF) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Arnej](https://open.spotify.com/artist/2h6LBe1v9fSvc62fYum0CA) | [Trifecta](https://open.spotify.com/album/6VybT6guYbU72XS15a4iri) | 3:54 | 2024-08-08 | 2024-08-16 |
 | [Trip to Serbia](https://open.spotify.com/track/093c9gCeDeLVuu6p52IJyN) | [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI), [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Trip to Serbia](https://open.spotify.com/album/28G4bGA8ImFAuuW9YDkJac) | 2:59 | 2024-11-15 | 2024-11-23 |

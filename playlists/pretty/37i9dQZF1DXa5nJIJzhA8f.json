@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.\n",
-  "num_followers": 37076,
+  "num_followers": 37157,
   "original_name": "Editors' Picks: Best Songs of the Year So Far",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 273684,
-      "name": "back of the club",
-      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "BOTH WAYS",
         "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 141538,
       "name": "WHIM WHAMIEE (feat. YKNIECE)",
       "url": "https://open.spotify.com/track/177s589pGfNvcIX07n2Ecl"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 273684,
+      "name": "back of the club",
+      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
-        "name": "Nettles",
-        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Nettles",
-      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
         "name": "I Guess We\u2019re Not The Same",
         "url": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2025-06-30 01:25:23",
       "album": {
+        "name": "Nettles",
+        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
         "name": "Romance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
@@ -419,30 +419,6 @@
       "duration_ms": 236245,
       "name": "Before You I Just Forget",
       "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
-    },
-    {
-      "added_at": "2025-06-30 01:25:23",
-      "album": {
-        "name": "Ace Trumpets",
-        "url": "https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y"
-      },
-      "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Ace Trumpets",
-      "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
     },
     {
       "added_at": "2025-06-30 01:25:23",
@@ -467,6 +443,30 @@
       "duration_ms": 186360,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
+    },
+    {
+      "added_at": "2025-06-30 01:25:23",
+      "album": {
+        "name": "Ace Trumpets",
+        "url": "https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        }
+      ],
+      "duration_ms": 154066,
+      "name": "Ace Trumpets",
+      "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
     },
     {
       "added_at": "2025-06-30 01:25:23",

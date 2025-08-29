@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. MAKSIM &amp; Guus Meeuwis \(cover\), Frenna, Noano, Kensington en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,834 likes - 51 songs - 2 hr 30 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,833 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

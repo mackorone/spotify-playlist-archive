@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOVAIsOBIW.md) - [plain]
 
 ### [iced matcha dreams 💫 ](https://open.spotify.com/playlist/37i9dQZF1DWWMOVAIsOBIW)
 
-> dreamy, sparkly pop \- for  journals, and iced matcha lattes
+> dreamy, sparkly pop \- for  junk journals, and iced matcha lattes
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOVAIsOBIW.md) - [plain]
 | 49 | [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 |
 | 50 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
 
-Snapshot ID: `AAAAAIsYx+q5VOso5HmEQ8jNBvtrBVhK`
+Snapshot ID: `AAAAAIn1P6027E6Yl7ydWWkvHQ90kpjr`

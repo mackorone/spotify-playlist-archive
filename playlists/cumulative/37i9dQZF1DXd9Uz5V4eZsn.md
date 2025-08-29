@@ -4,7 +4,7 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-77 songs - 8 hr 8 min
+78 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Compassion](https://open.spotify.com/track/4DVaz0kvAfkldtsqsA83Kw) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Inner World](https://open.spotify.com/album/0iky000jFMyU48s9KMNc2t) | 3:55 | 2023-06-30 | 2024-04-19 |
 | [Compassion](https://open.spotify.com/track/7hJaVrUlGrWTEPhEyBuiSF) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Inner World](https://open.spotify.com/album/6GRk7FY5pMbxUy7bOthNMW) | 3:55 | 2024-03-12 |  |
 | [Darashan Maago](https://open.spotify.com/track/2ZjPWpIuoNRT2NY1D0n6vr) | [Snatam Kaur](https://open.spotify.com/artist/6NvMFz8onERoCM6bKjTASJ) | [Beloved](https://open.spotify.com/album/075EtImHqtDYPvYcypAGNQ) | 12:55 | 2023-06-30 |  |
+| [Devotion \(Payoji\)](https://open.spotify.com/track/186Wn6MAixNBDvs2ToDCVc) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Kailash Satyarthi](https://open.spotify.com/artist/3DHSvmqyBGYbxhTSho4Ftn), [Erwilian](https://open.spotify.com/artist/2qmu9C9fWBAhbD4o4orObv), [Mak Grgic](https://open.spotify.com/artist/2pzgrbowKM8SGmdK3YMcGq), [Shivaraj Natraj](https://open.spotify.com/artist/64Dflgj5bzOjbSvx6gIcAh), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Camille Zamora](https://open.spotify.com/artist/6WJcYje4ia1koZTFEmguio), [Alexandra Cutler\-Fetkewicz](https://open.spotify.com/artist/6yNjgpFtfql6mC4Wjx1pwE) | [Gandhi \- Mantras Of Compassion](https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK) | 3:45 | 2025-08-28 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2023-06-30 |  |
 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 | 2023-06-30 |  |
 | [Echoes of Shiva](https://open.spotify.com/track/4KTifW3daaPt92rgfi2iNa) | [Kiran Murti](https://open.spotify.com/artist/4Gwf9d7pFQVWt2PM8f3ASp) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 6:01 | 2024-03-12 |  |

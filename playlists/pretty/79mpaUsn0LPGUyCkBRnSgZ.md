@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 564 songs - 1 day 12 hr 53 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 566 songs - 1 day 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -572,5 +572,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 562 | [Everything's Fine](https://open.spotify.com/track/61yVt2xUIrwYI53xY3jSFE) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Everything's Fine](https://open.spotify.com/album/51WZxnoOPfdGY2yUwfCLhf) | 1:07 |
 | 563 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 |
 | 564 | [The Beach](https://open.spotify.com/track/7uELmcXg4U2iCcrXMvD8dj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
+| 565 | [IT'S TIME](https://open.spotify.com/track/4hJAHfT4Q92Bj93RlYtCou) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 2:07 |
+| 566 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 |
 
-Snapshot ID: `AAAHkQzLfV0f++8AzIPrVvWwUTwm2CQ8`
+Snapshot ID: `AAAHkjEeM4pAWWrwGCEs4j7qmCqMs0R/`

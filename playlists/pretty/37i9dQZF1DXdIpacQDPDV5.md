@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Sammy Virji & Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,251 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,228 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 42 | [want me](https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [want me](https://open.spotify.com/album/70vbgCHbe3TCjK7bfMP6sM) | 3:18 |
 | 43 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 |
 | 44 | [Higher Power](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Higher Power](https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd) | 3:07 |
-| 45 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 |
+| 45 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:35 |
 | 46 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 47 | [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 |
 | 48 | [You're Nasty](https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [You're Nasty](https://open.spotify.com/album/4UZ4Onm7nghGgBeypjWJCx) | 5:03 |

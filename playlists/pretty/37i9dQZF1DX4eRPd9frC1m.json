@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2585747,
+  "num_followers": 2585618,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 164137,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 164137,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -883,18 +883,26 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
         }
       ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+      "duration_ms": 205241,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -943,26 +951,18 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "Mougleta",
-          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 205241,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
         "name": "Up Top",
         "url": "https://open.spotify.com/album/02dhPSTWLTNeVjyplTQBiG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 201379,
       "name": "Up Top",
       "url": "https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 144335,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
         "name": "Head Rock",
         "url": "https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC"
       },
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
         "name": "Big Bang (with Crankdat)",
         "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 239350,
       "name": "Big Bang (with Crankdat)",
       "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1371,26 +1391,6 @@
       "duration_ms": 233142,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2025-08-15 04:00:25",

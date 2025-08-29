@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 173816,
+  "num_followers": 173849,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Rollin' Stone (Piano Version)",
+        "url": "https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 164375,
+      "name": "Rollin' Stone - Piano Version",
+      "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Going, Going, Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 217676,
       "name": "The Cowboy In Me - Yellowstone Edition",
       "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Rollin' Stone (Piano Version)",
-        "url": "https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl"
-      },
-      "artists": [
-        {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
-        }
-      ],
-      "duration_ms": 164375,
-      "name": "Rollin' Stone - Piano Version",
-      "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "World on Fire (Bonfire Version)",
-        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "World on Fire - Bonfire Version",
-      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "World on Fire (Bonfire Version)",
+        "url": "https://open.spotify.com/album/5dXRi4991APofJJZS3g0KR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "World on Fire - Bonfire Version",
+      "url": "https://open.spotify.com/track/2k2mdBAB0pPPadKPKwEIQE"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "This Town's Been Too Good To Us (Stripped)",
-        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "This Town's Been Too Good To Us (Stripped)",
-      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Heartbreaker (Acoustic)",
         "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 222466,
       "name": "Heartbreaker - Acoustic",
       "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "This Town's Been Too Good To Us (Stripped)",
+        "url": "https://open.spotify.com/album/08KAKDcYVYi4mymCOVi021"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "This Town's Been Too Good To Us (Stripped)",
+      "url": "https://open.spotify.com/track/3qx8Dv2nvxlPkzteEItNSf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
       "artists": [
         {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
         }
       ],
-      "duration_ms": 160875,
-      "name": "Love Makes You Blind - Acoustic Version",
-      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
       },
       "artists": [
         {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
         }
       ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
+      "duration_ms": 160875,
+      "name": "Love Makes You Blind - Acoustic Version",
+      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "As You Are",
         "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-08-22 04:00:28",

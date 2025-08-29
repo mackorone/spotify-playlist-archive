@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house  🌡️ Tech house operators, featuring BLOND:ISH
 
-2,305 songs - 5 day 6 hr 47 min
+2,306 songs - 5 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1813,7 +1813,7 @@
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-03-15 | 2024-11-23 |
 | [Sit Down](https://open.spotify.com/track/7eFOkLB2xgBjcBBru0BD8o) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Sit Down](https://open.spotify.com/album/1T4vM2JuwbMaFIcuwJXR8Y) | 2:51 | 2024-07-19 | 2024-10-19 |
 | [Sit Down: Right Now](https://open.spotify.com/track/4x7bnxNnxeGGPLdYDVzXu9) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg) | [Sit Down: Right Now](https://open.spotify.com/album/1keiWSV43forzyG9BDr7ih) | 5:18 | 2024-05-24 | 2024-06-01 |
-| [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw) | [DumitrEscu](https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ) | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh) | 2:55 | 2025-07-25 |  |
+| [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/track/1ICqM7PreerK3OSNjgVhtw) | [DumitrEscu](https://open.spotify.com/artist/4pJw5VjlcDBHAOrN6fS3KZ) | [Sitting In The Sun \(Walking In The Rain\)](https://open.spotify.com/album/0mNWDv2QzTnnysJ2SIOPCh) | 2:55 | 2025-07-25 | 2025-08-29 |
 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 | 2023-02-24 | 2023-05-20 |
 | [Skip](https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Skip](https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE) | 2:31 | 2024-02-23 | 2024-04-06 |
 | [Skydance](https://open.spotify.com/track/00GJyZcLlDgRGFKW0Nzrsa) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Ray Foxx](https://open.spotify.com/artist/3rBUMhb9YTlfKpOEBZ0AQK) | [Skydance](https://open.spotify.com/album/2GvVkZNVBxtFYj4yoNt4YL) | 4:01 | 2023-12-01 | 2024-03-23 |
@@ -2194,6 +2194,7 @@
 | [WANNA KNOW](https://open.spotify.com/track/6uqwALchj4EBNgoOwbZjT7) | [DW](https://open.spotify.com/artist/03xgJUfFga1c5R2kS10GRX) | [WANNA KNOW](https://open.spotify.com/album/6ZrNOaPIhvrCDX7cKfa2lb) | 3:01 | 2021-11-26 | 2022-01-06 |
 | [Wanna Love](https://open.spotify.com/track/6tOfHz0qCh7WNoTqCtcFQk) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Vizzyz](https://open.spotify.com/artist/7EkfZ1ZoFllrSVCS6lCpAm) | [Wanna Love](https://open.spotify.com/album/74vB8lBpNR6qfuOREt3odM) | 2:39 | 2021-11-26 | 2022-04-02 |
 | [Want My Love](https://open.spotify.com/track/1Jg65EDU6dZXiqjRb1OXlE) | [Mineo](https://open.spotify.com/artist/1pgSJtH1TwIAxeSn4vSJJR) | [Want My Love](https://open.spotify.com/album/07JjhUiTinOcb02BCBd2QL) | 3:25 | 2022-11-14 | 2023-01-28 |
+| [Want That](https://open.spotify.com/track/6zgJuEnVEalu3SVj3gb75t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [Want That](https://open.spotify.com/album/3VVo0KpffMozuQiuIcmVpG) | 3:22 | 2025-08-28 |  |
 | [Want To Love](https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Want To Love](https://open.spotify.com/album/74yfold8G3wvVYm1pyxS0T) | 3:25 | 2021-12-17 | 2022-03-12 |
 | [Wasabi](https://open.spotify.com/track/6mXIwNxW6oxFbS1psHDNcB) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Wasabi](https://open.spotify.com/album/56FleV860R0ZCl4Zti16xY) | 2:28 | 2024-08-16 | 2024-08-24 |
 | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP) | 3:01 | 2021-11-26 | 2022-03-26 |

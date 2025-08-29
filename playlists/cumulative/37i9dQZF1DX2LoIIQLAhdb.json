@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : BB NOYAA",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1010,6 +1010,28 @@
       "duration_ms": 186000,
       "name": "Bourbier",
       "url": "https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44"
+    },
+    {
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/6QGicMRG9TIxpTqmkRWCvu"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199993,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/35y5UFEPUZ6jTwGV6e160l"
     },
     {
       "album": {
@@ -4589,6 +4611,28 @@
     },
     {
       "album": {
+        "name": "KO",
+        "url": "https://open.spotify.com/album/3p79r0hidkk1z1V0ajsoOS"
+      },
+      "artists": [
+        {
+          "name": "makita",
+          "url": "https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT"
+        },
+        {
+          "name": "Milenzi",
+          "url": "https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/6Kdo1H8akrb1sIFyXAQbfa"
+    },
+    {
+      "album": {
         "name": "S\u00dbR ET CERTAIN",
         "url": "https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67"
       },
@@ -4836,7 +4880,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 152426,
       "name": "LE PARI",
       "url": "https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB"
@@ -6446,7 +6490,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 161495,
       "name": "On se date ?",
       "url": "https://open.spotify.com/track/0pNsXwG7xpCFdAwdy3oN1u"
@@ -8502,7 +8546,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-29",
       "duration_ms": 267042,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3om5DCk22cCGm5ckz3c3HU"
@@ -8782,6 +8826,24 @@
       "duration_ms": 154105,
       "name": "STARBOY",
       "url": "https://open.spotify.com/track/5dcr1TKZrq2N15lVIfaK21"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/3wmyh7rKz53bv4N6yRqCNw"
+      },
+      "artists": [
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139746,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/5Qs61nif5K5xYObKp2FjG9"
     },
     {
       "album": {

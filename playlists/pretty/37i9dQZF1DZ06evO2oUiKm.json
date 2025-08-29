@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10225,
+  "num_followers": 10229,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKz5AAAAAAAjdQ8eF4Sh93iVQCD3qJVb",
+  "snapshot_id": "aK5KgAAAAAC9zJLxwtja/TsgfaXwWv21",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+        }
+      ],
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspirational",
         "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wicked: The Soundtrack (Commentary)",
         "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
       },
@@ -876,25 +876,17 @@
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Joaquina Kalukango",
-          "url": "https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb"
-        },
-        {
           "name": "Isaiah Johnson",
           "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
         },
         {
-          "name": "Kevyn Morrow",
-          "url": "https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 278309,
-      "name": "Our Prayer",
-      "url": "https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3"
+      "duration_ms": 162468,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Sigrid, Highasakite, sombr, Doja Cat, Florence + The Machine og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,669 likes - 107 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,671 likes - 107 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 106 | [In the Dark](https://open.spotify.com/track/1BIvSvxc9GHQqeNwXk8tqZ) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [In the Dark](https://open.spotify.com/album/6OVccPSESvp4PEGGhs46WH) | 2:44 |
 | 107 | [Lovers Song](https://open.spotify.com/track/2iONeLt6AgkgN2KVaTUIOn) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Lovers Song](https://open.spotify.com/album/6xAAmRWTKeKWY8A0nuDsh8) | 3:07 |
 
-Snapshot ID: `AAAAANTWZHxdmN6gw+5QcTY9oVl2uZPq`
+Snapshot ID: `AAAAAKjU79yHfNH32ndDK2pLBQREHVHw`

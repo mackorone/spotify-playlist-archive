@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-986 songs - 1 day 18 hr 49 min
+987 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [Take You Higher](https://open.spotify.com/track/735qS1B80P22Z8f6SkZrbA) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Take You Higher](https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO) | 2:14 | 2025-02-06 | 2025-07-08 |
 | [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-17 | 2024-08-12 |
 | [Talk To Me](https://open.spotify.com/track/2vpK9DsFJJHRNinZyoK18C) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Talk To Me](https://open.spotify.com/album/7rpfJUWZSEhx5u5mxPN0RG) | 2:00 | 2024-04-12 | 2024-06-23 |
+| [Tanning Lines](https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Tanning Lines](https://open.spotify.com/album/2jGgQdCyz7VTnN6XmyoK8C) | 2:03 | 2025-08-28 |  |
 | [Taste Of Love](https://open.spotify.com/track/1P8590fpfk24mzC8lctMlq) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Taste Of Love](https://open.spotify.com/album/1FgnaZU9wemKUFhvEfQzBC) | 2:45 | 2025-03-02 | 2025-06-23 |
 | [Teenage Dream](https://open.spotify.com/track/6mSJPeIzfqbQH83qkMBS7I) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Teenage Dream](https://open.spotify.com/album/5wZOs9KxbL30axtsoIoe2p) | 2:33 | 2024-06-09 | 2024-07-09 |
 | [Tell Me You Love Me](https://open.spotify.com/track/7lak0WdbGJiJDbyBiZcLgH) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [AALLAR](https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1), [Che'Nelle](https://open.spotify.com/artist/7zVOa12T0RhNRzpbwZ4OCt) | [Tell Me You Love Me](https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo) | 2:42 | 2023-11-26 | 2024-01-28 |
