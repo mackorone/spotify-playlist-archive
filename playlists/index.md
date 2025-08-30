@@ -1,4 +1,4 @@
-## Playlists \(8758\)
+## Playlists \(8759\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3874,6 +3874,7 @@
 - [Metempsicosi's DJ Mix](/playlists/pretty/37i9dQZF1DX7DQfwkZTpGR.md)
 - [Metrobüse giderken POV](/playlists/pretty/37i9dQZF1DX2T5Fm23tbLc.md)
 - [MexSka](/playlists/pretty/37i9dQZF1DXaMKckYawrgw.md)
+- [MexiGo](/playlists/pretty/6aUhntGM77yu8za1xK2wxw.md)
 - [Mexican American War](/playlists/pretty/4CgQfaaNhacpXlMbM83t54.md)
 - [Mexican Party Anthems](/playlists/pretty/37i9dQZF1DXbdrcAZnP3Cy.md)
 - [Mexican Restaurant](/playlists/pretty/37i9dQZF1DWVtmGxs4S4N7.md)
