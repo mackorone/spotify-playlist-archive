@@ -1,4 +1,4 @@
-## Playlists \(8760\)
+## Playlists \(8761\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8169,6 +8169,7 @@
 - [desi crate diggin'](/playlists/pretty/37i9dQZF1DXbnBBzFWubbU.md)
 - [desi lofi](/playlists/pretty/37i9dQZF1DWWlfVnonJ8S6.md)
 - [dew](/playlists/pretty/37i9dQZF1DWSNeg74zvBUZ.md)
+- [die hip hop empfehlung](/playlists/pretty/2oKjjtvzosP13vQjShJAaA.md)
 - [digital detox✌️](/playlists/pretty/37i9dQZF1DX5uFnRv5lZjw.md)
 - [do rockeeee](/playlists/pretty/37i9dQZF1DX0PYkdiz2e8k.md)
 - [domingo de bajón](/playlists/pretty/37i9dQZF1DXbpHTpY5uC1T.md)
