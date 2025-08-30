@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
+> Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,846 likes - 101 songs - 5 hr 41 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,846 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
+| 1 | [Want It All](https://open.spotify.com/track/5O3p8bxkJZYRtBv5tOusbK) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Vol\. 031](https://open.spotify.com/album/1MiraKWlfqgGqkn1XZ31FV) | 3:07 |
 | 2 | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/track/2VRsFSqinPPbwGlQl62PUX) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Baby Daddy \(Sperm Donor\)](https://open.spotify.com/album/6926mwT6gVyVq2oxv50Qoe) | 3:23 |
-| 3 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
-| 4 | [Hold On](https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Hold On](https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi) | 3:07 |
-| 5 | [Mind Games](https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mind Games](https://open.spotify.com/album/6BBcom41AOXWc7K88JpNcM) | 3:19 |
-| 6 | [Sex](https://open.spotify.com/track/03FFGCzYtUaECiZCYeDzpb) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Sex](https://open.spotify.com/album/127aP79HZu41OtkIAXNVgt) | 3:49 |
-| 7 | [Talk To Me](https://open.spotify.com/track/1St7IYlYZmM3e8WcAkQcvo) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg) | [Talk to Me](https://open.spotify.com/album/2uQECqcbhDvLJxbrVs11dR) | 4:37 |
-| 8 | [People Dancing](https://open.spotify.com/track/21cDu3oHuUbgALq2KCyNjZ) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql) | [People Dancing](https://open.spotify.com/album/2ziDspwnYmBqqqLG4DJ0dM) | 3:12 |
+| 3 | [Hold On](https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Hold On](https://open.spotify.com/album/0Wc6Ik5EgcO3NlYvcIRPxi) | 3:07 |
+| 4 | [2 Day Bender](https://open.spotify.com/track/3aSzEk1GTnByKN2a9Jk0NG) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [2 Day Bender](https://open.spotify.com/album/39S1aZ5yTj7lcGnfmUpaQT) | 2:50 |
+| 5 | [Sex](https://open.spotify.com/track/03FFGCzYtUaECiZCYeDzpb) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP) | [Sex](https://open.spotify.com/album/127aP79HZu41OtkIAXNVgt) | 3:49 |
+| 6 | [Talk To Me](https://open.spotify.com/track/1St7IYlYZmM3e8WcAkQcvo) | [PEACE MAKER!](https://open.spotify.com/artist/5L0wOxjuK5GaS1T90yNmmg) | [Talk to Me](https://open.spotify.com/album/2uQECqcbhDvLJxbrVs11dR) | 4:37 |
+| 7 | [People Dancing](https://open.spotify.com/track/21cDu3oHuUbgALq2KCyNjZ) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql) | [People Dancing](https://open.spotify.com/album/2ziDspwnYmBqqqLG4DJ0dM) | 3:12 |
+| 8 | [Mental](https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Mental // Insane Asylum](https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq) | 3:53 |
 | 9 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 |
 | 10 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 |
 | 11 | [Neverland \(From Japan\)](https://open.spotify.com/track/2rYwnWnBiy3ESNSp4hUJMo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:10 |
@@ -108,6 +108,5 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 98 | [You Wanna Fuck Me \(YWFM\)](https://open.spotify.com/track/2r4STmboOV0Khc1Ggr9PG6) | [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ), [NAØ](https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA), [Dopegirl Zhane'](https://open.spotify.com/artist/3pbiubhVE4PWKFU0JJrm59) | [You Wanna Fuck Me \(YWFM\)](https://open.spotify.com/album/30vlWiZkORBlAkNOmOwLWa) | 3:04 |
 | 99 | [Closer](https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Closer](https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox) | 3:06 |
 | 100 | [Corvette 97](https://open.spotify.com/track/40GO913GvlJP8AJ5zFmUOZ) | [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Corvette 97](https://open.spotify.com/album/1wSKqUR6ymXd9bBeHn6DN9) | 2:45 |
-| 101 | [Nights Like These](https://open.spotify.com/track/3RhneE5YQcy3TphBlJfFuz) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [CLUB INDGO](https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC) | [Nights Like These](https://open.spotify.com/album/26fV54M3f9uUgEkCyAKG4d) | 3:00 |
 
-Snapshot ID: `AAAcCwUCiBp/rR4uceyMGi7mGTUi07+f`
+Snapshot ID: `AAAcFF2kf3Y1SihOTDckNV9gdtQXJ9nU`

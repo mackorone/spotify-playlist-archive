@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-345 songs - 22 hr 19 min
+346 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2025-01-13 | 2025-01-18 |
 | [How To Forget](https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv) | [Laurel Violet](https://open.spotify.com/artist/0QfXg8WlqAIegmbvsVLpUA) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 3:16 | 2024-07-19 | 2024-12-14 |
 | [I Am Nothing](https://open.spotify.com/track/4GjG2l1sMoRCIL6LK2rUga) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [XY/YX](https://open.spotify.com/album/4wtyeAs2RqBfHyfc9hm5F2) | 3:25 | 2024-03-08 | 2024-07-06 |
+| [I Know](https://open.spotify.com/track/2qDGpWyOnEjZYRK9neyHng) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [I Know](https://open.spotify.com/album/0cIav6iczg2OLcILPI8LNQ) | 2:20 | 2025-08-29 |  |
 | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/track/7EQigqw8SToxlAXF2YMqjg) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 6:26 | 2024-06-03 | 2024-07-13 |
 | [i saw you](https://open.spotify.com/track/3DzWFxyzsAVblVNndiU9CW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 | 2024-09-06 | 2025-01-14 |
 | [I'll Miss the System Here](https://open.spotify.com/track/1O5W8zxuyu5GWmuUbqnhCU) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three +](https://open.spotify.com/album/4pnU9CGKI2YneVwkqK6EIN) | 7:10 | 2024-05-10 | 2024-06-15 |

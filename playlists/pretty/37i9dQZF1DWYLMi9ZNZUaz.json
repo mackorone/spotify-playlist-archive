@@ -1,6 +1,6 @@
 {
   "description": "Nguy\u00ean team h\u1ec7<a href=\"https://open.spotify.com/presents/vietspirit\"> chi\u1ebfn binh</a> \nnh\u01b0 RHYDER  \u0111i v\u00e0o \u0111\u00e2y h\u1ebft!",
-  "num_followers": 111814,
+  "num_followers": 111860,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
+        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
+      },
+      "artists": [
+        {
+          "name": "The Wind",
+          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
+      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
         "name": "Y\u00eau 5",
         "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
       },
@@ -287,38 +307,30 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-        "url": "https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
-          "name": "The Wind",
-          "url": "https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy"
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
           "name": "Dangrangto",
           "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
-      "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
+        },
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "LVK",
+          "url": "https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL"
         }
       ],
-      "duration_ms": 244752,
-      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
-      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
+      "duration_ms": 279605,
+      "name": "Tim Anh Ghen",
+      "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -387,30 +399,18 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
       "artists": [
         {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "LVK",
-          "url": "https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
         }
       ],
-      "duration_ms": 279605,
-      "name": "Tim Anh Ghen",
-      "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
+      "duration_ms": 244752,
+      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
+      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
         "name": "Cho M\u00ecnh Em",
         "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
       },
@@ -467,6 +451,42 @@
       "duration_ms": 206400,
       "name": "Cho M\u00ecnh Em",
       "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Tr\u1edf V\u1ec1",
+      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -507,26 +527,6 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "\u0110\u1ea1t G",
-          "url": "https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/1HLesWEjgNhGaxgxefNrqZ"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -563,22 +563,22 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
       "artists": [
         {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
         },
         {
-          "name": "JustaTee",
-          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+          "name": "\u0110\u1ea1t G",
+          "url": "https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Tr\u1edf V\u1ec1",
-      "url": "https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu"
+      "duration_ms": 191208,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1HLesWEjgNhGaxgxefNrqZ"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -627,6 +627,30 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
+        "name": "TETVOVEN",
+        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        },
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "TETVOVEN",
+      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
         "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
         "url": "https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa"
       },
@@ -647,6 +671,26 @@
       "duration_ms": 210944,
       "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
       "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -687,50 +731,6 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "TETVOVEN",
-        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "TETVOVEN",
-      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "Ex's Hate Me",
-        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "Ex's Hate Me",
-      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        }
+      ],
+      "duration_ms": 190343,
+      "name": "L\u1ed1i S\u1ed1ng",
+      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
         "name": "M\u01b0a C\u1ee9 R\u01a1i",
         "url": "https://open.spotify.com/album/5943Af11IWjvJKel6tB3L8"
       },
@@ -767,6 +783,26 @@
       "duration_ms": 177333,
       "name": "M\u01b0a C\u1ee9 R\u01a1i",
       "url": "https://open.spotify.com/track/7rBaTQRsf7BHcFfvXQBSHR"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "M\u1eddi Em",
+      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -855,22 +891,22 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
       "artists": [
         {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
         },
         {
-          "name": "Mcee Blue",
-          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+          "name": "SpideyBoy",
+          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
         }
       ],
-      "duration_ms": 203687,
-      "name": "M\u1eddi Em",
-      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+      "duration_ms": 224918,
+      "name": "H\u1ed3ng kh\u00f4ng gai",
+      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -911,26 +947,6 @@
       "duration_ms": 173397,
       "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
       "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "SpideyBoy",
-          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
-        }
-      ],
-      "duration_ms": 224918,
-      "name": "H\u1ed3ng kh\u00f4ng gai",
-      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -1007,22 +1023,6 @@
       "duration_ms": 222831,
       "name": "TALAGI",
       "url": "https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        }
-      ],
-      "duration_ms": 190343,
-      "name": "L\u1ed1i S\u1ed1ng",
-      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
     },
     {
       "added_at": "2025-08-28 23:57:02",

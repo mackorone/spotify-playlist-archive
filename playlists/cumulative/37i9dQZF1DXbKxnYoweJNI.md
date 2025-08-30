@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-2,922 songs - 7 day 2 hr 36 min
+2,923 songs - 7 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -785,7 +785,6 @@
 | [Toxic](https://open.spotify.com/track/1MymaudleNE1mbuJ8c4HQW) | [Macwc張維宸](https://open.spotify.com/artist/5tD378iCF4GN8YBNtzmDb8) | [Toxic](https://open.spotify.com/album/7xdYatEfnWrR4mkXJhAeUI) | 3:21 | 2025-02-13 | 2025-02-21 |
 | [Toxic feat\. Quanzo \(Quanzo Remix\)](https://open.spotify.com/track/4aU4UIKs5i2roAWUKVwqpi) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro), [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [Toxic](https://open.spotify.com/album/6z9LHgZejziGWk7xnAPEO3) | 2:31 | 2025-05-08 | 2025-05-23 |
 | [Toxic Love](https://open.spotify.com/track/6MOPiHU3l5PIdYHz4gNtgr) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Toxic Love](https://open.spotify.com/album/5Y1UtEqzqyjRDxpTqgmK3S) | 2:09 | 2024-09-12 | 2024-10-18 |
-| [Track 2](https://open.spotify.com/track/3OwdzQWJ9jVwCDUtr0zqC2) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [《進行曲》電影主題曲](https://open.spotify.com/album/2gz0uMjALNTL7kACkbFlLp) | 0:00 | 2025-08-28 |  |
 | [Training Day](https://open.spotify.com/track/1k3TVdXf0TTFzXJmiAHB36) | [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9), [JL22](https://open.spotify.com/artist/0Ysd9RYTjO0w8rh9jpeiEV), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [Training Day](https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5) | 3:42 | 2025-01-09 | 2025-01-31 |
 | [Trainslate](https://open.spotify.com/track/3dkhRzJpCFkF53fyASugK7) | [老莫 ILL MO](https://open.spotify.com/artist/4JGm6vTwtCqjf0C3kxXx6y) | [火車晚了 Trainslate](https://open.spotify.com/album/1AOWY2kfNhPxmErGd0iMWA) | 2:03 | 2025-07-03 | 2025-07-18 |
 | [Trauma Fit](https://open.spotify.com/track/6fA4YNiLWiq7ErpTg41lzt) | [FH](https://open.spotify.com/artist/59LLTb4pILnKR8TjcX39IF), [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2) | [Trauma Fit](https://open.spotify.com/album/6lIdajMPHvgtR2sdIZzgyC) | 3:04 | 2024-12-12 | 2025-01-10 |
@@ -984,7 +983,7 @@
 | [不當最善良的人](https://open.spotify.com/track/6Zn8tJNCgZnTZmm7MNdHc4) | [田心蕾](https://open.spotify.com/artist/5o7SsYrtzadnn2jL8rGUGy) | [不當最善良的人](https://open.spotify.com/album/79Pu4dYo8DZ1jSVRR5F0GR) | 3:05 | 2025-07-10 | 2025-07-18 |
 | [不盡美好](https://open.spotify.com/track/6bNYGBtIbNZM8JwjiD3JzT) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [不盡美好](https://open.spotify.com/album/2afgZ8wuFls9cxIlUG82dz) | 4:50 | 2024-11-07 | 2024-11-29 |
 | [不禮貌運動](https://open.spotify.com/track/6fsuvqRBMP7pqJfTHbzqZ7) | [BRBP](https://open.spotify.com/artist/4cr0LDiecyD9HJt7zE58YJ) | [BRBP](https://open.spotify.com/album/2JnB3TyJHmNvoAgHNvmOHv) | 2:26 | 2025-06-12 | 2025-07-04 |
-| [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/4EHr1swZxnUxjAyCou2t4s) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 | 2025-08-28 |  |
+| [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 | 2025-08-28 |  |
 | [不能不是你](https://open.spotify.com/track/5ROXIBNxM2zyAX9FszP4zx) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [不能不是你](https://open.spotify.com/album/3N6xPgDHdaxlc1kOU3zJJ6) | 4:22 | 2024-12-05 | 2025-01-03 |
 | [不能再說曾經](https://open.spotify.com/track/4nyxV6Hr6uurZ0oiF1SUqf) | [Mango Street Papa 芒果街老爸](https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0) | [不能再說曾經](https://open.spotify.com/album/10G8ue6NZenDAeoJh65bqe) | 3:32 | 2025-05-08 | 2025-06-13 |
 | [不能沒有你](https://open.spotify.com/track/0jf5deCV5s4aE5V2oOg7hp) | [OPENsi](https://open.spotify.com/artist/55JbScEpVThYXkh1GH7vAW) | [不能沒有你](https://open.spotify.com/album/0te9oEPWuqe4NvaKGtIAs6) | 3:17 | 2025-01-09 | 2025-01-31 |
@@ -1457,6 +1456,7 @@
 | [失控的愛](https://open.spotify.com/track/69KRzmV4gfqWcQqLDITpbQ) | [Sean Ko](https://open.spotify.com/artist/7uFDWFET9kyIE71VHeLVOm), [C.Y](https://open.spotify.com/artist/2OasGr7TmpHG8pfhWztDV8) | [失控的愛](https://open.spotify.com/album/17Kbnpl14DJuTfWW0MDqV1) | 4:25 | 2024-06-27 | 2024-07-19 |
 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 | 2025-07-24 | 2025-08-22 |
 | [奇怪?](https://open.spotify.com/track/6QcltYSQBRG1pdLBhku4AO) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [下/奇怪](https://open.spotify.com/album/0hLCjDZWHS3Im3NHxo1JJP) | 3:04 | 2024-06-27 | 2024-07-19 |
+| [奔向我](https://open.spotify.com/track/58h11GE1qS1sWkqFX7pIIS) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [奔向我](https://open.spotify.com/album/40uggO5kh6ybCsclDOJMZC) | 3:56 | 2025-08-28 |  |
 | [奢侈品](https://open.spotify.com/track/12LP2MtwgwZES4Nm3WOuEb) | [黃麟堯 0yao](https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E) | [奢侈品](https://open.spotify.com/album/55MbDCG763A2iQMkbguDuz) | 3:16 | 2025-05-22 | 2025-06-13 |
 | [女人的深處](https://open.spotify.com/track/1ODNUDJAkScuFln6zWICwa) | [高真 TRU](https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3) | [女人的深處](https://open.spotify.com/album/7xz7W3UhsJ9OuZ1xNlm0F5) | 2:30 | 2024-10-03 | 2024-10-25 |
 | [女兒](https://open.spotify.com/track/1mZXaNedlJBVJJI3U2tK62) | [Celeste Syn](https://open.spotify.com/artist/5iDUKJ7OHv9qOmvxAbLnHK) | [女兒 Daughter](https://open.spotify.com/album/6VIivEi3ggHQor7dg5FH0Q) | 4:22 | 2024-09-05 | 2024-09-27 |
@@ -2490,6 +2490,7 @@
 | [胡说八道 Freestyle](https://open.spotify.com/track/4oeWDGwmQnIOfmMrFeGHKW) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth), [h.dubb](https://open.spotify.com/artist/6sNlXN8000MI4uKQkCcTIV) | [胡说八道 Freestyle](https://open.spotify.com/album/1xgPwOHJJ3R3KpwodacijH) | 2:00 | 2025-01-02 | 2025-01-24 |
 | [能不能給我一個不再愛的理由](https://open.spotify.com/track/5BuhOUKkmyPyDsTV1uqixI) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [能不能給我一個不再愛的理由](https://open.spotify.com/album/2Yco6UZqWlEjv52N92eXvD) | 4:35 | 2024-07-04 | 2024-07-27 |
 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:49 | 2024-07-04 | 2024-07-27 |
+| [脈搏](https://open.spotify.com/track/3OwdzQWJ9jVwCDUtr0zqC2) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [《進行曲》電影主題曲](https://open.spotify.com/album/2gz0uMjALNTL7kACkbFlLp) | 2:56 | 2025-08-28 |  |
 | [腰束奶凸尻川硬邦邦\(feat\. DJ 2\-CHI\)](https://open.spotify.com/track/3cxDToznXyxI2yf9tTyHzj) | [阿跨面](https://open.spotify.com/artist/26QeJhwzQ5vwSNX8wH1t0D), [DJ 2\-CHI](https://open.spotify.com/artist/0zsX58DhCsnkUKPhmRoL9y) | [聲名寒吉先生](https://open.spotify.com/album/3v5KV2Et1eZ0brXcdZABf7) | 2:11 | 2025-05-08 | 2025-05-23 |
 | [腳踏兩條船](https://open.spotify.com/track/6ygzgCuekT5uq3MYK84shE) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz) | [腳踏兩條船](https://open.spotify.com/album/1d8n9h8R3J4ovNWICfy17i) | 3:22 | 2024-07-25 | 2024-08-02 |
 | [腾空 Do It All Again](https://open.spotify.com/track/4r70SgDxZlVRQtht6RLYJR) | [M3SSIAH](https://open.spotify.com/artist/4IkEgLaTzU5Roy6zSIiH5H) | [腾空 Do It All Again](https://open.spotify.com/album/2cxeTJzG2xnRfFelnd29GZ) | 2:41 | 2024-09-12 | 2024-09-20 |

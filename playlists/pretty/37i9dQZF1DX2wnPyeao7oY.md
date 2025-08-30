@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Gore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,202 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,240 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 91 | [WIZARD](https://open.spotify.com/track/3NYRBOauoTPnhLcyRpYgOj) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WIZARD](https://open.spotify.com/album/7sxqpGAY8GEVpF7JamVppY) | 4:57 |
 | 92 | [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 |
 | 93 | [Omen](https://open.spotify.com/track/3UwyWvyNMx8egzAQvtZHRI) | [Ode Of Disgrace](https://open.spotify.com/artist/6paNyiVYTiAXv5HhAZXax1) | [Omen](https://open.spotify.com/album/5NTHkZk3N8hZYwla0llgDO) | 4:17 |
-| 94 | [554th](https://open.spotify.com/track/5DjARdbR6b4tJZFkWUI70m) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [554th](https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV) | 2:48 |
+| 94 | [554th](https://open.spotify.com/track/5DjARdbR6b4tJZFkWUI70m) | [Stain The Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [554th](https://open.spotify.com/album/6vliE8WzMTVFFgDd575shV) | 2:48 |
 | 95 | [Got Pace](https://open.spotify.com/track/6MrZqKfAofQcEwiBEhTNyJ) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf) | [Got Pace](https://open.spotify.com/album/2pN9YvEUl4FYnQww3uykmM) | 2:20 |
 | 96 | [Monster](https://open.spotify.com/track/6etjNYZWN6ZSyyNL9mT3f9) | [STELLVRIS](https://open.spotify.com/artist/3n9SWHa9CmQldmLrD9zfll) | [Monster](https://open.spotify.com/album/7q9zO7bLTSwTZqn1PwnqJf) | 4:16 |
 | 97 | [Vivid](https://open.spotify.com/track/0Cf1FfLhQOla4TziLHxmsb) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Vivid](https://open.spotify.com/album/0fFClRRuszJrzLi6BnTcuN) | 3:21 |

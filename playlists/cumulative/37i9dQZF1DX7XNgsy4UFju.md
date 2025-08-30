@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The best indie tracks of the moment\. Cover: Mac DeMarco
+> The best indie tracks of the moment\. Cover: The Beaches
 
-2,446 songs - 6 day 0 hr 8 min
+2,446 songs - 6 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1821,6 +1821,7 @@
 | [Second Nature](https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:02 | 2021-12-31 | 2022-02-05 |
 | [See the Ground](https://open.spotify.com/track/4wKgFTmvtBz3A9rybWA4q6) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Declarations of the 3am Freeway](https://open.spotify.com/album/7Cd1lfR6NxzCsHFSWCEy6Z) | 2:11 | 2023-08-18 | 2023-12-02 |
 | [Selfish](https://open.spotify.com/track/7IS25VAQf7gVKBFqqSlOYW) | [Zoe Sky Jordan](https://open.spotify.com/artist/2eA4glPCdlED6WRJreG0aS) | [Selfish](https://open.spotify.com/album/6klbUhqZOmHCPhBxP9rqdI) | 4:12 | 2023-04-28 | 2023-07-29 |
+| [Sentimental](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 4:04 | 2025-08-29 |  |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-02-19 |
 | [Set Me Free, I’m an Animal](https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Set Me Free, I'm an Animal](https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h) | 3:36 | 2024-03-01 | 2024-04-27 |
 | [Settle & Fly](https://open.spotify.com/track/1FVKdp9VPn9SFJfFwBYe14) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Settle & Fly / O\(O\)O](https://open.spotify.com/album/2pzdEKJlR2dIS6BIlp248R) | 3:16 | 2023-07-28 | 2023-10-28 |
@@ -2206,7 +2207,6 @@
 | [Touch Back Down](https://open.spotify.com/track/12E7bqGAKIVLmx0aPA0x1V) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Touch Back Down](https://open.spotify.com/album/5LfsDu8m8AKyIljMVTu0BZ) | 4:16 | 2021-12-31 | 2022-01-29 |
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-30 |  |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2023-10-21 |
-| [Track 11](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 0:00 | 2025-08-29 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-05-17 |
 | [Train Full of Gasoline](https://open.spotify.com/track/59DfLCbFpKbgwb7X3wFGDD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Train Full of Gasoline](https://open.spotify.com/album/7eWG2KYKFaGaGD17wbK22O) | 2:50 | 2024-01-05 | 2024-02-03 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-23 | 2025-08-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,934 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,950 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 3 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
 | 4 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 |
 | 5 | [Dancing Alone Again](https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Dancing Alone Again](https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C) | 3:11 |
-| 6 | [Track 2](https://open.spotify.com/track/5tuLtqxAsp5AJxjZem8cQe) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Cut The Cord](https://open.spotify.com/album/04kJ1W88t6ckCoi8xNjaTD) | 0:00 |
+| 6 | [Smile](https://open.spotify.com/track/5tuLtqxAsp5AJxjZem8cQe) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Cut The Cord](https://open.spotify.com/album/04kJ1W88t6ckCoi8xNjaTD) | 2:37 |
 | 7 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
 | 8 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |
-| 9 | [Track 6](https://open.spotify.com/track/6egwG4kX89QQjrX09gAYa8) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PSYCHO IN THE GAЯDEN \[EP\]](https://open.spotify.com/album/2VTc4BUmHhTGNL6YFiT4Vt) | 0:00 |
+| 9 | [BAPTIZED](https://open.spotify.com/track/6egwG4kX89QQjrX09gAYa8) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PSYCHO IN THE GAЯDEN \[EP\]](https://open.spotify.com/album/2VTc4BUmHhTGNL6YFiT4Vt) | 3:23 |
 | 10 | [MOTHER](https://open.spotify.com/track/6TR3ctxDFwD7B2Xwn5FpyR) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [MOTHER](https://open.spotify.com/album/3gfOzIpfrHh2e8F3BAQvu4) | 4:05 |
 | 11 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 |
 | 12 | [Lenny](https://open.spotify.com/track/5Bmlnh4mCoT7OLWh3vcGcU) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Lenny](https://open.spotify.com/album/25NZl0LnSlTqp1MLug2Rz5) | 2:31 |

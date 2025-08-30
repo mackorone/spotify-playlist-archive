@@ -3359,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202723,
+      "name": "Covet",
+      "url": "https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5"
+    },
+    {
+      "album": {
         "name": "Crawl II",
         "url": "https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k"
       },
@@ -13918,24 +13936,6 @@
       "duration_ms": 165300,
       "name": "Tortuga",
       "url": "https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK"
-    },
-    {
-      "album": {
-        "name": "Thirst",
-        "url": "https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb"
-      },
-      "artists": [
-        {
-          "name": "Slow Crush",
-          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
-        }
-      ],
-      "date_added": "2025-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5"
     },
     {
       "album": {

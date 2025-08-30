@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11211,
+  "num_followers": 11217,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAAAV8/3UoYjZ3k87kvXEKyZl",
+  "snapshot_id": "aK+cAAAAAAAjLqPmTUJKKmj2dFlLAhLq",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unheard Voice",
-        "url": "https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP"
+        "name": "A Silent Murder",
+        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Unheard Voice",
-      "url": "https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is"
+      "duration_ms": 156253,
+      "name": "A Silent Murder",
+      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Silent Murder",
-        "url": "https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx"
+        "name": "Unheard Voice",
+        "url": "https://open.spotify.com/album/3s6rlS2V8UiZJf3J4k5HkP"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 156253,
-      "name": "A Silent Murder",
-      "url": "https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf"
+      "duration_ms": 191266,
+      "name": "Unheard Voice",
+      "url": "https://open.spotify.com/track/5IqQr1AFSTL1WkDUT7Z0is"
     },
     {
       "added_at": null,

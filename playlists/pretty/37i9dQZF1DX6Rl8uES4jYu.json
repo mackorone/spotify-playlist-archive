@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238072,
+  "num_followers": 238018,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEzZe45EjgLakjri3l0VnC3L59OZ",
+  "snapshot_id": "AAAAAHPcz54LE3teCduQrlMvP/RzPuY5",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 166871,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe"
+    },
     {
       "added_at": "2025-08-22 04:00:23",
       "album": {
@@ -1783,22 +1799,6 @@
       "duration_ms": 155203,
       "name": "You Get What You See",
       "url": "https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Stuck!",
-        "url": "https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ"
-      },
-      "artists": [
-        {
-          "name": "Erez Zobary",
-          "url": "https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz"
-        }
-      ],
-      "duration_ms": 177708,
-      "name": "Stuck!",
-      "url": "https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB"
     },
     {
       "added_at": "2022-08-19 04:02:00",

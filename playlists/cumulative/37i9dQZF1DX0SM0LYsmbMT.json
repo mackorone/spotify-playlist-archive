@@ -16066,7 +16066,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 119384,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/0myKEMA3Uv9zyhXuMKB2hw"
@@ -18576,7 +18576,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 134634,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/662fR8p2f9gOiV7cOrg2Qo"
@@ -38010,7 +38010,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 129080,
       "name": "Jazzterfield 3",
       "url": "https://open.spotify.com/track/4Z6a5JQLO3yGDpECi4ovF9"
@@ -48549,6 +48549,24 @@
     },
     {
       "album": {
+        "name": "Mirrorless",
+        "url": "https://open.spotify.com/album/0ue5c8ClRc396YaUp0GB4N"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109213,
+      "name": "Mirrorless",
+      "url": "https://open.spotify.com/track/4AZs7dehioqAFsFwTPqgJV"
+    },
+    {
+      "album": {
         "name": "Miscellaneous",
         "url": "https://open.spotify.com/album/08zV9UWheKMDLzLAqi1oIJ"
       },
@@ -49804,6 +49822,28 @@
       "duration_ms": 127407,
       "name": "Moonseed",
       "url": "https://open.spotify.com/track/07byV6gYIrGnMCFePaouvY"
+    },
+    {
+      "album": {
+        "name": "Moonshine & Misunderstandings",
+        "url": "https://open.spotify.com/album/0k3xqgAlO2VrBGzZ0vmBIP"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108033,
+      "name": "Moonshine & Misunderstandings",
+      "url": "https://open.spotify.com/track/3BayNb8C1ztFS8lF8XlnUW"
     },
     {
       "album": {
@@ -55451,6 +55491,24 @@
     },
     {
       "album": {
+        "name": "Old Times",
+        "url": "https://open.spotify.com/album/3C06Q3zFmQrv0zmOX9FjzL"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Old Times",
+      "url": "https://open.spotify.com/track/095FzPkESwy17iVYGgs7na"
+    },
+    {
+      "album": {
         "name": "Street Sketches",
         "url": "https://open.spotify.com/album/27ltsgAlrg6eEZlYOC35MY"
       },
@@ -59944,6 +60002,28 @@
       "duration_ms": 111235,
       "name": "Player's Blues",
       "url": "https://open.spotify.com/track/7kULgj3no3rmEMwoIaNe3S"
+    },
+    {
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/7q234e9D1WgRln97XPBE3N"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        },
+        {
+          "name": "Steve Chops",
+          "url": "https://open.spotify.com/artist/0anIwg0PUTpK8s89GX2rH5"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/7H0SDCXhNavoDM9EIcrozN"
     },
     {
       "album": {
@@ -79634,7 +79714,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 113863,
       "name": "Thinkgood",
       "url": "https://open.spotify.com/track/7aVZjXb2mBHnzNIt8T3oyU"

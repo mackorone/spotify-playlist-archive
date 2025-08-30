@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Frans Bauer & Django Wagner
+> Wekelijkse update met Hollands en volks\. Cover: Wolter Kroes
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,902 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,919 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 81 | [Oranje](https://open.spotify.com/track/7q8fi2mP8SkGQlhfKXF2kG) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Oranje](https://open.spotify.com/album/09BgrhBaYhai0jATldhb36) | 3:06 |
 | 82 | [Taal Van De Liefde](https://open.spotify.com/track/1faubzmwlpvAyZU5MulK7C) | [Youri Sprenkels](https://open.spotify.com/artist/5ugNyYv2m6GxoPgOGwvmzR) | [Taal Van De Liefde](https://open.spotify.com/album/2MkX7Sn05uc60u99Hcmelx) | 2:31 |
 | 83 | [Serie A](https://open.spotify.com/track/7MlWIX6QHF52q3EqQX57OZ) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Serie A](https://open.spotify.com/album/5qThiEzlcLnU38iuj2A2rJ) | 2:39 |
-| 84 | [Op de Maan met Maan](https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl) | [Raffie De Driver](https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn) | [Op de Maan met Maan](https://open.spotify.com/album/6CNkkMQuPST2hO4KR2qY4v) | 3:14 |
+| 84 | [Op de Maan met Maan](https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl) | [Raffie de Driver'](https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn) | [Op de Maan met Maan](https://open.spotify.com/album/6CNkkMQuPST2hO4KR2qY4v) | 3:14 |
 | 85 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
 | 86 | [Stap In Mijn Bootje](https://open.spotify.com/track/10xHzSmXDU9GAVQxnUGKx2) | [Robin van Herwijnen](https://open.spotify.com/artist/6DSV2sKcDI7lJHmNqBTkRG) | [Stap In Mijn Bootje](https://open.spotify.com/album/2FwiuA25iO9010pEPkhbs2) | 3:01 |
 | 87 | [Sex Mannen & Geld](https://open.spotify.com/track/1mQKhMDXMDETCjR0l7dFbV) | [Jessy Arjaans](https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT) | [Sex Mannen & Geld](https://open.spotify.com/album/4L2IjcvpFPStmN56rAtRAt) | 2:22 |

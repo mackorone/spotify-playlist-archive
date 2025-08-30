@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Bhoomi, Kamakshi Khanna other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Dream Note, Tsumyoki, gini and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -206,6 +206,32 @@
       "duration_ms": 301156,
       "name": "Aadatein",
       "url": "https://open.spotify.com/track/7ENONdKSWDBaiP51GvKcSN"
+    },
+    {
+      "album": {
+        "name": "Aadha Adhoora",
+        "url": "https://open.spotify.com/album/5YWnke7xLv8imLicuEBpM5"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175362,
+      "name": "Aadha Adhoora",
+      "url": "https://open.spotify.com/track/4Nn9DFq3aybmKKp7tk9jYv"
     },
     {
       "album": {
@@ -2498,7 +2524,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 183913,
       "name": "Barbaadi",
       "url": "https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k"
@@ -4060,7 +4086,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 204800,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
@@ -4370,7 +4396,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 167000,
       "name": "Could've Been",
       "url": "https://open.spotify.com/track/3htkrQoG9nyhf8foW2dzp0"
@@ -5646,6 +5672,28 @@
       "duration_ms": 334000,
       "name": "Don't Cut Me Down",
       "url": "https://open.spotify.com/track/5cphONhhYqXTgIwfhkzvDu"
+    },
+    {
+      "album": {
+        "name": "Don't Even Text",
+        "url": "https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb"
+      },
+      "artists": [
+        {
+          "name": "Tsumyoki",
+          "url": "https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X"
+        },
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179644,
+      "name": "Don't Even Text",
+      "url": "https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv"
     },
     {
       "album": {
@@ -9473,6 +9521,32 @@
     },
     {
       "album": {
+        "name": "Jiya Laage Na",
+        "url": "https://open.spotify.com/album/2xje52JHa9JUqqsteK8QQY"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206022,
+      "name": "Jiya Laage Na",
+      "url": "https://open.spotify.com/track/65Ejv1ucmRi0nXBdZMWM0S"
+    },
+    {
+      "album": {
         "name": "Lafz",
         "url": "https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E"
       },
@@ -10636,6 +10710,32 @@
     {
       "album": {
         "name": "Keh Do Na",
+        "url": "https://open.spotify.com/album/2ZJ4ebivOziAHqnDmYcIeJ"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Keh Do Na",
+      "url": "https://open.spotify.com/track/502fmSINuoFAoSrZxtJBgq"
+    },
+    {
+      "album": {
+        "name": "Keh Do Na",
         "url": "https://open.spotify.com/album/5wgVnVCdnL1jREw2cqF2re"
       },
       "artists": [
@@ -11770,7 +11870,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 230357,
       "name": "kinaare",
       "url": "https://open.spotify.com/track/6oUfzXJGtzdjANU7Hx2FHY"
@@ -11908,7 +12008,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 178839,
       "name": "Kisse",
       "url": "https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6"
@@ -15650,7 +15750,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 198000,
       "name": "Nindiya",
       "url": "https://open.spotify.com/track/3jbyXaDbU9dhOMqEiO8FtA"
@@ -18230,7 +18330,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 188115,
       "name": "Sab Bhul Jate Hai",
       "url": "https://open.spotify.com/track/0jQ4wzZDRpqvksx9kDJbXK"
@@ -18264,6 +18364,24 @@
       "duration_ms": 184615,
       "name": "Sab Rab",
       "url": "https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ"
+    },
+    {
+      "album": {
+        "name": "Sab Sahi",
+        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sab Sahi",
+      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
     },
     {
       "album": {
@@ -21442,7 +21560,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 188830,
       "name": "Tootay",
       "url": "https://open.spotify.com/track/6liPuxu4mdKY7vNH7bEIAG"
@@ -23502,7 +23620,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 136615,
       "name": "You",
       "url": "https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r"

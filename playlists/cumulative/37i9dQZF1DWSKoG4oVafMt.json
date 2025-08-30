@@ -7803,6 +7803,24 @@
     },
     {
       "album": {
+        "name": "I ONLY HAVE YOU",
+        "url": "https://open.spotify.com/album/4suN6yBZ78S1FCEDeBfsZI"
+      },
+      "artists": [
+        {
+          "name": "Seera Buttar",
+          "url": "https://open.spotify.com/artist/4gYkupDdCRGvdDHFwQwLOr"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "I ONLY HAVE YOU",
+      "url": "https://open.spotify.com/track/6n7qxhFdMSxSMTczk2WASn"
+    },
+    {
+      "album": {
         "name": "It's a Good Life",
         "url": "https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h"
       },
@@ -21722,7 +21740,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 321510,
       "name": "Tu Dis Painda",
       "url": "https://open.spotify.com/track/5YsUDqJJA46FjqLPqD3PFW"

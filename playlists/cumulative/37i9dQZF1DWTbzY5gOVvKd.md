@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-209 songs - 14 hr 26 min
+210 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Love Forgotten By Love](https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Love Forgotten By Love](https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO) | 4:34 | 2022-02-04 | 2022-12-01 |
 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 | 2019-05-26\* |  |
 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 | 2021-04-19 |  |
+| [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 | 2025-08-29 |  |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-08-28 |  |
 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 | 2019-05-26\* |  |
 | [Make It Last](https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/18lQLYFiArp3m9sT7OZ7Dj) | 5:16 | 2019-05-26\* | 2025-07-26 |
@@ -154,7 +155,7 @@
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 2:42 | 2022-06-22 | 2024-04-19 |
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ) | 2:42 | 2019-05-26\* | 2025-08-17 |
 | [Once Again Looking For Love](https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq) | [Irma Neumüller](https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w), [Stefan Wingefors](https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4), [Bo Nygårds](https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7), [Albin Halvordsson](https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv), [Johan Löfcrantz Ramsay](https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy) | [Once Again Looking For Love](https://open.spotify.com/album/2vBgUSyNzqaIs8ZJPCpQeM) | 6:03 | 2024-01-31 | 2024-07-20 |
-| [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 | 2019-05-26\* |  |
+| [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 | 2019-05-26\* | 2025-08-30 |
 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 | 2022-06-22 | 2024-04-19 |
 | [Our Love Is Here To Stay](https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 3:29 | 2019-05-26\* |  |
 | [Our Love Is Here To Stay](https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:29 | 2022-06-22 | 2024-04-19 |

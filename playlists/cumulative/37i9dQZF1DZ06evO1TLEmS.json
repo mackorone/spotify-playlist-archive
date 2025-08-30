@@ -1835,6 +1835,32 @@
     },
     {
       "album": {
+        "name": "The Song Forlorn",
+        "url": "https://open.spotify.com/album/74eNC4a0hUjaNd1jdFENCR"
+      },
+      "artists": [
+        {
+          "name": "SunYears",
+          "url": "https://open.spotify.com/artist/2IGFUA97ITAteBRDy2kG18"
+        },
+        {
+          "name": "Peter Mor\u00e9n",
+          "url": "https://open.spotify.com/artist/4z0MZkwGvdcoQqcA47Wx4O"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435480,
+      "name": "The Song Forlorn",
+      "url": "https://open.spotify.com/track/6tv9CT6ii9F02TH9H3VKqp"
+    },
+    {
+      "album": {
         "name": "Love, Lose, Remember",
         "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },

@@ -4,7 +4,7 @@
 
 > Discover the future of Punjabi Pop!  Cover:  Josan
 
-404 songs - 18 hr 51 min
+405 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bariyan](https://open.spotify.com/track/2lglwtgQe0Q6gybJS8JgQS) | [Anu Amanat](https://open.spotify.com/artist/6wu0KRwDO88PuEEpib4pQh) | [Bariyan](https://open.spotify.com/album/6WA6FV71nckgFrbSmZCRaC) | 2:45 | 2025-02-05 | 2025-02-26 |
 | [Barrack No.9](https://open.spotify.com/track/3fzCOXW8MYU86AmUrmpOhp) | [Harman Maan](https://open.spotify.com/artist/0Buj3XxnNI60TyBY7FHbt3) | [Barrack No.9](https://open.spotify.com/album/64M6SkteZYjBY8KYqTEoxt) | 2:33 | 2025-07-30 | 2025-08-28 |
 | [BARREL](https://open.spotify.com/track/6rjyW0rSUTVwZO42QdsEbG) | [JATINDER SANDHU](https://open.spotify.com/artist/4cOSuBnGP1eqfqwk8eAnsq) | [BARREL](https://open.spotify.com/album/1g2MXouj62HSUnW3wsLDIO) | 2:12 | 2024-07-03 | 2025-01-09 |
-| [Barreltalk](https://open.spotify.com/track/71lyd06BANlNsgjCfpcz3M) | [Manav Manro](https://open.spotify.com/artist/7CgCWwrqRBiswvmo7zvz3w) | [Barreltalk](https://open.spotify.com/album/4mJOAj4C7V0GOkqYswuztv) | 2:20 | 2025-08-27 |  |
+| [Barreltalk](https://open.spotify.com/track/71lyd06BANlNsgjCfpcz3M) | [Manav Manro](https://open.spotify.com/artist/7CgCWwrqRBiswvmo7zvz3w) | [Barreltalk](https://open.spotify.com/album/4mJOAj4C7V0GOkqYswuztv) | 2:20 | 2025-08-27 | 2025-08-30 |
 | [Behind Me](https://open.spotify.com/track/1Bkg59sLembSiTFm6iKieB) | [Aftab](https://open.spotify.com/artist/0DIdN3GjBs85uHaBzamAeL) | [Behind Me](https://open.spotify.com/album/1prdHbdr4ESh9zVc8Epwb3) | 3:09 | 2024-09-25 | 2025-01-15 |
 | [Belle](https://open.spotify.com/track/0yvVlqvgnB3fuwdYjLMRp3) | [D Hans](https://open.spotify.com/artist/1RAOUJeDIypipfnlJ7LDU3) | [Belle](https://open.spotify.com/album/0syqXKnXhN44IM8P59Ir45) | 3:09 | 2024-10-02 | 2025-01-15 |
 | [Beparwah](https://open.spotify.com/track/3FtMhnUOxTf3B3QcaKAB7U) | [Hrmn Pannu](https://open.spotify.com/artist/4A9xEVbvrPZQcZ1M4ypsgk), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [Beparwah](https://open.spotify.com/album/2vsOoAV3yT1sfv2VVSXjoz) | 3:23 | 2025-04-02 | 2025-04-10 |
@@ -389,6 +389,7 @@
 | [Vajah \(feat\. Sandeep Aulakh\)](https://open.spotify.com/track/6fCcsyrtvmHZykKYFETAMq) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Honey Dhillon](https://open.spotify.com/artist/0d4qS5KvrIwi0l5OMiftsH), [Sandeep Aulakh](https://open.spotify.com/artist/3allL5EVHCpBzNZHN2JCc5) | [Those Days](https://open.spotify.com/album/7gueC5Ubn0dbz8bGBuSBnj) | 3:50 | 2024-07-03 | 2024-08-01 |
 | [Vanjara](https://open.spotify.com/track/6c3aaV7TSnCCnDAfPFwUAj) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [More Than Before](https://open.spotify.com/album/7IP5TCW1R4alX4miEBj7mT) | 2:47 | 2024-07-03 | 2024-09-05 |
 | [Venom](https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo) | [Amninder Bugga](https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Venom](https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM) | 2:22 | 2024-07-31 | 2024-09-05 |
+| [Vibe](https://open.spotify.com/track/4TwHzNmj9ztEwwGCz5aw7u) | [Sickedge](https://open.spotify.com/artist/2gDNPTkMuSiRmvjYTTfoxX) | [Vibe](https://open.spotify.com/album/2nMK7iJwhjMCSoYZjw3L17) | 2:21 | 2025-08-29 |  |
 | [Victory](https://open.spotify.com/track/7pNO4tDG13Ujd1sCVNQO8J) | [Gurwaris Sandhu](https://open.spotify.com/artist/1AlgYxdLYq9ZVUtJdPlTHY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Victory](https://open.spotify.com/album/2nLdgD2HubB4beOQkN7gmb) | 2:39 | 2025-04-23 | 2025-08-14 |
 | [Visionary](https://open.spotify.com/track/6OCMFbRCNF42DArqEY3Ewj) | [Big Scene](https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo) | [Visionary](https://open.spotify.com/album/1dfxLOqFWKKHeJZWFsbsB2) | 2:10 | 2025-07-16 | 2025-08-21 |
 | [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 | 2024-09-04 | 2024-09-12 |

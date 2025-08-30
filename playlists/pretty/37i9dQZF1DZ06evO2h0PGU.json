@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 52517,
+  "num_followers": 52527,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAAB+1R/mg1BJB068a4kToQCi",
+  "snapshot_id": "aK+cAAAAAACBKC5Be/1aqxZWO4G0uiKJ",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 245640,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4"
+      "duration_ms": 265786,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
     },
     {
       "added_at": null,
@@ -260,7 +260,7 @@
       "added_at": null,
       "album": {
         "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Cheated Hearts",
-      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
+      "duration_ms": 245640,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 265786,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/5mfA2CBzQeGiTk9wFItCsS"
+      "duration_ms": 302160,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 288546,
       "name": "Despair",
       "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 211466,
+      "name": "Shame And Fortune",
+      "url": "https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Child Presents Heroes Vol. 1",
-        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Sheena Is A Punk Rocker",
-      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 197759,
       "name": "Thirteen - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Child Presents Heroes Vol. 1",
+        "url": "https://open.spotify.com/album/3CexvRERthb6hU86Npa7e2"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "Sheena Is A Punk Rocker",
+      "url": "https://open.spotify.com/track/1OdnxNgJTn7qJHDbQyerT5"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 203746,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeah Yeah Yeahs",
-        "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 120773,
-      "name": "Art Star",
-      "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
     }
   ],
   "unique_name": "This Is Yeah Yeah Yeahs",

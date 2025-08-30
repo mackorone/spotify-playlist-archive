@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Ava Max",
-  "num_followers": 314430,
+  "num_followers": 315674,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKal6UiRc6Mig6Zw8ycVBQHzR8Ob",
+  "snapshot_id": "AAAAAI5MRP3j6zqjf/tjAdVvyUJxF6Kj",
   "tracks": [
     {
       "added_at": "2025-08-22 04:00:29",
@@ -23,6 +23,94 @@
       "duration_ms": 148932,
       "name": "Don\u2019t Click Play",
       "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/4GzuVetV8hd2PThv3yMY1M"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        },
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/55Ym4P3I3W7zteIu6DBl9N"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/5lGxKoO5OJLcV7ZgKvuv1G"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Stewpid",
+        "url": "https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Stewpid",
+      "url": "https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -65,6 +153,38 @@
       "url": "https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH"
     },
     {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "ANGEL IN THE CLUB",
+        "url": "https://open.spotify.com/album/1WCpYZEJDzMhSXVnmx4EeR"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "duration_ms": 124477,
+      "name": "ANGEL IN THE CLUB",
+      "url": "https://open.spotify.com/track/0R0ArrUWlQE64ArlNI9mcb"
+    },
+    {
       "added_at": "2025-08-22 04:00:29",
       "album": {
         "name": "Hold Me",
@@ -83,6 +203,22 @@
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/5WzTtCrxO3AdbUjpzFhUFR"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4pPCQATIQCESmDKMBItP9V"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1643,70 +1779,6 @@
     {
       "added_at": "2025-08-01 14:19:13",
       "album": {
-        "name": "Superstar (feat. Bryce Vine)",
-        "url": "https://open.spotify.com/album/4phTLgqAdR8WLQFFHI5ASz"
-      },
-      "artists": [
-        {
-          "name": "XANDRA",
-          "url": "https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Superstar (feat. Bryce Vine)",
-      "url": "https://open.spotify.com/track/0OJ8vdnWaHdjy8oTZj4NPj"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 156137,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/39TePDQqn0v1F4l6cMpqsB"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 159387,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0mhTXfQbfTOd8VGvnsTr1P"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
         "name": "Supernature MMXXV (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/6qv9tZVFJRhVsLsj7Lb5As"
       },
@@ -1747,22 +1819,6 @@
     {
       "added_at": "2025-08-01 14:19:13",
       "album": {
-        "name": "Talk To You Later",
-        "url": "https://open.spotify.com/album/6FxcMkrFUyQIA5IVwUg6CG"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 176641,
-      "name": "Talk To You Later",
-      "url": "https://open.spotify.com/track/21oI1ZMVYeXW2MFhgSjhoK"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
         "name": "Catching feelings",
         "url": "https://open.spotify.com/album/23a1PGqGITDhfPf8aWC91a"
       },
@@ -1779,50 +1835,6 @@
       "duration_ms": 225254,
       "name": "Last One",
       "url": "https://open.spotify.com/track/19poh0XywcD5wPO6YuIgXT"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Turn Up The Love",
-        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
-        }
-      ],
-      "duration_ms": 186728,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Broken Hearted (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 212276,
-      "name": "Broken Hearted (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv"
     },
     {
       "added_at": "2025-08-01 14:19:13",
@@ -1863,30 +1875,6 @@
       "duration_ms": 172928,
       "name": "3am",
       "url": "https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h"
-    },
-    {
-      "added_at": "2025-08-01 14:19:13",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
-      },
-      "artists": [
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Positions",
-      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
     },
     {
       "added_at": "2025-08-01 14:19:13",

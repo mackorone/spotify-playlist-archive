@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-866 songs - 1 day 22 hr 31 min
+867 songs - 1 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 | 2020-11-06 | 2025-07-17 |
 | [What Do We Ever Really Know?](https://open.spotify.com/track/7m6QGbLybyZYLZLeShQA5u) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Sideways](https://open.spotify.com/album/7FxOERsHarglNCX0fp88qP) | 3:53 | 2025-08-27 |  |
 | [What I Need](https://open.spotify.com/track/0qyfYXjepbunLl3yXA1oVK) | [Obseen](https://open.spotify.com/artist/0Etiec11R22uUoMaI0hEDR) | [What I Need](https://open.spotify.com/album/0pDFiloNRZ5OMBXLxqTioy) | 3:12 | 2021-10-07 | 2025-08-27 |
+| [What If](https://open.spotify.com/track/2iC0K8SPDsTdn3Eym2AbBy) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [What If](https://open.spotify.com/album/0WQx011sC3y9kTImIPtaIW) | 3:51 | 2025-08-29 |  |
 | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/track/1tpsVMxfqMYGoHGUoFtzNb) | [Rory Noble](https://open.spotify.com/artist/1iuPOeEcwxvQsjw7UTsvfV), [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [What If I Can't \(feat\. Mikey Dam\)](https://open.spotify.com/album/0ZVkE2kVAzLZYhr5L2oKWV) | 2:36 | 2022-02-04 | 2025-08-27 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2020-02-18 | 2021-05-12 |
 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 | 2023-05-05 | 2025-08-27 |

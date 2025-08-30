@@ -2,9 +2,9 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Carín León
+> Country music with a Latin flair\. Cover: Carín León and Kacey Musgraves
 
-200 songs - 10 hr 59 min
+203 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lighters](https://open.spotify.com/track/3LzYPwXiaFbqR205cqMvUY) | [Angel Edwards](https://open.spotify.com/artist/5aTxliDWUENg3Gv9UeAkPu) | [Lighters](https://open.spotify.com/album/1Vld8ReQcvI45bkoQxL1cu) | 3:25 | 2021-12-10 | 2024-04-10 |
 | [Little Obsessed](https://open.spotify.com/track/2ZtgCMvuLICClTCq5UogMu) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Little Obsessed](https://open.spotify.com/album/2lG5vFafefPqL3g8UNNTVi) | 3:50 | 2021-12-10 | 2023-04-22 |
 | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/track/6pNeLrBdPEkUG3f1jbrMG9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Lost in the Middle of Nowhere \(feat\. Becky G\) \(Spanish Remix\)](https://open.spotify.com/album/6UheMHszVb1bG2O5AB7lkI) | 3:09 | 2021-12-10 |  |
+| [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 | 2025-08-29 |  |
 | [Love Like This \(En Vivo\)](https://open.spotify.com/track/2kBfjUDQOmboQUOykPhaZg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/0JuvcIJT6XRYurUSUOT4FC) | 3:38 | 2024-04-12 | 2024-04-19 |
 | [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 | 2023-09-29 |  |
 | [LOW ROAD \- SPANISH VERSION](https://open.spotify.com/track/0Gk6S8LHNwCj9mUOZVryYD) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALTERNATE VERSIONS](https://open.spotify.com/album/0GnbxvjgEGZ8cbWkmjHIbE) | 2:57 | 2025-04-25 |  |
@@ -131,7 +132,7 @@
 | [Morenita](https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0) | [Teo & Diego](https://open.spotify.com/artist/299l7hHRNKCmeRGmGiSCjQ) | [Morenita](https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN) | 3:10 | 2021-12-10 |  |
 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 | 2021-12-10 | 2022-09-03 |
 | [Mountains](https://open.spotify.com/track/0YrVuZbN2BmMjXYdyUQo4k) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Mountains](https://open.spotify.com/album/7n1yMlzN1ciH8dEsWFYmmZ) | 3:15 | 2022-05-13 | 2024-04-10 |
-| [Moves Like Mexico](https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Moves Like Mexico](https://open.spotify.com/album/6izPcQeJPv06E1yqnl824M) | 3:12 | 2025-04-18 |  |
+| [Moves Like Mexico](https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Moves Like Mexico](https://open.spotify.com/album/6izPcQeJPv06E1yqnl824M) | 3:12 | 2025-04-18 | 2025-08-30 |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-10 | 2024-04-10 |
 | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/album/4E1SCECKwmYJp3to4EMCzl) | 3:12 | 2022-05-20 | 2024-04-10 |
 | [Nada Nos Detiene](https://open.spotify.com/track/7b05BeveEYIUsp8Av8vtdR) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Nada Nos Detiene](https://open.spotify.com/album/3XZIrgnYU3XnKZKZhuMkCm) | 3:21 | 2024-11-01 |  |
@@ -173,6 +174,7 @@
 | [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 | 2024-09-13 |  |
 | [Streetlights](https://open.spotify.com/track/1jt3qpuuzQaO1XrUzuV1QW) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:09 | 2023-09-29 | 2024-04-10 |
 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 | 2021-12-10 | 2023-11-03 |
+| [Supermujer](https://open.spotify.com/track/13qhmkQ2boDrdEJ4gxZI0E) | [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Supermujer](https://open.spotify.com/album/2hW3QVn9T8zPzW3TV2Orow) | 3:48 | 2025-08-29 |  |
 | [take my phone.](https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [take my phone.](https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ) | 2:31 | 2021-12-10 | 2022-08-27 |
 | [Tears Of Gold](https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Tears Of Gold](https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD) | 2:56 | 2021-12-10 |  |
 | [Tennessee Whiskey \- Spanglish](https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 3:34 | 2023-12-15 | 2023-12-23 |
@@ -197,6 +199,7 @@
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2024-04-10 |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 | 2024-04-10 |
 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 | 2021-12-10 |  |
+| [Vuelvo A Nacer](https://open.spotify.com/track/20r7fLz8xh1Pl0CwHpdRbL) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Vuelvo A Nacer](https://open.spotify.com/album/6v42ufvJvy7cmDuEAkDC0i) | 2:37 | 2025-08-29 |  |
 | [Wasting Your Words](https://open.spotify.com/track/5fWDR48LVsc9YKrA9l3YhV) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/2baf9NLrekhUeG7gz9PIQ8) | 3:10 | 2023-07-07 | 2023-11-04 |
 | [Wasting Your Words](https://open.spotify.com/track/6U50h1KkrYa6UQhRsjitpu) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:10 | 2023-09-29 | 2024-04-19 |
 | [Whiskey and Tequila](https://open.spotify.com/track/7rJCLLO5ukvTRQxjpmDvOd) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 3:35 | 2024-06-17 |  |

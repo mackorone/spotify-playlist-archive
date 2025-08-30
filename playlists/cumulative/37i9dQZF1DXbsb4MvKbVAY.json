@@ -3031,6 +3031,32 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217498,
+      "name": "Brother (with Post Malone & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp"
+    },
+    {
+      "album": {
         "name": "Bruce Wayne",
         "url": "https://open.spotify.com/album/6FyOAKp8oyrpe5wchMf9Jr"
       },
@@ -4632,6 +4658,24 @@
       "duration_ms": 195859,
       "name": "DELUSIONAL",
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
+    {
+      "album": {
+        "name": "The Voices Are Coming Back",
+        "url": "https://open.spotify.com/album/32NlaUNMyhDmt4tb9LNexc"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Delusional On Sunset Blvd",
+      "url": "https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39"
     },
     {
       "album": {
@@ -16974,7 +17018,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197160,
       "name": "Momma Song",
       "url": "https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5"
@@ -17431,7 +17475,7 @@
     },
     {
       "album": {
-        "name": "Mun maailma",
+        "name": "Mun Maailma",
         "url": "https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj"
       },
       "artists": [
@@ -17448,7 +17492,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158042,
-      "name": "Mun maailma",
+      "name": "Mun Maailma",
       "url": "https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8"
     },
     {
@@ -26433,24 +26477,6 @@
     },
     {
       "album": {
-        "name": "The Voices Are Coming Back",
-        "url": "https://open.spotify.com/album/32NlaUNMyhDmt4tb9LNexc"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "date_added": "2025-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39"
-    },
-    {
-      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -30022,7 +30048,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"

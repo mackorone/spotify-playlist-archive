@@ -2,9 +2,9 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> Sadturs, KIID, Flaco G e Lubi in cover della playlist con il futuro del rap italiano 📈
+> 2Rari in cover della playlist con il futuro del rap italiano 📈
 
-1,973 songs - 3 day 11 hr 52 min
+1,974 songs - 3 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [BOLLICINE](https://open.spotify.com/track/0u5Fq7L4EUP09OjjwlQAYc) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [BOLLICINE](https://open.spotify.com/album/4TdlUtBoaqkJ9MJcFtd7Tp) | 2:00 | 2025-01-23 | 2025-02-19 |
 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 | 2025-03-27 | 2025-05-16 |
 | [BONAZZO](https://open.spotify.com/track/7hbsPe6bEYmmkicxJ5HOCZ) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [BONAZZO](https://open.spotify.com/album/1uIDksgNalSBGnKsZOm2HP) | 2:10 | 2024-06-13 | 2024-06-26 |
-| [Boogie Woogie](https://open.spotify.com/track/6L61wR8tqb2Y3Xcr3HY5DS) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ANDROGINO \(Deluxe\)](https://open.spotify.com/album/5lwDT8qhYUuGUSGZLn72gj) | 2:28 | 2025-08-07 |  |
+| [Boogie Woogie](https://open.spotify.com/track/6L61wR8tqb2Y3Xcr3HY5DS) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ANDROGINO \(Deluxe\)](https://open.spotify.com/album/5lwDT8qhYUuGUSGZLn72gj) | 2:28 | 2025-08-07 | 2025-08-30 |
 | [BOOK BOOK \(feat\. 18K\)](https://open.spotify.com/track/3a6BHquceaZbGd7ekM6gzm) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [BOOK BOOK \(feat\. 18K\)](https://open.spotify.com/album/2Z0kx5ZUak6qEIds2gdwqb) | 3:11 | 2024-03-28 | 2024-04-19 |
 | [Boom Shakalaka](https://open.spotify.com/track/1Je1xW6Yt9Sh6rekur7sLm) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Boom Shakalaka](https://open.spotify.com/album/5jgWuqSEzf0LzWz7z4m44i) | 1:36 | 2023-10-02 | 2023-10-20 |
 | [Borse Celine](https://open.spotify.com/track/0KaovTt3gPJDsbV9YXlqIc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [ANDROGINO](https://open.spotify.com/album/6AJBVUoOUZ4aZwUx4X1Mq9) | 2:47 | 2025-06-05 | 2025-06-27 |
@@ -1803,6 +1803,7 @@
 | [Top Boy \(feat\. Skugnizz, Bl3dem\)](https://open.spotify.com/track/4MxKaVHRGSCTgiFxAuA6iy) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Skugnizz](https://open.spotify.com/artist/2JdjbtVckoqADquM30hdSc), [Bl3dem](https://open.spotify.com/artist/5b9VtaD7uwViASOs11FquB), [Zerooo](https://open.spotify.com/artist/7hvwCZtd6F6ldjyJUuJwsP) | [ALLA PARI](https://open.spotify.com/album/7uEY9s4N093XqxZgfaw8RJ) | 2:04 | 2025-02-20 | 2025-03-28 |
 | [TOP G \(feat\. Sacky\)](https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:40 | 2023-07-20 | 2023-10-20 |
 | [TOP GUN](https://open.spotify.com/track/67hW8Vfynr74S3NqWIlg9Z) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [TOP GUN](https://open.spotify.com/album/5X3sQZCpuVOEGJglQhrOi4) | 2:23 | 2025-04-10 | 2025-05-16 |
+| [TOP PLAYER](https://open.spotify.com/track/0CSgonP6XiecNZf50jecwM) | [The Luxe](https://open.spotify.com/artist/3zhhnmtw4IO0PsXlzLbuLd) | [TOP PLAYER](https://open.spotify.com/album/2qESaiTWDAfjlA4iDF2tdp) | 2:09 | 2025-08-29 |  |
 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [TOPI NELLE TRAPPOLE FREESTYLE](https://open.spotify.com/track/44e1s8gNmlCxQ1KoNhVM1h) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [TOPI NELLE TRAPPOLE FREESTYLE](https://open.spotify.com/album/1Sum5H06Jpu2PpsiNgwETV) | 1:38 | 2024-07-26 | 2024-08-07 |
 | [Tornano Sempre](https://open.spotify.com/track/1VQC3feSg3z11Is8fY1CGL) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8), [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg) | [Tornano Sempre](https://open.spotify.com/album/78YOEzJ8O4Hs3G66Legtdj) | 1:48 | 2025-04-17 | 2025-05-09 |

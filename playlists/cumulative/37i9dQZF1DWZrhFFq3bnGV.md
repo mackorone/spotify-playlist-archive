@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
 
-257 songs - 18 hr 0 min
+260 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blue](https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Blue](https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU) | 6:46 | 2023-09-29 | 2023-11-08 |
 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 | 2023-11-03 | 2024-01-26 |
 | [Books Of Life](https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i) | [Tarasinta](https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL) | [Books Of Life](https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG) | 3:46 | 2024-11-07 |  |
+| [Bualan Masa Lalu](https://open.spotify.com/track/13eMiyEYAwm5MwOY4juQRA) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Bualan Masa Lalu](https://open.spotify.com/album/76GD5l3RTTpHKEC7eSBxKX) | 3:09 | 2025-08-28 |  |
 | [Burungkaka Tua](https://open.spotify.com/track/1ZjQYu0Pcc0lw6thWyzbGv) | [Tony Scott](https://open.spotify.com/artist/3wtfcI8iPGKBmnalt0013v) | [Djanger Bali \(2023 Remaster\)](https://open.spotify.com/album/7bMEHAHVHc6hxfLEWnWTqb) | 5:22 | 2024-11-15 |  |
 | [Can Good Things Last Forever?](https://open.spotify.com/track/6MWw5eGSjfkNLmGTmMqTPn) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Can Good Things Last Forever?](https://open.spotify.com/album/73536AVZgGnJQOCrfgCuve) | 5:22 | 2023-03-03 | 2025-07-18 |
 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 | 2024-08-15 |  |
@@ -138,6 +139,7 @@
 | [Jhung Kejhungan 1](https://open.spotify.com/track/6xKSXsCq7DIzUava8uyRji) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Jhung Kejhungan](https://open.spotify.com/album/5HQ2rql6yz9IF297y9ZB6O) | 4:42 | 2022-12-22 | 2023-08-18 |
 | [Joni Indo](https://open.spotify.com/track/7yb4Tmncgrdz4EHTQNXpvu) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Joni Indo](https://open.spotify.com/album/06xMum9P424YVJqSIAyD9D) | 4:45 | 2023-03-24 | 2024-11-16 |
 | [Kala Itu](https://open.spotify.com/track/7HO2RmmmIZgZHiRJPzpguJ) | [Indro Hardjodikoro](https://open.spotify.com/artist/2HLQzDOWlVpNfizh2uEA3b), [Sruti Respati](https://open.spotify.com/artist/6vWqh5xpzX5QfyqoQFwcRH) | [Kala Itu](https://open.spotify.com/album/1AqGHk7kTIRkCCWhMId4KL) | 3:52 | 2023-05-25 |  |
+| [Kamu Ya Cuma Kamu \(feat\. Ronald Steven\)](https://open.spotify.com/track/20fUdYvfgiqCRVnsN7v1jF) | [Modulus](https://open.spotify.com/artist/1yWOvzIzbIfqoLHMADczPa), [Ronald Steven](https://open.spotify.com/artist/7o6Q5G9jROYTQB65ztunpJ) | [Kamu Ya Cuma Kamu \(feat\. Ronald Steven\)](https://open.spotify.com/album/2d0ECbFXsm49tYsmVqZzuu) | 4:04 | 2025-08-28 |  |
 | [Kanaya Tidore](https://open.spotify.com/track/7fzNvMZUf36MlIBTnSGrUg) | [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Rembah Pribumi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Z2Yhg12LYvI1rW6v48jJM) | 3:29 | 2023-03-03 | 2023-06-09 |
 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 | 2024-02-22 |  |
 | [Kejar Terus](https://open.spotify.com/track/7LR3VRJQIWtuHs5kVkjVk5) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy) | [Teras Dan Angin Malam](https://open.spotify.com/album/0zUzJIuniSzSPmwEwNweUp) | 3:23 | 2023-08-18 |  |
@@ -239,6 +241,7 @@
 | [Sugih Ati](https://open.spotify.com/track/1Y4h8HfM10JbnhRTr8ulya) | [Roedyanto Wasito](https://open.spotify.com/artist/13KFAfMuFued1c8io9PVwm), [Callista Sss](https://open.spotify.com/artist/3UlJcmxkORoWmpzNWmUErJ) | [Sugih Ati](https://open.spotify.com/album/7arb9Zg73hxx6YVA2CXuqa) | 2:44 | 2023-03-03 | 2023-08-25 |
 | [Sunset](https://open.spotify.com/track/51OGFJwTPrfY4CMWX8plAh) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK) | [Sunset](https://open.spotify.com/album/0x2ihg2RFYa7ESUnJzEdcq) | 3:52 | 2023-07-13 | 2025-05-09 |
 | [Suntatonic](https://open.spotify.com/track/4DswJxoBlUV0nWLvA16x0o) | [Yonathan Godjali](https://open.spotify.com/artist/6hHVsNtWJ9ox5bOkL02UyX) | [Suntatonic](https://open.spotify.com/album/7DLzTbD9cEldnceLy7JFjn) | 3:35 | 2023-02-24 | 2023-03-03 |
+| [Surely, Someday](https://open.spotify.com/track/2625LexPJq6aaoOst2MlLn) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [Surely, Someday](https://open.spotify.com/album/6XVuC9UFqGu19tlzI4ITTW) | 2:26 | 2025-08-29 |  |
 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 | 2024-04-19 |
 | [Swarna Jingga](https://open.spotify.com/track/4wLAbniSEi6S0SFn1bNo7l) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Swarna Jingga](https://open.spotify.com/album/3ROsWUDFyKPhZi3C06s219) | 6:51 | 2022-09-22 | 2022-11-13 |
 | [Swarna Jingga](https://open.spotify.com/track/0J7GpXSdG2U6WNvyT8vnYj) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weckl](https://open.spotify.com/artist/5Oa5VCcY0RBBSz7AGgDkOr), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/1DhDO5lZznfjIqmZdZfMCi) | 6:51 | 2024-04-18 | 2024-08-02 |

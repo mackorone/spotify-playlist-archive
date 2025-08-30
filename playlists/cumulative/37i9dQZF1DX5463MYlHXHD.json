@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Vieja escuela y de ahora \ud83d\udcf8 La Repandilla & Sound De Barrio.",
+  "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
   "name": "Cumbia villera",
   "tracks": [
     {
@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Como Olvidarme",
+        "url": "https://open.spotify.com/album/75ZDHXBKM7LVGNO0JECb5e"
+      },
+      "artists": [
+        {
+          "name": "Para Los Pibes",
+          "url": "https://open.spotify.com/artist/4C6V4K1am53xpAM08IVeT4"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233452,
+      "name": "Como Olvidarme",
+      "url": "https://open.spotify.com/track/22S3U0nK2eH1XmskP8oL18"
+    },
+    {
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
       },
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 137500,
       "name": "DJ ALEX, EL NOBA - TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 190200,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "MIX DE FRUTAS",
+        "url": "https://open.spotify.com/album/6WIIOaeytSBHGH0xtQWoXP"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NO, MANZANA",
+      "url": "https://open.spotify.com/track/45CZCIVIOAoZ4lbCDDYrpk"
+    },
+    {
+      "album": {
         "name": "Noche Triste",
         "url": "https://open.spotify.com/album/6wZh1jOC2cV3UE7HPJb6br"
       },
@@ -5174,6 +5210,28 @@
       "duration_ms": 198475,
       "name": "Que Exploten Los Parlantes",
       "url": "https://open.spotify.com/track/2wVtZaTLaxO6ybkkdfSrvV"
+    },
+    {
+      "album": {
+        "name": "Que Siga la Cumbia (Remix)",
+        "url": "https://open.spotify.com/album/04qxDOCSU86j8a4RL5lSAB"
+      },
+      "artists": [
+        {
+          "name": "Pelu Rampin",
+          "url": "https://open.spotify.com/artist/45TJQimYCsJJpu7DgPa4yB"
+        },
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Que Siga la Cumbia - Remix",
+      "url": "https://open.spotify.com/track/0q2bmLw6R8mtzhmJOi4kBu"
     },
     {
       "album": {
@@ -6898,7 +6956,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 187105,
       "name": "Voy a Cambiar Mi Celular",
       "url": "https://open.spotify.com/track/26MO6j86GJyRXI6G8tWZwS"

@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Summer Walker, Drake and more
+> With Sonder, Summer Walker, Jhené Aiko and more
 
 683 songs - 1 day 14 hr 46 min
 

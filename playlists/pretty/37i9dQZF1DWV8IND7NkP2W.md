@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,442 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,418 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 |
 | 100 | [Come Check](https://open.spotify.com/track/36Dswj5u2J8eNiwTI3JILf) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Come Check](https://open.spotify.com/album/1gV3dWkfZ5Zz5ZLP4g3DrJ) | 2:26 |
 
-Snapshot ID: `AAAAAAkd0RdPyEQ7bHDS4PgDceIKalj9`
+Snapshot ID: `AAAAAAdaOeSoUA0smMZoF4+U6lAqUmiF`

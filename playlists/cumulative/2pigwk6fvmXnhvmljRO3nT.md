@@ -4,7 +4,7 @@
 
 > 
 
-7,661 songs - 19 day 18 hr 37 min
+7,662 songs - 19 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3283,6 +3283,7 @@
 | [Lay Me Down](https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 4:13 | 2025-01-15 |  |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/5KW5AYiCyi5auXXZR2cvxM) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 3:22 | 2025-01-03 |  |
 | [LAY YOUR HANDS ON ME \(2017\)](https://open.spotify.com/track/1PN0dCTvqj8RwrdvahybC8) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [19972016 \-20082016\-](https://open.spotify.com/album/4kY0rQLtJq1NgO4EtqdXTJ) | 6:12 | 2024-12-10 |  |
+| [LAY YOUR HANDS ON ME \(2017\)](https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [19972016 \-20082016\-](https://open.spotify.com/album/2k9f4qBmEx1GgY4I3XT42r) | 6:12 | 2025-08-29 |  |
 | [Lay\_Up.m4a](https://open.spotify.com/track/1HqoCOBHlnI9Snfk36jiTZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 1:45 | 2025-01-03 |  |
 | [Layer Cake](https://open.spotify.com/track/7vesPWhf18t0QjKZpGlw00) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:27 | 2025-01-18 |  |
 | [Lazenca, Save Us](https://open.spotify.com/track/1KSPiLN0TgsUgRQ0fXaBNB) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [N.E.X.T Shin Hae Chul Reboot Yourself](https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps) | 5:08 | 2025-01-15 |  |

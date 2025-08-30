@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: MonoNeon",
+  "description": "The best of today's funk. Cover: TWRP",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -1304,6 +1304,32 @@
       "duration_ms": 175250,
       "name": "Business",
       "url": "https://open.spotify.com/track/02hKpGoEiktnpLqB4CpPf5"
+    },
+    {
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/6pHHtfhgLxsGbBA8XzktfS"
+      },
+      "artists": [
+        {
+          "name": "fuseo",
+          "url": "https://open.spotify.com/artist/3EZXLhrrovkLwDCaIKczLW"
+        },
+        {
+          "name": "Jon Klaasen",
+          "url": "https://open.spotify.com/artist/3V3pZ3KWwGaHnuEgl8BUV4"
+        },
+        {
+          "name": "heavytones",
+          "url": "https://open.spotify.com/artist/6mZjidOcc7ROFL6ywkQmI5"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/4w8ATXCpeWhoHbtnN9cnBt"
     },
     {
       "album": {
@@ -4722,7 +4748,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197001,
       "name": "JELLY",
       "url": "https://open.spotify.com/track/4GSYsEcIHfmdVdglO8PY9j"
@@ -6159,6 +6185,24 @@
     },
     {
       "album": {
+        "name": "My Big Day Off",
+        "url": "https://open.spotify.com/album/3wfcoCMznCp2ucwpVhHD51"
+      },
+      "artists": [
+        {
+          "name": "TWRP",
+          "url": "https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188337,
+      "name": "My Big Day Off",
+      "url": "https://open.spotify.com/track/6natNsxOUP1d2LRzT7psRh"
+    },
+    {
+      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/1muD8cnFzYX594Irtz0aBh"
       },
@@ -6678,7 +6722,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 254763,
       "name": "Online",
       "url": "https://open.spotify.com/track/69NC8FNTlg78LJG4tTk0eI"

@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Josiah Queen
+> The best mix of today's Christian music, all genres, worldwide\. Cover: Naomi Raine
 
 1,182 songs - 3 day 8 hr 20 min
 

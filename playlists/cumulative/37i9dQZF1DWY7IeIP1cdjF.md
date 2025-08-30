@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from J Balvin & Jay Wheeler, KAROL G & Feid, Bad Bunny, and more\. 🔥🍑
+> Reggaeton hits from Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, Feid and more\. 🔥🍑
 
 654 songs - 1 day 11 hr 56 min
 

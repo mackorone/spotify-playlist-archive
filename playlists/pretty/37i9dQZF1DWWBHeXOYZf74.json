@@ -1,13 +1,153 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Nourished by Time",
-  "num_followers": 1335611,
+  "description": "Genre-less. Quality first always. Cover: Earl Sweatshirt",
+  "num_followers": 1335580,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiZL2jVfhCdtgjeBBqzKR+Z9yY2",
+  "snapshot_id": "AAAAAOZ4H2VTic2kLrtDL4HxId6LAUOc",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 169294,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 120891,
+      "name": "Gamma (need the <3)",
+      "url": "https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Lick The Lens \u2013 Pt.1",
+        "url": "https://open.spotify.com/album/6MLL5vClk79Yhned782Crg"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        },
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 227107,
+      "name": "LOVE & POP",
+      "url": "https://open.spotify.com/track/657y4ybpQX9jyGLRKgNalz"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "I WANT YOU",
+        "url": "https://open.spotify.com/album/69t9cbydMUueDewAi2em9C"
+      },
+      "artists": [
+        {
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        }
+      ],
+      "duration_ms": 217140,
+      "name": "I WANT YOU",
+      "url": "https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 220167,
+      "name": "Fineshyt",
+      "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "my friend",
+        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Sector 202",
+          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
+        }
+      ],
+      "duration_ms": 244404,
+      "name": "my friend",
+      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "The Passionate Ones",
+        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Automatic Love",
+      "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
+    },
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
@@ -27,22 +167,6 @@
     {
       "added_at": "2025-08-22 04:00:32",
       "album": {
-        "name": "The Passionate Ones",
-        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
-      },
-      "artists": [
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Automatic Love",
-      "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
-    },
-    {
-      "added_at": "2025-08-22 04:00:32",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/7FOKBbAwlPCIwsSz6EKwIR"
       },
@@ -57,20 +181,20 @@
       "url": "https://open.spotify.com/track/7JWB5SERTCpz9IJCau2C9R"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
+      "added_at": "2025-08-29 04:00:41",
       "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4"
     },
     {
       "added_at": "2025-08-22 04:00:32",
@@ -89,20 +213,68 @@
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
+      "added_at": "2025-08-29 04:00:41",
       "album": {
-        "name": "BLACK STAR",
-        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 220167,
-      "name": "Fineshyt",
-      "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
+      "duration_ms": 173999,
+      "name": "TOURMALINE",
+      "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "USA Baby",
+        "url": "https://open.spotify.com/album/78IlsjAG2OP6vpEBJB5ti1"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "USA Baby",
+      "url": "https://open.spotify.com/track/29hQhpxNbzf4IDjODEZKko"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "caf\u00e9 LIFE",
+        "url": "https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amara",
+          "url": "https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9"
+        }
+      ],
+      "duration_ms": 172425,
+      "name": "Don't Let This Feeling",
+      "url": "https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/06YmDXLSHitod7weK09KGO"
+      },
+      "artists": [
+        {
+          "name": "Haich Ber Na",
+          "url": "https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd"
+        }
+      ],
+      "duration_ms": 209530,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3gsfYvtbR1R2ojiUzkYowD"
     },
     {
       "added_at": "2025-08-22 22:50:37",
@@ -119,6 +291,78 @@
       "duration_ms": 191278,
       "name": "stupid prizes",
       "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Always Were",
+        "url": "https://open.spotify.com/album/1ySX3mzn9jz0DwFiZbZRrS"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/7fjoel7utPIKFkTZrdzeY1"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Expensive (feat. Planet Giza)",
+        "url": "https://open.spotify.com/album/7AVWpMUm7S90epgsLLbB86"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Expensive (feat. Planet Giza)",
+      "url": "https://open.spotify.com/track/2A0puPvjP7To5dQuI84QJK"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 209931,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/0TR79tPMeiaDRxnSjvKYh3"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "added_at": "2025-08-22 04:00:32",
@@ -147,6 +391,26 @@
       "duration_ms": 294442,
       "name": "Waited All Night - Solomun Remix v11",
       "url": "https://open.spotify.com/track/4L1aEaKu4CBMFjiXsWn8Hw"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "My Room (90HD)",
+        "url": "https://open.spotify.com/album/4NJHEHmFZmenw16RpncscE"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        }
+      ],
+      "duration_ms": 143704,
+      "name": "My Room (90HD)",
+      "url": "https://open.spotify.com/track/5DZHmx01Pt2LbNmkop8B0V"
     },
     {
       "added_at": "2025-08-22 04:00:32",
@@ -921,6 +1185,22 @@
       "url": "https://open.spotify.com/track/74XIK4w35FhBxTfkZ8dKd6"
     },
     {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/1LnPcJKDDw0J9jYX1SX9dg"
+      },
+      "artists": [
+        {
+          "name": "Puffie",
+          "url": "https://open.spotify.com/artist/20hIEDS29GBxsvYWa6pr18"
+        }
+      ],
+      "duration_ms": 341910,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/6zRWbaaNPxaWQvHFck1n6z"
+    },
+    {
       "added_at": "2025-07-09 04:21:00",
       "album": {
         "name": "Cinema Sound System",
@@ -1187,38 +1467,6 @@
       "duration_ms": 219749,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
-    },
-    {
-      "added_at": "2025-06-26 18:43:22",
-      "album": {
-        "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
-        "url": "https://open.spotify.com/album/1ui8ZfiEmEZSGB2K4OPNYc"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        },
-        {
-          "name": "Tariq Al-Sabir",
-          "url": "https://open.spotify.com/artist/6EScxZAPeNmf1U8TB4Hk2h"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "The Durutti Column",
-          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
-        }
-      ],
-      "duration_ms": 199256,
-      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
-      "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
     },
     {
       "added_at": "2025-07-11 04:00:31",
@@ -1489,22 +1737,6 @@
       "url": "https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt"
     },
     {
-      "added_at": "2025-07-04 04:00:33",
-      "album": {
-        "name": "hopecore",
-        "url": "https://open.spotify.com/album/1yA6rs0gGiQcBOurGzpT9m"
-      },
-      "artists": [
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "skydog",
-      "url": "https://open.spotify.com/track/52KyVdUCB5zqrLIO1M5tZi"
-    },
-    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "Into Dust (Still Falling)",
@@ -1593,22 +1825,6 @@
       "url": "https://open.spotify.com/track/6A65Ym6B8M1mWEz14cdNRi"
     },
     {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/1LnPcJKDDw0J9jYX1SX9dg"
-      },
-      "artists": [
-        {
-          "name": "Puffie",
-          "url": "https://open.spotify.com/artist/20hIEDS29GBxsvYWa6pr18"
-        }
-      ],
-      "duration_ms": 341910,
-      "name": "Stay Together",
-      "url": "https://open.spotify.com/track/6zRWbaaNPxaWQvHFck1n6z"
-    },
-    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "9 2 5",
@@ -1655,26 +1871,6 @@
       "duration_ms": 253790,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/5M3GUDCTtbmiNPWBfwqhj8"
-    },
-    {
-      "added_at": "2025-07-04 04:00:33",
-      "album": {
-        "name": "ONDATONDA",
-        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        },
-        {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
-        }
-      ],
-      "duration_ms": 211125,
-      "name": "Ondatonda",
-      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
     },
     {
       "added_at": "2025-06-27 04:00:47",
@@ -2395,26 +2591,6 @@
       "duration_ms": 211760,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/0oKyqh7SO6YSUQwfl970ut"
-    },
-    {
-      "added_at": "2025-05-09 04:00:10",
-      "album": {
-        "name": "I Like It I Like It",
-        "url": "https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "I Like It I Like It",
-      "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
     },
     {
       "added_at": "2025-05-02 04:00:40",

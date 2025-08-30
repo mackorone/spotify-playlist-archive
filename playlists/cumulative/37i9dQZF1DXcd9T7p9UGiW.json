@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Gunna",
+  "description": "Catching flights and going global. Cover: Gyakie",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -1793,6 +1793,28 @@
     },
     {
       "album": {
+        "name": "Birthday Riddim",
+        "url": "https://open.spotify.com/album/6gPI4IdA1PkX1Fa3dxqAMZ"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237983,
+      "name": "Birthday Riddim",
+      "url": "https://open.spotify.com/track/2JSMbPFAPRqBXCRQ9tog41"
+    },
+    {
+      "album": {
         "name": "Zulu Man With Some Power",
         "url": "https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi"
       },
@@ -2422,7 +2444,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 146840,
       "name": "Call Me Every Day (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
@@ -3200,6 +3222,36 @@
       "duration_ms": 222500,
       "name": "Compare",
       "url": "https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ"
+    },
+    {
+      "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4mtCi5FyTsnqjm67RWqZQG"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "ZJ Dymond",
+          "url": "https://open.spotify.com/artist/213Pyq3nlIwC3sI7n1HBbq"
+        },
+        {
+          "name": "JahBoy",
+          "url": "https://open.spotify.com/artist/3XJ9MyxzruOLw3srLA0J7F"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170291,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/5klDh47zTCCIlq8Rp4P9t2"
     },
     {
       "album": {
@@ -14652,7 +14704,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"

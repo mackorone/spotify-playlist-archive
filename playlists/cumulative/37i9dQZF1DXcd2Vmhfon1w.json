@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Buona Sera",
+        "url": "https://open.spotify.com/album/7aPB0J93G2XYDm6YByWm1Y"
+      },
+      "artists": [
+        {
+          "name": "LosNi\u00f1osDelCaminito",
+          "url": "https://open.spotify.com/artist/6BAYblGvSz7IOAer9LvyiM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251727,
+      "name": "Buona Sera",
+      "url": "https://open.spotify.com/track/4SKUMitVRKtLFpyb8vAgtg"
+    },
+    {
+      "album": {
         "name": "Buscando el Sol",
         "url": "https://open.spotify.com/album/5UMn449zd6iIr54QMJ8Sdc"
       },
@@ -9966,7 +9984,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184673,
       "name": "RAP DEL 2000 CIENTO Y PICO",
       "url": "https://open.spotify.com/track/1Q5gU9XHxGijlLM51vq3t2"

@@ -4,7 +4,7 @@
 
 > Bien Argento 📸 Klan.
 
-397 songs - 19 hr 47 min
+398 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [FOCUS](https://open.spotify.com/track/6wY0d6mPSHOZXL0ZQGClY0) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [FOCUS](https://open.spotify.com/album/4QB0VJUZoM12np6F7ucSYP) | 2:30 | 2024-06-28 | 2025-03-15 |
 | [FRAWA](https://open.spotify.com/track/2HkWX0LPuRAyHO3o7q4pZq) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R), [ÑERO](https://open.spotify.com/artist/22ExohHmyt51cObHLDBnyO) | [FRAWA](https://open.spotify.com/album/4ZYoANZBG4nKwRIOghMpug) | 4:09 | 2021-11-26 | 2023-05-13 |
 | [FRESH](https://open.spotify.com/track/74kLIWUGkBj9fvGAevAhZS) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FRESH](https://open.spotify.com/album/7psjGlv0cm7uhTrk7hYIwb) | 2:21 | 2025-05-23 |  |
+| [Freyja](https://open.spotify.com/track/6BjWb8PBPG6SBHKtSSOYqv) | [Sabor Americano](https://open.spotify.com/artist/14OUQXeNEchUmECBMYvVoE), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Freyja](https://open.spotify.com/album/6h8UG0tGehnuPv8gyXYEhY) | 2:20 | 2025-08-29 |  |
 | [Fruto Rojo](https://open.spotify.com/track/3D0AqjaNwys5tVrzlkAtii) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/2AtPMbtlkpJeb8kLvRODIR) | 3:09 | 2022-11-07 | 2022-11-13 |
 | [Fruto Rojo](https://open.spotify.com/track/40gTdgKJk6m1w3DKPSrtZ1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/7gUDkJObuad3qfTtK3R52D) | 3:09 | 2021-11-26 | 2025-04-26 |
 | [Fruto Rojo](https://open.spotify.com/track/62UrQDHFgz4FXRtVzNAyp0) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:09 | 2022-06-10 | 2024-04-19 |

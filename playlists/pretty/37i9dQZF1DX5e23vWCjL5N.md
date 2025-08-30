@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,740 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,755 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 16 | [Baggy](https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:50 |
 | 17 | [guerra dentro](https://open.spotify.com/track/2aPz4c03AsOhTgbuSnfrCs) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:58 |
 | 18 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 |
-| 19 | [Notte Blu II](https://open.spotify.com/track/7w5rrPfl0zH0vwTHeMHa2J) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:55 |
+| 19 | [Notte Blu II \(feat\. Gemitaiz\)](https://open.spotify.com/track/7w5rrPfl0zH0vwTHeMHa2J) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:55 |
 | 20 | [Biancoenero \(feat\. Jake La Furia\)](https://open.spotify.com/track/6LymhYMtDBfHxjVb9parOd) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:48 |
 | 21 | [PIZZA A DOMICILIO](https://open.spotify.com/track/5Bt4P1HsTKhWpYI1RPrNc3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 1:51 |
 | 22 | [QUALCOSA IN CUI CREDERE \- Lo scheletro \(feat\. Guè Pequeno\)](https://open.spotify.com/track/39hRcGieqFaKfZ7LN91Vy5) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 3:32 |

@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  Gaia in cover
 
-776 songs - 1 day 12 hr 27 min
+777 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Sogni al cielo](https://open.spotify.com/track/5AcWsvBp909Sjww1Wt5rlb) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Sogni al cielo](https://open.spotify.com/album/1IIzCvWQ0As2qeXB7BBoRa) | 3:00 | 2024-11-12 | 2025-02-28 |
 | [sogni lucidi](https://open.spotify.com/track/3NIaRK9kjRsBbxwvCQ1N98) | [Joy Bloo](https://open.spotify.com/artist/4FT5nGhINGFOibKEQVsseP), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [sogni lucidi](https://open.spotify.com/album/2aubl56WmhFvUappYsBdAR) | 2:57 | 2025-03-20 | 2025-06-06 |
 | [SOGNO EROTICO](https://open.spotify.com/track/07zHo6rtrDhyj35mCc7ICR) | [POSNIAK](https://open.spotify.com/artist/7GYZXMvp7Z7w3YW4MQFtYW) | [SOGNO EROTICO](https://open.spotify.com/album/0vKF8mxLqTMXTfUAql8jqt) | 2:31 | 2025-06-05 | 2025-07-04 |
+| [SOLA \(TI AMO\)](https://open.spotify.com/track/5tQtxkxCwLsJAhWZ3K8JQ5) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [SOLA \(TI AMO\)](https://open.spotify.com/album/1Xizf3rtH6J1aLvfleJTm8) | 2:56 | 2025-08-29 |  |
 | [Solamente farfalle](https://open.spotify.com/track/0nrj347mMbEZylQMZgGHVk) | [Cecille](https://open.spotify.com/artist/5WvcnbqIOexP9otoHwLsb6) | [Solamente farfalle](https://open.spotify.com/album/4TjP3MS1VjNfVDjIKWgMhb) | 2:47 | 2025-02-13 | 2025-04-11 |
 | [Sole](https://open.spotify.com/track/1jc2mpGtz7UDbIzHfePpbi) | [Tess](https://open.spotify.com/artist/0zLTybLU0tqaRUIlig4doM), [nlyfive](https://open.spotify.com/artist/2D6D5MoSV9OPjxzQIGWUpX) | [Sole](https://open.spotify.com/album/0rVmsYmpxbll1uJxseRpFH) | 2:33 | 2024-10-03 | 2024-11-22 |
 | [Soli per errore](https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [Soli per errore](https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK) | 2:58 | 2024-11-21 | 2025-01-10 |

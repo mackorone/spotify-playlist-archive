@@ -2,7 +2,7 @@
 
 ### [Evolver](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> Pop chaos ✨ KATSEYE on the cover
+> Now and next level ❤️‍🔥 Oliver Sim
 
 1,926 songs - 4 day 0 hr 31 min
 

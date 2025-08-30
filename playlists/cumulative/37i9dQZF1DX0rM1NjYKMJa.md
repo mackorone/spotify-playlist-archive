@@ -2,9 +2,9 @@
 
 ### [Carnival Sounds](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Get ready for Notting Hill Carnival 2025\. The vibes start here.
+> The vibes start here.
 
-499 songs - 1 day 2 hr 44 min
+500 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 | 2022-02-24 | 2023-09-25 |
 | [Go Down Deh \(feat\. Sean Paul & Shaggy\)](https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 | 2025-05-30 |  |
 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 | 2025-08-18 |  |
-| [Good Spirits](https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg) | 3:20 | 2025-08-18 |  |
+| [Good Spirits](https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg) | 3:20 | 2025-08-18 | 2025-08-30 |
 | [Good Spirits](https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:20 | 2025-02-24 | 2025-08-12 |
 | [Good WiFi](https://open.spotify.com/track/5EkRdaBralVKSDvxtgeyOg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 | 2024-07-29 | 2025-05-31 |
 | [Goodas Mi Back Mi Back](https://open.spotify.com/track/0vPBj8SXXsIdBwz4FIzcT8) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Gully Slime](https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8) | 3:44 | 2022-07-30 | 2022-08-19 |
@@ -235,6 +235,7 @@
 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 | 2023-07-10 | 2023-08-08 |
 | [I Know](https://open.spotify.com/track/1gSyVQDOARkemBoM1o8Hvi) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [I Know](https://open.spotify.com/album/021nE8jAFXDJdH3SNnmmWC) | 3:01 | 2025-08-11 | 2025-08-19 |
 | [I Like Muhself](https://open.spotify.com/track/6gOAlgNHMtXc6caBVFhQNw) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [I Like Muhself](https://open.spotify.com/album/1CIkJPiIT261NY31V6OpG7) | 3:01 | 2022-08-18 | 2023-02-22 |
+| [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 | 2025-08-18 |  |
 | [IKATION](https://open.spotify.com/track/2zsJpyPVy1aMMeciBm29r8) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [IKATION](https://open.spotify.com/album/20RTlNHHXFY3AZTaGiOl2R) | 3:03 | 2025-07-18 |  |
 | [In De Congaline](https://open.spotify.com/track/4N1NODo6rAAtJhSKUSm2jn) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:05 | 2023-07-10 | 2023-08-08 |
 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 | 2022-07-30 | 2023-08-08 |

@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "The Sound of You Laughing",
+        "url": "https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218379,
+      "name": "A Sharp Pain",
+      "url": "https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa"
+    },
+    {
+      "album": {
         "name": "CANDU :: AB Bride",
         "url": "https://open.spotify.com/album/1AH4y5LvN3Fv3MT2VqppFA"
       },
@@ -22252,24 +22270,6 @@
       "duration_ms": 189476,
       "name": "Touch Myself",
       "url": "https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x"
-    },
-    {
-      "album": {
-        "name": "The Sound of You Laughing",
-        "url": "https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "date_added": "2025-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa"
     },
     {
       "album": {

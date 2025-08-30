@@ -5834,7 +5834,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 302609,
       "name": "Dil Kaa Jo Haal Hai",
       "url": "https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm"
@@ -6422,7 +6422,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184222,
       "name": "Ekdantaya Vakratundaya",
       "url": "https://open.spotify.com/track/2HGRManU666g8RqyuOrqKT"
@@ -7180,7 +7180,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 213707,
       "name": "Gajanana",
       "url": "https://open.spotify.com/track/58pYOqfeO87Uk8zPHuOGBu"
@@ -9030,7 +9030,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 193841,
       "name": "I Really Do...",
       "url": "https://open.spotify.com/track/2Dp6icDc5dvYnWvxZOjj75"
@@ -10966,6 +10966,24 @@
       "duration_ms": 167272,
       "name": "Jujubee",
       "url": "https://open.spotify.com/track/4nrIa48GgXzNks6NvqVIOX"
+    },
+    {
+      "album": {
+        "name": "Jutti Meri (Live)",
+        "url": "https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208381,
+      "name": "Jutti Meri (Live)",
+      "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
     },
     {
       "album": {
@@ -16076,7 +16094,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 350520,
       "name": "Mourya Re",
       "url": "https://open.spotify.com/track/5IvXCYI3LU2BvWtb7KqDrf"
@@ -20224,7 +20242,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
@@ -21194,7 +21212,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 194253,
       "name": "Shendur Laal Chadhayo (Aarti)",
       "url": "https://open.spotify.com/track/7rwnt8fPJ6OlDrEsbxko85"
@@ -21440,7 +21458,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 406370,
       "name": "Shree Ganeshay Dheemahi",
       "url": "https://open.spotify.com/track/41WLXaAG4uqEdEU0benbqS"
@@ -22882,7 +22900,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -22912,7 +22930,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -23280,7 +23298,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Luca Fogale
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,467 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,464 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 8 | [Hello Sunshine](https://open.spotify.com/track/7KQuq61c48KrQ2kMIvrCuC) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Between You and Me](https://open.spotify.com/album/1C9cwCoi45V5snbeDJY3wJ) | 5:25 |
 | 9 | [Terrified](https://open.spotify.com/track/3DzIIdsWENl0iH6a2XcyO5) | [harf.](https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX) | [Terrified](https://open.spotify.com/album/7jU9fP0eHl2WzcYe7tSaqY) | 2:09 |
 | 10 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 |
-| 11 | [Track 3](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 0:00 |
+| 11 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 |
 | 12 | [1 Million Feet High](https://open.spotify.com/track/4XTu7b8124jDhQJqDQimDU) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [1 Million Feet High](https://open.spotify.com/album/5nSnr2J0If0asfDclzCc4Q) | 3:21 |
 | 13 | [Sugar](https://open.spotify.com/track/2aVADnbKwE8qwflEFUKWFa) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Sugar](https://open.spotify.com/album/47sEjajsjiq4i2KugE6ECz) | 4:24 |
 | 14 | [Colours In My Head](https://open.spotify.com/track/5zvsfw6kpXTjG8dRdhxPEb) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Colours In My Head](https://open.spotify.com/album/46b4EysLlD0WsTfHMuRj2K) | 3:18 |
-| 15 | [Track 8](https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Hangover Terrace](https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl) | 0:00 |
+| 15 | [Rose Town](https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Hangover Terrace](https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl) | 2:31 |
 | 16 | [Little Red Ranger](https://open.spotify.com/track/621DJsujhyf8D7LE2w7X06) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [When The Truth Comes Out / Little Red Ranger](https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb) | 3:44 |
 | 17 | [Feel Free](https://open.spotify.com/track/6zZdi6KymzSZDKpN7gX35N) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Feel Free](https://open.spotify.com/album/6X9IEDdGvvwfXLTJVfRG0m) | 7:07 |
 | 18 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 |

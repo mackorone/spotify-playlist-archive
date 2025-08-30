@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: The Devil Wears Prada",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: Caskets",
   "name": "The Core",
   "tracks": [
     {
@@ -4377,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
+    },
+    {
+      "album": {
         "name": "Coda",
         "url": "https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP"
       },
@@ -4652,6 +4670,28 @@
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "album": {
+        "name": "Conquer (feat. Josh Mowery of Catch Your Breath)",
+        "url": "https://open.spotify.com/album/7HP7X98DvRPXW0CtImpsEX"
+      },
+      "artists": [
+        {
+          "name": "Arankai",
+          "url": "https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX"
+        },
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179325,
+      "name": "Conquer (feat. Josh Mowery of Catch Your Breath)",
+      "url": "https://open.spotify.com/track/2f0CzQtErjDiiSL5kW3SQE"
     },
     {
       "album": {
@@ -7316,7 +7356,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197400,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3ziTknZahiwT3RTAlwN5a1"
@@ -8457,6 +8497,28 @@
     },
     {
       "album": {
+        "name": "Feed (feat. DeathbyRomy)",
+        "url": "https://open.spotify.com/album/2IUSxKWwBUjG0sCnlKTxWa"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Feed (feat. DeathbyRomy)",
+      "url": "https://open.spotify.com/track/6E07yIbMpOaZFisNCajNk4"
+    },
+    {
+      "album": {
         "name": "Feeding Demons",
         "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
       },
@@ -8664,6 +8726,32 @@
       "duration_ms": 161407,
       "name": "FLY AWAY",
       "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/3Yte5jFXHinJZQAWL7gMVl"
+      },
+      "artists": [
+        {
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+        },
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        },
+        {
+          "name": "Travis Moseley",
+          "url": "https://open.spotify.com/artist/6zHstfaJq8Jq5zIMp2uWUr"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215219,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/64LBLOdsomg19NyrOm3LhM"
     },
     {
       "album": {
@@ -9676,7 +9764,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 225461,
       "name": "Gone Too Soon",
       "url": "https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV"
@@ -10056,7 +10144,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 183964,
       "name": "Hatred",
       "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
@@ -14135,6 +14223,24 @@
     },
     {
       "album": {
+        "name": "My Effigy",
+        "url": "https://open.spotify.com/album/1GsuOVNMOWevIkX9XwMzCS"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204191,
+      "name": "My Effigy",
+      "url": "https://open.spotify.com/track/2yeIjXWp9wp2pPfywwiumU"
+    },
+    {
+      "album": {
         "name": "My Empire",
         "url": "https://open.spotify.com/album/4zbOqdR8aNega4scGbV1eR"
       },
@@ -16354,7 +16460,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 239799,
       "name": "Pittsburgh - Redux",
       "url": "https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM"
@@ -16474,6 +16580,24 @@
       "duration_ms": 294680,
       "name": "Pray For Peace",
       "url": "https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF"
+    },
+    {
+      "album": {
+        "name": "Pray For Silence",
+        "url": "https://open.spotify.com/album/11rrk0NEcUl5JWGS7uOfrS"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233722,
+      "name": "Pray for Silence",
+      "url": "https://open.spotify.com/track/4ogYowx5kuosdKxpc3JyQK"
     },
     {
       "album": {
@@ -17186,7 +17310,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 216661,
       "name": "Reincarnate: Reincarnated",
       "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
@@ -18082,7 +18206,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 199372,
       "name": "Scorpion",
       "url": "https://open.spotify.com/track/7LpzmSVLxX9N2le4in8mGN"
@@ -22745,6 +22869,24 @@
     },
     {
       "album": {
+        "name": "Until The Day I",
+        "url": "https://open.spotify.com/album/4i7nivMrdEFydJ150y7S2w"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Until The Day I",
+      "url": "https://open.spotify.com/track/4Zle9kZq00yrFs4DkYrOHV"
+    },
+    {
+      "album": {
         "name": "Until We Break (feat. Matty Mullins of Memphis May Fire)",
         "url": "https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER"
       },
@@ -23182,6 +23324,24 @@
       "duration_ms": 163933,
       "name": "Void",
       "url": "https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a"
+    },
+    {
+      "album": {
+        "name": "Void Alone",
+        "url": "https://open.spotify.com/album/50aNBLMQu3OsCGeKe0CkEX"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Void Alone",
+      "url": "https://open.spotify.com/track/2l65hRPdbffpHAGg4YYhQr"
     },
     {
       "album": {
@@ -23761,6 +23921,24 @@
     },
     {
       "album": {
+        "name": "What's Left Here?",
+        "url": "https://open.spotify.com/album/1FTNGSHhjhTGB5ncCdJ8Nb"
+      },
+      "artists": [
+        {
+          "name": "Bad/Love",
+          "url": "https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196076,
+      "name": "What's Left Here?",
+      "url": "https://open.spotify.com/track/7mMfKjStcUEPlVwEEBYUpl"
+    },
+    {
+      "album": {
         "name": "When a Demon Defiles a Witch",
         "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
       },
@@ -23826,7 +24004,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 253388,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh"
@@ -24010,7 +24188,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 191874,
       "name": "WHY ARE WE CALLING IT LOVE?",
       "url": "https://open.spotify.com/track/1Hwv8obmonPeuPw9kZ9T8a"
@@ -24342,7 +24520,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 181714,
       "name": "WORTH NOTHING",
       "url": "https://open.spotify.com/track/2B9b1cT9Ue9FcDGvlH8FsR"

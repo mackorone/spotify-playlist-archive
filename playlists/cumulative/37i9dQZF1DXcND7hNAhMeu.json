@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: Lotusx",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: Baran Meng\u00fc\u00e7 x Selin",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 148586,
       "name": "All\u0131 Turnam",
       "url": "https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi"
@@ -1200,6 +1200,28 @@
       "duration_ms": 120827,
       "name": "Queen",
       "url": "https://open.spotify.com/track/3v3KYv6tGttYAwLpVKfZ5f"
+    },
+    {
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px"
+      },
+      "artists": [
+        {
+          "name": "Baran Meng\u00fc\u00e7",
+          "url": "https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN"
+        },
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN"
     },
     {
       "album": {

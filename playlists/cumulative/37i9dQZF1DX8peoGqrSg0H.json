@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "BILLIONAIRE",
+        "url": "https://open.spotify.com/album/6vJDkgNajg7CbC1wik3HH5"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197948,
+      "name": "BILLIONAIRE",
+      "url": "https://open.spotify.com/track/1p8mwct2l6gTGSkI5YfQAu"
+    },
+    {
+      "album": {
         "name": "Blah Blah Blah",
         "url": "https://open.spotify.com/album/2SrMt23u6CgRh51fU4pmEv"
       },
@@ -3021,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "SADSY",
+        "url": "https://open.spotify.com/album/6uBNdXcOnfFy7L8ch4UJnw"
+      },
+      "artists": [
+        {
+          "name": "RedSpin",
+          "url": "https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201764,
+      "name": "SADSY",
+      "url": "https://open.spotify.com/track/31F1An46wpxqSdKTl6u9pb"
+    },
+    {
+      "album": {
         "name": "Second Chance",
         "url": "https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ"
       },
@@ -3582,6 +3618,24 @@
       "duration_ms": 264566,
       "name": "TRAP U",
       "url": "https://open.spotify.com/track/5kHdaxW4aC2iTu6rhz7ocV"
+    },
+    {
+      "album": {
+        "name": "TROUBLE",
+        "url": "https://open.spotify.com/album/7shfsgYMrsbwFnHkLRDKWv"
+      },
+      "artists": [
+        {
+          "name": "VOC",
+          "url": "https://open.spotify.com/artist/7fzDjCUPqX7niI33oPmCvT"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133043,
+      "name": "TROUBLE",
+      "url": "https://open.spotify.com/track/4gBWrLugqUnha4tkM2RAtK"
     },
     {
       "album": {
@@ -8044,7 +8098,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 249750,
       "name": "\u0e1f\u0e49\u0e32\u0e17\u0e35\u0e48\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
       "url": "https://open.spotify.com/track/4LkHHXt7IztCMK14LL82aI"
@@ -8938,7 +8992,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 157200,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e1e\u0e1a (Knock Knock) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq"
@@ -9878,7 +9932,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 202105,
       "name": "\u0e2a\u0e31\u0e21\u0e20\u0e40\u0e27\u0e0b\u0e35\u0e49 (GFF Ghost Friend Forever) - From \u0e0b\u0e2d\u0e07\u0e41\u0e14\u0e07\u0e41\u0e15\u0e48\u0e07\u0e1c\u0e35",
       "url": "https://open.spotify.com/track/3VeFQ1auTXswblQYhpZuye"
@@ -10088,6 +10142,24 @@
       "duration_ms": 214639,
       "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e21\u0e32\u0e0a\u0e49\u0e32",
       "url": "https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
+        "url": "https://open.spotify.com/album/2M0De8OsdOCuQqkjA5epYM"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225837,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e1a\u0e25\u0e2d\u0e2b\u0e25\u0e31\u0e07\u0e0a\u0e31\u0e14 (Foreground)",
+      "url": "https://open.spotify.com/track/1xRULAj35tkMlA4PM1KY0N"
     },
     {
       "album": {
@@ -11944,7 +12016,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 226000,
       "name": "\u0e40\u0e21\u0e49\u0e19\u0e2b\u0e22\u0e2d\u0e01\u0e46 (Comment)",
       "url": "https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a"

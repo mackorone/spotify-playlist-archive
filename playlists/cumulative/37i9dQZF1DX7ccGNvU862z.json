@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The BESTS",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: P6ICK",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "ABUM",
+        "url": "https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212217,
+      "name": "ABUM",
+      "url": "https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc"
+    },
+    {
+      "album": {
         "name": "ACT",
         "url": "https://open.spotify.com/album/1UsIeAUbvGMxvJP6zbvvRs"
       },
@@ -300,6 +318,24 @@
       "duration_ms": 170666,
       "name": "AGAIN 2",
       "url": "https://open.spotify.com/track/0nbktqh3AwE8214QJ8nn8w"
+    },
+    {
+      "album": {
+        "name": "Airdrop",
+        "url": "https://open.spotify.com/album/2n1C5XRNLVUAhXSM0EIvEf"
+      },
+      "artists": [
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181212,
+      "name": "Airdrop",
+      "url": "https://open.spotify.com/track/13NbV4PcJeeIHJkCSuUOK6"
     },
     {
       "album": {
@@ -542,7 +578,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 186000,
       "name": "Bad Girls Like You",
       "url": "https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8"
@@ -578,7 +614,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 102461,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4dg3peJ7J2sanlkyOCw7tf"
@@ -614,7 +650,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 159493,
       "name": "BE YOURSELF",
       "url": "https://open.spotify.com/track/0osrXTNCRrAe2GScaZVMxp"
@@ -1264,6 +1300,32 @@
       "duration_ms": 189971,
       "name": "D-I-D",
       "url": "https://open.spotify.com/track/1kLDEaiVgnkDrT3vQa01kn"
+    },
+    {
+      "album": {
+        "name": "D.O. LAND",
+        "url": "https://open.spotify.com/album/6lzQVEBaO4ZdpRrtJOHaJ0"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "1ST",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "D.O. LAND",
+      "url": "https://open.spotify.com/track/6iBYU0NWfdKyVDOycRAYbH"
     },
     {
       "album": {
@@ -3396,6 +3458,24 @@
       "duration_ms": 246923,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+    },
+    {
+      "album": {
+        "name": "Ma Boi",
+        "url": "https://open.spotify.com/album/39breaJhCbYX5R71586Lf2"
+      },
+      "artists": [
+        {
+          "name": "OG BOBBY",
+          "url": "https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207867,
+      "name": "Ma Boi",
+      "url": "https://open.spotify.com/track/3HMnB5MjDSK1FNSEndEKXl"
     },
     {
       "album": {
@@ -6035,6 +6115,28 @@
     },
     {
       "album": {
+        "name": "Superstar (feat. Z9)",
+        "url": "https://open.spotify.com/album/2BQ8kqRIGgRvlCbyOhkTLD"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167339,
+      "name": "Superstar (feat. Z9)",
+      "url": "https://open.spotify.com/track/3ZB6TAAnhO4RS9Q1ECedCr"
+    },
+    {
+      "album": {
         "name": "Swag It Out",
         "url": "https://open.spotify.com/album/6Zo01v0FYlJXq3ZdSEEA7N"
       },
@@ -6104,7 +6206,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 195000,
       "name": "Taboo (feat. Tobii)",
       "url": "https://open.spotify.com/track/6bvMA4wCSHYVB16pPiRUnX"
@@ -7006,6 +7108,36 @@
       "duration_ms": 300714,
       "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19",
       "url": "https://open.spotify.com/track/1X3VD4oXVFe314hJ9AcvVy"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19....\u0e22\u0e2d\u0e21\u0e1b\u0e25\u0e48\u0e2d\u0e22 (Remix)",
+        "url": "https://open.spotify.com/album/7EYFAbb3uRMvtZVkvxDXU6"
+      },
+      "artists": [
+        {
+          "name": "Jayrun",
+          "url": "https://open.spotify.com/artist/6ZjhHErPU82gGyEzzZvLo5"
+        },
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        },
+        {
+          "name": "CYANIDE",
+          "url": "https://open.spotify.com/artist/6BLyvsGtcljOylKTFmhdIc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19....\u0e22\u0e2d\u0e21\u0e1b\u0e25\u0e48\u0e2d\u0e22 - Remix",
+      "url": "https://open.spotify.com/track/4cMC9g15kPq2PPXEIyePLR"
     },
     {
       "album": {
@@ -7924,7 +8056,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 173322,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/1zjpgNOWW001eOROTZkMea"
@@ -9696,6 +9828,32 @@
       "duration_ms": 234000,
       "name": "\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48\u0e1b\u0e35\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/1bdqJHSVkMUYmaA0jAkB7d"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/3xLyIPZqp5LVk2odmcFbfe"
+      },
+      "artists": [
+        {
+          "name": "2001Active",
+          "url": "https://open.spotify.com/artist/3gJZEGKPPrRtLfSZWBHMNL"
+        },
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        },
+        {
+          "name": "VIPER",
+          "url": "https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e27\u0e31\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5MGD68PhUOnMO64R2uwabj"
     },
     {
       "album": {
@@ -12980,7 +13138,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 209624,
       "name": "\u0e40\u0e18\u0e2d\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/1xLIirkup3VJ2MtcQDXeAO"
@@ -13418,7 +13576,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 270000,
       "name": "\u0e40\u0e2a\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e0a\u0e32\u0e15\u0e34",
       "url": "https://open.spotify.com/track/2KEFoxpFe8K5RBhTnZntOs"
@@ -13476,7 +13634,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 192305,
       "name": "\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d\u0e23\u0e34\u0e21\u0e17\u0e32\u0e07",
       "url": "https://open.spotify.com/track/37stxIhwiGSImtao0VmHWJ"
@@ -13982,6 +14140,24 @@
       "duration_ms": 153351,
       "name": "\u0e41\u0e2a\u0e19\u0e18\u0e23\u0e23\u0e21\u0e14\u0e32",
       "url": "https://open.spotify.com/track/1zBOvpESC8RhATghMlkDLf"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e01\u0e2a\u0e21\u0e39\u0e1f\u0e27\u0e35\u0e48",
+        "url": "https://open.spotify.com/album/0bvOra8H8KJOUDONzSZbhi"
+      },
+      "artists": [
+        {
+          "name": "TangBadVoice",
+          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315177,
+      "name": "\u0e42\u0e01\u0e2a\u0e21\u0e39\u0e1f\u0e27\u0e35\u0e48",
+      "url": "https://open.spotify.com/track/65vZPz4AJXIvy0rwDWxxcj"
     },
     {
       "album": {

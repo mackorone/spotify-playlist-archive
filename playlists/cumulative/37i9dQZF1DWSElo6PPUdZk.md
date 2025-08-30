@@ -2,9 +2,9 @@
 
 ### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Miss Pooja
+> Catch the queens of Punjabi Pop\. Cover: Simran Kaur Dhadli
 
-206 songs - 10 hr 36 min
+207 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Door Door](https://open.spotify.com/track/1exPCMH8g9oZLMRH6neVG1) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 3:32 | 2023-10-12 | 2024-09-12 |
 | [Doubts](https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:29 | 2024-09-11 | 2025-01-07 |
 | [Duhai](https://open.spotify.com/track/6ETXqHQspCg58MedFnCnSi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Kala Nizampuri](https://open.spotify.com/artist/3xIfVA4SJfOhSAE615HStb) | [Duhai](https://open.spotify.com/album/2kFyyT7zmjKzX9YlSzM7nn) | 3:25 | 2024-10-01 | 2024-11-16 |
-| [Dunali](https://open.spotify.com/track/1QodRL5tRwHyHkCf8jF6rE) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Intense](https://open.spotify.com/album/5Ss6brlEyAXJfa4JuJDTq4) | 3:16 | 2025-07-29 |  |
+| [Dunali](https://open.spotify.com/track/1QodRL5tRwHyHkCf8jF6rE) | [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Intense](https://open.spotify.com/album/5Ss6brlEyAXJfa4JuJDTq4) | 3:16 | 2025-07-29 | 2025-08-30 |
 | [FAKES AND SNAKES](https://open.spotify.com/track/7cB6IgaZmVDxhUxkDAEIYH) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [THE WOMAN KING](https://open.spotify.com/album/5pagoghrHhtj1fUcXIAB7q) | 3:14 | 2023-11-20 | 2024-04-24 |
 | [Famous](https://open.spotify.com/track/72NiOXPx95GInH5HFZaf3H) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 | 2025-07-11 |  |
 | [Fire](https://open.spotify.com/track/5C8o4GoMMVUbO5Puu8qxYu) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Fire](https://open.spotify.com/album/0w9QOfLEfT9OP4JQlaayv9) | 3:07 | 2025-01-10 | 2025-03-21 |
@@ -157,6 +157,7 @@
 | [Petrol](https://open.spotify.com/track/7kyMYKaxPR87EYzoglW6g6) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Preet Walia](https://open.spotify.com/artist/4qsD4MnZzpSlNfp84gvhkh) | [Miss Pooja, Vol\. 1 All Time Hits](https://open.spotify.com/album/6M1iSeTkr6lUyx1gqhNZCt) | 4:43 | 2025-08-02 |  |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-03-20 |  |
+| [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 | 2025-08-29 |  |
 | [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 | 2025-01-18 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-20 |
 | [Rafflan](https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP) | [Sahiba Aulakh](https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Rafflan](https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD) | 2:12 | 2024-12-03 |  |

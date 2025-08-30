@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,501 likes - 19 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,505 likes - 19 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Sabrina Carpenter, DJ Snake x Don Toliver, Franglish et marguerite au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,432 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,149 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 20 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
 | 21 | [u don't have to tell me](https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [eat me alive / u don't have to tell me](https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI) | 2:15 |
 | 22 | [Mirror \(feat Maëlle\)](https://open.spotify.com/track/4xeCDqW1TTPVmXcYtXZlLG) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Mirror \(feat Maëlle\)](https://open.spotify.com/album/5tsDhMIq48HcI8BjpYomEH) | 2:56 |
-| 23 | [Mona](https://open.spotify.com/track/2CEaPReeggu78lbD1tmg96) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 3:07 |
+| 23 | [Go Down](https://open.spotify.com/track/27HtGX09GJwSC4nt2EazyU) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 2:27 |
 | 24 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
 | 25 | [Lovin' You](https://open.spotify.com/track/1LYQnXnGNw6yUr7xWRvZft) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin' You](https://open.spotify.com/album/3zPzlfpJLkQdi5MYWTBsMj) | 3:42 |
 | 26 | [Une clope après l'amour](https://open.spotify.com/track/7pzXgJYFvrh6l7mbp0dlrb) | [Sopico](https://open.spotify.com/artist/01fkQiYuBZt16vQ8iRIc7g), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Volez\-moi](https://open.spotify.com/album/7Egvv3698pmgv4FsrAFvdx) | 2:55 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [Vacilando](https://open.spotify.com/track/61QcPE2JaTf5CdSGSbEF3w) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [NAGINI](https://open.spotify.com/album/6wwx18luVrJaIHzroi2gTN) | 2:25 |
 | 72 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 |
 | 73 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 |
-| 74 | [Track 3](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 0:00 |
+| 74 | [Modèle](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 2:39 |
 | 75 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
 | 76 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 77 | [You And Me](https://open.spotify.com/track/3lMGyUBQeVcOyVqOf9B1Cq) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [You And Me](https://open.spotify.com/album/24jmRkLCP0qMXCY5qQ6tmu) | 2:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 89 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
 | 90 | [1976](https://open.spotify.com/track/3y29lHaC7hjPrIkiuMvtDB) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [1976](https://open.spotify.com/album/3Lacl3x3kFDUNDaXwKH4JN) | 7:14 |
 
-Snapshot ID: `AAAAAHUPgXsp+Vea3knQtSvpJtcegnk4`
+Snapshot ID: `AAAAAHey0JXoXUeahpnA8CPZQBwSDjiR`

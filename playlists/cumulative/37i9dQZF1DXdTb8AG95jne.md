@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: onthedal\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 소수빈\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,066 songs - 2 day 16 hr 41 min
+1,067 songs - 2 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2024-11-07 |
 | [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 | 2024-09-04 |
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-01-26 |
-| [Dimension Theory](https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Dimension Theory](https://open.spotify.com/album/4SOxENfRVQRs3E9DBMejik) | 2:35 | 2025-07-28 |  |
+| [Dimension Theory](https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Dimension Theory](https://open.spotify.com/album/4SOxENfRVQRs3E9DBMejik) | 2:35 | 2025-07-28 | 2025-08-30 |
 | [Dissolve](https://open.spotify.com/track/1NpAxxKo9dwf9bwrDrobDb) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dissolve](https://open.spotify.com/album/4gzT4CjcewVkpELipuuoRB) | 3:55 | 2025-03-04 | 2025-04-11 |
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
@@ -810,6 +810,7 @@
 | [SOLD OUT](https://open.spotify.com/track/68gLrav5zc6pR4gHr4aD9S) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:59 | 2024-07-15 | 2024-08-06 |
 | [Somebody](https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Somebody](https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM) | 3:58 | 2021-12-12 | 2022-07-07 |
 | [Someday](https://open.spotify.com/track/45QwxuJHU1ZkJrgAPcvBND) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Contact Information](https://open.spotify.com/album/6esC0qAVXhz5mlFZQZTHIb) | 3:51 | 2022-04-12 | 2022-04-19 |
+| [Someday We Will](https://open.spotify.com/track/12Uv1vygmATfzGCXOK2rMx) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Someday We Will](https://open.spotify.com/album/35m5DoRR3ovZpkFIca0ZnB) | 4:02 | 2025-08-29 |  |
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-03-31 | 2022-05-14 |
 | [Someone 누군가에게](https://open.spotify.com/track/5fDAZCEKQztxEEmmqCZI76) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Romance 로맨스](https://open.spotify.com/album/2LH6ABi0a86HRVhZHHEx6n) | 3:40 | 2021-12-12 | 2022-07-29 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-04-30 | 2024-05-10 |

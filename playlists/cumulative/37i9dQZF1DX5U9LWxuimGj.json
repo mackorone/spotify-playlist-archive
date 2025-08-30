@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Country music with a Latin flair. Cover: Car\u00edn Le\u00f3n ",
+  "description": "Country music with a Latin flair. Cover: Car\u00edn Le\u00f3n and Kacey Musgraves",
   "name": "Country Latino",
   "tracks": [
     {
@@ -2091,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
+    },
+    {
+      "album": {
         "name": "Colmillo De Leche Live Sessions (En Vivo)",
         "url": "https://open.spotify.com/album/0JuvcIJT6XRYurUSUOT4FC"
       },
@@ -2390,7 +2412,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 192922,
       "name": "Moves Like Mexico",
       "url": "https://open.spotify.com/track/7CXsYMRVnn5s1Sak8BFYLX"
@@ -3195,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "Supermujer",
+        "url": "https://open.spotify.com/album/2hW3QVn9T8zPzW3TV2Orow"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228668,
+      "name": "Supermujer",
+      "url": "https://open.spotify.com/track/13qhmkQ2boDrdEJ4gxZI0E"
+    },
+    {
+      "album": {
         "name": "take my phone.",
         "url": "https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ"
       },
@@ -3648,6 +3688,24 @@
       "duration_ms": 211273,
       "name": "Vaquero Arrepentido",
       "url": "https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ"
+    },
+    {
+      "album": {
+        "name": "Vuelvo A Nacer",
+        "url": "https://open.spotify.com/album/6v42ufvJvy7cmDuEAkDC0i"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157087,
+      "name": "Vuelvo A Nacer",
+      "url": "https://open.spotify.com/track/20r7fLz8xh1Pl0CwHpdRbL"
     },
     {
       "album": {

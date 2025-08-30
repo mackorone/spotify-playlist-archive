@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,342 songs - 2 day 21 hr 19 min
+1,342 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1002,6 +1002,7 @@
 | [Sensitive](https://open.spotify.com/track/2zQH8HDTJww0eYqXAAnJys) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/4m6TJWcVB64Ja5K5Sz7Urw) | 2:37 | 2022-05-27 | 2022-10-13 |
 | [Sensitive](https://open.spotify.com/track/4jf5URUdjQl9pdj7lSVqBa) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Sensitive](https://open.spotify.com/album/5snWUfs3P5dAfTEXa4Cf8m) | 2:37 | 2023-02-24 | 2023-06-25 |
 | [Sensitive](https://open.spotify.com/track/6zWHxNVsbcbVMdbqSUDJk3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6x4ee8oOBm8gcAokHlkEjk) | 2:37 | 2023-06-23 | 2023-08-05 |
+| [Sentimental](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 4:04 | 2025-08-29 |  |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-03-06 | 2021-04-17 |
 | [Serotonin](https://open.spotify.com/track/2UmrAOZI329X453Z0u1H1K) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Serotonin](https://open.spotify.com/album/0jrztDedMPZDMl0OIyCcr0) | 3:35 | 2022-09-30 | 2023-02-11 |
 | [Set The Table \(feat\. Claud\)](https://open.spotify.com/track/4KKfz33BvPygaynUJyeyC2) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Set The Table](https://open.spotify.com/album/293J6DF0p1SvXtIt9xFilZ) | 3:15 | 2021-04-10 | 2021-06-19 |
@@ -1219,7 +1220,6 @@
 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 | 2023-02-11 |
 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-13 | 2021-04-24 |
-| [Track 11](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 0:00 | 2025-08-29 |  |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |
 | [trophy wife](https://open.spotify.com/track/0PhejYk9QZijuKAvBI43x9) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [trophy wife](https://open.spotify.com/album/2iJc8FbBbIw0Vpx84dL0xv) | 2:49 | 2024-06-28 |  |

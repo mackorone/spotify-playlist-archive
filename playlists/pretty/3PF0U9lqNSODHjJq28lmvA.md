@@ -4,27 +4,31 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,522 likes - 18 songs - 1 hr 11 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,523 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Devil In Disguise](https://open.spotify.com/track/5bQNtGD3JqzJky9r0AuuUY) | [Nathan Maher](https://open.spotify.com/artist/0RvGEHynJ4tWEawxxEJMDa) | [Devil In Disguise](https://open.spotify.com/album/0wuBTjudSxceCGfPPiSP2W) | 3:54 |
-| 2 | [Blood\-Red Banner](https://open.spotify.com/track/51B8sMrEJFtL7POit0gab4) | [Grand Cadaver](https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC) | [The Rot Beneath](https://open.spotify.com/album/0TRww07uzdNPbF85KV7409) | 4:32 |
-| 3 | [Now and then](https://open.spotify.com/track/0VIhqZOHurgnNOLKu2UhMl) | [Maklo & Peter](https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7) | [Now And Then](https://open.spotify.com/album/60dXZD8mgIPogCoDJJmFPh) | 3:13 |
-| 4 | [Poison talk](https://open.spotify.com/track/5JbcFjNdDu1YgcL5XjOd8f) | [Mona Grytøyr](https://open.spotify.com/artist/4fGxnBkPa3XKnP7BWt8U3j) | [Poison talk](https://open.spotify.com/album/04fSY5HDN6fMERAheUqC1z) | 4:35 |
-| 5 | [He is living](https://open.spotify.com/track/59AuAbar56e7KdUnjwXQp4) | [Gloriam Dei](https://open.spotify.com/artist/7BrRirZ8SrfgrNOL1qpG15) | [He is living](https://open.spotify.com/album/7agn2OuLrib9YMddzDo7RE) | 4:01 |
-| 6 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/6QO8XYjWMeXjBKHrIsTcR7) | [Maklo & Peter](https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4OXVTeAdn4CibJLaVcqlR9) | 3:51 |
-| 7 | [all in your head!!!](https://open.spotify.com/track/5sM2iGSUG0qhRYeWVX3Gcx) | [Dema Raye](https://open.spotify.com/artist/0iahDtxeEYBAwWNgEHrzZd) | [all in your head!!!](https://open.spotify.com/album/21l61JuPNnRGFzJHvOqKnR) | 4:01 |
-| 8 | [Som i en dröm](https://open.spotify.com/track/1sUIzA8jXh40brcwUrssyL) | [Tröst](https://open.spotify.com/artist/6mK0tTwRa66p8BsyYqno1G) | [Genom sprickorna](https://open.spotify.com/album/1XqCrpmOccGuHscvZlO4A0) | 3:24 |
-| 9 | [Black Cloud](https://open.spotify.com/track/4PyAin7aX0WIqNxpHBBsCQ) | [People Crisis](https://open.spotify.com/artist/0aQ5yJdKWoECZiAV4piwVv) | [Black Cloud](https://open.spotify.com/album/6wUUm6s0S45ged05bbQ0ZH) | 3:46 |
-| 10 | [Your Time Has Run Out](https://open.spotify.com/track/7vXXOfpEdP2EiTbtO58G74) | [Katana Cartel](https://open.spotify.com/artist/6MngbKovX3R5FrHMXbAqaL) | [God of War](https://open.spotify.com/album/7gIXZ8XAfJRMAjPe9dBpoS) | 3:47 |
-| 11 | [Giving Me Light](https://open.spotify.com/track/3j4C7ByQpJLx7awXgRn3ZZ) | [CASA](https://open.spotify.com/artist/5kHrnCkGPBQHgEhexrFQTQ) | [Giving Me Light](https://open.spotify.com/album/0CVNiom5nbDqJakUfwZPjc) | 4:13 |
-| 12 | [Spirits Of Alcohol](https://open.spotify.com/track/3WUk8NLVYtM09syyXFSzU2) | [Coogee Bay Road Band](https://open.spotify.com/artist/1OBInN4IAseOOqIiwrGUUz) | [Spirits Of Alcohol](https://open.spotify.com/album/1u6BzmX7VjOw3Ertkyc3O7) | 5:02 |
-| 13 | [Lay Me Down](https://open.spotify.com/track/1OU9ZGEZj4HaKV8sEORpZU) | [Gekko](https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa) | [Lay Me Down](https://open.spotify.com/album/3ACpEuzfgEgpRIAylSXyET) | 3:46 |
-| 14 | [Devil's song](https://open.spotify.com/track/3A2hyXp0J6EdtNsmKZo9VG) | [Pär Andersson](https://open.spotify.com/artist/5S3CYfLyo5RjcDrBr83Phz) | [Devil's song](https://open.spotify.com/album/4fsVkC3gsEBjEIUDvo3IN1) | 4:17 |
-| 15 | [Slow tide](https://open.spotify.com/track/1G75bG6fWiaVwKPmpdBddp) | [M LUCA](https://open.spotify.com/artist/5OMlmd0Hl5a6D6MnRW40Yn) | [Slow tide](https://open.spotify.com/album/2ei4r2fcuCAez0idzSrus3) | 4:27 |
-| 16 | [Za nami \(akustycznie\)](https://open.spotify.com/track/735WsOIdZTf7JDo0eCX3Dh) | [krochmaliny](https://open.spotify.com/artist/2osTDMn7vvQybenkNxVGtM), [Adrian Ciepliński](https://open.spotify.com/artist/35fgaXTHw6v1JN45iSSie5) | [Za nami \(akustycznie\)](https://open.spotify.com/album/3TSrVAFKcMEDSbxt8tGczx) | 3:31 |
-| 17 | [Ghost Mode](https://open.spotify.com/track/4tyn5JsPrGFUAOZMMIfbDu) | [Roger K](https://open.spotify.com/artist/41hkPBRM1scZzY6JEcoLxT) | [Ghost Mode](https://open.spotify.com/album/5oql9plBcpPERK40kRrfBF) | 2:44 |
-| 18 | [Light On The Wall](https://open.spotify.com/track/51uwOPTHVIbNkQTVaIN0Up) | [Jeremy Sousa](https://open.spotify.com/artist/46JAQMjLv4iRke2SBknlYT) | [Light On The Wall](https://open.spotify.com/album/4PGuKTZ8ri4cXUACQKLyGF) | 4:02 |
+| 1 | [bejby navždy](https://open.spotify.com/track/5YyNmAZFQrxwDgCx7msJWR) | [TOKYO DRIFT](https://open.spotify.com/artist/1KhQqptEcjZyLHeHwtQXWb) | [bejby navždy](https://open.spotify.com/album/0g5sXwh0wWecx3UfIBm5CE) | 2:38 |
+| 2 | [Bittersweet Symphony](https://open.spotify.com/track/6VtOm5GY9N9a0ygO74sOMF) | [G.Prangl Man](https://open.spotify.com/artist/2We71zRNaXqXSJr3RTrMT6) | [Bittersweet Symphony](https://open.spotify.com/album/3dgdx0YOPnVqODqVGCykhM) | 5:24 |
+| 3 | [Echoes](https://open.spotify.com/track/3NMeu6CVfrRCzpUm0fThjV) | [Morten Tiller](https://open.spotify.com/artist/4zu7WjUP6FarAqdcyrmhsh) | [Echoes](https://open.spotify.com/album/2JElO1KZrGtIVfjmbxRs29) | 3:38 |
+| 4 | [Sum of These Young Hearts](https://open.spotify.com/track/1eepxCtp5KhzsMB2XUsY2z) | [Lovers Left Alive](https://open.spotify.com/artist/4CkdiQOxF3nONLhPvz5kUu) | [How..](https://open.spotify.com/album/0FZnVDd8Ian5WBad2bRo3v) | 3:45 |
+| 5 | [Quiet and Drive \(Far Away\)](https://open.spotify.com/track/0fYjFDZHOrf4oXnqOABfIR) | [DJ G\-String](https://open.spotify.com/artist/1wWFGqbHevEnbwEEGG3suL) | [Quiet and Drive \(Far Away\)](https://open.spotify.com/album/12Qh5qq8tRKZ8FKdKETcr7) | 4:12 |
+| 6 | [Always Tomorrow](https://open.spotify.com/track/1h6DUZIN566QkhL99YRshr) | [Occupation:Baby](https://open.spotify.com/artist/64fWwXwteuqwLPnNw1q9a4) | [Always Tomorrow](https://open.spotify.com/album/7wHhsvgiSnmivU3ZhlGG3K) | 4:54 |
+| 7 | [Ik Loat Oe Nig Goan](https://open.spotify.com/track/3r7r1EXOnW0seelE4yuBJH) | [Huub Ruel](https://open.spotify.com/artist/5sE6HrFTS9f17p2kJun4Hu) | [Ik Loat Oe Nig Goan](https://open.spotify.com/album/4StQRsiOj5ddPRSd4mwU5X) | 3:16 |
+| 8 | [IT\-Mikko](https://open.spotify.com/track/006YfSn1EcJihhPUKssnww) | [1Tipe](https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7) | [IT\-Mikko / Taidepaskahommia](https://open.spotify.com/album/66lXULgJ62ZL7wfjUcH7hZ) | 3:19 |
+| 9 | [Ghetto mutsi](https://open.spotify.com/track/0XWD6bv72xRqruivsawVNY) | [Evesussu](https://open.spotify.com/artist/44I65USxoZn539GW1sgKVJ) | [Ghetto mutsi](https://open.spotify.com/album/3I4V7qCePwPdi4OE7dJInI) | 2:42 |
+| 10 | [True Colours](https://open.spotify.com/track/1oml4wPb3x3UVVN2Ac2wSN) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [True Colours](https://open.spotify.com/album/0Falb7qkYFszA7Jj53DJ0i) | 3:30 |
+| 11 | [ADSR](https://open.spotify.com/track/6RLqtEnMIRpxvmMrFYFCq9) | [Shix](https://open.spotify.com/artist/0zUeeEXgLEqoIxGLD52pJR) | [ADSR](https://open.spotify.com/album/12PvUdHphRwCrw67iuC7uH) | 3:43 |
+| 12 | [Lågorna](https://open.spotify.com/track/4yerTPPgPjR7zXExIPS1kv) | [Valter Huldén](https://open.spotify.com/artist/4gZrac1vb3SU13WMIuaM7S) | [Lågorna](https://open.spotify.com/album/5creQswOzSGPAxETWqicHa) | 3:45 |
+| 13 | [One, Two, Run](https://open.spotify.com/track/1Vm78ncGNNwthMfUlJ5NJz) | [ХРУ](https://open.spotify.com/artist/1zCjryHP2DH6c217DqkQyo) | [One, Two, Run](https://open.spotify.com/album/4DygE5tLycgLtgYDKEOv2S) | 3:14 |
+| 14 | [Evolve](https://open.spotify.com/track/2Zlf9DAGWpqGn55WNElvup) | [Angutras](https://open.spotify.com/artist/74hvWvt1C6DvFzeaJN2r9M) | [Evolve](https://open.spotify.com/album/2aTDe4LYNBJojc1l6BGE3V) | 4:49 |
+| 15 | [Where Is It](https://open.spotify.com/track/4n5vAnQWH1vlXfrcUi0fxb) | [Wissota](https://open.spotify.com/artist/1G4oAWS66SQ0o8DwITGOe7) | [Where Is It](https://open.spotify.com/album/3rw2a71LeTKbAKDDRWzInJ) | 4:54 |
+| 16 | [Kiss Under the Moonlight](https://open.spotify.com/track/2DiXyx1wcemkPYXynp6XcK) | [RAI](https://open.spotify.com/artist/1R1IojFk4HA7iaXitGokKr) | [Excited](https://open.spotify.com/album/5v4GkTiRB6tw5R210sdC0N) | 3:44 |
+| 17 | [Kuriye](https://open.spotify.com/track/0MrOCPoDzOhQkc7mg3rG0h) | [SHAMMI](https://open.spotify.com/artist/5kSkt2zXdZHH03PEwvxFVn) | [Kuriye](https://open.spotify.com/album/04DCrgqSTarNe2nzLnZV9c) | 3:30 |
+| 18 | [Kal Di Aa](https://open.spotify.com/track/4UbJfeG8ADP2JP6djLc4BW) | [SHAMMI](https://open.spotify.com/artist/5kSkt2zXdZHH03PEwvxFVn) | [Kal Di Aa](https://open.spotify.com/album/4Wncn5Gh7AZBYhdAPx8Urb) | 3:18 |
+| 19 | [Bara ser på](https://open.spotify.com/track/6ndnjeiRnN85Z8RUask5KD) | [Sarah Nilsson](https://open.spotify.com/artist/5G37O8vdbvgAdUkJj9v8rJ) | [Bara ser på](https://open.spotify.com/album/1vUhiBYzbwsV31KE7OpsAg) | 4:01 |
+| 20 | [Där Höften Möter Låret](https://open.spotify.com/track/4DixUv2U0SAHM2SUHXy2Ws) | [Anders Ekblad](https://open.spotify.com/artist/5B4gH5IO4IAyAHag75iNyE) | [Där Höften Möter Låret](https://open.spotify.com/album/5biTES2sfdm4aOycHJBBZh) | 3:00 |
+| 21 | [Criminal love](https://open.spotify.com/track/0423PI6snykHOcjRIljioL) | [Inzion](https://open.spotify.com/artist/5QPzvNexv46LtCmyA4RxpH) | [Criminal love](https://open.spotify.com/album/7m6SmXnv18FLyGJdPaDtZx) | 4:05 |
+| 22 | [Set The World On Fire](https://open.spotify.com/track/0yQj7RyFZtA2Ywf2NH3Jyg) | [Mason Oaks](https://open.spotify.com/artist/2l4CJq9WWEpZO4vhr9bC6Z) | [Set The World On Fire](https://open.spotify.com/album/5bLF39C24CLbVdqStAF62p) | 3:27 |
 
-Snapshot ID: `AAAERU2o5SWHKi1F2vzSZz12pVRS7FsN`
+Snapshot ID: `AAAESgP3JqIUPSMRx8P0B7J8yT9lPFBc`

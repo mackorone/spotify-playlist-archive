@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: FIЇNKA
+> Найпопулярніші пісні сьогодення\. Обкладинка: Nikow
 
 138 songs - 6 hr 48 min
 

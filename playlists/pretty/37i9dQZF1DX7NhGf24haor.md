@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Marshals of Mayhem
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,297 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,590 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Coming Home](https://open.spotify.com/track/4m0V5nudeFxa6Z86KOjL3M) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6), [Sarah Anglionin](https://open.spotify.com/artist/2rgyrW6ADyl42MjTUymTL5) | [Coming Home](https://open.spotify.com/album/2i0GynDvpMH9sY31MKBCJe) | 3:06 |
 | 100 | [STARSHIP](https://open.spotify.com/track/6rCx3OFxp4qTZwUyv4PISk) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [STARSHIP](https://open.spotify.com/album/1W18iANCCsYKeOHTdw8bPk) | 1:54 |
 
-Snapshot ID: `AAAAAN7Vl71gcJlepxM/FKPBZlIoJd5Z`
+Snapshot ID: `AAAAAN/mANmxzIHzrKv97GOJwMLnWjps`

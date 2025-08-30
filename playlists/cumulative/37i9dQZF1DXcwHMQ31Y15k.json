@@ -4063,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Lanange Jagat",
+        "url": "https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326162,
+      "name": "Lanang Tenan - Akustik",
+      "url": "https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf"
+    },
+    {
+      "album": {
         "name": "Lanang Tenan (Live)",
         "url": "https://open.spotify.com/album/1X8TQHs1rvLs1N6mvv0cd7"
       },
@@ -9160,24 +9178,6 @@
       "duration_ms": 266140,
       "name": "Top Topan",
       "url": "https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq"
-    },
-    {
-      "album": {
-        "name": "Lanange Jagat",
-        "url": "https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1"
-      },
-      "artists": [
-        {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
-        }
-      ],
-      "date_added": "2025-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf"
     },
     {
       "album": {

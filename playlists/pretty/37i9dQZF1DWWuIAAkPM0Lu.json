@@ -1,12 +1,12 @@
 {
   "description": "Det er fredag! Ny musik fra Bl\u00e6st, Sabrina Carpenter, Christopher og mange flere \ud83d\udc40",
-  "num_followers": 122547,
+  "num_followers": 122646,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1tVrAUX5p3/y9qjKGddIrqa66o",
+  "snapshot_id": "AAAAAFL68GSYRrLFTgz7L69alikHs3a8",
   "tracks": [
     {
       "added_at": "2025-08-28 22:00:15",
@@ -732,7 +732,7 @@
           "url": "https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU"
         }
       ],
-      "duration_ms": 210668,
+      "duration_ms": 211171,
       "name": "See the Human in Me!",
       "url": "https://open.spotify.com/track/4kG9QdZqErDWLo7Bo9fJMu"
     },
@@ -1400,8 +1400,8 @@
           "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 181000,
+      "name": "Complicated",
       "url": "https://open.spotify.com/track/5R58tDdMI1NtzUff1dXwuK"
     },
     {
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/0kz3AhoF8XrgjSszlNNfni"
     },
     {
+      "added_at": "2025-08-29 08:32:43",
+      "album": {
+        "name": "T\u00e6nker P\u00e5 Dig",
+        "url": "https://open.spotify.com/album/2Nebp5gepWrpaq1E0gmBbf"
+      },
+      "artists": [
+        {
+          "name": "Fadi",
+          "url": "https://open.spotify.com/artist/3Cc0LUWwBGx5wGX7xEhOhQ"
+        }
+      ],
+      "duration_ms": 155250,
+      "name": "T\u00e6nker P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/6ACHeCtfpBTdVF6IfC6WlY"
+    },
+    {
       "added_at": "2025-08-28 22:00:15",
       "album": {
         "name": "A Beautiful Real Life",
@@ -1664,8 +1680,8 @@
           "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 214586,
+      "name": "Delusional On Sunset Blvd",
       "url": "https://open.spotify.com/track/0OV191noT9tzOg2QwaWN39"
     },
     {

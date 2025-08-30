@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-2,413 songs - 5 day 3 hr 41 min
+2,414 songs - 5 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [100k Euro](https://open.spotify.com/track/6hPMXRNjvPHAFH8oWpBMx5) | [club2020](https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O), [HAŁASTRA](https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm), [Łajzol](https://open.spotify.com/artist/1nwcBZHeNpgC6OnXGl3wEz), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [100k Euro](https://open.spotify.com/album/4L8RcPpCTfuJCQ9w3lnMp1) | 3:30 | 2023-02-03 | 2023-02-11 |
 | [101 DALMATYŃCZYKÓW](https://open.spotify.com/track/0MpVGtxhFy4JEFgEqakVWE) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 1:58 | 2025-02-08 | 2025-02-10 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2023-02-07 | 2023-03-12 |
-| [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-26 |  |
+| [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-26 | 2025-08-30 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-08-05 | 2025-08-10 |
 | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/track/1VqT8aWuxRigiZILLcSlEM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [120 WERSÓW ŻEBY ZAJE\*AĆ CO WASZE](https://open.spotify.com/album/2cdCiu1JfdjhuuWUEc2FOd) | 4:52 | 2023-11-09 | 2023-11-20 |
 | [14 lutego](https://open.spotify.com/track/3pVvKbNtiRvyok7FHGthdy) | [CBW](https://open.spotify.com/artist/04diW1Jyt2jXdG6ZmSgJyu), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [UTC +1:00](https://open.spotify.com/album/74ikALD3NTuHQZ48QI2Btc) | 4:31 | 2025-03-31 | 2025-04-07 |
@@ -991,6 +991,7 @@
 | [KAUCJA](https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [KAUCJA](https://open.spotify.com/album/36hVOMcM3K8oaMKN8Nto9m) | 2:27 | 2024-04-18 | 2024-06-09 |
 | [Kawałek nieba](https://open.spotify.com/track/6oCMGHf3T6X8S4JlG0vC5L) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [Kawałek nieba](https://open.spotify.com/album/7shIMmorOWFXhmtUluA9Z3) | 2:49 | 2024-09-20 | 2024-09-28 |
 | [Kawałek nieba](https://open.spotify.com/track/7F49bujJnIwGCGTHaFcUW1) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [A nie mówiłem?](https://open.spotify.com/album/3NJuag7R7RxVnIF2g29xPe) | 2:49 | 2024-10-05 | 2024-11-10 |
+| [Kawior](https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [BL Beatz](https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6) | [Kawior](https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo) | 2:37 | 2025-08-29 |  |
 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 | 2021-04-23 | 2021-06-18 |
 | [Każdy blok](https://open.spotify.com/track/7t6gTBdcXvmkaNX2uqvBxq) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Każdy blok](https://open.spotify.com/album/3SV9k4HTLyU3dSi70bD0Qc) | 3:26 | 2021-06-04 | 2021-07-18 |
 | [Każdy tylko nie ja](https://open.spotify.com/track/422qQPiaDdgzKSb7ZBKwwr) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [PROXL3M](https://open.spotify.com/album/5M5CGqYOPOJITfjFyrcch8) | 3:29 | 2023-12-02 | 2023-12-10 |

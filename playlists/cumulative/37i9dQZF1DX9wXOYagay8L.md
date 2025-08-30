@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Leomile
+> Proudly Southern African Afropop gems\. Cover:Nanette
 
 705 songs - 2 day 2 hr 19 min
 

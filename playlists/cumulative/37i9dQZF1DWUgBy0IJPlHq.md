@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Margo Price
 
-641 songs - 1 day 15 hr 5 min
+644 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Cowpoke](https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cowpoke](https://open.spotify.com/album/5lzka2jHklC4W6hYTeoNYd) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Crooked Tree](https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2) | 3:52 | 2022-01-21 | 2022-02-26 |
 | [Crucified Son](https://open.spotify.com/track/0dAVs6Bzri2ivspQ0E7vM7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Crucified Son](https://open.spotify.com/album/2NOFo26dGaPq2Z0QJIfdPg) | 3:29 | 2025-07-04 |  |
+| [Cult Classic](https://open.spotify.com/track/3TBPqp2KCuY3nryEjHy4vh) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Cult Classic](https://open.spotify.com/album/3KI9MSMo7nq0WN37jwSjQn) | 3:31 | 2025-08-29 |  |
 | [Cypress Hills and the Big Country](https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:10 | 2022-09-23 | 2023-06-03 |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2023-09-23 |
 | [Dangerous](https://open.spotify.com/track/1MuLoJAZzlZ4asgtm9Nxx5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Dangerous](https://open.spotify.com/album/5ndbRx8tiRa4vA6suk6vAV) | 3:27 | 2025-06-06 |  |
@@ -273,6 +274,7 @@
 | [Holler Rose](https://open.spotify.com/track/0ujvVX73gAmCI4jsHJDOBT) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder, Ch\. 1\-4](https://open.spotify.com/album/39S2gfRILkmPUP51b73R28) | 4:51 | 2022-12-16 | 2024-06-08 |
 | [Holler Rose](https://open.spotify.com/track/1r9Cm8AyWoH4PmkyG6sPXP) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 4:51 | 2023-02-03 | 2024-04-19 |
 | [Home](https://open.spotify.com/track/2pEZB5Kspa0V28uIZUG46U) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [Home](https://open.spotify.com/album/3jfKxjTza8Wq0CGBdc80Gr) | 2:51 | 2023-02-24 | 2023-10-07 |
+| [Homemaker](https://open.spotify.com/track/1dpHJD6H0ss39kycYn5czu) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Homemaker](https://open.spotify.com/album/6bWmkIYd0093yWe0r9WqJf) | 3:48 | 2025-08-29 |  |
 | [Homewrecker](https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Homewrecker](https://open.spotify.com/album/2XDU3i198ll8mGU5zGpqgE) | 3:15 | 2024-09-06 | 2025-03-01 |
 | [Homewrecker](https://open.spotify.com/track/6O605cAYlcAAKWTkkXdcPa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Southern Belle Raisin' Hell](https://open.spotify.com/album/1WYlyS9peUWJQTbUnFyqRD) | 3:15 | 2025-02-28 |  |
 | [Honey on My Tongue](https://open.spotify.com/track/3gyGu4q61wFw4gSPBkkU1P) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Arm in Arm](https://open.spotify.com/album/7jEF37NiNtivZbr5Ues3QF) | 3:23 | 2021-12-17 | 2022-09-10 |
@@ -364,6 +366,7 @@
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-03 |  |
 | [Love Is A Magnet](https://open.spotify.com/track/6Whw6zB6yZhUjvCWQXqXyB) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Love Is A Magnet / This Love Might Kill Me](https://open.spotify.com/album/3NBHcCj2EOjsA6t23cMB8Q) | 2:39 | 2022-02-18 | 2022-03-26 |
 | [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-14 | 2022-09-10 |
+| [Love Me Like You Used To Do \[Feat\. Tyler Childers\]](https://open.spotify.com/track/28520OoA1qXG46koPHUcSG) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Hard Headed Woman](https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw) | 4:27 | 2025-08-29 |  |
 | [Love You Tonight](https://open.spotify.com/track/6eB1ykuJXmtoJ8CmHra4ip) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Slot Machine Syndrome](https://open.spotify.com/album/6FJMaNrAirTTv36lmZD3d4) | 3:03 | 2021-12-17 | 2022-09-17 |
 | [Lydia](https://open.spotify.com/track/7CfW5ThHbtvOjXKU9h0Cw2) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Lydia](https://open.spotify.com/album/5wiu4newGcJlBKsj4qWalD) | 6:11 | 2022-11-11 | 2023-05-06 |
 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 | 2021-12-17 | 2023-05-11 |

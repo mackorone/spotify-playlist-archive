@@ -7684,7 +7684,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 159047,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2t8dGlTPPoey28J2Uvaduu"
@@ -8246,7 +8246,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 360106,
       "name": "On and On (You Lie)",
       "url": "https://open.spotify.com/track/0IW5kFYSyUhsKy0Y7Q8Ygn"
@@ -8500,6 +8500,24 @@
       "duration_ms": 240916,
       "name": "Phantasy",
       "url": "https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c"
+    },
+    {
+      "album": {
+        "name": "Pink Beluga",
+        "url": "https://open.spotify.com/album/2MGyLrcYSN5zMKLBWQ61Oq"
+      },
+      "artists": [
+        {
+          "name": "Aldonna",
+          "url": "https://open.spotify.com/artist/3EPcykAa9mr5CBXcDBQCxS"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382250,
+      "name": "Pink Beluga",
+      "url": "https://open.spotify.com/track/66gjsQi1En9ZSyjiTr0gSQ"
     },
     {
       "album": {
@@ -9181,6 +9199,28 @@
     },
     {
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2"
+      },
+      "artists": [
+        {
+          "name": "Girl Math",
+          "url": "https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3"
       },
@@ -9474,7 +9514,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 275779,
       "name": "SENSE_LESS",
       "url": "https://open.spotify.com/track/1qf65XWPapiV0Tqf6uRqdH"
@@ -10330,6 +10370,24 @@
       "duration_ms": 288019,
       "name": "Stop Now",
       "url": "https://open.spotify.com/track/03hwEnKfs0s3GeGrssARv7"
+    },
+    {
+      "album": {
+        "name": "Got Shit On My Pants Act II",
+        "url": "https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5"
+      },
+      "artists": [
+        {
+          "name": "KURT.",
+          "url": "https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193282,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU"
     },
     {
       "album": {

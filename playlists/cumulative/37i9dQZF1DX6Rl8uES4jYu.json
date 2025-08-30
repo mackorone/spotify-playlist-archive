@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166871,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/1cgPFINWSKQatDghI5NPMF"
       },
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 177708,
       "name": "Stuck!",
       "url": "https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB"

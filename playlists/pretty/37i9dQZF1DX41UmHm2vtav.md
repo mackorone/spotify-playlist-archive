@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,489 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,564 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Novo Movimento \(Tu\-Tum\)](https://open.spotify.com/track/3Ymy0gjO9ZG6l2a5OvoMYe) | [Don Dali](https://open.spotify.com/artist/5bX9aZQtBSyca4E8iO08TH), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Novo Movimento \(Tu\-Tum\)](https://open.spotify.com/album/1e60jrAWhMZFFdFdg58P5L) | 2:26 |
 | 70 | [Could You Be Loved](https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Could You Be Loved](https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu) | 2:14 |
 
-Snapshot ID: `AAAAANNDAl0KshdlEji7R0nUDaCYvuAg`
+Snapshot ID: `AAAAADwLqshQNYeKk9odtDmk8LtDKcsn`

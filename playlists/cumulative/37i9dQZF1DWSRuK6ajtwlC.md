@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. La Maquinaria Norteña en portada.
+> A levantar polvadera con lo mejor de la música de sax\. DISTINTO NORTE en portada.
 
-236 songs - 11 hr 59 min
+239 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [900 Cigarros](https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [900 Cigarros](https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS) | 2:03 | 2023-05-19 |  |
 | [A La Perfección](https://open.spotify.com/track/3J58ED59WawUwDLkVnLgt2) | [Conjunto Galope De Rio Grande](https://open.spotify.com/artist/2KtOWcMZvEYcNL8PqWLwFE), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [A La Perfección](https://open.spotify.com/album/6VrzTptUKSuCQHru4YRulf) | 2:55 | 2025-08-01 |  |
 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 | 2023-03-06 |  |
-| [ADN](https://open.spotify.com/track/0ThCiXok3KAEArn76uofkz) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [ADN](https://open.spotify.com/album/1bCftZUL1RYNZYStyP8CJD) | 2:34 | 2025-08-01 |  |
+| [ADN](https://open.spotify.com/track/0ThCiXok3KAEArn76uofkz) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [ADN](https://open.spotify.com/album/1bCftZUL1RYNZYStyP8CJD) | 2:34 | 2025-08-01 | 2025-08-30 |
 | [Al Final Lloré](https://open.spotify.com/track/4e9P7bngebiWcK8L5TMhpL) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [Serendipia](https://open.spotify.com/album/0UJvXfFnvFCKeJgDLOEUxj) | 3:32 | 2024-11-15 | 2025-02-01 |
 | [Al Sur de Tu Ombligo](https://open.spotify.com/track/0lrovHM0S4gSFtHyscyLwv) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Al Sur de Tu Ombligo](https://open.spotify.com/album/5lTWb6kzFwNDqbwPtTPRK4) | 2:36 | 2024-09-27 |  |
 | [Aléjate](https://open.spotify.com/track/7rq4ykJJFmEudBTdwzTudF) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [Aléjate](https://open.spotify.com/album/5yRebJ89PYerMxGPbpZ3ao) | 2:28 | 2023-11-17 | 2024-03-02 |
@@ -57,6 +57,7 @@
 | [Cortinas Guindas](https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Cortinas Guindas](https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N) | 3:54 | 2023-03-06 | 2023-06-10 |
 | [Cositas](https://open.spotify.com/track/361jOt9kNWfgvudSHLITxE) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Cositas](https://open.spotify.com/album/3rYzbcOh7z9z1k3P8eHzri) | 2:35 | 2024-04-19 |  |
 | [Creí en el Amor](https://open.spotify.com/track/0rAk2MIFzTktvOr2rHryxq) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Creí en el Amor](https://open.spotify.com/album/6yi7TSv6mG7Msgpwqw8EMI) | 2:43 | 2023-03-06 | 2023-11-18 |
+| [CUANDO PIENSO EN TI](https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:22 | 2025-08-30 |  |
 | [Cuando Te Acuerdes De Mi](https://open.spotify.com/track/7kP3Wdr3c9vVDItVaEB2Gf) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [The Singles](https://open.spotify.com/album/7Fp3NMBgDoluPqLup2FWiu) | 3:40 | 2023-03-06 | 2023-06-10 |
 | [Cuento Los Segundos](https://open.spotify.com/track/6u7RqnxVvjNpGv86eVMoey) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Andaluz](https://open.spotify.com/artist/0cvNYKYBILPotqD5NfWDOv) | [Cuento Los Segundos](https://open.spotify.com/album/6VePksqkJYpTevw6e6IIro) | 2:59 | 2025-08-01 |  |
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-03-06 |  |
@@ -90,6 +91,7 @@
 | [Escondidos](https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Los de la DC](https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE) | 3:29 | 2023-03-06 | 2023-09-30 |
 | [ESPACIAL \- Special Version](https://open.spotify.com/track/6eEsiI6QK5NdTQadAQmoIn) | [Arrasando Norte](https://open.spotify.com/artist/6eYZ04cc9tUzgqeadLu4B7), [LOS TREMENDOS LEON](https://open.spotify.com/artist/4UAwMGZtxpJ9kl3G9ok1kF) | [ESPACIAL \(Special Version\)](https://open.spotify.com/album/0WbrvaUscJJkUQpvm8veQV) | 3:14 | 2025-08-01 |  |
 | [Especial](https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Más Especial](https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug) | 3:06 | 2023-03-06 |  |
+| [Ex De Verdad](https://open.spotify.com/track/7FE8ORGM6p3ttIea8aRskK) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Heredero](https://open.spotify.com/artist/3PoeV2xoBqyDydm6GFBIPT) | [Vamos A La Playa](https://open.spotify.com/album/07ra8OaLorLm2Di2jU8nMJ) | 3:25 | 2025-08-30 |  |
 | [Fuentes de Ortiz](https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Fuentes de Ortiz](https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss) | 3:51 | 2023-03-06 |  |
 | [Habrá Señales](https://open.spotify.com/track/5syzK647pWd2ajo2nqxns9) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [The Beast Machine \(Deluxe\)](https://open.spotify.com/album/06kVXJiYLDWDLuU9aXv2zK) | 3:00 | 2024-08-02 | 2025-01-18 |
 | [Hasta La Raiz](https://open.spotify.com/track/2UxrJ7WmHl2OHRD4oO0sVw) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Hasta La Raiz](https://open.spotify.com/album/047E1BHaOCYfUKXrxpZJ9o) | 3:09 | 2023-03-06 | 2024-03-30 |
@@ -137,6 +139,7 @@
 | [Marilyn Monroe](https://open.spotify.com/track/3bQhXG1xB0smqNea4P2rjM) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Marilyn Monroe](https://open.spotify.com/album/6uRMb995FFQFeaUMSxZhoT) | 2:02 | 2025-07-11 |  |
 | [Me Lo Merezco](https://open.spotify.com/track/2pvYHICeEdsmMH7rYimDHQ) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Maquinando](https://open.spotify.com/album/3O5qORSxbUg6rEZZQzLTzg) | 3:15 | 2025-07-11 |  |
 | [Me Rehuso](https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Me Rehuso](https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY) | 2:47 | 2023-07-28 | 2025-02-01 |
+| [ME TIENES LOCO](https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:24 | 2025-08-30 |  |
 | [Mentira Que Me Quieres Mucho](https://open.spotify.com/track/3bR1WblcmJj11Vh8DoNuB4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Mentira Que Me Quieres Mucho](https://open.spotify.com/album/6jmuQBIqDXLtfG1AmpfGoZ) | 2:12 | 2024-04-19 | 2025-02-01 |
 | [Mi Amigo el Alcohol](https://open.spotify.com/track/3jQHDX3h1NGkNOtOUGHgo6) | [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [Mi Amigo el Alcohol](https://open.spotify.com/album/4qwkIuvjmIrVs2BLvCnMnG) | 3:00 | 2023-04-14 | 2023-07-15 |
 | [Mi Caballito](https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Mi Caballito](https://open.spotify.com/album/0MaBEYKQsMkSLlMI7aXNJ2) | 3:47 | 2024-01-12 | 2024-04-19 |

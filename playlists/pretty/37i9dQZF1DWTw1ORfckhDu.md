@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa SHRTY ja Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,168 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,183 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 |
 | 2 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 3 | [Mun maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 |
+| 3 | [Mun Maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun Maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 |
 | 4 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 5 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 |
 | 6 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 44 | [Kummitusjuna](https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Kummitusjuna](https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX) | 2:56 |
 | 45 | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/track/1bntOGbJGOjhjI7anyfzHx) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/album/1SRtKVGt9rHBDa3jxdAR7N) | 2:47 |
 | 46 | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14) | [LEWI](https://open.spotify.com/artist/3Rw9RAezi1FGQrglVYoU4J), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Vastalääke \(feat\. Etta\)](https://open.spotify.com/album/0P63Euv9xv2KtazXz1MlXj) | 2:38 |
-| 47 | [PAPA \(feat\. Davy\)](https://open.spotify.com/track/1iAS0t6WrGqM4v9xnVxKHk) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PAPA \(feat\. Davy\)](https://open.spotify.com/album/30LlVSSfc2Yt2Lgd2YdsyW) | 2:27 |
-| 48 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
-| 49 | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/track/7g1CmPDygUhWbEbFT56NGV) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Karri Koira](https://open.spotify.com/artist/1sQJfOZnTxWUPFb2wjgba5) | [Mä en osaa tanssii \(feat\. Karri Koira\)](https://open.spotify.com/album/522uwsnZbLAr57UwMXoLaB) | 3:33 |
+| 47 | [Ne ei voi saada mua](https://open.spotify.com/track/073HdH7GuGd1n20DgyHsci) | [Bulle](https://open.spotify.com/artist/1lXwfUoWuEuKgm6oPTkGQl) | [Ne ei voi saada mua](https://open.spotify.com/album/11y9vvQYqggsI2Z5hCXQ13) | 3:06 |
+| 48 | [PAPA \(feat\. Davy\)](https://open.spotify.com/track/1iAS0t6WrGqM4v9xnVxKHk) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PAPA \(feat\. Davy\)](https://open.spotify.com/album/30LlVSSfc2Yt2Lgd2YdsyW) | 2:27 |
+| 49 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
 | 50 | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN) | 3:17 |
 
-Snapshot ID: `AAAAAGY8vbucG5lQyw/Smz1+Ucvy829m`
+Snapshot ID: `AAAAAGh0VfmnyEj5+4OjFox5AMlmNLCE`

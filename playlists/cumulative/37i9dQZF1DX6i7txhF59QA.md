@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 진해성\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 송가인\)<br/>Let's party with cheerful Korean trot medley.
 
-1,041 songs - 2 day 11 hr 35 min
+1,043 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Dumba Dumba](https://open.spotify.com/track/1WUwO9kA3kl01GTBzwsQen) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 3:25 | 2022-04-22 | 2022-07-28 |
 | [Easy Lover](https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Easy Lover](https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT) | 2:45 | 2025-08-05 |  |
 | [Elegant Love](https://open.spotify.com/track/4WOQ95HwzDGdrTW9gjzTw3) | [Shin Mi Rae](https://open.spotify.com/artist/15y3pbf42yIqdHOZEHJiCQ) | [Elegant Love](https://open.spotify.com/album/1qitDj5QDQoPckwS8joDrT) | 3:02 | 2022-07-04 | 2022-10-25 |
-| [Elevator](https://open.spotify.com/track/1TCkgf6YdQa9jzhWziWbjf) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Elevator](https://open.spotify.com/album/5aO75dzEtiNcBLcY5NFUwu) | 3:27 | 2024-08-13 |  |
+| [Elevator](https://open.spotify.com/track/1TCkgf6YdQa9jzhWziWbjf) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Elevator](https://open.spotify.com/album/5aO75dzEtiNcBLcY5NFUwu) | 3:27 | 2024-08-13 | 2025-08-30 |
 | [Elevator not the stairs](https://open.spotify.com/track/7HyadAQpgOEA9C8sJcJiGy) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:27 | 2022-05-03 | 2022-07-20 |
 | [Emergency Landing of Love](https://open.spotify.com/track/1pMpNHnGnROicT8BnhjInf) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 3:48 | 2022-04-22 | 2022-06-27 |
 | [Emergency room](https://open.spotify.com/track/3JdD95ex20VFclUry4ytiW) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART2](https://open.spotify.com/album/6ehOtKwnhQ1ZIsoDWJl5cJ) | 3:44 | 2022-04-22 | 2022-07-29 |
@@ -210,6 +210,7 @@
 | [Encounter by chance](https://open.spotify.com/track/6QtuQBXvjou5NYbNWOpLdS) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:01 | 2022-04-07 | 2022-07-28 |
 | [Entwined trees, symbolizing eternal love](https://open.spotify.com/track/10LcpRDTau3PSNdwVhzmBJ) | [Choi Jae Myeong](https://open.spotify.com/artist/6hWO9LmVdqUc6tc4NdR8VE) | [Music Source of Mr\. Trot3 final Best](https://open.spotify.com/album/5xyACB0eKVNpErYIooVf2H) | 4:12 | 2025-03-28 |  |
 | [Escaping city](https://open.spotify.com/track/3xQqYnwyfdOX0s4GfXGJzs) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Ryu Jigwang](https://open.spotify.com/artist/47lSYaysaine14EAFDHHXO) | [Love call center PART16](https://open.spotify.com/album/7u8HLtO5WhyaSCGDmciwMT) | 3:06 | 2022-04-22 | 2022-07-27 |
+| [Eternal Moment](https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:28 | 2025-08-29 |  |
 | [Eurachacha my life](https://open.spotify.com/track/22nvAXKWpjnB3fNcDueOpV) | [Song Joon Keun](https://open.spotify.com/artist/2CMAi8MFH4ipbA76S7RnJZ), [LEE CHAE YOON](https://open.spotify.com/artist/1YblCGid3JoBEvy2QA9g1x) | [Eurachacha my life](https://open.spotify.com/album/5GMkqyV79MTa9ZmEucq9f6) | 3:00 | 2022-04-22 | 2022-07-23 |
 | [Eusha! Eusha!](https://open.spotify.com/track/7uwfrh1BMjpwcatSwlIqi7) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Boom](https://open.spotify.com/artist/2ExzQ95NkQ6mFMRQklLzgp) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:31 | 2022-04-22 |  |
 | [Even filling my life with tears](https://open.spotify.com/track/24eWA28Uh5wHDrBdQFxEWP) | [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 4:02 | 2022-06-18 | 2022-07-24 |
@@ -673,7 +674,7 @@
 | [Shape of my Heart](https://open.spotify.com/track/04hJPe5xIHvxDyzMbf1TqK) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 2:06 | 2022-04-22 | 2022-07-01 |
 | [Shout Myself](https://open.spotify.com/track/4zyhpmA72Yats5QciypnMi) | [Cheon Lok Dam](https://open.spotify.com/artist/2X2SBgXswqzHoKFRpROiKi), [Kang Hoon](https://open.spotify.com/artist/55jtHMtmsp6S2gRwjG1Nc3), [Im Chan](https://open.spotify.com/artist/2rKMspg61zWki0oiUwgoW1), [Ryu Ji Woo](https://open.spotify.com/artist/3taXPZBLxY9Mwj4HEy9StU) | [Music Source of Mr\. Trot3 Medley Team Mission Best PART1](https://open.spotify.com/album/0tSMSHtBlHBIyb90cQk25I) | 4:18 | 2025-02-20 |  |
 | [Shout Myself Out.](https://open.spotify.com/track/2tjNcmpxkxPG6d7as2w4z7) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART3](https://open.spotify.com/album/4yTFiZEUtbItfWaKTa1cOf) | 4:29 | 2022-04-21 | 2022-09-02 |
-| [Simple Station](https://open.spotify.com/track/0u9jIxIZK7b9eu0Snewuhk) | [JeongWoo Ko](https://open.spotify.com/artist/228apFetZUnoyYxH2plVaF) | [Simple Station](https://open.spotify.com/album/5PwqnEZ96L8Y1HYx0xlqpv) | 3:29 | 2025-08-21 |  |
+| [Simple Station](https://open.spotify.com/track/0u9jIxIZK7b9eu0Snewuhk) | [JeongWoo Ko](https://open.spotify.com/artist/228apFetZUnoyYxH2plVaF) | [Simple Station](https://open.spotify.com/album/5PwqnEZ96L8Y1HYx0xlqpv) | 3:29 | 2025-08-21 | 2025-08-30 |
 | [Sincerity](https://open.spotify.com/track/6sApmwfcevoTzYeiFdaNVQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART5](https://open.spotify.com/album/6YRmEyaGc3q1NDWz5njgrB) | 2:57 | 2022-07-22 | 2022-07-27 |
 | [Singing and Dancing](https://open.spotify.com/track/3X7LDiQJA7GlDcekxucc4p) | [Jo Jung Min](https://open.spotify.com/artist/4fcBdN2QDEF58oIK2D4rzh) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 2:26 | 2022-04-22 | 2022-07-17 |
 | [Single\-minded dandelion](https://open.spotify.com/track/5ypMEjxCSuapcEf8eg3k53) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 3:54 | 2022-04-22 | 2022-07-11 |
@@ -743,6 +744,7 @@
 | [The lady Of the Kasbah](https://open.spotify.com/track/1oarI9EJ6NLS3XfZOLgXF4) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 3:08 | 2022-04-22 | 2022-07-24 |
 | [The love that makes me live](https://open.spotify.com/track/0TMX9JqAoTBAFO2ok1WpSG) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 3:37 | 2022-04-07 | 2022-06-12 |
 | [The magic castle](https://open.spotify.com/track/3weyFFbZl7T8jzooViQ8nA) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART7](https://open.spotify.com/album/7MQC5I1mXnuget0Se48yOQ) | 4:06 | 2022-04-21 | 2022-07-26 |
+| [The mambo of love](https://open.spotify.com/track/1NqydJblIICpOuyLlDTqOQ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [The mambo of love](https://open.spotify.com/album/3o3jKIqys0cN7tCJcMxTfh) | 3:19 | 2025-08-29 |  |
 | [The Man](https://open.spotify.com/track/68DBl8NQCK8fwxYUhZNUKc) | [Na Young](https://open.spotify.com/artist/4k7tx63ZM9eM5eigY29syL), [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q), [Kim So Yeon](https://open.spotify.com/artist/27ScewTLvhPP2F856R16ck) | [Music Source of Ms.Trot3 Rival Match Triangle Battle](https://open.spotify.com/album/7wiCrHfzNqvcDy2yZBASal) | 5:03 | 2024-08-13 |  |
 | [The man says](https://open.spotify.com/track/0eq6UmvJKyuyfC2hrqgd6t) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/5hpSrG3EM6R71oRuoVcc7B) | 3:17 | 2022-07-22 |  |
 | [The man says](https://open.spotify.com/track/2QSomftuSP5IBE9cwRJsy5) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Drama](https://open.spotify.com/album/6xun4Xbeu5BK0193WraEZA) | 3:17 | 2022-04-22 | 2022-07-27 |

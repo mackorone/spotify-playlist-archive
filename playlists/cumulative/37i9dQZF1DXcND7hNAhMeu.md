@@ -2,16 +2,16 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Lotusx
+> Geleceğin seslerini dinle! Kapak: Baran Mengüç x Selin
 
-97 songs - 4 hr 38 min
+98 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 AM IN NEW YORK](https://open.spotify.com/track/5Btzaf0T0Wl6oYp5AIkboU) | [7EDI](https://open.spotify.com/artist/4167SqZnbUagsRL7qNugRr) | [3 AM IN NEW YORK](https://open.spotify.com/album/42ZpX6g7MOWHEzhBa8RIID) | 1:24 | 2024-06-20 | 2024-10-24 |
 | [Alamet](https://open.spotify.com/track/24oNbZu94JS3Izo6ub1jWb) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Alamet](https://open.spotify.com/album/5aIyE00nAG4wfugbnmfZkA) | 2:49 | 2024-10-23 | 2025-03-21 |
 | [Aldırma](https://open.spotify.com/track/23EQ6UrFPQCDT2eyQtCWvL) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Aldırma](https://open.spotify.com/album/0rvOfWjSecdQrRCJivc5JN) | 2:26 | 2024-06-20 |  |
-| [Allı Turnam](https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Allı Turnam](https://open.spotify.com/album/5LXJSwRHsMcsq47ZcFIW5i) | 2:28 | 2025-07-31 |  |
+| [Allı Turnam](https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Allı Turnam](https://open.spotify.com/album/5LXJSwRHsMcsq47ZcFIW5i) | 2:28 | 2025-07-31 | 2025-08-30 |
 | [Alıştım Üzülmeye](https://open.spotify.com/track/2xFiJX7xL04l2HmwtQVsdm) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Alıştım Üzülmeye](https://open.spotify.com/album/56RC7UMpMzp4EwKCPZ4xaw) | 3:10 | 2024-06-20 |  |
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-10-23 |  |
 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 |  |
@@ -73,6 +73,7 @@
 | [Nereye Kadar](https://open.spotify.com/track/0u3u0mGeWYU0h8tWin4ZCa) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Nereye Kadar](https://open.spotify.com/album/5PYBFjQAwPNuvrsyBKNyrT) | 2:55 | 2024-06-20 | 2024-10-24 |
 | [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 | 2024-10-23 |  |
 | [Queen](https://open.spotify.com/track/3v3KYv6tGttYAwLpVKfZ5f) | [Nihan Çelik](https://open.spotify.com/artist/2sJhBSO8uHc9oGynn8BkyW) | [Queen](https://open.spotify.com/album/1b0EJhpQg6n4JRS1basYCG) | 2:00 | 2024-06-20 | 2024-10-24 |
+| [Sana](https://open.spotify.com/track/1HRq9gouGsn78384HYBKsN) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [Sana](https://open.spotify.com/album/2zdv3fWQ8jcd2Jfwd0E5px) | 2:42 | 2025-08-29 |  |
 | [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 | 2024-06-20 |  |
 | [Sen Bilirsin](https://open.spotify.com/track/3yAhJkby5L1G6yCoYi7HY4) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Sen Bilirsin](https://open.spotify.com/album/56tllXQ5KPMWyjnoqx5vW4) | 2:37 | 2024-06-20 | 2024-10-24 |
 | [Sen ve Ben](https://open.spotify.com/track/10TKNOLu0bNFmOSTOJw2fq) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Sen ve Ben](https://open.spotify.com/album/35XqaJeYU2F3dVg2GgP04e) | 2:21 | 2024-10-23 | 2024-11-07 |

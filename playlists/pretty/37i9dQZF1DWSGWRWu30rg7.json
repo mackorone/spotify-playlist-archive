@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: The Popstar",
-  "num_followers": 64266,
+  "num_followers": 64267,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADnVzZSi7m7JRfyLqf4tFh3xvbdk",
+  "snapshot_id": "AAAAADHB/q98UKPuPnyvJHE6Nj7cHHyJ",
   "tracks": [
     {
       "added_at": "2025-08-28 17:00:20",
@@ -487,6 +487,38 @@
       "duration_ms": 208875,
       "name": "Confession",
       "url": "https://open.spotify.com/track/65fRUR1XhZnZpqb3DOKaX7"
+    },
+    {
+      "added_at": "2025-08-29 03:07:24",
+      "album": {
+        "name": "Biar Jadi Rahasia",
+        "url": "https://open.spotify.com/album/1mHkG2jB0IOSYn06qIIu4c"
+      },
+      "artists": [
+        {
+          "name": "Ryo Domara",
+          "url": "https://open.spotify.com/artist/09wq1xRdDq0tejikDPG1g7"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "Biar Jadi Rahasia",
+      "url": "https://open.spotify.com/track/55DxRZVH2NicJbnyPxZxRQ"
+    },
+    {
+      "added_at": "2025-08-29 09:03:34",
+      "album": {
+        "name": "Oh Sayang",
+        "url": "https://open.spotify.com/album/0Qo9diXMbG1F7mdV1uk7Rx"
+      },
+      "artists": [
+        {
+          "name": "Kiki The Potter's",
+          "url": "https://open.spotify.com/artist/1lxdpIzHan94rqRO2LiVgz"
+        }
+      ],
+      "duration_ms": 188336,
+      "name": "Oh Sayang",
+      "url": "https://open.spotify.com/track/7dB5vAomizC49yAHZBNSah"
     },
     {
       "added_at": "2025-08-28 17:00:20",

@@ -2,7 +2,7 @@
 
 ### [Bongo Bars](https://open.spotify.com/playlist/37i9dQZF1DX37qJrE9pjpT)
 
-> The hottest rap anthems from Tanzania all in one playlist\. Cover: Moni Centrozone
+> The hottest rap anthems from Tanzania all in one playlist\. Cover: Fid Q
 
 259 songs - 14 hr 37 min
 

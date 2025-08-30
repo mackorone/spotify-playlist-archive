@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 313898,
+  "num_followers": 313955,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAABtombOtwMgtVKNAIY/f4I3",
+  "snapshot_id": "aK+cAAAAAADGtFIGwQVEZFWu1LyYDtkA",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 386755,
-      "name": "Avoid the Light",
-      "url": "https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Official Live: 101 Proof",
         "url": "https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 136493,
       "name": "I Can't Hide",
       "url": "https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 386755,
+      "name": "Avoid the Light",
+      "url": "https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu"
     },
     {
       "added_at": null,

@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 170099,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
@@ -4803,6 +4803,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0v93cVeuek2BnhTDbLRcGa"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190240,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7drxsX64tVAdhqkfa3B0D1"
+    },
+    {
+      "album": {
         "name": "Solo Necesito (Remix)",
         "url": "https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm"
       },
@@ -5196,7 +5214,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197333,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/3uEE8TDvOslkCzwRc8Q0lG"
@@ -5554,6 +5572,28 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "Una Cerveza RMX",
+        "url": "https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181862,
+      "name": "Una Cerveza RMX",
+      "url": "https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc"
     },
     {
       "album": {

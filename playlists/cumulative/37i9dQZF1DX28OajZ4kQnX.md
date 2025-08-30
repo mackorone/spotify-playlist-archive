@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256\. Cover: The Mith
 
-180 songs - 10 hr 15 min
+182 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bugumu \- All Star Remix](https://open.spotify.com/track/0tnnzaIzauGDnuQNhgNZZ7) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Half the Legend](https://open.spotify.com/album/1y7Dp6HR28O95cg7ZwnvIW) | 3:28 | 2023-09-01 | 2023-09-12 |
 | [By Gones](https://open.spotify.com/track/2SxhbnGRtKN32YJyvxcLDC) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Sheila Wya](https://open.spotify.com/artist/5kYA2S71bDiW9BaOd0amgu) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 4:20 | 2023-09-01 | 2023-09-12 |
 | [Bye For Now](https://open.spotify.com/track/2OSM88B61MaXYuS7F4z97k) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Bye For Now](https://open.spotify.com/album/4HUv6MSyPkHgZBY8VCGTMI) | 3:35 | 2023-01-20 | 2025-08-15 |
+| [C.O.D](https://open.spotify.com/track/6E2V233BcgBMWirxP4sskK) | [€cht](https://open.spotify.com/artist/3nIMQzFVaVlQ3MSFSy4RtN), [De Ryk](https://open.spotify.com/artist/2IXubm3QIS64fW62Z9RLWe) | [C.O.D](https://open.spotify.com/album/2BodXqBKjy47XF909SXuHD) | 2:31 | 2025-08-28 |  |
 | [Can You Imagine](https://open.spotify.com/track/2RFWIe4Kyuydzgo7kBJQ8E) | [Rey Macc](https://open.spotify.com/artist/7BVMpH5dEz4jE03STFwdqZ), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Isaiah Misanvu](https://open.spotify.com/artist/5mR64cshBueO6oPDga4cgh) | [Can You Imagine](https://open.spotify.com/album/26ZsfOw4zyS5q3QUh0mZdk) | 3:17 | 2022-09-08 |  |
 | [Champion](https://open.spotify.com/track/30aubY1RWsOlSiB1K0ewbD) | [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv), [Blinded Beats](https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7) | [Champion](https://open.spotify.com/album/7exkbtaf6pVksFzzg2kr8f) | 2:39 | 2025-07-03 |  |
 | [Cheptegei](https://open.spotify.com/track/0XDxiITJZRaaMHQ6kpyJXO) | [Flex D'paper](https://open.spotify.com/artist/1dKjmFQXS1G1Z1D64tN8ek), [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Fik Fameica](https://open.spotify.com/artist/1MyURrKGquv73teqXcaFJ7), [Mozelo Kidz](https://open.spotify.com/artist/2FN6TpqHVrEX5Xbz39cram) | [KAMPALA BOY](https://open.spotify.com/album/4RnSrtRunydg3GgFg4Xpvm) | 5:54 | 2023-09-01 | 2023-09-12 |
@@ -78,6 +79,7 @@
 | [HATE MY PRESENCE](https://open.spotify.com/track/4Kh061Mh6TxmcqyxvumXPJ) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE) | [HATE MY PRESENCE](https://open.spotify.com/album/7gkApDSiucm6IUpKvaIVp0) | 2:12 | 2023-04-14 | 2024-04-19 |
 | [Here To Win](https://open.spotify.com/track/2FlBumRtP354Pjm6W3HmYT) | [Timcence](https://open.spotify.com/artist/7p92Vbu6qnBYbb2kQtIJ94), [Beepee](https://open.spotify.com/artist/67sRsLCmzPHlR8I5bYrzFL) | [Here To Win](https://open.spotify.com/album/46XKTu14vkAjT45FmdyBTN) | 3:40 | 2025-07-03 |  |
 | [HIGH](https://open.spotify.com/track/7LsZORYkglPm3SoYU71Ewf) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [PALESA](https://open.spotify.com/artist/4PMTNs8aCUWLMZ2eCZBgMc) | [AFRICAN HUSTLER MUSIC](https://open.spotify.com/album/20kLWtdqJtNQFqlwXMrFLH) | 3:26 | 2023-09-01 | 2023-09-12 |
+| [Hit Up](https://open.spotify.com/track/359mA1x2SevyYnK9j0Jbrb) | [ItsKC](https://open.spotify.com/artist/5dVBBHLJiNA1kICcHSc6pL), [Jo Joey](https://open.spotify.com/artist/4RrsmmTA0RdzlSmN2fYSVN), [ScottyC](https://open.spotify.com/artist/6cHrcxfAgubFkPkorTOPoY) | [Hit Up](https://open.spotify.com/album/3TiXVGepUC2YCSxglxKFKn) | 3:33 | 2025-08-28 |  |
 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-09-08 | 2024-11-23 |
 | [I Give Her Love](https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c) | [The Mith](https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf), [Herbert Ssensamba](https://open.spotify.com/artist/551y4ECPYt7eD0EIlew8sg) | [The Ugandan](https://open.spotify.com/album/3oyokB16SXiEeZybhCS2V8) | 4:38 | 2022-09-08 | 2025-07-12 |
 | [I Wish Samusaanga](https://open.spotify.com/track/1om62MwPUzrlDcsBNhg9pe) | [Thesecond](https://open.spotify.com/artist/5JIgYf3Lr4AM4Zsw1WHnmW) | [I Wish Samusaanga](https://open.spotify.com/album/2MvFMO4CqoDi36GJ1MDtKu) | 2:01 | 2024-11-22 |  |

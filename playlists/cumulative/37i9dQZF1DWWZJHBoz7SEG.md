@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> Descubre lo más nuevo y lo más cool de la semana en compañía de La Maestra Pecas, LOOJANCITO y Yeri Mua
+> ¡TRAKAAA! Rolitas nuevas para combatir las lluvias con Luis R Conriquez y Anuel AA, brrrr 🔥
 
 9,497 songs - 21 day 7 hr 56 min
 

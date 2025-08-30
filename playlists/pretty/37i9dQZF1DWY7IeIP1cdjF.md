@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from J Balvin & Jay Wheeler, KAROL G & Feid, Bad Bunny, and more\. 🔥🍑
+> Reggaeton hits from Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, Feid and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,649,245 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,647,718 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 60 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 |
 | 61 | [Conmigo Se Escapa](https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Conmigo Se Escapa](https://open.spotify.com/album/5y6DZbTtvo0T3ZGUufeDVj) | 2:31 |
 
-Snapshot ID: `AAAAAPHrluUC0tdwj7GFxW3rNTVibyzY`
+Snapshot ID: `AAAAABLtY9bAIDlQGiBMiQQSi3KRDTxv`

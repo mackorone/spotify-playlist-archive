@@ -2,9 +2,9 @@
 
 ### [Fusion Fest](https://open.spotify.com/playlist/37i9dQZF1DX0aSJooo0zWR)
 
-> Electrified jazz, complex rhythms and virtuosic playing\. Cover: Chick Corea
+> Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-169 songs - 16 hr 16 min
+170 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 | 2021-11-12 |  |
 | [Medallion](https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Medallion](https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C) | 4:29 | 2025-02-07 |  |
 | [Medieval Overture \- Instrumental](https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N) | [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Romantic Warrior](https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt) | 5:13 | 2021-02-12 |  |
-| [Midnight Rendezvous](https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:38 | 2021-02-12 |  |
+| [Midnight Rendezvous](https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:38 | 2021-02-12 | 2025-08-30 |
 | [Mirage](https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Enigmatic Ocean](https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB) | 4:54 | 2021-02-12 |  |
 | [Mondo Garaj](https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h) | [Garaj Mahal](https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM) | [Mondo Garaj](https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs) | 5:33 | 2021-02-12 |  |
 | [Morse Code](https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9), [Raghav Mehrotra](https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1), [Aidan McKeon](https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb) | [Morse Code](https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy) | 3:04 | 2022-01-14 |  |
@@ -144,6 +144,7 @@
 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 | 2021-02-12 |  |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2021-06-04 |  |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2021-06-04 | 2024-04-19 |
+| [SKY SO HIGH](https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [TRUE BLUE](https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP) | 4:36 | 2025-08-29 |  |
 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 | 2021-02-12 |  |
 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 | 2021-02-12 |  |
 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-02-12 | 2024-04-19 |

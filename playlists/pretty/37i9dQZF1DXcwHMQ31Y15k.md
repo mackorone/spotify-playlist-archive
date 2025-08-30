@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Ndarboy Genk
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,965 likes - 96 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,030 likes - 96 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanange Jagat](https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1) | 0:00 |
+| 1 | [Lanang Tenan \- Akustik](https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanange Jagat](https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1) | 5:26 |
 | 2 | [Jiwarungsit](https://open.spotify.com/track/0CTcOv4NP9mU046khNKfVc) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jiwarungsit](https://open.spotify.com/album/3n9fqu8PrnMhcS19wvMGGz) | 5:00 |
 | 3 | [Tresna Humiring Waspa](https://open.spotify.com/track/3juFBGMCifyNH2TAY7X0zl) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Tresna Humiring Waspa](https://open.spotify.com/album/5gYk9UJ12zl1kwqcfq5LZj) | 6:54 |
 | 4 | [IWAK LOUHAN](https://open.spotify.com/track/5CIa75EuBQ3uiOJctLM9Q5) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [IWAK LOUHAN](https://open.spotify.com/album/6LnjYcnCx4lPe4L1DXPfIy) | 4:22 |

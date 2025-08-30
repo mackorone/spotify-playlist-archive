@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,159 songs - 9 day 5 hr 37 min
+4,161 songs - 9 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2132,7 +2132,8 @@
 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 | 2025-08-28 |  |
 | [Lovezinho](https://open.spotify.com/track/5smr3wYPodiv8ogWy0DE6J) | [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/3jhQPdKJyseNw3YepWR8bN) | 2:46 | 2023-02-13 | 2023-03-22 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-28 | 2024-01-16 |
-| [Low Again](https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Low Again](https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe) | 2:07 | 2025-08-27 |  |
+| [Low Again](https://open.spotify.com/track/0Gxnx3fnVnjq4lX3iHEC76) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Low Again](https://open.spotify.com/album/4wSECx2oINMVPhsD84culC) | 2:07 | 2025-08-29 |  |
+| [Low Again](https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Low Again](https://open.spotify.com/album/6afCL6c4857TgbFFS3FGWe) | 2:07 | 2025-08-27 | 2025-08-30 |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-05-10 | 2022-05-29 |
 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 | 2024-04-09 | 2024-04-17 |
 | [Luktelk](https://open.spotify.com/track/1nuYw5614RF5tm7Byrigw5) | [Silvester Belt](https://open.spotify.com/artist/2Tna85W7SvTboWMUSFilH6) | [Luktelk](https://open.spotify.com/album/6oHC6E85z9BSrCj2XHB3mJ) | 2:41 | 2024-05-16 | 2024-05-26 |
@@ -2683,7 +2684,8 @@
 | [Orilla](https://open.spotify.com/track/4rxPM7gelblflqcSTp6pkw) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Mr\. Fino Riddim The Mixtape](https://open.spotify.com/album/3NWoW9a2P5SlmpgWIEAFxT) | 3:13 | 2025-04-02 | 2025-04-11 |
 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-18 | 2024-07-31 |
 | [Ortak](https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Ortak](https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI) | 3:25 | 2024-08-20 | 2024-08-30 |
-| [Orula](https://open.spotify.com/track/701CRzd2iWBSImPgmSHq8Y) | [RZR](https://open.spotify.com/artist/0ShAYgUvA32AvrB7Hhe48M) | [Orula](https://open.spotify.com/album/3Y70kaMPmGxqhvtlOlEtBh) | 2:21 | 2025-08-26 |  |
+| [Orula](https://open.spotify.com/track/2BFY6af0xKPlLpjAzkfZni) | [BALCAZAR](https://open.spotify.com/artist/6ltQRUIG93fCOo3ieLDZPe) | [Orula](https://open.spotify.com/album/2tBZ9C4vJyeR2wRrMyyWJ9) | 2:21 | 2025-08-29 |  |
+| [Orula](https://open.spotify.com/track/701CRzd2iWBSImPgmSHq8Y) | [RZR](https://open.spotify.com/artist/0ShAYgUvA32AvrB7Hhe48M) | [Orula](https://open.spotify.com/album/3Y70kaMPmGxqhvtlOlEtBh) | 2:21 | 2025-08-26 | 2025-08-30 |
 | [Os Menino da Nova](https://open.spotify.com/track/1okn8NTTHVQuP4hghJi2Ec) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf) | [Os Menino da Nova](https://open.spotify.com/album/60YBXfUxCUhklWqyPULaY0) | 2:17 | 2024-09-17 | 2024-09-25 |
 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 | 2024-07-16 | 2024-07-22 |
 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 | 2023-09-26 | 2023-10-14 |

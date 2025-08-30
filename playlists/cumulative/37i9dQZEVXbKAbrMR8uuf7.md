@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,948 songs - 4 day 6 hr 9 min
+1,949 songs - 4 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [Hey Ma \- Radio Edit](https://open.spotify.com/track/0Z66HbL6eYmFCC4GIEqiPk) | [$$Double\-Dolla$$](https://open.spotify.com/artist/5VIewen6HYA0zX8b2LRbO6), [Ruzoy](https://open.spotify.com/artist/0JZitAKOj1gXTD1AWJRhei) | [Hey Ma \(Radio Edit\)](https://open.spotify.com/album/3zdBXodwypXm5Luvyk7qKj) | 2:16 | 2024-05-27 | 2024-05-29 |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2022-10-26 | 2024-04-08 |
 | [HIBIKI](https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:28 | 2023-10-14 | 2024-01-02 |
-| [Hiekka](https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hiekka](https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0) | 3:33 | 2025-05-14 |  |
+| [Hiekka](https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hiekka](https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0) | 3:33 | 2025-05-14 | 2025-08-30 |
 | [Higher Power](https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:26 | 2022-03-23 | 2022-03-27 |
 | [Highs and Lows](https://open.spotify.com/track/4hKp5QaP64Y38RtrrFbLuD) | [Paul Hernandez](https://open.spotify.com/artist/0fJKr4CDlr0IuJvScP17DB) | [Highs and Lows](https://open.spotify.com/album/5u4okqATU0DehNcBONWmkw) | 3:00 | 2023-08-25 | 2023-08-28 |
 | [History](https://open.spotify.com/track/6CRZ8tzdQtkaTS4pYDAqDK) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [History](https://open.spotify.com/album/5b9Gskk5jFugkSS7MavvR6) | 2:28 | 2024-09-17 | 2024-09-21 |
@@ -1542,6 +1542,7 @@
 | [Saudadezinha Dói](https://open.spotify.com/track/6jFgQ2KITuVVNCXJLbm213) | [Bonde do Brasil](https://open.spotify.com/artist/2j1yuQ4WNWTbd9bXafU5ix) | [Baú 12 Anos, Ep 1](https://open.spotify.com/album/4e8UMe01WbpqZTZJkFyKb3) | 2:47 | 2024-04-01 | 2024-04-03 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-04-08 | 2021-04-19 |
 | [Say Goodbye \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/track/0qZS991lZiFECP5iA9sOOp) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Say Goodbye \(feat\. Monty Datta & Snøw\)](https://open.spotify.com/album/3ztd4CfwWREeO3uzK4WfBP) | 3:14 | 2024-05-25 | 2024-05-28 |
+| [Scat Pack](https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Scat Pack](https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx) | 4:13 | 2025-08-29 |  |
 | [Sci\-Fi](https://open.spotify.com/track/73dabjAcAF06vA4C1o16ta) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:17 | 2023-07-01 | 2023-07-03 |
 | [Se Comenta](https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Se Comenta](https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ) | 2:59 | 2023-01-09 | 2023-05-18 |
 | [Se Fue](https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:00 | 2024-11-16 | 2024-12-06 |

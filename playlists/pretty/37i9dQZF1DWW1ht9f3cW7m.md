@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 ### [peach](https://open.spotify.com/playlist/37i9dQZF1DWW1ht9f3cW7m)
 
-> freshly squeezed good stuff 🥤 cover: keshi
+> freshly squeezed 📹  elle coves
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,329 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,332 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zimmer90",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: LUKAS OSCAR",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 159286,
       "name": "abgelenkt",
       "url": "https://open.spotify.com/track/34znHuzr2NqkHURUtPCmEE"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 168000,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/7J5zrmSVeayUtEr8VMDljA"
@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Hey Chatty",
+        "url": "https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167568,
+      "name": "Hey Chatty",
+      "url": "https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd"
+    },
+    {
+      "album": {
         "name": "Hiatus",
         "url": "https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2"
       },
@@ -4816,6 +4834,32 @@
       "duration_ms": 228876,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/7jeNDxcVWuexlp92tFlpBo"
+    },
+    {
+      "album": {
+        "name": "NEIN SCHATZ",
+        "url": "https://open.spotify.com/album/4hAvJZ4l3nHHLIH1t6JB0L"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "GDA",
+          "url": "https://open.spotify.com/artist/2qWlUlfE7zEJM20ec5Dk9T"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "NEIN SCHATZ",
+      "url": "https://open.spotify.com/track/7Bkw8mQs8oYUV9udjdgXG9"
     },
     {
       "album": {

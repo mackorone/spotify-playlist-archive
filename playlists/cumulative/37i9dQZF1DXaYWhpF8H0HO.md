@@ -2,7 +2,7 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:INDAHKUS
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: no na
 
 460 songs - 1 day 2 hr 48 min
 

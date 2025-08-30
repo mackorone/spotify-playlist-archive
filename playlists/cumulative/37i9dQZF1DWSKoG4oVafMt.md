@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,121 songs - 2 day 12 hr 24 min
+1,122 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Hun Changa Ae](https://open.spotify.com/track/2kDfeQsKpDz07p6f0ALaOo) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Hun Changa Ae](https://open.spotify.com/album/1AvmoHXPkwmBGfeT4wdXiG) | 2:46 | 2022-12-14 | 2023-02-02 |
 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 | 2022-10-25 | 2022-12-16 |
 | [I Know Love](https://open.spotify.com/track/3lUOl1ARyQtz4sufyG3XqQ) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [I Know Love](https://open.spotify.com/album/3T7305lqh37JiwcumBCn9b) | 2:26 | 2025-04-29 | 2025-06-12 |
+| [I ONLY HAVE YOU](https://open.spotify.com/track/6n7qxhFdMSxSMTczk2WASn) | [Seera Buttar](https://open.spotify.com/artist/4gYkupDdCRGvdDHFwQwLOr) | [I ONLY HAVE YOU](https://open.spotify.com/album/4suN6yBZ78S1FCEDeBfsZI) | 4:25 | 2025-08-29 |  |
 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 | 2023-01-24 |
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 | 2022-12-16 |
 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-25 | 2025-04-23 |
@@ -1035,7 +1036,7 @@
 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 | 2024-07-31 |  |
 | [Tu Ae Mera](https://open.spotify.com/track/0kaadDImKbYPk4MXP2H8JV) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Tu Ae Mera](https://open.spotify.com/album/4Fll8pKZSs4zobfo2lloEf) | 2:30 | 2025-02-20 | 2025-03-01 |
 | [Tu Chahida](https://open.spotify.com/track/5cUr6puvXjDPgs4yTfSW3o) | [G Romio](https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y) | [First Album](https://open.spotify.com/album/78HaqqhvApLn9ekzNudy3k) | 3:20 | 2024-08-28 | 2024-09-17 |
-| [Tu Dis Painda](https://open.spotify.com/track/5YsUDqJJA46FjqLPqD3PFW) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Tu Dis Painda](https://open.spotify.com/album/2W1CpmwRCgMrPwPH1A70KV) | 5:21 | 2025-08-21 |  |
+| [Tu Dis Painda](https://open.spotify.com/track/5YsUDqJJA46FjqLPqD3PFW) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Tu Dis Painda](https://open.spotify.com/album/2W1CpmwRCgMrPwPH1A70KV) | 5:21 | 2025-08-21 | 2025-08-30 |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 | 2022-12-16 |
 | [Tu Hi Tu](https://open.spotify.com/track/6FJgSrM8PmiqJtLriJuAkV) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Hi Tu](https://open.spotify.com/album/6i1fAW7Dzh70fJd7qrTDDB) | 3:54 | 2024-10-09 | 2024-11-05 |
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |

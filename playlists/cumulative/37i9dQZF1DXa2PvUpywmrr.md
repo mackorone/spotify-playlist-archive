@@ -2,7 +2,7 @@
 
 ### [Party Hits](https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr)
 
-> it's a party 4 u
+> ok, lets party.\. fred, hit the track
 
 689 songs - 1 day 12 hr 3 min
 

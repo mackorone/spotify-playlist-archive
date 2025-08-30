@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,407 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,231 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 126 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 |
 | 127 | [Solo](https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 1:58 |
 | 128 | [Your Ecstasy](https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 3:48 |
-| 129 | [she want prada](https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [she want prada](https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm) | 3:10 |
-| 130 | [hillside](https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [hillside](https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR) | 2:52 |
+| 129 | [hillside](https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [hillside](https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR) | 2:52 |
+| 130 | [she want prada](https://open.spotify.com/track/7F5Cig2IXoPke19vA9NwMs) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [she want prada](https://open.spotify.com/album/7uVLA0zq1PgZhFvM1a3Gbm) | 3:10 |
 | 131 | [NO EVIL](https://open.spotify.com/track/7JHVXlqkoXViFD4giUlzEs) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [NO EVIL](https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R) | 2:25 |
 | 132 | [Colors](https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Colors](https://open.spotify.com/album/6vHA1k10xssz56inCFbT58) | 3:06 |
 | 133 | [STRANGER](https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [ACCELERATOR](https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu) | 3:48 |

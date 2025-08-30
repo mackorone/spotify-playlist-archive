@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Unmusique",
+        "url": "https://open.spotify.com/album/4hP6GKbrQjCCeJ8B0MfBXQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Bedroque",
+          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112139,
+      "name": "2010 Justin Bieber",
+      "url": "https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO"
+    },
+    {
+      "album": {
         "name": "7G",
         "url": "https://open.spotify.com/album/0PHVIdlkceOpjYgvUER4Nd"
       },
@@ -13588,7 +13606,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 145697,
       "name": "excited >_<",
       "url": "https://open.spotify.com/track/1GdzNIwdraCSSpFPGgKWj8"
@@ -18854,7 +18872,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 223871,
       "name": "HD Umbrella",
       "url": "https://open.spotify.com/track/4lEbIAChgopMx5fmwTN50L"
@@ -23796,6 +23814,28 @@
       "duration_ms": 149796,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/1nWHVI1MjwTAZ7vhLYRgVK"
+    },
+    {
+      "album": {
+        "name": "Jump (m-flo Remix)",
+        "url": "https://open.spotify.com/album/2EJMuuf8X9ArNU1x1tlBan"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        },
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269770,
+      "name": "Jump (m-flo Remix)",
+      "url": "https://open.spotify.com/track/4EN6FnYP9Aaax2kYqvKh8i"
     },
     {
       "album": {
@@ -30221,6 +30261,28 @@
     },
     {
       "album": {
+        "name": "Lick The Lens \u2013 Pt.1",
+        "url": "https://open.spotify.com/album/6MLL5vClk79Yhned782Crg"
+      },
+      "artists": [
+        {
+          "name": "Oli XL",
+          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
+        },
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "NOSEBLEED MELODY",
+      "url": "https://open.spotify.com/track/4NFIyVd9WKQrNuzIw5OAzh"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/1l7Nbr3Z94PU2C175XEEY6"
       },
@@ -31562,7 +31624,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 151519,
       "name": "OOH",
       "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"

@@ -2,7 +2,7 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como La Fuga.
+> Lo mejor del rock de aquí, como Benito Kamelas.
 
 640 songs - 1 day 16 hr 55 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,262,589 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,262,750 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 |
 | 50 | [Still Outside](https://open.spotify.com/track/28wOg9MxyrFiOJ3yf5sJPQ) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Still Outside](https://open.spotify.com/album/4IUWmiZN9siz1bT7TPBC1z) | 1:54 |
 
-Snapshot ID: `AAAAANw+9zEb+227z6fc2eot+X3ao91q`
+Snapshot ID: `AAAAAB84XDI/WzMKB6CLsxUczYoJBR9G`

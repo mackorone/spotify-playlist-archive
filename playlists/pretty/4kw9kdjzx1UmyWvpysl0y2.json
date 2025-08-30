@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125024,
+  "num_followers": 125014,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUhgbkm3rpKeDeo0tZrylFXwHisMI4",
+  "snapshot_id": "AAAUh9BhjW0+w5cuH+6gDrWRLG5ENQgO",
   "tracks": [
+    {
+      "added_at": "2025-08-29 15:03:50",
+      "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
+    },
     {
       "added_at": "2025-08-28 14:03:39",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,243 likes - 150 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,270 likes - 150 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 143 | [The Way \- RBL Edit](https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6) | [Wipe The Needle](https://open.spotify.com/artist/6gEdcNCCqpeMDMX6Qldchw), [Syren Rivers](https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T) | [The Way](https://open.spotify.com/album/7uVcj7Vdj5Z8nbanL6dS5j) | 7:03 |
 | 144 | [Living My Life \- Jimpster Remix](https://open.spotify.com/track/01wFW0qEYbQJ8ve6LjED9V) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Living My Life](https://open.spotify.com/album/7tGwilV8WtsqwIOz4MNIV2) | 5:24 |
 | 145 | [As If You Read My Mind \- Spotify Radio Mix](https://open.spotify.com/track/75GaPDbeRWvPWhP0bMFXwN) | [Sol Brown](https://open.spotify.com/artist/6taDTDL40hyNStHBbyPnlc), [Angel\-A](https://open.spotify.com/artist/2mYO5pAAP3dIwKwU9mqq7K), [Booker T](https://open.spotify.com/artist/5lw9bE6QiPpgne85RmUWGa) | [As If You Read My Mind](https://open.spotify.com/album/62NlX5Vx4ombKjQ9STzDg2) | 4:31 |
-| 146 | [Baby Don't Make Me Wait \- Radio Edit](https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p) | [MissFly](https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm), [David Bailey](https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2) | [Baby Don't Make Me Wait](https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r) | 4:04 |
-| 147 | [Going Nowhere](https://open.spotify.com/track/6gxCItsJhHpmucspvOhwAP) | [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy), [Corey Holmes](https://open.spotify.com/artist/5nHH9d9UcjjJ56GfKE6XoS) | [Going Nowhere](https://open.spotify.com/album/6k3UcaaEVihWwLoItNA8qH) | 7:23 |
+| 146 | [Going Nowhere](https://open.spotify.com/track/6gxCItsJhHpmucspvOhwAP) | [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy), [Corey Holmes](https://open.spotify.com/artist/5nHH9d9UcjjJ56GfKE6XoS) | [Going Nowhere](https://open.spotify.com/album/6k3UcaaEVihWwLoItNA8qH) | 7:23 |
+| 147 | [Baby Don't Make Me Wait \- Radio Edit](https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p) | [MissFly](https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm), [David Bailey](https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2) | [Baby Don't Make Me Wait](https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r) | 4:04 |
 | 148 | [Heaven Knows](https://open.spotify.com/track/22kvzIUCs0oua1K4f1NyWf) | [Rea Blaque](https://open.spotify.com/artist/4ChfQqwjcdXcY1ByUc5Ama), [MoreSoul](https://open.spotify.com/artist/2NnJ40aRQwcTggABFZLhTQ) | [Heaven Knows](https://open.spotify.com/album/63VP59FutIeq6x2VBXGTV7) | 6:08 |
 | 149 | [Beautiful](https://open.spotify.com/track/7nLIq6GdouHfHmCKNRcTSZ) | [Scott Wozniak](https://open.spotify.com/artist/4X5MbMRy7w6vmcUZDaKa2O) | [Beautiful](https://open.spotify.com/album/1N5tjhcRUQ11jGPwQd7eEq) | 8:17 |
 | 150 | [Get Close](https://open.spotify.com/track/0gKAbcsG3BZK8qZkrB39NB) | [Ruben Vidal](https://open.spotify.com/artist/70fiKBQTJHcmF98tZamcmW), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5), [Stephanie Cooke](https://open.spotify.com/artist/0tQ6E3EZuU6HCF9SaClbI2) | [Get Close](https://open.spotify.com/album/2N61YAPSGmGeVLv2WdjueA) | 6:58 |

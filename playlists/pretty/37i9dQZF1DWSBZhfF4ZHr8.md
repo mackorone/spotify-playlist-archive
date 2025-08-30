@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec M\. Pokora
+> Les meilleures nouveautés de la variété française avec marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,384 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,498 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 17 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 |
 | 18 | [Je pardonne](https://open.spotify.com/track/0DMEVqPd2MF7cEAZEzOOCm) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 3:29 |
 | 19 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 |
-| 20 | [Track 3](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 0:00 |
+| 20 | [Modèle](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 2:39 |
 | 21 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 |
 | 22 | [Dans un autre monde](https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Dans un autre monde](https://open.spotify.com/album/5scTVjfrAmCWhFznxEAIRM) | 3:22 |
 | 23 | [Je rentre à la maison](https://open.spotify.com/track/1eEz9N2Hh4e5hIFEdYROII) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Je rentre à la maison](https://open.spotify.com/album/1ncqSQP5o0qRqSb5awZKET) | 3:14 |

@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> Wekelijkse update met Hollands en volks\. Cover: Frans Bauer & Django Wagner
+> Wekelijkse update met Hollands en volks\. Cover: Wolter Kroes
 
 403 songs - 19 hr 33 min
 
@@ -281,7 +281,7 @@
 | [Ontzettond](https://open.spotify.com/track/4S0XHr1xvMkXnR9hh7mLVq) | [DavineP](https://open.spotify.com/artist/1LPGs7TFPT9ssRp0c4ZFDf) | [Ontzettond](https://open.spotify.com/album/04IZE98cgDygUwlIlqFWSG) | 2:12 | 2025-08-04 |  |
 | [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 | 2025-01-06 | 2025-03-21 |
 | [Op De Bank](https://open.spotify.com/track/7HjkU3iRgdFiwypuYsOx0N) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Op De Bank](https://open.spotify.com/album/7m97chglD7rVHaPHYwp4sg) | 2:49 | 2024-07-25 | 2024-12-13 |
-| [Op de Maan met Maan](https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl) | [Raffie De Driver](https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn) | [Op de Maan met Maan](https://open.spotify.com/album/6CNkkMQuPST2hO4KR2qY4v) | 3:14 | 2025-08-04 |  |
+| [Op de Maan met Maan](https://open.spotify.com/track/5OXm70TP5w966vW4a8B4Hl) | [Raffie de Driver'](https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn) | [Op de Maan met Maan](https://open.spotify.com/album/6CNkkMQuPST2hO4KR2qY4v) | 3:14 | 2025-08-04 |  |
 | [Op De Vijfde Rij](https://open.spotify.com/track/1hKqHdaqJk3RqZ64P9xNHc) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Op De Vijfde Rij](https://open.spotify.com/album/1KjWGmfsM9vFUlW4GHFdde) | 2:51 | 2024-08-01 | 2025-01-11 |
 | [Op Een Dag \(Gaan We Allemaal Naar De Hemel\)](https://open.spotify.com/track/40a6NAAIlG33ZmKdI1JSxO) | [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE), [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Op Een Dag \(Gaan We Allemaal Naar De Hemel\)](https://open.spotify.com/album/2xtUO7oONmvTzPvsOF9s2T) | 2:27 | 2024-06-13 | 2024-10-04 |
 | [Op Eén Been](https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Op Eén Been](https://open.spotify.com/album/5HDZXiHUQJvIyOQbQbBhvq) | 2:36 | 2024-06-20 | 2024-11-08 |

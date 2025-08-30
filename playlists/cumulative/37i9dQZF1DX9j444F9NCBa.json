@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 140666,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/33xbeA5idmgJrUVx9kvj4y"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 224000,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/7j3vIGFSLzfmZhrF0xYyyz"
@@ -995,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Back To December",
+        "url": "https://open.spotify.com/album/4p9zpUSYSuy4hS9ciqBA92"
+      },
+      "artists": [
+        {
+          "name": "Hues of Ruby",
+          "url": "https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212384,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/2D7RXIsrncp6QRpa5OUTqL"
+    },
+    {
+      "album": {
         "name": "bad guy",
         "url": "https://open.spotify.com/album/5uSkeFecAgE12tJbd647NC"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 182270,
       "name": "Beautiful day",
       "url": "https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr"
+    },
+    {
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/6eLsyixrfDbTLHm27BcbBw"
+      },
+      "artists": [
+        {
+          "name": "Noah Jacob",
+          "url": "https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188041,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/0OHFTKMwZoSFRT9oaFTAao"
     },
     {
       "album": {
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 203614,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ"
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 159930,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9"
@@ -2356,7 +2392,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 188250,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F"
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 226802,
       "name": "Forever Young - Piano Version",
       "url": "https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu"
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 181565,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/5P0j2h3b7nDXO3FkEqJift"
@@ -4354,7 +4390,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155000,
       "name": "Hold my hand",
       "url": "https://open.spotify.com/track/5UI1e8uQ6PYubk3n3PHtpS"
@@ -4750,7 +4786,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 153416,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/4STW1iP7o2MpsKzJqtFYPN"
@@ -4786,7 +4822,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 225382,
       "name": "I Still Haven't Found What I'm Looking For - Piano Version",
       "url": "https://open.spotify.com/track/4lPMv8xyxDTx2iLk9hwOHb"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 158250,
       "name": "Inside Of Me",
       "url": "https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB"
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184084,
       "name": "It's A Heartache",
       "url": "https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa"
@@ -5488,7 +5524,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 222810,
       "name": "Just Give Me A Reason",
       "url": "https://open.spotify.com/track/5HabmTUtwyVMz56hoyLupX"
@@ -5758,7 +5794,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197250,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/4B3pEmqb4yCdmYnG7IW410"
@@ -6028,7 +6064,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 204000,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/0UE3uOkiuc2FtehvtqMqEU"
@@ -6208,7 +6244,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 232384,
       "name": "Love yourself",
       "url": "https://open.spotify.com/track/7As5gdvmXsPrIG26UKHEdl"
@@ -6262,7 +6298,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 194000,
       "name": "Lover - Piano",
       "url": "https://open.spotify.com/track/6SLbPpHePkvoQvgrvazQuD"
@@ -6298,7 +6334,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197250,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf"
@@ -6604,7 +6640,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 206000,
       "name": "Moral Of The Story",
       "url": "https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj"
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184000,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p"
@@ -6640,7 +6676,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 175357,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE"
@@ -7108,7 +7144,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 211750,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna"
@@ -7666,7 +7702,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 129147,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1crMg4ZtH1YqtHt0NJtiW2"
@@ -7774,7 +7810,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 236000,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/44633u1bq8n7f4q3yU1hSX"
@@ -9088,7 +9124,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 156655,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv"
@@ -9160,7 +9196,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 222316,
       "name": "The Joker And The Queen",
       "url": "https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi"
@@ -9322,7 +9358,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 158783,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ"
@@ -9502,7 +9538,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 190127,
       "name": "Theme from Fame",
       "url": "https://open.spotify.com/track/4KWxiel76VGlyz99XKYJXA"
@@ -9923,6 +9959,24 @@
     },
     {
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/6NABuUWOur1uGNcy7WnQFC"
+      },
+      "artists": [
+        {
+          "name": "Love Falk",
+          "url": "https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/7HLCihRbYPRxTj95SLFYUA"
+    },
+    {
+      "album": {
         "name": "Timeless Classics On Piano - Part I",
         "url": "https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO"
       },
@@ -10222,7 +10276,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 261273,
       "name": "Wake me up - Piano Version",
       "url": "https://open.spotify.com/track/1dA7RxuoV343ur4o4OMQ1B"
@@ -10240,7 +10294,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 176684,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/2Jix5JmSbxeRt7ujwnSAE6"
@@ -10496,6 +10550,24 @@
       "duration_ms": 190000,
       "name": "When I Held Ya",
       "url": "https://open.spotify.com/track/7lNpAXqQVSUjmaVDMljWPp"
+    },
+    {
+      "album": {
+        "name": "When I Was Your Man",
+        "url": "https://open.spotify.com/album/7Kg7Sh8eO8stsl1ZLpBOca"
+      },
+      "artists": [
+        {
+          "name": "Alexander Gresham",
+          "url": "https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/5HiUOgzNWhTcCx26TpIVEK"
     },
     {
       "album": {
@@ -10892,7 +10964,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 208946,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3Gu5Ei9OVuXCVoILrSq7pR"
@@ -10964,7 +11036,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 204560,
       "name": "Wrecking Ball - Solo Piano Version",
       "url": "https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI"
@@ -11090,7 +11162,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 214750,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/50FDAQO0cM5oBDFtG5mbiv"
@@ -11306,7 +11378,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 134000,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/7nisGzYA4XRF38mfLh2cPc"

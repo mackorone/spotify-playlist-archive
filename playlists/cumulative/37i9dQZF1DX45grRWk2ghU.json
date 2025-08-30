@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Achoo!",
+        "url": "https://open.spotify.com/album/1UExUKJ4h6YvTSd6O3yUr3"
+      },
+      "artists": [
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141206,
+      "name": "Achoo!",
+      "url": "https://open.spotify.com/track/5otkWRY8FzQIE2IdIZQzU9"
+    },
+    {
+      "album": {
         "name": "QUEEN DEGENERATE",
         "url": "https://open.spotify.com/album/4ZDAY6ZwhHKpy3W7e6Yo4g"
       },
@@ -418,10 +440,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 146854,
       "name": "Conceited",
       "url": "https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og"
+    },
+    {
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/6SV8Z9EJQaUAU2OdUzriHo"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/4XvXxozhqYuOxWMs4tdK1I"
     },
     {
       "album": {
@@ -849,6 +889,24 @@
     },
     {
       "album": {
+        "name": "FUND$",
+        "url": "https://open.spotify.com/album/4hQLeyedpQnCceU8hjjHjW"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151065,
+      "name": "FUND$",
+      "url": "https://open.spotify.com/track/799HHc8eTnRsHCFqXTwVRa"
+    },
+    {
+      "album": {
         "name": "Christina Aguilera (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
@@ -932,7 +990,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 123950,
       "name": "Girlie-Pop!",
       "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
@@ -1478,7 +1536,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 219773,
       "name": "Lip Gloss",
       "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
@@ -1634,6 +1692,24 @@
       "duration_ms": 159013,
       "name": "Mine",
       "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
+    },
+    {
+      "album": {
+        "name": "MISS INDEPENDENT",
+        "url": "https://open.spotify.com/album/3h1zysAEVlD1KngTxuZYAR"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118613,
+      "name": "MISS INDEPENDENT",
+      "url": "https://open.spotify.com/track/6iO5k57KyJbeJnRxJFbpsI"
     },
     {
       "album": {
@@ -1868,7 +1944,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
@@ -2038,6 +2114,24 @@
       "duration_ms": 241501,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "album": {
+        "name": "Pretty Poison",
+        "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
+      },
+      "artists": [
+        {
+          "name": "Summer Davis",
+          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Pretty Poison",
+      "url": "https://open.spotify.com/track/4Vf2kHjHvLPqSJ02H3IFrN"
     },
     {
       "album": {
@@ -2350,7 +2444,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184624,
       "name": "Sugar (feat. Shygirl)",
       "url": "https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ"

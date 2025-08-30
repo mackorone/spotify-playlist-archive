@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-792 songs - 1 day 21 hr 1 min
+793 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Espelho Infinito](https://open.spotify.com/track/2c035MzNnX6LbBAqqIY74L) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Espelho Infinito](https://open.spotify.com/album/2lVRPlfINLYMxUBanw9jpB) | 4:03 | 2022-05-13 | 2022-06-25 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 | 2022-03-18 |
 | [Esperando Você](https://open.spotify.com/track/2w7kD7klXMFCV6ot8iU5lm) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Gêmeos](https://open.spotify.com/album/0ChE7T4gcw48AEt6cMmaBx) | 3:47 | 2023-06-26 | 2023-10-14 |
-| [Esperar para ver](https://open.spotify.com/track/0gTswZdE9JByp6634pkBmY) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio DELUXE](https://open.spotify.com/album/2Ky19hbSutT96ElxcwRO5r) | 2:25 | 2025-06-20 |  |
+| [Esperar para ver](https://open.spotify.com/track/0gTswZdE9JByp6634pkBmY) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio DELUXE](https://open.spotify.com/album/2Ky19hbSutT96ElxcwRO5r) | 2:25 | 2025-06-20 | 2025-08-30 |
 | [Essa Garoa](https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 2](https://open.spotify.com/album/1YiqHCOIxfRSVBKQ4wxqlu) | 4:00 | 2022-09-30 | 2022-11-05 |
 | [Essa Pessoa Esquisita](https://open.spotify.com/track/4RFxUmgvlVrXAjhrPGI89v) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Essa Pessoa Esquisita](https://open.spotify.com/album/5GgT8TquIycrVOjzSyC6yv) | 4:56 | 2022-12-23 | 2023-08-19 |
 | [Estação da Luz](https://open.spotify.com/track/2QTrD7WhBTW70beXilAlgP) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Estação da Luz](https://open.spotify.com/album/0lr6Bc2IU6okMHnu0Br5gk) | 3:18 | 2023-11-17 | 2024-06-22 |
@@ -409,6 +409,7 @@
 | [Melhor Assim](https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Melhor Assim](https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c) | 2:40 | 2023-10-27 | 2024-06-08 |
 | [Melhor Assim](https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [Y](https://open.spotify.com/album/7MLJDclnjQfoTzmAYzsebI) | 3:21 | 2025-05-09 |  |
 | [Melhor de Três](https://open.spotify.com/track/4rQfTr0ugCFFQTMhWGRQBZ) | [Bemti](https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW) | [Melhor de Três](https://open.spotify.com/album/3jBdU1dOvwq9hnsSAZ5OyV) | 3:15 | 2024-04-26 | 2024-08-17 |
+| [Melodrama](https://open.spotify.com/track/0kMhHZ0UOf0YOvOqDtQ4ev) | [Undo](https://open.spotify.com/artist/4zwP0H9LBHeBLhpSDw28G3) | [Melodrama](https://open.spotify.com/album/11PxwkrVAy4ijhHhpPxMrf) | 3:36 | 2025-08-29 |  |
 | [Melô de Aparecida](https://open.spotify.com/track/1e0hVVG6zKxTQvY0lLDQPn) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô de Aparecida](https://open.spotify.com/album/4vs3woZjO8j9L303tEhWxB) | 2:58 | 2023-01-27 | 2023-03-18 |
 | [Melô do Sossego](https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô do Sossego](https://open.spotify.com/album/5qzdvVJmvb6gk05ftG0tB0) | 3:56 | 2025-07-04 |  |
 | [MENINA LINDA](https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Dois Quartos](https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto) | [MENINA LINDA](https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA) | 2:37 | 2022-02-11 | 2022-03-12 |

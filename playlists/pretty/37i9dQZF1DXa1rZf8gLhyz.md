@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,912 likes - 350 songs - 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,083 likes - 350 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 26 | [L´amore in silenzio](https://open.spotify.com/track/1Ssqfy9VI92aZYWbUAJdqU) | [Michael Lavigne](https://open.spotify.com/artist/1WzXXEpMoYGcwJbHPCUeXH) | [L´amore in silenzio](https://open.spotify.com/album/3lnk4kYOcKiWB8tyDWKXHV) | 2:08 |
 | 27 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 |
 | 28 | [Blue Water](https://open.spotify.com/track/3kWbxtt5LwSZmSQXhbsiSw) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [Blue Water](https://open.spotify.com/album/4XnYHiJsAPwrl7qrDGlIXJ) | 2:37 |
-| 29 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
+| 29 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 30 | [Blue Note](https://open.spotify.com/track/0BzOZXNa54CINFXZMmphbX) | [Russell Preston](https://open.spotify.com/artist/4NsaPckmCaT1Va19CbRqig) | [Blue Note](https://open.spotify.com/album/0sPWUFAwOne7o6330rZeP2) | 2:42 |
-| 31 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
+| 31 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
 | 32 | [Dim The Lights](https://open.spotify.com/track/21gieAbMpoxgqPF90Ed91p) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Dim The Lights](https://open.spotify.com/album/7q6Zi31Z6O5OrKcYyVJKYc) | 3:15 |
 | 33 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
 | 34 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 52 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 |
 | 53 | [Still you are](https://open.spotify.com/track/0OPZaMwlqEhekiWzLinukT) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Still you are](https://open.spotify.com/album/1EclKYIjKbEMlRS2NMiy92) | 2:51 |
 | 54 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
-| 55 | [Cherish the Night](https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Cherish the Night](https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI) | 2:33 |
+| 55 | [Cherish the Night](https://open.spotify.com/track/5W3P7uSiJUZIlZxiYFUYam) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Cherish the Night](https://open.spotify.com/album/6Y9FHM9bhGbQeaNjuFrFwI) | 2:33 |
 | 56 | [Maybe Next Week](https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Maybe Next Week](https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l) | 2:30 |
 | 57 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
 | 58 | [One Last Echo](https://open.spotify.com/track/53y0yxfqkdF2Pw909Wk9CH) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [One Last Echo](https://open.spotify.com/album/7JGDUBTRjVlZXFRyXrj3SF) | 2:50 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 86 | [in bloom](https://open.spotify.com/track/2HD8hrsF93st2QU00boQea) | [Hans DeGeer](https://open.spotify.com/artist/3r7uTBA2KM7UeghyK1jUye) | [in bloom](https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq) | 2:04 |
 | 87 | [A forgotten love](https://open.spotify.com/track/15CzeZ2i4g2DtEw170jUId) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [A forgotten love](https://open.spotify.com/album/7kzdaMOWgM4zQBx8Fvlz6d) | 2:48 |
 | 88 | [Let's Call It A Night](https://open.spotify.com/track/30M04XvBDBoXBLEQUjtpg8) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Let's Call It A Night](https://open.spotify.com/album/1MNq2XzxYiohinO3prxBZy) | 3:20 |
-| 89 | [Get Us a Cab](https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Get Us a Cab](https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts) | 2:36 |
+| 89 | [Get Us a Cab](https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Get Us a Cab](https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts) | 2:36 |
 | 90 | [A Different Kind of Love](https://open.spotify.com/track/5010T6TCmYfu1si8YdSSZu) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [A Different Kind of Love](https://open.spotify.com/album/29eceIh6ynBzGcLUPVtgFV) | 2:39 |
 | 91 | [A Winter Morning](https://open.spotify.com/track/0jLc0WZ60qoN4Zt2XDJBt1) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [A Winter Morning](https://open.spotify.com/album/0J6fpEUs10073cNLFieYgH) | 2:56 |
 | 92 | [Home for the Holidays](https://open.spotify.com/track/6pqL4DtLvzwleYwtyROl0g) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Home for the Holidays](https://open.spotify.com/album/7DHFFePclBTwB9sOOunvHK) | 2:44 |

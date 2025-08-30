@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: BigXthaPlug and Ella Langley
+> Today's top country hits\. Cover: Zach Top
 
 919 songs - 2 day 1 hr 40 min
 

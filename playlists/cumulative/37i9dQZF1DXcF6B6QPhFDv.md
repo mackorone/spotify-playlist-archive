@@ -2,7 +2,7 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Rock never dies\. Cover: Deftones
+> Rock never dies\. Cover: Wolf Alice
 
 1,030 songs - 2 day 9 hr 21 min
 

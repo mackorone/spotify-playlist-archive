@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get ready for Notting Hill Carnival 2025. The vibes start here.",
+  "description": "The vibes start here.",
   "name": "Carnival Sounds",
   "tracks": [
     {
@@ -3572,7 +3572,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 200769,
       "name": "Good Spirits",
       "url": "https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC"
@@ -4608,6 +4608,24 @@
       "duration_ms": 181173,
       "name": "I Like Muhself",
       "url": "https://open.spotify.com/track/6gOAlgNHMtXc6caBVFhQNw"
+    },
+    {
+      "album": {
+        "name": "Ignite the World - Single",
+        "url": "https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189048,
+      "name": "Ignite the World",
+      "url": "https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6"
     },
     {
       "album": {

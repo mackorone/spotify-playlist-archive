@@ -2,7 +2,7 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: RP Singh
+> Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
 481 songs - 1 day 0 hr 29 min
 

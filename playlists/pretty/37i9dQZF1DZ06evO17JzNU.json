@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 28997,
+  "num_followers": 29002,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAAA9JO9L085EthlCvSTV0pcc",
+  "snapshot_id": "aK+cAAAAAAD3+ROBfNzvGzD821x3V/7v",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son 4 Rifando",
-        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 139050,
-      "name": "Son 4 Rifando",
-      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hay Que Prender",
         "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 220000,
       "name": "Hay Que Prender",
       "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son 4 Rifando",
+        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 139050,
+      "name": "Son 4 Rifando",
+      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
     },
     {
       "added_at": null,

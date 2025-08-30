@@ -2,7 +2,7 @@
 
 ### [Weekly Buzz Tokyo](https://open.spotify.com/playlist/37i9dQZF1DWZZbpkxU5t9L)
 
-> いま話題の曲を週末にまとめてチェック。Cover: LISA
+> いま話題の曲を週末にまとめてチェック。Cover: IVE
 
 3,994 songs - 9 day 18 hr 50 min
 

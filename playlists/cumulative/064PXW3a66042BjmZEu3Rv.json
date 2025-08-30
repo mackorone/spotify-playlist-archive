@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste Nederlandse muziek vind je hier! Met o.a. MAKSIM &amp; Guus Meeuwis (cover), Frenna, Noano, Kensington en meer",
+  "description": "De beste Nederlandse muziek vind je hier! Met o.a. Kensington (cover), Frenna, Noano, Bilal Wahib en meer",
   "name": "Nederlandse Hits 2025 | Best of Nederland | Top songs Netherlands",
   "tracks": [
     {
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225179,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7"
+    },
+    {
+      "album": {
         "name": "Stay (Never Leave)",
         "url": "https://open.spotify.com/album/7Hv7lbljyc3vkjKpclEGzc"
       },
@@ -1556,6 +1574,24 @@
       "duration_ms": 187357,
       "name": "Terug In De Tijd",
       "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/25njr0QYUTovQ1721TkeRx"
+      },
+      "artists": [
+        {
+          "name": "BZN",
+          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230472,
+      "name": "Thanks",
+      "url": "https://open.spotify.com/track/42yCCeC5rpEzhkz7BUcfgh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-608 songs - 1 day 15 hr 52 min
+608 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [THIS LOVE](https://open.spotify.com/track/1P4cjmdcpYmpHiZHTAmcGz) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Jah Lead Music](https://open.spotify.com/artist/5H0C3fYJyKalouY8erJSga) | [THIS LOVE](https://open.spotify.com/album/47P2t1fH6CnzsZD5HCcKxF) | 2:48 | 2024-11-15 | 2025-02-28 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-06 |  |
 | [This Your Love II](https://open.spotify.com/track/0BvwcI1zzRHU9pjKFCxITr) | [Chuks Paschal](https://open.spotify.com/artist/3pUYC0FslPFdR87XdMggxE), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [This Your Love II](https://open.spotify.com/album/6QPzWzNj5cVcmD3UENUrVo) | 2:51 | 2025-07-11 |  |
+| [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 |  |
 | [Thousand Stars](https://open.spotify.com/track/3Cu7lZaA2Pq5z8j1XkjzR5) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Thousand Stars](https://open.spotify.com/album/6mDabdeFhmrigR9xN8igIQ) | 2:03 | 2025-08-22 |  |
 | [through it all](https://open.spotify.com/track/7K25LOsttc8cHExHEFguyc) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [through it all](https://open.spotify.com/album/4kpWeKWeUbXb9dxlzssxRW) | 2:52 | 2025-03-14 | 2025-05-30 |
 | [Tobechukwu](https://open.spotify.com/track/0yaFnZCP9PsSjRqoNaois1) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Mercy Chinwo Blessed](https://open.spotify.com/artist/1uYPP3Yd2SYuI86jCyc7Y2) | [Tobechukwu](https://open.spotify.com/album/37p01kW51WxinzmpxnsU3X) | 8:06 | 2023-05-26 |  |
@@ -537,7 +538,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2025-04-04 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 |  |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 7](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 0:00 | 2025-08-29 |  |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |
 | [Tutambule](https://open.spotify.com/track/0xDC6oC4lKSLWIY96uT2Pc) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Tutambule](https://open.spotify.com/album/2sx4RWCl7iCBiRJokNXLJW) | 2:34 | 2025-03-28 | 2025-05-30 |

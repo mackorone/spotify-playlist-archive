@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,824 likes - 54 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,826 likes - 54 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7efntgEZlGn.md) - [plain]
 | 53 | [Mfalme](https://open.spotify.com/track/1Mgoe4AVSoYoiDplMNk83O) | [Kris Erroh](https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2), [Lydia Ndwiga](https://open.spotify.com/artist/2rwjHvuk1Raby2BbaSe3K3), [Dunco Atalaku](https://open.spotify.com/artist/4exKG7ovOYAfVhfoMUZuhe) | [Mfalme](https://open.spotify.com/album/0hlOZli0GBXO6LSrJ914Xk) | 3:47 |
 | 54 | [Kanyaga Lami \- Based on the verse Psalms 119:105](https://open.spotify.com/track/4sAkd1zhj9luj4Jn00IKze) | [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE), [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU) | [Kanyaga Lami \(Based on the verse Psalms 119:105\)](https://open.spotify.com/album/1evUn3qTNUiY06RANg0Djr) | 3:12 |
 
-Snapshot ID: `AAAAAF0yx8wnaERuKXad3mtEqlGDyfdm`
+Snapshot ID: `AAAAAFn5brJEdp8QD9rpVIExlGc6bD+V`

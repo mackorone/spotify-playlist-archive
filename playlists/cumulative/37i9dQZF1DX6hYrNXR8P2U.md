@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 Frozouda
 
-531 songs - 1 day 3 hr 50 min
+534 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-10 | 2025-04-30 |
 | [Divergente](https://open.spotify.com/track/1J4VgmR03U8qRRFAsysuCv) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Divergente](https://open.spotify.com/album/78jabEVUG9vo1dfsmhrPq8) | 2:35 | 2025-01-10 | 2025-02-08 |
 | [doble F con visa](https://open.spotify.com/track/0vwj3d7mw38Tv3P2WSlLm4) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [doble F con visa](https://open.spotify.com/album/0BpUckgoJhf28myPJRHnE1) | 2:05 | 2025-07-25 | 2025-08-19 |
+| [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 | 2025-08-29 |  |
 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-19 | 2025-04-04 |
 | [Donde vamos](https://open.spotify.com/track/3Wb0obeYtdZxtCcaQ9WEd7) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Donde Vamos](https://open.spotify.com/album/0FurFGkEwgWs6fz96jox1J) | 4:42 | 2024-11-15 | 2025-02-08 |
 | [Dueña de mi Voz](https://open.spotify.com/track/2MypvJtCAQ0fa1BrDfUwCE) | [Solange Prat](https://open.spotify.com/artist/7C5xrdStb0IkEVADE2QGqi), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Dueña de mi Voz](https://open.spotify.com/album/0hh4dPjoZ45LWfwPsiojry) | 3:18 | 2025-03-07 | 2025-05-30 |
@@ -264,6 +265,7 @@
 | [Malambo de Acero](https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Tom Quintans](https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn) | [Malambo de Acero](https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP) | 2:44 | 2024-03-29 | 2024-07-06 |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-07-05 |  |
 | [Mar de Coral](https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Mar de Coral](https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF) | 3:55 | 2025-02-21 |  |
+| [Mates con Miel](https://open.spotify.com/track/5MR3jTQGzoOg7cFk1DY1ET) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Mates con Miel](https://open.spotify.com/album/19KTI599ScGGGk29iq4zgi) | 3:09 | 2025-08-29 |  |
 | [Mañana](https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Mañana](https://open.spotify.com/album/1xWpnekynuyo6vEKcHMgSi) | 3:26 | 2024-12-06 |  |
 | [ME DESPERTÉ](https://open.spotify.com/track/36adkTfwc2FXj87ajCjXCY) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [ME DESPERTÉ](https://open.spotify.com/album/2EmbsO7UpvytILKap1Ua8N) | 2:50 | 2025-03-07 |  |
 | [Me Gusta Tu Estilo](https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt) | [Mat Alba](https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chai](https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn) | 3:17 | 2023-10-13 | 2023-11-11 |
@@ -482,6 +484,7 @@
 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 | 2023-10-13 | 2024-01-20 |
 | [TUS OJOS](https://open.spotify.com/track/5hW3Qj6FdctGkHXdvaj23J) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [A.D.N](https://open.spotify.com/album/6FlX69ORWKVKuSXsoHPSFa) | 2:21 | 2025-04-29 |  |
 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 | 2023-11-10 | 2024-07-19 |
+| [Ultrademente](https://open.spotify.com/track/3Mens03q0PF0NAK5VvxayF) | [Benito Cerati](https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Ultrademente](https://open.spotify.com/album/1gOFeAmzrGwviem8yDU0u1) | 3:37 | 2025-08-29 |  |
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 | 2024-06-09 |
 | [Un Rato Más](https://open.spotify.com/track/5Sps2GFDVRR4AARMFT5Psx) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Un Rato Más](https://open.spotify.com/album/0Kg7boJK6PpHrg6N53s4aL) | 3:04 | 2025-02-21 |  |
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-10-13 | 2024-11-09 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Ollie Wride, Gunship, Siamese Youth and more
+> With Gunship, Ollie Wride, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,015 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,026 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Stranger Love](https://open.spotify.com/track/5TwUyeC78le23W2PM13B8c) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [Sunglasses Kid](https://open.spotify.com/artist/0jn6ofLtVkXpuH2mmV8J82) | [Stranger Love](https://open.spotify.com/album/0s0HwzmVUrc1wau3dZmY7L) | 5:49 |
 | 50 | [Invisible](https://open.spotify.com/track/1oqeNtrCSLxYYxe2F6qIrF) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0), [Ezra Hyte](https://open.spotify.com/artist/5WwVE1UtiLGcfAStm26V9I) | [Axiom](https://open.spotify.com/album/1TvVp8YyZoymMXHNepKpl8) | 3:21 |
 
-Snapshot ID: `aLEMHAAAAAD+SngqkAmralOBI1NYLQPd`
+Snapshot ID: `aLJXeAAAAAD4Kgn0gY2WK7WFSsTR6VDI`

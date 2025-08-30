@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=2DiYZCTNTL62Z9jXR0epyg"> Nali</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,052 likes - 482 songs - 23 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,117 likes - 482 songs - 23 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 30 | [Deserve](https://open.spotify.com/track/3U0d3bzQ5LMt51QzrI3BQK) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [Are You Still Listening?](https://open.spotify.com/album/2oSCVAgYxOv9OA0MTHJV3E) | 3:43 |
 | 31 | [Pull Up \(Drop\)](https://open.spotify.com/track/59cGnThfcTHmqHRBJKCrjA) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Oakwood](https://open.spotify.com/album/6Ohkfur8ad6slWRL7vqHIW) | 2:46 |
 | 32 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
-| 33 | [rd no mas](https://open.spotify.com/track/10bEyta8Z0cXbRTXhZHsVS) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb), [MKE](https://open.spotify.com/artist/4p0j2PYnc6LxlJPEPLzluR) | [rd no mas](https://open.spotify.com/album/0JxuB453oZd2JoBn3krHtS) | 3:17 |
+| 33 | [rd no mas](https://open.spotify.com/track/10bEyta8Z0cXbRTXhZHsVS) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb), [QWESi](https://open.spotify.com/artist/4p0j2PYnc6LxlJPEPLzluR) | [rd no mas](https://open.spotify.com/album/0JxuB453oZd2JoBn3krHtS) | 3:17 |
 | 34 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
 | 35 | [Why Why](https://open.spotify.com/track/4zgUOjpuMgolNDRxwQDaKY) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Why Why](https://open.spotify.com/album/0Fh7cxMOkonvxdPJzxMBkp) | 3:25 |
 | 36 | [My World \(beyond\)](https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [My World \(beyond\)](https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b) | 4:05 |

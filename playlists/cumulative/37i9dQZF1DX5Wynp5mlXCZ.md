@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: RAJA & Jamala
 
-405 songs - 20 hr 18 min
+406 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Дзвони](https://open.spotify.com/track/315NwHHdSVHe1BTuzZmzrn) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Дзвони](https://open.spotify.com/album/4weS9NI822vvnbRmzxeWVy) | 3:23 | 2024-07-04 | 2024-07-13 |
 | [дим](https://open.spotify.com/track/7dvyNtjVH1utKHk2xUCmuz) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [дим](https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O) | 3:01 | 2024-09-20 | 2024-09-28 |
 | [До води](https://open.spotify.com/track/4ngwuKwNdPrvy9hj0BBAvt) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt) | [До води](https://open.spotify.com/album/31MM5869R659MxkLbRxIBc) | 2:24 | 2025-04-10 | 2025-04-25 |
-| [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-06 |  |
+| [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 | 2025-08-29 |  |
+| [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 | 2025-03-06 | 2025-08-30 |
 | [Донбас \- Барселона](https://open.spotify.com/track/6yNy7FmpgcmNxFepoKEfet) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Лучше чим твій бивший](https://open.spotify.com/album/5OlX8FwjOqvFjXCwFdrGfE) | 2:32 | 2025-05-15 | 2025-05-23 |
 | [Дотепер і Назавжди](https://open.spotify.com/track/1I1aF22ajUjfNW6AItk1ls) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Дотепер і Назавжди](https://open.spotify.com/album/7qLYUo6kFMy6SuBitznKUq) | 2:37 | 2024-12-12 | 2024-12-20 |
 | [ДІВ ЧИНА](https://open.spotify.com/track/3Q37PGTFNTLcg52GSgnvNi) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0), [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [ДІВ ЧИНА](https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX) | 2:38 | 2024-08-16 | 2025-02-05 |

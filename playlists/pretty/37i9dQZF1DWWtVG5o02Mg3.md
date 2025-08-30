@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,379 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,386 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Counting Worms](https://open.spotify.com/track/6QjmnLmLqwjJzHSDCRTACU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Laugh Tracks](https://open.spotify.com/album/1WDAhs6x27Am5mXxl2PL4s) | 1:11 |
-| 2 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 |
+| 2 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 |
 | 3 | [Icct Hedral](https://open.spotify.com/track/1KSrR8A6FkYVbOM2Njwp0f) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 6:07 |
 | 4 | [Mutherfucker](https://open.spotify.com/track/5IOXHlLaf6rJThZytwFO30) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 2:05 |
 | 5 | [Eye For An Eye](https://open.spotify.com/track/0O3uf428Mrw7R39ypgBoex) | [Blind To Faith](https://open.spotify.com/artist/3a89D5yn6vbUyQ69uSu6s1) | [Unstoppable War](https://open.spotify.com/album/1WV0bq0tj29MOx3FEj1dbv) | 2:33 |

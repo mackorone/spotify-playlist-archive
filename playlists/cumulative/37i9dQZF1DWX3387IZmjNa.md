@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-733 songs - 1 day 12 hr 44 min
+735 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Raining \(feat\. Yung Bleu & Murda Beatz\)](https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Raining](https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo) | 3:42 | 2023-02-24 | 2023-06-17 |
 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 | 2025-02-14 |  |
 | [Rare Steppa](https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Steppa](https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K) | 1:58 | 2023-03-31 | 2023-04-09 |
+| [READY TO LOVE \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1KYTZhmQEXnwzp5TC3jWmQ) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:00 | 2025-08-29 |  |
 | [Real](https://open.spotify.com/track/38ICQQxXLoifVUNkJcs7r6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Real](https://open.spotify.com/album/1WamWAG6PKzLOK5s0JXvSy) | 2:44 | 2022-02-18 | 2022-03-12 |
 | [REAL ME \(WITH METRO BOOMIN\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 | 2025-03-21 | 2025-04-19 |
 | [Real Me Remix \(feat\. NLE Choppa\)](https://open.spotify.com/track/3Gurkj61CO5WEBpp72tZpf) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Real Me Remix \(feat\. NLE Choppa\)](https://open.spotify.com/album/4GNOfobbAX8StN9nHVKWDI) | 3:03 | 2023-06-30 | 2023-08-05 |
@@ -627,7 +628,7 @@
 | [They Don't Know](https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [They Don't Know](https://open.spotify.com/album/2rNpBAGNZz1jcccaoK2oT7) | 2:48 | 2022-12-16 | 2023-09-16 |
 | [They Don't Love You](https://open.spotify.com/track/5WpS6aGsIeOMW4r3H3XhDd) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [They Don't Love You](https://open.spotify.com/album/466VlTAOithZsI4YmhVXis) | 2:48 | 2024-06-28 | 2024-07-13 |
 | [Thinking Hurts](https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Thinking Hurts](https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys) | 2:59 | 2023-08-25 | 2023-09-09 |
-| [Thugger Baby](https://open.spotify.com/track/2QrMsrfb2kHlU0Q0D82FZl) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [B4RNG](https://open.spotify.com/album/3Tli2OT2ItFKGEI3pkfgyF) | 4:03 | 2025-07-11 |  |
+| [Thugger Baby](https://open.spotify.com/track/2QrMsrfb2kHlU0Q0D82FZl) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [B4RNG](https://open.spotify.com/album/3Tli2OT2ItFKGEI3pkfgyF) | 4:03 | 2025-07-11 | 2025-08-30 |
 | [Till We Drop](https://open.spotify.com/track/3nD6o21RsGGvA2MTNaT54o) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Till We Drop](https://open.spotify.com/album/2BeAZCYBLLDiwhciEsAgeW) | 2:29 | 2023-02-17 | 2023-04-01 |
 | [Time Goes By](https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Time Goes By](https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4) | 2:38 | 2024-02-02 | 2024-04-27 |
 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 | 2023-07-07 | 2024-02-17 |
@@ -681,6 +682,7 @@
 | [We Time](https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 | 2024-05-24 | 2024-06-01 |
 | [Welcome Back](https://open.spotify.com/track/6lhlzSra6YxSPWw5lzv7hG) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:42 | 2022-07-22 | 2022-10-08 |
 | [Welcome Back, Dummy](https://open.spotify.com/track/6cm2FXJjs4YtaccHczvN1Y) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [No, I'm Not Ok](https://open.spotify.com/album/6O3xoiaAe3klssyrO17uNS) | 2:23 | 2021-12-17 | 2022-05-28 |
+| [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-29 |  |
 | [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 | 2022-09-09 | 2022-09-24 |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-03-31 | 2023-05-20 |
 | [What I Want](https://open.spotify.com/track/04yttrHDC9OtG9WOfBHbsX) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 3:47 | 2024-06-21 | 2024-07-06 |

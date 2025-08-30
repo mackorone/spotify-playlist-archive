@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Luvcat",
+  "description": "a little indie, a little pop, soda featuring Nicky Youre",
   "name": "soda",
   "tracks": [
     {
@@ -834,6 +834,24 @@
       "duration_ms": 213793,
       "name": "alibi",
       "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
+    },
+    {
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175716,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
     },
     {
       "album": {
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 201913,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/4OhHrtiU7JIPhOJBVlBTgP"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 121795,
       "name": "colors",
       "url": "https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo"
@@ -5890,7 +5908,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 202093,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon"
@@ -6263,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "ICONIC EP",
+        "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
+    },
+    {
+      "album": {
         "name": "Dog",
         "url": "https://open.spotify.com/album/3hgcOIKEyNobZgWQx37S4R"
       },
@@ -6418,7 +6454,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 167964,
       "name": "Don't Sweat It",
       "url": "https://open.spotify.com/track/4cWPQXwN7p0RKihlUlcOUf"
@@ -7024,7 +7060,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 163592,
       "name": "End Zone",
       "url": "https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD"
@@ -10264,7 +10300,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 286000,
       "name": "His LA Girl",
       "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
@@ -11616,7 +11652,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 173439,
       "name": "I Want You Here All The Time",
       "url": "https://open.spotify.com/track/2riJzFiqt8w0g7xkIhRapl"
@@ -12462,7 +12498,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 213255,
       "name": "Jamie",
       "url": "https://open.spotify.com/track/3KYEnA8hogjKIquhHC0A5X"
@@ -12592,7 +12628,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 201226,
       "name": "June",
       "url": "https://open.spotify.com/track/0cCX9hZfhr138GDXFbTemL"
@@ -12848,7 +12884,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 161146,
       "name": "Keep My Cool",
       "url": "https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l"
@@ -13090,7 +13126,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 172000,
       "name": "Kiss & Tell A Phone",
       "url": "https://open.spotify.com/track/60SSgWbtFd4SVGhj18EPL6"
@@ -13606,7 +13642,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197273,
       "name": "LEMONHEAD",
       "url": "https://open.spotify.com/track/4RTcv1gtLJGLygmqePlgL2"
@@ -14132,7 +14168,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 165263,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/09rbDRGEfhvOVuvHvsRzuU"
@@ -15012,6 +15048,24 @@
       "duration_ms": 167412,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0iUC5CRjpV3Kayoz0oNvE6"
+    },
+    {
+      "album": {
+        "name": "Going, Going, Gone (For Good)",
+        "url": "https://open.spotify.com/album/1GdBkNNiNakqBcBBu9Z0f1"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "Maybe I Do",
+      "url": "https://open.spotify.com/track/1IEcpd2OmAA9KNO6cfTn4D"
     },
     {
       "album": {
@@ -16270,7 +16324,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 137471,
       "name": "Never Been In Love",
       "url": "https://open.spotify.com/track/3IRifTOnH1y8PPtgEhty5Y"
@@ -16324,7 +16378,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 165668,
       "name": "new friends",
       "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
@@ -17412,6 +17466,24 @@
       "duration_ms": 195789,
       "name": "Out of Your League",
       "url": "https://open.spotify.com/track/1oU2liz5XrN3xpT23F6Q3O"
+    },
+    {
+      "album": {
+        "name": "Outbound",
+        "url": "https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Outbound",
+      "url": "https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK"
     },
     {
       "album": {
@@ -18516,7 +18588,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -19150,7 +19222,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
@@ -19922,6 +19994,24 @@
       "duration_ms": 160713,
       "name": "SideQuest",
       "url": "https://open.spotify.com/track/0eP2iFZYAFzq69RiIxFRF8"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/4qmH3sNIPphfjrsruLfUiE"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/5fLbVEHBkaGnK9jsVFpDLI"
     },
     {
       "album": {
@@ -21176,7 +21266,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 165213,
       "name": "Sticks n' Stones",
       "url": "https://open.spotify.com/track/6jRhDYMLdBqo2d8FU6VsNY"
@@ -21558,6 +21648,24 @@
       "duration_ms": 183809,
       "name": "Suddenly Okay",
       "url": "https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3WBvHRbPcanFjK0at0np3m"
+      },
+      "artists": [
+        {
+          "name": "Beno",
+          "url": "https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/0IhcVVlmZCPOkSSozJ2smN"
     },
     {
       "album": {
@@ -22352,7 +22460,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 200881,
       "name": "Tattoo (selective memory)",
       "url": "https://open.spotify.com/track/31xaMSuU899eoPsNtaspXT"
@@ -22370,7 +22478,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 118690,
       "name": "TATTOOS & U",
       "url": "https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E"
@@ -22410,6 +22518,24 @@
       "duration_ms": 162800,
       "name": "Tease Me",
       "url": "https://open.spotify.com/track/2zd9veJ3ELc1OBTbscFx7b"
+    },
+    {
+      "album": {
+        "name": "Telephoning from Safari",
+        "url": "https://open.spotify.com/album/3ZuSJqiZI3trIcISJxm0iY"
+      },
+      "artists": [
+        {
+          "name": "Juliana Madrid",
+          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203285,
+      "name": "Telephoning from Safari",
+      "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
     },
     {
       "album": {
@@ -23452,7 +23578,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184436,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/2h1UMCTfPc3P2ko1D5tbNQ"
@@ -25004,7 +25130,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 168294,
       "name": "what do i know?",
       "url": "https://open.spotify.com/track/1mbZ7V8SgPERXLtc9UDQLR"
@@ -25030,6 +25156,24 @@
       "duration_ms": 201132,
       "name": "What Do You Do for a Living? I Do My Best",
       "url": "https://open.spotify.com/track/6s2NbDQhKWMS3BauT5Nr3d"
+    },
+    {
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/6JR60yod435QFWAsDv4XJ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192204,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/2NzIHruwYO4Esv1VOKh42S"
     },
     {
       "album": {
@@ -26288,7 +26432,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 193085,
       "name": "Young Days",
       "url": "https://open.spotify.com/track/4hJLnSDksmEP4Zk9ficdsF"

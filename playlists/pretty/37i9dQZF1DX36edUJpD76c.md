@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Dardan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,974,542 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974,489 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 26 | [aRSCHBACKEN \- feat\. Jamule & FOURTY](https://open.spotify.com/track/4PR8kAegGI0EzcjUHNVlXD) | [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [aRSCHBACKEN \(feat\. FOURTY & Jamule\)](https://open.spotify.com/album/79RXdMWjibGvLzWI8zO9Ty) | 1:56 |
 | 27 | [HOKUS POKUS](https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HOKUS POKUS](https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO) | 3:11 |
 | 28 | [Doppel Ass](https://open.spotify.com/track/2gz0YGXO9o4Vb8L6MP1Jz2) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Doppel Ass](https://open.spotify.com/album/7LOKxfmHlMPknM4Nsz4V4v) | 2:40 |
-| 29 | [Bubblegum](https://open.spotify.com/track/1dW3Cd4MshbzcUSIRktqGz) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Bubble Gum](https://open.spotify.com/album/6lXWGv7kjGhyH5IUxASWNs) | 1:51 |
+| 29 | [Bubblegum](https://open.spotify.com/track/1dW3Cd4MshbzcUSIRktqGz) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Bubblegum](https://open.spotify.com/album/6lXWGv7kjGhyH5IUxASWNs) | 1:51 |
 | 30 | [Baccarat](https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Baccarat](https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2) | 2:52 |
 | 31 | [Monster](https://open.spotify.com/track/6Cg5DRA6kHhpEYaoNGHwP6) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Monster](https://open.spotify.com/album/1c1qW3rQsXJ8EpM11NMjsb) | 2:35 |
 | 32 | [Planufer](https://open.spotify.com/track/2pzuTdm3xjArM282QRTd1G) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Planufer](https://open.spotify.com/album/793ncmuxf7YZPi8PFwXhgD) | 2:00 |
 | 33 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 |
 | 34 | [Sure Shots](https://open.spotify.com/track/2Nryu9QVJp6pOBRnzbjCMd) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [Sure Shots](https://open.spotify.com/album/17O5lB1crIROppolN6toHG) | 3:15 |
 | 35 | [Baddest in Germany](https://open.spotify.com/track/68riJ0IgArc6va32ihh57s) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Baddest in Germany](https://open.spotify.com/album/5sXwo4isUCjmHW1vlJmgci) | 2:20 |
-| 36 | [DND](https://open.spotify.com/track/1gaYoY58vho96I7PKkoPhF) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [DND](https://open.spotify.com/album/2oCNlevhggqSezUWPe3lI1) | 2:02 |
+| 36 | [DND](https://open.spotify.com/track/1gaYoY58vho96I7PKkoPhF) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [nocashfromparents](https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ) | [DND](https://open.spotify.com/album/2oCNlevhggqSezUWPe3lI1) | 2:02 |
 | 37 | [JUPITER](https://open.spotify.com/track/7ecko4ieGpsWtj4h0rBAaJ) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [JUPITER](https://open.spotify.com/album/55Zn5Nevfx1a3OrEnjzdBE) | 2:44 |
 | 38 | [PARFUM](https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [PARFUM](https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq) | 2:40 |
 | 39 | [MOVIE](https://open.spotify.com/track/1CSlgSrUz9xQ5onBCay1I2) | [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [MOVIE](https://open.spotify.com/album/0zqZbS2MfrtdZGsZu56l3s) | 2:40 |

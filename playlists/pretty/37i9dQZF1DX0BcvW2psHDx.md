@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 > T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,228 likes - 200 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,239 likes - 200 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 | 49 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 50 | [AREAMATE MIZ](https://open.spotify.com/track/6cDMNTlXoInwCg5Jo0Nd4F) | [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [AREAMATE MIZ](https://open.spotify.com/album/0VnjSeajDjzh2mRdWePGhN) | 1:16 |
 | 51 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
-| 52 | [Fur Elise](https://open.spotify.com/track/2hizDAkpLKVjYSacsinMrs) | [dnvn](https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [Fur Elise](https://open.spotify.com/album/3U0Nx6EZGpagutaPMVlmq2) | 2:07 |
+| 52 | [Fur Elise](https://open.spotify.com/track/2hizDAkpLKVjYSacsinMrs) | [dnvn](https://open.spotify.com/artist/5q1SD3zx3GPnofIAPOIFrY), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR), [Phonk King](https://open.spotify.com/artist/3SZ90ANlXjdw2hmDT4ULaW) | [Fur Elise](https://open.spotify.com/album/3U0Nx6EZGpagutaPMVlmq2) | 2:07 |
 | 53 | [Sequência da Dz7](https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7) | 1:59 |
 | 54 | [Override](https://open.spotify.com/track/4WFNzYMsKwhCDeI06ZAuCC) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Override](https://open.spotify.com/album/0AbdQLKlralk50yDgvQG0B) | 2:53 |
 | 55 | [JUNGLE](https://open.spotify.com/track/7K9Qhpdf29lFIKq2NOj3wR) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [JUNGLE](https://open.spotify.com/album/2cKmopiKHOKsJsPh9w6a6q) | 2:43 |

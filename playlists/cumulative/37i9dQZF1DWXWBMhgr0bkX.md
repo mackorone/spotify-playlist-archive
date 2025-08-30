@@ -2,7 +2,7 @@
 
 ### [New Pop UK](https://open.spotify.com/playlist/37i9dQZF1DWXWBMhgr0bkX)
 
-> Homegrown talent feat\. samxemma 🪟
+> Homegrown talent feat\. Citizen Papes 🔋
 
 714 songs - 1 day 12 hr 35 min
 

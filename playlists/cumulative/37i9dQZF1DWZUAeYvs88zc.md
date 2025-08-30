@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-586 songs - 1 day 8 hr 50 min
+587 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-12-06 | 2025-07-12 |
 | [Back To You \- Riton & Kah\-Lo Remix](https://open.spotify.com/track/2YyVBV0klw0T6EvSVkCpuW) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Back To You \(Riton & Kah\-Lo Remix\)](https://open.spotify.com/album/5vhQsXg5ehhfYN6bJpqYNR) | 2:58 | 2019-05-26\* | 2019-11-15 |
 | [Backseat \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/4HjtHraeKy5wA4DA9o92HZ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:58 | 2019-05-26\* | 2020-08-07 |
-| [bad news](https://open.spotify.com/track/1EaPbknWQOfgEU0TQqFB84) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [bad news](https://open.spotify.com/album/3VnQE3ZVP1lqmYlsjmEZXN) | 2:24 | 2025-06-20 |  |
+| [bad news](https://open.spotify.com/track/1EaPbknWQOfgEU0TQqFB84) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [bad news](https://open.spotify.com/album/3VnQE3ZVP1lqmYlsjmEZXN) | 2:24 | 2025-06-20 | 2025-08-30 |
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2021-03-26 | 2021-10-27 |
 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/28izyGMuPysSxWhKbqxRRc) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/album/19SqTcS9B9gHZImliAOmiM) | 4:36 | 2022-03-25 | 2022-04-16 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-26 |  |
@@ -234,6 +234,7 @@
 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 | 2019-05-26\* | 2021-10-02 |
 | [i miss u \(with Au/Ra\)](https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [i miss u \(with Au/Ra\)](https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5) | 2:52 | 2021-01-08 | 2021-10-13 |
 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 | 2019-05-26\* | 2021-06-22 |
+| [I MISS YOUR LOVE](https://open.spotify.com/track/0ex8iDhoMsgoix4EkoeTMm) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I MISS YOUR LOVE](https://open.spotify.com/album/0iJxa8u12IwBPFvOHm47D3) | 3:33 | 2025-08-29 |  |
 | [i pick loneliness](https://open.spotify.com/track/3pacqxmoVX4Im2y6IrrdeU) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:37 | 2021-10-21 | 2022-07-29 |
 | [i pick loneliness](https://open.spotify.com/track/4SdoXp42bZe2w5ZFynw8oo) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [i pick loneliness](https://open.spotify.com/album/4TSmJsTIr6I6WDQNwLF0KW) | 2:37 | 2021-09-22 | 2021-09-25 |
 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:20 | 2024-10-11 |  |

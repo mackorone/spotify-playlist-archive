@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> New music from sombr, Laufey, Doja Cat, Offset & Gunna, Deftones, and more!
+> New music from Sabrina Carpenter, Blood Orange, The Kid LAROI, Young Thug, Balu Brigada, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,426,464 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,431,950 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [The Way You Love \(feat\. Jon Keith\)](https://open.spotify.com/track/1QvsH4JWdJSiskgvVnE7Zt) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [The Way You Love \(Ft\. Jon Keith\)](https://open.spotify.com/album/44YpHUhG9dZynM5q5mrKlh) | 3:15 |
 | 99 | [Wheels at Night](https://open.spotify.com/track/4GRmluN7jCIhcqTXD3FzkL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Bury the Key](https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK) | 2:34 |
 
-Snapshot ID: `AAAAAD1KVPaGfFHxkFah1yBNZSsFPoRk`
+Snapshot ID: `AAAAABVMcF/nhglySvidFOUZxPzJzfKy`

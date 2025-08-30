@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 144030,
+  "num_followers": 144075,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNdd5nZOhmJwCHwYRW8Ba9a+9Vx",
+  "snapshot_id": "AAAAAHS7d37Deap380MqTNZqnPbKOnhf",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:35",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
@@ -1811,26 +1827,6 @@
       "duration_ms": 225457,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Sick of Sadness (Lenno Remix)",
-        "url": "https://open.spotify.com/album/6gtJFIDauQWU9t8hq3tVzP"
-      },
-      "artists": [
-        {
-          "name": "Chloe Jane",
-          "url": "https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv"
-        },
-        {
-          "name": "Lenno",
-          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
-        }
-      ],
-      "duration_ms": 292428,
-      "name": "Sick of Sadness - Lenno Remix",
-      "url": "https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny"
     },
     {
       "added_at": "2023-06-02 04:01:00",

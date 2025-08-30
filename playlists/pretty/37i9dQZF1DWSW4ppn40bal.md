@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,182 likes - 300 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,258 likes - 300 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 71 | [Brown Low Frequencies](https://open.spotify.com/track/6mcsuKDL1ipawTzRLeK7aj) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Sleepy Brown Noise](https://open.spotify.com/album/3qoesic2OL9fJxpQkndILq) | 2:21 |
 | 72 | [Brown Noise Lullaby](https://open.spotify.com/track/1KDbyLh6A4kXAfjhRO4IeQ) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Brown Noise Lullaby](https://open.spotify.com/album/0HuJWuYZrVd1eP3C9Y5Ye0) | 2:14 |
 | 73 | [Brown Noise for Relaxing](https://open.spotify.com/track/0bohmotsrCFyZ4Wfouo7CV) | [Everywhere Brown Noise](https://open.spotify.com/artist/4r6joVLgbTD7M07z1KIooA) | [Sleeping Brown Noise](https://open.spotify.com/album/7umltGSpruiFHUJUxQJLlf) | 3:43 |
-| 74 | [Relaxation & Sleep With The Brown Noise](https://open.spotify.com/track/6flGfLyx8vaTjB2t0qSOdE) | [HQ\-8](https://open.spotify.com/artist/2xEPxo2h04sAv4gBc24e3B) | [Relaxation & Sleep With The Brown Noise](https://open.spotify.com/album/0GXz391NUiqbWc3alj7dOW) | 2:13 |
+| 74 | [Relaxation & Sleep With The Brown Noise](https://open.spotify.com/track/6flGfLyx8vaTjB2t0qSOdE) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Relaxation & Sleep With The Brown Noise](https://open.spotify.com/album/0GXz391NUiqbWc3alj7dOW) | 2:13 |
 | 75 | [Amazing Pink \- Seamless](https://open.spotify.com/track/4pZUnR6v0hw2xBJoqkfOQj) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Color Of Pink](https://open.spotify.com/album/6pNeoNCnyuxZeE22N9FOfi) | 3:09 |
 | 76 | [Baby Sleep Brown Noise 1](https://open.spotify.com/track/1mqr6bjL9YvaGTsqTzOKlT) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:28 |
 | 77 | [Brownstone Slow Down Noise](https://open.spotify.com/track/1ZP6wQViuBOdjwbWtRQGLb) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Brownstone Vibe](https://open.spotify.com/album/4aOxkNx7lB35aay3TohIzG) | 2:52 |
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 83 | [Chilled Pink Lullaby](https://open.spotify.com/track/0APmmogkV8VCzKdGB6d0Sh) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Chilled Pink Sleep](https://open.spotify.com/album/6XcpRqHSr3sujIw1oOF02N) | 4:07 |
 | 84 | [Brown Noise im Schlafzimmer](https://open.spotify.com/track/0EStjkii0oUbsVcdxTplpk) | [A Dreaming Machine](https://open.spotify.com/artist/7rybj6DFBE9HYjDsD4ILuA) | [Brown Noise Schlafhilfe](https://open.spotify.com/album/0c7OruYVs7vAxUVSAYeLO5) | 3:44 |
 | 85 | [Curing Brown Noise](https://open.spotify.com/track/7rKsBBSWIxNoNVpxl3esKU) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Curing Brown Noise](https://open.spotify.com/album/2UrNk9OcEo7z7FzHEYYerq) | 3:34 |
-| 86 | [Dark Brown Noise 1](https://open.spotify.com/track/4MNzUq2ASKEgfO93e9l6IP) | [2029](https://open.spotify.com/artist/75C76xB78tyncdc0AJ2gOS) | [Dark Brown Noise](https://open.spotify.com/album/6VBU1yRd1xIRN3vL4v2szL) | 2:18 |
+| 86 | [Dark Brown Noise 3](https://open.spotify.com/track/4MNzUq2ASKEgfO93e9l6IP) | [2029](https://open.spotify.com/artist/75C76xB78tyncdc0AJ2gOS) | [Dark Brown Noise](https://open.spotify.com/album/6VBU1yRd1xIRN3vL4v2szL) | 2:36 |
 | 87 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 88 | [Beauty Sleep Brown Noise \- Seamless](https://open.spotify.com/track/2uUSMaeodusMJNZ9fAPdsR) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 2:53 |
 | 89 | [Warming Brown Noise](https://open.spotify.com/track/0RSMXSylZA7BIycjzpym6T) | [Sleepy Parents](https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj) | [Pacifying Brown Noise](https://open.spotify.com/album/34pUUouvWXJa8hANnLaMXU) | 3:32 |
 | 90 | [Stormy Ocean Pink Noise](https://open.spotify.com/track/3VQ13NVz6w98nsg3YWJ8XG) | [Dream Birds](https://open.spotify.com/artist/6exdDygZZLI2xuOyLPCNnn) | [Oceans of Noise](https://open.spotify.com/album/2O3z9vxbbjBl1KmTJnFews) | 3:12 |
 | 91 | [Brown Oceanic Noise 340 Hz \- Seamless](https://open.spotify.com/track/21d1Gbp9u8SiupUfAImyBL) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Brown Noise](https://open.spotify.com/album/69iNf6AZ6JpFJUktVcoTdv) | 3:04 |
-| 92 | [Brown Noise \- 500 Hz \- Cutoff](https://open.spotify.com/track/1a1FejtHrHiz2b3DY6mwCn) | [Ambient Sample Library](https://open.spotify.com/artist/6PNnYUWwNZssn13ObbsqrC) | [Ambient Brown Noise](https://open.spotify.com/album/2eX4QLxSoYBh4ODULeluhE) | 2:17 |
+| 92 | [Brown Noise \- 500 Hz \- Cutoff](https://open.spotify.com/track/1a1FejtHrHiz2b3DY6mwCn) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Ambient Brown Noise](https://open.spotify.com/album/2eX4QLxSoYBh4ODULeluhE) | 2:17 |
 | 93 | [Brown Bliss 190 Hz](https://open.spotify.com/track/1ziJYQN5A3QNvkAhWw31Do) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Brown Bliss](https://open.spotify.com/album/1SO6AHP2ZWkkfvxuEoDT78) | 3:01 |
 | 94 | [Delicate Brown Noise](https://open.spotify.com/track/5QBbgqf0nvXkRDP7sPz7rP) | [Delicatessen Noise](https://open.spotify.com/artist/5RxupLWXooqV5lxD8c4vCz) | [Marrone](https://open.spotify.com/album/08DW6F25UMwzZHxp7HpBlX) | 3:21 |
 | 95 | [Brown Comfort](https://open.spotify.com/track/1JKDKAkLK2lqKJC68TbOxT) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:38 |
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 130 | [Beyond Brown Noise](https://open.spotify.com/track/3VDIwdXHDmSOcHCJx5XaTL) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Beyond Brown Noise](https://open.spotify.com/album/5qkYY3XTt8WYNmAUFw4Dkv) | 2:35 |
 | 131 | [Time Collecting Noise](https://open.spotify.com/track/45CO9xKmt9o9sqfVKXGDy0) | [No Shapes Island](https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4) | [Time Collecting Noise](https://open.spotify.com/album/0wZMwQUUIPaaNvH3wqnLCe) | 2:15 |
 | 132 | [Brown Mellow Noise 360 Hz Light Q \- Seamless](https://open.spotify.com/track/3igT2HOsfVZgYTsTObLbxZ) | [Colorix](https://open.spotify.com/artist/0WFH9vqXxzL2VxCzHmWkdI) | [Brown Mellow Noise](https://open.spotify.com/album/2fXEf1Cp6hgnf9KnPYbp3k) | 3:00 |
-| 133 | [Brown Noise Flow](https://open.spotify.com/track/2VN8zktzoL7vtKXI4Td1Jj) | [W\-Noise](https://open.spotify.com/artist/1WyYW2KP02ZOzDl4e9HBuB) | [Lush Brown Noise](https://open.spotify.com/album/6tlBTXJBfObNuAxqUTEJ0H) | 2:24 |
+| 133 | [Brown Noise Flow](https://open.spotify.com/track/2VN8zktzoL7vtKXI4Td1Jj) | [Noise Makers](https://open.spotify.com/artist/53wxoSkjgilHcCqng9HK1y) | [Lush Brown Noise](https://open.spotify.com/album/6tlBTXJBfObNuAxqUTEJ0H) | 2:24 |
 | 134 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 |
 | 135 | [Baby Sleep Brown Noise 9](https://open.spotify.com/track/2qQ4zVVuo3jtxrWnxKNapF) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Brown Noise](https://open.spotify.com/album/1T3WPPZ67s9fVzdfpjruR9) | 2:17 |
 | 136 | [Brown Focus Noise 400 Hz Soft Q](https://open.spotify.com/track/5AqHhTMO9sO70kzWu2ji3a) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 3:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,457 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,573 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 79 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 80 | [Control \(with Joeboy & Bella Shmurda\)](https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Control \(with Joeboy & Bella Shmurda\)](https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a) | 3:05 |
 
-Snapshot ID: `AAAAAJS0iXkk8JBU3Q0kR2dJ3X3wiTWj`
+Snapshot ID: `AAAAABR3i5bWqKWtt0tmsPHsUOXIVY1e`

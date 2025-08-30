@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "From Me",
+        "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170157,
+      "name": "Back in the Bottle",
+      "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
+    },
+    {
+      "album": {
         "name": "Backroad of My Mind",
         "url": "https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0"
       },
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"

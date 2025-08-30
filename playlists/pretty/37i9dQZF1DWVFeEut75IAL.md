@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,314 likes - 126 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,855 likes - 126 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 96 | [Galaxy](https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Galaxy](https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0) | 3:42 |
 | 97 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 |
 | 98 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 |
-| 99 | [El cant dels ocells \(Version for Cello & Orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pablo Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 |
+| 99 | [El cant dels ocells \(Version for Cello & Orchestra\)](https://open.spotify.com/track/5k4Eagqnz3YKdMLjSSi0DD) | [Pau Casals](https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Gustavo Gimeno](https://open.spotify.com/artist/4neZeAHXeNMscSVJqEG7wY), [Deutsche Staatsphilharmonie Rheinland\-Pfalz](https://open.spotify.com/artist/2WFslyxlAJwH2al4xZztFW) | [Elegy](https://open.spotify.com/album/6ui6clzZVh0hYGcklqLBdy) | 3:49 |
 | 100 | [3 Pieces in Old Style: No\. 1, Aria](https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF) | [Krzysztof Penderecki](https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku), [Warsaw Philharmonic Chamber Orchestra](https://open.spotify.com/artist/3HoZrSziC8MiELPaOJNDqh), [Antoni Wit](https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh) | [Penderecki: Sinfoniettas \- Oboe Capriccio](https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu) | 2:13 |
 | 101 | [Concerto in D Minor, BWV 974: II\. Adagio \(After Marcello\)](https://open.spotify.com/track/6Jw84k8V43OH4rOP3RJg1F) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Azul Lima](https://open.spotify.com/artist/4yFp2S4pGvGLXyNct6e2Q3) | [Venice](https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz) | 3:25 |
 | 102 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 |

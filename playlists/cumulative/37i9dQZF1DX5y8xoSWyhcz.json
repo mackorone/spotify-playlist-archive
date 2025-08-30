@@ -18569,6 +18569,24 @@
     },
     {
       "album": {
+        "name": "THYMIA",
+        "url": "https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12"
+      },
+      "artists": [
+        {
+          "name": "Lhasa Petik",
+          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244462,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO"
       },
@@ -22680,24 +22698,6 @@
       "duration_ms": 139200,
       "name": "Town I Called My Home",
       "url": "https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m"
-    },
-    {
-      "album": {
-        "name": "THYMIA",
-        "url": "https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12"
-      },
-      "artists": [
-        {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
-        }
-      ],
-      "date_added": "2025-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
-  "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: Chick Corea",
-  "num_followers": 213065,
+  "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
+  "num_followers": 213067,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbmS7exPABPTO7dsU74zKOs4lI+",
+  "snapshot_id": "AAAAAEG95AH4IP8oUN8iu8eJu9c//b3+",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "TRUE BLUE",
+        "url": "https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "SKY SO HIGH",
+      "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
+    },
     {
       "added_at": "2025-02-07 05:00:20",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 339826,
       "name": "Got A Match?",
       "url": "https://open.spotify.com/track/5hqqPJuZVQkTtIos7zS6nD"
-    },
-    {
-      "added_at": "2023-08-14 15:11:22",
-      "album": {
-        "name": "Asian Dreamer",
-        "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
-      },
-      "artists": [
-        {
-          "name": "CASIOPEA",
-          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Midnight Rendezvous",
-      "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
     },
     {
       "added_at": "2023-08-14 15:11:22",

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "1804 / 1 Million Haitians and Africans",
+        "url": "https://open.spotify.com/album/3vorYdCg7cGsAniBYQfxoY"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145085,
+      "name": "1804",
+      "url": "https://open.spotify.com/track/3cfbK7ZTCDYHezlPwqlh8d"
+    },
+    {
+      "album": {
         "name": "Thank You Slipknot",
         "url": "https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg"
       },
@@ -1722,6 +1740,24 @@
       "duration_ms": 334205,
       "name": "Bloom: Small World",
       "url": "https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6"
+    },
+    {
+      "album": {
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/7uBhQ1HqYZa9LOLJdeguQT"
+      },
+      "artists": [
+        {
+          "name": "RIVA",
+          "url": "https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "BLU",
+      "url": "https://open.spotify.com/track/17zJMtnfdv3dIR93BWcMGo"
     },
     {
       "album": {
@@ -3954,7 +3990,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 313994,
       "name": "Fragments of a Slipstream Dream",
       "url": "https://open.spotify.com/track/5CBzjF1ViRgLUsGM1YUXen"
@@ -8468,7 +8504,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 221826,
       "name": "Sumerian Green",
       "url": "https://open.spotify.com/track/1clrCBwtMxOc9KoZLh1Iy4"
@@ -10330,7 +10366,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 212626,
       "name": "Yellowed Leaves Drift Down",
       "url": "https://open.spotify.com/track/1Thn7RyLmtnZilAzLg1U56"
@@ -10356,7 +10392,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 212626,
       "name": "Yellowed Leaves Drift Down",
       "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"

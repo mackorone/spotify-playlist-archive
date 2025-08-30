@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: The Popstar
 
-4,996 songs - 12 day 18 hr 4 min
+4,998 songs - 12 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Between Sight](https://open.spotify.com/track/6NlRmA4WYtYNqsM19vjjiA) | [The Basement Dry](https://open.spotify.com/artist/5hIlvEyTFpzEFnpkZ07QN1) | [Statement](https://open.spotify.com/album/38uUvknw9qj6q6fVKuL6Fc) | 4:30 | 2023-05-18 | 2023-06-02 |
 | [Between Worlds](https://open.spotify.com/track/3dK72LZeFZfpYrR9UvbAx3) | [Trulavish](https://open.spotify.com/artist/0Y7vwk2jIb7t8gZj4AKC07) | [Between Worlds](https://open.spotify.com/album/0I0G8adcn9WfUYY5ZgSjls) | 4:16 | 2023-10-13 | 2023-11-03 |
 | [Bhinneka](https://open.spotify.com/track/1vjz7YR7hJWJSy1O9W1SXJ) | [Melvhin Samuel](https://open.spotify.com/artist/6ViGA7D9zgSNbsTp58QM09), [Titik Awal](https://open.spotify.com/artist/29MIJFqKrbKJhttvpOFXqi) | [Bhinneka](https://open.spotify.com/album/33QhO1Szab4JJKAQpkDSp3) | 3:50 | 2023-06-01 | 2023-06-16 |
+| [Biar Jadi Rahasia](https://open.spotify.com/track/55DxRZVH2NicJbnyPxZxRQ) | [Ryo Domara](https://open.spotify.com/artist/09wq1xRdDq0tejikDPG1g7) | [Biar Jadi Rahasia](https://open.spotify.com/album/1mHkG2jB0IOSYn06qIIu4c) | 4:15 | 2025-08-29 |  |
 | [Biarkan](https://open.spotify.com/track/3DOeoedewFU2Di1mQgQthB) | [Akalav](https://open.spotify.com/artist/7JrjwEeVTHyWzg2TCQna7U), [Julord](https://open.spotify.com/artist/5hzUFHrP6U9kg1TmaGYyD7) | [Biarkan](https://open.spotify.com/album/2nQJHNnSZdg8ZOJgkM7xer) | 3:25 | 2024-06-06 | 2024-06-29 |
 | [Biarkan Berlalu](https://open.spotify.com/track/1Bam8XQhg8zFtstxyj1VCw) | [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD) | [Act Two](https://open.spotify.com/album/3kkx4Der3EudUlp3fVIhHc) | 4:08 | 2022-11-17 | 2022-12-01 |
 | [Biarkan Berlalu](https://open.spotify.com/track/6xg6Ai9PnkxNA8mUnc7CCA) | [Saut Haposan](https://open.spotify.com/artist/1I3kgHNIlY5KuEWb1Ip0Fd) | [Biarkan Berlalu](https://open.spotify.com/album/3A2sVUkHieoJbyWyLVT9DM) | 4:24 | 2024-07-25 | 2024-08-30 |
@@ -3168,6 +3169,7 @@
 | [Oh Damn!](https://open.spotify.com/track/5bkeKSiDunlKuaV3LxR6Zf) | [Satrio Pamungkas](https://open.spotify.com/artist/1XfSriHUiYbgNbngsYlCBg) | [Oh Damn!](https://open.spotify.com/album/64P0ye8rvAMz4yBTiNiYxE) | 3:20 | 2025-02-13 | 2025-03-14 |
 | [Oh Kasih](https://open.spotify.com/track/1Hn0WTSUfw5CpFmUTxQuVV) | [overstrings](https://open.spotify.com/artist/1o6DoqxSiH4hwFrAD1H3Zj) | [Oh Kasih](https://open.spotify.com/album/0mcXPZO5lnczaEI3VkAhDG) | 4:51 | 2022-07-07 | 2022-08-06 |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-04-18 | 2024-05-17 |
+| [Oh Sayang](https://open.spotify.com/track/7dB5vAomizC49yAHZBNSah) | [Kiki The Potter's](https://open.spotify.com/artist/1lxdpIzHan94rqRO2LiVgz) | [Oh Sayang](https://open.spotify.com/album/0Qo9diXMbG1F7mdV1uk7Rx) | 3:08 | 2025-08-29 |  |
 | [Oh Shit! I'm Getting Old](https://open.spotify.com/track/0ULXtE5La52VgBdJ9zhjwb) | [erza.](https://open.spotify.com/artist/6NCHaPkxIW8Hzf1omdLcAX) | [Oh Shit! I'm Getting Old](https://open.spotify.com/album/17BbXXqOrWsgyABIVIIQNC) | 3:48 | 2022-01-06 | 2022-01-13 |
 | [Oh Yeah!](https://open.spotify.com/track/450DunqTxNoRUjr3vJQcTA) | [Satva](https://open.spotify.com/artist/5hW3wXuMeJBeG11j3YSL5o) | [Oh Yeah!](https://open.spotify.com/album/3zMpZ4nZJUf8X0GH0PZPiC) | 2:52 | 2025-04-11 | 2025-05-02 |
 | [Oh, Bella](https://open.spotify.com/track/5E7eht03Fvp0i1ffTD6wH6) | [The Doctrines](https://open.spotify.com/artist/2GHmLS8Lv5gKwnJIZLQhJn) | [Oh, Bella](https://open.spotify.com/album/3ZCKxcbKws1ZGvYHXMJf2t) | 3:18 | 2024-04-04 | 2024-05-03 |

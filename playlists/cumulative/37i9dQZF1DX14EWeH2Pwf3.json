@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Le-one in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Astro in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -488,6 +488,28 @@
       "duration_ms": 122076,
       "name": "3SOME (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB"
+    },
+    {
+      "album": {
+        "name": "4 Zeri (feat. Silent Bob)",
+        "url": "https://open.spotify.com/album/4AYMeDkVcwrC4X42POYOmf"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150616,
+      "name": "4 Zeri (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/1fhy5qglfGbaK3cM0qlYBw"
     },
     {
       "album": {
@@ -6200,7 +6222,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 176033,
       "name": "Fammi Un Sorriso",
       "url": "https://open.spotify.com/track/02YGjSuE9z5UJQclMUaNUk"

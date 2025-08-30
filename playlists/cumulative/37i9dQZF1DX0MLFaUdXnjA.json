@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Sit back and relax to the chillest pop.  Cover: Ruel",
+  "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -1250,10 +1250,28 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 213793,
       "name": "alibi",
       "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
+    },
+    {
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175716,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
     },
     {
       "album": {
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184078,
       "name": "All Over Me",
       "url": "https://open.spotify.com/track/2C6SKNtpOB6bUwfHCFIadx"
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 228960,
       "name": "Before & After You",
       "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
@@ -6834,7 +6852,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 200826,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
@@ -9118,6 +9136,24 @@
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
+    },
+    {
+      "album": {
+        "name": "dead to me",
+        "url": "https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164299,
+      "name": "dead to me",
+      "url": "https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS"
     },
     {
       "album": {
@@ -12198,7 +12234,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -12946,6 +12982,28 @@
       "duration_ms": 194081,
       "name": "forever fifteen (acoustic)",
       "url": "https://open.spotify.com/track/0YvqWiqfk5jYURwR6kGmp6"
+    },
+    {
+      "album": {
+        "name": "Forever Start",
+        "url": "https://open.spotify.com/album/0ovpJJo6ZwHK4s7U89EdbV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nealon",
+          "url": "https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux"
+        },
+        {
+          "name": "Jillian Rossi",
+          "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191122,
+      "name": "Forever Start",
+      "url": "https://open.spotify.com/track/3ToN8ReI58rQwfuOtX5tew"
     },
     {
       "album": {
@@ -14066,7 +14124,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 194760,
       "name": "GO BABY",
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
@@ -14796,6 +14854,24 @@
       "duration_ms": 154459,
       "name": "Hair",
       "url": "https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb"
+    },
+    {
+      "album": {
+        "name": "halfwaythru",
+        "url": "https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193627,
+      "name": "halfwaythru",
+      "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
     },
     {
       "album": {
@@ -18007,6 +18083,28 @@
     },
     {
       "album": {
+        "name": "I Stopped Trying",
+        "url": "https://open.spotify.com/album/29BXkbVjefNs30DTQfRPeK"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        },
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "I Stopped Trying (feat. Delaney Bailey)",
+      "url": "https://open.spotify.com/track/0KeS6KyWgySn91XyzMtKwe"
+    },
+    {
+      "album": {
         "name": "I Think I",
         "url": "https://open.spotify.com/album/2TxV63ZiqONxz4lfA25rYJ"
       },
@@ -18466,7 +18564,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 182221,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/359Zw2MjVD9BqfblSqKlF0"
@@ -21766,7 +21864,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 170000,
       "name": "like dad, like son",
       "url": "https://open.spotify.com/track/5UGtMT3zzVQKs4QVLIy1vM"
@@ -23504,7 +23602,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 195800,
       "name": "Made Me a Man",
       "url": "https://open.spotify.com/track/3upOe7HfDqa3Q9PKdd9eKs"
@@ -24227,6 +24325,24 @@
     },
     {
       "album": {
+        "name": "Members Only",
+        "url": "https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155409,
+      "name": "Members Only",
+      "url": "https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
       },
@@ -24480,7 +24596,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 145890,
       "name": "Might Not Be",
       "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
@@ -28569,6 +28685,24 @@
     },
     {
       "album": {
+        "name": "Over it Now",
+        "url": "https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8"
+      },
+      "artists": [
+        {
+          "name": "Chilli Chilton",
+          "url": "https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203085,
+      "name": "Over it Now",
+      "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
+    },
+    {
+      "album": {
         "name": "Over the Moon",
         "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
       },
@@ -31145,6 +31279,24 @@
     },
     {
       "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166036,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr"
+    },
+    {
+      "album": {
         "name": "Roll The Dice",
         "url": "https://open.spotify.com/album/2qeJ4NanCcjwDPBjEsA1uB"
       },
@@ -32106,6 +32258,24 @@
       "duration_ms": 110221,
       "name": "Scared Of Loving You",
       "url": "https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct"
+    },
+    {
+      "album": {
+        "name": "Scared of Myself",
+        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Scared of Myself",
+      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
     },
     {
       "album": {
@@ -34669,6 +34839,24 @@
     },
     {
       "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/1OK0DSZ2lf41WhQaeUrtKp"
+      },
+      "artists": [
+        {
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268046,
+      "name": "space",
+      "url": "https://open.spotify.com/track/0gwv0TxUjNdmQvWGken3EB"
+    },
+    {
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -35258,7 +35446,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 177894,
       "name": "Steep",
       "url": "https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq"
@@ -40012,7 +40200,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
@@ -41606,6 +41794,24 @@
       "duration_ms": 181000,
       "name": "What Does Sorry Mean",
       "url": "https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF"
+    },
+    {
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/6JR60yod435QFWAsDv4XJ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Orlando",
+          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192204,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/2NzIHruwYO4Esv1VOKh42S"
     },
     {
       "album": {

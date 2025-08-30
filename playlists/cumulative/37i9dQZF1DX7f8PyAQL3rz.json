@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Coisas Mal Resolvidas",
+        "url": "https://open.spotify.com/album/4ZkihEAt0ZrZHsigTV0pi6"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Coisas Mal Resolvidas",
+      "url": "https://open.spotify.com/track/79NDSDuej6HnK9mdecPmiA"
+    },
+    {
+      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 192500,
       "name": "Dia Ap\u00f3s Dia",
       "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
@@ -4162,10 +4180,36 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 138235,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3pD4cjOEhgaKOVXEZCZRhR"
+    },
+    {
+      "album": {
+        "name": "Cachorro Sincero",
+        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "DJ Di Marques",
+          "url": "https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135379,
+      "name": "Egoc\u00eantrica",
+      "url": "https://open.spotify.com/track/2n0RDpwqVVNUneRiP147h4"
     },
     {
       "album": {

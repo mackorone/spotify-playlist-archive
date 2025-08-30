@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,891 likes - 108 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,893 likes - 108 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 64 | [該更幸福了](https://open.spotify.com/track/1Gj6NMR1AFyZXAJOijrbOd) | [李軒](https://open.spotify.com/artist/4WoOEauTuLTB6oEeaOwfpH) | [該更幸福了](https://open.spotify.com/album/5QAanUg8pfM90oNIlEDjPG) | 4:00 |
 | 65 | [你還在（Back to December）](https://open.spotify.com/track/64rxkm225enYGb8hAPXsbi) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [你還在（Back to December）](https://open.spotify.com/album/6Ha5JYiUzSrrdaZeEADw9W) | 3:30 |
 | 66 | [森林](https://open.spotify.com/track/3i1e3oxlVy7mS4qJEiE70z) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [森林](https://open.spotify.com/album/4Sk07QtJtcHrCKt90zvNd2) | 4:49 |
-| 67 | [好好吃飯](https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [Jeryl Lee](https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE) | [好好吃飯](https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml) | 3:43 |
+| 67 | [好好吃飯](https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [Jeryl Lee](https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE) | [好好吃飯](https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml) | 3:41 |
 | 68 | [轉呀轉不停](https://open.spotify.com/track/2tMKZ7QHNE9cCv7LDK4Bz7) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [轉呀轉不停](https://open.spotify.com/album/6YLJGQmO9asV6j3JMp3hzH) | 3:47 |
 | 69 | [be the 1](https://open.spotify.com/track/4u5YsHMdaAhtF1rf3Hm7D2) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [be the 1](https://open.spotify.com/album/3WpzpmVQbtFu8tol6pL3M8) | 3:39 |
 | 70 | [慢慢走 \(影集《靈魂約定》插曲\)](https://open.spotify.com/track/2qGiyxisBAEMFd1rJOdDxk) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [慢慢走 \(影集《靈魂約定》插曲\)](https://open.spotify.com/album/504FB23aYfoAGBujN3WZCa) | 3:47 |

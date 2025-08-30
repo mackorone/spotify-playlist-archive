@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,169 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,177 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 19 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
 | 20 | [Dias Mejores](https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU) | [Benjamin Rivera](https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06) | [Dias Mejores](https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2) | 4:27 |
 | 21 | [Somos Libres](https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D) | 3:55 |
-| 22 | [Locura \(Cap 10: LA FIESTA\)](https://open.spotify.com/track/6JncwhqrysYarGS9rbqliP) | [Luc Aswell](https://open.spotify.com/artist/4cHoog7XRvKFyFgyN4nore), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Locura \(Cap 10: LA FIESTA\)](https://open.spotify.com/album/2nAOM0xdxGtX9RB7CkGz7m) | 3:05 |
+| 22 | [Locura \(LA FIESTA\)](https://open.spotify.com/track/6JncwhqrysYarGS9rbqliP) | [Luc Aswell](https://open.spotify.com/artist/4cHoog7XRvKFyFgyN4nore), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Locura \(LA FIESTA\)](https://open.spotify.com/album/2nAOM0xdxGtX9RB7CkGz7m) | 3:05 |
 | 23 | [DIOS COMO EL MIO](https://open.spotify.com/track/3Tinl7Y53cJINHn5eaK1Vj) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [DIOS COMO EL MIO](https://open.spotify.com/album/33tnbFRSUXrLdsA0Uj4sQF) | 2:47 |
 | 24 | [Año Zero](https://open.spotify.com/track/6qXTukTvuPOFFHWcmh4kqg) | [Amor Sin Fin](https://open.spotify.com/artist/1ueHUKL6L0bZ2AoYMx7wTC), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Año Zero](https://open.spotify.com/album/2zASpw1tV9u8b1Rl3LVdAp) | 5:39 |
 | 25 | [Cada paso](https://open.spotify.com/track/5eyVLstOXrbaBolcjYqwTa) | [Matias Deluca](https://open.spotify.com/artist/3G3TwIpt3Z8Akb3gQmQWWf) | [Hoy Es Mejor](https://open.spotify.com/album/2JfdSCRCZL2TNa0qxBGnfV) | 2:43 |

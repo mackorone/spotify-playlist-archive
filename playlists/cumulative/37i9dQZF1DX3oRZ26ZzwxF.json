@@ -2041,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/3qyBToiIgjktJ1OACLNpvj"
+      },
+      "artists": [
+        {
+          "name": "Carty",
+          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
+        },
+        {
+          "name": "KG GANG",
+          "url": "https://open.spotify.com/artist/0nYd2Px189UF3GtwQD3XiI"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187785,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/1ZjtH0XTJistu7y52uVDQC"
+    },
+    {
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/1J4zwpeSSxT2pfBw9Tcu63"
       },

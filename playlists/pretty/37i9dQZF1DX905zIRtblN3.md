@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Banda MS.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Eden Muñoz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,791,769 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,792,266 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [Regalo de la Vida](https://open.spotify.com/track/12RB7Re6nRdf99V7E6RYKO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Regalo de la Vida](https://open.spotify.com/album/4bZbXxXB1Xf77k7Z6iu9WE) | 3:24 |
 | 50 | [Raite Pa' Con Diosito](https://open.spotify.com/track/105guh7ejzfazbD4qCmZIo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Raite Pa' Con Diosito](https://open.spotify.com/album/2GSto24T7Pw2rfsHBFjJYc) | 2:04 |
 
-Snapshot ID: `AAAAAJpNGVvcc9piogwwjs7BrJPZQWzo`
+Snapshot ID: `AAAAADVU+FJCmT5+UMLeB3kMF4eL8llH`

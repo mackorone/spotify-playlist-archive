@@ -14673,6 +14673,28 @@
     },
     {
       "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
+      },
+      "artists": [
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Careless Castle",
+          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
+    },
+    {
+      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/5J4PSvk6YU9rMguUJZB5pn"
       },

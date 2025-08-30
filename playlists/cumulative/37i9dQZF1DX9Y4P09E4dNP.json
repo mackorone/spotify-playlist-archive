@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 166885,
       "name": "Atele",
       "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
@@ -2149,6 +2149,28 @@
     },
     {
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "album": {
         "name": "HANG MY BOOTS",
         "url": "https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj"
       },
@@ -2328,6 +2350,24 @@
       "duration_ms": 147428,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh"
+    },
+    {
+      "album": {
+        "name": "It Is Finished",
+        "url": "https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N"
     },
     {
       "album": {
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 193469,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/2QhQuFmG6k3tpsrTyuHgaL"

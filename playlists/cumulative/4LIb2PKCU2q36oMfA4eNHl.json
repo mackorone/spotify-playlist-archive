@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/0cIav6iczg2OLcILPI8LNQ"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Solange",
+          "url": "https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2qDGpWyOnEjZYRK9neyHng"
+    },
+    {
+      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },

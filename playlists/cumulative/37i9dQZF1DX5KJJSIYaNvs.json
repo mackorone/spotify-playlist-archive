@@ -7212,7 +7212,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 164181,
       "name": "Mera Aasmaan",
       "url": "https://open.spotify.com/track/7EGUWx4v8Z8WbI0cOAtdhT"
@@ -12321,6 +12321,24 @@
     },
     {
       "album": {
+        "name": "Udd Jaavan - From ''Do You Wanna Partner''",
+        "url": "https://open.spotify.com/album/3ht2KQBIKcjjmPd7Hai4Jo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Udd Jaavan - From ''Do You Wanna Partner''",
+      "url": "https://open.spotify.com/track/5vb9S5X4qkgC5wacxWe5il"
+    },
+    {
+      "album": {
         "name": "Udh Di Phiran",
         "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
       },
@@ -12630,6 +12648,28 @@
       "duration_ms": 211205,
       "name": "Waah Sajna",
       "url": "https://open.spotify.com/track/1W09KnUmN919i5upuJXD2S"
+    },
+    {
+      "album": {
+        "name": "Way You Move",
+        "url": "https://open.spotify.com/album/2UvZRvv6td5HGp3UPgoc35"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Way You Move - Acoustic",
+      "url": "https://open.spotify.com/track/1XIOjB7G0xDj9rqZ3Rw5YH"
     },
     {
       "album": {
@@ -13046,7 +13086,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 308076,
       "name": "Zinda Rahey (From \"Chhaava\")",
       "url": "https://open.spotify.com/track/6qRHJNT6oILLhehqzxLAQh"

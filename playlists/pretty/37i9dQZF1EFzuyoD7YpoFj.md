@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 384 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 384 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 131 | [I'm In Love With You](https://open.spotify.com/track/6msksMaIIceyWv8JtfmSq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Dean Martin: The Capitol Recordings, Vol\. 2 \(1950\-1951\)](https://open.spotify.com/album/0eFgWT3g406NloOr5mc9Gv) | 2:58 |
 | 132 | [Kiss Me, Kate](https://open.spotify.com/track/26opGuN3ZdAVST2RRqWio2) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:54 |
 | 133 | [So, What's New \(Peroni Spot Tv\)](https://open.spotify.com/track/27oaGM2vE3wqDaztsg7QWP) | [Montefiori Cocktail](https://open.spotify.com/artist/2AGsq5G3ME9ctnL21lHj1G) | [Classics \(a New Release of Selected Tracks from 1997 to 2000\)](https://open.spotify.com/album/3KjQ1gqbJ0OAlcUzUGdDon) | 4:01 |
-| 134 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
-| 135 | [Looking at You](https://open.spotify.com/track/1KS9Jpjg6vDyNUsq6AYPKs) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 3:25 |
+| 134 | [Looking at You](https://open.spotify.com/track/1KS9Jpjg6vDyNUsq6AYPKs) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 3:25 |
+| 135 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
 | 136 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 |
 | 137 | [High Society Calypso](https://open.spotify.com/track/5DiCVFFmQ0uxPkPlBTVVO2) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [In Concert \(Newport 1960\)](https://open.spotify.com/album/5yfs4HBmueqnv9t82mFPEm) | 2:51 |
 | 138 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 383 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 384 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab6vSgAAAABG61MIreIweDlcwPoxbEJi`
+Snapshot ID: `Ab604AAAAAC5fs4tIg/BNI/fApWKyeem`

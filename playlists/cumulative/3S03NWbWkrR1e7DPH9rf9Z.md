@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-208 songs - 10 hr 12 min
+209 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Little Putz](https://open.spotify.com/track/0hKVb7ZHPQKT2UwTU10nhv) | [Kane Scott](https://open.spotify.com/artist/03Uxnv0S5yon8NjFeBF3Bu) | [Little Putz](https://open.spotify.com/album/031Wkq7AMRssBs4LKNyEEs) | 2:38 | 2025-07-04 |  |
 | [Lollipop \- Achilles Edit](https://open.spotify.com/track/38ZATth3dH2e16nbECIpl0) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Lollipop \(Remixes\)](https://open.spotify.com/album/53Icv1FzHUlgIExWeU0XWB) | 2:55 | 2025-07-04 |  |
 | [Lose Control](https://open.spotify.com/track/5ddFHt77hvYXThFD02oEqu) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Lose Control](https://open.spotify.com/album/5OOkTHqKZlXyuMjFfyiy0P) | 2:35 | 2025-07-04 |  |
-| [Losing My Mind](https://open.spotify.com/track/1YQqp9iskQOb7ACZ0Rw7d6) | [9BLADE](https://open.spotify.com/artist/1NFcTe19CrpWk3TNUIBOd6), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU) | [Losing My Mind](https://open.spotify.com/album/7tMIBZBodd1WfWx55lUl7A) | 3:03 | 2025-07-04 |  |
+| [Losing My Mind](https://open.spotify.com/track/1YQqp9iskQOb7ACZ0Rw7d6) | [9BLADE](https://open.spotify.com/artist/1NFcTe19CrpWk3TNUIBOd6), [Rəind Səid](https://open.spotify.com/artist/3FWUEo0wsA53baxRi0T5lU) | [Losing My Mind](https://open.spotify.com/album/7tMIBZBodd1WfWx55lUl7A) | 3:03 | 2025-07-04 | 2025-08-30 |
 | [Lost in Space](https://open.spotify.com/track/28vHfMXcgseUNd90zEL5U3) | [PADWN](https://open.spotify.com/artist/0IkR20PF6ydE7dyLUZw3LK), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Lost In Space](https://open.spotify.com/album/0y9I02bUlJnVORYu1l9pAf) | 3:30 | 2025-07-04 |  |
 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 | 2025-07-04 |  |
 | [Lost My Breath](https://open.spotify.com/track/1SKBIqTkG9Bvmcad0KPv7d) | [Semblance Smile](https://open.spotify.com/artist/13nmMVXihf9LHBGMm6NI6f), [Krevix](https://open.spotify.com/artist/0rl745DzfLM1szxoEUT8F4) | [Lost My Breath](https://open.spotify.com/album/4XOaNnSz4gl2sRhsA135mF) | 2:27 | 2025-07-04 |  |
@@ -202,6 +202,7 @@
 | [Tsunami \- Original Mix](https://open.spotify.com/track/3felG0BIvmmOoCIeE2A5vq) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami \(Original Mix\)](https://open.spotify.com/album/11bkt0bAaSycDHNd4OYH3R) | 3:56 | 2025-07-04 |  |
 | [Turn It Up](https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Turn It Up](https://open.spotify.com/album/5mQaSzlFbbTR1XgxBuJJJL) | 2:49 | 2025-07-04 |  |
 | [Unobsidian](https://open.spotify.com/track/7hK5LzrcxkYFDrrWTL2La3) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 6:11 | 2025-07-04 |  |
+| [Venno](https://open.spotify.com/track/5c6b3gmHsKRh06BMsZeJNa) | [Erik Hubo](https://open.spotify.com/artist/1imbx6HxQr0PkQtA5LHB9b) | [Venno](https://open.spotify.com/album/4nJ3zZhKsHvUTYuRF0osKI) | 3:04 | 2025-08-29 |  |
 | [Virus \(How About Now\) \- Radio Edit](https://open.spotify.com/track/6GLzN6o2fkOupy8e1vGzwp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\) \[Radio Edit\]](https://open.spotify.com/album/22GK1YrW3XnIFnhifmv5nZ) | 3:19 | 2025-07-04 |  |
 | [Wanna Rock](https://open.spotify.com/track/33PX42yfwXnmeowcZktYmL) | [Sebastian Bronk](https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm) | [Revealed Recordings presents ADE Sampler 2023](https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8) | 2:43 | 2025-07-04 | 2025-08-26 |
 | [We Are Free](https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [We Are Free](https://open.spotify.com/album/3PynmYXtpWvXeiabyyBH6k) | 2:42 | 2025-07-04 |  |

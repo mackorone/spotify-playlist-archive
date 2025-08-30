@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Joey Bada$$\)
 
-3,013 songs - 6 day 8 hr 7 min
+3,015 songs - 6 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Broke Boy Rich](https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Broke Boy Rich](https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS) | 2:16 | 2024-10-24 | 2024-11-29 |
 | [Broken Hearted](https://open.spotify.com/track/7wG6K5hlFq1onDrJTJXFS6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Broken Hearted](https://open.spotify.com/album/4xaHecDobJ9BkShgFuQVk0) | 3:27 | 2023-08-17 | 2023-09-29 |
 | [Broski](https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Broski](https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07) | 5:14 | 2023-06-22 | 2023-07-21 |
+| [Brother \(with Post Malone & YoungBoy Never Broke Again\)](https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Brother](https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ) | 3:37 | 2025-08-29 |  |
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 | 2024-07-27 |
 | [Brrberry Jacket](https://open.spotify.com/track/4taJgNY8pyWhfLDeOOS6qV) | [Fury+](https://open.spotify.com/artist/3N6IubtRCAAGAhxFVD6lVH), [Concerto](https://open.spotify.com/artist/4NS5bBuhLGEigxOjxTtzSZ), [Wicigo Shawty](https://open.spotify.com/artist/11YdJ9365MP5iprTsq8plx) | [Brrberry Jacket](https://open.spotify.com/album/2NFW376O0aK0sQbsUnCEIY) | 3:06 | 2025-01-24 | 2025-02-28 |
 | [Brucifix](https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [WON'T HE DO IT](https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc) | 3:10 | 2023-05-04 | 2023-06-16 |
@@ -1489,6 +1490,7 @@
 | [Log Off](https://open.spotify.com/track/7zkeBgkM5v9VEDeGqggJbM) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Log Off](https://open.spotify.com/album/2Sr7aGFMjgbK1HcDOsvMe0) | 1:41 | 2024-07-11 | 2024-08-16 |
 | [Lokuko \(feat\. Kid Wine\)](https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [NEWRNBERA](https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo) | 3:16 | 2023-08-31 | 2023-10-06 |
 | [Lollipop](https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/1C5qEvAwBYnbnToL6tj8no) | 2:47 | 2023-11-09 | 2024-01-12 |
+| [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-08-29 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-07 | 2022-05-13 |
 | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y) | 3:20 | 2024-12-05 | 2025-01-31 |
 | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/track/6XeOVikH7XkydXrQWVvA6b) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Long Live J Dilla \(feat\. Westside Gunn & Busta Rhymes\)](https://open.spotify.com/album/78sjCz3km5DH9G99u8VnOi) | 3:14 | 2025-02-06 | 2025-03-21 |

@@ -1,29 +1,13 @@
 {
   "description": "Warm, inspirational pop, that's good at heart.  ",
-  "num_followers": 48050,
+  "num_followers": 48081,
   "original_name": "shine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPOdqdwCmK8NHqFErVgFwGSaqM/",
+  "snapshot_id": "AAAAANwUHzEwYAuKAYDqGloJOa7/nkID",
   "tracks": [
-    {
-      "added_at": "2025-08-08 04:00:49",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 161787,
-      "name": "Oh Child",
-      "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
-    },
     {
       "added_at": "2024-10-11 13:41:50",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 170521,
       "name": "GOOD DAY",
       "url": "https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O"
-    },
-    {
-      "added_at": "2025-07-25 04:00:40",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "First Time On Earth",
-      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
     },
     {
       "added_at": "2024-10-11 13:41:50",
@@ -73,22 +41,6 @@
       "url": "https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM"
     },
     {
-      "added_at": "2025-06-20 04:00:33",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
-    },
-    {
       "added_at": "2024-10-11 13:41:50",
       "album": {
         "name": "Cheers to the Fall",
@@ -103,6 +55,70 @@
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "added_at": "2025-08-29 04:00:39",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 166871,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe"
+    },
+    {
+      "added_at": "2025-08-08 04:00:49",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 161787,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
+    },
+    {
+      "added_at": "2025-07-25 04:00:40",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "First Time On Earth",
+      "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
+    },
+    {
+      "added_at": "2025-06-20 04:00:33",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
     },
     {
       "added_at": "2025-07-25 04:00:40",
@@ -259,22 +275,6 @@
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"
-    },
-    {
-      "added_at": "2025-03-07 05:00:20",
-      "album": {
-        "name": "Heaven On My Mind",
-        "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 203450,
-      "name": "Heaven On My Mind",
-      "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
     },
     {
       "added_at": "2025-06-27 04:00:26",

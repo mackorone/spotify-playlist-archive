@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Banda MS.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Eden Muñoz.
 
 765 songs - 1 day 16 hr 12 min
 

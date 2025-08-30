@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe muziek: Sabrina Carpenter, Snelle, Donnie & Marco Schuitmaker en meer",
-  "num_followers": 282681,
+  "num_followers": 283074,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgQXKtFUN81g15iUmpA0xLNwPey",
+  "snapshot_id": "AAAAAJgnZwN5Qa7LxZMInJ04yHWQmDsP",
   "tracks": [
     {
       "added_at": "2025-08-28 22:00:15",
@@ -239,6 +239,30 @@
     {
       "added_at": "2025-08-28 22:00:15",
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 217498,
+      "name": "Brother (with Post Malone & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp"
+    },
+    {
+      "added_at": "2025-08-28 22:00:15",
+      "album": {
         "name": "Jongen Van De Stad",
         "url": "https://open.spotify.com/album/1pTZVGiNQQutLIJmt3qUNE"
       },
@@ -359,6 +383,22 @@
       "duration_ms": 191611,
       "name": "Stripes",
       "url": "https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8"
+    },
+    {
+      "added_at": "2025-08-28 22:00:15",
+      "album": {
+        "name": "Als Het Donker Wordt",
+        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Als Het Donker Wordt",
+      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
     },
     {
       "added_at": "2025-08-28 22:00:15",
@@ -772,12 +812,12 @@
           "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         },
         {
-          "name": "Trick Shady",
-          "url": "https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC"
-        },
-        {
           "name": "Poppy Wright",
           "url": "https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS"
+        },
+        {
+          "name": "Trick Shady",
+          "url": "https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC"
         }
       ],
       "duration_ms": 187965,
@@ -847,22 +887,6 @@
       "duration_ms": 262333,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2025-08-28 22:00:15",
-      "album": {
-        "name": "Als Het Donker Wordt",
-        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
-      },
-      "artists": [
-        {
-          "name": "Pip Lieke Lucas",
-          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Als Het Donker Wordt",
-      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
     },
     {
       "added_at": "2025-08-28 22:00:15",
@@ -1080,8 +1104,8 @@
           "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 202723,
+      "name": "Covet",
       "url": "https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5"
     },
     {
@@ -1231,6 +1255,22 @@
       "duration_ms": 253626,
       "name": "House on Fire",
       "url": "https://open.spotify.com/track/4WuggKSYB2M39BbCrwwS9R"
+    },
+    {
+      "added_at": "2025-08-28 22:00:15",
+      "album": {
+        "name": "chasing lullabies",
+        "url": "https://open.spotify.com/album/6ZuOwPdzgHg5JHv8jE3for"
+      },
+      "artists": [
+        {
+          "name": "Mia Nicolai",
+          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
+        }
+      ],
+      "duration_ms": 186968,
+      "name": "chasing lullabies",
+      "url": "https://open.spotify.com/track/4sPqDWCsRf2lpbFlays0Ii"
     },
     {
       "added_at": "2025-08-28 22:00:15",

@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-1,270 songs - 2 day 10 hr 39 min
+1,273 songs - 2 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [act v: there goes another vase](https://open.spotify.com/track/15qx6rElhY2QmikMKhJk8c) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:55 | 2024-05-17 | 2024-05-25 |
 | [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 | 2024-05-03 | 2024-07-19 |
 | [adele](https://open.spotify.com/track/1LL9I5SJhI1aG0pjkFWzYV) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [adele](https://open.spotify.com/album/0uFkMO7GCvTzjSowepuISS) | 1:10 | 2023-12-07 | 2023-12-16 |
+| [Affirmations \- Remix](https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Affirmations \(Remix\)](https://open.spotify.com/album/6FVdpIQlb0eu5tdlbgt1DS) | 3:04 | 2025-08-29 |  |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-03-23 |
 | [After The Storm](https://open.spotify.com/track/5IIt1fRbAFaasNdejO2TI2) | [Wiley from Atlanta](https://open.spotify.com/artist/6mkvJ6XHWVtPer8k0B0nTn) | [Killing Time Before The Flood](https://open.spotify.com/album/05hs3AI61sZUXmnpO5oQ17) | 3:06 | 2023-10-25 | 2023-11-01 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 | 2022-11-19 |
@@ -403,6 +404,7 @@
 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 | 2024-04-26 | 2025-03-29 |
 | [Flashbacks](https://open.spotify.com/track/2IQjNT6EXEEJhR3x5KnlOU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [St\. Beauty](https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 4:02 | 2023-10-25 | 2023-11-01 |
 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 | 2023-10-25 | 2023-11-01 |
+| [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 | 2025-08-29 |  |
 | [FLORIDA BABY](https://open.spotify.com/track/2KGhXTEvSQ2SlW1sH9nb2h) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Drugs n' Lullabies](https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8) | 2:20 | 2024-08-02 | 2025-03-29 |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-22 | 2024-07-13 |
 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 | 2023-07-28 | 2023-10-21 |
@@ -828,6 +830,7 @@
 | [Paradise](https://open.spotify.com/track/5pBSxjuMqmm9CVPz8RIIPy) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Left My Heart In Ladera](https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN) | 3:38 | 2025-02-24 | 2025-03-01 |
 | [PARASITE](https://open.spotify.com/track/6j69bnzsC2K5qnrqNDpJi4) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [PARASITE](https://open.spotify.com/album/59Lxtyv1wKwyVReWqGgOyD) | 2:35 | 2024-10-11 | 2024-10-19 |
 | [Paraíso](https://open.spotify.com/track/0Dfmwxl6g35vW10qcU5UN1) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Paraíso](https://open.spotify.com/album/60zwZ3rcvhQZepAwfcpuYI) | 3:32 | 2022-02-11 | 2022-06-08 |
+| [Party All Night](https://open.spotify.com/track/5X5aluniMpOpuFf06ZY6K2) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Party All Night](https://open.spotify.com/album/6ZHrqoyD0lyacbB7NlKofE) | 2:09 | 2025-08-29 |  |
 | [Party Girl](https://open.spotify.com/track/7kGxq205bhv50mEdpx37FX) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [It's Not You, It's Me](https://open.spotify.com/album/0AQxJS0YHgPg366Lcdcgg4) | 2:19 | 2025-04-04 | 2025-05-24 |
 | [Passenger Princess](https://open.spotify.com/track/07QNrx99R4pW4InyMyVfCu) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Passenger Princess](https://open.spotify.com/album/3HJ0CjOM3Fd4jiacbOI4v0) | 2:56 | 2025-03-31 | 2025-05-17 |
 | [Passenger Princess \(feat\. NLE Choppa\)](https://open.spotify.com/track/7fmec76XrfKpRSsLdlAx41) | [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Detour](https://open.spotify.com/album/1wlh1MAxWgY5Bl18ClcN5v) | 2:43 | 2024-02-23 | 2024-04-27 |

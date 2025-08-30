@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Bad Omens",
-  "num_followers": 500938,
+  "num_followers": 500897,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -4263,22 +4263,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "EXPIRE",
-        "url": "https://open.spotify.com/album/3tynJ9yMLDlo0kv8iubqW7"
-      },
-      "artists": [
-        {
-          "name": "ARCHIVES",
-          "url": "https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq"
-        }
-      ],
-      "duration_ms": 183468,
-      "name": "EXPIRE",
-      "url": "https://open.spotify.com/track/6nWD0hIvscwrUddF8lTRPU"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Glib Tongued",
         "url": "https://open.spotify.com/album/1B23ckEpfx5i1Yjvnbrx8y"
       },
@@ -4295,6 +4279,22 @@
       "duration_ms": 223908,
       "name": "Glib Tongued",
       "url": "https://open.spotify.com/track/4rSyP1AMJsQAmdZZqTDuj3"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "EXPIRE",
+        "url": "https://open.spotify.com/album/3tynJ9yMLDlo0kv8iubqW7"
+      },
+      "artists": [
+        {
+          "name": "ARCHIVES",
+          "url": "https://open.spotify.com/artist/5JV6t6VzxFApi5yd8XAMFq"
+        }
+      ],
+      "duration_ms": 183468,
+      "name": "EXPIRE",
+      "url": "https://open.spotify.com/track/6nWD0hIvscwrUddF8lTRPU"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4499,22 +4499,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "Villain Arc",
-        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 219330,
-      "name": "Villain Arc",
-      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/0Q3VYGJreWH7MNNZU1tbpo"
       },
@@ -4531,18 +4515,34 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "From Ashes",
-        "url": "https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b"
+        "name": "Villain Arc",
+        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
       "artists": [
         {
-          "name": "Kill The Lights",
-          "url": "https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ"
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
         }
       ],
-      "duration_ms": 167840,
-      "name": "From Ashes",
-      "url": "https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet"
+      "duration_ms": 219330,
+      "name": "Villain Arc",
+      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "all i know",
+        "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
+      },
+      "artists": [
+        {
+          "name": "glasseyed",
+          "url": "https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "all i know",
+      "url": "https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4563,18 +4563,18 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "all i know",
-        "url": "https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V"
+        "name": "From Ashes",
+        "url": "https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b"
       },
       "artists": [
         {
-          "name": "glasseyed",
-          "url": "https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG"
+          "name": "Kill The Lights",
+          "url": "https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ"
         }
       ],
-      "duration_ms": 220800,
-      "name": "all i know",
-      "url": "https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2"
+      "duration_ms": 167840,
+      "name": "From Ashes",
+      "url": "https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4647,22 +4647,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "I Think You Should Leave",
-        "url": "https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU"
-      },
-      "artists": [
-        {
-          "name": "Problem Patterns",
-          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "I Think You Should Leave",
-      "url": "https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Depth Perception",
         "url": "https://open.spotify.com/album/6nhVlevmyWxfLDpHdFqDlu"
       },
@@ -4679,18 +4663,18 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "Blackhole",
-        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+        "name": "I Think You Should Leave",
+        "url": "https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Problem Patterns",
+          "url": "https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+      "duration_ms": 239312,
+      "name": "I Think You Should Leave",
+      "url": "https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4707,6 +4691,22 @@
       "duration_ms": 201390,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/3lqHuM3Fx4tqG2WYRY7RUM"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4763,22 +4763,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "deadweight",
-        "url": "https://open.spotify.com/album/6itHZMPoU0VskvJf8iKqsP"
-      },
-      "artists": [
-        {
-          "name": "newshapes",
-          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
-        }
-      ],
-      "duration_ms": 210625,
-      "name": "deadweight",
-      "url": "https://open.spotify.com/track/2HNepQwYw5c2CxUqFsL63u"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Shoot",
         "url": "https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ"
       },
@@ -4791,6 +4775,22 @@
       "duration_ms": 127706,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "deadweight",
+        "url": "https://open.spotify.com/album/6itHZMPoU0VskvJf8iKqsP"
+      },
+      "artists": [
+        {
+          "name": "newshapes",
+          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
+        }
+      ],
+      "duration_ms": 210625,
+      "name": "deadweight",
+      "url": "https://open.spotify.com/track/2HNepQwYw5c2CxUqFsL63u"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4843,22 +4843,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 220575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "LIFE AND DEATH IN THE WASTELAND",
         "url": "https://open.spotify.com/album/1pA88oIhDCz4wDtkxyNoZp"
       },
@@ -4871,6 +4855,22 @@
       "duration_ms": 245115,
       "name": "SURRENDER LESSONS",
       "url": "https://open.spotify.com/track/37nRqs9biFfjE22mzNFXE6"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4891,18 +4891,18 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
       },
       "artists": [
         {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
+      "duration_ms": 220575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -4971,22 +4971,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "Better Than This",
-        "url": "https://open.spotify.com/album/3Dlh4pJNFxVs4zt0CQ5e37"
-      },
-      "artists": [
-        {
-          "name": "Less Than Hollow",
-          "url": "https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD"
-        }
-      ],
-      "duration_ms": 173736,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/1Xj7Mg7kXGZx2hzDXjlZfZ"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -5015,6 +4999,22 @@
       "duration_ms": 213107,
       "name": "Times Change",
       "url": "https://open.spotify.com/track/5BmLX8NdUtJZvanDta96dx"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/3Dlh4pJNFxVs4zt0CQ5e37"
+      },
+      "artists": [
+        {
+          "name": "Less Than Hollow",
+          "url": "https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD"
+        }
+      ],
+      "duration_ms": 173736,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/1Xj7Mg7kXGZx2hzDXjlZfZ"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -5067,22 +5067,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "Heaven Knows I'm Trolling you Now",
-        "url": "https://open.spotify.com/album/7LBYk85520OLOMhzgTQOSU"
-      },
-      "artists": [
-        {
-          "name": "THEBIGHELL",
-          "url": "https://open.spotify.com/artist/1cqHZRRUw2nT0Bh2pEsx28"
-        }
-      ],
-      "duration_ms": 152375,
-      "name": "Heaven Knows I'm Trolling you Now",
-      "url": "https://open.spotify.com/track/5uM9dCc4LjGCbgJs4u40Kr"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Whiplash",
         "url": "https://open.spotify.com/album/5jZlF2NrtoynqVzAx541B3"
       },
@@ -5095,6 +5079,22 @@
       "duration_ms": 226166,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "Heaven Knows I'm Trolling you Now",
+        "url": "https://open.spotify.com/album/7LBYk85520OLOMhzgTQOSU"
+      },
+      "artists": [
+        {
+          "name": "THEBIGHELL",
+          "url": "https://open.spotify.com/artist/1cqHZRRUw2nT0Bh2pEsx28"
+        }
+      ],
+      "duration_ms": 152375,
+      "name": "Heaven Knows I'm Trolling you Now",
+      "url": "https://open.spotify.com/track/5uM9dCc4LjGCbgJs4u40Kr"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -5243,22 +5243,6 @@
     {
       "added_at": "2025-08-11 09:59:40",
       "album": {
-        "name": "NEW! Christianity",
-        "url": "https://open.spotify.com/album/2n6M7s3zRVBCYKCYnmUO04"
-      },
-      "artists": [
-        {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "NEW! Christianity",
-      "url": "https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
         "name": "Enough for you",
         "url": "https://open.spotify.com/album/2Bwu2eMLYU42jisflVhIvJ"
       },
@@ -5271,6 +5255,22 @@
       "duration_ms": 185608,
       "name": "Enough for you",
       "url": "https://open.spotify.com/track/7CYPzawmBUJUN3tDGhQh1I"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "NEW! Christianity",
+        "url": "https://open.spotify.com/album/2n6M7s3zRVBCYKCYnmUO04"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "NEW! Christianity",
+      "url": "https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -5323,22 +5323,6 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2025-08-11 09:59:40",
-      "album": {
-        "name": "Everlasting Gaze",
-        "url": "https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9"
-      },
-      "artists": [
-        {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
-        }
-      ],
-      "duration_ms": 256898,
-      "name": "Martyr Song",
-      "url": "https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN"
     },
     {
       "added_at": "2025-08-11 09:59:40",
@@ -5419,6 +5403,22 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo"
+    },
+    {
+      "added_at": "2025-08-11 09:59:40",
+      "album": {
+        "name": "Everlasting Gaze",
+        "url": "https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 256898,
+      "name": "Martyr Song",
+      "url": "https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN"
     },
     {
       "added_at": "2025-08-11 09:59:40",

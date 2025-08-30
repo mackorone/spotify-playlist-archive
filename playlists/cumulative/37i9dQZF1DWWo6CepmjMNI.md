@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: TWODAYS
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: WAV
 
-247 songs - 17 hr 50 min
+250 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [To You](https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [To You](https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL) | 4:04 | 2025-03-21 | 2025-03-29 |
 | [Too Good](https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [Too Good](https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN) | 3:11 | 2024-07-19 | 2024-08-24 |
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
+| [Wake Up](https://open.spotify.com/track/3t0M8p4j9eWsXZ7Iueia9C) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Wake Up](https://open.spotify.com/album/6V99yT7iaz8KK5LRKjbVFV) | 4:31 | 2025-08-29 |  |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
-| [Wonwian](https://open.spotify.com/track/55wS8O5EOHnHLvNGkeQefY) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [Wonwian](https://open.spotify.com/album/7kNfNSIwAwNVNloI59CwH6) | 2:09 | 2025-08-08 |  |
+| [Wonwian](https://open.spotify.com/track/55wS8O5EOHnHLvNGkeQefY) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [Wonwian](https://open.spotify.com/album/7kNfNSIwAwNVNloI59CwH6) | 2:09 | 2025-08-08 | 2025-08-30 |
 | [กลับกลายเป็น](https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [กลับกลายเป็น](https://open.spotify.com/album/5KisRvRzk0ETVnKpowP8Ss) | 6:21 | 2025-03-21 | 2025-03-29 |
 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 | 2024-11-01 | 2024-11-09 |
 | [กลัวลืม](https://open.spotify.com/track/4HQ16IdY2XwCYPVmcSg6zG) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [กลัวลืม](https://open.spotify.com/album/05oGOoivSkPUADBnsEbP2c) | 3:44 | 2024-12-26 | 2025-01-25 |
@@ -100,12 +101,13 @@
 | [ดีแล้ว](https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf) | [Methane](https://open.spotify.com/artist/6kNXwB8eVNq6jPJGTi0Vk7) | [ดีแล้ว](https://open.spotify.com/album/63IW4wzMkru6GvdLwCa8In) | 4:16 | 2024-07-19 | 2024-08-10 |
 | [ตลอดไป](https://open.spotify.com/track/5eTOts5kvMHOVDMtOqY6uX) | [Petit Desk](https://open.spotify.com/artist/31WjytzKxWWvcr6uu0oZmw) | [ตลอดไป](https://open.spotify.com/album/3pA4CJzeCiRpSSLSqt6NkY) | 4:46 | 2024-06-21 | 2024-07-13 |
 | [ตอนจบ \(The End\)](https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ตอนจบ \(The End\)](https://open.spotify.com/album/10LYLoV3aPCuFF6EQngRJd) | 4:29 | 2024-11-01 |  |
+| [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 | 2025-08-29 |  |
 | [ติดอยู่ตรงที่เดิม \- Dwell](https://open.spotify.com/track/1JDufTkfSWvLNNN1gqG4h9) | [Apollo Thirteen](https://open.spotify.com/artist/0B6mKOEMvQU8Kfyg03ZQSF) | [ติดอยู่ตรงที่เดิม \(Dwell\)](https://open.spotify.com/album/4rYYFlKnSuUSzL5ikdIsoH) | 4:02 | 2025-03-28 | 2025-04-26 |
 | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/track/4LiBQyn6xxusJnzmIDnRT6) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ต่อให้เข้าใจ แต่ก็เสียใจอยู่ดี](https://open.spotify.com/album/2SjUAS5K9R9dpckSx0zA4p) | 3:36 | 2025-04-25 |  |
 | [ถือมือถือ, มือเธอ](https://open.spotify.com/track/5yF8KXUpYFpiEoLpx7Jg9k) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [ถือมือถือ, มือเธอ](https://open.spotify.com/album/1rTDLoubvmz7sv0xVSw9qG) | 4:02 | 2025-06-13 | 2025-07-05 |
 | [ถ้าฝืนต่อไป](https://open.spotify.com/track/7DCkQV8yTFU2GXRPE5Esee) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ถ้าฝืนต่อไป](https://open.spotify.com/album/3rc2O4iD98qieCxdxFVtKm) | 4:07 | 2025-03-28 | 2025-04-05 |
 | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/track/6oX1bzufZSJR5Tb1lYRebA) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ถ้าพบกัน ขอให้วันนั้นเราโตพอที่จะไม่ทิ้งกันอีก](https://open.spotify.com/album/74z2Q1arMBR1Z8HgNtsySL) | 3:56 | 2024-06-21 | 2025-04-26 |
-| [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/track/0nqVLxHEfr4FJ8NVl4DHwI) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/album/6BNRczALadlNUQYJmAE3Ny) | 3:49 | 2024-06-21 |  |
+| [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/track/0nqVLxHEfr4FJ8NVl4DHwI) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ถ้าเขาดีกว่า \(You’d Better Go\)](https://open.spotify.com/album/6BNRczALadlNUQYJmAE3Ny) | 3:49 | 2024-06-21 | 2025-08-30 |
 | [ถ้าเธอต้องไป](https://open.spotify.com/track/0sfYqbTSE8OWu8ZzcLHlKF) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ถ้าเธอต้องไป](https://open.spotify.com/album/6Eg48wAsh9LdmHDoZvbebA) | 4:11 | 2024-06-21 | 2024-07-20 |
 | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd) | 2:59 | 2024-08-23 | 2024-09-14 |
 | [ถ้าไม่อยากให้ฉันเสียใจ \(Gone\)](https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [When you cry, I cry](https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk) | 4:39 | 2024-07-05 | 2024-07-27 |
@@ -211,7 +213,7 @@
 | [เบบี๋เธอฟังก่อน \- Hold On](https://open.spotify.com/track/4PwrJaDUlR5zzpmI78sYGY) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เบบี๋เธอฟังก่อน \(Hold On\)](https://open.spotify.com/album/5nHc9Hh8HK1G3IfFZhUxUR) | 4:40 | 2025-07-25 |  |
 | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/track/1Xpp5yTaFEzLtPrITfIMdd) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [เปลี่ยนฟ้า \(find.fine\)](https://open.spotify.com/album/4AkJbg6p4uzfChGRwyklWd) | 7:09 | 2025-07-31 |  |
 | [เปียก \(When it Rains\)](https://open.spotify.com/track/5xmwTim7B0P53CebEJsKze) | [MAN IN PHARMACY](https://open.spotify.com/artist/1AGzRS5zJLTwySvklwcgxU) | [เปียก \(When it Rains\)](https://open.spotify.com/album/4EaHgeUoO6Y5TwHrqjknlM) | 3:16 | 2024-11-15 | 2024-12-14 |
-| [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat) | 3:40 | 2024-11-08 |  |
+| [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/track/2uKpuyzGp90yYdSv7A1w2C) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [เพลงรักที่เธอไม่เอา และเพลงเศร้าที่เขาไม่อิน](https://open.spotify.com/album/4LjGYqkzwWWLB75UK82Gat) | 3:40 | 2024-11-08 | 2025-08-30 |
 | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/track/6paXQeuhshazXjplp6OTXX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [เพลงรักนิรันดร์ กับคำบอกรักของฉันในวัย 80](https://open.spotify.com/album/3XJDmq6lMLE9FbvTdqiw4T) | 3:39 | 2024-08-02 | 2024-09-14 |
 | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X) | [MANASSAVEE](https://open.spotify.com/artist/7oXUJG49XQHHix0Awcq293) | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/album/2RLygclvx8ooOm6w0hJVlC) | 4:44 | 2024-06-21 | 2024-08-24 |
 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 | 2024-10-18 |  |
@@ -254,6 +256,7 @@
 | [ไม่อยากให้ใครรู้](https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ไม่อยากให้ใครรู้](https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC) | 3:02 | 2024-08-23 | 2024-09-07 |
 | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 | 2024-06-21 | 2025-05-17 |
 | [ไม่เหมือนก่อน](https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ไม่เหมือนก่อน](https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD) | 4:14 | 2024-08-23 | 2024-09-14 |
+| [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/track/3Dj4PqpmYe63c5Ky6w9bGA) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [ไม่ใช่ที่ของเธอ \(Honestly\)](https://open.spotify.com/album/4IQpstnBasEeHwKOS1MuiV) | 4:23 | 2025-08-29 |  |
 | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/track/30N3J1PS11FD22EqfGCG7u) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ไว้เจอกันใหม่ \| Until Then](https://open.spotify.com/album/1HXHxpuTDuxsRlw2tg9xyF) | 4:43 | 2025-05-02 | 2025-05-31 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

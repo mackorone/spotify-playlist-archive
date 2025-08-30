@@ -4,7 +4,7 @@
 
 > It's giving feelings\. Cover: Frenna & Yade Lauren
 
-125 songs - 5 hr 46 min
+126 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-07-17 |  |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |
 | [Solo](https://open.spotify.com/track/49lnaSujdoy6dAbGND8xKR) | [Afriki](https://open.spotify.com/artist/7wplUIsQsBY2x6E6XSZDAB), [VVinchy](https://open.spotify.com/artist/1crmh3YgaXLT7L0bPuWOrK) | [Solo](https://open.spotify.com/album/1DUyfdokghPNMUBfhmWAo6) | 1:55 | 2025-08-28 |  |
-| [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-07-17 |  |
+| [SOMEBODY LOVES ME](https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:02 | 2025-07-17 | 2025-08-30 |
 | [Spend some time](https://open.spotify.com/track/21RBeGlVeQ06UYqE5ZVKKz) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Spend some time](https://open.spotify.com/album/5yaGvNLiXWKVkkwlsSe5eR) | 2:56 | 2025-07-17 | 2025-08-08 |
 | [STRIPPERS ‘N MODELS](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 | 2025-08-07 |  |
 | [STUCK IN MY WAY](https://open.spotify.com/track/6uJifQIeKnF6J92hkADbNo) | [Rosamia](https://open.spotify.com/artist/6Upxkq1sdcIDUbSjRsjHr0) | [STUCK IN MY WAY](https://open.spotify.com/album/4pwjLOXMleUARhCE07iwQx) | 3:26 | 2025-07-17 | 2025-08-08 |
@@ -121,6 +121,7 @@
 | [They Do It](https://open.spotify.com/track/10zH36AZ0j6ee7pWKvHw1j) | [ALEXSZ](https://open.spotify.com/artist/7oZrWqeDIeJuYfE8qgxd2t), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO) | [They Do It](https://open.spotify.com/album/6V5krA5rscFFbSMpjnyuoB) | 2:17 | 2025-07-17 |  |
 | [Tiffany](https://open.spotify.com/track/3BU96LAF9FCLpRxJBPff9j) | [CHVSE](https://open.spotify.com/artist/3lkH04m4RQ7OSNBzzB1g40) | [Tiffany](https://open.spotify.com/album/4BlOZT8nYxCNwyLo1fUyic) | 1:52 | 2025-07-17 |  |
 | [TMI PT\. 2](https://open.spotify.com/track/1s8Qvm4LI2nLx2DhhWkxGc) | [Yris](https://open.spotify.com/artist/5CG6KhdlPDnF2WzXHYHt34), [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [TMI PT\. 2](https://open.spotify.com/album/4qZCv0BRNZAh7SaXVAKzQm) | 2:03 | 2025-08-07 |  |
+| [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-08-29 |  |
 | [Top Tier](https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK), [Nate](https://open.spotify.com/artist/2VINftEho961QpPR74Ftbb) | [Top Tier](https://open.spotify.com/album/6Ub5VP8L6qLLiv10TGm1sp) | 2:26 | 2025-07-17 |  |
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [Tweede Kans](https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:44 | 2025-07-17 |  |

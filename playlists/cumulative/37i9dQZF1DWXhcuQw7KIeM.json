@@ -788,7 +788,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 340133,
       "name": "Hemkomst",
       "url": "https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 199792,
       "name": "Highlander - English Version",
       "url": "https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys"
@@ -1802,6 +1802,24 @@
       "duration_ms": 260916,
       "name": "Seidfylgjur",
       "url": "https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl"
+    },
+    {
+      "album": {
+        "name": "Seolfren Sicol",
+        "url": "https://open.spotify.com/album/4zrcdFU9pFSN6Pg9hy825H"
+      },
+      "artists": [
+        {
+          "name": "Sowulo",
+          "url": "https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222880,
+      "name": "Seolfren Sicol",
+      "url": "https://open.spotify.com/track/5UCxeHvxT1ozBs9q7xzKwy"
     },
     {
       "album": {
@@ -2942,7 +2960,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"

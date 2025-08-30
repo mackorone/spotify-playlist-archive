@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,870 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,033 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 99 | [Gimme That Noise](https://open.spotify.com/track/3TWwb6t0Nu2WYvZEuLxHSy) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Gimme That Noise](https://open.spotify.com/album/25EH7sB7gsAhUNKvu5yv1x) | 3:02 |
 | 100 | [Komodo](https://open.spotify.com/track/1ABRhft3atwd5itDELR0jD) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/1K4UbTRjbfTUR0Xh7NdRjy) | 3:21 |
 
-Snapshot ID: `AAAAAN/feLhJ0VkVTKAYYXPi0awTbKoN`
+Snapshot ID: `AAAAANdcYUGLVNr/xLh2pW4cBmpDv6JI`

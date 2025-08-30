@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring sombr 🕛
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,929 likes - 120 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,893 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 40 | [The Explorer](https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [The Explorer](https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9) | 2:54 |
 | 41 | [Rebound](https://open.spotify.com/track/0LNCoyxJl81QocH8YK5ZCS) | [YES AND MAYBE](https://open.spotify.com/artist/3eeGgUP0pVi7bxVdNUbzc7) | [Rebound](https://open.spotify.com/album/39t0icdZ4uRcc1qkU9rvV0) | 2:35 |
 | 42 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 |
-| 43 | [Countryside](https://open.spotify.com/track/3kCRMqCVZZwJOR3Opkk62R) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Eva Tolkin](https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS) | [Countryside](https://open.spotify.com/album/5M43QFCSFCRKbILn3nDRPW) | 3:10 |
+| 43 | [Countryside](https://open.spotify.com/track/3kCRMqCVZZwJOR3Opkk62R) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Eva Tolkin](https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I), [Liam Benzvi](https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Countryside](https://open.spotify.com/album/5M43QFCSFCRKbILn3nDRPW) | 3:10 |
 | 44 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 45 | [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 |
 | 46 | [I Love This!](https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Love This!](https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6) | 2:50 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 53 | [If You Give Me This Chance](https://open.spotify.com/track/4TW9oeKIpucVNwgYAYpFCY) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [If You Give Me This Chance](https://open.spotify.com/album/5NpZs5DFC3xcXQM9AXRkke) | 3:25 |
 | 54 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 55 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 |
-| 56 | [In my Corner](https://open.spotify.com/track/1qs1egswk2mwVK28dtAMtT) | [jem wax](https://open.spotify.com/artist/246wnUMlcedroVMCuVtW7S) | [In My Corner](https://open.spotify.com/album/0nMJpeoMfkENKKzA8ADK4a) | 3:10 |
+| 56 | [In My Corner](https://open.spotify.com/track/1qs1egswk2mwVK28dtAMtT) | [jem wax](https://open.spotify.com/artist/246wnUMlcedroVMCuVtW7S) | [In My Corner](https://open.spotify.com/album/0nMJpeoMfkENKKzA8ADK4a) | 3:10 |
 | 57 | [Wheelspin](https://open.spotify.com/track/7AHArxVOFtn0aONSrHRomj) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Wheelspin](https://open.spotify.com/album/7c6dBx67VWPGHWfhNo7Vux) | 2:29 |
 | 58 | [Out Of The Blue](https://open.spotify.com/track/4wuApHMDZr5yuZzLE9ECdK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Out Of The Blue](https://open.spotify.com/album/3YVZKZUV6lAkfnP9GeJYkV) | 2:34 |
 | 59 | [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 |

@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Hannes & waterbaby✨
 
-2,009 songs - 4 day 12 hr 32 min
+2,010 songs - 4 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [dayones](https://open.spotify.com/track/74wAMYdAqfDFx76Ll6zG5D) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [dayones](https://open.spotify.com/album/7lLwYb8U0UIro72ix3s00z) | 1:58 | 2024-02-15 | 2024-04-19 |
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-06 | 2023-05-05 |
 | [DEAD](https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [DEAD](https://open.spotify.com/album/3gnscgQrOmEJdOYZRKa4LD) | 4:08 | 2025-06-05 |  |
+| [dead to me](https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [dead to me](https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN) | 2:44 | 2025-08-29 |  |
 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 | 2024-12-05 | 2025-01-31 |
 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 | 2023-10-05 | 2023-12-22 |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2023-04-13 | 2023-05-26 |

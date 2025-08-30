@@ -2,7 +2,7 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Current indie tunes from Asia and around the world\. Cover: Dijon
+> Current indie tunes from Asia and around the world\. Cover: Balu Brigada
 
 2,348 songs - 5 day 21 hr 3 min
 

@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter, DJ Snake x Don Toliver, Franglish et marguerite au top des nouveautés de la semaine !
 
-6,078 songs - 13 day 3 hr 25 min
+6,079 songs - 13 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2077,6 +2077,7 @@
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 | 2025-08-01 | 2025-08-08 |
 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-01 | 2025-05-09 |
 | [GO](https://open.spotify.com/track/3ZOdiDhdmLjSzhjoxymHYW) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [GO](https://open.spotify.com/album/6yxbKG45g3LpHdhbw0MV4F) | 2:19 | 2025-02-07 | 2025-02-14 |
+| [Go Down](https://open.spotify.com/track/27HtGX09GJwSC4nt2EazyU) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 2:27 | 2025-08-29 |  |
 | [Go See The Moon](https://open.spotify.com/track/4ISlYdLQQ4ZkccvI5ekjJH) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Go See The Moon](https://open.spotify.com/album/5fYdyyMo0txpaVNY65Anne) | 3:06 | 2025-03-20 | 2025-03-28 |
 | [Go To Hell](https://open.spotify.com/track/0C0Y3DSMKMUKp5uDtT7qaJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:26 | 2025-07-24 | 2025-08-01 |
 | [GO!](https://open.spotify.com/track/1qPSdLoRRMkOTRSJEHHnZX) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:27 | 2025-05-29 | 2025-06-06 |
@@ -3573,6 +3574,7 @@
 | [MODE AVION](https://open.spotify.com/track/4boCfmMOOBzeP1ukZBkaI8) | [Moji x Sboy](https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i) | [MODE AVION](https://open.spotify.com/album/2iNcTo9bN3RfVLzuccNZA3) | 2:31 | 2025-07-17 | 2025-07-25 |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-04-25 | 2024-05-03 |
 | [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 | 2024-09-12 | 2024-09-20 |
+| [Modèle](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 2:39 | 2025-08-28 |  |
 | [Mogolu](https://open.spotify.com/track/7rYmXdhkBWoUGFGjNaRzga) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mogolu](https://open.spotify.com/album/2fIDOaHRMSLmkDp5QilYiu) | 3:40 | 2024-04-25 | 2024-05-03 |
 | [Moi ça va](https://open.spotify.com/track/7mr82s5mlAtVAuuZNiwgXr) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Iselena](https://open.spotify.com/artist/3WGPnBwubp4ERQFAQIEium) | [Moi ça va](https://open.spotify.com/album/1h8KnKgDfE2jkD0ChejCHN) | 2:36 | 2024-10-03 | 2024-10-10 |
 | [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 | 2025-01-02 | 2025-01-10 |
@@ -3591,7 +3593,7 @@
 | [Mon pays c'est la vie](https://open.spotify.com/track/7uq1fpq3JoPziguDXJvr8a) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Ycare](https://open.spotify.com/album/6bWO1X7Juo4OwfyQIW6e9e) | 2:49 | 2025-06-06 | 2025-06-13 |
 | [Mon regard](https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Mon regard](https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL) | 2:19 | 2024-09-26 | 2024-10-04 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-05-30 | 2024-06-07 |
-| [Mona](https://open.spotify.com/track/2CEaPReeggu78lbD1tmg96) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 3:07 | 2025-08-28 |  |
+| [Mona](https://open.spotify.com/track/2CEaPReeggu78lbD1tmg96) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 3:07 | 2025-08-28 | 2025-08-30 |
 | [Mona Lisa](https://open.spotify.com/track/0Q5Gg24wOuQUnNEfauZKHn) | [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU) | [MA SCIENCE](https://open.spotify.com/album/5TSIcoHcDSTugiTtkxKP7A) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-15 | 2024-08-23 |
 | [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-11 | 2024-07-19 |
@@ -5527,7 +5529,6 @@
 | [Toutânkhamon](https://open.spotify.com/track/4sq01o2lvPbvvPCxTRq5j4) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd) | [Toutânkhamon](https://open.spotify.com/album/0sJngtYOVsjIJyh2GQ9F4d) | 2:43 | 2024-10-17 | 2024-10-25 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-19 | 2025-06-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
-| [Track 3](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 0:00 | 2025-08-28 |  |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-01-17 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-01-24 |
 | [Trance State](https://open.spotify.com/track/29gYlp6J0JdpainJfejuge) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Trance State](https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6) | 4:23 | 2025-06-12 | 2025-06-20 |

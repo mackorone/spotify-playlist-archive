@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 Los Caballeros De La Quema
 
-384 songs - 1 day 0 hr 39 min
+385 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [La Chica Diablo](https://open.spotify.com/track/709BCJ6RV5c6xxuByvRjMO) | [Bronca](https://open.spotify.com/artist/7DLavjCepvelLcRV2Gnt6R) | [La Chica Diablo](https://open.spotify.com/album/6lPJyWNMaCoyFDWUyWuONg) | 3:40 | 2025-07-25 | 2025-08-01 |
 | [La Conquista del Espacio](https://open.spotify.com/track/10ndgIoUotbwMcDt7cj0fM) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Conquista del Espacio](https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ) | 4:14 | 2022-07-06 | 2022-07-13 |
 | [La Doctora II](https://open.spotify.com/track/4DoJ4n5pnwDZKAuTEyHCUO) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La Doctora II](https://open.spotify.com/album/1ZHX4z9901fRhJ5obRea9P) | 5:37 | 2022-06-29 | 2022-07-29 |
+| [La Fiesta](https://open.spotify.com/track/3c45yMX2l9EA8i16gwvSYj) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf) | [Angelo Pierattini](https://open.spotify.com/album/6Jih4HahNERdZIurZA14V7) | 4:06 | 2025-08-29 |  |
 | [La Forma de Estar Solo](https://open.spotify.com/track/4QeJ4rDjV4lZtZ4Xyj0exO) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:40 | 2025-05-02 | 2025-07-21 |
 | [La Internacional](https://open.spotify.com/track/718vbMDxlet0Lu9aGEpVC7) | [Acorazado Potemkin](https://open.spotify.com/artist/4QDSqX4vtsftXfEAlKBVXR) | [La Internacional](https://open.spotify.com/album/2xpQLebO0FIFD3T5Y2Murk) | 3:33 | 2022-07-19 | 2022-07-21 |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-06-29 | 2022-07-22 |
@@ -305,7 +306,7 @@
 | [Sabias Palabras](https://open.spotify.com/track/2FejLYSy4vtLAEkmw0gVtk) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Las Paritarias](https://open.spotify.com/artist/4smUEMQno7Z1EYuz9A1HjK) | [Sabias Palabras](https://open.spotify.com/album/5wde6HXV4RkeebjSBc8mqR) | 3:54 | 2025-02-28 | 2025-04-04 |
 | [Sabina y Piazzolla](https://open.spotify.com/track/4q5fAtYMfcBQorgbFZhRGE) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Sabina y Piazzolla](https://open.spotify.com/album/6D3M5OdaxgaZOdx50hXYTj) | 4:02 | 2023-06-23 | 2024-05-13 |
 | [Salir del Confort](https://open.spotify.com/track/4ObAtoz13OZ8uN2g5ADVyX) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Salir del Confort](https://open.spotify.com/album/2uk2MSf9s40VYEMD3C3CM5) | 3:16 | 2023-08-25 | 2023-09-22 |
-| [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 | 2022-07-19 |  |
+| [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 | 2022-07-19 | 2025-08-30 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-06-29 |  |
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2022-06-29 |  |
 | [Señal](https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Mienten](https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR) | 4:37 | 2023-06-16 | 2023-08-15 |

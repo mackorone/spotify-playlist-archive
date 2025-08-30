@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 115000,
       "name": "ATTACKING VERTICAL",
       "url": "https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd"
@@ -8597,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/5eA4dnhQQbUVRohOqK2AWd"
+    },
+    {
+      "album": {
         "name": "PARTY GATOR PURGATORY",
         "url": "https://open.spotify.com/album/0c9GiN1Zkg2Wz9Qk5AJa3l"
       },
@@ -13834,7 +13852,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155000,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/7uELmcXg4U2iCcrXMvD8dj"

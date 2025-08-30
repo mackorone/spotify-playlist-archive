@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Marshmello and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,586 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,757 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 59 | [Day Late & A Buck Short](https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Day Late & A Buck Short](https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj) | 2:33 |
 | 60 | [I'd Be Delighted](https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [I'd Be Delighted](https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX) | 3:46 |
 
-Snapshot ID: `AAAAAHDEPTbTH8YLI6FoJZPFcGo2CQDv`
+Snapshot ID: `AAAAACifRTILIrfzqTc824OuE8SfDKuQ`

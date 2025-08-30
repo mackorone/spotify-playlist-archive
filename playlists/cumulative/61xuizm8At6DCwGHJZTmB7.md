@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-638 songs - 2 day 13 hr 46 min
+639 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 | 2024-02-23 | 2024-04-19 |
 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 | 2023-03-11 | 2024-04-19 |
 | [Look At What The Blood Has Done \- Live](https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Look At What The Blood Has Done \(Live\)](https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U) | 5:50 | 2025-03-20 |  |
+| [Look What The Lord Has Done](https://open.spotify.com/track/5NuR456SQe5Gic5qnsL48s) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Pelt](https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Look What The Lord Has Done](https://open.spotify.com/album/4nwrCIGItCekOhkEUyX2v7) | 4:24 | 2025-08-29 |  |
 | [Lord I Need You \- Live](https://open.spotify.com/track/4fF4Bb4T3txIfsLlqLyKA9) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The God You Are \(Live\)](https://open.spotify.com/album/28dezLJwS8FZrizFVqrUv2) | 3:48 | 2024-08-16 |  |
 | [Lord Of The Harvest \- Live](https://open.spotify.com/track/7C9T43q7KGEYWkkQ2jFEcE) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Lord Of The Harvest \(Live\)](https://open.spotify.com/album/2MPWAjBXD0w7N8CCJ6OTBe) | 9:54 | 2022-05-06 | 2023-04-01 |
 | [Lord, I give You my heart \- from the studio](https://open.spotify.com/track/13g3YzqljC9Q0Eo20GozcY) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05), [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa) | [Lord, I give You my heart \(from the studio\)](https://open.spotify.com/album/0L4fhnfyYnaKfvElyUqxHe) | 4:08 | 2025-02-28 |  |

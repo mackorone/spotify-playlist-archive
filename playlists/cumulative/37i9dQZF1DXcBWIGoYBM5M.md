@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: sombr
+> The hottest 50\. Cover: Sabrina Carpenter
 
 1,278 songs - 2 day 20 hr 27 min
 

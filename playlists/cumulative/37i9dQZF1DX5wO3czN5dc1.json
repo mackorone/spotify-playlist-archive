@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: <a href=\"https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM?si=pGqAqSpRS26AxpWWV3HlZg\">SUPTA</a>",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: <a href=\"https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=DReWExhvQseNOmg2QbauGA\">MaWhoo</a>",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -142,6 +142,28 @@
       "duration_ms": 309659,
       "name": "Angisabi Lutho",
       "url": "https://open.spotify.com/track/7iqJ7rDv8cMXVJvvLekF2p"
+    },
+    {
+      "album": {
+        "name": "Arcana Dei",
+        "url": "https://open.spotify.com/album/7JPitdgbw5eMJ96oAT6z6B"
+      },
+      "artists": [
+        {
+          "name": "LER\u00d8Y",
+          "url": "https://open.spotify.com/artist/5PcSFzvJdyE1hClGz9Q5rm"
+        },
+        {
+          "name": "Leroy Styles",
+          "url": "https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349090,
+      "name": "Arcana Dei",
+      "url": "https://open.spotify.com/track/1lCA23ozFtmsi5kqVA29VY"
     },
     {
       "album": {
@@ -1831,6 +1853,32 @@
     },
     {
       "album": {
+        "name": "Izinkinga Zami (feat. SG MusiQ)",
+        "url": "https://open.spotify.com/album/7GKVqDgJwdA8gGD6NNyRli"
+      },
+      "artists": [
+        {
+          "name": "Mluh",
+          "url": "https://open.spotify.com/artist/2bavf3dLjihyCssEXzJrSA"
+        },
+        {
+          "name": "Thoby Dladla",
+          "url": "https://open.spotify.com/artist/0kyaZ9bi9LIKEqRhpZssLo"
+        },
+        {
+          "name": "SG MusiQ",
+          "url": "https://open.spotify.com/artist/0FAM9jpB9wPPb68FnjqKpA"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357966,
+      "name": "Izinkinga Zami (feat. SG MusiQ)",
+      "url": "https://open.spotify.com/track/45oRgTSNn47SIa0st2CD69"
+    },
+    {
+      "album": {
         "name": "Jaiye Orimi (Audera Remix)",
         "url": "https://open.spotify.com/album/1M6zM18InfvForj496x1a3"
       },
@@ -3092,6 +3140,32 @@
       "duration_ms": 322394,
       "name": "Ngizothandaza",
       "url": "https://open.spotify.com/track/3IusPh0xpMyppoTGs65pkL"
+    },
+    {
+      "album": {
+        "name": "Ngwane",
+        "url": "https://open.spotify.com/album/6StN6xcwuLCgSGxNigsmzS"
+      },
+      "artists": [
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "Kenza",
+          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246988,
+      "name": "Ngwane",
+      "url": "https://open.spotify.com/track/0xCHpifahyHrBaOvXV9lZE"
     },
     {
       "album": {
@@ -4384,6 +4458,40 @@
       "duration_ms": 360021,
       "name": "Umkhuleko (feat. Angel Ndlela)",
       "url": "https://open.spotify.com/track/6DmARTmb3Fqgn6NHxa5PZE"
+    },
+    {
+      "album": {
+        "name": "Amazwi Okubonga",
+        "url": "https://open.spotify.com/album/5i4SCQfgYUJ0tZNRsxz9mF"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "DJ Veek",
+          "url": "https://open.spotify.com/artist/3sDsuIwH3ClfSh6aMgEC7o"
+        },
+        {
+          "name": "Criimora b.k.z",
+          "url": "https://open.spotify.com/artist/1Pz02GTLnPBX75ECw6OBty"
+        },
+        {
+          "name": "ChildDaDj",
+          "url": "https://open.spotify.com/artist/70DzXxVr9BqAIfsBoa3rn5"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397682,
+      "name": "Umona (feat. Sykes)",
+      "url": "https://open.spotify.com/track/5AROirCx9LJlNF66npXCki"
     },
     {
       "album": {

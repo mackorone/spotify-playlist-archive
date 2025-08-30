@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,204 likes - 200 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,305 likes - 200 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 170 | [Lazy Afternoon](https://open.spotify.com/track/1uaoVLtYpEbCJaQqQ78mbL) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [Lazy Afternoon](https://open.spotify.com/album/4g3jWHBTgPCUE3zid7T3Mr) | 2:12 |
 | 171 | [Dolphin Dance](https://open.spotify.com/track/54qJkfXVHmgJhYpbMgVjM4) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Dolphin Dance](https://open.spotify.com/album/3ImIn4IPL59kQU1B0lrQRG) | 2:18 |
 | 172 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 |
-| 173 | [Get Us a Cab](https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Get Us a Cab](https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts) | 2:36 |
+| 173 | [Get Us a Cab](https://open.spotify.com/track/1drlHh4bqZAhWf3gL9es6t) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Get Us a Cab](https://open.spotify.com/album/1db8KBCLQplZRHSVVPRVts) | 2:36 |
 | 174 | [Blue Midnight](https://open.spotify.com/track/3wb4QQWD4UBZHSGUEPMX86) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Blue Midnight](https://open.spotify.com/album/78c6w6eBuP9tdzODxi1SvQ) | 2:26 |
 | 175 | [Easy Goin'](https://open.spotify.com/track/23v7yXkwzDcmC8b6nIJ9HK) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [Easy Goin'](https://open.spotify.com/album/07YKwMac0MwqKsvOf7ugKx) | 2:44 |
 | 176 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 |

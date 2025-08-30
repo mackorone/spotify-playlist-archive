@@ -1,13 +1,29 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: El Michels Affair",
-  "num_followers": 118085,
+  "num_followers": 118140,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIwRrucpRrwITDhsl80xn8QmKZh",
+  "snapshot_id": "AAAAAMGVY6KkQRPCIxXVBR3iqYpLEMcI",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:45",
+      "album": {
+        "name": "FREE UP",
+        "url": "https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 243970,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP"
+    },
     {
       "added_at": "2025-08-15 04:00:10",
       "album": {

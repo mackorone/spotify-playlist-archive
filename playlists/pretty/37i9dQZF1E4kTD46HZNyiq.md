@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, Laureline and more
+> With Rhineland, Laureline, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,137 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Big City](https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Big City](https://open.spotify.com/album/2iGkASJ46pbJZMMb48NtwJ) | 3:50 |
 | 50 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
 
-Snapshot ID: `aLEdigAAAAB64nKTqIXhb1o0UUrlmGFC`
+Snapshot ID: `aLJuWwAAAACHNyiFjp0NWBRWewm3BT3f`

@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-417 songs - 1 day 0 hr 41 min
+418 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Born to Run](https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Born to Run](https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X) | 4:41 | 2024-06-28 | 2024-11-03 |
 | [Boston Mountains](https://open.spotify.com/track/7FIpePIq2tSTG97tI9l83z) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Boston Mountains](https://open.spotify.com/album/3QgrgFyqnLzgdlwGzAyJG5) | 3:38 | 2024-10-25 | 2025-02-01 |
 | [Breathless](https://open.spotify.com/track/1HTkRCAwNETjsqc6d4Yluc) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:02 | 2025-01-10 |  |
+| [Broken Angels](https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Broken Angels](https://open.spotify.com/album/6UyF4XPRRXIGdaOsu3X3vR) | 3:40 | 2025-08-29 |  |
 | [Bury Me](https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Bury Me](https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x) | 3:02 | 2025-01-17 |  |
 | [Bury Me Beneath the Willow](https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Bury Me Beneath the Willow](https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5) | 3:58 | 2024-06-28 | 2024-10-05 |
 | [Buy A Box](https://open.spotify.com/track/7DxPi4F0ipHfNJejnFfebl) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Buy A Box](https://open.spotify.com/album/7hs4SrNbQyhw5lzUJUb9pI) | 1:58 | 2024-06-28 | 2024-08-03 |

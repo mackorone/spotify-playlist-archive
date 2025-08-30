@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > underground and experimental\. greetings from sorry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,739 likes - 108 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,724 likes - 108 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 107 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
 | 108 | [Spring](https://open.spotify.com/track/0I1525aRa6oK8rtxzC3OUD) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Spring](https://open.spotify.com/album/7LvC0VxdL09dvXV3jxXY88) | 3:34 |
 
-Snapshot ID: `AAAAAHzQ/4xwM6I2n2yHqaj6czcksvCl`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

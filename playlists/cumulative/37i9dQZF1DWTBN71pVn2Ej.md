@@ -4,7 +4,7 @@
 
 > The shape of future noise\. Cover: They Are Gutting a Body Of Water
 
-840 songs - 2 day 0 hr 14 min
+840 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 | 2024-12-04 |
 | [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-10-14 | 2024-12-07 |
 | [Country Girl](https://open.spotify.com/track/7bmPfsGNntrLq8ZRP5g8wj) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Country Girl](https://open.spotify.com/album/0rfZDZkoQMBHJfvPSQHBM2) | 5:54 | 2025-04-18 |  |
+| [Covet](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 3:22 | 2025-08-08 |  |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-10 | 2023-05-04 |
 | [Creature](https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Creature](https://open.spotify.com/album/2mQj1BmUj9HVQwDlEUTXWe) | 3:23 | 2023-05-12 | 2024-02-10 |
 | [Crosshairs](https://open.spotify.com/track/2qp36gR2mPAssQ2dKHdzO2) | [Parti!](https://open.spotify.com/artist/1b17pNackw7aDoGd6NIZzK) | [Crosshairs](https://open.spotify.com/album/6ODSZq6jJ3oNoTJfuiPFAi) | 2:58 | 2022-11-04 | 2023-04-01 |
@@ -774,7 +775,6 @@
 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 | 2024-12-29 |  |
 | [Torched](https://open.spotify.com/track/7inaTyQTHJq8G18vFU2J6X) | [Colourblind](https://open.spotify.com/artist/2Tzh2zHsSIBYCkytK2L82k) | [Torched](https://open.spotify.com/album/1hRNwx5co2OS2a2XEVDxky) | 2:28 | 2023-10-13 | 2023-11-11 |
 | [Tortuga](https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Tortuga](https://open.spotify.com/album/11dazu57AoABvNCgktwEoP) | 2:45 | 2024-07-08 | 2024-10-01 |
-| [Track 2](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 0:00 | 2025-08-08 |  |
 | [Tragedy](https://open.spotify.com/track/5Q0WzHDGAzdxkKIO4xP2To) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tragedy](https://open.spotify.com/album/2rnjPeQAtqf4PpTHg3fZen) | 4:26 | 2024-03-27 | 2024-05-03 |
 | [trainers](https://open.spotify.com/track/3EyQZgUQ5AEoeKRAaQNuWd) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [trainers](https://open.spotify.com/album/0VgVOEvH7SoHPwpAJTFUP8) | 2:45 | 2025-07-18 |  |
 | [Tramlines](https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tramlines](https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo) | 3:16 | 2023-02-09 | 2023-05-13 |

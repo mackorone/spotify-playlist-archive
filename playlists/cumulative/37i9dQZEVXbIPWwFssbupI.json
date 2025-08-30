@@ -43418,6 +43418,24 @@
     {
       "album": {
         "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/2FLQHt0f5gjPkVVOo2MXQ7"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Toi et moi",
+      "url": "https://open.spotify.com/track/3Hnni3uO01o6FDQObAo25P"
+    },
+    {
+      "album": {
+        "name": "D&P \u00e0 vie",
         "url": "https://open.spotify.com/album/6uM848cCnX04qUjs3Fkfep"
       },
       "artists": [
@@ -43428,7 +43446,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 201786,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/6F1q9sr0YSCqsxtitQ4N0V"

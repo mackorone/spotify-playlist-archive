@@ -2,7 +2,7 @@
 
 ### [Sommerhits 2025](https://open.spotify.com/playlist/37i9dQZF1DWX7rdRjOECPW)
 
-> Sommer, Sonne, Seewetter! ☀️
+> Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
 265 songs - 12 hr 52 min
 

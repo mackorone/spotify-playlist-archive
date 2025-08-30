@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-543 songs - 1 day 6 hr 50 min
+544 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Neene Nanna Dilruba](https://open.spotify.com/track/30TLwuKugPfrnMGJUyOpCX) | [Sneha P](https://open.spotify.com/artist/7a340nNpfXGVZrWSrJeZ1x), [Ashwin G](https://open.spotify.com/artist/7rY02n29nmQUH6J1sTs6lK) | [Neene Nanna Dilruba](https://open.spotify.com/album/12mK3U7Mre8X8KnDzdbHfj) | 3:06 | 2023-06-19 | 2024-02-10 |
 | [Neene Neene](https://open.spotify.com/track/2O3L5N83B5Nj2quehgw3Eb) | [Basvanth Rao](https://open.spotify.com/artist/1040bqOKKb9lUD7N3EcuLx) | [Bengaluru Love Story](https://open.spotify.com/album/6M9GV46FbDkhLAIOstGyP0) | 4:32 | 2025-03-25 |  |
 | [Neene Neene](https://open.spotify.com/track/3oNl7SQVQnogVXaXdfbdhw) | [Drusti](https://open.spotify.com/artist/3cHpejJPT84dzssv89n0s7), [Kiran Bangera](https://open.spotify.com/artist/2LrYMr4C9gYroHRoyQQ6CY), [Manvith Karkera](https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw) | [Neene Neene](https://open.spotify.com/album/4V6OLQHOHCSYf8MM3xWisY) | 4:36 | 2023-09-06 | 2024-03-15 |
-| [Neene Neene Bekendu](https://open.spotify.com/track/63nvMYxX3t6T2wkWnh0kxz) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Neene Neene Bekendu](https://open.spotify.com/album/7oe0UA4fGjPmkIu0d1Hm5R) | 4:16 | 2025-03-11 |  |
+| [Neene Neene Bekendu](https://open.spotify.com/track/63nvMYxX3t6T2wkWnh0kxz) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3) | [Neene Neene Bekendu](https://open.spotify.com/album/7oe0UA4fGjPmkIu0d1Hm5R) | 4:16 | 2025-03-11 | 2025-08-30 |
 | [Neenire Jotheyalli](https://open.spotify.com/track/43J5iLiNYuyjOlN0hCMoU1) | [Pratheek anchan](https://open.spotify.com/artist/22uihzHSRd4fg181KerX6n) | [Neenire Jotheyalli](https://open.spotify.com/album/2b3rqJgc9tt6m1DCZWNPha) | 2:26 | 2024-03-04 | 2024-08-23 |
 | [Neerige Hogo Henne!](https://open.spotify.com/track/1eYVrSzMc8MUjz2feEljcI) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Neerige Hogo Henne!](https://open.spotify.com/album/16T0Q8WdjYGBRy1JNKPmET) | 3:07 | 2024-04-24 | 2024-09-19 |
 | [Negative Vibes](https://open.spotify.com/track/2v8kMR6oI7nejIEAlRdLMh) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3) | [Negative Vibes](https://open.spotify.com/album/2Q3LYxs6srfQlp668KY84J) | 2:15 | 2024-01-16 | 2024-02-22 |
@@ -527,6 +527,7 @@
 | [UKKAARU](https://open.spotify.com/track/4KYwXJhLFwFLn4f2aanTjO) | [Darshikan](https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R) | [UKKAARU](https://open.spotify.com/album/6C7gJsHME5yAcXVKpz66jq) | 2:22 | 2024-08-07 | 2025-02-01 |
 | [Usira Olage](https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3) | [Usira Olage](https://open.spotify.com/album/2XOVDh8ZulNCfm0WgAyD0K) | 1:27 | 2023-09-16 | 2024-01-07 |
 | [Usira Olage](https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl) | [Usira Olage](https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N) | 1:27 | 2023-09-16 | 2024-04-02 |
+| [Usire](https://open.spotify.com/track/4mDnuR8aQwVC0zMy8rUDY2) | [Curry](https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5) | [Usire](https://open.spotify.com/album/7bZQsK2uUmfIWskMj9Rf5n) | 4:41 | 2025-08-29 |  |
 | [Usire My Breath](https://open.spotify.com/track/2N1k2J1VX5ZqhuDw4kgVZg) | [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [Usire My Breath](https://open.spotify.com/album/03nWIcH5cuej4GGnzIk1xT) | 2:17 | 2024-08-02 | 2025-01-22 |
 | [Usire Olavagi Hoyite](https://open.spotify.com/track/7mq6V2nxXYb5oMxyxORtyh) | [Fayaz Kushtagi](https://open.spotify.com/artist/5uoUEYCRBbVh8eCyvjYbMK), [manju pujari](https://open.spotify.com/artist/15tI9cvt89M7FgNDgz18SZ), [Sharan Bijakal](https://open.spotify.com/artist/1DPuzheKjUmaVIORDg4Ng5) | [Usire](https://open.spotify.com/album/5zNjruszlk0vNCmDx9H6Bo) | 3:23 | 2025-04-07 |  |
 | [Usiru](https://open.spotify.com/track/2Z5RYeUKMb7hQt4YWNiBq4) | [Nithish O K](https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78), [Sanoop Kumar](https://open.spotify.com/artist/3wRgagXI2E8pvzksuf9TTx) | [Usiru](https://open.spotify.com/album/39xAAG1JJjPzXug1Zj5LHy) | 3:36 | 2025-08-11 |  |

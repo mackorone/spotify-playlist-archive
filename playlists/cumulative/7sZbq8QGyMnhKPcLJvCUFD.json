@@ -493,6 +493,32 @@
     },
     {
       "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/5MuveroOf9KvC6mC3IUOeF"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Immy Odon",
+          "url": "https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "All We've Ever Known",
+      "url": "https://open.spotify.com/track/0BrcT26Jb5SNAJSVRMPdVo"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX"
       },
@@ -3064,28 +3090,6 @@
       "duration_ms": 169370,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s"
-    },
-    {
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2R2ghF8ZmMr6AWTA9lvhff"
-      },
-      "artists": [
-        {
-          "name": "RINZO",
-          "url": "https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf"
-        },
-        {
-          "name": "\u8309\u3072\u308b",
-          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
-        }
-      ],
-      "date_added": "2025-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186258,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/1Zr1B7HQnDCGCOrL4lGHTB"
     },
     {
       "album": {
@@ -15980,6 +15984,28 @@
       "duration_ms": 207690,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/1shskQEKKGCDz4u3xQ192q"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 (Daydream)",
+        "url": "https://open.spotify.com/album/2R2ghF8ZmMr6AWTA9lvhff"
+      },
+      "artists": [
+        {
+          "name": "RINZO",
+          "url": "https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf"
+        },
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186258,
+      "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 (Daydream)",
+      "url": "https://open.spotify.com/track/1Zr1B7HQnDCGCOrL4lGHTB"
     }
   ],
   "url": "https://open.spotify.com/playlist/7sZbq8QGyMnhKPcLJvCUFD"

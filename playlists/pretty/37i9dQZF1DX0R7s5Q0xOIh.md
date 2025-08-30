@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,312 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,311 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 204 | [CAUE MOURA \- Carona Podpah \#12](https://open.spotify.com/episode/6eqqxGqdLG6DTdqK2IxRIf) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 53:11 |
 | 205 | [Amor só de Mãe](https://open.spotify.com/track/6T25qSWKAmZXNTfdQH4FTz) | [Mc Zoio de Gato](https://open.spotify.com/artist/1Fq1hzXindJTeFJqxeiIEC), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [DJ TYRIM](https://open.spotify.com/artist/1u90jQgPsGpHrl1IJqrBY3) | [Fabrica de Bico](https://open.spotify.com/album/2REXp8mwSRqebM2WisciKK) | 4:38 |
 | 206 | [Forest](https://open.spotify.com/track/1B5Y9I5wPfvD3C2A81A36C) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 4:00 |
-| 207 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
+| 207 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
 | 208 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
 | 209 | [Ozymandias](https://open.spotify.com/track/4ZIfNO3fw3PNH2ZgL4Ar7V) | [Cauê Moura](https://open.spotify.com/artist/7KaToPrGhRD1bheqs7PL3I) | [Ozymandias](https://open.spotify.com/album/7aChsDdhyy4bgWQeWdUtIe) | 4:14 |
 | 210 | [Naquela Sala](https://open.spotify.com/track/5kJsYnHefntee0NHGiODte) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Respire Fundo](https://open.spotify.com/album/3Wq38mBK9wiIsY21LFMIlt) | 6:01 |

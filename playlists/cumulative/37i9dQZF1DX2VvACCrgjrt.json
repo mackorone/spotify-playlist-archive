@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 145153,
       "name": "All Nighter",
       "url": "https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 214326,
       "name": "Brain On Drugs",
       "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 158222,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/5nCNUHYlt3yIsoLD4rbb4Y"
@@ -5754,7 +5754,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 171488,
       "name": "Disco Future Rave",
       "url": "https://open.spotify.com/track/70rgBkmR6Tj1Z86RpQzbxc"
@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 230769,
       "name": "Ease My Mind - Odd Mob Remix",
       "url": "https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS"
@@ -10349,6 +10349,28 @@
     },
     {
       "album": {
+        "name": "I Got Soul (Super Bad)",
+        "url": "https://open.spotify.com/album/3H0ootot0DGXzvmq9tQ1EW"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "I Got Soul (Super Bad)",
+      "url": "https://open.spotify.com/track/41LxUALaLM5fnPTEexCN9g"
+    },
+    {
+      "album": {
         "name": "I Got That",
         "url": "https://open.spotify.com/album/6teTGkAOQhdxnUF0hqvwN1"
       },
@@ -10840,6 +10862,24 @@
       "duration_ms": 196190,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
+    },
+    {
+      "album": {
+        "name": "Inwards",
+        "url": "https://open.spotify.com/album/10bvUyJngTY0LXd7HymOFV"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204728,
+      "name": "Inwards",
+      "url": "https://open.spotify.com/track/6RKCssrvURrpUsNw2mkZ8C"
     },
     {
       "album": {
@@ -14465,6 +14505,24 @@
     },
     {
       "album": {
+        "name": "PRISMA EP",
+        "url": "https://open.spotify.com/album/2G4aaowCgrnzrlojSl0VVF"
+      },
+      "artists": [
+        {
+          "name": "BOMBAYS",
+          "url": "https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "NO SE",
+      "url": "https://open.spotify.com/track/3mtkslOLbY7xPvW7KtPLZo"
+    },
+    {
+      "album": {
         "name": "No Signal",
         "url": "https://open.spotify.com/album/7iPw8nupkZme0HDagHXwar"
       },
@@ -15006,7 +15064,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155625,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0VDGPqjFj9pXFCEFa6bNKL"
@@ -15768,6 +15826,28 @@
       "duration_ms": 190522,
       "name": "Pass",
       "url": "https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe"
+    },
+    {
+      "album": {
+        "name": "PAY",
+        "url": "https://open.spotify.com/album/5FYHPnJriNF6CrK1sYh9i4"
+      },
+      "artists": [
+        {
+          "name": "Klo",
+          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+        },
+        {
+          "name": "tesh",
+          "url": "https://open.spotify.com/artist/4bnUfGrlUSrYBRajJnAhDX"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "PAY",
+      "url": "https://open.spotify.com/track/1q1k7Tyc3JfWhoeeTjJ6BB"
     },
     {
       "album": {
@@ -17395,6 +17475,24 @@
     },
     {
       "album": {
+        "name": "Rockin",
+        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Rockin",
+      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
+    },
+    {
+      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/6if9QVmVeAA9xHqWi0tlG7"
       },
@@ -18251,6 +18349,32 @@
     },
     {
       "album": {
+        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "RYA",
+          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
+    },
+    {
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO"
       },
@@ -18814,6 +18938,32 @@
       "duration_ms": 179572,
       "name": "Speaker Cone",
       "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
+    },
+    {
+      "album": {
+        "name": "SPEND IT",
+        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "LEIJON",
+          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
+        },
+        {
+          "name": "nobodyknowsjones",
+          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144023,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "album": {
@@ -20080,7 +20230,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 213750,
       "name": "Telephone Ringin'",
       "url": "https://open.spotify.com/track/2zgTx5Zc7NokIheqwBDIhT"

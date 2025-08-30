@@ -10969,6 +10969,24 @@
     },
     {
       "album": {
+        "name": "EXPANSION",
+        "url": "https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Thousand Billion Hallelujahs",
+      "url": "https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31"
+    },
+    {
+      "album": {
         "name": "Thousand Stars",
         "url": "https://open.spotify.com/album/6mDabdeFhmrigR9xN8igIQ"
       },
@@ -11116,24 +11134,6 @@
       "duration_ms": 167225,
       "name": "Tout nouveau tout beau",
       "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
-    },
-    {
-      "album": {
-        "name": "EXPANSION",
-        "url": "https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F"
-      },
-      "artists": [
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        }
-      ],
-      "date_added": "2025-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31"
     },
     {
       "album": {

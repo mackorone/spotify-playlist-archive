@@ -4,10 +4,11 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-550 songs - 1 day 2 hr 47 min
+551 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Hope I Don't\) Fall](https://open.spotify.com/track/71RsQO30Bm81gAOhMbFrtB) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [\(Hope I Don't\) Fall](https://open.spotify.com/album/3YknyMhoxAkaTfcTsGCRTF) | 2:09 | 2025-08-29 |  |
 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 | 2023-05-12 | 2025-02-20 |
 | [2 Things](https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [2 Things](https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S) | 3:11 | 2022-09-30 |  |
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-07-08 | 2023-01-06 |
@@ -451,7 +452,7 @@
 | [Scrolling Up](https://open.spotify.com/track/5DuCzlwJ6vqxFGVu8ZZ6lw) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V), [All That MTRS](https://open.spotify.com/artist/3WLgA2O4GUwSJu2QsXbnex) | [Scrolling Up](https://open.spotify.com/album/2GAuc1wljDm6eJVTor0RbZ) | 2:21 | 2022-01-28 | 2022-02-01 |
 | [Secrets \- MOTi Remix](https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Secrets \(MOTi Remix\)](https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY) | 2:35 | 2021-10-29 | 2022-06-11 |
 | [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 | 2023-11-24 |  |
-| [Selecta](https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Selecta](https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG) | 2:49 | 2025-06-06 |  |
+| [Selecta](https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Selecta](https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG) | 2:49 | 2025-06-06 | 2025-08-30 |
 | [Senses \(Now We Go\)](https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB), [ONEDUO](https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc) | [Senses \(Now We Go\)](https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO) | 2:33 | 2025-01-31 |  |
 | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [HQA](https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw) | [Set The Tempo \(feat\. HQA\)](https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN) | 3:03 | 2022-09-09 | 2024-09-26 |
 | [Seven Nation Army](https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY) | [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [KOYSINA](https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF) | [Seven Nation Army](https://open.spotify.com/album/7a4re6Ite5lMFYJ8nVIzkT) | 2:13 | 2021-10-29 | 2022-02-12 |

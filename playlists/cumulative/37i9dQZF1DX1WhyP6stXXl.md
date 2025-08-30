@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Alvaro Soler
 
-1,386 songs - 2 day 22 hr 0 min
+1,387 songs - 2 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1300,6 +1300,7 @@
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2024-09-20 |
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2024-07-27 |
 | [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 | 2025-07-31 | 2025-08-29 |
+| [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 | 2025-08-29 |  |
 | [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 | 2025-07-11 | 2025-08-09 |
 | [Walking On The Moon](https://open.spotify.com/track/3Q07bD6SUED8pTHVCO1yJG) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Walking On The Moon](https://open.spotify.com/album/6DeVhylS7YCnwbexBBOoBw) | 3:00 | 2025-02-27 | 2025-03-28 |
 | [Walkman](https://open.spotify.com/track/5fY4Ny98j9wUDvSSRj6GaC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Walkman](https://open.spotify.com/album/34JIzutThrueQUSwHArBty) | 2:46 | 2025-05-22 | 2025-06-20 |

@@ -1,13 +1,65 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Aku Jeje",
-  "num_followers": 112465,
+  "num_followers": 112484,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFzMGSxRUZmSUnCaFYxr6Q5bU4yF",
+  "snapshot_id": "AAAAADIO6fNpiQ1tKIthYMqq09kDiadp",
   "tracks": [
+    {
+      "added_at": "2025-08-28 20:00:28",
+      "album": {
+        "name": "Bualan Masa Lalu",
+        "url": "https://open.spotify.com/album/76GD5l3RTTpHKEC7eSBxKX"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Bualan Masa Lalu",
+      "url": "https://open.spotify.com/track/13eMiyEYAwm5MwOY4juQRA"
+    },
+    {
+      "added_at": "2025-08-29 05:52:51",
+      "album": {
+        "name": "Surely, Someday",
+        "url": "https://open.spotify.com/album/6XVuC9UFqGu19tlzI4ITTW"
+      },
+      "artists": [
+        {
+          "name": "Rifki Soeria",
+          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Surely, Someday",
+      "url": "https://open.spotify.com/track/2625LexPJq6aaoOst2MlLn"
+    },
+    {
+      "added_at": "2025-08-28 20:00:28",
+      "album": {
+        "name": "Kamu Ya Cuma Kamu (feat. Ronald Steven)",
+        "url": "https://open.spotify.com/album/2d0ECbFXsm49tYsmVqZzuu"
+      },
+      "artists": [
+        {
+          "name": "Modulus",
+          "url": "https://open.spotify.com/artist/1yWOvzIzbIfqoLHMADczPa"
+        },
+        {
+          "name": "Ronald Steven",
+          "url": "https://open.spotify.com/artist/7o6Q5G9jROYTQB65ztunpJ"
+        }
+      ],
+      "duration_ms": 244778,
+      "name": "Kamu Ya Cuma Kamu (feat. Ronald Steven)",
+      "url": "https://open.spotify.com/track/20fUdYvfgiqCRVnsN7v1jF"
+    },
     {
       "added_at": "2025-07-17 17:28:37",
       "album": {

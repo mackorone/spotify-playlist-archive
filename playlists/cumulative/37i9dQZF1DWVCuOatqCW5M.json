@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Anuv Jain, Pawandeep Rajanand more. ",
+  "description": "Latest music from Aditya Rikhari, Shirley Setia and more. ",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 265618,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/2PJMOVA7wEwvLXJxiyqjLA"
@@ -14790,6 +14790,32 @@
     {
       "album": {
         "name": "Jiya Laage Na",
+        "url": "https://open.spotify.com/album/2xje52JHa9JUqqsteK8QQY"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206022,
+      "name": "Jiya Laage Na",
+      "url": "https://open.spotify.com/track/65Ejv1ucmRi0nXBdZMWM0S"
+    },
+    {
+      "album": {
+        "name": "Jiya Laage Na",
         "url": "https://open.spotify.com/album/4RUF107aoycB0b7JVeNFie"
       },
       "artists": [
@@ -18457,6 +18483,36 @@
     },
     {
       "album": {
+        "name": "Lagey Rabb Warga",
+        "url": "https://open.spotify.com/album/1fsotABIj9rKdSirJVwi72"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "Mukku",
+          "url": "https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Lagey Rabb Warga",
+      "url": "https://open.spotify.com/track/1JzfMiyxwzEk2JmZBNMZVD"
+    },
+    {
+      "album": {
         "name": "Lamha Mera",
         "url": "https://open.spotify.com/album/5rjX2wak6fa5nQOtCtNL5m"
       },
@@ -21361,7 +21417,7 @@
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197741,
+      "duration_ms": 200625,
       "name": "Morni",
       "url": "https://open.spotify.com/track/72YcTplgzfw4We9PciCEHs"
     },
@@ -24996,7 +25052,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 142985,
       "name": "raaste",
       "url": "https://open.spotify.com/track/7iUvpZRje1VkGugREfGG48"

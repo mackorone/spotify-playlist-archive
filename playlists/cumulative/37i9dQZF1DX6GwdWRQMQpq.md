@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Monaleo
 
 709 songs - 1 day 7 hr 45 min
 

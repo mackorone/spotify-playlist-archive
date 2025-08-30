@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NgkFTxJ4Wv.md) - [plain]
 
 > Lush continuous pink noise that will make you sleep all night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,895 likes - 200 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,919 likes - 200 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NgkFTxJ4Wv.md) - [plain]
 | 4 | [SOS\-Pink Noise](https://open.spotify.com/track/2AoLitWjr9Fr249sjW4wXQ) | [San Sebastiano](https://open.spotify.com/artist/7J6qda0ybtYiOFds9xKXc4) | [Zarata Arrosa](https://open.spotify.com/album/7EPl3Pl6Hm5e3sRCaLtO6K) | 3:00 |
 | 5 | [Cosiest Pink Noise](https://open.spotify.com/track/3AZ4ywx2OIvTakgTRVjwfo) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Pink Hypnosis](https://open.spotify.com/album/68TqIxapChlUdpYXycVZXP) | 3:07 |
 | 6 | [Pink Noise Sleep Miracle](https://open.spotify.com/track/2nwcqyNTKIv2waHaqN61BL) | [Sleep Miracle](https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU) | [Ambient Pink Noise](https://open.spotify.com/album/5w8TR9Yw5isnMsHAMUqNuT) | 2:37 |
-| 7 | [Sleep Pink Noise](https://open.spotify.com/track/2nwEe93mREjGmPSsAZDz7v) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Relaxing Pink Noise](https://open.spotify.com/album/3AyftmvDjBFj2mhNM4X2eV) | 3:01 |
+| 7 | [Sleep Pink Noise](https://open.spotify.com/track/2nwEe93mREjGmPSsAZDz7v) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [Relaxing Pink Noise](https://open.spotify.com/album/3AyftmvDjBFj2mhNM4X2eV) | 3:01 |
 | 8 | [Serenity Noise](https://open.spotify.com/track/2PQ2ddOC1UJT4RzpEhKVFS) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Clouds of Pink](https://open.spotify.com/album/4tD135zHd2kHBeWH6L5LiU) | 2:32 |
 | 9 | [Pink Noise Horizons](https://open.spotify.com/track/2JODESUCrObicNpLsEWLSq) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Pink Noise Horizons](https://open.spotify.com/album/7GhyKWTqtqx8iOlcpH4V9m) | 2:54 |
 | 10 | [Sleep Pink Noise](https://open.spotify.com/track/1arCEd4x87EDNO4xMsrHlk) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Bathing in Pink Noise](https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su) | 3:23 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NgkFTxJ4Wv.md) - [plain]
 | 26 | [Clouds of Pink](https://open.spotify.com/track/1li0WHMIRXN6PCLjT5CWf6) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Clouds of Pink](https://open.spotify.com/album/4tD135zHd2kHBeWH6L5LiU) | 2:44 |
 | 27 | [Whirring Pink Machine](https://open.spotify.com/track/5YfGdd5eCtbk7xg7spzYUT) | [Faible Et Lente](https://open.spotify.com/artist/1Hwi4HepkRbADl1q6nznXk) | [Shimmering Pink Noise Haze](https://open.spotify.com/album/3ECFDGflTNCv2DA5ybTEQN) | 3:20 |
 | 28 | [Horizon \- \(Pink Noise\)](https://open.spotify.com/track/5mBps7Tf9aeJF7RkbyYwos) | [Trap Of Sounds](https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW) | [Horizon \- \(Pink Noise\)](https://open.spotify.com/album/1JJu2V2F28xgKvrm9HGLWf) | 3:01 |
-| 29 | [Pink Frequencies](https://open.spotify.com/track/2MMcXLXf5s3mOZhgRZhmQH) | [Power of Noise](https://open.spotify.com/artist/3Alz3IxsrOfvx4mpnJ8dLl) | [Soundscape \- Pink Noise](https://open.spotify.com/album/6jM8j21Ya20roT19rCjY9s) | 3:01 |
+| 29 | [Pink Frequencies](https://open.spotify.com/track/2MMcXLXf5s3mOZhgRZhmQH) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Soundscape \- Pink Noise](https://open.spotify.com/album/6jM8j21Ya20roT19rCjY9s) | 3:01 |
 | 30 | [Dreamiest Pink Cosiness](https://open.spotify.com/track/1sOvloFISANQe6i655bm0n) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Pink Noise Dreams](https://open.spotify.com/album/5QQ8ID8Eyd4g08IYPVSlOL) | 2:52 |
 | 31 | [Slumber Pink Noise](https://open.spotify.com/track/55DA1NnaN6GVo3A7aeC9D1) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:38 |
 | 32 | [Pink Horizons](https://open.spotify.com/track/3hi8IL7m0rQ9MYCHotezeA) | [1ST SND](https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl) | [Pink Horizons](https://open.spotify.com/album/7hj2WJjJEg4d7cqYSyp0bK) | 3:24 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NgkFTxJ4Wv.md) - [plain]
 | 34 | [Stress Antidote Pink Noise](https://open.spotify.com/track/4JamQlcdah6Zwl0XpvdeSW) | [Cinnamon](https://open.spotify.com/artist/7f8CQthEpsBtUE1iOf7oHf) | [Stress Antidote Pink Noise](https://open.spotify.com/album/0a3AnmrZ1YDN6QElQTHmXH) | 3:16 |
 | 35 | [Pink Noise SnooZzze](https://open.spotify.com/track/0vytFOaDmk795776J0i9u4) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [Ocean of Pink Noise](https://open.spotify.com/album/5rfYGwdLn6AoCbaTfopcu5) | 3:42 |
 | 36 | [Violet Visions](https://open.spotify.com/track/4bMDBkThwQOI8m2YKI6nXk) | [Caffeine Buzz](https://open.spotify.com/artist/4sFHfkxG8hgzK80eHzGf0O) | [Pink Noise And Beyond](https://open.spotify.com/album/6PObN5NHLSVQF3UPfBeXg9) | 2:54 |
-| 37 | [Pink Static Waves](https://open.spotify.com/track/4SO1mf7yP1IaJz3I39dyQX) | [Le Vie Noise](https://open.spotify.com/artist/4PhRUIUB5KfZS3nwdFM7p0) | [Pink Static Waves](https://open.spotify.com/album/2XchGi6JKypKWyLzK9nUbo) | 3:14 |
+| 37 | [Pink Static Waves](https://open.spotify.com/track/4SO1mf7yP1IaJz3I39dyQX) | [Sound FX Pro](https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo) | [Pink Static Waves](https://open.spotify.com/album/2XchGi6JKypKWyLzK9nUbo) | 3:14 |
 | 38 | [Pink Noise Slow Down](https://open.spotify.com/track/49aVsIRxEqD5InHDDXzPi7) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Pink Noise Slow Down](https://open.spotify.com/album/2QJbHLWT1VaEa1C8cudpw8) | 2:40 |
 | 39 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 |
 | 40 | [Amazing Pink \- Seamless](https://open.spotify.com/track/4pZUnR6v0hw2xBJoqkfOQj) | [Jane Color](https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX) | [Color Of Pink](https://open.spotify.com/album/6pNeoNCnyuxZeE22N9FOfi) | 3:09 |

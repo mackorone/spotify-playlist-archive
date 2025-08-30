@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> C'è qualcosa di grande tra noi e Coez quest'estate ♥‿♥
+> Laila Al Habash in cover di Indie Italia 🧡
 
 349 songs - 18 hr 34 min
 

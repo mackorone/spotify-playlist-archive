@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: JÁNA
+> The best new music by independent artists in the Nordics\. Cover: ISSA ODYSSEA
 
-1,276 songs - 2 day 19 hr 14 min
+1,277 songs - 2 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Heroin](https://open.spotify.com/track/2v0gnbezyKtEasSFs6BlRy) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Heroin](https://open.spotify.com/album/2HckI1fsA3RnwLE8Rot4TP) | 3:08 | 2024-10-31 | 2024-12-05 |
 | [Herz!](https://open.spotify.com/track/1LVkn0e4yIr7IEI8egrZQA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Herz!](https://open.spotify.com/album/2EJrWrZWlWmkE4CXXxmbV7) | 1:59 | 2025-05-29 | 2025-07-18 |
 | [Hey Little Love](https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Hey Little Love](https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9) | 2:38 | 2024-05-30 | 2024-07-27 |
+| [Hi guys this is Leandro](https://open.spotify.com/track/3UqZxuAB8de6M5thoqQMv5) | [Leandro Carrere](https://open.spotify.com/artist/33fPfSLLolVKvp8dR5y09r) | [Hi guys this is Leandro](https://open.spotify.com/album/4ZuDbSeRk6rezcf4Ea0H5w) | 2:37 | 2025-08-29 |  |
 | [High](https://open.spotify.com/track/6WAnUzmNtJnWagmMYCfST5) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [High](https://open.spotify.com/album/2fbxmiDsXsMPflu3hydDoJ) | 2:53 | 2025-01-02 | 2025-02-14 |
 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 | 2024-05-09 | 2024-06-21 |
 | [Higher \(Just A Feeling\) \- Hanna Ögonsten Remix](https://open.spotify.com/track/6uXnKANIK22Yud5pGjyBT6) | [Fourth Daughter](https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA), [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Higher \(Just A Feeling\) \- Hanna Ögonsten Remix](https://open.spotify.com/album/4ZxzpbeWR3JTWxvktVpyYx) | 2:28 | 2024-09-13 | 2024-10-18 |
@@ -967,7 +968,7 @@
 | [seatbelt](https://open.spotify.com/track/6tPnGpe4jyy9sCBE2P2jkZ) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [seatbelt](https://open.spotify.com/album/3jDa07DKUJ2nWyrtKDk6qq) | 3:47 | 2024-11-14 | 2024-12-05 |
 | [Secrets](https://open.spotify.com/track/6l2s19EwWAsjXf0bFWqQbt) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i), [Gianni´s Humble](https://open.spotify.com/artist/0IPxHQWLOiFdARIMSBtLZr) | [Secrets](https://open.spotify.com/album/6e9QBSna6MddQjcrREC5hu) | 2:07 | 2025-05-16 | 2025-06-20 |
 | [Secrets](https://open.spotify.com/track/1UQyCI0Gv55ZRiV0EhGzlM) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Secrets](https://open.spotify.com/album/74sVUSFQkGj6y6h54SDBe3) | 3:04 | 2024-10-17 | 2024-12-05 |
-| [See the Human in Me!](https://open.spotify.com/track/4kG9QdZqErDWLo7Bo9fJMu) | [Neon Priest](https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU) | [ANEWWIND I](https://open.spotify.com/album/2FY3r8u0e9SMBKQQwDwHcC) | 3:30 | 2025-08-28 |  |
+| [See the Human in Me!](https://open.spotify.com/track/4kG9QdZqErDWLo7Bo9fJMu) | [Neon Priest](https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU) | [ANEWWIND I](https://open.spotify.com/album/2FY3r8u0e9SMBKQQwDwHcC) | 3:31 | 2025-08-28 |  |
 | [Seen In A Movie](https://open.spotify.com/track/1V3QKm4YOq3PgWUYZdUd3M) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Seen In A Movie](https://open.spotify.com/album/1b74dPCUw7n0ycIGv5dDPX) | 2:50 | 2025-08-21 |  |
 | [Selfish](https://open.spotify.com/track/0w0T0rGAfyBeAD9EOJCQjs) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Selfish](https://open.spotify.com/album/74vUQ33xPPpZpVGjaNgLbW) | 3:46 | 2024-10-31 | 2024-12-05 |
 | [senescence](https://open.spotify.com/track/28gAWZFt7KcMB9cE3doNG6) | [antonvstheworld](https://open.spotify.com/artist/1aps7lhpf0DksNpvaQgrQW) | [senescence](https://open.spotify.com/album/56WNwaJLphM3vXR4rsxGYa) | 2:50 | 2024-02-22 | 2024-03-29 |

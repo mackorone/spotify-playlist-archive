@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,259 songs - 12 day 6 hr 9 min
+5,262 songs - 12 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2624,6 +2624,7 @@
 | [lightning bug \- Radio Edit](https://open.spotify.com/track/7L2hQtzf50HfxQEt93TJq2) | [Koser](https://open.spotify.com/artist/2SBexQFceTYMVRlzeNU9Uf) | [lightning bug \(Radio Edit\)](https://open.spotify.com/album/5zTvtXYgQz5rsiHKvt2xJp) | 3:19 | 2024-12-26 | 2025-01-08 |
 | [Like A Dream](https://open.spotify.com/track/7k12vwMLm7QZTPXyJxJ0X6) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Like A Dream \(Radio\)](https://open.spotify.com/album/7INhjPp2au9xaMpmtxeKLB) | 3:00 | 2022-05-27 | 2022-06-12 |
 | [Like a Garden](https://open.spotify.com/track/51dGcyIKiDum7xc1pHNWEJ) | [Mojoe](https://open.spotify.com/artist/1P8vWCKNXt3W5eSyZQpTX1) | [Like a Garden](https://open.spotify.com/album/6qUCtqe9bsBBsKH9kB70bh) | 3:25 | 2021-09-04 | 2021-09-19 |
+| [Like a Home](https://open.spotify.com/track/3fsFFnJlJ3REmHOUuH5E98) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [Like a Home](https://open.spotify.com/album/6O4CJIpsEaUFYX4nAkaWm7) | 3:34 | 2025-08-29 |  |
 | [Like A River](https://open.spotify.com/track/6R3oUFy5BXSz34MotRQtmC) | [Sonya](https://open.spotify.com/artist/4YOZK4SHcVKTlDSXvUbBiI) | [Like A River](https://open.spotify.com/album/2Q6hgVABhhkKVqGaHPnQtQ) | 2:58 | 2023-04-14 | 2023-05-06 |
 | [Like I do](https://open.spotify.com/track/5CyQlhhMHSDbw896R2zHN4) | [MookyTheGreat](https://open.spotify.com/artist/5ErdfG5f4MgljonIPA7yho) | [Rebirth](https://open.spotify.com/album/5gAPqQGaldtpYpJ82fGxv0) | 2:32 | 2025-02-26 | 2025-03-10 |
 | [Like Me](https://open.spotify.com/track/4JlRXVckYnpG3BZqqH9vFA) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Like Me](https://open.spotify.com/album/0EfDPslgOoF6Vf8RMkm8qr) | 2:55 | 2021-03-14 | 2021-03-27 |
@@ -3562,6 +3563,7 @@
 | [Potion](https://open.spotify.com/track/0o7v7i6d18RbT2jRMf9T5N) | [Joy Canopy](https://open.spotify.com/artist/1kUF2hhpYlzlyclo7Jz73C) | [Potion](https://open.spotify.com/album/6kvzvhNLvwUcKU2ITNuW3D) | 2:55 | 2023-03-17 | 2023-04-09 |
 | [Potions \- Acoustic](https://open.spotify.com/track/2IKGiOdGUhIJ6JChvmSjob) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Potions \(Acoustic\)](https://open.spotify.com/album/2btxN0BuABBqyzpSGKgptR) | 3:23 | 2020-03-11 | 2020-04-09 |
 | [POV](https://open.spotify.com/track/4XZ2D50if4hV85t1bnbOzB) | [Rio Sterling](https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd) | [POV](https://open.spotify.com/album/1dXrlLvdZFbclWTgtcQqe2) | 3:22 | 2024-12-06 | 2024-12-20 |
+| [Power](https://open.spotify.com/track/1GjF2xvlEwR1jS6I9cNhjW) | [YOUNGTONES](https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG) | [Power](https://open.spotify.com/album/4ZXI7z3ePV4uMxjh70v0jN) | 3:09 | 2025-08-29 |  |
 | [powermeup](https://open.spotify.com/track/3rpm9jcnCSaKrs6NSenAGK) | [sierra delta](https://open.spotify.com/artist/1U7RZmoek6OGk7mlBCPMyx) | [darkness at full speed](https://open.spotify.com/album/2LYXBj6VGU2veH1SBFOZxz) | 4:06 | 2025-07-01 | 2025-07-20 |
 | [Praise You](https://open.spotify.com/track/10yY7i70r9wtllofw0GIpx) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/2ELLu16F9TTREQuU4OuAnN) | 5:24 | 2022-07-26 | 2024-04-30 |
 | [Prayer for the Hour](https://open.spotify.com/track/5UQS22l4gFYUD4TEdi62sm) | [SayReal](https://open.spotify.com/artist/4miKVbMX9wD7jUg89RPeSM) | [Prayer for the Hour](https://open.spotify.com/album/7L1hL6eSTqRmlXVcVs4SLF) | 4:00 | 2025-04-07 | 2025-04-25 |
@@ -3829,6 +3831,7 @@
 | [Running In A Haze](https://open.spotify.com/track/05i4L61diB9HlE1laOwSVE) | [Jasmine Thakral](https://open.spotify.com/artist/7e38SpIm3bG3aRfIAIC2f1) | [Running In A Haze](https://open.spotify.com/album/1L7PLQyEA9zaBOPp8HuQZi) | 2:39 | 2021-08-21 | 2021-09-06 |
 | [Running on All Fours](https://open.spotify.com/track/7u6CnWk4144ZmOhMVfPuT0) | [Mokotow](https://open.spotify.com/artist/6EVEmQznXeE8rnTh2kmtBz) | [Domino](https://open.spotify.com/album/2VaV45giJtj9A31hyBQoL4) | 4:37 | 2019-11-07 | 2019-11-24 |
 | [running out of time](https://open.spotify.com/track/7zy7iE31dGO70ShMXghsfj) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 4:29 | 2023-11-08 | 2023-12-30 |
+| [Running Underwater](https://open.spotify.com/track/6aXoC1dkY6cpuIH7gX7U1d) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Running Underwater](https://open.spotify.com/album/4tA3Fiajv7tdBGTiFZk9nf) | 2:48 | 2025-08-29 |  |
 | [Runway](https://open.spotify.com/track/5kqMI0NlneZOjeN3RluxGK) | [The Artist Ren](https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5) | [Runway](https://open.spotify.com/album/3VS81WgvgXM99ySFNtJgZY) | 3:25 | 2024-09-29 | 2024-10-11 |
 | [RUSH](https://open.spotify.com/track/4DCoqzKqUoVCO6JfOJfdxG) | [Max Parker](https://open.spotify.com/artist/2nv4kJnjCxOSw6LD3a9NRe) | [RUSH](https://open.spotify.com/album/5kk395EVWSwONgyztm4rzo) | 3:03 | 2024-06-27 | 2024-07-09 |
 | [Rust Belt Rich](https://open.spotify.com/track/4fPDexYyIV1qalVp7UWVZJ) | [Sean Whalen & The Benson Highway Band](https://open.spotify.com/artist/7eBPr21rBXe5csMQOJ5oBw) | [Rust Belt Rich](https://open.spotify.com/album/6a7rg8aBCCwj8WkfkZLxxA) | 3:58 | 2025-03-12 | 2025-03-24 |

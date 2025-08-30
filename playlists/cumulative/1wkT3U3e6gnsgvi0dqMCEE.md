@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-309 songs - 20 hr 13 min
+312 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Every Breath You Take \- Demo](https://open.spotify.com/track/7lJ4MkFMFmaMfCbFdkMyMA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take \(Demo\)](https://open.spotify.com/album/1k2V6pFwOwjH923AM1wAIy) | 4:00 | 2024-07-26 |  |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-22 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2023-10-16 | 2024-05-24 |
+| [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 | 2025-08-29 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-05-23 |  |
 | [Eyes Without A Face \- Poolside Remix](https://open.spotify.com/track/5lVkie1tVUwswcx83M3xYZ) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 5:37 | 2024-08-12 |  |
 | [Face Dances \- Pt\. 2](https://open.spotify.com/track/4d4Y9qqitAREx1vv2HcUjy) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [All The Best Cowboys Have Chinese Eyes](https://open.spotify.com/album/4sxhStQwkOmtHLO0Ba0Fyk) | 3:25 | 2024-05-23 |  |
@@ -99,6 +100,7 @@
 | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Free As A Bird \(2025 Mix\)](https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW) | 4:27 | 2025-08-23 |  |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2024-10-18 |  |
 | [Future Days](https://open.spotify.com/track/5P9FjMjAArYqL7YF3Ry4AN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [The Last of Us](https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ) | 4:22 | 2025-05-16 |  |
+| [Garden](https://open.spotify.com/track/1UzEvc3zxE7pIj7Ipkk72z) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Badlands \(Decade Edition Anthology\)](https://open.spotify.com/album/2AH6SZDsmgFsiFxv278h1U) | 3:15 | 2025-08-29 |  |
 | [Garden Road \- Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974](https://open.spotify.com/track/0h4YOaLxD0nrfcuj8JrfNh) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Garden Road \(Live At Agora Ballroom, Cleveland, Ohio \- 8/26/1974\)](https://open.spotify.com/album/7lgXlFQPnTVVj0H6olLKZF) | 3:03 | 2025-01-31 |  |
 | [Get Back \- 2021 Mix](https://open.spotify.com/track/47qD4mGcc6cS4PbkvoIcy9) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Super Deluxe\)](https://open.spotify.com/album/1BdxbYp1FaNejpDgtDo25V) | 3:08 | 2024-05-23 |  |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 |  |
@@ -238,6 +240,7 @@
 | [Space Oddity \- Love You Til Tuesday version](https://open.spotify.com/track/27htK0jJlSQcHK2Sdp9zon) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Laughing with Liza](https://open.spotify.com/album/4DsgJJ5VhknaGjd8CInuXD) | 3:50 | 2024-06-07 |  |
 | [Spotlight](https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Spotlight / Well Alright](https://open.spotify.com/album/1kgabmPhKLo4DRLIsFTjFs) | 2:47 | 2024-06-07 |  |
 | [Stand By Me](https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Stand By Me](https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs) | 3:10 | 2025-02-07 |  |
+| [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 | 2025-08-29 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-05-23 |  |
 | [Stonehenge \(with Elton John\)](https://open.spotify.com/track/1atxmCIxBlFk4qhlbBXG4g) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stonehenge \(with Elton John\)](https://open.spotify.com/album/1fPevorC3HgRtG3QA3xHpZ) | 4:34 | 2025-08-01 |  |
 | [Stories For Boys \- Live From Boston, 1981 / Remastered 2024](https://open.spotify.com/track/2lQGCZp62GJY3q8GpGQoMp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sweetest Thing](https://open.spotify.com/album/4J3Nb4v8XSnnocDoeusPZu) | 3:04 | 2024-06-28 |  |

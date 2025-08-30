@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Broken Angels",
+        "url": "https://open.spotify.com/album/6UyF4XPRRXIGdaOsu3X3vR"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220640,
+      "name": "Broken Angels",
+      "url": "https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x"
       },

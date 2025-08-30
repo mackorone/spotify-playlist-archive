@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "6 AM",
+        "url": "https://open.spotify.com/album/6CzIODjTobdIodyLEHMh1s"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Payroll",
+          "url": "https://open.spotify.com/artist/10yUjADzIqsDek9n56FZdF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168066,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/2sWu7L9hdXkJysDNhzvRWV"
+    },
+    {
+      "album": {
         "name": "600",
         "url": "https://open.spotify.com/album/0ElLM7BWZdrVcPmUiKZsuf"
       },
@@ -1595,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Arrogante",
+        "url": "https://open.spotify.com/album/1jrskx0l60iCgXAnxmuctJ"
+      },
+      "artists": [
+        {
+          "name": "Puntico",
+          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
+        },
+        {
+          "name": "DaBolyy",
+          "url": "https://open.spotify.com/artist/6esodUUPglOFQpehfv1Nze"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Arrogante",
+      "url": "https://open.spotify.com/track/2IirxL1efNuk05QdL0E6JQ"
+    },
+    {
+      "album": {
         "name": "Arrogante (A COLORS SHOW)",
         "url": "https://open.spotify.com/album/7KX7qkSTFrd1QpKda8xYHf"
       },
@@ -2028,6 +2072,28 @@
       "duration_ms": 167068,
       "name": "Baddu",
       "url": "https://open.spotify.com/track/1R5eXm20wsrLP9jDtPipy8"
+    },
+    {
+      "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/4S1ZZZIeG5pZpjnGCj8zpP"
+      },
+      "artists": [
+        {
+          "name": "Ateriko",
+          "url": "https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC"
+        },
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158448,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/1dlTtpoCok1f0BNr4bH1xd"
     },
     {
       "album": {
@@ -2822,6 +2888,32 @@
       "duration_ms": 217600,
       "name": "Brillando",
       "url": "https://open.spotify.com/track/4oQZmYZtcOXQEeWp8s0ofc"
+    },
+    {
+      "album": {
+        "name": "Broccoli",
+        "url": "https://open.spotify.com/album/7fJmxMilozdA2IZ4oiGldK"
+      },
+      "artists": [
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        },
+        {
+          "name": "Montana 70",
+          "url": "https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Broccoli",
+      "url": "https://open.spotify.com/track/7stl5JS1Xdqfqr7Fn9zSft"
     },
     {
       "album": {
@@ -6163,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "E' Popi",
+        "url": "https://open.spotify.com/album/5PA5os2NgQSfI8UXxCFggb"
+      },
+      "artists": [
+        {
+          "name": "Liil Jay",
+          "url": "https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121142,
+      "name": "E' Popi",
+      "url": "https://open.spotify.com/track/3vPEOORh1ulDAf47hp7tAh"
+    },
+    {
+      "album": {
         "name": "E'ta Nin\u0303a",
         "url": "https://open.spotify.com/album/3YbxIXdJvyyi031W3nF8EF"
       },
@@ -8284,7 +8394,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 116418,
       "name": "Foto",
       "url": "https://open.spotify.com/track/3oiAhu2ysusFIHTJm9BOUn"
@@ -10247,6 +10357,32 @@
     },
     {
       "album": {
+        "name": "La Cima",
+        "url": "https://open.spotify.com/album/3RZhxk38GwOw3OMupraH5T"
+      },
+      "artists": [
+        {
+          "name": "PHARMACY INC",
+          "url": "https://open.spotify.com/artist/0vkZ0rxjYlJBoIjrixIpIG"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "La Cima",
+      "url": "https://open.spotify.com/track/7G7sYuM1VcwMGSW2jrs1Ym"
+    },
+    {
+      "album": {
         "name": "La Connect",
         "url": "https://open.spotify.com/album/4TQV4u2RO1zvlZPAfsNDHf"
       },
@@ -10772,7 +10908,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 166153,
       "name": "LA PERKY - Remix",
       "url": "https://open.spotify.com/track/4Z5nFSxDm7U4935WfUTmNQ"
@@ -11098,7 +11234,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 200485,
       "name": "La Vida Te Golpea",
       "url": "https://open.spotify.com/track/2QqZRQyQe3BONIhXjijUZU"
@@ -14270,7 +14406,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 116229,
       "name": "Mmg 5",
       "url": "https://open.spotify.com/track/5dD7tBMUSzrMmiV31sOsnr"
@@ -15032,6 +15168,28 @@
       "duration_ms": 198000,
       "name": "No Cambian",
       "url": "https://open.spotify.com/track/7eNLXUOKuckXHvBzJVJhVJ"
+    },
+    {
+      "album": {
+        "name": "No Creo En Pana",
+        "url": "https://open.spotify.com/album/06W69mogV5qX0ysNO79iUs"
+      },
+      "artists": [
+        {
+          "name": "D Jam Saw",
+          "url": "https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ"
+        },
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "No Creo En Pana",
+      "url": "https://open.spotify.com/track/3w8LJS6EvzvHQqC0MVJgGx"
     },
     {
       "album": {
@@ -16540,7 +16698,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 189333,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/7c8X1uOV6KN6YRwiT0ExTW"
@@ -16832,7 +16990,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 137705,
       "name": "Pensando",
       "url": "https://open.spotify.com/track/0IAxMlscBr323D6jEYdI1l"
@@ -17452,6 +17610,24 @@
     {
       "album": {
         "name": "Prendio",
+        "url": "https://open.spotify.com/album/2qrh0OXDncuIADqzgmgmi3"
+      },
+      "artists": [
+        {
+          "name": "Kiry Curu",
+          "url": "https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141766,
+      "name": "Prendio",
+      "url": "https://open.spotify.com/track/1Mj2fi0MyKopxDDqhE3Xcv"
+    },
+    {
+      "album": {
+        "name": "Prendio",
         "url": "https://open.spotify.com/album/2kwzu2Qg8nhsgTW69IurzA"
       },
       "artists": [
@@ -17462,7 +17638,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 142116,
       "name": "Prendio",
       "url": "https://open.spotify.com/track/3Bpjl4cvdYUDgmMG7WqdFY"
@@ -18920,7 +19096,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 204844,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/0TTcZdEOYUflaY0JE1PCE1"
@@ -20308,7 +20484,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 146042,
       "name": "Temo",
       "url": "https://open.spotify.com/track/2wSqUvWczAJAFaix9ZXzxs"
@@ -22524,6 +22700,24 @@
       "duration_ms": 120004,
       "name": "Welo Welo",
       "url": "https://open.spotify.com/track/7eNCn4vHIvDSHlYVYZ33JG"
+    },
+    {
+      "album": {
+        "name": "What You Know Bout Luv",
+        "url": "https://open.spotify.com/album/2a2Y0tkTR8PJILb6dUzxTc"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122878,
+      "name": "What You Know Bout Luv",
+      "url": "https://open.spotify.com/track/20zIs9JbrwJk5HGalVMenf"
     },
     {
       "album": {

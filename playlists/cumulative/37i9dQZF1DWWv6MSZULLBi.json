@@ -17089,6 +17089,24 @@
     },
     {
       "album": {
+        "name": "Hangover Terrace",
+        "url": "https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151096,
+      "name": "Rose Town",
+      "url": "https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6"
+    },
+    {
+      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl"
       },
@@ -17828,6 +17846,24 @@
       "duration_ms": 216966,
       "name": "Should've Drowned",
       "url": "https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV"
+    },
+    {
+      "album": {
+        "name": "Shoulda Listened",
+        "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
+      },
+      "artists": [
+        {
+          "name": "Ken Presse",
+          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190531,
+      "name": "Shoulda Listened",
+      "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
     },
     {
       "album": {
@@ -21456,42 +21492,6 @@
       "duration_ms": 190520,
       "name": "tout \u00e7a",
       "url": "https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX"
-    },
-    {
-      "album": {
-        "name": "Shoulda Listened",
-        "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
-      },
-      "artists": [
-        {
-          "name": "Ken Presse",
-          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
-        }
-      ],
-      "date_added": "2025-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
-    },
-    {
-      "album": {
-        "name": "Hangover Terrace",
-        "url": "https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl"
-      },
-      "artists": [
-        {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
-        }
-      ],
-      "date_added": "2025-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6"
     },
     {
       "album": {

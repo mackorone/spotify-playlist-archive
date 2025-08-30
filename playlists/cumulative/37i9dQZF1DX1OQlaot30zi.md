@@ -2,7 +2,7 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di 22siba e Silent Bob,  Neffa, Rondodasosa, 2rari, Vale Lambo insieme a Niko Beatz e Lele Blade, e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di 22simba e Silent Bob,  Neffa, Rondodasosa, 2rari, Vale Lambo insieme a Niko Beatz e Lele Blade, e tanti altri.
 
 5,995 songs - 11 day 2 hr 30 min
 

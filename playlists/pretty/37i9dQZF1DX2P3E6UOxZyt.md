@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2025 全新陣容出列！MEET THE FUTURE 見證未來巨星！Cover: Marz23
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,399 likes - 36 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,398 likes - 36 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/4EHr1swZxnUxjAyCou2t4s) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
+| 1 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 2 | [主角vol.2 \(feat\. 西屯純愛組\)](https://open.spotify.com/track/5jdRVfbTL9W7eAkBk6CJEF) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup), [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT) | [主角vol.2 \(feat\. 西屯純愛組\)](https://open.spotify.com/album/0ZAzHork7a4bPdIwtb1TUY) | 3:36 |
 | 3 | [蒼白 \(Netflix 影集《誰是被害者：第2季》插曲\)](https://open.spotify.com/track/1yirex810MCm6C0pZn7EP1) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [Netflix誰是被害者影集概念原聲帶](https://open.spotify.com/album/3Ok3cLAkQJgD9llylowrOn) | 3:58 |
 | 4 | [igotchu](https://open.spotify.com/track/0zVyuJ44XNqqirJNNQDxRv) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Bella Su](https://open.spotify.com/artist/2VdasR1pR8LNYXxIxRPmIi) | [igotchu](https://open.spotify.com/album/5Rek48JvW6mkHv7mZT1QvV) | 3:34 |

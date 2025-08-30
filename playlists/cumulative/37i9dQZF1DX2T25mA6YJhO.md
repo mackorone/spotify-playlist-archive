@@ -2,7 +2,7 @@
 
 ### [Rock 2025](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Mursia.
+> Súbete a la nueva ola del rock español\. Foto: Bum Motion Club con Repion.
 
 452 songs - 23 hr 6 min
 

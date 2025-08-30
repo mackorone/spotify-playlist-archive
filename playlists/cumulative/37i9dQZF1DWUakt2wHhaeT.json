@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "Miranda Girl",
+        "url": "https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada Original West End Cast",
+          "url": "https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9"
+        },
+        {
+          "name": "Georgie Buckland",
+          "url": "https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Miranda Girl",
+      "url": "https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6"
+    },
+    {
+      "album": {
         "name": "The Fantasticks (Original Cast Recording)",
         "url": "https://open.spotify.com/album/4vCswuqUgwGki83DlPKY0E"
       },
@@ -4110,7 +4132,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 162700,
       "name": "When You're in Love",
       "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"

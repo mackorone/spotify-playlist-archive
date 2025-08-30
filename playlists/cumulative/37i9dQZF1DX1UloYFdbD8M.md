@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-398 songs - 1 day 0 hr 54 min
+399 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Maayathe](https://open.spotify.com/track/6DvzSCwDEMFDfaetjKzIrn) | [MØNK](https://open.spotify.com/artist/71yVL9HsiAPlcJTwLbu1GG) | [Maayathe](https://open.spotify.com/album/2ZN2SSXM8N8DCHVVwFbR2Z) | 3:00 | 2025-07-18 |  |
 | [Maayathe](https://open.spotify.com/track/6SpjFBJxr9sQAsFbrzgZBY) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Maayathe](https://open.spotify.com/album/74nUDFqqLysycZrqU8QLRn) | 2:38 | 2025-05-23 |  |
 | [Maayum Mumbae](https://open.spotify.com/track/0wYtgHS8kYVBMgXeDVrvAA) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Maayum Mumbae](https://open.spotify.com/album/0Dte3oPMWdK6piDBqkqxAB) | 3:33 | 2024-02-14 | 2024-10-09 |
+| [Madhupookkal](https://open.spotify.com/track/5wSr2g131WIkeh0wKts9t8) | [Varun Krissh](https://open.spotify.com/artist/6Svt2itaOzivV3O8nyXqg7), [Saritha Sujith](https://open.spotify.com/artist/4sIxLkdTLGCiLocml6oeF9) | [Madhupookkal](https://open.spotify.com/album/6b5KwjTXrhYqMIBsPpi42o) | 4:42 | 2025-08-29 |  |
 | [Madhure](https://open.spotify.com/track/4laP9v1EYy0XNPXB801MpR) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Nazeer Minnale](https://open.spotify.com/artist/5raKbwjQso45ujdj5638gg) | [Madhure](https://open.spotify.com/album/2KoXz4gKvMogaqaqsuGvNu) | 3:09 | 2024-11-12 | 2025-03-12 |
 | [Madhuvaayi](https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL) | [Joyal Tojo](https://open.spotify.com/artist/2gCwrqrvsSzBQyZ6r5HNEM), [Jyothis Jens](https://open.spotify.com/artist/33gSTavbpTQgqHzrLZegmJ), [Alapana Bagirath](https://open.spotify.com/artist/2BWrhgob1gLJCRsvds83yI) | [Madhuvaayi](https://open.spotify.com/album/1UAvkaesQecVkIFNHULXWc) | 3:03 | 2023-07-12 | 2023-07-28 |
 | [Maharani \- From "AYAKTIHIS"](https://open.spotify.com/track/5I3WoDYvFcMZez2et3DhA5) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX), [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Maharani \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh) | 6:36 | 2025-02-20 | 2025-06-30 |

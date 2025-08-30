@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 62177,
+  "num_followers": 62185,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAACD27E1RfKQs2hLnq4teQAX",
+  "snapshot_id": "aK+cAAAAAACVF+E4JR5BjctO2f56JZlB",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Por Lo Alto",
-        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Distintos Destinos",
-      "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos Por Lo Alto",
+        "url": "https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Distintos Destinos",
+      "url": "https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2.000",
         "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
       },
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 289724,
-      "name": "Un Osito Dormil\u00f3n",
-      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
+      "duration_ms": 289750,
+      "name": "No Pude Olvidarte",
+      "url": "https://open.spotify.com/track/55lwN8AEwtgdG9YDTXwKKh"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 289750,
-      "name": "No Pude Olvidarte",
-      "url": "https://open.spotify.com/track/55lwN8AEwtgdG9YDTXwKKh"
+      "duration_ms": 289724,
+      "name": "Un Osito Dormil\u00f3n",
+      "url": "https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: El Michels Affair
 
-337 songs - 22 hr 5 min
+338 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 | 2023-08-10 | 2024-10-26 |
 | [You Are The Reason](https://open.spotify.com/track/56F50CYq9MRcefIShTLPL4) | [Tassone](https://open.spotify.com/artist/470ihAHOGGu2P0xyo8upnv), [Amy Kisnorbo](https://open.spotify.com/artist/2PJz7yQtTtf05sYx7jsbrI) | [First Light](https://open.spotify.com/album/0j8NWZVyLmUtvybK07T1hi) | 4:00 | 2023-08-10 | 2023-09-08 |
 | [You Don't Even Know](https://open.spotify.com/track/0fZCZuIkZMwOAb3Ygw2faP) | [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Who Are You Hiding From?](https://open.spotify.com/album/3kST4kQgcujNX02sRT7ju7) | 2:50 | 2023-08-10 | 2023-09-15 |
+| [You Got It](https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [FREE UP](https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm) | 4:03 | 2025-08-29 |  |
 | [your intuition is your friend \- radio edit](https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/57enkmVamHuaYnkD5ZoEvB) | 3:36 | 2023-08-17 | 2023-10-06 |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2023-08-10 | 2023-09-12 |
 | [Zarigani](https://open.spotify.com/track/0h7QUx68t1bvVeFSrDtKPJ) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Zarigani](https://open.spotify.com/album/2fxUEsxncK8pHfcj3se8Kc) | 4:33 | 2025-05-16 |  |

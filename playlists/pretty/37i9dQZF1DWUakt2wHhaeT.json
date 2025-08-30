@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
-  "num_followers": 112813,
+  "num_followers": 112814,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G",
+  "snapshot_id": "AAAAANNMF0WqpJdnEM/46Fg6HM336tSv",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:02",
@@ -27,6 +27,26 @@
       "duration_ms": 164146,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Miranda Girl",
+        "url": "https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada Original West End Cast",
+          "url": "https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9"
+        },
+        {
+          "name": "Georgie Buckland",
+          "url": "https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Miranda Girl",
+      "url": "https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -171,26 +191,6 @@
       "duration_ms": 229399,
       "name": "Qu\u00e9 Bueno Baila Usted",
       "url": "https://open.spotify.com/track/5BquOusMamGg7QoUhvpKLd"
-    },
-    {
-      "added_at": "2025-03-31 16:26:09",
-      "album": {
-        "name": "Maybe Happy Ending (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6wy7RABc6fzVw6kEzQOkYd"
-      },
-      "artists": [
-        {
-          "name": "Helen J Shen",
-          "url": "https://open.spotify.com/artist/5KaauashOjNGg3WxwVqsoJ"
-        },
-        {
-          "name": "Darren Criss",
-          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
-        }
-      ],
-      "duration_ms": 162700,
-      "name": "When You're in Love",
-      "url": "https://open.spotify.com/track/4l9Y925x9oZSD0njqv8Vql"
     },
     {
       "added_at": "2025-07-18 04:00:02",

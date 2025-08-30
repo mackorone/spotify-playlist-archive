@@ -2,7 +2,7 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Khalid
+> R&Bの最新話題曲をまとめてお届けします。cover: Gyakie
 
 995 songs - 2 day 5 hr 29 min
 

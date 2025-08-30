@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
+> Frisse Nederlandse pop\. Cover: Bilal Wahib
 
 1,040 songs - 2 day 1 hr 40 min
 

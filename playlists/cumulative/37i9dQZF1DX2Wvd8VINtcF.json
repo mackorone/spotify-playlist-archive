@@ -8437,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "dead to me",
+        "url": "https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164299,
+      "name": "dead to me",
+      "url": "https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS"
+    },
+    {
+      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },

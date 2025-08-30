@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Robert Finley",
+  "description": "The best in blues right now. Cover: Eric Gales",
   "name": "Got Blues",
   "tracks": [
     {
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 323013,
       "name": "Don't Wanna Go Home (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR"
@@ -5857,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "Nothin\u2019 But Your Love",
+        "url": "https://open.spotify.com/album/2OeyY24Uf4MO2kdV6sPKPM"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235133,
+      "name": "Nothin\u2019 But Your Love",
+      "url": "https://open.spotify.com/track/5LNtl0Xva1BLmZChbTSpBQ"
+    },
+    {
+      "album": {
         "name": "Oh Betty",
         "url": "https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o"
       },
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 205613,
       "name": "One Kind Favor",
       "url": "https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh"
@@ -8840,7 +8858,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 227000,
       "name": "Voodoo Charm",
       "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
@@ -9257,6 +9275,32 @@
     },
     {
       "album": {
+        "name": "Who Do You Love",
+        "url": "https://open.spotify.com/album/6lTNovqqr00syqgcNwQUwS"
+      },
+      "artists": [
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Datrian Johnson",
+          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
+        },
+        {
+          "name": "MEM_MODS",
+          "url": "https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux"
+    },
+    {
+      "album": {
         "name": "Whole World's Got The Blues (feat. Eric Gales)",
         "url": "https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE"
       },
@@ -9548,6 +9592,24 @@
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+    },
+    {
+      "album": {
+        "name": "A Tribute To LJK",
+        "url": "https://open.spotify.com/album/3dZgjUnU9DipC2Jj9CS2yz"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290053,
+      "name": "You Shouldn't Have Left Me",
+      "url": "https://open.spotify.com/track/3U35O0EdGo2tZQ1Gk5BoM2"
     },
     {
       "album": {

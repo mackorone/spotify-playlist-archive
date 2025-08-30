@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-291 songs - 13 hr 36 min
+291 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Serene White Noise](https://open.spotify.com/track/0miaOVnJ65t43TtLMKC99m) | [Chen Pa](https://open.spotify.com/artist/6tBqsxZQcS6IjIwzZ3axD9) | [Steady White Noise](https://open.spotify.com/album/14hlWan4DFAHTypwMU1jwJ) | 2:23 | 2022-08-26 |  |
 | [Shh!](https://open.spotify.com/track/5Wy8ERuhhxuazZ6zKbmxzE) | [Ethereal Skies](https://open.spotify.com/artist/2BK676olrtJINcTJBtgTGs) | [Whitest Quietude](https://open.spotify.com/album/17TaCnckQlRi7DBsZBWz9u) | 2:33 | 2024-01-29 |  |
 | [Sky Full Of Noise](https://open.spotify.com/track/4I2WSkwqRf5wJC1WxlcqYk) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:19 | 2022-08-26 | 2024-01-30 |
+| [Sky Noise](https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB) | [The Rain Crew](https://open.spotify.com/artist/0YtEZ0PyTeyY3bit3tlhPG) | [White Noise White Lights](https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw) | 2:36 | 2022-08-26 |  |
 | [Sleep Cabin Noise](https://open.spotify.com/track/0I10SiGzRCQokFy9DUJAxf) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Sleep Cabin Noise](https://open.spotify.com/album/0kSj3zyXSBqTMvNdpSzTbp) | 2:18 | 2022-08-26 |  |
 | [Sleep Noise \- Streamlined](https://open.spotify.com/track/697Fb07sG7t3IlklebLp17) | [Noise Sucre](https://open.spotify.com/artist/0VaiZ9oyrhoCIqIzyVJdgq) | [White Noise for Endless Nights](https://open.spotify.com/album/4wvUDn4r0ZirS4roGVZrPs) | 3:06 | 2022-08-26 | 2023-09-02 |
 | [Sleep Noise for Babies 3](https://open.spotify.com/track/1BqAXzVcZvhjdBD6h4j58y) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Baby Sleep Noise \- Vol 2](https://open.spotify.com/album/6s4qyyBJMHky7KbsvHn967) | 1:45 | 2022-08-26 | 2023-06-30 |
@@ -278,7 +279,6 @@
 | [White Noise warms the Night](https://open.spotify.com/track/3RtmvRvYqnpTNcMb3c1rMH) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise warms the Night](https://open.spotify.com/album/1ECUAqLyinBsBbqi3yD6aK) | 5:42 | 2024-01-29 |  |
 | [White Noise Wasserfall](https://open.spotify.com/track/7svuTJmWdq3pJFdzZPFYWW) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:02 | 2022-08-26 |  |
 | [White Noise Waterfall](https://open.spotify.com/track/1UWWEf1JhXhHXskH23AQyQ) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Noise Dreaming](https://open.spotify.com/album/458IKMJHWsTS7DQLnWNawH) | 2:52 | 2022-08-26 | 2023-06-30 |
-| [White Noise White Lights](https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB) | [The 375](https://open.spotify.com/artist/65o4tTrFgfFOxe5x2dj9ix) | [White Noise White Lights](https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw) | 2:28 | 2022-08-26 |  |
 | [White Noise Wind 2](https://open.spotify.com/track/6unotMuZFbqK1TpEuyERFb) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [White Noise Wind](https://open.spotify.com/album/6zIzJzvihAdp5RCuExT1a6) | 3:28 | 2022-08-26 | 2023-06-30 |
 | [White Noise Windows Open at Night](https://open.spotify.com/track/7GSfkfVhKjZ4TL2jYFGyuG) | [Tellus Recordings](https://open.spotify.com/artist/3EwfrJRom0WYp9unSsooUg) | [At Night](https://open.spotify.com/album/0BrHPsNRODAwUelEKmaNmb) | 3:22 | 2022-08-26 | 2022-10-28 |
 | [White Noise Winter Dreams](https://open.spotify.com/track/0WYciAV0lVsMEQk15UXVw1) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [White Noise Winter Dreams](https://open.spotify.com/album/7CZu7ZsAzkSCwEZtB4Ouyt) | 3:22 | 2023-12-05 | 2025-05-07 |

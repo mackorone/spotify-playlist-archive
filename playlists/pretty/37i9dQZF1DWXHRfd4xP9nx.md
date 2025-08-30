@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,461 likes - 275 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,491 likes - 275 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,7 +162,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 152 | [Rainy Stoop](https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in Spring](https://open.spotify.com/album/2fe8KZKkPyGCvlH1uthPIh) | 2:24 |
 | 153 | [The Noise Generator](https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Park Rain](https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3) | 3:58 |
 | 154 | [Under The Roof](https://open.spotify.com/track/4DanlCGrjn092EnWmbBlPa) | [Lumo](https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK) | [Rain Therapy Session 1](https://open.spotify.com/album/0z4pL7PSGR6RccLfZVd4lz) | 2:53 |
-| 155 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 |
+| 155 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 |
 | 156 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 |
 | 157 | [Rain On The Lake](https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain On The Lake](https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1) | 3:02 |
 | 158 | [Rain Drops for Deep Sleep](https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 |
@@ -174,10 +174,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 164 | [Pouring Summer Rain](https://open.spotify.com/track/0TuQu9Ox1Nnws4Eppapz4L) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Pouring Summer Rain](https://open.spotify.com/album/6zm8aa1RJ2lCTvwwUHlyGp) | 3:17 |
 | 165 | [Wapusk \- Rain](https://open.spotify.com/track/43OUokavvYcYMCBSfZzcbU) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Wapusk \(Rain\)](https://open.spotify.com/album/20knIs0Ex5k1NkGegLsbFT) | 3:56 |
 | 166 | [Clouds Dispersing](https://open.spotify.com/track/5bAkEjQbEIqZsuAcwNPBeP) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Rain In The City](https://open.spotify.com/album/4c9wDQS5nG07YRVzUsKdEN) | 3:22 |
-| 167 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 |
-| 168 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Trueno Tropical](https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 |
+| 167 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 |
+| 168 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Linata Ebow](https://open.spotify.com/artist/11gO4yNtiNZ8xajSwSjjWw) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 |
 | 169 | [Feeling Of Rain](https://open.spotify.com/track/3m9kSELDjvTupu243WsIRP) | [EXO](https://open.spotify.com/artist/3Y8fH6qqMlkoN5DHPQwbo4) | [Zen In the Rain](https://open.spotify.com/album/4JTlze1NAzJv44TN6U4xTJ) | 2:39 |
-| 170 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 |
+| 170 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [BioSounds](https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 |
 | 171 | [Evening Sleepy Rain](https://open.spotify.com/track/66AEXwDpLz9Uwz3DWvMnUa) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in the Woods](https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x) | 3:01 |
 | 172 | [Focus Rain On Shore](https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calming Rain Sounds](https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g) | 2:29 |
 | 173 | [Drop from the cloud](https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Droplet](https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW) | 3:32 |

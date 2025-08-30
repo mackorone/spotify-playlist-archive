@@ -4,7 +4,7 @@
 
 > Éxitos de Trap Latino 📸 Eladio Carrion.
 
-556 songs - 1 day 6 hr 55 min
+557 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Mbappe \- Remix](https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Mbappe \(Remix\)](https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h) | 3:57 | 2023-03-10 |  |
 | [Me Ama Me Odia](https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Me Ama Me Odia](https://open.spotify.com/album/0MB7Wln3Ojj44qEBJIeS2u) | 5:25 | 2022-06-03 |  |
 | [Me Ama Me Odia](https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2) | [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Me Ama Me Odia](https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq) | 5:26 | 2022-07-22 | 2024-04-19 |
+| [ME GUSTAS CC](https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 2:53 | 2025-08-29 |  |
 | [Me Sinto Abençoado](https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Sinto Abençoado](https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD) | 3:34 | 2022-06-03 | 2022-08-20 |
 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 | 2022-06-03 | 2025-06-28 |
 | [Memelo](https://open.spotify.com/track/6JgCgT8RRn41TYL9EqxRrJ) | [La Insuperable](https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu) | [Memelo](https://open.spotify.com/album/4h1AHq7hkTL33DJJqplSYK) | 3:49 | 2023-03-10 | 2023-03-18 |
@@ -442,7 +443,7 @@
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-08-05 | 2022-11-17 |
 | [RMPR T](https://open.spotify.com/track/5stw9wFzZFifH8zlun8Fts) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [RMPR T](https://open.spotify.com/album/4LFVIr8egW7q4EbJcI1242) | 3:39 | 2025-04-25 | 2025-08-29 |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-04 | 2022-04-16 |
-| [Rock and Roll](https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Rock and Roll](https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2) | 3:54 | 2024-08-16 |  |
+| [Rock and Roll](https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Rock and Roll](https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2) | 3:54 | 2024-08-16 | 2025-08-30 |
 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 | 2022-06-03 |  |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-23 |  |
 | [Rodman HP](https://open.spotify.com/track/2mzUys0bUxgram7mH524tV) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Rodman](https://open.spotify.com/artist/6xyUPW9j7cqYqm0yJHInXa) | [Rodman HP](https://open.spotify.com/album/0jP8mLsCL3v81Qsgwo5loq) | 1:58 | 2024-04-26 | 2024-06-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> Descubre lo más nuevo y lo más cool de la semana en compañía de La Maestra Pecas, LOOJANCITO y Yeri Mua
+> ¡TRAKAAA! Rolitas nuevas para combatir las lluvias con Luis R Conriquez y Anuel AA, brrrr 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,236 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,016 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 74 | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/track/5yY0QNiRkrEJcciGcScpJR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7) | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/album/0U8YiBJJzjH1LixVaqPFOC) | 3:28 |
 | 75 | [GUASAVE](https://open.spotify.com/track/0CcrCbifGpD6peI0ToiaaC) | [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc), [Rafa López](https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW) | [GUASAVE](https://open.spotify.com/album/36fTBHyuvwY7Lj3JGfZR6O) | 2:08 |
 
-Snapshot ID: `AAAAAN1Z1Y0f5g7UDuNEWEEk1cqEsdUq`
+Snapshot ID: `AAAAAGNItcRT6OTXb6lNcy/4KfLR9zro`

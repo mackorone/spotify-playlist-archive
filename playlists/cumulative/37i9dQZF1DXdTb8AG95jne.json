@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: onthedal) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc18c\uc218\ube48) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155600,
       "name": "Dimension Theory",
       "url": "https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz"
@@ -15058,6 +15058,24 @@
       "duration_ms": 231000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/45QwxuJHU1ZkJrgAPcvBND"
+    },
+    {
+      "album": {
+        "name": "Someday We Will",
+        "url": "https://open.spotify.com/album/35m5DoRR3ovZpkFIca0ZnB"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242648,
+      "name": "Someday We Will",
+      "url": "https://open.spotify.com/track/12Uv1vygmATfzGCXOK2rMx"
     },
     {
       "album": {

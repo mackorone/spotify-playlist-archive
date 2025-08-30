@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : Paki Chenzu
 
-122 songs - 5 hr 36 min
+123 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE) | [Satanana \(feat\. DRE\-A\)](https://open.spotify.com/album/6RrXnrMFJMjdzVBploTzHD) | 2:49 | 2025-05-29 | 2025-06-20 |
 | [So Sad / Vagues](https://open.spotify.com/track/0d3sbopsn9o9JoODBKEnDP) | [Thiird](https://open.spotify.com/artist/1nQDAwkWOHhJYMxQr8SIGv), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [So Sad / Vagues](https://open.spotify.com/album/45KWStQ883NMsrYE327Mo4) | 3:46 | 2025-08-28 |  |
 | [SOLDAT](https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [SOLDAT](https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI) | 2:57 | 2025-07-17 |  |
+| [Starboy](https://open.spotify.com/track/1ZjtH0XTJistu7y52uVDQC) | [Carty](https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW), [KG GANG](https://open.spotify.com/artist/0nYd2Px189UF3GtwQD3XiI) | [Starboy](https://open.spotify.com/album/3qyBToiIgjktJ1OACLNpvj) | 3:07 | 2025-08-28 |  |
 | [Sunset](https://open.spotify.com/track/5YiLCgVBgBt8fUuf8M3pLz) | [2050Millions](https://open.spotify.com/artist/16kyuk9fWXvJd0a0gG6ElS) | [Sunset](https://open.spotify.com/album/1J4zwpeSSxT2pfBw9Tcu63) | 3:04 | 2025-05-29 | 2025-06-06 |
 | [T'en Parler](https://open.spotify.com/track/6zJbQ5MCr2ZxGAJ8XgJ1j4) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [T'en Parler](https://open.spotify.com/album/1is6fQBY8PogRRpjFlyH8T) | 2:18 | 2025-06-19 | 2025-08-08 |
 | [Tana](https://open.spotify.com/track/2JYp2XCOdmufvPrwLw1J55) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 2:10 | 2025-06-26 |  |

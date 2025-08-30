@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,284 songs - 2 day 21 hr 41 min
+1,285 songs - 2 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Cool 'N Calm](https://open.spotify.com/track/7puBhOuLu7ftK0X19t0gRr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Cool 'N Calm](https://open.spotify.com/album/38V1SjBIRIN2ZJtM4LowSp) | 3:35 | 2025-04-11 | 2025-04-25 |
 | [Cool Like That](https://open.spotify.com/track/5NB7R5j9bQlR3c3HEKmRL3) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cool Like That](https://open.spotify.com/album/1ku2IkQS1ElR3yVQlen16y) | 2:40 | 2024-08-09 | 2024-09-15 |
 | [Crawl](https://open.spotify.com/track/4GtsU8mY7yrjwOb0QkCJ6i) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Crawl](https://open.spotify.com/album/1VoQhmlZnudO3RCwhsq93K) | 3:16 | 2020-11-03 | 2021-04-30 |
+| [Crazy](https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crazy](https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50) | 2:42 | 2025-08-29 |  |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-08 | 2024-04-19 |
 | [Cross My Heart](https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Cross My Heart](https://open.spotify.com/album/4yTrSLs99kcWGXEUCPfp7C) | 2:48 | 2022-01-04 | 2022-05-07 |
 | [Cross Your Mind](https://open.spotify.com/track/03F7FL0pcmVT4W8V8pERCH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR) | [Cross Your Mind](https://open.spotify.com/album/3WTRKUecyrM9ydt9ihGWoH) | 3:00 | 2021-02-06 | 2021-09-18 |
@@ -1020,7 +1021,7 @@
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-10-04 |  |
 | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe) | 2:52 | 2022-06-03 | 2022-07-29 |
 | [Stay \- Festival Mix](https://open.spotify.com/track/4mQguXNyYYycDFlLPgP4pS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Stay \(Festival Mix\)](https://open.spotify.com/album/15wVlfh4QpK89TnFa2ZBc5) | 3:28 | 2020-10-10 | 2021-03-26 |
-| [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-04-18 |  |
+| [Stay Here](https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Stay Here](https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW) | 3:58 | 2025-04-18 | 2025-08-30 |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-04-30 | 2021-09-18 |
 | [Stay Mine \- Gabry Ponte Remix](https://open.spotify.com/track/3LrxxJtUQkyMBCfqDrkqGx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Stay Mine \(Gabry Ponte Remix\)](https://open.spotify.com/album/78BMU9O8nupOdUxDa3CWTk) | 2:38 | 2021-09-25 | 2021-10-05 |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-04-19 | 2025-07-29 |

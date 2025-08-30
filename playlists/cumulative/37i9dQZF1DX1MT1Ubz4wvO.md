@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Sobrezero en portada.
 
-4,644 songs - 11 day 3 hr 52 min
+4,645 songs - 11 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3474,6 +3474,7 @@
 | [Quiero Bailar Ska!!!](https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT) | [Boxer](https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD) | [Quiero Bailar Ska!!!](https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx) | 3:19 | 2024-12-02 | 2024-12-07 |
 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Quiero Dormir Cansado \(MTV Unplugged\)](https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr) | 4:50 | 2024-12-20 | 2025-01-18 |
 | [Quiero Estar Contigo](https://open.spotify.com/track/1pwI2CZqIdOOxKRV5FwCo6) | [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93) | [Quiero Estar Contigo](https://open.spotify.com/album/4pXVewNJ2VY1vFu6NaKviB) | 3:46 | 2022-09-09 | 2022-10-01 |
+| [Quiero Más De Ti](https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [Quiero Más De Ti](https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG) | 2:51 | 2025-08-29 |  |
 | [Quiero Perderme](https://open.spotify.com/track/3SpIW3nLSNgCxH58Q8i7c8) | [Alfredo Piedrafita](https://open.spotify.com/artist/0Y93RnnfowqScS5INK5EUi), [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Quiero Perderme](https://open.spotify.com/album/1jHw13SfKQGD0E5uaFk662) | 3:41 | 2025-03-21 | 2025-03-29 |
 | [Quiero Que Me Comas la Boca](https://open.spotify.com/track/4w7C5VxuDzeF1ZmknjvZBW) | [Todo Bien Todo Mal](https://open.spotify.com/artist/0uj2hj0Vurk8ZaGgH0BmJa) | [Quiero Que Me Comas la Boca](https://open.spotify.com/album/0j9Omvub2750lyaOc7jTD7) | 4:02 | 2025-03-28 | 2025-04-05 |
 | [Quiero Saber](https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Quiero Saber](https://open.spotify.com/album/4YVwm1cQG7D96z6MObjwUl) | 2:49 | 2024-10-25 | 2024-11-09 |
@@ -3960,6 +3961,7 @@
 | [Sushi De Tamago](https://open.spotify.com/track/1YLMDL2Tzehx1s2x95D3GG) | [Venner](https://open.spotify.com/artist/1xsrkPEaxoeisHYwCRNjpZ) | [Sushi De Tamago](https://open.spotify.com/album/47TcPVqfOs7EuyxbxPix2E) | 2:43 | 2025-05-09 | 2025-05-17 |
 | [Sustancia](https://open.spotify.com/track/32H6cbMvL5ndJuvHe9cibY) | [Isla De Pala](https://open.spotify.com/artist/25nHdxx0hq9rd5pbQiKqkY) | [Colisión Sobrenatural \(Cap\. I\)](https://open.spotify.com/album/1nbKonEETz9S3krcxKR84i) | 3:27 | 2022-09-02 | 2022-09-10 |
 | [Susy \- Remasterizada](https://open.spotify.com/track/0u2PJnayBtXvA0aJVOLFNh) | [Rebel'd Punk](https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4) | [Susy \(Remasterizada\)](https://open.spotify.com/album/6ULtuQMDd9jbuLXnUDePTx) | 2:11 | 2024-10-25 | 2024-11-09 |
+| [Suéltame](https://open.spotify.com/track/75yiR81pmYJw0l882dGRHM) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/4lT9QcAZdlOvF6Ah0AbtEn) | 3:18 | 2025-08-28 |  |
 | [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 | 2023-11-03 | 2023-11-18 |
 | [Svlpdqs](https://open.spotify.com/track/5R185V2FV3ACdtIt5bZR8i) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [Svlpdqs](https://open.spotify.com/album/2RkGDIGCMCXpFNZD6dm5x2) | 1:29 | 2024-09-20 | 2024-09-28 |
 | [Sylvia Plath](https://open.spotify.com/track/5aBuF2Pa3x9gZKwnshRLhz) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Sylvia Plath](https://open.spotify.com/album/4YvQEEbnFEqUROQDsxJ6xN) | 5:10 | 2025-02-14 | 2025-02-22 |
@@ -4164,7 +4166,6 @@
 | [Total](https://open.spotify.com/track/3mjiOBIlC9d9dKv1dKCOO2) | [Delirio de Persecución](https://open.spotify.com/artist/6vqDz3oLUoF0HWhWoYWW6p) | [Total](https://open.spotify.com/album/5vgkxmh6TxJC5k14bNSGs3) | 3:37 | 2023-06-16 | 2023-07-01 |
 | [Touch and Go](https://open.spotify.com/track/3Jh7RwJjkh83hBQLbkKEbh) | [OK Doomer](https://open.spotify.com/artist/5b95yQFS912zQy44rxjwAr) | [Lágrimas](https://open.spotify.com/album/3T4Ow6QPRsfhhiA2NG8ZyF) | 3:11 | 2023-01-06 | 2023-01-21 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-23 |
-| [Track 8](https://open.spotify.com/track/75yiR81pmYJw0l882dGRHM) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/4lT9QcAZdlOvF6Ah0AbtEn) | 0:00 | 2025-08-28 |  |
 | [Tragiconfundido](https://open.spotify.com/track/2bp3TFXNtBpoq268JG5Gc5) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Tragiconfundido](https://open.spotify.com/album/4WJpELUpZzGwARCZnyxNGj) | 2:57 | 2024-12-02 | 2024-12-07 |
 | [Trago de mezcal](https://open.spotify.com/track/0YYtmFkMOEmiPH2rDYkNFF) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Trago de Mezcal](https://open.spotify.com/album/3u0LcdwMdWyOhCXJhgsZCi) | 3:17 | 2025-06-20 | 2025-07-05 |
 | [Traición](https://open.spotify.com/track/5v0i5vX72V8TxFtv91c6Xt) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Degenerado Vol.1](https://open.spotify.com/album/0b8XxNwzRF0YMQfe9tAQqX) | 2:14 | 2024-04-19 | 2024-04-27 |

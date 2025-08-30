@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3h0GYVBJE64.md) - [plain]
 
 > wat waren dat heerlijke zomers
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,634 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,673 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

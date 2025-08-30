@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,483 songs - 5 day 9 hr 50 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,484 songs - 5 day 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2491,5 +2491,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2481 | [NFWU](https://open.spotify.com/track/2b3N2hlUUI3x4KnKAr6MJZ) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [Exproz](https://open.spotify.com/artist/22jcDppDfbm4cqqUDzM8tU) | [NFWU](https://open.spotify.com/album/6nNZjdakIe0KvglVlsGHIS) | 2:42 |
 | 2482 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
 | 2483 | [Hot In This](https://open.spotify.com/track/03MlbQtvE4QD9gdjFAhZqg) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hot In This](https://open.spotify.com/album/4824pzDFUulf6WpYaRw3la) | 2:40 |
+| 2484 | [Hoppa](https://open.spotify.com/track/2jZ870G5eHOdCloPNXJmwi) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Hoppa](https://open.spotify.com/album/5yfzgdbXAWtu5uqQd69mQg) | 2:26 |
 
-Snapshot ID: `AAAJ+SY+TbSn6jqQFYcfYMNr4RceEOld`
+Snapshot ID: `AAAJ+n5hwsY4R9cyiXvcC7aY/ylx67qk`

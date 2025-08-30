@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-753 songs - 1 day 13 hr 51 min
+754 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 | 2023-08-10 |
 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 | 2023-07-13 | 2023-08-10 |
 | [All Or Nothing](https://open.spotify.com/track/3hAXUsQoXs9vIY22fFZn9z) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [All Or Nothing](https://open.spotify.com/album/1HCA5Vrez4PKopNqbZykTO) | 3:26 | 2025-03-20 |  |
+| [All We've Ever Known](https://open.spotify.com/track/0BrcT26Jb5SNAJSVRMPdVo) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [All We've Ever Known](https://open.spotify.com/album/5MuveroOf9KvC6mC3IUOeF) | 2:40 | 2025-08-29 |  |
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
 | [Alone](https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [SGAR](https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm) | [Alone](https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0) | 3:50 | 2024-02-08 | 2024-08-28 |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
@@ -153,7 +154,6 @@
 | [DANÇA DO VERÃO](https://open.spotify.com/track/0AnK3aYDf1XOC48Pgzdc9G) | [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [SH3RWIN](https://open.spotify.com/artist/1XagsDM1XXaJuWCvikh4JY), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [DANÇA DO VERÃO](https://open.spotify.com/album/2BhXlEQosOGwfyRVVWVYpD) | 1:13 | 2025-03-27 |  |
 | [Darkness](https://open.spotify.com/track/2yT6EsKV5GBdd9AO8gd4JJ) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Darkness](https://open.spotify.com/album/08xgXUGQbxUp6eCdBWyRTS) | 3:41 | 2022-08-11 | 2023-04-28 |
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-04-28 |
-| [Daydream](https://open.spotify.com/track/1Zr1B7HQnDCGCOrL4lGHTB) | [RINZO](https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf), [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [Daydream](https://open.spotify.com/album/2R2ghF8ZmMr6AWTA9lvhff) | 3:06 | 2025-08-28 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-04-28 |
 | [Dependant](https://open.spotify.com/track/19vH2GjbvGE9V9ixp9TBfs) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:13 | 2025-07-25 |  |
@@ -761,5 +761,6 @@
 | [Your Love](https://open.spotify.com/track/6e9RiPpVFxukEfOC7fHW4i) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Your Love](https://open.spotify.com/album/0smUOqiOuyScdD4bgwI7ek) | 2:25 | 2023-04-28 | 2023-08-10 |
 | [Your Poison](https://open.spotify.com/track/1GTguj1XPyUbSvyaQ1EmTA) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Your Poison](https://open.spotify.com/album/4nQMj0UeQHqv2YMokqC8Jd) | 3:18 | 2024-10-10 |  |
 | [Zig Zag](https://open.spotify.com/track/1shskQEKKGCDz4u3xQ192q) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Zig Zag](https://open.spotify.com/album/3NMv7cXA7JSgBm5TFkTkAf) | 3:27 | 2023-08-08 | 2023-12-14 |
+| [デイドリーム \(Daydream\)](https://open.spotify.com/track/1Zr1B7HQnDCGCOrL4lGHTB) | [RINZO](https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf), [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R) | [デイドリーム \(Daydream\)](https://open.spotify.com/album/2R2ghF8ZmMr6AWTA9lvhff) | 3:06 | 2025-08-28 |  |
 
 \*This playlist was first scraped on 2022-10-06. Prior content cannot be recovered.

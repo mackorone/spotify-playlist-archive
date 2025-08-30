@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,614 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,358 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 31 | [Orbit Motion](https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Orbit Motion](https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS) | 3:49 |
 | 32 | [Dopamin](https://open.spotify.com/track/1SXKHT4MP8OjHqBjb1vDZS) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dopamin](https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b) | 3:28 |
 | 33 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
-| 34 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
+| 34 | [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 |
 | 35 | [Die Tonight](https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Die Tonight](https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF) | 3:47 |
-| 36 | [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 |
+| 36 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
 | 37 | [Gipsy Queen](https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Gipsy Queen EP](https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx) | 3:22 |
 | 38 | [Ang3l Attack!](https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Ang3l Attack!](https://open.spotify.com/album/1NXABba2AxQ2oMdxkB922r) | 3:36 |
 | 39 | [Daitarn](https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Daitarn](https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU) | 3:23 |

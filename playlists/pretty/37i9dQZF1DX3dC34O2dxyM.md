@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,889 likes - 75 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,987 likes - 75 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 19 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
 | 20 | [Tender](https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Tender](https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy) | 2:55 |
 | 21 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 |
-| 22 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 |
+| 22 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Lill Bosse](https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 |
 | 23 | [Lundi matin](https://open.spotify.com/track/6sXi9EExliDNd5AZpVptIr) | [Victoria Griffiths](https://open.spotify.com/artist/1iaN5x7M1F2j9R5y0bJ88J) | [Lundi matin](https://open.spotify.com/album/0twvUvkbakjQSxE55lhoes) | 1:20 |
 | 24 | [My Favourite Pillow](https://open.spotify.com/track/29l4of3MD72ipWWlP9VTqB) | [Olivia Droglly](https://open.spotify.com/artist/5HoWagdsHvpPEcaSU20HCv) | [My Favourite Pillow](https://open.spotify.com/album/4sYPwSkZtCfC0hAB5ioNwW) | 1:17 |
 | 25 | [Something There](https://open.spotify.com/track/6tIIdGntB4kn9eWgbk1gsg) | [Elin Svensson](https://open.spotify.com/artist/7B1EUSbXfPfvKyuYlO0SYp) | [Something There](https://open.spotify.com/album/7lk5RkoZ2k0JNLIIHj7zZh) | 2:03 |
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 34 | [Slow Dreams](https://open.spotify.com/track/1mrILGidcTcj68OEmOQSy4) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Slow Dreams](https://open.spotify.com/album/5uFnxrYzEXUlVGBA54psoX) | 2:04 |
 | 35 | [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 |
 | 36 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW) | 2:06 |
-| 37 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
+| 37 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Astrid Fletcher](https://open.spotify.com/artist/3igWAsVVTd9O8R9KOMSY4K) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
 | 38 | [Oh My Darling, Clementine](https://open.spotify.com/track/3NctLByx0t5oaDaElVHM2j) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Oh My Darling, Clementine](https://open.spotify.com/album/5f3vdWw6khtrpGnYxjB3Hh) | 2:17 |
 | 39 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 |
 | 40 | [Moon, Sun, See Where You Are](https://open.spotify.com/track/2gQyfjfnYiXB1b3jG7Soem) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Moon, Sun, See Where You Are](https://open.spotify.com/album/20OQxcjYs4Yjr6am1FX1dk) | 2:05 |
 | 41 | [Sommerdrøm](https://open.spotify.com/track/2uPXBjaHGJn3e6fWRqB2JL) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Sommerdrøm](https://open.spotify.com/album/6QBMIQgFVkgQZ0Qpu9evl0) | 1:16 |
 | 42 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 |
 | 43 | [Calm Dreams](https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Calm Dreams](https://open.spotify.com/album/1hKwkcZMb8NP9vzAaU0SvB) | 1:41 |
-| 44 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 |
+| 44 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 |
 | 45 | [Five In The Morning](https://open.spotify.com/track/7HZwjhPILEmhB0ccHRhpcp) | [Ellio Chanson](https://open.spotify.com/artist/1kj2CTKpnlYp8mK1zAuO43) | [Five In The Morning](https://open.spotify.com/album/2FySZAFIuyM1fJT7OnR5qg) | 2:27 |
-| 46 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
+| 46 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
 | 47 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 |
 | 48 | [Head Shoulders Knees and Toes](https://open.spotify.com/track/6L3jWWum4jr3UNz17UQPai) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Acoustic Guitar Lullabies](https://open.spotify.com/album/1aUPcEPAxp9UwB1Vvezu7P) | 1:36 |
 | 49 | [Tourne Petit Moulin](https://open.spotify.com/track/769OmGhsJJ77UwMWUjhwIg) | [Jacks Box](https://open.spotify.com/artist/3TtwJYv05v0xwTnQAB5Zi0) | [Tourne Petit Moulin](https://open.spotify.com/album/3Kb3AoFGckIvp8AVjZsCoV) | 2:08 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 57 | [Sundown](https://open.spotify.com/track/5sDWTIQA0WOxN1mrmHozll) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Sundown](https://open.spotify.com/album/3gV34Vve5N102bJ1av3p81) | 2:23 |
 | 58 | [Featherlight](https://open.spotify.com/track/0WbmNgQDsrYH79slmx1IYV) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Featherlight](https://open.spotify.com/album/43jnMkL4vf5W5TVLNWlAD5) | 2:26 |
 | 59 | [stars aligned](https://open.spotify.com/track/1jk91TedSXVsA0bgtrASPz) | [Lukas Hofmann](https://open.spotify.com/artist/0ibIUDNTpWg6FSpO0fPNKz) | [Peanut and Jelly](https://open.spotify.com/album/5gYuIkBcnYNCxhsZ9lOxOW) | 2:20 |
-| 60 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Sia Bradley](https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 |
+| 60 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 |
 | 61 | [Little Angel](https://open.spotify.com/track/73CaPoHAnTRdZeNHzQHxwf) | [Dajana Goff](https://open.spotify.com/artist/5yCGYGmKqaBkh4d8KtVgzE) | [Honeybun](https://open.spotify.com/album/1Jes6CRAR8lNTjgWatJgyt) | 1:21 |
 | 62 | [Slumberland](https://open.spotify.com/track/3nL3Fw2VyJJcX7IKXFtYJi) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [Slumberland](https://open.spotify.com/album/38vYZzD3VHBFynAscSFWr0) | 1:36 |
 | 63 | [Diana's Lullaby](https://open.spotify.com/track/37QpHcbzcbvyy7Uk6Y4dTT) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Diana's Lullaby](https://open.spotify.com/album/4m2rK0IW4trIi16iEnbZla) | 1:27 |

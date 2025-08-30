@@ -4,7 +4,7 @@
 
 > "Remember who we are." Music from and inspired by Black Panther and Black Panther: Wakanda Forever.
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2023-02-01 |  |
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2023-02-01 |  |
 | [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 | 2023-02-01 |  |
+| [Eyes of Wakanda Main on Ends](https://open.spotify.com/track/50Z9iOfUjLetR4H6eiX9FI) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 | 2025-08-29 |  |
 | [Eyes of Wakanda Main Title](https://open.spotify.com/track/68OvoLY0aaC3QoZNCLwQjs) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 | 2025-08-12 |  |
 | [He Wasn't There](https://open.spotify.com/track/2b1TtM5TSdUG9ds5y6pyWb) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 1:21 | 2023-02-01 |  |
 | [Inframundo](https://open.spotify.com/track/7u2cPWo0974RudXZKDmdmT) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:11 | 2023-02-01 |  |

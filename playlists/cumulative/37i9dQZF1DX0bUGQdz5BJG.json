@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Austin Snell",
+  "description": "Music City must-hears. Cover: Preston Cooper",
   "name": "Next From Nashville",
   "tracks": [
     {
@@ -482,6 +482,24 @@
       "duration_ms": 189475,
       "name": "30 Thousand Feet (I Ain't)",
       "url": "https://open.spotify.com/track/1VWISlyavHVnJGMyusdFp8"
+    },
+    {
+      "album": {
+        "name": "33s",
+        "url": "https://open.spotify.com/album/4kiAA2PSMwJwJNt6dezzn8"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205004,
+      "name": "33s",
+      "url": "https://open.spotify.com/track/55VUauhPJx0gzom6vqrBS7"
     },
     {
       "album": {
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 234490,
       "name": "Ain't Sober",
       "url": "https://open.spotify.com/track/6V83BrXVNl8p4Zo0uplbh2"
@@ -6823,6 +6841,24 @@
     },
     {
       "album": {
+        "name": "Brave the Weather",
+        "url": "https://open.spotify.com/album/0l3G6BGVy83pvirPMbO10G"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263720,
+      "name": "Brave the Weather",
+      "url": "https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU"
+    },
+    {
+      "album": {
         "name": "BREAK IT IN A BAR",
         "url": "https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd"
       },
@@ -7558,6 +7594,24 @@
       "duration_ms": 200957,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2Ba6D8yeOe14QoHwMaQkAK"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0e2aHVEdhb7hHVf2xaRoZd"
+      },
+      "artists": [
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1umBlNhjACVKFcRpPLRkTS"
     },
     {
       "album": {
@@ -8738,6 +8792,24 @@
       "duration_ms": 162824,
       "name": "Caught Me At A Good Time",
       "url": "https://open.spotify.com/track/2fRP7yg4VYwyIHKDXLRj9W"
+    },
+    {
+      "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/5v4asfkm8zz381TKgY3L1X"
+      },
+      "artists": [
+        {
+          "name": "Baylee Lynn",
+          "url": "https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204337,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/5Rt0sSTZMftwBqzffRPHB4"
     },
     {
       "album": {
@@ -18871,6 +18943,24 @@
     },
     {
       "album": {
+        "name": "Good As It Gets",
+        "url": "https://open.spotify.com/album/1CINRWxuLc4pPUpluw87a2"
+      },
+      "artists": [
+        {
+          "name": "Christian Hayes",
+          "url": "https://open.spotify.com/artist/1rA67F5WtYGumYyJTJHFXu"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Good As It Gets",
+      "url": "https://open.spotify.com/track/4pm7kJ0E8JOppcxRvClReq"
+    },
+    {
+      "album": {
         "name": "Good At Being Single",
         "url": "https://open.spotify.com/album/5zFNNHHT41THpvAen3w9jX"
       },
@@ -19540,7 +19630,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 191906,
       "name": "GRAVE",
       "url": "https://open.spotify.com/track/2YvricIxdfPXF8ztbHPcpP"
@@ -20843,6 +20933,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/5iMfPkW0xFGyzh5kqjuwTM"
+      },
+      "artists": [
+        {
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167278,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/3Lo5gjp44Qz84uu7yqGgR8"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/6V5dB7SO9sWXrv6QSrhH4R"
       },
@@ -21463,6 +21571,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Is My Hometown",
+        "url": "https://open.spotify.com/album/26eKhJCUBcaa30u4dlsazQ"
+      },
+      "artists": [
+        {
+          "name": "Clayton Hackle",
+          "url": "https://open.spotify.com/artist/68pWx3KPNayHzF58lCSDXY"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Heartbreak Is My Hometown",
+      "url": "https://open.spotify.com/track/2MmZ8dY74ZaC44NimMxswN"
+    },
+    {
+      "album": {
         "name": "Heartbreak Rodeo",
         "url": "https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe"
       },
@@ -21874,6 +22000,24 @@
       "duration_ms": 175233,
       "name": "HELL BOY",
       "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
+    },
+    {
+      "album": {
+        "name": "Hell I Won't",
+        "url": "https://open.spotify.com/album/1g4nTpxu9EDDTb1iXAcdMk"
+      },
+      "artists": [
+        {
+          "name": "Justin Holmes",
+          "url": "https://open.spotify.com/artist/2gYTB06AYMzdZMIelaYy9D"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201248,
+      "name": "Hell I Won't",
+      "url": "https://open.spotify.com/track/4y7WFMxNengYcdyB8m8XJG"
     },
     {
       "album": {
@@ -23584,6 +23728,28 @@
       "duration_ms": 176386,
       "name": "Honky Tonk Land",
       "url": "https://open.spotify.com/track/3GkSLx4Sfv9XB6NpxOnd80"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Talkin'",
+        "url": "https://open.spotify.com/album/5zidH1nx9EUt1cDYJVjzD2"
+      },
+      "artists": [
+        {
+          "name": "Will Banister",
+          "url": "https://open.spotify.com/artist/5b28wAQnFmBIedOrbr1Wek"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Honky Tonk Talkin'",
+      "url": "https://open.spotify.com/track/5olrmgh4lJL0qXFjlOfseb"
     },
     {
       "album": {
@@ -26169,6 +26335,24 @@
     },
     {
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/7nnbYJhsyUb7mxMFXxlXeO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Edwards",
+          "url": "https://open.spotify.com/artist/72loN3jtnyiDqdgzdaspRc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/6u4amrBNItO26SbrpOQmKW"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet",
         "url": "https://open.spotify.com/album/5Ud4LcJtg8AJnougrcBWLF"
       },
@@ -27987,6 +28171,24 @@
     },
     {
       "album": {
+        "name": "Jack Daniel's",
+        "url": "https://open.spotify.com/album/6qmS3RfpsbzSTGeRCTbiFT"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209783,
+      "name": "Jack Daniel's",
+      "url": "https://open.spotify.com/track/301Spsvy1W0hVjOX6wm7O1"
+    },
+    {
+      "album": {
         "name": "Jailbreak",
         "url": "https://open.spotify.com/album/5cLpXSs4aAd0v19UvO8yBM"
       },
@@ -28794,7 +28996,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 203000,
       "name": "Kids Like Me",
       "url": "https://open.spotify.com/track/7vLOXhLrF1au0ic7L8UauQ"
@@ -28852,6 +29054,28 @@
       "duration_ms": 182494,
       "name": "Kinda Memory",
       "url": "https://open.spotify.com/track/09wAc3MuQU47DCoo2T4QYu"
+    },
+    {
+      "album": {
+        "name": "Kinda Single (feat. Lee Brice)",
+        "url": "https://open.spotify.com/album/45Dwlv50JKT3nkDRIr13rv"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199264,
+      "name": "Kinda Single (feat. Lee Brice)",
+      "url": "https://open.spotify.com/track/2Bo0E6nycSb3XzjHkvKOQ0"
     },
     {
       "album": {
@@ -32182,7 +32406,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 197827,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/4ey4pDTdXijwzzQmSvH64M"
@@ -33295,6 +33519,24 @@
     },
     {
       "album": {
+        "name": "Made Up My Mind",
+        "url": "https://open.spotify.com/album/5nidXTqHGaCXfqvPdthcbh"
+      },
+      "artists": [
+        {
+          "name": "Tyler Rich",
+          "url": "https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186814,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/799Tjb1Gnp3zQaQitii7N7"
+    },
+    {
+      "album": {
         "name": "Made U Look",
         "url": "https://open.spotify.com/album/7hFt1c2ykUSUX1MM6MYlrH"
       },
@@ -33450,7 +33692,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 216606,
       "name": "Make It",
       "url": "https://open.spotify.com/track/4KuFXro23bPEcA02qon43o"
@@ -35772,7 +36014,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 271500,
       "name": "Mr. Tennessee",
       "url": "https://open.spotify.com/track/0RazyTwgOnGvm6PkLvnDqt"
@@ -38228,7 +38470,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 194413,
       "name": "Nothing Like You Nowhere",
       "url": "https://open.spotify.com/track/40svOjQCH1xGuoqkEGbnHm"
@@ -47128,7 +47370,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 179185,
       "name": "Somebody Cooked Here",
       "url": "https://open.spotify.com/track/6AygFa26d4G7tQVvrsAXIE"
@@ -47644,7 +47886,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 199104,
       "name": "Something To Lose (feat. Corey Harper)",
       "url": "https://open.spotify.com/track/0YmT6Fgxpg9fs6xPIb4QOi"
@@ -48312,6 +48554,24 @@
       "duration_ms": 184440,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/1ehf4IYpf3LZYIkqTdmF7I"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/4FnK8TM1LUx1XDN2ovElWM"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163337,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/3Y5JcHHwKF0G7Clh8Rptbp"
     },
     {
       "album": {
@@ -49227,6 +49487,24 @@
     },
     {
       "album": {
+        "name": "Strangers Like Us",
+        "url": "https://open.spotify.com/album/4xfb6AJe2Iokf0rNBJWye4"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243564,
+      "name": "Strangers Like Us",
+      "url": "https://open.spotify.com/track/2oWbDAVri4hcKB1LzOaDwF"
+    },
+    {
+      "album": {
         "name": "Strawberry Thief",
         "url": "https://open.spotify.com/album/4oWo8S0bWRhlGypGwgj2ay"
       },
@@ -49238,7 +49516,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 318080,
       "name": "Strawberry Thief",
       "url": "https://open.spotify.com/track/6l8mj1GZCdckxzy291aljz"
@@ -52482,7 +52760,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 212178,
       "name": "The Takedown",
       "url": "https://open.spotify.com/track/3L1RAzUL9RkoFTtSsT1i6t"
@@ -53372,6 +53650,24 @@
       "duration_ms": 222362,
       "name": "Thinkin Bout Cheatin",
       "url": "https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF"
+    },
+    {
+      "album": {
+        "name": "Thinkin' Straight",
+        "url": "https://open.spotify.com/album/76sQI88rjiZl4RDUxIujEB"
+      },
+      "artists": [
+        {
+          "name": "Connor McCutcheon",
+          "url": "https://open.spotify.com/artist/3yluFQwZBhp5jJYLlRG034"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Thinkin' Straight",
+      "url": "https://open.spotify.com/track/0tVDhVquNcPhT4I6QR3ob5"
     },
     {
       "album": {
@@ -54389,6 +54685,24 @@
     },
     {
       "album": {
+        "name": "Toledo Talkin'",
+        "url": "https://open.spotify.com/album/3gywsTiQlRQABbu2PsOLrQ"
+      },
+      "artists": [
+        {
+          "name": "Preston Cooper",
+          "url": "https://open.spotify.com/artist/3ehyYSVGY0cusNEOEB7APx"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207636,
+      "name": "Toledo Talkin'",
+      "url": "https://open.spotify.com/track/35Eblj5OEGaYrM8zSpPI1s"
+    },
+    {
+      "album": {
         "name": "Tomorrow Me",
         "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
       },
@@ -54512,7 +54826,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 216714,
       "name": "Too Young, Too Dumb",
       "url": "https://open.spotify.com/track/2WcpnDkwo91M865YN1bSSq"
@@ -55930,6 +56244,24 @@
       "duration_ms": 236744,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/1B4kKSpaps5fN5aV7kJZ8b"
+    },
+    {
+      "album": {
+        "name": "Use Some Carolina",
+        "url": "https://open.spotify.com/album/2SSUcXRdfmfmfHlH0GKl6R"
+      },
+      "artists": [
+        {
+          "name": "Wesko",
+          "url": "https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198072,
+      "name": "Use Some Carolina",
+      "url": "https://open.spotify.com/track/6N7JJudJ1MTDnjfc4fU58A"
     },
     {
       "album": {
@@ -61390,7 +61722,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 184155,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"

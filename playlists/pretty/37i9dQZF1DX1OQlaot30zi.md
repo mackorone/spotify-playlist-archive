@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di 22siba e Silent Bob,  Neffa, Rondodasosa, 2rari, Vale Lambo insieme a Niko Beatz e Lele Blade, e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di 22simba e Silent Bob,  Neffa, Rondodasosa, 2rari, Vale Lambo insieme a Niko Beatz e Lele Blade, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,104 likes - 98 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,123 likes - 98 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 97 | [4:26](https://open.spotify.com/track/6cIJGBYhiBn2DXxEAYekbQ) | [Sad Zane](https://open.spotify.com/artist/1EA8jub2Aq15zEVMsxkJt1) | [4:26](https://open.spotify.com/album/2J10UMwDY5vWKyRagZyxYb) | 2:36 |
 | 98 | [OGGI](https://open.spotify.com/track/6nt9Wz8kP4HmCzviz3eWdP) | [heydeva](https://open.spotify.com/artist/2XOShtdHQmJjd5Val9Cd4q), [Davide](https://open.spotify.com/artist/1JeXCjHjM7plIsm8TACftX) | [OGGI](https://open.spotify.com/album/1VXmOddIbb84w6epRnBWxa) | 2:24 |
 
-Snapshot ID: `AAAAAHZq4zSRx5CZaBRUih14bxXPITsP`
+Snapshot ID: `AAAAAAMOac8p+qbariSONSTGUvubaVHS`

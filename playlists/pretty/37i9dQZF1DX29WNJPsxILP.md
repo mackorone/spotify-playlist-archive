@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: YUNG SAMMY
+> Best of Hindi Hip\-Hop! Cover: Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,068 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,108 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Aag](https://open.spotify.com/track/2ccfR07KexkfAyB0kTkj0p) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Aag](https://open.spotify.com/album/6rjqQpDqcW3eOY1jgD3GEA) | 2:41 |
 | 75 | [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 |
 
-Snapshot ID: `AAAAAN0Fev8TpeqOQqaTAfvW//TpfaeF`
+Snapshot ID: `AAAAAKUUywvokkwfpUJgvJcv9gv0s/0P`

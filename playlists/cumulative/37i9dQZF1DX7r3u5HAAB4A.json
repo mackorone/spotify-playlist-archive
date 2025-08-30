@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture.  Cover: Klassik Frescobar",
+  "description": "A melting pot of Caribbean culture.  Cover: Bounty Killer, Vybz Kartel, DJ Khaled, Buju Banton and Mavado",
   "name": "Fever",
   "tracks": [
     {
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155000,
       "name": "Don\u2019t Stop Whine",
       "url": "https://open.spotify.com/track/4c1Axzaqn808GXKPpj8YOi"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 177349,
       "name": "Have Weh You Need",
       "url": "https://open.spotify.com/track/1Pdz9j4BlKzexfAzOcvR3d"
@@ -2759,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/6mhi0uutyc7OVSRoGrwwbs"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/0PO1Kg4RNnAhUzgdPL3K23"
+    },
+    {
+      "album": {
         "name": "GYAL DEM SHIFT",
         "url": "https://open.spotify.com/album/6RBArWLu3zTLfSuYtADePO"
       },
@@ -3110,6 +3132,28 @@
       "duration_ms": 203328,
       "name": "Nothing Without God",
       "url": "https://open.spotify.com/track/3Qm48Liwh9EWuFwlhi8Sgc"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/5ixmxYb8igVHAKWtiYRW37"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Tell Dem Turbo",
+          "url": "https://open.spotify.com/artist/1U4al41KHd0r80QCDjpvKn"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/6wdZTVY792lsULYUXynCdd"
     },
     {
       "album": {
@@ -3886,7 +3930,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 161201,
       "name": "Set up Di Mic",
       "url": "https://open.spotify.com/track/1lOqdQcr3IvllmQO0PZ5Zd"
@@ -4135,6 +4179,28 @@
     },
     {
       "album": {
+        "name": "Slow Motion (feat. Lavbbe)",
+        "url": "https://open.spotify.com/album/7hqQDhx9nMaptTWNeG4HNb"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Lavbbe",
+          "url": "https://open.spotify.com/artist/6izI64ghLVdJ9C45YWx3Vm"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139770,
+      "name": "Slow Motion (feat. Lavbbe)",
+      "url": "https://open.spotify.com/track/3SIhhY5cRa6kyom2MFVjfa"
+    },
+    {
+      "album": {
         "name": "SO COMAN",
         "url": "https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F"
       },
@@ -4248,6 +4314,36 @@
       "duration_ms": 138715,
       "name": "Str8 Vybz",
       "url": "https://open.spotify.com/track/2IkaY20NsArTchrbGCmc6g"
+    },
+    {
+      "album": {
+        "name": "\u00c8K\u00d3 GROOVE",
+        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262507,
+      "name": "STRUGGLE (feat. Buju Banton & Jaz Karis)",
+      "url": "https://open.spotify.com/track/6OuxDBhLkZNPgpUlFdMfuu"
     },
     {
       "album": {
@@ -4556,6 +4652,28 @@
       "duration_ms": 134439,
       "name": "Too Hot (feat. Moliy)",
       "url": "https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh"
+    },
+    {
+      "album": {
+        "name": "No Place Like Home",
+        "url": "https://open.spotify.com/album/7tFkIzZkbJvc3GkncxI5tj"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        },
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7i2G01nyro3Y09I3pXoz4E"
     },
     {
       "album": {
@@ -5328,6 +5446,48 @@
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "album": {
+        "name": "You Remind Me",
+        "url": "https://open.spotify.com/album/2myw8PtGBKHqO12iCepUVq"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        },
+        {
+          "name": "RoryStoneLove",
+          "url": "https://open.spotify.com/artist/7BCZyG8mIUrMxVDjzy9ffb"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263408,
+      "name": "You Remind Me (feat. Vybz Kartel, Buju Banton, Bounty Killer, Mavado, Rorystonelove & Kaylan Arnold)",
+      "url": "https://open.spotify.com/track/0arUL8gBetEOvzbfEsf56o"
     },
     {
       "album": {

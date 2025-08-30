@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: lovehead
 
-1,375 songs - 2 day 16 hr 44 min
+1,376 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [INTERNETFREUNDIN](https://open.spotify.com/track/50K4RtzfB7FNtFqImSpwEd) | [SALÒ](https://open.spotify.com/artist/49uauFOxmzTD83IUpZPdLz), [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [INTERNETFREUNDIN](https://open.spotify.com/album/5DozG3LzjrMYw3wNIj17gH) | 2:32 | 2023-04-13 | 2023-06-23 |
 | [Ipanema](https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Ipanema](https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF) | 1:50 | 2023-05-11 | 2023-06-16 |
 | [iPhone X](https://open.spotify.com/track/6xqiepkcqK9Imi4GP1lFyS) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [iPhone X](https://open.spotify.com/album/5PtQ0IazDwgpZ3u642RuHQ) | 2:09 | 2023-02-02 | 2023-03-03 |
+| [Irgendwann](https://open.spotify.com/track/4VOYuJLHh1ud6EgePcymWx) | [Kosta](https://open.spotify.com/artist/1xuEncO5GPghuggYpT74pC) | [Irgendwann](https://open.spotify.com/album/6wbGiiRT2TnNcl1WJAujoe) | 2:38 | 2025-08-29 |  |
 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 | 2023-09-14 | 2023-10-06 |
 | [Irgendwo geht immer die Sonne auf](https://open.spotify.com/track/5GC2iwAJH4Bh2hKvMwHL35) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Irgendwo geht immer die Sonne auf](https://open.spotify.com/album/0J15UePv70KAHKXwkul6W2) | 2:44 | 2024-09-19 | 2024-10-25 |
 | [Irgendwo im Nirgendwo](https://open.spotify.com/track/2NJFMUUAOFj9V0uvEOzltu) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Irgendwo im Nirgendwo](https://open.spotify.com/album/2uOZo0Rk6iiIJdHaf9RzYS) | 3:09 | 2023-09-14 | 2023-10-20 |
@@ -765,7 +766,7 @@
 | [Lost](https://open.spotify.com/track/18nXb3mDMH5YJrum3g8Zrs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Lost](https://open.spotify.com/album/4FUtX963gbRm0A6ekG3Vkw) | 3:29 | 2023-02-02 | 2023-03-03 |
 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 | 2023-04-20 | 2023-08-18 |
 | [love yourself, fucked up](https://open.spotify.com/track/3t9ntfDycPiCLmMD6Za938) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [love yourself, fucked up](https://open.spotify.com/album/2O6cOcwMQW9PQPJYrn2tRS) | 2:28 | 2023-03-09 | 2023-07-21 |
-| [lowkey](https://open.spotify.com/track/0umxy6RsjtCdFQNPDzPogC) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [lowkey](https://open.spotify.com/album/1Gw6EdhxmGSa4G3MysPijb) | 3:24 | 2025-08-07 |  |
+| [lowkey](https://open.spotify.com/track/0umxy6RsjtCdFQNPDzPogC) | [Wolke 8](https://open.spotify.com/artist/390O0PpgkmEe86SJOeqc26), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [lowkey](https://open.spotify.com/album/1Gw6EdhxmGSa4G3MysPijb) | 3:24 | 2025-08-07 | 2025-08-30 |
 | [luft](https://open.spotify.com/track/3iJwbqJcWHhMOfvPku8DY1) | [Apollo Sissi](https://open.spotify.com/artist/3rx1CQwe0iyA3d2q1renfJ) | [luft](https://open.spotify.com/album/0443CWxTqpmpgwgQaCAuJP) | 2:13 | 2023-05-11 | 2023-06-16 |
 | [luft holen](https://open.spotify.com/track/4IvZk9sjOkN8cG8kL710GI) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [luft holen](https://open.spotify.com/album/4CIKBFFca7KrnGo1bNmETg) | 2:26 | 2023-11-24 | 2024-05-03 |
 | [Lungenflügel](https://open.spotify.com/track/6toQ6T0tXZm6XZy1dKHrEF) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Lungenflügel](https://open.spotify.com/album/5bPifu17qFz3j91MKxMh3t) | 2:38 | 2024-01-18 | 2024-02-09 |

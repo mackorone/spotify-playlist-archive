@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,014 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,097 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 5 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 6 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 |
 | 7 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
-| 8 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
-| 9 | [Shirt](https://open.spotify.com/track/6pwOKAqlSXT5fItVRXiqen) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shirt](https://open.spotify.com/album/5HlVNBgXdZw8v2aYM6FS9z) | 2:57 |
-| 10 | [Head In The Clouds](https://open.spotify.com/track/2V0e7mj9sW7WdYn0bbkLXf) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Head In The Clouds](https://open.spotify.com/album/3kjgKZdwgOjHXxZO32ABG1) | 2:49 |
-| 11 | [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 |
-| 12 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 13 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 |
-| 14 | [True Believer](https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [True Believer](https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI) | 3:49 |
-| 15 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 |
-| 16 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
-| 17 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
-| 18 | [Sea Song](https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Sea Song](https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8) | 3:38 |
-| 19 | [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 |
+| 8 | [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 |
+| 9 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
+| 10 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
+| 11 | [Shirt](https://open.spotify.com/track/6pwOKAqlSXT5fItVRXiqen) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Shirt](https://open.spotify.com/album/5HlVNBgXdZw8v2aYM6FS9z) | 2:57 |
+| 12 | [Head In The Clouds](https://open.spotify.com/track/2V0e7mj9sW7WdYn0bbkLXf) | [Daire Patel](https://open.spotify.com/artist/0qEjllyc5VRbiwOINKPR0G) | [Head In The Clouds](https://open.spotify.com/album/3kjgKZdwgOjHXxZO32ABG1) | 2:49 |
+| 13 | [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 |
+| 14 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 |
+| 15 | [True Believer](https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [True Believer](https://open.spotify.com/album/59CWOYyzKcrts5u07Bs6jI) | 3:49 |
+| 16 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 |
+| 17 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
+| 18 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
+| 19 | [Sea Song](https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Sea Song](https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8) | 3:38 |
 | 20 | [Rorschach Baby](https://open.spotify.com/track/0O2RsuGEalMk2zUGoBAAKp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Rorschach Baby](https://open.spotify.com/album/4YpKVvfqpCMdO3A3wI4DGu) | 3:26 |
 | 21 | [Prized Possession](https://open.spotify.com/track/0a65KzuGdGYMGAee4idItb) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Prized Possession](https://open.spotify.com/album/2ODWdOyl8zjGA5OG8g7huA) | 4:11 |
 | 22 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [Modern Romance](https://open.spotify.com/track/74Z1PVVlYjCHbG537ZujCV) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Modern Romance](https://open.spotify.com/album/0zbt17XLA4eXMoOJxIB3mO) | 3:44 |
 | 80 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 |
 
-Snapshot ID: `AAAAADH2PGIrMnZxwawGdgkS7iGJpCfZ`
+Snapshot ID: `AAAAAFsaJdYvhO1+G6MgcfAixGAK5Mn8`

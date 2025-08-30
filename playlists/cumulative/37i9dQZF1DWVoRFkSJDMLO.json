@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "From the continent to the islands with \ud83c\uddf3\ud83c\uddec ODUMODUBLVCK, \ud83c\uddec\ud83c\udded Stormzy and \ud83c\uddf3\ud83c\uddec Zlatan.",
+  "description": "From the continent to the islands with Skillibeng. \ud83c\uddef\ud83c\uddf2 ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 198388,
       "name": "Body To Body",
       "url": "https://open.spotify.com/track/6Bv7nMNKRwOkBZ1YCQBi1s"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 195567,
       "name": "Brick by Brick - Remix",
       "url": "https://open.spotify.com/track/3hwwN0Z0QFMZQ2Hrc71sQp"
@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 169146,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM"
@@ -5227,6 +5227,28 @@
     },
     {
       "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "album": {
         "name": "Caution / Turn Around",
         "url": "https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB"
       },
@@ -5300,7 +5322,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 185194,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7fD9ZKsr2JCYcTl1R2xGsu"
@@ -5672,7 +5694,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 150287,
       "name": "cock up",
       "url": "https://open.spotify.com/track/0jsq1Yww5yxO7HgheftvQx"
@@ -6346,7 +6368,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 138897,
       "name": "Dansa",
       "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
@@ -6958,6 +6980,48 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
+        "name": "Ditshele (feat. Mr Pilato, Debow Taliana & Nichole Rsa)",
+        "url": "https://open.spotify.com/album/1bU6JyrbAfzVmcGqDLOCGv"
+      },
+      "artists": [
+        {
+          "name": "DJ DADAMAN",
+          "url": "https://open.spotify.com/artist/6ju6BoDzlFPDxI9ghiSL4H"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Mr Pilato",
+          "url": "https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa"
+        },
+        {
+          "name": "DeBow Taliana",
+          "url": "https://open.spotify.com/artist/0yW2fVKc3kS8xFjld94LEX"
+        },
+        {
+          "name": "Nichole rsa",
+          "url": "https://open.spotify.com/artist/11DgvAJuF2XPxqRxlBLV3o"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447857,
+      "name": "Ditshele (feat. Mr Pilato, Debow Taliana & Nichole Rsa)",
+      "url": "https://open.spotify.com/track/6M8EKtxcO7FKqMK6oewPWR"
     },
     {
       "album": {
@@ -8216,7 +8280,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
@@ -9396,7 +9460,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 219773,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5sj0JsRnNZf73qFspMUkVY"
@@ -9624,6 +9688,36 @@
       "duration_ms": 156666,
       "name": "GANGSTA",
       "url": "https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1"
+    },
+    {
+      "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN"
     },
     {
       "album": {
@@ -11018,7 +11112,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 177349,
       "name": "Have Weh You Need",
       "url": "https://open.spotify.com/track/1Pdz9j4BlKzexfAzOcvR3d"
@@ -13870,7 +13964,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 147330,
       "name": "KOFFEE",
       "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
@@ -14556,7 +14650,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 151498,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
@@ -16511,6 +16605,28 @@
     },
     {
       "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/6mhi0uutyc7OVSRoGrwwbs"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/0PO1Kg4RNnAhUzgdPL3K23"
+    },
+    {
+      "album": {
         "name": "Mine (feat. Boslen)",
         "url": "https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll"
       },
@@ -18032,7 +18148,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 175935,
       "name": "No Sign of Weakness",
       "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
@@ -18268,6 +18384,28 @@
       "duration_ms": 192208,
       "name": "Not Worthy (feat. Nonso Amadi)",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/5ixmxYb8igVHAKWtiYRW37"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Tell Dem Turbo",
+          "url": "https://open.spotify.com/artist/1U4al41KHd0r80QCDjpvKn"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142733,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/6wdZTVY792lsULYUXynCdd"
     },
     {
       "album": {
@@ -21696,7 +21834,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 202245,
       "name": "Repare",
       "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
@@ -22066,7 +22204,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 158936,
       "name": "Romantic (with Masicka)",
       "url": "https://open.spotify.com/track/2pMUyYmRRwom1SdYzBtE17"
@@ -22438,7 +22576,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 270329,
       "name": "S.M.O.",
       "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
@@ -23863,6 +24001,28 @@
     },
     {
       "album": {
+        "name": "Slow Motion (feat. Lavbbe)",
+        "url": "https://open.spotify.com/album/7hqQDhx9nMaptTWNeG4HNb"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Lavbbe",
+          "url": "https://open.spotify.com/artist/6izI64ghLVdJ9C45YWx3Vm"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139770,
+      "name": "Slow Motion (feat. Lavbbe)",
+      "url": "https://open.spotify.com/track/3SIhhY5cRa6kyom2MFVjfa"
+    },
+    {
+      "album": {
         "name": "Smooth Lovin (feat. Popcaan)",
         "url": "https://open.spotify.com/album/46w7SIlPiaFDIcIetdFDzc"
       },
@@ -24778,7 +24938,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 179962,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/0cJBkXNp1ZtkFfzFD0YEPY"
@@ -26174,7 +26334,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155192,
       "name": "The Greatest Bend Over (Take It Easy) - Sean Paul Remix",
       "url": "https://open.spotify.com/track/6l516dJopj0o3xx4Svq5xH"
@@ -26970,7 +27130,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 160200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
@@ -30106,7 +30266,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 138267,
       "name": "Yes Baby",
       "url": "https://open.spotify.com/track/1iI2ODSVcF8o7XyvUit7PI"

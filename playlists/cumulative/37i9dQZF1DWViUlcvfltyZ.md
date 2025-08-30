@@ -2,7 +2,7 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia 🎸 VAEVA in cover
+> Rock, indie e punk dall'Italia 🎸 Giobia in cover
 
 1,593 songs - 3 day 16 hr 30 min
 

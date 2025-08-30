@@ -4,11 +4,11 @@
 
 > Relax and unwind with gentle piano covers.
 
-442 songs - 23 hr 22 min
+444 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(They Long To Be\) Close To You](https://open.spotify.com/track/2PJPNp8iKywuI1Pq1Vs9EW) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [\(They Long To Be\) Close To You](https://open.spotify.com/album/4siaxr50PMSkm8BlBvUP3b) | 2:41 | 2022-10-14 |  |
+| [\(They Long To Be\) Close To You](https://open.spotify.com/track/2PJPNp8iKywuI1Pq1Vs9EW) | [Jené Martins](https://open.spotify.com/artist/6ivuOAayX7AMI5dMc32BHo) | [\(They Long To Be\) Close To You](https://open.spotify.com/album/4siaxr50PMSkm8BlBvUP3b) | 2:41 | 2022-10-14 | 2025-08-30 |
 | [2 Be Loved](https://open.spotify.com/track/23BLITTCvIUxhiUmP7dCii) | [Gayle Michelle](https://open.spotify.com/artist/4J6JppkXRxpF6zfqAK9g1I) | [2 Be Loved](https://open.spotify.com/album/2sTiHHGGy1Le13cNYEnWta) | 2:47 | 2022-10-28 | 2023-06-23 |
 | [7 Years \- Piano Version](https://open.spotify.com/track/7HumU69n9DlGp6UdMkGw7W) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/4KlPbXSlaW03DnUXr4EqqR) | 2:43 | 2022-10-14 | 2023-06-14 |
 | [7 Years \- Piano Version](https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf) | 2:43 | 2022-08-01 | 2022-10-20 |
@@ -46,6 +46,7 @@
 | [Bad Habits \- Piano](https://open.spotify.com/track/377j3AdjXdy6LAqyyEfjGb) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ) | 3:16 | 2022-10-14 |  |
 | [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 | 2024-01-05 |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-10 |  |
+| [Beautiful Things](https://open.spotify.com/track/0OHFTKMwZoSFRT9oaFTAao) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Beautiful Things](https://open.spotify.com/album/6eLsyixrfDbTLHm27BcbBw) | 3:08 | 2025-08-29 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-03-17 |  |
 | [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-11-18 | 2023-10-06 |
 | [Believe](https://open.spotify.com/track/0N9xzUyUM5qsnPLzQctbkY) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Believe](https://open.spotify.com/album/2CJPmEHO5WizRLynmx3pN9) | 3:05 | 2025-02-14 |  |
@@ -395,6 +396,7 @@
 | [Toosie Slide](https://open.spotify.com/track/540xJtdKZQnBvLe3iNdsV5) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [Piano Covers, Vol\. 5 \(Best of 2020\)](https://open.spotify.com/album/4VesjmJ98I1ibuI4zhk595) | 2:47 | 2022-08-01 | 2023-06-23 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/0LW4aSbvelf7hxSrWyPWKp) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Total Eclipse of the Heart](https://open.spotify.com/album/7C1Ml2tE0e4AdxokNnv6RH) | 1:46 | 2022-10-14 | 2023-05-06 |
 | [Tough Love](https://open.spotify.com/track/6fiJcteH6fErcmD13PmiPq) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Tough Love](https://open.spotify.com/album/6yMais1OVuoMMei5VUH6Bt) | 2:45 | 2023-05-26 |  |
+| [True Colors](https://open.spotify.com/track/7HLCihRbYPRxTj95SLFYUA) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [True Colors](https://open.spotify.com/album/6NABuUWOur1uGNcy7WnQFC) | 3:07 | 2025-08-29 |  |
 | [True Colors \- Piano Version](https://open.spotify.com/track/047B5xypjW3iozKNgJgHMK) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part I](https://open.spotify.com/album/1oAIunhTkzflIbFknRJKaO) | 2:55 | 2022-08-01 |  |
 | [Un\-Break My Heart \- Piano Version](https://open.spotify.com/track/0BzvsmMbasJqL2UQQWISjm) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:06 | 2022-11-18 | 2023-05-06 |
 | [Under Pressure](https://open.spotify.com/track/5YCab8agd3ARAF7Y3Z4wbx) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Love Of My Life \(Tribute to Queen\)](https://open.spotify.com/album/5vUFHXS6MNa3HnJruSpda8) | 3:07 | 2022-08-01 | 2024-01-19 |
@@ -409,7 +411,7 @@
 | [Water Fountain](https://open.spotify.com/track/6kyed7E6Y1O1qVtT5D5noi) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Water Fountain](https://open.spotify.com/album/0JBPp7cnzacwTDBNGh7O0P) | 2:46 | 2023-05-26 |  |
 | [Waterloo](https://open.spotify.com/track/310hk7yFoeAwmwHG7uBoXZ) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Waterloo](https://open.spotify.com/album/3Dmo284cTPhCvZnhwb6s0a) | 3:23 | 2023-05-05 |  |
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2022-12-16 |  |
-| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 |  |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/2P26iKecxHzsb03fAtTYPq) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [we can't be friends \(wait for your love\)](https://open.spotify.com/album/7C0jw71ON3r4bEEOx1MyLg) | 3:31 | 2024-05-07 | 2025-08-30 |
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2022-10-14 | 2024-10-19 |
 | [We Dont talk anymore](https://open.spotify.com/track/6thKbfQ1vrawtg7L69FWfG) | [Alicia West](https://open.spotify.com/artist/4rY1r047Kp9NhePRYln96V) | [We Dont talk anymore](https://open.spotify.com/album/5sODmOL3t06qX9xcNoNIKh) | 3:05 | 2023-04-14 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-04-14 | 2024-12-21 |

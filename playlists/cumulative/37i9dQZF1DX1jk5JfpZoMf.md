@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-312 songs - 15 hr 20 min
+312 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2023-06-16 |  |
 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 | 2023-06-16 |  |
 | [April Rain Meditation](https://open.spotify.com/track/5XBmqFwqD1vd7mDqQLLneb) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:54 | 2023-06-16 |  |
-| [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-06-16 |  |
+| [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-06-16 |  |
 | [Barulho de Chuva Super Relaxante, Pt\. 01](https://open.spotify.com/track/2aetCfa3ybmDgecE1Rsf7J) | [Chuva Para Dormir](https://open.spotify.com/artist/2qE27oPLBZS3en1r1DIzhe), [Som De Chuva e Trovoadas](https://open.spotify.com/artist/0u6hC9vldLdqrv74BWRxkP), [Barulho De Chuva](https://open.spotify.com/artist/0lhLr0ciehx5g6hxih2aqk) | [Barulho de Chuva Super Relaxante](https://open.spotify.com/album/7LP9OGf8UNeQthhVowwEIR) | 1:40 | 2024-06-11 |  |
 | [Barulho de Chuva Super Relaxante, Pt\. 02](https://open.spotify.com/track/1dbxIyXBqQn0lneobMUgKn) | [Chuva Para Dormir](https://open.spotify.com/artist/2qE27oPLBZS3en1r1DIzhe), [Som De Chuva e Trovoadas](https://open.spotify.com/artist/0u6hC9vldLdqrv74BWRxkP), [Barulho De Chuva](https://open.spotify.com/artist/0lhLr0ciehx5g6hxih2aqk) | [Barulho de Chuva Super Relaxante](https://open.spotify.com/album/7LP9OGf8UNeQthhVowwEIR) | 1:23 | 2024-06-11 |  |
 | [Bedtime Rain](https://open.spotify.com/track/0eTRqmdr60YwpEVQGm7Qh9) | [NATURALSOUND](https://open.spotify.com/artist/1aKwCfowxoqvstcBsPXUHw) | [Rainmaker](https://open.spotify.com/album/0INDBqB9dorOy9l6XtB2Gz) | 2:55 | 2023-06-16 | 2025-04-18 |
@@ -144,7 +144,6 @@
 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 | 2023-06-16 |  |
 | [My Cat is Sleeping](https://open.spotify.com/track/2OJXITcLwJB76rsF58EXkm) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 | 2023-06-16 |  |
 | [Mystery Sky](https://open.spotify.com/track/0U9ixnjG3qdi35doySolAj) | [Drop To Drop](https://open.spotify.com/artist/5EWTPC3fheVTv9t74wfwPV) | [Seasonal Forests](https://open.spotify.com/album/5rREZjyaZ07DvdorgEeOWb) | 2:36 | 2023-06-16 |  |
-| [Natural Sound Therapy](https://open.spotify.com/track/4oKa2Lycq6g5J8nXVq3EGO) | [Noise of H2O](https://open.spotify.com/artist/21hJw24d3OPV9MiJWDytd7) | [Noise of H2O](https://open.spotify.com/album/7aURq5J4HTW5wjUSvuEMXU) | 2:19 | 2023-06-16 |  |
 | [Nature Rain](https://open.spotify.com/track/2lHDpSltSbrgpvSF71ohwc) | [Relaxing Nature Recordings](https://open.spotify.com/artist/2oqu88JCOi265HJuVacifj) | [Nature Rain](https://open.spotify.com/album/3n5NiiGsPwVwm5XJgFAdom) | 2:13 | 2023-06-16 |  |
 | [Nectar Rain](https://open.spotify.com/track/2BNnlyMecPqvEp6rzIEsTz) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:59 | 2023-06-16 |  |
 | [Nederbörd](https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Nederbörd](https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh) | 2:44 | 2023-06-16 |  |
@@ -237,7 +236,7 @@
 | [Rainy Mornings](https://open.spotify.com/track/65i10BbqAMPSQmyc4J8TKT) | [Forest FX Smith](https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq) | [Rainy Mornings](https://open.spotify.com/album/7g1No7q1YY0xckgQRkpRRT) | 2:00 | 2023-06-16 |  |
 | [Rainy Night In Amsterdam](https://open.spotify.com/track/0xfvnTUO5RDdXJLqkOUSuR) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 | 2023-06-16 |  |
 | [Rainy Nights](https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75) | [humidum](https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp) | [Rainy Nights](https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO) | 3:28 | 2023-06-16 |  |
-| [Rainy Nights](https://open.spotify.com/track/59HBXhrKnDd9TyWoLvGcef) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Soft Rain Sounds](https://open.spotify.com/album/0ayFkeOm0NzV53uwcNDMOO) | 2:26 | 2023-06-16 |  |
+| [Rainy Nights](https://open.spotify.com/track/59HBXhrKnDd9TyWoLvGcef) | [LLQ](https://open.spotify.com/artist/13CjCoUFyOddR0P1xCviSc) | [Soft Rain Sounds](https://open.spotify.com/album/0ayFkeOm0NzV53uwcNDMOO) | 2:26 | 2023-06-16 |  |
 | [Rainy Stoop](https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in Spring](https://open.spotify.com/album/2fe8KZKkPyGCvlH1uthPIh) | 2:24 | 2023-06-16 |  |
 | [Rainy Woodland](https://open.spotify.com/track/5iDpVUW4VPL2ZfuDVwQqIz) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Rainy Woodland](https://open.spotify.com/album/5pAsWfdaL1FZmE9OWbH4dl) | 2:40 | 2023-06-16 |  |
 | [Reclining Rain](https://open.spotify.com/track/5VKBWMXSxr01PjR6y3BrHg) | [Rain Rec.](https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ) | [Reclining Rain](https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv) | 3:28 | 2023-06-16 |  |
@@ -282,6 +281,7 @@
 | [Soothing Rain Weather](https://open.spotify.com/track/7FWuaHWx6XZR62qPggVARn) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Rain State](https://open.spotify.com/album/2qxwVclv1DiA2myG6jnSwQ) | 2:20 | 2023-06-16 |  |
 | [Sound Of Rain](https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd) | [Rain ZPE](https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd) | [Falling Clouds](https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ) | 2:00 | 2023-06-16 |  |
 | [Sounds of Nature: Dripping Rain](https://open.spotify.com/track/247djZ4tbKkV0bPJ0gW5Zk) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Sounds of Nature](https://open.spotify.com/album/0IS1qYVq8wxYS4EWBPmGMp) | 2:18 | 2023-06-16 | 2024-03-22 |
+| [Spa Meditation Rain](https://open.spotify.com/track/4oKa2Lycq6g5J8nXVq3EGO) | [Noise of H2O](https://open.spotify.com/artist/21hJw24d3OPV9MiJWDytd7) | [Noise of H2O](https://open.spotify.com/album/7aURq5J4HTW5wjUSvuEMXU) | 2:42 | 2023-06-16 |  |
 | [Spring Rain](https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46) | [Deszcz](https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz) | [Tea & Rainy Days](https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03) | 3:32 | 2023-06-16 |  |
 | [Standing In The Rain](https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:42 | 2023-06-16 |  |
 | [starlit rainfall](https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [peaceful showers \(rain\)](https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x) | 2:41 | 2023-06-16 | 2024-04-19 |

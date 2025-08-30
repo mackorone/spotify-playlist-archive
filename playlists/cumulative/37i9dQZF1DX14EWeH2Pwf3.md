@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Le\-one in cover della playlist urban più grande in Italia 🔥
+> Astro in cover della playlist urban più grande in Italia 🔥
 
-849 songs - 1 day 17 hr 26 min
+850 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-05-30 | 2024-09-24 |
 | [38 \(feat\. RRARI DAL TACCO, Artie 5ive\)](https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:44 | 2025-08-07 |  |
 | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [3SOME \(feat\. VillaBanks\)](https://open.spotify.com/album/1YIIGgWV5CCDfAC7FaHy0u) | 2:02 | 2024-06-20 | 2024-07-19 |
+| [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/track/1fhy5qglfGbaK3cM0qlYBw) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [4 Zeri \(feat\. Silent Bob\)](https://open.spotify.com/album/4AYMeDkVcwrC4X42POYOmf) | 2:30 | 2025-08-29 |  |
 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 | 2024-09-09 | 2024-12-13 |
 | [64 BARRE DI DOPAMINA \(Red Bull 64 Bars\)](https://open.spotify.com/track/0MaW34pxaFOSYPO0m9cMSn) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Disse](https://open.spotify.com/artist/2t2mbWoOQGudGL9xmLZVVC), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [64 BARRE DI DOPAMINA \(Red Bull 64 Bars\)](https://open.spotify.com/album/3tTqmkEGfwjbmqbhBr5TPU) | 3:03 | 2025-04-10 | 2025-04-25 |
 | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 | 2024-09-23 | 2024-10-25 |
@@ -282,7 +283,7 @@
 | [F\*ck Love](https://open.spotify.com/track/7BZ5YmSnyfMzw3q9RI4MHk) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0) | [F\*ck Love](https://open.spotify.com/album/27P8029lZ9dq9w3S9uwOLL) | 3:23 | 2025-04-24 | 2025-05-23 |
 | [Face to face 2](https://open.spotify.com/track/3Y9w1o3DIroJsJN3WG5RMy) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Face to face 2](https://open.spotify.com/album/4bQKXlrKLDgBuKFTGK3nO7) | 3:13 | 2024-01-25 | 2024-02-23 |
 | [FACTS](https://open.spotify.com/track/4ZqFq28LRJTj8Z82EoLibg) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [FACTS](https://open.spotify.com/album/3bETgmv7jeiL9ztdKumkUf) | 2:03 | 2024-02-22 | 2024-03-01 |
-| [Fammi Un Sorriso](https://open.spotify.com/track/02YGjSuE9z5UJQclMUaNUk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Fammi Un Sorriso](https://open.spotify.com/album/0N0fLWG8aHBO83FOMU26AF) | 2:56 | 2025-07-31 |  |
+| [Fammi Un Sorriso](https://open.spotify.com/track/02YGjSuE9z5UJQclMUaNUk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Fammi Un Sorriso](https://open.spotify.com/album/0N0fLWG8aHBO83FOMU26AF) | 2:56 | 2025-07-31 | 2025-08-30 |
 | [Fantasmi \(feat\. Geolier\)](https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:13 | 2023-01-19 | 2023-10-20 |
 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 | 2023-11-09 | 2023-12-15 |
 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 | 2023-06-29 | 2023-11-24 |

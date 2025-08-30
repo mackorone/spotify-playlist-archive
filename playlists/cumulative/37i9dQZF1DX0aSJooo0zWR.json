@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: Chick Corea",
+  "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
   "name": "Fusion Fest",
   "tracks": [
     {
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 278240,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/5dxRmXw3CeUEvWeALoJ1b2"
@@ -2902,6 +2902,24 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
+      "album": {
+        "name": "TRUE BLUE",
+        "url": "https://open.spotify.com/album/0mvSa2TjHsZKhP3whGKmdP"
+      },
+      "artists": [
+        {
+          "name": "CASIOPEA",
+          "url": "https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276880,
+      "name": "SKY SO HIGH",
+      "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
     },
     {
       "album": {

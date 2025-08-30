@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond & Juancho de la Espriella
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,954 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,941 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 2 | [Ay Me Enamoré](https://open.spotify.com/track/7DRlRTXgYF8lhyASJEXkIA) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [La Jerarquía](https://open.spotify.com/album/0rbgeaPpbLvETwqErcbvIU) | 4:15 |
 | 3 | [UN VALLENATICO](https://open.spotify.com/track/2IFAhnHOXL1UDx1iVXy2eD) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [DR\. DEALER](https://open.spotify.com/album/0Ic6Jvj4b7fbHBDQfuAIgT) | 3:55 |
 | 4 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
-| 5 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
-| 6 | [Me Espera Algo Mejor](https://open.spotify.com/track/5ClDHzE6hQw2gG520sEDq1) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [JORGITO](https://open.spotify.com/album/5FvL6Lv5S8FN88KMtLdLK5) | 3:00 |
-| 7 | [DESESPERADO](https://open.spotify.com/track/1JfWU4M4wsLxmefinlXrWw) | [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Juank Ricardo](https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ) | [DESESPERADO](https://open.spotify.com/album/5K5hnCuL3a0HqLDAgO5MfJ) | 3:51 |
-| 8 | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 |
-| 9 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
+| 5 | [EL HEREDERO \(INTRO\)](https://open.spotify.com/track/0MbPHgCOcu28kVyfjOgVhF) | [Samuel Morales](https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS), [Juank Ricardo](https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ) | [LA OTRA PELÍCULA](https://open.spotify.com/album/0SUQB6St5tqzJy60D9jruo) | 2:34 |
+| 6 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
+| 7 | [Me Espera Algo Mejor](https://open.spotify.com/track/5ClDHzE6hQw2gG520sEDq1) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Victor Nain Jr](https://open.spotify.com/artist/6L89Apk33SwlxIPUwDOnf7) | [JORGITO](https://open.spotify.com/album/5FvL6Lv5S8FN88KMtLdLK5) | 3:00 |
+| 8 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
+| 9 | [La Pareja del Año](https://open.spotify.com/track/1UrUIluqeWP4Nvj8D9lJrv) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [La Pareja del Año](https://open.spotify.com/album/5J7pi4yXuAb1U3X3IOBW8V) | 4:21 |
 | 10 | [MIÉNTEME](https://open.spotify.com/track/6hSXXBr0OA96m7xp1DwZZm) | [LuisRa](https://open.spotify.com/artist/5rhQwhtlARXOxuskeZBElY), [Chide Garcia](https://open.spotify.com/artist/1QWdrs9RSQ2VapbV6Qf8Mh) | [LOS DE LA A](https://open.spotify.com/album/6xpn0ikmjDoL1g02nWKuXf) | 3:52 |
 | 11 | [Dos Horas](https://open.spotify.com/track/4lx3Sz9AXMNGfRTwMt6CbE) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Horas](https://open.spotify.com/album/7GoM4womlWrvCIgiRVdTAq) | 3:37 |
 | 12 | [A Tu Ladito](https://open.spotify.com/track/0gVleOayBLypjKiXLY24KD) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [A Tu Ladito](https://open.spotify.com/album/4OeWJEnv1nbzxEh59hj2qz) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `AAAAAHvdh/XXPO7Z/bb3EDMhDT7EvoQQ`
+Snapshot ID: `AAAAANH/dw4dvWyL0iHiLJWsrJrJxlz0`

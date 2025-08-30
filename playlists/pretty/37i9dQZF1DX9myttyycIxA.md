@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,152 likes - 137 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,164 likes - 137 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 136 | [Mountain](https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mountain](https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv) | 2:59 |
 | 137 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 |
 
-Snapshot ID: `AAAAAB2/35uJ9omU0uaQwFshZ4BFYj2H`
+Snapshot ID: `AAAAAEMXmPk8KYf69JLl41dPlNGszo5E`

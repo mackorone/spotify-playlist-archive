@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-965 songs - 1 day 19 hr 42 min
+966 songs - 1 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [DENY](https://open.spotify.com/track/43SIjaufu6brjwKphXhZCJ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [DENY](https://open.spotify.com/album/7rfd6I7XsQw2O1fDbZjEUU) | 3:11 | 2021-03-06 | 2022-05-28 |
 | [Destiny's Song](https://open.spotify.com/track/6xRsvyeB6omCCYdl7QSZes) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Destiny's Song](https://open.spotify.com/album/1EkLZjupNkyUjcZ7aon07W) | 2:41 | 2020-12-13\* | 2022-07-25 |
 | [Devil In The Flesh](https://open.spotify.com/track/21iXNHzNnjiKXrOm9b2cbk) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Devil In The Flesh](https://open.spotify.com/album/6iauzkIdWagMTjJjdbVBfk) | 2:37 | 2022-12-16 | 2023-01-28 |
-| [Dial Tone](https://open.spotify.com/track/2mIGK5ayzgKEjNvGKweeSR) | [6host](https://open.spotify.com/artist/5GP0ySZUhhFtH62pKtZJox) | [Dial Tone](https://open.spotify.com/album/009Aq8zqUelp55YBXvSu12) | 2:57 | 2023-09-01 |  |
+| [Dial Tone](https://open.spotify.com/track/2mIGK5ayzgKEjNvGKweeSR) | [6host](https://open.spotify.com/artist/5GP0ySZUhhFtH62pKtZJox) | [Dial Tone](https://open.spotify.com/album/009Aq8zqUelp55YBXvSu12) | 2:57 | 2023-09-01 | 2025-08-30 |
 | [Die for You](https://open.spotify.com/track/0ZUlJicyoaZK09nIbSk1LA) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc), [autrioly](https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU) | [Winters End](https://open.spotify.com/album/3Hms4FzfCLKUugygjuiDzs) | 1:45 | 2023-09-01 |  |
 | [Die Slow \(with Strick\)](https://open.spotify.com/track/6wuGK7wlZFjX2NYmParJwl) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 3:57 | 2021-10-23 | 2021-10-30 |
 | [Difference](https://open.spotify.com/track/6tiENvREXsXPDdnMGoioP0) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Difference](https://open.spotify.com/album/0rsaIaZUYzykvEd88ibh6g) | 3:07 | 2021-08-07 | 2022-07-08 |
@@ -738,6 +738,7 @@
 | [Sick of Me Too](https://open.spotify.com/track/5p10pR7Hs1nM99bUwCAaqW) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3r9SgXJ51nliEoI6Az7zO5) | 2:31 | 2023-09-01 |  |
 | [SIDELINES](https://open.spotify.com/track/37H6JPUcpcsdK7bpOuFOaE) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [I N V I S I B L E](https://open.spotify.com/album/5N1THhzRPr2A8xaIGb1JcC) | 2:50 | 2024-02-02 | 2024-02-28 |
 | [simping should be illegal](https://open.spotify.com/track/3vjf3wyTrNZoCjS73NiQK0) | [fredo disco](https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx), [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9), [v0sco](https://open.spotify.com/artist/4tgZRAL7f51kfqYV6gWDCF) | [simping should be illegal](https://open.spotify.com/album/7n13YKdYaaAORePJ2rRHbn) | 1:57 | 2022-04-15 | 2022-04-24 |
+| [Sinner Pt\. 5](https://open.spotify.com/track/7FlrwTO8TiqFPAX2ZRBjvq) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Sinner Pt\. 5](https://open.spotify.com/album/7l4JiQdkQWIRMa8utPVzAZ) | 3:48 | 2025-08-29 |  |
 | [Sitting In Fire](https://open.spotify.com/track/6oXgRfFIvzWe83K5la8oI9) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Sitting In Fire](https://open.spotify.com/album/2rOi95NpQYDkhOitIPwm08) | 2:27 | 2020-12-13\* | 2022-10-15 |
 | [Situation](https://open.spotify.com/track/5w5pdKt5Ca3YbLXCQzu8CC) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [TheWitch&TheWizard](https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O) | 1:48 | 2023-03-13 | 2024-02-28 |
 | [Ski Mask](https://open.spotify.com/track/1TPoRvQHXxi9w4S0Ze5fkv) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ski Mask](https://open.spotify.com/album/3LVioYHDgyOAlEPvu8nDnZ) | 2:08 | 2021-06-12 | 2022-07-22 |

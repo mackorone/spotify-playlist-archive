@@ -15363,24 +15363,6 @@
     },
     {
       "album": {
-        "name": "\u300a\u9032\u884c\u66f2\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-        "url": "https://open.spotify.com/album/2gz0uMjALNTL7kACkbFlLp"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u6d69\u744b Howard Lee",
-          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
-        }
-      ],
-      "date_added": "2025-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3OwdzQWJ9jVwCDUtr0zqC2"
-    },
-    {
-      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5"
       },
@@ -19251,7 +19233,7 @@
         },
         {
           "name": "Faye \u8a79\u96ef\u5a77",
-          "url": "https://open.spotify.com/artist/4EHr1swZxnUxjAyCou2t4s"
+          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
         }
       ],
       "date_added": "2025-08-28",
@@ -28312,6 +28294,24 @@
       "duration_ms": 184695,
       "name": "\u5947\u602a?",
       "url": "https://open.spotify.com/track/6QcltYSQBRG1pdLBhku4AO"
+    },
+    {
+      "album": {
+        "name": "\u5954\u5411\u6211",
+        "url": "https://open.spotify.com/album/40uggO5kh6ybCsclDOJMZC"
+      },
+      "artists": [
+        {
+          "name": "Elvin Chang",
+          "url": "https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236883,
+      "name": "\u5954\u5411\u6211",
+      "url": "https://open.spotify.com/track/58h11GE1qS1sWkqFX7pIIS"
     },
     {
       "album": {
@@ -47906,6 +47906,24 @@
       "duration_ms": 229655,
       "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
       "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "album": {
+        "name": "\u300a\u9032\u884c\u66f2\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+        "url": "https://open.spotify.com/album/2gz0uMjALNTL7kACkbFlLp"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u8108\u640f",
+      "url": "https://open.spotify.com/track/3OwdzQWJ9jVwCDUtr0zqC2"
     },
     {
       "album": {

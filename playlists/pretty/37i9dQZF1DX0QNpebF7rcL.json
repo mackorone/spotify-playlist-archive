@@ -1,13 +1,69 @@
 {
-  "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 140872,
+  "description": "The best in blues right now. Cover: Eric Gales",
+  "num_followers": 140864,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOqnqtFKUco9qSjX29r2Z//uywfM",
+  "snapshot_id": "AAAAAFGhCU3HqD4sk5Z1P22l1WnrLiUs",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "A Tribute To LJK",
+        "url": "https://open.spotify.com/album/3dZgjUnU9DipC2Jj9CS2yz"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "You Shouldn't Have Left Me",
+      "url": "https://open.spotify.com/track/3U35O0EdGo2tZQ1Gk5BoM2"
+    },
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "Nothin\u2019 But Your Love",
+        "url": "https://open.spotify.com/album/2OeyY24Uf4MO2kdV6sPKPM"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Nothin\u2019 But Your Love",
+      "url": "https://open.spotify.com/track/5LNtl0Xva1BLmZChbTSpBQ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "Who Do You Love",
+        "url": "https://open.spotify.com/album/6lTNovqqr00syqgcNwQUwS"
+      },
+      "artists": [
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Datrian Johnson",
+          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
+        },
+        {
+          "name": "MEM_MODS",
+          "url": "https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv"
+        }
+      ],
+      "duration_ms": 268426,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux"
+    },
     {
       "added_at": "2025-08-22 04:00:12",
       "album": {
@@ -127,26 +183,6 @@
     {
       "added_at": "2025-08-01 04:00:22",
       "album": {
-        "name": "Dont Wanna Go Home (feat. Joe Bonamassa)",
-        "url": "https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 323013,
-      "name": "Don't Wanna Go Home (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR"
-    },
-    {
-      "added_at": "2025-08-01 04:00:22",
-      "album": {
         "name": "LONELY AVENUE",
         "url": "https://open.spotify.com/album/57t7JEyilKnh23rmBNRCCM"
       },
@@ -181,30 +217,6 @@
       "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
     {
-      "added_at": "2025-08-01 04:00:22",
-      "album": {
-        "name": "One Kind Favor",
-        "url": "https://open.spotify.com/album/22pbmmk7EVQsrI2YEo9d4b"
-      },
-      "artists": [
-        {
-          "name": "Luther Dickinson",
-          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
-        },
-        {
-          "name": "Datrian Johnson",
-          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
-        },
-        {
-          "name": "MEM_MODS",
-          "url": "https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "One Kind Favor",
-      "url": "https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh"
-    },
-    {
       "added_at": "2025-07-18 04:00:10",
       "album": {
         "name": "Breakthrough",
@@ -235,22 +247,6 @@
       "duration_ms": 253354,
       "name": "See Through",
       "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
-    },
-    {
-      "added_at": "2025-06-27 04:00:25",
-      "album": {
-        "name": "Voodoo Charm",
-        "url": "https://open.spotify.com/album/0aaGePntScMAQkV87h4rr3"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Voodoo Charm",
-      "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
     },
     {
       "added_at": "2025-07-04 04:00:17",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Bryan Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,922 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,913 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 8](https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [The Sound of You Laughing](https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8) | 0:00 |
+| 1 | [A Sharp Pain](https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [The Sound of You Laughing](https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8) | 3:38 |
 | 2 | [i can see my house from here](https://open.spotify.com/track/2P8fkvUIsc5IWuyxVXe4gj) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [i can see my house from here](https://open.spotify.com/album/591BNdcCsjsCseHBIYLP8q) | 3:08 |
 | 3 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
 | 4 | [How's That Workin' For Ya?](https://open.spotify.com/track/4HVzU5ygBChTzF4pZVyXy7) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/5hSKVnqKENCvocHGmMCl4W) | 2:24 |

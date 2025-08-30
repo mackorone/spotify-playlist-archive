@@ -4,7 +4,7 @@
 
 > 
 
-2,487 songs - 5 day 10 hr 4 min
+2,488 songs - 5 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1054,6 +1054,7 @@
 | [Hollow](https://open.spotify.com/track/1wbSUhtaRqUHYe62gfy6QB) | [Nightcraft](https://open.spotify.com/artist/4IQIMZPSBfizEPPGdCmsXV), [Digital Mindz](https://open.spotify.com/artist/6BPReCUBYOimAPOqJqQXLW) | [Hollow](https://open.spotify.com/album/7bia7aTsUp7bBIrVg6BTMC) | 3:49 | 2024-11-05 |  |
 | [Home](https://open.spotify.com/track/2NZI4cgJGEQHwUrhVETKC2) | [DEATH CODE](https://open.spotify.com/artist/4TxNiQlZXcBj79ySTx9f2o), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [Home](https://open.spotify.com/album/4WRxip6fMNIVdnFReO1KFh) | 3:12 | 2023-11-10 |  |
 | [Homicide](https://open.spotify.com/track/4DqFuWonygp5oyNq78azZW) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [Valhalla](https://open.spotify.com/artist/1r2WudV60Fg4uwKoK0uNNe) | [Homicide](https://open.spotify.com/album/5Ksk7JMhkLI9IH7EIoOXlt) | 2:49 | 2025-08-02 |  |
+| [Hoppa](https://open.spotify.com/track/2jZ870G5eHOdCloPNXJmwi) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv) | [Hoppa](https://open.spotify.com/album/5yfzgdbXAWtu5uqQd69mQg) | 2:26 | 2025-08-29 |  |
 | [HORZ](https://open.spotify.com/track/63XSIUi0yh95ngN7TyiQjJ) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [HORZ](https://open.spotify.com/album/2T9tjk2wg883KFow9nY4BD) | 2:31 | 2023-04-14 |  |
 | [HORZ \- EQUAL2 Remix](https://open.spotify.com/track/6XxzAr41jdGNGSM6u0Gqj7) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [HORZ \(EQUAL2 Remix\)](https://open.spotify.com/album/0DMUP1OFg4y5Znu36rp307) | 3:07 | 2023-08-14 |  |
 | [Hot](https://open.spotify.com/track/4Rw6U9OuXIjcCUya3ybPBy) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [Hot](https://open.spotify.com/album/02Nqu8iIMZ8QZsrM764L72) | 2:27 | 2024-06-04 |  |

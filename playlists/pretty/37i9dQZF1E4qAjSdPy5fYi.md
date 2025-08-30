@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With STYXVII, Joshua Lanuarii, UrvTek and more
+> With UrvTek, STYXVII, Joshua Lanuarii and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 601 likes - 50 songs - 2 hr 11 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [PAY ME BACK](https://open.spotify.com/track/4Oq3K9tf8q51eJwvAwDVvg) | [rattlepate](https://open.spotify.com/artist/4XCl7D0wQ4GcmDxPlOJHVE) | [RATTLEPATE'S OSC BONANZA](https://open.spotify.com/album/6vupXZ0TwVuf9NbeLjI17l) | 3:33 |
 | 50 | [LESBIAN FURRY RAVE](https://open.spotify.com/track/6SqGrvaHJuJvfuCSNKNAS4) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [PUPPY LOVER](https://open.spotify.com/album/5MRpoaBRHA6foRiPCljuPx) | 2:11 |
 
-Snapshot ID: `aLEdwgAAAADC5q+Ct3ZNlUD3CMOFv2NW`
+Snapshot ID: `aLJKMQAAAADuHKiw4bkWFr24E80qSKrk`

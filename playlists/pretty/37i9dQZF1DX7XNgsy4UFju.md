@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The best indie tracks of the moment\. Cover: Mac DeMarco
+> The best indie tracks of the moment\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,936 likes - 116 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,936 likes - 116 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 6 | [Chinatown In The Rain](https://open.spotify.com/track/6nbflG3dkyaa4YBoYSM8GM) | [Rohin](https://open.spotify.com/artist/0pUsChzvXQKeICRYbmlqWs) | [As The Light Fades](https://open.spotify.com/album/4N4APluc5Uj8rcjWvKFfnb) | 3:56 |
 | 7 | [New Distraction](https://open.spotify.com/track/46r8cyjsXu9XzjPsKovG4i) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [New Distraction](https://open.spotify.com/album/1K3sIlVrIeCs88uFLGNmZH) | 3:15 |
 | 8 | [Dyslexic Palindrome](https://open.spotify.com/track/0yuc3D0SWBZE2jhS1wJ5FG) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Dyslexic Palindrome](https://open.spotify.com/album/0vt6shKPsE4vfxbEK09bk0) | 4:02 |
-| 9 | [Track 11](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 0:00 |
+| 9 | [Sentimental](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 4:04 |
 | 10 | [Distance](https://open.spotify.com/track/3PKunRQLUFM8ZvMOKhBoAK) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Distance](https://open.spotify.com/album/0ToewkCodCvaw7jaCKCj0i) | 2:48 |
 | 11 | [Straight Line Was A Lie](https://open.spotify.com/track/2cZaZRwbtf5aZXtJC43tx4) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Straight Line Was A Lie](https://open.spotify.com/album/30Byf6kLkgZ3B2lp739Hlo) | 4:04 |
 | 12 | [All We Do Is Party!](https://open.spotify.com/track/6Djp3L2OnAdiY5FUeZU2v8) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi) | [All We Do Is Party!](https://open.spotify.com/album/3farHCCtddSnBUPtOrhTqc) | 2:42 |

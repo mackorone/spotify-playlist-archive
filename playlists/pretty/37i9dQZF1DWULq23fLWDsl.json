@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 338108,
+  "num_followers": 338214,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "High Violet",
-        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Bloodbuzz Ohio",
-      "url": "https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 225233,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "High Violet",
+        "url": "https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Bloodbuzz Ohio",
+      "url": "https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn"
     },
     {
       "added_at": "2025-03-14 11:46:42",

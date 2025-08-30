@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Cor
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,804 likes - 64 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,818 likes - 64 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

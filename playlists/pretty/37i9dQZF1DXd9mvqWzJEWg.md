@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=fCPfMM0RQayIrooGg2pkQg">Cairo CPT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,985 likes - 59 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,044 likes - 59 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 58 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 |
 | 59 | [Gqobho Zwii Zwii](https://open.spotify.com/track/1Ct0qzuwu6QfH9i2FABJhg) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG) | [Gqobho Zwii Zwii](https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9) | 5:39 |
 
-Snapshot ID: `AAAAAF994Rczkl3teep0W8VBKJ6KiO5C`
+Snapshot ID: `AAAAAHWjcPZ8mX3Fx4MPevF5KkOUAb8b`

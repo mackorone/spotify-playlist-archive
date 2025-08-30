@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Miss Pooja",
+  "description": "Catch the queens of Punjabi Pop. Cover: Simran Kaur Dhadli",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 196158,
       "name": "Dunali",
       "url": "https://open.spotify.com/track/1QodRL5tRwHyHkCf8jF6rE"
@@ -3308,6 +3308,28 @@
       "duration_ms": 155744,
       "name": "Putt Jatt Da",
       "url": "https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn"
+    },
+    {
+      "album": {
+        "name": "Pyar Ni Sarya",
+        "url": "https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "Pyar Ni Sarya",
+      "url": "https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy"
     },
     {
       "album": {

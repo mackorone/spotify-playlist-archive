@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-481 songs - 1 day 2 hr 50 min
+482 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Body Talk](https://open.spotify.com/track/3k4WaElAqj5vUu3sGkOla6) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Body Talk](https://open.spotify.com/album/6WRuSHJ3FJpMwkvP4cF8SK) | 2:20 | 2025-05-02 |  |
 | [Borders](https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu) | [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [Borders](https://open.spotify.com/album/520lYAIaHuWlSomNcLkEXU) | 3:57 | 2020-11-13 | 2022-03-16 |
 | [Bravado](https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR) | [Your Neighbors](https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP) | [Bravado](https://open.spotify.com/album/3laNAvwRxjkpj9yEtMtWtl) | 3:30 | 2020-11-13 | 2022-03-22 |
+| [By My Side](https://open.spotify.com/track/5FtOZv6MB6IWL2DneVYvoe) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [By My Side](https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4) | 2:46 | 2025-08-29 |  |
 | [Can't Get Enough](https://open.spotify.com/track/5Rty3bOR625NBZXPmwOhJ9) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Can't Get Enough](https://open.spotify.com/album/1cgPFINWSKQatDghI5NPMF) | 4:17 | 2025-02-14 |  |
 | [CAN'T GO HOME](https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [CAN'T GO HOME](https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc) | 2:52 | 2023-01-20 | 2023-02-18 |
 | [Can't Help Myself](https://open.spotify.com/track/2yicVJl6Tv5Nmb3FiJEb8S) | [99 Percent](https://open.spotify.com/artist/3hPPNy5OBzCU1icQO7Nrok) | [Can't Help Myself](https://open.spotify.com/album/59dbHZHA0lEwU9hEW3YVfy) | 2:34 | 2023-03-17 | 2025-08-16 |
@@ -382,7 +383,7 @@
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 | 2023-09-23 |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-07-29 |
 | [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-05-06 | 2023-09-02 |
-| [Stuck!](https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Stuck!](https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ) | 2:57 | 2023-03-31 |  |
+| [Stuck!](https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Stuck!](https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ) | 2:57 | 2023-03-31 | 2025-08-30 |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 | 2025-05-03 |
 | [Summertime Shine](https://open.spotify.com/track/2sc6ybY6Y6tbKw5TQ89TUu) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Summertime Shine](https://open.spotify.com/album/0UzT74w3LMM1fzf563H7c9) | 3:58 | 2020-11-13 | 2022-02-14 |

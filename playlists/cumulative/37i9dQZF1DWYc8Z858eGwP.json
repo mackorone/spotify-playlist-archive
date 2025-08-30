@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce"
+      },
+      "artists": [
+        {
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
+    },
+    {
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
       },
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 131307,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"

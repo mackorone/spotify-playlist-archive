@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Tommy W\u00c1",
-  "num_followers": 89020,
+  "num_followers": 17844,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZuZImmguHylTCFf89t5QOjD2NT",
+  "snapshot_id": "AAAAANh4WINPlisWI66BCPPtwel9D9id",
   "tracks": [
     {
       "added_at": "2025-08-15 00:01:34",
@@ -691,6 +691,22 @@
       "duration_ms": 124422,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5ocBo0wYEEkonAuvhBU2j8"
+    },
+    {
+      "added_at": "2025-08-29 09:59:56",
+      "album": {
+        "name": "WE HAPPEN TO THE WORLD",
+        "url": "https://open.spotify.com/album/7HWnS5yPd76Z4k33OjaE30"
+      },
+      "artists": [
+        {
+          "name": "Tatum",
+          "url": "https://open.spotify.com/artist/3177FcyIUM43NTARj2BABz"
+        }
+      ],
+      "duration_ms": 459945,
+      "name": "WE HAPPEN TO THE WORLD",
+      "url": "https://open.spotify.com/track/0Ad75CVKGaj6ic2yOqjvhJ"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -1399,26 +1415,6 @@
       "duration_ms": 343800,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
-        "name": "Jane",
-        "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Muthoni Njoroge",
-          "url": "https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP"
-        }
-      ],
-      "duration_ms": 177370,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
     }
   ],
   "unique_name": "Afro Indie",

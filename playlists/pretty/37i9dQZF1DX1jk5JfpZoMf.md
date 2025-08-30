@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,394 likes - 275 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,409 likes - 275 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 162 | [Continuous Rain](https://open.spotify.com/track/3D2GrmhenTD06ndgz7MjTJ) | [The Sound Of The Rain](https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh) | [Volume 1](https://open.spotify.com/album/7KpFe6Tc9LAfCS6R9povEi) | 3:24 |
 | 163 | [Rainfall Symphony](https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rainfall Symphony](https://open.spotify.com/album/21xYLPgL1tcmjJekVbq6UH) | 4:24 |
 | 164 | [Falling Asleep \(Rain\)](https://open.spotify.com/track/7aUgXN9QhXUKZYQwqRaeCS) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Calm Rain on Window](https://open.spotify.com/album/6IfQs8RN82tVkaDX5ewolm) | 2:50 |
-| 165 | [Natural Sound Therapy](https://open.spotify.com/track/4oKa2Lycq6g5J8nXVq3EGO) | [Noise of H2O](https://open.spotify.com/artist/21hJw24d3OPV9MiJWDytd7) | [Noise of H2O](https://open.spotify.com/album/7aURq5J4HTW5wjUSvuEMXU) | 2:19 |
+| 165 | [Spa Meditation Rain](https://open.spotify.com/track/4oKa2Lycq6g5J8nXVq3EGO) | [Noise of H2O](https://open.spotify.com/artist/21hJw24d3OPV9MiJWDytd7) | [Noise of H2O](https://open.spotify.com/album/7aURq5J4HTW5wjUSvuEMXU) | 2:42 |
 | 166 | [Prado la Paz](https://open.spotify.com/track/34o6NtWfKIR45JAIdh1sr1) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Prado La Paz](https://open.spotify.com/album/33Z3RlFM5GBQoNHIRduBFJ) | 2:48 |
 | 167 | [Friskt Regn](https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Regn](https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr) | 2:59 |
 | 168 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 |
@@ -186,7 +186,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 176 | [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 |
 | 177 | [Consistent Rain](https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Consistent Rain](https://open.spotify.com/album/11wLvp7lKyBLSo6csOmJCo) | 2:22 |
 | 178 | [Sleepy Rain Sounds](https://open.spotify.com/track/0bfuV9XkfHaMOJbxX9AUoJ) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Sleepy Rain Sounds](https://open.spotify.com/album/0JPekW780Lxd4Gz0bR2872) | 2:34 |
-| 179 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 |
+| 179 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [Scientific Sleep](https://open.spotify.com/artist/02Mjmf0YHGLykH3ET3nJ37) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 |
 | 180 | [Relaxing Rain](https://open.spotify.com/track/1sykIweIzrpcdBDeofXx1I) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 |
 | 181 | [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 |
 | 182 | [Regn I Skogen](https://open.spotify.com/track/3n0g7f7OHnyil4JBFNvrdz) | [Landsbygden](https://open.spotify.com/artist/2UGkwLMYHiydn6oQJt3FSw) | [Regn I Skogen](https://open.spotify.com/album/6JFWvRWg6XdydSti2pOagZ) | 2:48 |
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 203 | [Redondo Rainfall \- Seamless](https://open.spotify.com/track/0VY3TbaZrr4cJqf9jMfsrh) | [LA Washout](https://open.spotify.com/artist/1zESjGmQtkOyNddcdvh8lp) | [Rainy Romance](https://open.spotify.com/album/6E61GcevblPGio1v2VrQe5) | 2:20 |
 | 204 | [Raining Season](https://open.spotify.com/track/47tVC0DJOKzT4qv9ESdGLO) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Pouring Rain](https://open.spotify.com/album/0IpqGf0hWkDJ7M5LiRp8q2) | 3:36 |
 | 205 | [Nooo, Not On Our Wedding Day](https://open.spotify.com/track/35xQngar9kK3H6ytI5MclA) | [Plectrasonics](https://open.spotify.com/artist/2dyUwQxoYt3ersIjh4Z77v) | [Nightly Rain](https://open.spotify.com/album/6ctFzaJrahIfWFj5s1bgXZ) | 2:34 |
-| 206 | [Rainy Nights](https://open.spotify.com/track/59HBXhrKnDd9TyWoLvGcef) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Soft Rain Sounds](https://open.spotify.com/album/0ayFkeOm0NzV53uwcNDMOO) | 2:26 |
+| 206 | [Rainy Nights](https://open.spotify.com/track/59HBXhrKnDd9TyWoLvGcef) | [LLQ](https://open.spotify.com/artist/13CjCoUFyOddR0P1xCviSc) | [Soft Rain Sounds](https://open.spotify.com/album/0ayFkeOm0NzV53uwcNDMOO) | 2:26 |
 | 207 | [Rainy Nights](https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75) | [humidum](https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp) | [Rainy Nights](https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO) | 3:28 |
 | 208 | [Nectar Rain](https://open.spotify.com/track/2BNnlyMecPqvEp6rzIEsTz) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:59 |
 | 209 | [Soothing Rain Sound For Sleep](https://open.spotify.com/track/0rK0AFM0QPRDq9k1f79U4v) | [XTR Soundscapes](https://open.spotify.com/artist/4UhzSHdjRfhfUjGkuUObzY) | [Soothing Rain Sound For Sleep](https://open.spotify.com/album/0sFZ8Q8H5391qXQRSgsbCw) | 3:04 |

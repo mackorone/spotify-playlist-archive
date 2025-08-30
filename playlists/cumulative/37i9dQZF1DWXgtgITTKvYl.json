@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1976",
+        "url": "https://open.spotify.com/album/3Lacl3x3kFDUNDaXwKH4JN"
+      },
+      "artists": [
+        {
+          "name": "Giobia",
+          "url": "https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434318,
+      "name": "1976",
+      "url": "https://open.spotify.com/track/3y29lHaC7hjPrIkiuMvtDB"
+    },
+    {
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/64GNZmjJa3CAYjAQR3koe4"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 304280,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/2bDdS6aexSEcorYRlUsPsR"
@@ -1720,6 +1738,28 @@
       "duration_ms": 350085,
       "name": "Ego Death (feat. Steve Vai)",
       "url": "https://open.spotify.com/track/7xyvWSVkxaoLdSuEdgdhBe"
+    },
+    {
+      "album": {
+        "name": "Eightfold Fence",
+        "url": "https://open.spotify.com/album/4fH1WA8QnNL84cD4EvI5E9"
+      },
+      "artists": [
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Mariko Muranaka",
+          "url": "https://open.spotify.com/artist/6fq7JvH0T63V1KPNxrBraE"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Eightfold Fence",
+      "url": "https://open.spotify.com/track/6i9XMp9jw7e90Mopc94FoD"
     },
     {
       "album": {
@@ -2876,7 +2916,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 321744,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/48xJvZbgqKyKpaXwetW3vr"
@@ -3394,7 +3434,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 515018,
       "name": "Keepers of the Light",
       "url": "https://open.spotify.com/track/4PXiPgDqyU6jsXPuWuYXzh"
@@ -6451,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "The 5th Law",
+        "url": "https://open.spotify.com/album/1npulGf5kCQoe7x7GGrEoD"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121730,
+      "name": "The 5th Law",
+      "url": "https://open.spotify.com/track/2KMZ1xgGefGnO3WnMC5G6o"
+    },
+    {
+      "album": {
         "name": "War Is Over",
         "url": "https://open.spotify.com/album/4QAEcrM4zKTByiscO3eA90"
       },
@@ -6906,6 +6964,24 @@
       "duration_ms": 408266,
       "name": "The Power of Eve",
       "url": "https://open.spotify.com/track/69ht2ZAibPf10sITatr7Ti"
+    },
+    {
+      "album": {
+        "name": "The Prophecy",
+        "url": "https://open.spotify.com/album/7LwfNjzJnGx4ryGUdwBUux"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Soul",
+          "url": "https://open.spotify.com/artist/5kL0FLCWlo2xLmyRI68bW4"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402102,
+      "name": "The Prophecy",
+      "url": "https://open.spotify.com/track/7D8T5d8VD0iTY8lSElBQ5z"
     },
     {
       "album": {
@@ -7714,7 +7790,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 297751,
       "name": "We'll Never Know (feat. Floor Jansen) - No Narration",
       "url": "https://open.spotify.com/track/0PqrRIOVpPBt8jNGHBE6Sq"

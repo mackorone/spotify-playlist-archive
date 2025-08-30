@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-588 songs - 1 day 9 hr 33 min
+589 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,12 +429,13 @@
 | [Raha \(feat\. Zuchu\)](https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Raha \(feat\. Zuchu\)](https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J) | 3:37 | 2024-05-09 | 2024-10-04 |
 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
 | [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-19 |  |
-| [Rewind](https://open.spotify.com/track/4V3hEprf54KxtlKyGh5auQ) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Rewind](https://open.spotify.com/album/1JxzjdnDjZuxWHCf2ZCN2Y) | 3:19 | 2025-06-19 |  |
+| [Rewind](https://open.spotify.com/track/4V3hEprf54KxtlKyGh5auQ) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Rewind](https://open.spotify.com/album/1JxzjdnDjZuxWHCf2ZCN2Y) | 3:19 | 2025-06-19 | 2025-08-30 |
 | [Rockabye](https://open.spotify.com/track/20QBNMa1J6DgJErBLLF9ZM) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Rockabye](https://open.spotify.com/album/0jLdOcmIppSM5XCIMZIAtd) | 3:08 | 2023-04-27 | 2023-09-08 |
 | [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2023-06-01 | 2023-10-27 |
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 | 2024-11-29 |
 | [Sacrifice](https://open.spotify.com/track/3PHxramNrA3dkxziJzaRXd) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Sacrifice](https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG) | 3:20 | 2024-04-11 | 2024-11-08 |
 | [Salama \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/6AZcEHJOS0LWmTFsJsdsIR) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Salama \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/6KUm9AfsiHbAmszDEUHOAX) | 3:43 | 2025-05-15 |  |
+| [Sale Sale](https://open.spotify.com/track/38I89rKTy93qBoAXThI4Nk) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Time Traveller](https://open.spotify.com/album/1A4qovlVQPxDt6wkk7KZtf) | 3:35 | 2025-08-28 |  |
 | [Samaleko](https://open.spotify.com/track/1TfAUIxVO6eUrM3aSSsJWw) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Samaleko](https://open.spotify.com/album/3U9ZAB16h5kSsqV93wympg) | 3:02 | 2023-12-14 | 2024-06-01 |
 | [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-30 | 2025-06-06 |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 680 likes - 367 songs - 19 hr 15 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 682 likes - 367 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 175 | [Shadow in the Dark](https://open.spotify.com/track/4bIAlhrgDknR6iPH1ZW4ES) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 4:14 |
 | 176 | [JUST ARTIST STRUGGLES](https://open.spotify.com/track/2wZUYejbABGk8QPZZbadFa) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [JUST ARTIST STRUGGLES](https://open.spotify.com/album/0jP65We8pL1jznmxY2YsNp) | 2:16 |
 | 177 | [pulsar](https://open.spotify.com/track/4mvO5VCVcgQmpaj9rm6aNq) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:24 |
-| 178 | [boosterpack fx](https://open.spotify.com/track/1LfzbK5FAHP7C1kIZCAUzz) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 3:12 |
+| 178 | [boosterpack fx](https://open.spotify.com/track/1LfzbK5FAHP7C1kIZCAUzz) | [bea4real](https://open.spotify.com/artist/2TLhLQc2Y4cIGC5gg65zSH), [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 3:12 |
 | 179 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 |
 | 180 | [Are you for me?](https://open.spotify.com/track/2mOw8RRSIC6wPocTRuaITf) | [Koa](https://open.spotify.com/artist/1D2fuywbAodeGUc1xitNJ7) | [Circles](https://open.spotify.com/album/4efUO1YCPDx3mrcaSGFbrD) | 2:24 |
 | 181 | [my world](https://open.spotify.com/track/0S0Sc5ynDo0RC2mJRhUOXG) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [my world](https://open.spotify.com/album/0BDh7Z4ckWU3FK7q94Ovyk) | 3:41 |
@@ -340,7 +340,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 330 | [with you](https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2) | [wisp](https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv) | [Brumal](https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8) | 2:39 |
 | 331 | [Screaming at the Top](https://open.spotify.com/track/3d2IuTn71tQpHEkXAO5VsY) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Schtewee](https://open.spotify.com/artist/052C9zO8Vd32kWv9fRwzi1) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 1:00 |
 | 332 | [X \(Bury It\)](https://open.spotify.com/track/5ScdZyIJtYlFUafW4zsiI3) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 4:02 |
-| 333 | [nap by the summit](https://open.spotify.com/track/3PsJTcsUEw1Vi5mVgIKoOw) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [dis](https://open.spotify.com/artist/5q0eSYbfVtgJ5V8YqOHPrD) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 1:58 |
+| 333 | [nap by the summit](https://open.spotify.com/track/3PsJTcsUEw1Vi5mVgIKoOw) | [bea4real](https://open.spotify.com/artist/2TLhLQc2Y4cIGC5gg65zSH), [dis](https://open.spotify.com/artist/5q0eSYbfVtgJ5V8YqOHPrD) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 1:58 |
 | 334 | [Seven Run](https://open.spotify.com/track/75snRWqGIsPV1bPwQl35bJ) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Seven Run](https://open.spotify.com/album/7I68LrOWt2J5w9h6Enn17c) | 1:37 |
 | 335 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 |
 | 336 | [Sleeve](https://open.spotify.com/track/6XuNHkA5iAVP5MZCFILt4r) | [Cathanol](https://open.spotify.com/artist/099yaibIXjBmQumhcPayiF) | [Detours](https://open.spotify.com/album/4Mo7Tfao2FVSl916lHOd6D) | 4:14 |

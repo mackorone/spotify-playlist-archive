@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,970 likes - 179 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,101 likes - 179 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 102 | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 |
 | 103 | [Espresso](https://open.spotify.com/track/2OjCGfWEUucEtxUICbLtwv) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Espresso](https://open.spotify.com/album/7ELfx0oBkNrKUznbqj9WBy) | 2:54 |
 | 104 | [How Deep Is Your Love \- from "Saturday Night Fever"](https://open.spotify.com/track/2FsOgkX2KYPegtaZJ5pchf) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Robin Gibb](https://open.spotify.com/artist/4vZduJO8Uukqzx64de5JxV), [Maurice Gibb](https://open.spotify.com/artist/6h4ALbc1G80KRRG7THwHic), [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY), [Paul Meyer](https://open.spotify.com/artist/31rALqMKxBY8SoTJhNwJhn) | [How Deep Is Your Love \- from "Saturday Night Fever"](https://open.spotify.com/album/5EdZ7r5mE1gSrtPqvPj52a) | 3:26 |
-| 105 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
+| 105 | [Wrecking Ball \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 106 | [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 |
 | 107 | [Run the World](https://open.spotify.com/track/2mCOqFJXKELQUjDnec3dFC) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:11 |
 | 108 | [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 |
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 139 | [Eleanor Rigby \- Live](https://open.spotify.com/track/0khHkwiDvthnAUoos65sT5) | [Ted Yoder](https://open.spotify.com/artist/2I8XgaisVpuyjgtBAVDGr9) | [Ted Yoder Band Live](https://open.spotify.com/album/0LXJ1VxJk1ngStZ91N46gV) | 4:03 |
 | 140 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 |
 | 141 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
-| 142 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
+| 142 | [Earned It \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
 | 143 | [Shallow Day](https://open.spotify.com/track/275wgtKr7leG3bk8dKmeSa) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [Shallow Day](https://open.spotify.com/album/2vUmVYXtbMq8JaUEw4QR0Y) | 4:18 |
 | 144 | [Perfect](https://open.spotify.com/track/33lI804DgErb7NSNWwkzxa) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [Perfect](https://open.spotify.com/album/4HwH5Vg7Ho7F8XlsSW1MPE) | 4:19 |
 | 145 | [Shivers \- Piano Version](https://open.spotify.com/track/3EfJK2rJtMjGZoIdBrFqh6) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [Shivers \(Piano Version\)](https://open.spotify.com/album/34ktTFpOFuZRQtfoW56aAj) | 3:15 |

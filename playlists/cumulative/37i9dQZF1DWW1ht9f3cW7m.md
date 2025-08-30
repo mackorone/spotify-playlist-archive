@@ -2,7 +2,7 @@
 
 ### [peach](https://open.spotify.com/playlist/37i9dQZF1DWW1ht9f3cW7m)
 
-> freshly squeezed good stuff 🥤 cover: keshi
+> freshly squeezed 📹  elle coves
 
 363 songs - 19 hr 38 min
 

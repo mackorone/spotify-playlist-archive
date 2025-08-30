@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 325954,
+  "num_followers": 326014,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAAD3qzwChSr0kqdO26o8Q6Fz",
+  "snapshot_id": "aK+cAAAAAAAZ+N32JwBMcNIWoQWMV6Ue",
   "tracks": [
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intoxication",
-        "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
-      },
-      "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "What's Love (feat. Akon)",
-      "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Right Now (Na Na Na) [Sped Up]",
         "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 226709,
       "name": "Right Now (Na Na Na) - Sped Up",
       "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intoxication",
+        "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "What's Love (feat. Akon)",
+      "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 215226,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 209013,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 215226,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
     },
     {
       "added_at": null,

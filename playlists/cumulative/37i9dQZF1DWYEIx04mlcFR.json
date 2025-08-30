@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con GRTSCH & Cuauh en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Miranda Santizo en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 207000,
       "name": "Bby te necesito",
       "url": "https://open.spotify.com/track/3Jb29JDq7RalOKKzhKwrvg"
@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 136200,
       "name": "Hablamos Despu\u00e9s",
       "url": "https://open.spotify.com/track/0tDFmbPwlKZWndRyNRgK8X"
@@ -5296,6 +5296,28 @@
       "duration_ms": 191703,
       "name": "Hoy te Dejo de So\u00f1ar",
       "url": "https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM"
+    },
+    {
+      "album": {
+        "name": "Huella",
+        "url": "https://open.spotify.com/album/2RmGhu8m9fSbPuiUKeCNT0"
+      },
+      "artists": [
+        {
+          "name": "Abraham G\u00dc",
+          "url": "https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc"
+        },
+        {
+          "name": "Amori",
+          "url": "https://open.spotify.com/artist/0DqJKNdYD842qcWpmHkw0m"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180372,
+      "name": "Huella",
+      "url": "https://open.spotify.com/track/1jGPestjbACKCQzvNL8eJg"
     },
     {
       "album": {
@@ -7542,7 +7564,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 218888,
       "name": "Mis Sue\u00f1os",
       "url": "https://open.spotify.com/track/0UIDlcyT0MHR5e0a6FnVE6"
@@ -8449,6 +8471,32 @@
     },
     {
       "album": {
+        "name": "No S\u00e9 Wey",
+        "url": "https://open.spotify.com/album/7ckecvUoHglGlM4WUOmooQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Sam Vazquez",
+          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126720,
+      "name": "No S\u00e9 Wey",
+      "url": "https://open.spotify.com/track/4QXu8TEEkqSGolUN1fsRsV"
+    },
+    {
+      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -8968,6 +9016,24 @@
       "duration_ms": 158181,
       "name": "Ojos De Ajonjol\u00ed",
       "url": "https://open.spotify.com/track/6FaS2G9rHTxNy7e7B7GHjS"
+    },
+    {
+      "album": {
+        "name": "Ojos Miel",
+        "url": "https://open.spotify.com/album/7LdjBFzmjhQ27of9URMbIP"
+      },
+      "artists": [
+        {
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "Ojos Miel",
+      "url": "https://open.spotify.com/track/1IDB14gIC8VgSQ5HzbO0Vn"
     },
     {
       "album": {
@@ -9705,6 +9771,24 @@
     },
     {
       "album": {
+        "name": "pr\u00e9ndelo",
+        "url": "https://open.spotify.com/album/4xAE5GchReEWtVZYBnkT02"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "pr\u00e9ndelo",
+      "url": "https://open.spotify.com/track/2F3fS5EYaakklVPtl9bEoJ"
+    },
+    {
+      "album": {
         "name": "KEVIN P\u00d3RTATE BIEN",
         "url": "https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN"
       },
@@ -9834,7 +9918,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 129600,
       "name": "q nos paso?",
       "url": "https://open.spotify.com/track/78yE1Acti9tNW62p43H7fY"
@@ -9962,6 +10046,24 @@
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
+    },
+    {
+      "album": {
+        "name": "Quiero M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/1YzqCqscV2j3KTd9xWmcnG"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171363,
+      "name": "Quiero M\u00e1s De Ti",
+      "url": "https://open.spotify.com/track/0H4ic3YcJJlTwaU6qeyzlp"
     },
     {
       "album": {
@@ -12594,7 +12696,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 153962,
       "name": "tu fiel admirador",
       "url": "https://open.spotify.com/track/06T0R0VwsZ1Oa5AHa17Y0R"
@@ -12800,7 +12902,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 191544,
       "name": "UN D\u00cdA INOLVIDABLE",
       "url": "https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI"
@@ -13460,6 +13562,24 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9"
+    },
+    {
+      "album": {
+        "name": "YA FUE",
+        "url": "https://open.spotify.com/album/0wkldeESfKm28XmZk9h5nv"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132986,
+      "name": "YA FUE",
+      "url": "https://open.spotify.com/track/3AneWUBSM5Zd4BnOIjLTYl"
     },
     {
       "album": {

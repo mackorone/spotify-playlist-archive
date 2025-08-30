@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,441 likes - 250 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,547 likes - 250 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 150 | [The Hedgehog Serenade](https://open.spotify.com/track/6NbuxsI6uUYENZUbT6V6X5) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [The Hedgehog Serenade](https://open.spotify.com/album/12KU3lcjZSKutfZ2G0xKMr) | 2:20 |
 | 151 | [Sleep Tight Little Friend](https://open.spotify.com/track/7AKWpfDjaLU8gfO8d548Jg) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Sleep Tight Little Friend](https://open.spotify.com/album/3pH2vq52FNWrXooyyY5u5L) | 1:53 |
 | 152 | [A Happy Dream](https://open.spotify.com/track/3bvKY28py9TwJAX7J00r54) | [Tim Forsman](https://open.spotify.com/artist/6WIsjeZGICaslPXO5dAGR7) | [A Happy Dream](https://open.spotify.com/album/6RI2a7LnSwtj7adIrCpniz) | 1:23 |
-| 153 | [A Whole New World](https://open.spotify.com/track/3uo60yCYpFb5Ydz5hlAiOp) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [A Whole New World](https://open.spotify.com/album/38KyweBKytncA0Ht8VHiTv) | 2:22 |
+| 153 | [A Whole New World](https://open.spotify.com/track/3uo60yCYpFb5Ydz5hlAiOp) | [Ezekiel Jones](https://open.spotify.com/artist/7zpJcEpavXB7mOIdj4rtE1) | [A Whole New World](https://open.spotify.com/album/38KyweBKytncA0Ht8VHiTv) | 2:22 |
 | 154 | [Night Tunes](https://open.spotify.com/track/6aYhTPqUp3vGeknEVFfYMT) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Night Tunes](https://open.spotify.com/album/1lTovW7jXyQL7BkNdzHTb1) | 2:03 |
 | 155 | [Just For You](https://open.spotify.com/track/5ATiP9nXYyxshwrkuyM3HK) | [Fröe](https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ) | [Just For You](https://open.spotify.com/album/3CEovghRY6jbrDGmdQkH3e) | 2:04 |
 | 156 | [Hush Little Baby](https://open.spotify.com/track/6n36fjtE5R8NOItQEASrIR) | [Pajama Llama](https://open.spotify.com/artist/29SbmvhRNO8sON3UBDpqoi) | [Hush Little Baby](https://open.spotify.com/album/60gsyVeVdB3799T3ZOf4Q2) | 2:13 |

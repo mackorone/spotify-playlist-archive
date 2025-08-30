@@ -2,7 +2,7 @@
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> New music from sombr, Laufey, Doja Cat, Offset & Gunna, Deftones, and more!
+> New music from Sabrina Carpenter, Blood Orange, The Kid LAROI, Young Thug, Balu Brigada, and more!
 
 30,268 songs - 66 day 14 hr 21 min
 

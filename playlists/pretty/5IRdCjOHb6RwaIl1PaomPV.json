@@ -1,13 +1,73 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Bennett Coast, MCR-T &amp; Six Sex, plus the latest cuts from Joon Gloom, Miss Madeline and more.",
-  "num_followers": 50755,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.",
+  "num_followers": 50751,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAdFDUv2n9E938Fs/Suguqe9hY7Xa30",
+  "snapshot_id": "AAAdJXDCpnIai2tdMuRJLGw04ETp+N45",
   "tracks": [
+    {
+      "added_at": "2025-08-29 17:40:27",
+      "album": {
+        "name": "Sinai Ray",
+        "url": "https://open.spotify.com/album/5KpoV1UIqmmkVAkZjG4SGs"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Sinai Ray",
+      "url": "https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ"
+    },
+    {
+      "added_at": "2025-08-29 17:40:55",
+      "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/0s4zRYCurz2MGs79EgfN0t"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "duration_ms": 132265,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/6FE2GKFS8DqrPZx45AOuyQ"
+    },
+    {
+      "added_at": "2025-08-29 17:41:33",
+      "album": {
+        "name": "Theorem",
+        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theorem",
+      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+    },
     {
       "added_at": "2025-08-15 18:58:51",
       "album": {
@@ -43,6 +103,42 @@
       "duration_ms": 225988,
       "name": "touch grass",
       "url": "https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth"
+    },
+    {
+      "added_at": "2025-08-29 17:43:03",
+      "album": {
+        "name": "Can's Gone Warm",
+        "url": "https://open.spotify.com/album/6d32RVZtGKQsmtUGLhHcs6"
+      },
+      "artists": [
+        {
+          "name": "Lauren Duffus",
+          "url": "https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l"
+        }
+      ],
+      "duration_ms": 278781,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/46UuJEBT3sWSaDxjmAA06j"
+    },
+    {
+      "added_at": "2025-08-29 17:41:19",
+      "album": {
+        "name": "Paradise Music Remixed",
+        "url": "https://open.spotify.com/album/1d5aheW7rrzsrImerG5IYq"
+      },
+      "artists": [
+        {
+          "name": "inter alia",
+          "url": "https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77"
+        },
+        {
+          "name": "Simon K",
+          "url": "https://open.spotify.com/artist/1C1pQYCA77tKEdedDLtc5i"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Heartring - Simon K Remix",
+      "url": "https://open.spotify.com/track/2MmwJn4JZqR2XzwlfzaxFw"
     },
     {
       "added_at": "2025-08-15 18:59:19",
@@ -249,26 +345,6 @@
       "url": "https://open.spotify.com/track/6MCwLgzWdyk7J7ctKW9wga"
     },
     {
-      "added_at": "2025-06-27 16:42:37",
-      "album": {
-        "name": "TDJ",
-        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        },
-        {
-          "name": "Busu",
-          "url": "https://open.spotify.com/artist/0dO6OEk896aswa3orK3zVG"
-        }
-      ],
-      "duration_ms": 187777,
-      "name": "Dare To Dream",
-      "url": "https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8"
-    },
-    {
       "added_at": "2025-06-27 16:42:43",
       "album": {
         "name": "TDJ",
@@ -307,22 +383,6 @@
       "duration_ms": 344565,
       "name": "choke enough (jamesjamesjames remix)",
       "url": "https://open.spotify.com/track/5sjv7SJb257ml19zGpOQYk"
-    },
-    {
-      "added_at": "2025-06-27 16:40:49",
-      "album": {
-        "name": "On The Beach",
-        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 256859,
-      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
-      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
     },
     {
       "added_at": "2025-06-27 16:39:50",
@@ -379,22 +439,6 @@
       "duration_ms": 160500,
       "name": "Illegal - Nia Archives Remix",
       "url": "https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro"
-    },
-    {
-      "added_at": "2025-06-27 16:43:25",
-      "album": {
-        "name": "Gotitas de Amor",
-        "url": "https://open.spotify.com/album/3hbiOYhFk0c64ufFFti8If"
-      },
-      "artists": [
-        {
-          "name": "Kablito",
-          "url": "https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Gotitas de Amor",
-      "url": "https://open.spotify.com/track/6wSMwltJkT68WQoKEUXqq4"
     },
     {
       "added_at": "2025-06-11 23:41:28",
@@ -1313,22 +1357,6 @@
       "url": "https://open.spotify.com/track/1pFIcTRvRD8mQAtdAYHIQT"
     },
     {
-      "added_at": "2025-03-21 17:05:31",
-      "album": {
-        "name": "Nylon",
-        "url": "https://open.spotify.com/album/5pq6Zhzlu5o3oDAyCdXGGt"
-      },
-      "artists": [
-        {
-          "name": "Icahera",
-          "url": "https://open.spotify.com/artist/3QZNIGH5b2myLTCnd4avOg"
-        }
-      ],
-      "duration_ms": 297177,
-      "name": "Nylon",
-      "url": "https://open.spotify.com/track/1h85BDvyYvA7xTSe94bVnC"
-    },
-    {
       "added_at": "2025-03-21 17:05:45",
       "album": {
         "name": "62 starz",
@@ -1379,26 +1407,6 @@
       "duration_ms": 222857,
       "name": "r u kissin any1?",
       "url": "https://open.spotify.com/track/7pCdAOcXQ8vhDpy98dGsGT"
-    },
-    {
-      "added_at": "2025-03-21 17:02:42",
-      "album": {
-        "name": "In My System",
-        "url": "https://open.spotify.com/album/7jPrnsK4kJCxXOcTBCuD79"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        },
-        {
-          "name": "BenjiFlow",
-          "url": "https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "In My System",
-      "url": "https://open.spotify.com/track/7eV6nvr7yf0pKSqdKU4jsD"
     },
     {
       "added_at": "2025-03-21 17:02:39",

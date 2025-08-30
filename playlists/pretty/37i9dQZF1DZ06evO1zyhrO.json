@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103371,
+  "num_followers": 103381,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAACqQILYhnEABbnssi3KALfy",
+  "snapshot_id": "aK+cAAAAAAAQQTxsYVd+phZLZHiJZuZE",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 198340,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 197690,
-      "name": "In Your Hands",
-      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 207543,
       "name": "Perfect Love",
       "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 197690,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "What's Your Flava? - Radio Edit",
-      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 184354,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "What's Your Flava? - Radio Edit",
+      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227131,
       "name": "Mr Right",
       "url": "https://open.spotify.com/track/4qRV3QCxMBMHiObL85agcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Hidden Agenda",
+      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 182315,
       "name": "Last Chance With You",
       "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC"
     },
     {
       "added_at": null,

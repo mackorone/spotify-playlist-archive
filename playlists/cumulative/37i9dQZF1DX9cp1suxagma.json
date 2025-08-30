@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Valentina Rico",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Nanpa B\u00e1sico & DFZM",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -885,6 +885,28 @@
     },
     {
       "album": {
+        "name": "C\u00c1LLATE",
+        "url": "https://open.spotify.com/album/7LQ8ReCFjrLR1iC4xPkYKk"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        },
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172777,
+      "name": "C\u00c1LLATE",
+      "url": "https://open.spotify.com/track/5kTGxJQVACs4mJmO7Emzuc"
+    },
+    {
+      "album": {
         "name": "C\u00e1mara Lenta",
         "url": "https://open.spotify.com/album/3NXbBQrzVnzHfBKhwcm1Nl"
       },
@@ -1433,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "En Tu Boca El Humo Me Sabe Mejor",
+        "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198957,
+      "name": "En Tu Boca El Humo Me Sabe Mejor",
+      "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
+    },
+    {
+      "album": {
         "name": "Encima De Mil",
         "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
       },
@@ -1748,6 +1792,24 @@
       "duration_ms": 177493,
       "name": "Feo",
       "url": "https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma"
+    },
+    {
+      "album": {
+        "name": "Flor de Loto",
+        "url": "https://open.spotify.com/album/1hpufU4yLRIGocMGkcSxWB"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155652,
+      "name": "Flor de Loto",
+      "url": "https://open.spotify.com/track/5alaBHAJt05jkDLmML9sYM"
     },
     {
       "album": {
@@ -2182,7 +2244,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 305898,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
@@ -2656,7 +2718,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 172926,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/311zbdjnHkGQAVvVWUpnzK"
@@ -3606,7 +3668,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 203832,
       "name": "Por Pura Curiosidad",
       "url": "https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz"
@@ -4536,7 +4598,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 217293,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5NOHPW4eJSnYOr705Kaivl"
@@ -4878,6 +4940,24 @@
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+    },
+    {
+      "album": {
+        "name": "Quince de Caminos",
+        "url": "https://open.spotify.com/album/59hwU7N5uLDJbm1dARXmrL"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211761,
+      "name": "Un Intento Permanente",
+      "url": "https://open.spotify.com/track/2BByhZdP87btcQKOCvGLQ3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,111 likes - 195 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,488 likes - 195 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 194 | [Aere](https://open.spotify.com/track/71eaxB56hq5BteDIs7fztC) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Aere](https://open.spotify.com/album/7LtlzafUp8ro6oVduFe5gW) | 3:04 |
 | 195 | [Of Dreams](https://open.spotify.com/track/5NNzFE3bBtnld4aCc6cg3s) | [Kal Koren](https://open.spotify.com/artist/48ZAcUtJjaZZ0OZstH5X4v) | [Of Dreams](https://open.spotify.com/album/1rLMWKKbiR0yf3jAeoBlp4) | 3:03 |
 
-Snapshot ID: `AAAAAEAAaINqMh2+p39x6oHHQDLPlAMm`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,120 likes - 131 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,113 likes - 131 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 2 | [Track 11](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 0:00 |
+| 2 | [Sentimental](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 4:04 |
 | 3 | [Deep Diving](https://open.spotify.com/track/5mCDtS8o9KNQpQufN59Oxg) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Deep Diving](https://open.spotify.com/album/3qAy9Ahs6fUPa1ssJOCEot) | 3:22 |
 | 4 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 5 | [for sale 2 own](https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [for sale 2 own](https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3) | 2:39 |

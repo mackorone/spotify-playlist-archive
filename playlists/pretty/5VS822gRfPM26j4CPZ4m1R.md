@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,819 likes - 603 songs - 1 day 11 hr 47 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,820 likes - 604 songs - 1 day 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -611,5 +611,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 601 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 602 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 603 | [GNAT](https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5) | [ZOO](https://open.spotify.com/artist/6d4fitLNR82dlkyALodJWR) | [GNAT](https://open.spotify.com/album/1BNuN0l6Z4G4KHqq80MiFH) | 4:30 |
+| 604 | [bones](https://open.spotify.com/track/3PINiNx7YoLY1M2LKGEpzo) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [bones](https://open.spotify.com/album/6nw7UPazUokvF5M6g08kH8) | 3:52 |
 
-Snapshot ID: `AAAL9gd3WWG+1e18gKXW56rptq8dIUL1`
+Snapshot ID: `AAAL9z6x3tZxV6NQMEueAyHxmTF47OEK`

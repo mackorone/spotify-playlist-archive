@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 100326,
+  "num_followers": 100356,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -2127,30 +2127,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gate 16",
-        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
-        }
-      ],
-      "duration_ms": 203446,
-      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
-      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Christian Dior",
         "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
       },
@@ -2171,6 +2147,30 @@
       "duration_ms": 152032,
       "name": "Christian Dior",
       "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Gate 16",
+        "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        },
+        {
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+        }
+      ],
+      "duration_ms": 203446,
+      "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
+      "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
     },
     {
       "added_at": "2024-07-19 06:38:33",

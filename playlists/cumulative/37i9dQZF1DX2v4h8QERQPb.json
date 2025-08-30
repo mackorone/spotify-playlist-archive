@@ -3309,6 +3309,28 @@
     },
     {
       "album": {
+        "name": "Freyja",
+        "url": "https://open.spotify.com/album/6h8UG0tGehnuPv8gyXYEhY"
+      },
+      "artists": [
+        {
+          "name": "Sabor Americano",
+          "url": "https://open.spotify.com/artist/14OUQXeNEchUmECBMYvVoE"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140861,
+      "name": "Freyja",
+      "url": "https://open.spotify.com/track/6BjWb8PBPG6SBHKtSSOYqv"
+    },
+    {
+      "album": {
         "name": "Fruto Rojo",
         "url": "https://open.spotify.com/album/2AtPMbtlkpJeb8kLvRODIR"
       },

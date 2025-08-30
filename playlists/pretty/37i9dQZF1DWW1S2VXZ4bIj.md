@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GEMINI, FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,964 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,020 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [ดีซะกว่า](https://open.spotify.com/track/5xEvqW08y7weoZlFJU667d) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ดีซะกว่า \- Single](https://open.spotify.com/album/0xtdT0Pv0NZV9UN4xzqpld) | 5:33 |
 | 100 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 
-Snapshot ID: `AAAAAJKBh4KTKW5B6b3UnK5xZ21cJbdE`
+Snapshot ID: `AAAAAGrONZjKFlI3NOOug0brb2jC2+K8`

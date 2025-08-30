@@ -2,7 +2,7 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Daniel Garcia
+> Lo que diga el corazón ❤️💔 Cover: Anakin Larios & Omar Moreno
 
 187 songs - 9 hr 40 min
 
@@ -153,7 +153,7 @@
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-01-31 |  |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2024-03-15 |  |
 | [rascacielos](https://open.spotify.com/track/0ThTNgSxaupZCipQWsOWph) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Enero](https://open.spotify.com/album/6k0uGn4xDTNckdU9EDQ11y) | 2:57 | 2025-05-02 |  |
-| [Recuerdos](https://open.spotify.com/track/1RsnpWuoSoLeApFoIUXbRC) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Recuerdos](https://open.spotify.com/album/3IcJ6UuwJEAPzZQW1fIoDd) | 3:29 | 2025-04-25 | 2025-07-05 |
+| [Recuerdos](https://open.spotify.com/track/1RsnpWuoSoLeApFoIUXbRC) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Recuerdos](https://open.spotify.com/album/3IcJ6UuwJEAPzZQW1fIoDd) | 3:29 | 2025-04-25 |  |
 | [Regalame Una Noche](https://open.spotify.com/track/2dXppU2kauENBeLZYEbIng) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Se Cantan Se Bailan y Se Lloran](https://open.spotify.com/album/2OyPcJ7KgLDWeo2b8BYnoN) | 3:07 | 2024-09-27 | 2025-02-27 |
 | [ROCKSTAR](https://open.spotify.com/track/6YOfGIE6iFxC7G8OlGGvzW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:48 | 2024-03-15 |  |
 | [Ropa Cara](https://open.spotify.com/track/0AC6lMbq1Xc2npqHzlPCqs) | [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ), [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR) | [Ropa Cara](https://open.spotify.com/album/2NRCCVwjJuodRWAR0VlBfH) | 2:56 | 2024-04-12 | 2025-02-27 |

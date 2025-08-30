@@ -2,7 +2,7 @@
 
 ### [Soultronic](https://open.spotify.com/playlist/37i9dQZF1DXdc0DUqaW3MZ)
 
-> 
+> where future beats meet timeless soul.
 
 457 songs - 1 day 2 hr 48 min
 

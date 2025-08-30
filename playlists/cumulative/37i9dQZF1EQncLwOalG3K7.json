@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXiwr7gKUNCe>Ne-Yo</a>, <a href=spotify:playlist:37i9dQZF1EIV1YwNbOoIsu>Nicki Minaj</a>, <a href=spotify:playlist:37i9dQZF1EIZquwgUSywEt>M\u0153nia</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZPKihjjaCMa>girl in red</a>, <a href=spotify:playlist:37i9dQZF1EIVLbpj75CoUt>Franco De Vita</a>, <a href=spotify:playlist:37i9dQZF1EIYA2o4J61SfG>Marcus & Martinus</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -545,6 +545,46 @@
     },
     {
       "album": {
+        "name": "M\u221eN",
+        "url": "https://open.spotify.com/album/1miKX6uKi8aY4YSOKkrOHr"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262495,
+      "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
+      "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
+    },
+    {
+      "album": {
+        "name": "Party Never Ends, Part 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs"
+    },
+    {
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -778,7 +818,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 237266,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
@@ -804,6 +844,24 @@
       "duration_ms": 215672,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232253,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
     },
     {
       "album": {
@@ -2180,10 +2238,28 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 215840,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/2vB9ME0oZwfTGAUMC71CaT"
+    },
+    {
+      "album": {
+        "name": "More Than A Feeling",
+        "url": "https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167096,
+      "name": "More Than A Feeling",
+      "url": "https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh"
     },
     {
       "album": {
@@ -2744,7 +2820,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 235890,
       "name": "Seni Berdamai Dengan Takdir",
       "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
@@ -3218,7 +3294,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 242253,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"

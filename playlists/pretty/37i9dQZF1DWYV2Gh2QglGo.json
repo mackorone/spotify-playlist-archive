@@ -1,13 +1,109 @@
 {
   "description": "The home of Canadian country music. Cover: Brett Kissel",
-  "num_followers": 82179,
+  "num_followers": 82190,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALu3GiM17K6eWzHzp6DTYiftfkfP",
+  "snapshot_id": "AAAAAGRtWK4hFKUOxiIOgh2OxUg+AfZP",
   "tracks": [
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Heart To Forget",
+        "url": "https://open.spotify.com/album/7Amq5cTHIB9qQ4JHGTdztw"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Heart To Forget",
+      "url": "https://open.spotify.com/track/0mg3HvO7Zz8fYR45WVGMwD"
+    },
+    {
+      "added_at": "2025-08-29 15:58:05",
+      "album": {
+        "name": "Hurt Like Hell",
+        "url": "https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 217224,
+      "name": "Hurt Like Hell",
+      "url": "https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "As Long As There's A Bar",
+        "url": "https://open.spotify.com/album/16YteVMDYXfVk8oAe70u5B"
+      },
+      "artists": [
+        {
+          "name": "Gord Bamford",
+          "url": "https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups"
+        }
+      ],
+      "duration_ms": 177362,
+      "name": "As Long As There's A Bar",
+      "url": "https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO"
+    },
+    {
+      "added_at": "2025-08-01 04:01:28",
+      "album": {
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+    },
+    {
+      "added_at": "2025-08-29 15:58:05",
+      "album": {
+        "name": "Russham Road",
+        "url": "https://open.spotify.com/album/73iTvLuvIo58C0cUa2GlEH"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "Last Love Standing",
+      "url": "https://open.spotify.com/track/1n8f0lGx6z7YWTEM6sy3OM"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Andrew Hyatt And The Ten Year War",
+        "url": "https://open.spotify.com/album/00irVWgO6By7ZO6WYmGanw"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 192627,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/1OyhUMuatGDltK7CeWbfzH"
+    },
     {
       "added_at": "2025-08-22 00:01:29",
       "album": {
@@ -41,36 +137,52 @@
       "url": "https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2"
     },
     {
-      "added_at": "2025-08-01 04:01:28",
+      "added_at": "2025-08-29 15:58:05",
       "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+        "name": "Steal It From Me",
+        "url": "https://open.spotify.com/album/5OnJTc4JO25LjyvE1JgPTP"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Alex Hughes",
+          "url": "https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI"
         }
       ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+      "duration_ms": 161677,
+      "name": "Steal It From Me",
+      "url": "https://open.spotify.com/track/5GysSy6K5YacNa9efpsZEw"
     },
     {
-      "added_at": "2025-08-22 00:01:29",
+      "added_at": "2025-08-15 11:27:18",
       "album": {
-        "name": "Write To Me",
-        "url": "https://open.spotify.com/album/3ZTCe3Lselo4gQXETOs0wX"
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
       },
       "artists": [
         {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
         }
       ],
-      "duration_ms": 291732,
-      "name": "Write To Me",
-      "url": "https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH"
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Great Joy & Happiness",
+        "url": "https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs"
+      },
+      "artists": [
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "Great Joy & Happiness",
+      "url": "https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv"
     },
     {
       "added_at": "2025-08-08 04:01:29",
@@ -89,20 +201,52 @@
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
     },
     {
-      "added_at": "2025-08-22 00:01:29",
+      "added_at": "2025-08-29 00:01:18",
       "album": {
-        "name": "Bonfire On The Beach",
-        "url": "https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO"
+        "name": "DRIVIN' AWAY",
+        "url": "https://open.spotify.com/album/4fxfWpEOQLXSghUU2hg9hT"
       },
       "artists": [
         {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+          "name": "Brandon Z",
+          "url": "https://open.spotify.com/artist/1a9gkcQQrORR7jhT5yhPyN"
         }
       ],
-      "duration_ms": 147133,
-      "name": "Bonfire On The Beach",
-      "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
+      "duration_ms": 185404,
+      "name": "DRIVIN' AWAY",
+      "url": "https://open.spotify.com/track/5lqdSzz3ukOwgapei9AnO0"
+    },
+    {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "He's Mine",
+        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "duration_ms": 228951,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4X8TJ83ag2G3XCBikCtuYW"
+      },
+      "artists": [
+        {
+          "name": "Delta Sweet",
+          "url": "https://open.spotify.com/artist/50y7lUCZOffDQNaQ6QVlPx"
+        }
+      ],
+      "duration_ms": 173428,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0CwCtObgzlxvIzOsyqcTvy"
     },
     {
       "added_at": "2025-07-25 04:01:35",
@@ -121,6 +265,106 @@
       "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
     },
     {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/3Xe7jW3qjrksgEYcxHcMhX"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h"
+        }
+      ],
+      "duration_ms": 129636,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/6Maa2DzkID6syl66xGkn4Z"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "I Know You're Gonna Leave",
+        "url": "https://open.spotify.com/album/78SaWe92J5xBo7yf2MUU1j"
+      },
+      "artists": [
+        {
+          "name": "The Redhill Valleys",
+          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
+        }
+      ],
+      "duration_ms": 189711,
+      "name": "I Know You're Gonna Leave",
+      "url": "https://open.spotify.com/track/72atHIvoTlciOLigaSWvmV"
+    },
+    {
+      "added_at": "2025-08-22 00:01:29",
+      "album": {
+        "name": "Bonfire On The Beach",
+        "url": "https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Bonfire On The Beach",
+      "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "My Best Dance Moves",
+        "url": "https://open.spotify.com/album/6OutMeuD4h4TERio4OwqwV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "My Best Dance Moves",
+      "url": "https://open.spotify.com/track/4jkrXmFDuuQFPgrzEWik09"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "Can't Put a Price On a Good Time",
+        "url": "https://open.spotify.com/album/6UlPY58mSfLkznk4BC0TNs"
+      },
+      "artists": [
+        {
+          "name": "Andy Colonico",
+          "url": "https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO"
+        },
+        {
+          "name": "Small-Town Strip Club",
+          "url": "https://open.spotify.com/artist/7LzMukwUkFTCHvX9FbC8ol"
+        }
+      ],
+      "duration_ms": 163604,
+      "name": "Can't Put a Price On a Good Time",
+      "url": "https://open.spotify.com/track/1ydyNYQ0CyZpAQMX2SmaTW"
+    },
+    {
+      "added_at": "2025-08-22 00:01:29",
+      "album": {
+        "name": "Write To Me",
+        "url": "https://open.spotify.com/album/3ZTCe3Lselo4gQXETOs0wX"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "duration_ms": 291732,
+      "name": "Write To Me",
+      "url": "https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH"
+    },
+    {
       "added_at": "2025-08-22 00:01:29",
       "album": {
         "name": "All I Remember",
@@ -135,6 +379,22 @@
       "duration_ms": 170409,
       "name": "All I Remember",
       "url": "https://open.spotify.com/track/6wMTOC4fKkQJ6Q9r86Axt2"
+    },
+    {
+      "added_at": "2025-08-29 00:01:18",
+      "album": {
+        "name": "I Remember November",
+        "url": "https://open.spotify.com/album/52m2gq1b3Mhn9ZgefGv1rn"
+      },
+      "artists": [
+        {
+          "name": "Jez Dylan Bonham",
+          "url": "https://open.spotify.com/artist/3Qnm2XQFLIc8Dx9timBnzX"
+        }
+      ],
+      "duration_ms": 194872,
+      "name": "I Remember November",
+      "url": "https://open.spotify.com/track/1565xKEDeIa5uYLyum1Nog"
     },
     {
       "added_at": "2025-08-01 04:01:28",
@@ -167,38 +427,6 @@
       "duration_ms": 208379,
       "name": "When the Devil Whispers",
       "url": "https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll"
-    },
-    {
-      "added_at": "2025-08-15 11:27:18",
-      "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
-    },
-    {
-      "added_at": "2025-08-15 11:27:18",
-      "album": {
-        "name": "He's Mine",
-        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
-      },
-      "artists": [
-        {
-          "name": "Sykamore",
-          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
-        }
-      ],
-      "duration_ms": 228951,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
     },
     {
       "added_at": "2025-08-22 00:01:29",
@@ -595,22 +823,6 @@
     {
       "added_at": "2025-07-25 04:01:35",
       "album": {
-        "name": "Canaries in a Coal Mine",
-        "url": "https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 217229,
-      "name": "Canaries in a Coal Mine",
-      "url": "https://open.spotify.com/track/4JFPamq2IExOgg7mZV6XRs"
-    },
-    {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
         "name": "Savannah Jade",
         "url": "https://open.spotify.com/album/2Cy6k22AtHoub3zviQDNfc"
       },
@@ -673,22 +885,6 @@
       "url": "https://open.spotify.com/track/2bELkN51EnzYWk3XwSZ4zq"
     },
     {
-      "added_at": "2025-07-18 04:01:06",
-      "album": {
-        "name": "Bibles In Hotel Rooms",
-        "url": "https://open.spotify.com/album/1fgVHSiwqDiUXIBYjYDy0m"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Bibles In Hotel Rooms",
-      "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
-    },
-    {
       "added_at": "2025-07-25 04:01:35",
       "album": {
         "name": "Like I've Never Been Loved Before",
@@ -721,54 +917,6 @@
       "url": "https://open.spotify.com/track/6IKqdmzdQQMZH33uOUSaUK"
     },
     {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
-        "name": "Soul On Fire",
-        "url": "https://open.spotify.com/album/6vnYC2sK3qabnbnuJSks3D"
-      },
-      "artists": [
-        {
-          "name": "Vicki Brittle",
-          "url": "https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ"
-        }
-      ],
-      "duration_ms": 213963,
-      "name": "Soul On Fire",
-      "url": "https://open.spotify.com/track/1rBQ5dHO5VskrUmmibWzMS"
-    },
-    {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
-        "name": "Watering Can",
-        "url": "https://open.spotify.com/album/7F03z8IsqGuxqlDTWMeQbD"
-      },
-      "artists": [
-        {
-          "name": "Emma Kade",
-          "url": "https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Watering Can",
-      "url": "https://open.spotify.com/track/393hB4ScPfNydBTqXUtpoH"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "On Rolls the Wheel",
-        "url": "https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 232302,
-      "name": "On Rolls the Wheel",
-      "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
-    },
-    {
       "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Middle Of The Bed",
@@ -799,22 +947,6 @@
       "duration_ms": 180637,
       "name": "Don't Get You A Man",
       "url": "https://open.spotify.com/track/4F6po6MQ6FqFAOAXwCOw8Q"
-    },
-    {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
-        "name": "I Like What I Hear",
-        "url": "https://open.spotify.com/album/2ZnGxC8C2u1zoBcEfNH53t"
-      },
-      "artists": [
-        {
-          "name": "Chris Labelle",
-          "url": "https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "I Like What I Hear",
-      "url": "https://open.spotify.com/track/3wA1QGlAfVMXrEgoAUFJu1"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -913,26 +1045,6 @@
       "url": "https://open.spotify.com/track/0l05xoUCl9VbskLKWzT40Q"
     },
     {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
-    },
-    {
       "added_at": "2025-07-11 04:01:06",
       "album": {
         "name": "Till I Get To Heaven",
@@ -947,6 +1059,22 @@
       "duration_ms": 150000,
       "name": "Till I Get To Heaven",
       "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "On Rolls the Wheel",
+        "url": "https://open.spotify.com/album/06yirzfYrQC1bQaicU9n7L"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 232302,
+      "name": "On Rolls the Wheel",
+      "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -1067,22 +1195,6 @@
     {
       "added_at": "2025-07-11 04:01:06",
       "album": {
-        "name": "Love and Hate",
-        "url": "https://open.spotify.com/album/3abW5Ufgrl07Fdje1bzPmJ"
-      },
-      "artists": [
-        {
-          "name": "Annika Catharina",
-          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "Love and Hate",
-      "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
         "name": "Bourbon",
         "url": "https://open.spotify.com/album/2PPKl3Tl9e69ub8MJr0jjc"
       },
@@ -1095,38 +1207,6 @@
       "duration_ms": 223882,
       "name": "Bourbon",
       "url": "https://open.spotify.com/track/5c0ppzyyMEYFaYeGaR9qfU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Doin' What She Does",
-        "url": "https://open.spotify.com/album/2jXUimgUa3XMPV3qbUQNtG"
-      },
-      "artists": [
-        {
-          "name": "Tyler Joe Miller",
-          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Doin' What She Does",
-      "url": "https://open.spotify.com/track/4QDfhW0gsFEKaUOJUDBwe8"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "the circus",
-        "url": "https://open.spotify.com/album/0rfVdoSRGxGwahF05E4XBX"
-      },
-      "artists": [
-        {
-          "name": "Mallory Johnson",
-          "url": "https://open.spotify.com/artist/56A5s2TH3rRBgnrts1YLy3"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "the circus",
-      "url": "https://open.spotify.com/track/44e7qHUBE9zvd2WYV6H6AX"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -1163,22 +1243,6 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Crushin' Cans",
-        "url": "https://open.spotify.com/album/1Ohy30OrKy7b0ewzmnuHYN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Langdon",
-          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
-        }
-      ],
-      "duration_ms": 150138,
-      "name": "Crushin' Cans",
-      "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
         "name": "Worth The Double",
         "url": "https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d"
       },
@@ -1191,22 +1255,6 @@
       "duration_ms": 171657,
       "name": "Worth The Double",
       "url": "https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Let Your Horses Run - The Album",
-        "url": "https://open.spotify.com/album/3Fznn6Fz79om4lHxKaKbHa"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "Cowboys & Dreamers",
-      "url": "https://open.spotify.com/track/2ls9ifCvuLmVJI0E2ZcEl6"
     },
     {
       "added_at": "2025-07-04 04:00:20",

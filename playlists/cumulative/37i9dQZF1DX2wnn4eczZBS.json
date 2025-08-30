@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: LE MOTAT",
+  "description": "indie & indiepop in het Nederlands. Cover: Pip Lieke Lucas",
   "name": "indie.nl",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 142151,
       "name": "Alles goed?",
       "url": "https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG"
+    },
+    {
+      "album": {
+        "name": "Als Het Donker Wordt",
+        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Als Het Donker Wordt",
+      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
     },
     {
       "album": {
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 180594,
       "name": "Haast",
       "url": "https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO"
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Leegte",
+        "url": "https://open.spotify.com/album/4rvtHNuOJVzI02cKbfgW0Z"
+      },
+      "artists": [
+        {
+          "name": "Kubilay Kaya",
+          "url": "https://open.spotify.com/artist/6kYPCxuSAog3cu8iwQnilK"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182826,
+      "name": "Leegte",
+      "url": "https://open.spotify.com/track/528JJrCFO1zthYu3gLhu9j"
+    },
+    {
+      "album": {
         "name": "LEKKER MET DE MEIDEN v2.025",
         "url": "https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV"
       },
@@ -2614,6 +2650,24 @@
       "duration_ms": 170659,
       "name": "Neem Het Dan Terug",
       "url": "https://open.spotify.com/track/4wUlyyKkDIFiqWnAMt9nob"
+    },
+    {
+      "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
     },
     {
       "album": {
@@ -3193,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Souvenir (met Pensioen)",
+        "url": "https://open.spotify.com/album/7rcSGIx6an8qnUeUhF5lcy"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "Souvenir (met Pensioen)",
+      "url": "https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq"
+    },
+    {
+      "album": {
         "name": "Spijt",
         "url": "https://open.spotify.com/album/1tE5XZud8RVn0FMqI4yGVE"
       },
@@ -3442,7 +3514,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 162259,
       "name": "Toxisch",
       "url": "https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g"
@@ -3558,7 +3630,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 132727,
       "name": "Vager!",
       "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
@@ -3920,7 +3992,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 166663,
       "name": "WijTwee",
       "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"

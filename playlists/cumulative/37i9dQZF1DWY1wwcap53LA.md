@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Ink
 
-230 songs - 11 hr 55 min
+231 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,9 +100,10 @@
 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 | 2022-04-01 | 2023-02-18 |
 | [I'll Never](https://open.spotify.com/track/2c9WCG3eAxbCUiEbvAVj2z) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/18EtwJgfmxArCatnS6w49T) | 2:43 | 2023-01-13 | 2023-11-02 |
 | [I'll Never](https://open.spotify.com/track/4HUkIgxCIEJzBddjfOcDyG) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [I'll Never](https://open.spotify.com/album/2nULXvvTEpg36QVnOdQBIZ) | 2:43 | 2023-10-27 |  |
-| [Icing](https://open.spotify.com/track/2RVt7eNsTP8XC63vEtg8Nj) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Icing](https://open.spotify.com/album/6SiYJpe4huq9wMn2otDJmk) | 2:28 | 2024-11-19 |  |
+| [Icing](https://open.spotify.com/track/2RVt7eNsTP8XC63vEtg8Nj) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Icing](https://open.spotify.com/album/6SiYJpe4huq9wMn2otDJmk) | 2:28 | 2024-11-19 | 2025-08-30 |
 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 | 2022-06-01 |  |
 | [If I Wanted Wine](https://open.spotify.com/track/4vX7u4Q8iCuo7rK41M7QUn) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/79iCUqx4rgAItI7BFPJkJC) | 2:44 | 2023-11-03 | 2024-04-19 |
+| [Jack Daniel's](https://open.spotify.com/track/301Spsvy1W0hVjOX6wm7O1) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Jack Daniel's](https://open.spotify.com/album/6qmS3RfpsbzSTGeRCTbiFT) | 3:29 | 2025-08-29 |  |
 | [Jenni](https://open.spotify.com/track/4kI5LZmzlDyRgURUueKZ63) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Jenni](https://open.spotify.com/album/7yAh8gTk7oykUml3DThvdc) | 3:29 | 2025-01-24 |  |
 | [JOLENE](https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:09 | 2024-04-04 | 2024-12-18 |
 | [Just In Case](https://open.spotify.com/track/0YXTxxhAcbshkZ6n4QO30H) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/6ZJaKkfHx5nfEkXXjq3Ond) | 2:58 | 2022-09-02 | 2024-04-23 |

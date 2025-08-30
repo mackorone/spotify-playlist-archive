@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Rock never dies\. Cover: Deftones
+> Rock never dies\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,377,653 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,376,193 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Waste Me](https://open.spotify.com/track/0fBqTmHsozBuUtpc21JMny) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Tomorrow Comes Crashing](https://open.spotify.com/album/4hw4DNPOvcdc38NU1gTFuA) | 3:10 |
 | 75 | [OK OK OK OK](https://open.spotify.com/track/1emDypCBCdJmAwLWpbYVBE) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [OK OK OK OK](https://open.spotify.com/album/2FfO47TVwFzlI7KtVMtsEW) | 2:47 |
 
-Snapshot ID: `AAAAAAdLvp/Kth3FTsiEjvXlRB1+lOfN`
+Snapshot ID: `AAAAAGOD8Tn/Dzs1iyZweeO1usZ5hPM7`

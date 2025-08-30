@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 91383,
+  "num_followers": 91404,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "No Simple Thing",
+        "url": "https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 203042,
+      "name": "Rock and Roll (Ain't No Simple Thing)",
+      "url": "https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Truth And Lies",
         "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/68DSsSVGCUwfEMeZI6xhxW"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "Natchez",
-        "url": "https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4"
-      },
-      "artists": [
-        {
-          "name": "Bishop Gunn",
-          "url": "https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Alabama",
-      "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
     }
   ],
   "unique_name": "Southern Comfort",

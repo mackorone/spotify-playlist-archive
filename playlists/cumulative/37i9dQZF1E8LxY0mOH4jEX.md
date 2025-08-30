@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Justin Bieber, Mark Ronson and more
+> With Bruno Mars, Mark Ronson, Dua Lipa and more
 
 1,324 songs - 3 day 9 hr 36 min
 

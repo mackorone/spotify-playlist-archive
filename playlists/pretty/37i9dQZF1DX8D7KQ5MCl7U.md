@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,858 likes - 150 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,877 likes - 150 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 141 | [Lai Beqadaraan Naal Yaari](https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:48 |
 | 142 | [Naina De Akhay](https://open.spotify.com/track/3puz5Sf2GA1Psy8uLFqGCU) | [Rizwan & Moazzam](https://open.spotify.com/artist/0AAzQBRltHcZePy2jhpLwD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:26 |
 | 143 | [Koi Labda](https://open.spotify.com/track/6HsiVpc4l6IWTikwuY2ary) | [Symt](https://open.spotify.com/artist/2yWsO9zwSZBYvS8j8mtBOk), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 5:57 |
-| 144 | [Ujaalon Mein](https://open.spotify.com/track/1h5mPXw1Ln2JE4UkLAey6J) | [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep), [Faiza Mujahid](https://open.spotify.com/artist/3EHt8CyaFjaukCZVjhlv8Z) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 7:08 |
-| 145 | [Chehra](https://open.spotify.com/track/1Z6cKTMaY5v3DWTR05CyBW) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:01 |
+| 144 | [Chehra](https://open.spotify.com/track/1Z6cKTMaY5v3DWTR05CyBW) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:01 |
+| 145 | [Ujaalon Mein](https://open.spotify.com/track/1h5mPXw1Ln2JE4UkLAey6J) | [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep), [Faiza Mujahid](https://open.spotify.com/artist/3EHt8CyaFjaukCZVjhlv8Z) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 7:08 |
 | 146 | [Sawaal – Kande Utte](https://open.spotify.com/track/1BKRXpKKMjebeRQbHsPuLl) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:41 |
 | 147 | [Mram Mram](https://open.spotify.com/track/6OZYd4D0MLxci7Uq5z7ipN) | [Shamali Afghan](https://open.spotify.com/artist/15zWEwiqpzUOjDXG5Ay1pD) | [Mram Mram](https://open.spotify.com/album/4o2kldNwnCbsA1m3XtALUV) | 6:44 |
 | 148 | [Paisay Da Nasha](https://open.spotify.com/track/3HGWfAthym1zsmD0lAvrDJ) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 3:34 |
 | 149 | [Rung 2](https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 13:45 |
-| 150 | [Yaad](https://open.spotify.com/track/0q01Ld9BTonX8rbvB8fgcq) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:17 |
+| 150 | [Kaisay Mumkin Hai](https://open.spotify.com/track/71Gpkx7YaTW8H50fiPgDCp) | [Karavan](https://open.spotify.com/artist/0Lhup66w8pghI27mmMDeUk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 3:42 |
 
 Snapshot ID: `AAAAAK8AJIS/RQ2Qpul+RNooydJ5ky9v`

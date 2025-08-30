@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 
 > Celebrate the season with your favorite bluegrass artists from yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,964 likes - 108 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,963 likes - 108 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eSKQLYj7yU.md) - [plain]
 | 49 | [Santa Ate A Gummy](https://open.spotify.com/track/2A4bYyqfIf18pTnH1kuc0o) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM), [Ben Winship](https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm) | [Santa Ate A Gummy](https://open.spotify.com/album/1LwUtePw8lWwh8jhiW8ghU) | 3:21 |
 | 50 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 |
 | 51 | [Christmas Cheer](https://open.spotify.com/track/3CyOBD3VqRIuZuYVTzBvVx) | [Full Cord](https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr) | [Christmas Cheer](https://open.spotify.com/album/26FmKJDWKFfoE8PQJy4PiY) | 2:44 |
-| 52 | [Breaking Up Christmas](https://open.spotify.com/track/6a9WPJougvdb1zVtWoL8fe) | [Clover\-Lynn and The Hellfires](https://open.spotify.com/artist/24nUBGHjWwEqACeMgWHgMc) | [Breaking Up Christmas](https://open.spotify.com/album/2ncmvGhAu2Kh03RAnIa5RU) | 1:53 |
+| 52 | [Breaking Up Christmas](https://open.spotify.com/track/6a9WPJougvdb1zVtWoL8fe) | [Clover Lynn](https://open.spotify.com/artist/4QRCzJPvMqYSmtg7Om46WC) | [Breaking Up Christmas](https://open.spotify.com/album/2ncmvGhAu2Kh03RAnIa5RU) | 1:53 |
 | 53 | [Go Tell It On The Mountain](https://open.spotify.com/track/1cBMI9nZIZ6n1vEdBVGmDM) | [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM) | [Holly Jolly Homestead](https://open.spotify.com/album/3fTbOgRRBItYKPpj3QW0Fw) | 2:45 |
 | 54 | [What Child Is This?](https://open.spotify.com/track/0TmKp2NWrIbhJZZB7LtRln) | [Lake & Lyndale](https://open.spotify.com/artist/76p1C2mok3bS6Ae6kwmvNR), [Channing K](https://open.spotify.com/artist/6d1osjiWS8plsTP6AactfV) | [What Child Is This?](https://open.spotify.com/album/3JY10gt0CoSIbEsP4GTW09) | 3:31 |
 | 55 | [Green Garland](https://open.spotify.com/track/4Q8XDPeRhOnYWZsTHHzzw8) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Green Garland](https://open.spotify.com/album/7jxI890kIzYa6UKnOndKVD) | 3:23 |

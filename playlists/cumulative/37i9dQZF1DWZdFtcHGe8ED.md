@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-452 songs - 1 day 7 hr 56 min
+453 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 | 2021-12-17 |  |
 | [Blood On Our Hands](https://open.spotify.com/track/7y2XV9uAnhqMAUAYhHklRP) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/2ULVvqYZlzwhqkIricvuWs) | 3:54 | 2022-09-09 | 2024-04-19 |
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
-| [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 | 2025-05-09 |  |
+| [Bloodbath](https://open.spotify.com/track/79AdYAlZd8nth7G8LQfPof) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [Bloodbath](https://open.spotify.com/album/4FqK2NIyw1ux52zrK2LI26) | 3:57 | 2025-05-09 | 2025-08-30 |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 |  |
 | [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
@@ -165,7 +165,7 @@
 | [Fuel for Fire](https://open.spotify.com/track/6KXZXc8GC0hNMirU7U1Osh) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:00 | 2021-12-17 | 2022-03-04 |
 | [Fuel the Fire](https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI) | [Tonic Breed](https://open.spotify.com/artist/77xERzMN8ghZCov8PRbCVR), [Bernt Jansen](https://open.spotify.com/artist/2mxHsWZS5kzzF5KjFfmpUb), [Dirk Verbeuren](https://open.spotify.com/artist/4zG9AWbdwEqp2pjrjDnYNV) | [Fuel the Fire](https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi) | 4:56 | 2022-07-22 |  |
 | [Give Me Leather](https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Speed Between the Lines](https://open.spotify.com/album/3Ti0nXYU3jdrWkIV8gxpaA) | 3:50 | 2021-12-17 |  |
-| [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 | 2021-12-17 | 2025-08-24 |
+| [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 | 2021-12-17 |  |
 | [Glorious End](https://open.spotify.com/track/2YQfqDIGHWOswe12u1An4C) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Glorious End](https://open.spotify.com/album/37zCU0b0Y54C76MhZ2hnHG) | 6:40 | 2021-12-17 | 2022-07-28 |
 | [Goat Of Mendes \- Single Version](https://open.spotify.com/track/1H3mwH8mKVgW8xPOSgR68s) | [Impaled Nazarene](https://open.spotify.com/artist/4Q7d9egO7iMngBWfgvm57d) | [Goat of Mendes](https://open.spotify.com/album/0YSgicFo3Ze8GObg3xSpOa) | 2:25 | 2021-12-17 | 2022-02-14 |
 | [God Slave the Queen](https://open.spotify.com/track/2pRbyaGoIfh3n5ZLzu3rLv) | [Godslave](https://open.spotify.com/artist/5xLkB61DNBnrx3GmQplSK2) | [God Slave the Queen](https://open.spotify.com/album/48HYdzTkUsevSSY4kk8nb7) | 2:51 | 2021-12-17 | 2022-07-23 |
@@ -197,6 +197,7 @@
 | [I Sever](https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [I Sever](https://open.spotify.com/album/0PzccQNvgYHMXKmMm5QtIi) | 5:08 | 2021-12-17 | 2022-07-28 |
 | [Idle Hands](https://open.spotify.com/track/3R0OvTDCFbarllFOnzKRWg) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Idle Hands](https://open.spotify.com/album/4cGGbyTuQsDv2CnGyqGKHU) | 3:44 | 2024-03-08 |  |
 | [Illusion of Existence](https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy) | [Refore](https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF) | [Illusion of Existence](https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq) | 3:53 | 2024-06-27 |  |
+| [In Blood We Trust](https://open.spotify.com/track/55Y6XsjNcIwe6CtXoIG3SK) | [Vicious Rumors](https://open.spotify.com/artist/5qF6qgroDoDIKpPChRqhX3) | [The Devil's Asylum](https://open.spotify.com/album/4U7NMaExSJO02zodYFgkAf) | 3:06 | 2025-08-29 |  |
 | [In Fire Reborn](https://open.spotify.com/track/2fTWxiSnKXddSvbdxDu0Ss) | [The Haunted](https://open.spotify.com/artist/2WLmgv66Uq4vt2i36vwkAq) | [In Fire Reborn](https://open.spotify.com/album/6cxqI93wQAxeSSq5ZDD5IH) | 3:18 | 2025-05-02 |  |
 | [In Remains](https://open.spotify.com/track/5sWv1rWF5mQ1rexZEqSZ84) | [Prestige](https://open.spotify.com/artist/48SgCx7WBM9A1jgu9KFuxn) | [Reveal the Ravage](https://open.spotify.com/album/6uSIIjYu1FBDV1fyy8e0pY) | 3:40 | 2021-12-17 | 2022-03-03 |
 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 | 2021-12-17 |  |
@@ -339,7 +340,7 @@
 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 | 2022-12-15 |  |
 | [Running Blind](https://open.spotify.com/track/3rklHnrprJJG0Wrkp1LMI4) | [Flaming Wrekage](https://open.spotify.com/artist/4fHy7P549XE4UE9G1rsqlw) | [Running Blind](https://open.spotify.com/album/0C137r86CegBzGyC2o3mXA) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Sacred Slaughter](https://open.spotify.com/track/2Wf1aYlPLSVga0eyAuayxO) | [Iron Angel](https://open.spotify.com/artist/50aVB5l90oifKXt0LDzanR) | [Sacred Slaughter](https://open.spotify.com/album/0H2MErtPyCzvxqjI89BKUf) | 4:22 | 2021-12-17 | 2022-07-16 |
-| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 |  |
+| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 | 2025-08-30 |
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 | 2023-06-27 | 2024-04-19 |

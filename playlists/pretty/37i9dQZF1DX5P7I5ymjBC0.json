@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Kaushiki Chakraborty",
-  "num_followers": 80383,
+  "num_followers": 80390,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-08-28 08:29:47",
       "album": {
+        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
+      },
+      "artists": [
+        {
+          "name": "Rashid Khan",
+          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
+        },
+        {
+          "name": "Arpita Chatterjee",
+          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Sajna Barse",
+      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
+    },
+    {
+      "added_at": "2025-08-28 08:29:47",
+      "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
-    },
-    {
-      "added_at": "2025-08-28 08:29:47",
-      "album": {
-        "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
-      },
-      "artists": [
-        {
-          "name": "Rashid Khan",
-          "url": "https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv"
-        },
-        {
-          "name": "Arpita Chatterjee",
-          "url": "https://open.spotify.com/artist/2tTjyBVsDVEW9vLkNP7idm"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Sajna Barse",
-      "url": "https://open.spotify.com/track/4IUTA4aKxSmoHeLgp4UVFP"
     },
     {
       "added_at": "2025-08-28 08:29:47",
@@ -751,30 +751,6 @@
     {
       "added_at": "2025-08-28 08:29:47",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
-      "added_at": "2025-08-28 08:29:47",
-      "album": {
         "name": "Sonchadi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 275266,
       "name": "Sonchadi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv"
+    },
+    {
+      "added_at": "2025-08-28 08:29:47",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
       "added_at": "2025-08-28 08:29:47",

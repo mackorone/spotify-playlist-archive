@@ -6060,7 +6060,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 91594,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/5QiOePTbj8ltnRdYShfz3E"
@@ -8080,7 +8080,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 141021,
       "name": "GRAILED",
       "url": "https://open.spotify.com/track/2Kvmj9ifFwU4KUEvZDr0ud"
@@ -13167,6 +13167,28 @@
     },
     {
       "album": {
+        "name": "Montagem Supersonic",
+        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
+      },
+      "artists": [
+        {
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
+        },
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98571,
+      "name": "Montagem Supersonic - Slowed",
+      "url": "https://open.spotify.com/track/78HO14AQvQdcyntciSHgUK"
+    },
+    {
+      "album": {
         "name": "MONTAGEM TOMADA",
         "url": "https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF"
       },
@@ -15898,7 +15920,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -18704,7 +18726,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 146832,
       "name": "stranger",
       "url": "https://open.spotify.com/track/0qI63LFr1ztTk5TBFFdydV"
@@ -22976,7 +22998,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 199972,
       "name": "\u0431\u0435\u0437 \u0442\u0435\u0431\u044f",
       "url": "https://open.spotify.com/track/2d2C4YGXudzgQvZwdVH3SI"
@@ -24276,7 +24298,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 61426,
       "name": "\u0432\u0438\u0441\u043a\u0438 \u0441 \u043c\u043e\u043b\u043e\u043a\u043e\u043c",
       "url": "https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO"
@@ -30456,7 +30478,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 111124,
       "name": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u0440\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/03unkZidjzUbrOd35kUPXd"
@@ -33584,7 +33606,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 117934,
       "name": "\u0421\u0423\u041f\u0415\u0420\u041c\u0410\u0420\u041a\u0415\u0422",
       "url": "https://open.spotify.com/track/5W0JK5pf8uyt8jrPTjBdHH"
@@ -36528,7 +36550,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

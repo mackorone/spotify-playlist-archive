@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Fireboy DML, Topic, Nico Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,308 likes - 98 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,381 likes - 98 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 67 | [Safari](https://open.spotify.com/track/7coAfP1dXtU6PQI3wVzziv) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Chiara Meloni](https://open.spotify.com/artist/5xF4ia5WWdSPbkKl9m5Nrq), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Safari](https://open.spotify.com/album/7u3JHl7wCi2xAejkIV7CCh) | 2:58 |
 | 68 | [You Got My World \(Till The World Ends\)](https://open.spotify.com/track/3XFGsaYX7mvJ2yT2Tj2uO9) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [You Got My World \(Till The World Ends\)](https://open.spotify.com/album/2KEy7MaVWH4091KTy2vU1W) | 2:28 |
 | 69 | [Look at Me Now](https://open.spotify.com/track/4rofxjBl3lfLHbTyYHFz6F) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Look At Me Now](https://open.spotify.com/album/1z6zxcR03gjHXSJQ3bxSl5) | 2:37 |
-| 70 | [Summer](https://open.spotify.com/track/40txhjcjAakIh8TrvvS3H3) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [Nerds At Raves](https://open.spotify.com/artist/7yYgvkLYx4c2N50oltKonj) | [Summer](https://open.spotify.com/album/61q6GTflyrXfya04c72wLh) | 3:37 |
+| 70 | [Summer](https://open.spotify.com/track/40txhjcjAakIh8TrvvS3H3) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [Nerds At Raves](https://open.spotify.com/artist/7yYgvkLYx4c2N50oltKonj), [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ) | [Summer](https://open.spotify.com/album/61q6GTflyrXfya04c72wLh) | 3:37 |
 | 71 | [wie es war](https://open.spotify.com/track/6GItLfbLMM8Weu099G46qx) | [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [wie es war](https://open.spotify.com/album/5HCuzJgVYadq0XyR3bdRTq) | 2:48 |
 | 72 | [Wide Awake](https://open.spotify.com/track/7LEMUe5V7ymQge5rt452Ef) | [AVALAN ROKSTON](https://open.spotify.com/artist/3WqiBOiSB2FlD25EX9893G), [Avalan](https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP) | [Wide Awake](https://open.spotify.com/album/25waHNo6Qj0gleH4UNTVuj) | 2:40 |
 | 73 | [Ich denk an dich](https://open.spotify.com/track/55LDApzgZGodFU1zKUiWkf) | [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ich denk an dich](https://open.spotify.com/album/7gzAlSvSEKY6vYLe517yO8) | 2:22 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-661 songs - 1 day 22 hr 1 min
+662 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Mexican Vacation \(Kids In The Candlelight\)](https://open.spotify.com/track/4deaZiYMv945qTgQVQCoK8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 3:33 | 2022-09-08 |  |
 | [Michelle's Song \- From “Friends” Soundtrack](https://open.spotify.com/track/2e2tuKera7JpdOArm6sDcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 4:20 | 2022-09-08 |  |
 | [Midnight Creeper](https://open.spotify.com/track/5lnkNO3Si97dpuKQY8z5OT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:52 | 2022-09-08 |  |
+| [Miranda Girl](https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6) | [The Devil Wears Prada Original West End Cast](https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9), [Georgie Buckland](https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN) | [Miranda Girl](https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7) | 3:33 | 2025-08-29 |  |
 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 | 2022-09-08 |  |
 | [Monkey Suit](https://open.spotify.com/track/61yqjD6DUuFNyylhDuhswl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:46 | 2022-09-08 |  |
 | [Mr\. Lightning Strikerman \- Piano Demo](https://open.spotify.com/track/6PUZChImBdmSFeyZLc8A8f) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:06 | 2023-05-26 |  |

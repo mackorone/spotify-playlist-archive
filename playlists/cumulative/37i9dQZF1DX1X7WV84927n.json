@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Sleep Token",
+  "description": "For full-volume lovers. Cover: The Pretty Reckless",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -10061,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "I Can't Stand Waiting",
+        "url": "https://open.spotify.com/album/4vamBLOq71dxi3Fj4YvLCw"
+      },
+      "artists": [
+        {
+          "name": "Michael Schenker Group",
+          "url": "https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223455,
+      "name": "I Can't Stand Waiting",
+      "url": "https://open.spotify.com/track/6gBCzq67eXe4cVhw5pYwha"
+    },
+    {
+      "album": {
         "name": "I COME ALIVE",
         "url": "https://open.spotify.com/album/4LpPxp3nAPuOBR2s4oFi1S"
       },
@@ -13972,7 +13990,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 257799,
       "name": "MY GOD HAS GOT A GUN",
       "url": "https://open.spotify.com/track/7ERQTqX4DWDF3onsWpxu4T"

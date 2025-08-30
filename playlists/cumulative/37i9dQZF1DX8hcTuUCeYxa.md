@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Balu Brigada
 
-1,862 songs - 4 day 10 hr 58 min
+1,862 songs - 4 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Bananas + Apples](https://open.spotify.com/track/49I0LFzwVyEJPf9JUIQkSv) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Bananas + Apples](https://open.spotify.com/album/1igT22OZMYOSugNkSbtLUU) | 2:35 | 2024-06-28 | 2024-07-05 |
 | [Bang Bang Bang](https://open.spotify.com/track/6SZiBRJYG3rd3yiU4PDsxZ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Bang Bang Bang](https://open.spotify.com/album/4xxuqs9e7upJFfloA8hX4W) | 3:39 | 2025-01-09 | 2025-01-31 |
 | [BANGALOW](https://open.spotify.com/track/0MHiPOr0FLcC4MHguBz2fX) | [Dolphin Love](https://open.spotify.com/artist/4uT5ywK30prkNZbf4BlQVh) | [NOT FROM HERE](https://open.spotify.com/album/0pXHsUJlFApckQy66vIKKk) | 4:54 | 2025-04-10 | 2025-05-09 |
+| [BAPTIZED](https://open.spotify.com/track/6egwG4kX89QQjrX09gAYa8) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PSYCHO IN THE GAЯDEN \[EP\]](https://open.spotify.com/album/2VTc4BUmHhTGNL6YFiT4Vt) | 3:23 | 2025-08-28 |  |
 | [Barcelona \(Learning to Love Myself\)](https://open.spotify.com/track/2ThCYcUajQr7DI8m2xqTfD) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Barcelona \(Learning to Love Myself\)](https://open.spotify.com/album/5KCQ6WVY06qsEyRLlZoM8s) | 3:17 | 2024-06-28 | 2024-07-12 |
 | [Barn Nursery](https://open.spotify.com/track/7c8QmPRLkfOsrc9CnXwA4B) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Barn Nursery](https://open.spotify.com/album/0ovB6Q8rXDeaPNz6j5jhkG) | 2:39 | 2025-01-02 | 2025-01-31 |
 | [Bashville on the Sugar](https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Bashville on the Sugar](https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz) | 4:05 | 2025-04-17 | 2025-05-16 |
@@ -1419,6 +1420,7 @@
 | [Slow](https://open.spotify.com/track/4JnZ2G4wpPCs9RdqpDxIfb) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Dependent](https://open.spotify.com/album/3cFq5yn6XIOKbRHr2k5D0t) | 2:56 | 2025-02-27 | 2025-03-28 |
 | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P) | 4:10 | 2025-01-16 | 2025-01-24 |
 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 | 2024-10-03 | 2024-10-18 |
+| [Smile](https://open.spotify.com/track/5tuLtqxAsp5AJxjZem8cQe) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Cut The Cord](https://open.spotify.com/album/04kJ1W88t6ckCoi8xNjaTD) | 2:37 | 2025-08-28 |  |
 | [Snakes & Ladders](https://open.spotify.com/track/4Rg6MTZzS7LdCdHhO1oGFP) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Snakes & Ladders](https://open.spotify.com/album/4bWdnhUhAIC9fHymhjWqZE) | 2:53 | 2024-08-22 | 2024-09-06 |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-06-28 | 2024-07-05 |
 | [So Dope](https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 3:41 | 2024-11-07 | 2024-11-29 |
@@ -1677,8 +1679,6 @@
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-07-25 |
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
-| [Track 2](https://open.spotify.com/track/5tuLtqxAsp5AJxjZem8cQe) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Cut The Cord](https://open.spotify.com/album/04kJ1W88t6ckCoi8xNjaTD) | 0:00 | 2025-08-28 |  |
-| [Track 6](https://open.spotify.com/track/6egwG4kX89QQjrX09gAYa8) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PSYCHO IN THE GAЯDEN \[EP\]](https://open.spotify.com/album/2VTc4BUmHhTGNL6YFiT4Vt) | 0:00 | 2025-08-28 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |
 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 | 2024-07-25 | 2024-08-09 |

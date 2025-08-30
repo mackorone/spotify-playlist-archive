@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Kauko Röyhkä & Riku Mattila.
 
-494 songs - 1 day 4 hr 54 min
+495 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Odota mua](https://open.spotify.com/track/0QnhKvvJsSFry834t6lTnM) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Odota mua](https://open.spotify.com/album/0P9UUu2p9Br620MprJhdjo) | 3:07 | 2024-07-02 | 2024-07-05 |
 | [Odotan](https://open.spotify.com/track/6TrytYMEzVeZ0kOD660mX4) | [Osasto 33](https://open.spotify.com/artist/4SZkmTpM6qDizIilqifXMf) | [Odotan](https://open.spotify.com/album/5SziyeIbg4DVPruBDVZWba) | 3:36 | 2024-07-04 | 2024-08-23 |
 | [Ohimenevää](https://open.spotify.com/track/4EdD2wvp7D7xudkqo0f1Pl) | [Uniklubi](https://open.spotify.com/artist/6CFUvBnAcbb5MvaDE8bwou) | [Ohimenevää](https://open.spotify.com/album/3o5X8DzM6CSZofOhBzvrwM) | 3:25 | 2025-06-05 | 2025-08-22 |
+| [Oi Anhedonia!](https://open.spotify.com/track/78ucQHIEkH700wwsPkjFlX) | [A.Reikko & Kaupungin ääni](https://open.spotify.com/artist/3tph4aMNzlsxT0j2NzysvG), [A.Reikko](https://open.spotify.com/artist/2ueDIq14qjRHz330h0yK9F) | [Oi Anhedonia!](https://open.spotify.com/album/2DfjCDLH0YFuu9NyR1z6jV) | 3:21 | 2025-08-29 |  |
 | [Oikeeseen suuntaan](https://open.spotify.com/track/7nFfilDtnkasdtjayFsEo2) | [Tunnelbana](https://open.spotify.com/artist/5bNNuGL4THQqa5FIXs3Mdm) | [Oikeeseen suuntaan](https://open.spotify.com/album/7y4uBqCkuCYP5cdqWw7md3) | 3:02 | 2024-07-18 | 2024-10-18 |
 | [Oletko siellä](https://open.spotify.com/track/3EplszH4zG4GJFjmsiyVap) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Oletko siellä](https://open.spotify.com/album/5q4lviYJdKf8AIGmFLgNzX) | 3:54 | 2025-08-21 |  |
 | [On](https://open.spotify.com/track/4DgGCSm4lCbxoFpJxcWsBB) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [On](https://open.spotify.com/album/1LEmmQW4GL9rXGvBey4oaY) | 3:26 | 2024-07-02 | 2024-08-30 |

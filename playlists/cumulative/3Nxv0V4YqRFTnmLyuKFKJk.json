@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "From Me",
+        "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170157,
+      "name": "Back in the Bottle",
+      "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
+    },
+    {
+      "album": {
         "name": "Robert Counts - EP",
         "url": "https://open.spotify.com/album/0ziYHrVJ0aQJNOZeVjEvdg"
       },

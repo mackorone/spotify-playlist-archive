@@ -2,7 +2,7 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: Hermanos Gutiérrez x Leon Bridges
+> A new take on a classic sound\. Cover: KIRBY
 
 536 songs - 1 day 8 hr 12 min
 

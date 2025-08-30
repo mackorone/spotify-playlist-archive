@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "+100",
+        "url": "https://open.spotify.com/album/02uDAfB0ZOlLHNH8dRFbTZ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Frieder & Jakob",
+          "url": "https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "+100",
+      "url": "https://open.spotify.com/track/7vmnja07oYJdSy11pOvH8z"
+    },
+    {
+      "album": {
         "name": "16 Red Even",
         "url": "https://open.spotify.com/album/45yHwPUeNO9HadDFChp1Ly"
       },
@@ -838,7 +860,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 286937,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/3aAmVM60JnbaeaI5qXsSBW"
@@ -965,6 +987,28 @@
     },
     {
       "album": {
+        "name": "Code",
+        "url": "https://open.spotify.com/album/4KX8Db1MPMAk7zyGHRbOdP"
+      },
+      "artists": [
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        },
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "Code",
+      "url": "https://open.spotify.com/track/4O3uPi7mbbnym5dWfZg1M4"
+    },
+    {
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/7IYcwitat2vswUJALt4Uru"
       },
@@ -1042,6 +1086,28 @@
       "duration_ms": 347826,
       "name": "Cosmic Evolution - DSTRTD SGNL Remix",
       "url": "https://open.spotify.com/track/74PJtZf9qSGmVmZLmLiRFi"
+    },
+    {
+      "album": {
+        "name": "CPU Goes Wrong",
+        "url": "https://open.spotify.com/album/2j4IejhqMPAHaxN3UjOET9"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        },
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249259,
+      "name": "CPU Goes Wrong",
+      "url": "https://open.spotify.com/track/38fExFRL6yWdRrfZzk5Mc7"
     },
     {
       "album": {

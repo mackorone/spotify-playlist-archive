@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house  \ud83c\udf21\ufe0f Tech house operators, featuring BLOND:ISH",
+  "description": "50% techno, 50% house \ud83d\udc07\ud83c\udfc0 Tech house operators, featuring Vinter",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 202794,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3iWaAhwHrrRkOYKeLwuxd9"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 179192,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/0fE8lWhGk3UUC7eF4aijQf"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 155964,
       "name": "Apple Cider",
       "url": "https://open.spotify.com/track/3tC1yR3AZxpgac6ajPHHfL"
@@ -7046,7 +7046,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 292569,
       "name": "Catchaman",
       "url": "https://open.spotify.com/track/5HPQWyoy5xWVUwRBd3cbDs"
@@ -8192,7 +8192,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 164307,
       "name": "Congroove",
       "url": "https://open.spotify.com/track/4aA3BQPpcNUxy2VnhtHc6B"
@@ -8992,7 +8992,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 181846,
       "name": "Dame M\u00e1s (Gasolina)",
       "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
@@ -9350,6 +9350,24 @@
       "duration_ms": 311375,
       "name": "Dancing On My Own - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/1uffw4RWKTSJGic3KEADAz"
+    },
+    {
+      "album": {
+        "name": "Danger Zone - EP",
+        "url": "https://open.spotify.com/album/4WR1ObIRjsYAL1pqKKaEnC"
+      },
+      "artists": [
+        {
+          "name": "Wodda",
+          "url": "https://open.spotify.com/artist/5zHkCDcsGZjznWnqsgTMRg"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320201,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/3NmDrxEAsSDV37LOHFM9zG"
     },
     {
       "album": {
@@ -9892,7 +9910,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 142631,
       "name": "Detonate",
       "url": "https://open.spotify.com/track/6DWeAzLo3Mb9T26v9kLt02"
@@ -11242,7 +11260,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 146885,
       "name": "Don't Waste My Time",
       "url": "https://open.spotify.com/track/5UK40iaFFZmn7H5g1g1Lsy"
@@ -11750,6 +11768,28 @@
       "duration_ms": 169920,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4NH9xSGfbs8zchM70KZReS"
+    },
+    {
+      "album": {
+        "name": "Drip Drop (Handle That)",
+        "url": "https://open.spotify.com/album/7Iq3Ae4TQxcYZcQlmFmb1i"
+      },
+      "artists": [
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Drip Drop (Handle That)",
+      "url": "https://open.spotify.com/track/70m2ktM5B0Rjj5rTSZm8gn"
     },
     {
       "album": {
@@ -12271,6 +12311,24 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/367G4xzlzf82ruQ8wDX73N"
+      },
+      "artists": [
+        {
+          "name": "Galo",
+          "url": "https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/6DXCgmJCTMD7qpQIIqgVFR"
+    },
+    {
+      "album": {
         "name": "Ectogazm",
         "url": "https://open.spotify.com/album/2koT4eoxGArDv6D5poxuPv"
       },
@@ -12476,6 +12534,24 @@
       "duration_ms": 254291,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/3zZb8aL0hVIvHcanMvIM65"
+    },
+    {
+      "album": {
+        "name": "Electric Bongo",
+        "url": "https://open.spotify.com/album/4DQvAAyc4Q44ckKfh7Qw9V"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192812,
+      "name": "Electric Bongo",
+      "url": "https://open.spotify.com/track/1Dld6bXk0APdXdZYlq9Bj2"
     },
     {
       "album": {
@@ -13370,6 +13446,24 @@
       "duration_ms": 200119,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s"
+    },
+    {
+      "album": {
+        "name": "Sola presents Ibiza 2025",
+        "url": "https://open.spotify.com/album/5LRDPLlQw1kHp03cZF8U6Q"
+      },
+      "artists": [
+        {
+          "name": "Castion",
+          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165629,
+      "name": "Fall Out The Beat",
+      "url": "https://open.spotify.com/track/1Y9GIsIJyAnD1U4p3zrKbm"
     },
     {
       "album": {
@@ -14309,6 +14403,24 @@
     },
     {
       "album": {
+        "name": "Final Destination",
+        "url": "https://open.spotify.com/album/67Zm0adfZZC2fz2TF2MlnQ"
+      },
+      "artists": [
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219535,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/5JJkFSjlJWlWVc3HUWkrMd"
+    },
+    {
+      "album": {
         "name": "Find A Way",
         "url": "https://open.spotify.com/album/1N2ao678nFxSdmM7hbTHzs"
       },
@@ -14534,6 +14646,24 @@
       "duration_ms": 191686,
       "name": "Flex Like Ouu",
       "url": "https://open.spotify.com/track/23yALQrKmnMBrr0IgXD7za"
+    },
+    {
+      "album": {
+        "name": "Flexin",
+        "url": "https://open.spotify.com/album/5Wk2XG4BFql27trSDiDG1a"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "Flexin",
+      "url": "https://open.spotify.com/track/1ca3z0aTO9gjB8L5djqNtr"
     },
     {
       "album": {
@@ -14810,7 +14940,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 179380,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c"
@@ -15424,7 +15554,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 179770,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
@@ -15592,6 +15722,28 @@
       "duration_ms": 218437,
       "name": "Future",
       "url": "https://open.spotify.com/track/5tHokMQ1Hf1zmr6gQFe5ix"
+    },
+    {
+      "album": {
+        "name": "Galvanize (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223618,
+      "name": "Galvanize - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
     },
     {
       "album": {
@@ -22393,6 +22545,24 @@
     },
     {
       "album": {
+        "name": "La Musica",
+        "url": "https://open.spotify.com/album/5V3bm4lt40YDuanpEO2HOR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/6Pljn2mE2jMBlPe09uIV04"
+    },
+    {
+      "album": {
         "name": "La Musique Forte",
         "url": "https://open.spotify.com/album/6ZWBq3aU151TdCRBJcjugj"
       },
@@ -23684,7 +23854,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 224414,
       "name": "Like I Like It",
       "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
@@ -23814,7 +23984,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 181500,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
@@ -25368,7 +25538,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 181874,
       "name": "Malfunktion",
       "url": "https://open.spotify.com/track/1rNUdaRCaO0ibxHBac9IAk"
@@ -27848,6 +28018,24 @@
       "duration_ms": 203948,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/7wR5PZBN5JqVNJEAx7x2xx"
+    },
+    {
+      "album": {
+        "name": "My 45",
+        "url": "https://open.spotify.com/album/61iDO0oM40jylw3fiVbcPE"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "My 45",
+      "url": "https://open.spotify.com/track/6eyMmznRO5M0mIDyY8Lc56"
     },
     {
       "album": {
@@ -32017,6 +32205,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1xO5Qvsd6eDJlev5xSNJXn"
+      },
+      "artists": [
+        {
+          "name": "LEFTI",
+          "url": "https://open.spotify.com/artist/7o5gxy3lEGcP62TNIppa7w"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/4PXc3P2zx2sjC8oaJ16pMu"
+    },
+    {
+      "album": {
         "name": "Play EP",
         "url": "https://open.spotify.com/album/46pHq2uVjEIgAkVKF7PF18"
       },
@@ -34719,6 +34925,28 @@
     },
     {
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2"
+      },
+      "artists": [
+        {
+          "name": "Girl Math",
+          "url": "https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5"
+        },
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm"
+    },
+    {
+      "album": {
         "name": "Rok The House",
         "url": "https://open.spotify.com/album/03T4gaOwcdDyEkmznuaYq1"
       },
@@ -35368,7 +35596,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 169523,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2ZehAWzCFipKhPU8EggC1s"
@@ -36230,6 +36458,24 @@
       "duration_ms": 225937,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5xSkFVN2VATZzjcvAeSaSO"
+    },
+    {
+      "album": {
+        "name": "Shake Dat",
+        "url": "https://open.spotify.com/album/78jmJO9hT1mKRmz7DFdAD9"
+      },
+      "artists": [
+        {
+          "name": "Bauti Tesei",
+          "url": "https://open.spotify.com/artist/17YsLIhtMx8p4QaDAqpPh6"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Shake Dat",
+      "url": "https://open.spotify.com/track/08SBazv4bdZK0DFn3OIVWt"
     },
     {
       "album": {
@@ -37652,7 +37898,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 147304,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1EAQZE1J0Gu7w1fTo2Afj8"
@@ -38457,6 +38703,24 @@
     },
     {
       "album": {
+        "name": "Space Pump (Space Jam)",
+        "url": "https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA"
+      },
+      "artists": [
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Space Pump (Space Jam)",
+      "url": "https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV"
+    },
+    {
+      "album": {
         "name": "Spark It Up",
         "url": "https://open.spotify.com/album/4QM2Novr2LsNSKWRjFCkEj"
       },
@@ -38494,6 +38758,28 @@
       "duration_ms": 221350,
       "name": "Speaker Freaker",
       "url": "https://open.spotify.com/track/5f2y5tmQpZULdL0hVmbv2G"
+    },
+    {
+      "album": {
+        "name": "Spend Money",
+        "url": "https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175312,
+      "name": "Spend Money",
+      "url": "https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4"
     },
     {
       "album": {
@@ -44129,6 +44415,24 @@
     },
     {
       "album": {
+        "name": "Undisputed",
+        "url": "https://open.spotify.com/album/3SHxC5NYU7VTVLhpsMBvdS"
+      },
+      "artists": [
+        {
+          "name": "JOHN CARL",
+          "url": "https://open.spotify.com/artist/78qVjPcSZNJJ5tS7WgJqq8"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Undisputed",
+      "url": "https://open.spotify.com/track/4x7Ag6XIgFCPTe9tbXniVr"
+    },
+    {
+      "album": {
         "name": "Unholy",
         "url": "https://open.spotify.com/album/3Ht1fU7M26suobWo5P9Gz8"
       },
@@ -45417,6 +45721,24 @@
     },
     {
       "album": {
+        "name": "Stay As You Are",
+        "url": "https://open.spotify.com/album/0czzjygKU6YkDOkKlJFDML"
+      },
+      "artists": [
+        {
+          "name": "Nabewalks",
+          "url": "https://open.spotify.com/artist/3T3MaUXZKyIUMhi1EcGoJb"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346875,
+      "name": "Way To Paradice",
+      "url": "https://open.spotify.com/track/0o0GV5jONy1DkYlpmBcf8U"
+    },
+    {
+      "album": {
         "name": "We Bring It",
         "url": "https://open.spotify.com/album/4rKPPgUL5T28e6YPPsTz5Y"
       },
@@ -45708,7 +46030,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 219847,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/41xsqNybEsHNTyTPPUeRNR"

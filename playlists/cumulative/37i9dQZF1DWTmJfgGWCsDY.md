@@ -2,7 +2,7 @@
 
 ### [Singeli Sounds](https://open.spotify.com/playlist/37i9dQZF1DWTmJfgGWCsDY)
 
-> This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Meja Kunta
+> This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
 159 songs - 10 hr 38 min
 

@@ -4295,6 +4295,28 @@
     },
     {
       "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/0OsDXhcfv7epx8kaREv4xy"
+      },
+      "artists": [
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        },
+        {
+          "name": "Ammara",
+          "url": "https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212129,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/2T09uhdl7hZohdD6YXjSHK"
+    },
+    {
+      "album": {
         "name": "Looking For Loving",
         "url": "https://open.spotify.com/album/0bX0zgIdh5HIosOanFy4gH"
       },
@@ -6466,7 +6488,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 248573,
       "name": "Secretariat (feat. Shaun J. Wright & Kon)",
       "url": "https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh"

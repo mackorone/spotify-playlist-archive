@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-08",
-  "description": "Soul to brighten up your day. Cover: TA Thomas",
+  "description": "Soul to brighten up your day. Cover: Sekou",
   "name": "Soulful Day",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-17",
+      "date_removed": null,
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 305829,
       "name": "Free",
       "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 119791,
       "name": "Hash Browns",
       "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
@@ -1694,6 +1694,24 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "album": {
+        "name": "How Can I Repay You",
+        "url": "https://open.spotify.com/album/1Zl2O0yqoYNBozPJSsyjQ1"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "How Can I Repay You",
+      "url": "https://open.spotify.com/track/5denI7iQLfRsr9HPVVGcCA"
     },
     {
       "album": {
@@ -2633,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Miss Black America",
+        "url": "https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/6f5mcAYXtP0CMofbR41V0V"
+    },
+    {
+      "album": {
         "name": "Mystery ft. PJ Morton",
         "url": "https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI"
       },
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 98106,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3N0rr1gykVtY9q43UnQfj6"

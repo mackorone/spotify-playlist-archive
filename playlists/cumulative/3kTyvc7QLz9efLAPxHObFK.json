@@ -21613,6 +21613,28 @@
     },
     {
       "album": {
+        "name": "Hoppa",
+        "url": "https://open.spotify.com/album/5yfzgdbXAWtu5uqQd69mQg"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        },
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Hoppa",
+      "url": "https://open.spotify.com/track/2jZ870G5eHOdCloPNXJmwi"
+    },
+    {
+      "album": {
         "name": "HORZ",
         "url": "https://open.spotify.com/album/2T9tjk2wg883KFow9nY4BD"
       },

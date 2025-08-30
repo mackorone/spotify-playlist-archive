@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec M. Pokora",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec marguerite",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -3567,6 +3567,24 @@
     },
     {
       "album": {
+        "name": "Nous deux",
+        "url": "https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "Mod\u00e8le",
+      "url": "https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS"
+    },
+    {
+      "album": {
         "name": "Mon coeur s'emballe",
         "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
       },
@@ -5442,24 +5460,6 @@
       "duration_ms": 140947,
       "name": "Toute seule - 2024",
       "url": "https://open.spotify.com/track/3J1lGIvRnqJ2XmVgwi9TMP"
-    },
-    {
-      "album": {
-        "name": "Nous deux",
-        "url": "https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1"
-      },
-      "artists": [
-        {
-          "name": "Maheva",
-          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
-        }
-      ],
-      "date_added": "2025-08-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS"
     },
     {
       "album": {

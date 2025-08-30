@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Morning After Artwork: Isu Kim
 
-3,593 songs - 8 day 18 hr 18 min
+3,594 songs - 8 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2888,6 +2888,7 @@
 | [Shine](https://open.spotify.com/track/5KYK5m6KdA86XpCjea0IGK) | [Dence Unwired](https://open.spotify.com/artist/28qfHGjXzjVqBQRr02u07O) | [Shine](https://open.spotify.com/album/2jCOALIZfo1dEkUeMF2Bfs) | 3:22 | 2022-03-24 | 2022-04-01 |
 | [shine!](https://open.spotify.com/track/1jBtRwVBVeboMcjYT2GR6f) | [notmetro](https://open.spotify.com/artist/1z0DK5LhwUlPkJvkst4pFW), [ponsi!](https://open.spotify.com/artist/3CSwwOPMfASrGR6O0k6XDq), [Jah](https://open.spotify.com/artist/1upRCVBw1Q1AvwGC95b2ty), [zaniel](https://open.spotify.com/artist/3PUcGRqlIhzjm82abj6FSh) | [shine!](https://open.spotify.com/album/5Xroq74eW72Q4ncboipspj) | 2:35 | 2024-06-13 | 2024-07-12 |
 | [Shipping Fee](https://open.spotify.com/track/4D02JXAGykoLiY6kxBW1v8) | [Ellie](https://open.spotify.com/artist/33pKp0ROQz8DbjeTaKV7q1) | [Shipping Fee](https://open.spotify.com/album/2scUS7vOAE1ryPiAUHrKR2) | 2:36 | 2023-06-08 | 2023-06-23 |
+| [Shmoke Freestyle](https://open.spotify.com/track/33fvhfCwsWfksyUoy2Yj2Z) | [Tuff Baby](https://open.spotify.com/artist/3azOC28mEgixFNGL0OgyoC) | [Shmoke Freestyle](https://open.spotify.com/album/5LGmFlp3gC0dXhNeEKyMfG) | 1:55 | 2025-08-28 |  |
 | [Shout Out \(feat\. Jess\)](https://open.spotify.com/track/30WU4Dx9MuiL61VanQCq17) | [Bvelasquez](https://open.spotify.com/artist/1lsRa1HDgpqS27pkNaNBiz), [Jess](https://open.spotify.com/artist/58o65Mq4rp7YmyVkXlqrbT) | [Shout Out \(feat\. Jess\)](https://open.spotify.com/album/6NuVpM7affoayKyOAKZdwS) | 3:32 | 2025-05-30 | 2025-07-18 |
 | [Show It Off](https://open.spotify.com/track/5FyXN7iv5GmiBtYNAvDkGA) | [Krei](https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI) | [Show It Off](https://open.spotify.com/album/0pIy5zn5ysnDiX805Pv3qP) | 2:35 | 2024-06-27 | 2024-08-09 |
 | [SHOW ME LOVE](https://open.spotify.com/track/0LIDotBDFhkXr7O5x3dtyU) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM), [TeLow](https://open.spotify.com/artist/30f1Tf6u53B12iOEyYGsqU) | [SHOW ME LOVE](https://open.spotify.com/album/2rpx4kgxfyus6RDOawX9Hw) | 3:12 | 2022-09-08 | 2022-11-25 |

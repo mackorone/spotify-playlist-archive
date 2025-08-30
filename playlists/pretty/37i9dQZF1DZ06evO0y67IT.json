@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK5KgAAAAABsfrcpik9dxZmmKa+zWPZh",
+  "snapshot_id": "aK+cAAAAAAD/RinQNDaMCAknlWAtuml2",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 201760,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Hollywood & Vine",
-      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Hollywood & Vine",
+      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rain Just Follows Me",
         "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 198066,
       "name": "Spray Paint It Black",
       "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
       "duration_ms": 205229,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 224550,
       "name": "Walls",
       "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,

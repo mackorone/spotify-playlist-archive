@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "All We've Ever Known",
+        "url": "https://open.spotify.com/album/5MuveroOf9KvC6mC3IUOeF"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Immy Odon",
+          "url": "https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "All We've Ever Known",
+      "url": "https://open.spotify.com/track/0BrcT26Jb5SNAJSVRMPdVo"
+    },
+    {
+      "album": {
         "name": "Alone EP",
         "url": "https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8"
       },

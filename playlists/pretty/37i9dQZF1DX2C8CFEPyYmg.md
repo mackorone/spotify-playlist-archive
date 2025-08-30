@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 
 > Soothing strings for our sleepy little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,062 likes - 115 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,065 likes - 115 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 29 | [Night Bloom](https://open.spotify.com/track/0nD6TTIGnE9oIhxf05kkLx) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Night Bloom](https://open.spotify.com/album/3CeNMgkjbqdib08f7ZFDdg) | 2:21 |
 | 30 | [Moon, Sun, See Where You Are](https://open.spotify.com/track/2gQyfjfnYiXB1b3jG7Soem) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Moon, Sun, See Where You Are](https://open.spotify.com/album/20OQxcjYs4Yjr6am1FX1dk) | 2:05 |
 | 31 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 |
-| 32 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 |
+| 32 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Lill Bosse](https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 |
 | 33 | [Row Row Row Your Boat](https://open.spotify.com/track/7tGsqfYOTrqcv4v9BD8Dkr) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Row Row Row Your Boat](https://open.spotify.com/album/7k92ZdO7IcT8gBmcJuzpqr) | 1:16 |
 | 34 | [Slow Dreams](https://open.spotify.com/track/1mrILGidcTcj68OEmOQSy4) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Slow Dreams](https://open.spotify.com/album/5uFnxrYzEXUlVGBA54psoX) | 2:04 |
 | 35 | [Sundown](https://open.spotify.com/track/5sDWTIQA0WOxN1mrmHozll) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Sundown](https://open.spotify.com/album/3gV34Vve5N102bJ1av3p81) | 2:23 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 58 | [The Sleepy Caterpillar's Lullaby](https://open.spotify.com/track/1H4oDQRjK1LVJISamS4NoA) | [Buster Dyson](https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq) | [The Sleepy Caterpillar's Lullaby](https://open.spotify.com/album/7t00HarMnRpLG6mEari1kM) | 1:28 |
 | 59 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 |
 | 60 | [Stars Cuddling](https://open.spotify.com/track/4aWuJxWpD0DChfyRS0JfdY) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Stars Cuddling](https://open.spotify.com/album/1CHVC4Msc8WDNRHZk8VRXM) | 2:16 |
-| 61 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Sia Bradley](https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 |
+| 61 | [Someday](https://open.spotify.com/track/64Ka9BzzbhnouV8KbyV4rI) | [Mood Of Harps](https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q) | [Someday](https://open.spotify.com/album/2Wy3saGcEXXxy72qd5ovUK) | 2:28 |
 | 62 | [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 |
 | 63 | [Mrs Frog's Daydream](https://open.spotify.com/track/3QnjauHkZ71ZupNKuSGcxC) | [Francine Reveur](https://open.spotify.com/artist/2Cy1U663G5b7w3j3CUNgiQ) | [Mrs Frog's Daydream](https://open.spotify.com/album/2iZtihUu4yn7SvXotNqxHr) | 1:42 |
 | 64 | [Little Sweet Pea](https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Little Sweet Pea](https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO) | 1:59 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 66 | [Somewhere over the Rainbow](https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s) | [Sasha Zimmerman](https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM) | [Somewhere over the Rainbow](https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0) | 1:51 |
 | 67 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
 | 68 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 |
-| 69 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
+| 69 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Astrid Fletcher](https://open.spotify.com/artist/3igWAsVVTd9O8R9KOMSY4K) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
 | 70 | [Too\-Ra\-Loo\-Ra\-Loo\-](https://open.spotify.com/track/4IrWLFVlYt4g6kAX4oFOCk) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Too\-Ra\-Loo\-Ra\-Loo\-Ral](https://open.spotify.com/album/3gpqrTKYg6sy2dqsG8yQI5) | 2:13 |
 | 71 | [Calm Dreams](https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Calm Dreams](https://open.spotify.com/album/1hKwkcZMb8NP9vzAaU0SvB) | 1:41 |
 | 72 | [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 |
 | 73 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 |
-| 74 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
+| 74 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
 | 75 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD) | 1:26 |
 | 76 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 |
 | 77 | [When All is Still](https://open.spotify.com/track/5wlqpvyKm7gB9wApVgaIB5) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [When All is Still](https://open.spotify.com/album/6Lx0sIEcfysXZfGFm2QAMC) | 2:01 |

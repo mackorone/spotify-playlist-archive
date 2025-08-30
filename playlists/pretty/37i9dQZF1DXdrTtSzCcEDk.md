@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrTtSzCcEDk.md) - [plain]
 
 > Listen to the soundtracks of Buried Hearts\. \(보물섬의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 755 likes - 47 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 756 likes - 47 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrTtSzCcEDk.md) - [plain]
 | 2 | [Think Of Me](https://open.spotify.com/track/4FIclO2rkmWgPKddpWQoI7) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5hLi1SItRz5kCnGHFjVEt2) | 4:15 |
 | 3 | [Break Through](https://open.spotify.com/track/4tn0pD2FqGzRk7aYlGYo3Q) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 3:49 |
 | 4 | [Break Through \- Orchestra Version](https://open.spotify.com/track/6DHYmbWoZ6fBJStg2IRXij) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 4:16 |
-| 5 | [Stand By Me](https://open.spotify.com/track/7LlCMXer4UnovDGdFKhHQh) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 |
+| 5 | [Stand By Me](https://open.spotify.com/track/7LlCMXer4UnovDGdFKhHQh) | [Elaine Kim](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 |
 | 6 | [Confusion](https://open.spotify.com/track/2Ra0CiV9BzLmIbxpbFHSLC) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 |
 | 7 | [Next To You](https://open.spotify.com/track/4EamzBjJGIZKearknNq3hy) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l) | 3:30 |
 | 8 | [Break Through \- Orchestra Version Instrumental](https://open.spotify.com/track/1GnoYAe2J56T7gy6s6NEgC) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 4:16 |
 | 9 | [Break Through \- Instrumental](https://open.spotify.com/track/1hwA08Pi1JnsDMovKant06) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4jmtdgwQ5KF7T4ctahZ9c3) | 3:49 |
 | 10 | [I'll Wait For You \- Instrumental](https://open.spotify.com/track/1MW5EYZlM38AJB9pGCXpRT) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/0SvgTVruw1yAx3KhUYyCwb) | 4:23 |
-| 11 | [Stand By Me \- Instrumental](https://open.spotify.com/track/2MkQD4Y9XLF0NkzHDszA1n) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 |
+| 11 | [Stand By Me \- Instrumental](https://open.spotify.com/track/2MkQD4Y9XLF0NkzHDszA1n) | [Elaine Kim](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0bnmX48jdvWM1DI84cEvdC) | 3:19 |
 | 12 | [Confusion \- Instrumental](https://open.spotify.com/track/6zxtrcFiwaRx6N945xUD6A) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7BjmsMYl74bHxiPyq9UFZ5) | 4:06 |
 | 13 | [Next To You \- Instrumental](https://open.spotify.com/track/1XHW83PfcmB4UgXF79UMCa) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4fAXwYv6x7K1r8B4bVod3l) | 3:30 |
 | 14 | [Think Of Me \- Instrumental](https://open.spotify.com/track/4thbXASxndrvCahl72eT80) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Buried Hearts \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5hLi1SItRz5kCnGHFjVEt2) | 4:15 |

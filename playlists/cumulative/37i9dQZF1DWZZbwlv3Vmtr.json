@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 115763,
       "name": "alley",
       "url": "https://open.spotify.com/track/59lzglOONvlnXfTarq1POU"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 95999,
       "name": "autumn nights",
       "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 118411,
       "name": "Autumn Stroll",
       "url": "https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO"
@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Bonne Nuit",
+        "url": "https://open.spotify.com/album/1BIWWMpIz8gCx3eubMSXLw"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "Dan\u00e6",
+          "url": "https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Bonne Nuit",
+      "url": "https://open.spotify.com/track/6bAg5fP8ZR5eITVjmie4xG"
+    },
+    {
+      "album": {
         "name": "Bottled Message",
         "url": "https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe"
       },
@@ -2248,6 +2270,24 @@
       "duration_ms": 106532,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6JD16eoMFjKNU9OVmSL2eq"
+    },
+    {
+      "album": {
+        "name": "Cappuccino Catch Ups",
+        "url": "https://open.spotify.com/album/3wgYb6Gjaizk76GxwhOb3u"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125387,
+      "name": "Cappuccino Catch Ups",
+      "url": "https://open.spotify.com/track/7vQI9zKSJ8eZJwdbh0YogB"
     },
     {
       "album": {
@@ -2931,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "cloud particle",
+        "url": "https://open.spotify.com/album/5TqJX9j4jCjA0kh4XofYs2"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134278,
+      "name": "cloud particle",
+      "url": "https://open.spotify.com/track/7Aa5Q9nUoPc0Eln7WBExO3"
+    },
+    {
+      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/1utT9lyWjLansgGNGrMe8l"
       },
@@ -3034,6 +3092,24 @@
       "duration_ms": 135857,
       "name": "Cocoa",
       "url": "https://open.spotify.com/track/6Qrn5SUZPm50Ko3FJTkeT9"
+    },
+    {
+      "album": {
+        "name": "coffee",
+        "url": "https://open.spotify.com/album/75scui9old7tKije9SEYFn"
+      },
+      "artists": [
+        {
+          "name": "Soft Illy",
+          "url": "https://open.spotify.com/artist/2uNhXN2lFd8cDOAAEvjAhV"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139691,
+      "name": "coffee",
+      "url": "https://open.spotify.com/track/2C7VA1VMLDgeNjr4i3h0V1"
     },
     {
       "album": {
@@ -5818,7 +5894,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 111493,
       "name": "fruta verde",
       "url": "https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg"
@@ -9909,6 +9985,24 @@
     },
     {
       "album": {
+        "name": "Mellowed Out",
+        "url": "https://open.spotify.com/album/2TtHKdUbRqUlAJt8JJ8dLG"
+      },
+      "artists": [
+        {
+          "name": "bleubeats",
+          "url": "https://open.spotify.com/artist/17xtshp63CJcjSRpRowYMm"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Mellowed Out",
+      "url": "https://open.spotify.com/track/4muVdc3j9JyY9vgxzNwo2J"
+    },
+    {
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS"
       },
@@ -10796,7 +10890,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 120375,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/2tpt0vstkDIemSBz5WlRhG"
@@ -11700,7 +11794,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 84000,
       "name": "On The Ropes",
       "url": "https://open.spotify.com/track/4sO0G4xNHYN2Z7u710SrdN"
@@ -12996,6 +13090,24 @@
       "duration_ms": 98666,
       "name": "Postman",
       "url": "https://open.spotify.com/track/4lljvV3zQYu8CBBrfbj7wj"
+    },
+    {
+      "album": {
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/7cLa03rJbsju7Bsw3Ko4SB"
+      },
+      "artists": [
+        {
+          "name": "Moss Hill",
+          "url": "https://open.spotify.com/artist/6GIHt9bMvP0nkiMY6tCxZt"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Prana",
+      "url": "https://open.spotify.com/track/1xidlDsy2qSSmoAAr8roij"
     },
     {
       "album": {
@@ -16854,7 +16966,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 128248,
       "name": "Surfing Cats",
       "url": "https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2"
@@ -18720,6 +18832,24 @@
       "duration_ms": 108859,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/3SQS72cQY2TM0nDYJip1yZ"
+    },
+    {
+      "album": {
+        "name": "Velvet Cosmos",
+        "url": "https://open.spotify.com/album/2o8v3cAROlQ75GHSENZumD"
+      },
+      "artists": [
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78947,
+      "name": "Velvet Cosmos",
+      "url": "https://open.spotify.com/track/5ZoeTjSgPYBch4iP2JSyIK"
     },
     {
       "album": {

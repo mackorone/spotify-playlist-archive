@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "BADITUDE",
+        "url": "https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9"
+      },
+      "artists": [
+        {
+          "name": "SOOJIN",
+          "url": "https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "BADITUDE",
+      "url": "https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B"
+    },
+    {
+      "album": {
         "name": "OVERSTEP",
         "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
       },
@@ -7434,7 +7452,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 224000,
       "name": "F*cked Up",
       "url": "https://open.spotify.com/track/4RXBQjfrhHkVDiLZBd52yN"
@@ -13686,6 +13704,24 @@
       "duration_ms": 173440,
       "name": "LOVE me",
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+    },
+    {
+      "album": {
+        "name": "POSER",
+        "url": "https://open.spotify.com/album/0nMWRJyIjND1q5lSMW4fus"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1"
     },
     {
       "album": {
@@ -20624,7 +20660,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 177013,
       "name": "Snowy Summer",
       "url": "https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd"

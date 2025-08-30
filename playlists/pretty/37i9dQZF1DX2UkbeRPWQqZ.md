@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,500 likes - 100 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,502 likes - 100 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 36 | [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 |
 | 37 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 |
 | 38 | [This Old Man](https://open.spotify.com/track/0W3lwmDR8B83b8puxO89HE) | [Karina Grant](https://open.spotify.com/artist/6z6tjX6FtOo6WOkE8CrLn6) | [This Old Man](https://open.spotify.com/album/6Srd3HVugYrR8GuT98wYFK) | 1:41 |
-| 39 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
+| 39 | [Cute Sleep](https://open.spotify.com/track/5wR2MeBhcuXKNg13WdqrG5) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Cute Sleep](https://open.spotify.com/album/76VOEx1ROad6QtUu6CWsVY) | 1:15 |
 | 40 | [Diana's Lullaby](https://open.spotify.com/track/37QpHcbzcbvyy7Uk6Y4dTT) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Diana's Lullaby](https://open.spotify.com/album/4m2rK0IW4trIi16iEnbZla) | 1:27 |
 | 41 | [Yankee Doodle](https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Yankee Doodle](https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0) | 2:19 |
 | 42 | [Five In The Morning](https://open.spotify.com/track/7HZwjhPILEmhB0ccHRhpcp) | [Ellio Chanson](https://open.spotify.com/artist/1kj2CTKpnlYp8mK1zAuO43) | [Five In The Morning](https://open.spotify.com/album/2FySZAFIuyM1fJT7OnR5qg) | 2:27 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 96 | [Daisy Bell](https://open.spotify.com/track/72i5koWfpsQN8AzUEz7KBf) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Guitar Lullabies](https://open.spotify.com/album/7jCdBijkzNHKxB6wGHtUGk) | 2:21 |
 | 97 | [The Sun Has Set](https://open.spotify.com/track/0IPKK4PN1dP81iivLNdJXq) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [The Sun Has Set](https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1) | 1:40 |
 | 98 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/2hdBiTLnpeyWGQYf3hzMMP) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/album/37wsRFcohKgI5VZZaFlajv) | 2:23 |
-| 99 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 |
+| 99 | [Mi Pequeña Bebe](https://open.spotify.com/track/6PJ8TOLeJxDeybMbyUBQFK) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Mi Pequeña Bebe](https://open.spotify.com/album/3Z5U8zt4ED2iUwDJYLOTIo) | 1:49 |
 | 100 | [Didn't Leave Nobody But The Baby](https://open.spotify.com/track/0PBh9LFtymLaYnhvd6fe2k) | [Senji Kamal](https://open.spotify.com/artist/06WIFhsuEEEhVPORcRujvv) | [Didn't Leave Nobody But The Baby](https://open.spotify.com/album/2MBM8XF3O3GYRNEVSFd4oF) | 1:35 |
 
 Snapshot ID: `AAAAAEJdRRNlZ5J52BClycPzrph8Gj/i`

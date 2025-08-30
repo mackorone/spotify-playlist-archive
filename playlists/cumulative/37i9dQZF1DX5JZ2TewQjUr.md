@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  宇宙幽靈 Uchu Yurei
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Dessy
 
-1,500 songs - 3 day 12 hr 38 min
+1,504 songs - 3 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [DISAPPOINTED](https://open.spotify.com/track/6dfrtndSCFoERc6DvIXUi0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [KnowKnow](https://open.spotify.com/artist/5RDc1XN9Dj5KcNGPMEhtzN) | [DISAPPOINTED](https://open.spotify.com/album/5xyxG8Bf7weASYvzBET2jU) | 3:12 | 2024-12-12 | 2025-02-14 |
 | [Dive Into](https://open.spotify.com/track/5duQk4TjziGGXduPwBC7f4) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt), [Anagreta](https://open.spotify.com/artist/1SipH088atGLTvgOSYagbm) | [Dive Into](https://open.spotify.com/album/1KZaiyn4EbSFEOdXFsWC7Z) | 4:03 | 2022-05-26 | 2022-07-29 |
 | [DO I KNOW](https://open.spotify.com/track/5x1Fb3fvsnWtDZktnWjuF5) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd) | [SKETCHTAPE VOL.1](https://open.spotify.com/album/2zGzxtcjTe8WaOgA6ky2vN) | 2:35 | 2023-06-01 | 2023-11-03 |
+| [DO IT \(想做就做\)](https://open.spotify.com/track/2Is1tZnWcnk4J2TrvA3kaS) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [DO IT \(想做就做\)](https://open.spotify.com/album/2mDKanz46CBAcy4UljqKcl) | 2:31 | 2025-08-28 |  |
 | [Do You Feel Me](https://open.spotify.com/track/63twHBNu0zvlkjYD78klDW) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [Do You Feel Me](https://open.spotify.com/album/7oibqj4uYmpER0rnSgUYnm) | 2:59 | 2023-06-08 | 2023-09-01 |
 | [Do You Love Me?](https://open.spotify.com/track/0j2Cs6iTuMwEEWBSyhs0VX) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Do You Love Me?](https://open.spotify.com/album/2YGYz3m7VLq82zVQ9NND7o) | 3:17 | 2024-10-31 | 2025-02-14 |
 | [Do You Love Me? \- sped up version](https://open.spotify.com/track/3XhvBRy31eLzI7Iutjfdjn) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [Do You Love Me? \(sped up version\)](https://open.spotify.com/album/5SuCPOpSAO5C6pKCkHlSwr) | 2:25 | 2024-12-26 | 2025-04-25 |
@@ -284,6 +285,7 @@
 | [Five Minutes To Six](https://open.spotify.com/track/1o2CXNU2jbeTcUYpaO2C4l) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [Five Minutes To Six](https://open.spotify.com/album/2dsXUqnxE68A0cbVotQcF9) | 5:35 | 2023-12-28 | 2024-05-10 |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2023-06-08 | 2023-10-20 |
 | [FLIRT!](https://open.spotify.com/track/648fbiKEEBXTuoWe1JSqGc) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [FLIRT!](https://open.spotify.com/album/1xlPFUUvIJNnSyziSTb2ky) | 2:27 | 2025-02-14 | 2025-05-30 |
+| [Florence](https://open.spotify.com/track/2ryxZc8R0lmcnQgd1ydy69) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [Florence](https://open.spotify.com/album/2aJYRLmMws7AJFriKI5giN) | 4:16 | 2025-08-28 |  |
 | [Fly Away](https://open.spotify.com/track/2JtJ71l0oaXYpJooGcN9ej) | [Yuki Lovey](https://open.spotify.com/artist/4o8jCavg8iCZ7lXJmJ6wGz) | [Fly Away](https://open.spotify.com/album/4gO6AilDh14wlHvxkL1ljL) | 4:18 | 2024-12-26 | 2025-05-30 |
 | [FLY4U 別問](https://open.spotify.com/track/4vcIZoTNQ87c2OzxooTeGA) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [mikeygoincrazy](https://open.spotify.com/artist/2ekMYIs7rn2li4SP5ZmGmn) | [LIKE JADE](https://open.spotify.com/album/2UueyvCFBKX2qLSDaH2WYh) | 2:06 | 2024-05-23 | 2024-11-15 |
 | [flyfly](https://open.spotify.com/track/2xtgPG6wQ1XOGP0K27my9j) | [Kong Mok 江莫](https://open.spotify.com/artist/5LVmSkJ9l43bHRkhpkSzXa) | [flyfly](https://open.spotify.com/album/1o5csqyXfGLno979j1BaxX) | 4:38 | 2024-01-02 | 2024-05-10 |
@@ -929,6 +931,7 @@
 | [USE](https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [130k across the highway](https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif) | 2:34 | 2023-10-05 | 2024-01-05 |
 | [Voodoo](https://open.spotify.com/track/4FXyCbM9p5MG7W77fx8aoP) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Eric Sisco](https://open.spotify.com/artist/3CrVovDwDm5J4T5Ql8ludA), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Voodoo](https://open.spotify.com/album/7H9iqUhpuBNriCSnYi1yp9) | 2:43 | 2024-10-10 | 2025-02-14 |
 | [waiting for you](https://open.spotify.com/track/6SQlsmneR2rMN11QyfwnQh) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [waiting for you](https://open.spotify.com/album/3zCjzqYdYy9gjZRZ6JiLQQ) | 2:48 | 2024-04-04 | 2024-11-15 |
+| [WALKED](https://open.spotify.com/track/1AEJsCgZiaCyicipEX8Jrs) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [WALKED](https://open.spotify.com/album/28EWcaIX12mjAi2xUeAtVG) | 2:46 | 2025-08-28 |  |
 | [Walking Song](https://open.spotify.com/track/2KQzlPNWY1yPAwWHXYIBGS) | [Cat Lau](https://open.spotify.com/artist/5b6vF9dlzYkPXX89LidEH9) | [Walking Song](https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj) | 5:13 | 2023-05-18 | 2023-09-01 |
 | [WANBAAU](https://open.spotify.com/track/2IzTDUiubt4vqGHRGH14NT) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd), [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee) | [A BRIEF MOMENT OF YOU \(BONUS\)](https://open.spotify.com/album/5ZlR1DCKdMAVKH64qVkltt) | 3:08 | 2024-03-07 | 2024-11-15 |
 | [Wanna Be](https://open.spotify.com/track/2Atg7euWMFKjyMNhykhp5e) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k) | [Wanna Be](https://open.spotify.com/album/3tZjEf529XcIyRx6a3WET7) | 2:09 | 2025-05-29 |  |
@@ -1135,6 +1138,7 @@
 | [回憶半分鐘 \(feat\. Gordon Flanders\) \- Aurora Version](https://open.spotify.com/track/30oOj7kQ6o0sMj2y5F0zwU) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk), [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [回憶半分鐘 \(feat\. Gordon Flanders\) \[Aurora Version\]](https://open.spotify.com/album/24BfobCbKKh3pjL2m13Z5h) | 3:47 | 2024-03-14 | 2024-11-15 |
 | [回歸日](https://open.spotify.com/track/0kAgC8FFL0kjOmqTtN9e3K) | [KID ALVIN](https://open.spotify.com/artist/7ypKMq4idveSB1ax6PjCIo), [MU 木](https://open.spotify.com/artist/11kY3ZdZA2hjGdxSfoN9i5) | [回歸日](https://open.spotify.com/album/4Leb4qk9jVBp5HFVyVr8oh) | 2:46 | 2024-10-17 | 2025-02-14 |
 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 | 2022-11-04 |
+| [在下一陣風來之前](https://open.spotify.com/track/6l17A7oYVPcQCESCD9aORl) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [在下一陣風來之前](https://open.spotify.com/album/0JR5nVUM1yR6AnMT6oFleD) | 3:46 | 2025-08-28 |  |
 | [在憂鬱的熱帶](https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [在憂鬱的熱帶](https://open.spotify.com/album/0hZUeIpNSBw7mjoZLDkzeW) | 3:46 | 2025-02-27 | 2025-07-11 |
 | [在觀濱中出錯](https://open.spotify.com/track/1M2JjyXzqjqmYBR0wXY4qG) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [在觀濱中出錯](https://open.spotify.com/album/1x5iaF3JE0TRqxM72STrzG) | 4:01 | 2025-04-17 | 2025-08-01 |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 | 2022-07-29 |

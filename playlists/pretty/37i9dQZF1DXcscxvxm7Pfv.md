@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,175 likes - 175 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,308 likes - 175 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 127 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 |
 | 128 | [Noise by the Ocean](https://open.spotify.com/track/5wQKahjsqUz3FiKQ0qZxUP) | [The Noise Nannies](https://open.spotify.com/artist/48aOQA9ncCbyJEekpVMT1l) | [Good Night](https://open.spotify.com/album/6a4HHyJwk1irUwo4X8Uxx4) | 4:08 |
 | 129 | [The best Sleep Noise](https://open.spotify.com/track/6cNCm1mNVc81UwLQc3Ze03) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [The best Sleep Noise](https://open.spotify.com/album/2YX5LALBMTwcmbT0U0tU4I) | 4:34 |
-| 130 | [White Noise White Lights](https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB) | [The 375](https://open.spotify.com/artist/65o4tTrFgfFOxe5x2dj9ix) | [White Noise White Lights](https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw) | 2:28 |
+| 130 | [Sky Noise](https://open.spotify.com/track/5VBsrCjgAi5LCEm3qi6jDB) | [The Rain Crew](https://open.spotify.com/artist/0YtEZ0PyTeyY3bit3tlhPG) | [White Noise White Lights](https://open.spotify.com/album/4iA06G0Vj9kyAnXylxCVuw) | 2:36 |
 | 131 | [Peaceful Slumber](https://open.spotify.com/track/1vhZ83QMHBttbuFUypeBYz) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:09 |
 | 132 | [Barely There White Noise](https://open.spotify.com/track/11MLDtbj0LZubMid56ye2M) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 2:49 |
 | 133 | [White Noise warms the Night](https://open.spotify.com/track/3RtmvRvYqnpTNcMb3c1rMH) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise warms the Night](https://open.spotify.com/album/1ECUAqLyinBsBbqi3yD6aK) | 5:42 |

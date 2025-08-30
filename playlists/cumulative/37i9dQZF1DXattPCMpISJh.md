@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-318 songs - 19 hr 39 min
+319 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Say You Will](https://open.spotify.com/track/4z0dNvWLgIurGazB5SIQOw) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Be Mine EP](https://open.spotify.com/album/5WuwrJvqloEq5dfRnSj9Ro) | 4:13 | 2022-03-25 | 2023-04-09 |
 | [Seven Years](https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Seven Years](https://open.spotify.com/album/4KWPvlYdnsbL0WKgUTFOxt) | 2:25 | 2022-03-04 | 2023-05-20 |
 | [Shot In The Dark](https://open.spotify.com/track/1HEvA91tHBpt78hZLIq0MG) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Shot In The Dark](https://open.spotify.com/album/1d5rKxAiv7gfOPO8Yb0TSm) | 3:39 | 2023-04-07 | 2023-07-08 |
-| [Sick of Sadness \- Lenno Remix](https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny) | [Chloe Jane](https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Sick of Sadness \(Lenno Remix\)](https://open.spotify.com/album/6gtJFIDauQWU9t8hq3tVzP) | 4:52 | 2023-04-28 |  |
+| [Sick of Sadness \- Lenno Remix](https://open.spotify.com/track/68xWjTE614YgMSGWNjnKny) | [Chloe Jane](https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Sick of Sadness \(Lenno Remix\)](https://open.spotify.com/album/6gtJFIDauQWU9t8hq3tVzP) | 4:52 | 2023-04-28 | 2025-08-30 |
 | [Slippery People \(feat\. Ramona Renea & Fiorious\) \- 7" Version](https://open.spotify.com/track/5fMOwEhgSz8fHijNO2wj7y) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Slippery People \(feat\. Ramona Renea & Fiorious\)](https://open.spotify.com/album/38PKVrUY6GoGSxWcDmspPd) | 3:14 | 2022-10-28 | 2023-03-11 |
 | [Slow / Love to Love You Baby \(From the Infinite Disco Livestream\)](https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3) | 3:13 | 2022-04-08 | 2024-02-10 |
 | [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-08 | 2023-11-18 |
@@ -275,6 +275,7 @@
 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 | 2023-04-14 |  |
 | [Talk To Me](https://open.spotify.com/track/1vGANe8vFo5A0y3P7XNhFS) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Talk To Me](https://open.spotify.com/album/2rMfKJjaLsupaBD3kkF78e) | 4:04 | 2024-03-29 | 2024-05-11 |
 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 | 2025-05-09 |  |
+| [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 |  |
 | [Telepathy](https://open.spotify.com/track/2xB5FQsZMhM9FHkvl8qh5C) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [Blake Anthony](https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb) | [Telepathy](https://open.spotify.com/album/2jgvP8GP6bzoQBfU5CM706) | 3:28 | 2022-02-25 | 2023-02-11 |
 | [Temporary](https://open.spotify.com/track/5DcEQDn2P3fmTHEOMSvbhi) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [My Way](https://open.spotify.com/album/2dHOwWDznBLl3JWst2FHWh) | 4:06 | 2025-01-17 |  |
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-20 |  |

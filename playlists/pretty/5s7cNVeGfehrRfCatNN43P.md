@@ -4,23 +4,27 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,899 likes - 14 songs - 41 min 48 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,899 likes - 18 songs - 55 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [How Can I Dance](https://open.spotify.com/track/7rFFmLqmB2lg2VShN6b3Bc) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:26 |
-| 2 | [airplane mode](https://open.spotify.com/track/322FQbCsyErVJEtZksCSta) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [unfinished business](https://open.spotify.com/album/7uMxeSRcrmsaj0VNUi5fVi) | 2:27 |
-| 3 | [Fort Knox](https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Fort Knox](https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl) | 3:18 |
-| 4 | [HOT BOYS MAKE HOT MUSIC](https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [HOT PEOPLE MAKE HOT MUSIC](https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W) | 3:53 |
-| 5 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
-| 6 | [More](https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [More](https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f) | 3:24 |
-| 7 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
-| 8 | [Burning Up](https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Burning Up](https://open.spotify.com/album/2ree99pgw7rfKASXNnx08q) | 2:06 |
-| 9 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
-| 10 | [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 |
-| 11 | [Outside](https://open.spotify.com/track/2J5QF5msyGgBhGB64aXUxP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Outside](https://open.spotify.com/album/1x5EvkMSkLdXBs0GHGpfeI) | 3:24 |
-| 12 | [Object of Desire](https://open.spotify.com/track/1GqR0hjHCPGndDX8D2FtBx) | [Fred Roberts](https://open.spotify.com/artist/4n1vjpbmyeFvTvMJX1TL0v) | [Object of Desire](https://open.spotify.com/album/12K3G8WHbq2DPWwFWRxnPM) | 2:42 |
-| 13 | [BANG BANG](https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [BANG BANG](https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2) | 2:18 |
-| 14 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 |
+| 1 | [Obsession](https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Obsession](https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la) | 2:44 |
+| 2 | [u don't have to tell me](https://open.spotify.com/track/6U5AgSYUubKMrMDEazfSsF) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [eat me alive / u don't have to tell me](https://open.spotify.com/album/3mxQzFNEhn2XAr2UvCt2bI) | 2:15 |
+| 3 | [Brooklyn Summer](https://open.spotify.com/track/2dF9onrFdwXSgZMg3zTxEj) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Brooklyn Summer](https://open.spotify.com/album/3Jtn7hFDIgWj5qo1fQzVkE) | 2:51 |
+| 4 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
+| 5 | [PSYCHO](https://open.spotify.com/track/0oTcCcZJoGxwyHmrtRWWbj) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [PSYCHO](https://open.spotify.com/album/2uWgYox0lOsOQfOXVER50n) | 3:16 |
+| 6 | [Unsaid](https://open.spotify.com/track/647hupSAtNWgvOz4cceZMc) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Don't Take It To Heart](https://open.spotify.com/album/6Si17VJRXepKjeeuTMLEwn) | 3:05 |
+| 7 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
+| 8 | [Perfect Lies](https://open.spotify.com/track/21OivEPIXmEskDa7vut2Y6) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Flux \(Lux Deluxe Edition\)](https://open.spotify.com/album/2eEn9F6JKaqens36eLZcGy) | 4:38 |
+| 9 | [Commas](https://open.spotify.com/track/0S7hKhEMgMKcA1O1ZKmwoE) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Commas](https://open.spotify.com/album/42tnvJGEEhjtaHf4l387PK) | 2:02 |
+| 10 | [ANGEL IN THE CLUB](https://open.spotify.com/track/0R0ArrUWlQE64ArlNI9mcb) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [ANGEL IN THE CLUB](https://open.spotify.com/album/1WCpYZEJDzMhSXVnmx4EeR) | 2:04 |
+| 11 | [Jeans](https://open.spotify.com/track/3Cbq8IDjjWms4oawoXK9vS) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Jeans](https://open.spotify.com/album/5gpo4h1qBQv4YhPcEGzaIc) | 3:15 |
+| 12 | [Afterbody](https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT II](https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI) | 3:08 |
+| 13 | [I Dare You](https://open.spotify.com/track/1s166KHIHNHlsmREqxQm5Y) | [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [I Dare You](https://open.spotify.com/album/26IkVnsFMO6WiWat5WYV4f) | 3:05 |
+| 14 | [Saturday](https://open.spotify.com/track/4RTM4wFDwqKUMMSHbjC5eA) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Saturday](https://open.spotify.com/album/0XgNimRWk6iKq1c9qsHXIU) | 2:40 |
+| 15 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 |
+| 16 | [Front Left Pocket](https://open.spotify.com/track/3Ek5fLtBoYhq6XGXg43u4a) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Front Left Pocket](https://open.spotify.com/album/4KtSgF7385l0x6FxUL4Afv) | 3:02 |
+| 17 | [How Does It Feel To Lose Me?](https://open.spotify.com/track/1pxKDyPgJRjZNpV4R6R66F) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [How Does It Feel To Lose Me?](https://open.spotify.com/album/1FrVujMXFTGqYpm3cMN2vJ) | 3:57 |
+| 18 | [Confetti](https://open.spotify.com/track/4XvXxozhqYuOxWMs4tdK1I) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Confetti](https://open.spotify.com/album/6SV8Z9EJQaUAU2OdUzriHo) | 2:41 |
 
-Snapshot ID: `AAALcUjayi8uRz0BphBOpU3Av9EFMfO2`
+Snapshot ID: `AAALc28by3jHXG9icCed7zdSnGELK/+R`

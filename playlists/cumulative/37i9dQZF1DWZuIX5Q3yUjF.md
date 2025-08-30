@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Shablo in cover della playlist dell'R&B italiano 🫀
+> I Delicatoni e Coca Puma sono  in cover della playlist dell'R&B italiano 🫀
 
 872 songs - 1 day 19 hr 4 min
 

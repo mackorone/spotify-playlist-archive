@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Bennett Coast, MCR-T &amp; Six Sex, plus the latest cuts from Joon Gloom, Miss Madeline and more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 187777,
       "name": "Dare To Dream",
       "url": "https://open.spotify.com/track/6ucg7y95YmqHOKoTtIHex8"
@@ -5521,6 +5521,36 @@
     },
     {
       "album": {
+        "name": "GANGSTA",
+        "url": "https://open.spotify.com/album/0s4zRYCurz2MGs79EgfN0t"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132265,
+      "name": "GANGSTA",
+      "url": "https://open.spotify.com/track/6FE2GKFS8DqrPZx45AOuyQ"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -5874,7 +5904,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 145116,
       "name": "Gotitas de Amor",
       "url": "https://open.spotify.com/track/6wSMwltJkT68WQoKEUXqq4"
@@ -6186,6 +6216,28 @@
       "duration_ms": 135709,
       "name": "Heartbroken I'm Lonely",
       "url": "https://open.spotify.com/track/6HI3GAwMiAjk4L0Md7OmK8"
+    },
+    {
+      "album": {
+        "name": "Paradise Music Remixed",
+        "url": "https://open.spotify.com/album/1d5aheW7rrzsrImerG5IYq"
+      },
+      "artists": [
+        {
+          "name": "inter alia",
+          "url": "https://open.spotify.com/artist/4XxygEqjEzswVq93XqGv77"
+        },
+        {
+          "name": "Simon K",
+          "url": "https://open.spotify.com/artist/1C1pQYCA77tKEdedDLtc5i"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Heartring - Simon K Remix",
+      "url": "https://open.spotify.com/track/2MmwJn4JZqR2XzwlfzaxFw"
     },
     {
       "album": {
@@ -7180,7 +7232,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 203500,
       "name": "In My System",
       "url": "https://open.spotify.com/track/7eV6nvr7yf0pKSqdKU4jsD"
@@ -10190,7 +10242,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 297177,
       "name": "Nylon",
       "url": "https://open.spotify.com/track/1h85BDvyYvA7xTSe94bVnC"
@@ -10402,7 +10454,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-30",
       "duration_ms": 256859,
       "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
       "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
@@ -12801,6 +12853,24 @@
     },
     {
       "album": {
+        "name": "Sinai Ray",
+        "url": "https://open.spotify.com/album/5KpoV1UIqmmkVAkZjG4SGs"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Sinai Ray",
+      "url": "https://open.spotify.com/track/4A3ri9SFKKgv5ydmHMAbhQ"
+    },
+    {
+      "album": {
         "name": "Singamo",
         "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
       },
@@ -13460,6 +13530,24 @@
       "duration_ms": 162909,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "album": {
+        "name": "Can's Gone Warm",
+        "url": "https://open.spotify.com/album/6d32RVZtGKQsmtUGLhHcs6"
+      },
+      "artists": [
+        {
+          "name": "Lauren Duffus",
+          "url": "https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278781,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/46UuJEBT3sWSaDxjmAA06j"
     },
     {
       "album": {
@@ -14260,6 +14348,24 @@
       "duration_ms": 175680,
       "name": "The Way You Say - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
+    },
+    {
+      "album": {
+        "name": "Theorem",
+        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Theorem",
+      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
     },
     {
       "album": {

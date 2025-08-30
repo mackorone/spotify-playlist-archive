@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,419 likes - 136 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,489 likes - 136 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 98 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 |
 | 99 | [Nuvole](https://open.spotify.com/track/7bxhomQAoW2NrwYzZtizGu) | [Fabio di Biase](https://open.spotify.com/artist/3ySI3lfDI3FG6om6IH3SCy) | [Nuvole](https://open.spotify.com/album/2ZDoqQeAsYADGiH3B7YYJa) | 4:38 |
 | 100 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 |
-| 101 | [Blue Monday](https://open.spotify.com/track/4RnZtmISmXtxJGUlf8c7fq) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Blue Monday](https://open.spotify.com/album/3OSpNDiDEt7X7TNKPjBZWU) | 4:14 |
+| 101 | [Blue Monday \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/4RnZtmISmXtxJGUlf8c7fq) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Blue Monday](https://open.spotify.com/album/3OSpNDiDEt7X7TNKPjBZWU) | 4:14 |
 | 102 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 |
 | 103 | [Ave María \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0) | [Sigvaldi Kaldalóns](https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Kaldalóns: Ave María \(Arr\. Víkingur Ólafsson\)](https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA) | 3:36 |
 | 104 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 |

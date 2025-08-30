@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Ndarboy Genk
 
-514 songs - 1 day 18 hr 58 min
+514 songs - 1 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Lamunan](https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [Lamunan](https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch) | 5:04 | 2024-06-10 |  |
 | [Lamunan](https://open.spotify.com/track/3lpjgJcdIjw6WVVzeGlCMT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Lamunan](https://open.spotify.com/album/7lNUodq1wzj8Oc8ocoy9E9) | 4:10 | 2024-03-08 | 2024-08-16 |
 | [Lanang Tenan](https://open.spotify.com/track/7cTa9Ba6N6N8DxccW1ydeG) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanang Tenan](https://open.spotify.com/album/5hqjpYvyKarkxa5twuWAVq) | 5:03 | 2025-04-25 |  |
+| [Lanang Tenan \- Akustik](https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanange Jagat](https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1) | 5:26 | 2025-08-28 |  |
 | [Lanang Tenan \- Live](https://open.spotify.com/track/2kbtyQrt1Pefa4JUwq23DM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanang Tenan \(Live\)](https://open.spotify.com/album/1X8TQHs1rvLs1N6mvv0cd7) | 6:15 | 2025-06-13 |  |
 | [Langganan Kleru \- Cover](https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Langganan Kleru \(Cover\)](https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU) | 5:15 | 2023-10-20 | 2024-01-12 |
 | [Langsung Tak Lamare](https://open.spotify.com/track/47y2sLaMzKX8bxA7jOZllu) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [DISKOJAWA](https://open.spotify.com/album/2Iw7DLb0poBl5a3sbiBk3d) | 5:12 | 2025-01-30 | 2025-03-14 |
@@ -483,7 +484,6 @@
 | [Top Topan](https://open.spotify.com/track/1BNwgKoLRIPAzGXHBo8crB) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Top Topan](https://open.spotify.com/album/4eCNT7NMn8l59MT51mFzDs) | 5:02 | 2022-05-26 | 2022-09-02 |
 | [TOP TOPAN](https://open.spotify.com/track/5RQqrD30qFyK5uZZE0J1kW) | [Kalia Siska](https://open.spotify.com/artist/70hsEvlt6YZPT97UIvzpEu), [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [TOP TOPAN](https://open.spotify.com/album/6JtO8rhbmqW1QoboTN1R8k) | 5:48 | 2022-05-26 | 2023-03-10 |
 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 | 2022-05-26 | 2023-10-13 |
-| [Track 3](https://open.spotify.com/track/6RtXC7FnUhv4HHfCTCMOSf) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lanange Jagat](https://open.spotify.com/album/6mUTE047dnxTzw92j1ZZL1) | 0:00 | 2025-08-28 |  |
 | [Tresna Humiring Waspa](https://open.spotify.com/track/3juFBGMCifyNH2TAY7X0zl) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Tresna Humiring Waspa](https://open.spotify.com/album/5gYk9UJ12zl1kwqcfq5LZj) | 6:54 | 2025-08-28 |  |
 | [Tresna Opo Anane](https://open.spotify.com/track/0DqDOsGc8J7aHZdtGAelTY) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [Tresna Opo Anane](https://open.spotify.com/album/5HINLRDJDFocRS2UU9HY65) | 4:58 | 2024-08-29 | 2024-12-27 |
 | [Tresno liyane](https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno liyane](https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE) | 4:50 | 2024-01-11 | 2024-04-19 |

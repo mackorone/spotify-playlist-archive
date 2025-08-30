@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Luca Fogale
 
-1,297 songs - 3 day 6 hr 7 min
+1,297 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Rock and Roll](https://open.spotify.com/track/3133Uct5LILQV4A9A1HY4S) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 4:54 | 2024-09-27 | 2025-04-05 |
 | [Rolling Stone](https://open.spotify.com/track/44QpElmFBK9jewAfK5osmc) | [Gert Taberner](https://open.spotify.com/artist/3Jy7XwrGPgOEq4OxRODWbf) | [Rolling Stone / New York](https://open.spotify.com/album/3FX5u4NRsdqBzG4D19yn4L) | 3:47 | 2022-05-13 | 2022-06-11 |
 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 | 2023-11-10 | 2024-03-09 |
+| [Rose Town](https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Hangover Terrace](https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl) | 2:31 | 2025-08-29 |  |
 | [Rosemary](https://open.spotify.com/track/7p46jopEVdyoabBoen57VI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Rosemary](https://open.spotify.com/album/30T3DK3SVzm0wfzPRY1drl) | 3:31 | 2024-03-01 | 2024-05-04 |
 | [Rosyln \- Live from the Silo](https://open.spotify.com/track/3M8xHt9ggqBHcp0LTG4Ws9) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [Rosyln \(Live from the Silo\)](https://open.spotify.com/album/26KsMUd3lHKB0UKyUKIF2i) | 4:41 | 2024-12-13 | 2025-05-10 |
 | [Rotting Fruit](https://open.spotify.com/track/0deJ2a71D181hZ6g0x0Rsq) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Rotting Fruit](https://open.spotify.com/album/3xLm8dLpODMvSij3KZngfc) | 3:50 | 2024-01-19 | 2024-03-23 |
@@ -973,6 +974,7 @@
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-24 |
 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 | 2024-07-12 | 2024-08-24 |
 | [Should've Drowned](https://open.spotify.com/track/68WkQbTM7Fs1Wj0hPT7iZV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Should've Drowned](https://open.spotify.com/album/7eOnY5aNvOMhXBJNGCwlwC) | 3:36 | 2022-12-09 | 2023-03-04 |
+| [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 | 2025-08-29 |  |
 | [Show Me Love](https://open.spotify.com/track/0WQpEXZGwvdt91WB1VSKXF) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [I Need to Stay Here](https://open.spotify.com/album/6ViPAxxhRt4On7JSILjIhp) | 4:03 | 2024-03-22 | 2024-08-10 |
 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 | 2025-08-22 |  |
 | [Sick](https://open.spotify.com/track/3Q892H3lMgoxbrlovHmTsV) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Sick](https://open.spotify.com/album/61nmrelAR4IgDeyt5NdFdm) | 4:10 | 2023-01-20 | 2023-04-29 |
@@ -1169,8 +1171,6 @@
 | [Touch the Void](https://open.spotify.com/track/5PXpRaVbb7WsUrAzkdgWct) | [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [Touch the Void](https://open.spotify.com/album/092JOL9Fk1RgbqaqAaYMSb) | 3:57 | 2023-04-28 | 2023-10-28 |
 | [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 | 2023-09-09 |
 | [tout ça](https://open.spotify.com/track/6a2OG6Xjsl9JZyx6WWg5LX) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\(Lot 2\) consolation](https://open.spotify.com/album/7liNPWOvTHUYVg5ZhPLBvm) | 3:10 | 2023-02-10 | 2023-03-11 |
-| [Track 3](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 0:00 | 2025-08-29 |  |
-| [Track 8](https://open.spotify.com/track/2CRfZpyYUF8P3jrH5Bxzt6) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Hangover Terrace](https://open.spotify.com/album/1Qds1xSOtVMNIPecC5URZl) | 0:00 | 2025-08-29 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2022-09-09 | 2023-03-18 |
 | [Treadmill](https://open.spotify.com/track/2WgHnskdhFJQLRK34T2ZR4) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Treadmill](https://open.spotify.com/album/68KXEVUovAaprYUksUU4Cc) | 4:53 | 2024-07-26 | 2025-01-18 |
 | [Treasure Hunt](https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Treasure Hunt](https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1) | 3:22 | 2023-05-19 | 2023-06-17 |
