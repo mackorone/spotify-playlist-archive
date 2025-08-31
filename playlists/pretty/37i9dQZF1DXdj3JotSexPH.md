@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,260 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,258 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 |
+| 1 | [Til My Fingers Bleed](https://open.spotify.com/track/5ZwXgb8dQuK1GC15s7tG5L) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [EWC](https://open.spotify.com/artist/4kKPwcOLjcgetDZos7Yx1K), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Til My Fingers Bleed \(with DINO, Duckwrth & Telle\)](https://open.spotify.com/album/6YsKzkuaCcKLEPGN69hnU1) | 3:02 |
 | 2 | [Breathe](https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:50 |
 | 3 | [7azeen Elwat \(Saudi\)](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [7azeen Elwat \(Saudi\)](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 |
 | 4 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |

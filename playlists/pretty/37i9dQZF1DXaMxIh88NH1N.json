@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Al cien para un buen ejercicio!",
-  "num_followers": 196851,
+  "num_followers": 196960,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "TU TU TU",
         "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 151570,
       "name": "TU TU TU",
       "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -879,6 +879,30 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "\u00c1lbum JGL",
+        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "\u00c1lbum JGL",
+      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "COMO CAPO",
         "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "\u00c1lbum JGL",
-        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "\u00c1lbum JGL",
-      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -999,6 +999,26 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "No Son Doritos",
+        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "NO SON DORITOS",
+      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 188838,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/7pdV3v2uiSdhryajFIeLJJ"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "No Son Doritos",
-        "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "NO SON DORITOS",
-      "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "Joven De La Sierra",
+        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Joven De La Sierra",
+      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 131793,
       "name": "NIMODO QUE NO",
       "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "Joven De La Sierra",
-        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Joven De La Sierra",
-      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
         "name": "Hija de Papi",
         "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
+        "name": "Hay Que Prender",
+        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Hay Que Prender",
+      "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
+    },
+    {
+      "added_at": "2025-05-27 18:54:46",
+      "album": {
         "name": "Boneless",
         "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 173618,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
-    },
-    {
-      "added_at": "2025-05-27 18:54:46",
-      "album": {
-        "name": "Hay Que Prender",
-        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Hay Que Prender",
-      "url": "https://open.spotify.com/track/5XFx9B2jKBSIg3GlBRaOim"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1779,8 +1779,8 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Gallos Y Caballos",
-        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
       "artists": [
         {
@@ -1788,13 +1788,13 @@
           "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 158543,
-      "name": "Gallos Y Caballos",
-      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
+      "duration_ms": 190796,
+      "name": "El 08",
+      "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
     },
     {
       "added_at": "2025-05-27 18:54:46",
@@ -1875,8 +1875,8 @@
     {
       "added_at": "2025-05-27 18:54:46",
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+        "name": "Gallos Y Caballos",
+        "url": "https://open.spotify.com/album/0VcuY0FORxC5SuMuT1NfZl"
       },
       "artists": [
         {
@@ -1884,13 +1884,13 @@
           "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 190796,
-      "name": "El 08",
-      "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
+      "duration_ms": 158543,
+      "name": "Gallos Y Caballos",
+      "url": "https://open.spotify.com/track/1pn82sWTAmrP709W07VImY"
     }
   ],
   "unique_name": "Bien Mach\u00edn",

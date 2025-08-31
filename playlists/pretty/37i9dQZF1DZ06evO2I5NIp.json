@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5746,
+  "num_followers": 5745,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAASzgzaEvMg7qS6RGgpklNf",
+  "snapshot_id": "aLDtgAAAAACK1Z3r3e32D+YY4jDR8w+k",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tough Mother",
+        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 254776,
+      "name": "Tough Mother",
+      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girl Friends",
         "url": "https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tough Mother",
-        "url": "https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 254776,
-      "name": "Tough Mother",
-      "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
     },
     {
       "added_at": null,
@@ -579,6 +579,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 219672,
+      "name": "Cadillac Blue",
+      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm"
       },
@@ -603,38 +635,6 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 219672,
-      "name": "Cadillac Blue",
-      "url": "https://open.spotify.com/track/2fdAfs7JLnHyuUdwD1btC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 190310,
-      "name": "Under My Thumb",
-      "url": "https://open.spotify.com/track/0pDNlIbnYdMHWDG3bOnQkj"
+      "duration_ms": 201840,
+      "name": "Wild, Wild Woman",
+      "url": "https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT"
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
       "artists": [
         {
@@ -728,9 +728,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Wild, Wild Woman",
-      "url": "https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2"
+      "duration_ms": 190310,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/0pDNlIbnYdMHWDG3bOnQkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -795,6 +795,30 @@
       "duration_ms": 224325,
       "name": "Is There Anybody Up There?",
       "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dedicated: A Salute To The 5 Royales",
+        "url": "https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu"
+      },
+      "artists": [
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        },
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Baby Don't Do It",
+      "url": "https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7"
     },
     {
       "added_at": null,
@@ -827,30 +851,6 @@
       "duration_ms": 228066,
       "name": "The Push I Need",
       "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedicated: A Salute To The 5 Royales",
-        "url": "https://open.spotify.com/album/5rTzgyLmliJ4EAFvAImVCu"
-      },
-      "artists": [
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
-        },
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Baby Don't Do It",
-      "url": "https://open.spotify.com/track/5kOI40ScJts057FfbPuPN7"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

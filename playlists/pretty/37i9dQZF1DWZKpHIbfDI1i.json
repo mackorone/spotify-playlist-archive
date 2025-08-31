@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Eden Mu\u00f1oz en portada ",
-  "num_followers": 788923,
+  "num_followers": 789307,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Por Esos Ojos",
-        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Por Esos Ojos",
-      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Tutankamon",
         "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 217959,
       "name": "Me Paseo",
       "url": "https://open.spotify.com/track/2XQnrr8gsvuGcJmPfk18iE"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "Por Esos Ojos",
+        "url": "https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "El Despertador",
-        "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "El Despertador",
-      "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "El Despertador",
+        "url": "https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "El Despertador",
+      "url": "https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Aqu\u00ed Hay Para Llevar",
-        "url": "https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Aqu\u00ed Hay Para Llevar",
-      "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Hija de Papi",
         "url": "https://open.spotify.com/album/78cMuIUQQYUwv00d82SiNj"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "Aqu\u00ed Hay Para Llevar",
+        "url": "https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Aqu\u00ed Hay Para Llevar",
+      "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
+        "name": "La M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 192998,
+      "name": "La M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 206773,
       "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
       "url": "https://open.spotify.com/track/5NfKSbEf0ZT6wpGXivX5WK"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
-        "name": "La M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "La M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
         "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
         "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
       },
@@ -1255,22 +1275,6 @@
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
-        "name": "La Que Se Fue, Se Fue",
-        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "La Que Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1299,6 +1303,22 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
+        "name": "La Que Se Fue, Se Fue",
+        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 159621,
+      "name": "La Que Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
         "name": "Mexicano Soy",
         "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 152562,
       "name": "Mexicano Soy",
       "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "EBVSY",
-      "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "REGALO DE DIOS",
         "url": "https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16"
       },
@@ -1395,22 +1375,42 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "La Bestia",
-        "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
+        "name": "Lowrider",
+        "url": "https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 186368,
-      "name": "La Bestia",
-      "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+      "duration_ms": 195851,
+      "name": "Lowrider",
+      "url": "https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "EBVSY",
+      "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
     }
   ],
   "unique_name": "Top M\u00e9xico",

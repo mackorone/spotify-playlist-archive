@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31649,
+  "num_followers": 31651,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "The Roots Come Alive",
         "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -535,18 +535,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+        "name": "Compared to What",
+        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
       "artists": [
         {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+          "name": "Eddie Harris",
+          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
         }
       ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+      "duration_ms": 523333,
+      "name": "Compared to What - Live",
+      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -567,22 +571,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Compared to What",
-        "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
       },
       "artists": [
         {
-          "name": "Eddie Harris",
-          "url": "https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4"
-        },
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 523333,
-      "name": "Compared to What - Live",
-      "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
+      "duration_ms": 197200,
+      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 197200,
-      "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 299938,
-      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live With Orchestra And Special Guests",
         "url": "https://open.spotify.com/album/6TiYakhZkKPuLTEddf2Or7"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 299938,
+      "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live And In Living Color",
         "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 394973,
       "name": "What Is Hip? - Live Version",
       "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1315,6 +1299,22 @@
       "duration_ms": 158266,
       "name": "Nobody Knows You When You're Down And Out - Live In New York",
       "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "In Person at the Whiskey a Go Go",
+        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
+      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Aretha In Paris (Live)",
         "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Know You Better (Live from Brooklyn Paramount)",
-        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 475293,
-      "name": "Know You Better - Live from Brooklyn Paramount",
-      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Dave Chappelle's Block Party",
         "url": "https://open.spotify.com/album/3dmlZgLFJjctQrn7iUAMas"
       },
@@ -1527,34 +1527,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "In Person at the Whiskey a Go Go",
-        "url": "https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb"
+        "name": "Know You Better (Live from Brooklyn Paramount)",
+        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Pain in My Heart - Live at the Whisky a Go Go, 1966",
-      "url": "https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
+      "duration_ms": 475293,
+      "name": "Know You Better - Live from Brooklyn Paramount",
+      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1571,22 +1555,6 @@
       "duration_ms": 158533,
       "name": "Time Is On My Side - Live At Slim's, San Francisco, CA / 8-30-1990 & 8-31-1990",
       "url": "https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Compact Jazz - Nina Simone",
-        "url": "https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Strange Fruit",
-      "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1623,6 +1591,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Tokyo... Live",
         "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 176510,
       "name": "I'll Take You There - Live At The Apollo Theater/1972",
       "url": "https://open.spotify.com/track/3fVvw3F8mEsI1Wb85mPtoS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Compact Jazz - Nina Simone",
+        "url": "https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
     }
   ],
   "unique_name": "Soul Live",

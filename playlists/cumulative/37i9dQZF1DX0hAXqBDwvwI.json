@@ -3593,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "KONTINUUM",
+        "url": "https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190545,
+      "name": "KONTINUUM",
+      "url": "https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp"
+    },
+    {
+      "album": {
         "name": "FIXION",
         "url": "https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0"
       },
@@ -11514,7 +11532,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 230666,
       "name": "\u559c\u5287",
       "url": "https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL"

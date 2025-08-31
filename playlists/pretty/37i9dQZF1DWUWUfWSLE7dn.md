@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,135 likes - 83 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,251 likes - 83 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 21 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 |
 | 22 | [All Must Choose](https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 4:44 |
 | 23 | [Vesper \(From "Casino Royale" Soundtrack\)](https://open.spotify.com/track/38K2V3O8SKYvjY0T9v43Hg) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale \[International Version\]](https://open.spotify.com/album/5PUTv2vFUEOHRDHl2cCGCO) | 1:44 |
-| 24 | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/track/7ltG3epdRWH3UYoWchRH8u) | [H\. Sawano](https://open.spotify.com/artist/6OgZWVd0jcLeLIiV3A5GSA), [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/album/7x5WqXNlG1b4XfPKPQ8B5a) | 4:04 |
+| 24 | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/track/7ltG3epdRWH3UYoWchRH8u) | [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/album/7x5WqXNlG1b4XfPKPQ8B5a) | 4:04 |
 | 25 | [Farewell](https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z) | [Johannes Lehniger](https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8), [Sebastian Damerius](https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Empress: II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2) | 3:02 |
 | 26 | [River Waltz \- From "The Painted Veil" Original Soundtrack](https://open.spotify.com/track/4ymJo2WLb6jikYZHaZDdL9) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Prague Symphony Orchestra](https://open.spotify.com/artist/6D3rLhEkc3t1zLltUNOSxg) | [The Painted Veil](https://open.spotify.com/album/2ERLWWYpis2WUsKxeJsAHz) | 2:22 |
 | 27 | [Alone](https://open.spotify.com/track/3QSRRHhArU8GeyBgmEFE1q) | [Stephen Warbeck](https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW) | [Princess Ka'iulani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XbaiobrzpOfX61PzppoRc) | 1:10 |

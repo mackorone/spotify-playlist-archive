@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sublime\n",
-  "num_followers": 62738,
+  "num_followers": 62758,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 197586,
       "name": "No Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Bier & Ska",
-        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 209334,
-      "name": "Bier & Ska",
-      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Salida 32",
         "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
       },
@@ -1199,22 +1183,38 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "La Ranchera",
-        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
+        "name": "Bier & Ska",
+        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
       },
       "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 187744,
-      "name": "La Ranchera",
-      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
+      "duration_ms": 209334,
+      "name": "Bier & Ska",
+      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Shellshock",
-        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         },
         {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 248370,
-      "name": "Sleepin' on the Couch (with The Elovaters)",
-      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+      "duration_ms": 187744,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
       },
       "artists": [
         {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1595,6 +1579,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+      },
+      "artists": [
+        {
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1679,34 +1679,34 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/1wFH2BLGpj5JKadDOvrwIu"
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
         }
       ],
-      "duration_ms": 202893,
-      "name": "Money Money Money",
-      "url": "https://open.spotify.com/track/2Pm7eVq4Q5Soeksf7bMkae"
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     },
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Broken Words",
-        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
+        "name": "Si Oh !",
+        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
       "artists": [
         {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+          "name": "Los Tres Puntos",
+          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
         }
       ],
-      "duration_ms": 172003,
-      "name": "Broken Words",
-      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
+      "duration_ms": 151013,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
     }
   ],
   "unique_name": "Ska Around The Globe",

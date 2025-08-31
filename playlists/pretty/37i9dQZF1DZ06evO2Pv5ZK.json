@@ -1,13 +1,29 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 109620,
+  "num_followers": 109633,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACKXsiaZUN1gqjWeWSNNvjq",
+  "snapshot_id": "aLDtgAAAAACv0M/96etZKWRRWvP1cCqJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "1492: Conquest of Paradise (Music From The Original Soundtrack- Expanded Edition)",
+        "url": "https://open.spotify.com/album/79AO2MbfQQICI2H3oCYFPh"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Line Open",
+      "url": "https://open.spotify.com/track/4K99uYAKE98PQrmVI00o6D"
+    },
     {
       "added_at": null,
       "album": {
@@ -255,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
       "artists": [
         {
@@ -264,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+      "duration_ms": 473253,
+      "name": "Ask the Mountains",
+      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
     },
     {
       "added_at": null,
@@ -287,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },
       "artists": [
         {
@@ -296,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 473253,
-      "name": "Ask the Mountains",
-      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
     },
     {
       "added_at": null,
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
       "added_at": null,
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -488,25 +504,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "P.S.",
-      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,

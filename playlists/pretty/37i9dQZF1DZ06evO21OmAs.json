@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 258053,
+  "num_followers": 258058,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAANgHTuTvLMt2a0elnqRO2N",
+  "snapshot_id": "aLDtgAAAAADOkrRu1Vi5ysGMQhxs5nWQ",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girlfriend Is Better",
-        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
+        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
+        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
       "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
         {
           "name": "girl in red",
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Girlfriend Is Better",
-      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
+      "duration_ms": 187364,
+      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
+      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
     },
     {
       "added_at": null,
@@ -463,26 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
-        "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
+        "name": "Girlfriend Is Better",
+        "url": "https://open.spotify.com/album/0NE7g8mQKHZ43DqGvmEFg6"
       },
       "artists": [
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        },
         {
           "name": "girl in red",
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 187364,
-      "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
-      "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
+      "duration_ms": 185333,
+      "name": "Girlfriend Is Better",
+      "url": "https://open.spotify.com/track/42APulJOnvAk8aj7WhzImT"
     },
     {
       "added_at": null,

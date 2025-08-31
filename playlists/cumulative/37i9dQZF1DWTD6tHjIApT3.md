@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover:ロクデナシ
 
-3,295 songs - 8 day 18 hr 12 min
+3,296 songs - 8 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2443,7 +2443,7 @@
 | [マキシマイザー](https://open.spotify.com/track/7fgVDvB2Bt3GTAgnPSJKDG) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [マキシマイザー](https://open.spotify.com/album/6Dt9ApbwEWphTkoKpNcmVt) | 3:05 | 2024-02-20 | 2024-02-28 |
 | [マグマ](https://open.spotify.com/track/0Uy6aZsX0Q2nwNmP6Z5gNZ) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [マグマ I](https://open.spotify.com/album/5NsaiVz6Zszy7J2pwvNapg) | 3:25 | 2022-05-31 | 2022-06-08 |
 | [マジカルスターシャインメイクアップ☆](https://open.spotify.com/track/1vhpwJ29rrFJvTwExlakHC) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [マジカルスターシャインメイクアップ☆](https://open.spotify.com/album/4PTU9k1Iws0fagPE5U2zFe) | 3:22 | 2025-07-22 |  |
-| [マスカレード](https://open.spotify.com/track/2UKRKiW6GkDCVU2kBXdvVd) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [マスカレード](https://open.spotify.com/album/0KG3mfBsEtIPo0CvHZA4rc) | 3:34 | 2025-08-26 |  |
+| [マスカレード](https://open.spotify.com/track/2UKRKiW6GkDCVU2kBXdvVd) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [マスカレード](https://open.spotify.com/album/0KG3mfBsEtIPo0CvHZA4rc) | 3:34 | 2025-08-26 | 2025-08-31 |
 | [マニマニ](https://open.spotify.com/track/7lFjSK6lMzWOLAF0yAoo21) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [マニマニ](https://open.spotify.com/album/75z3f76IhJjL2QgaOMmGg0) | 3:40 | 2024-05-28 | 2024-06-05 |
 | [マリー](https://open.spotify.com/track/11TsmSAUXzCdQm38D9U7NW) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [マリー](https://open.spotify.com/album/6YvT2sePp3YJPdsYcD8Rnh) | 3:31 | 2025-07-08 |  |
 | [マルボロ](https://open.spotify.com/track/2ExTNmGAfJqiYnfKjCfbYW) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:53 | 2025-01-07 | 2025-01-15 |
@@ -3218,6 +3218,7 @@
 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 | 2023-12-05 | 2023-12-13 |
 | [遠恋歌](https://open.spotify.com/track/0RAUNsi6rVBsfi3mt9oAf2) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [遠恋歌](https://open.spotify.com/album/6zu0d4mm0cwqRtySSxyfuq) | 3:29 | 2023-10-19 | 2023-11-22 |
 | [遠路](https://open.spotify.com/track/3KQZmyZstQuBGUTVLccK0f) | [Tomiko Van](https://open.spotify.com/artist/7bQTvi0LDupAeQp7wPR4Gr) | [遠路](https://open.spotify.com/album/3asNsUpGRQ1XX67chYJBw1) | 5:37 | 2022-06-02 | 2022-07-15 |
+| [遠雷](https://open.spotify.com/track/14NMsBNiuQw1eHFxNG9ybL) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [遠雷](https://open.spotify.com/album/71ccrOc4WR86wuyeDu5dWB) | 3:45 | 2025-08-26 |  |
 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 | 2024-04-02 | 2024-06-05 |
 | [遥か](https://open.spotify.com/track/4sPGTpguVhyD2KkMKTiJOu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain \-3 nuits ver.\-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 3:14 | 2024-06-04 | 2024-10-01 |
 | [遺体](https://open.spotify.com/track/7IAK0sgm0jCssCTY1Dornd) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [遺体](https://open.spotify.com/album/2j5JGrB00OkI0Mt8zok9wm) | 5:28 | 2022-06-24 | 2022-06-26 |

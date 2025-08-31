@@ -4,7 +4,7 @@
 
 > New music from Sabrina Carpenter, Masdo, Insomniacks, IVE, yung kai, and more!
 
-17,572 songs - 40 day 6 hr 10 min
+17,574 songs - 40 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8409,6 +8409,7 @@
 | [Lollipop](https://open.spotify.com/track/3jMJ0mOkbVQ77TcJU1cTXf) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Lollipop](https://open.spotify.com/album/6t4vuoYkFiKSr0OrAix525) | 2:53 | 2022-04-14 | 2022-04-22 |
 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 | 2023-07-27 | 2023-08-04 |
 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-08 | 2024-02-16 |
+| [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-08-29 |  |
 | [London Bridge](https://open.spotify.com/track/4zXDJSceFRqb6OCZUJ7pcz) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [London Bridge](https://open.spotify.com/album/3GOYYeYEpdqzQyLkIzf3CE) | 3:47 | 2024-06-27 | 2024-07-05 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-20 | 2022-01-28 |
 | [Lone Ship \- Radio Edit](https://open.spotify.com/track/53LTYfObWt0mRaCi1YbA4q) | [NyaLi](https://open.spotify.com/artist/3mdzg6Fp1vTlkwrg8MMIce), [Litmus Jazz Ensemble](https://open.spotify.com/artist/4OKhVWIT2fIxwualjgcxUv) | [Lone Ship](https://open.spotify.com/album/4UOpOzhYbZBMmUBEL15zPC) | 4:21 | 2025-02-06 | 2025-02-14 |
@@ -10759,6 +10760,7 @@
 | [Paper Cup](https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Paper Cup](https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn) | 3:16 | 2024-08-22 | 2024-08-30 |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-06-15 | 2023-06-23 |
 | [Paper Plane](https://open.spotify.com/track/4Q0MDstOadw92Gncso1llQ) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Paper Plane](https://open.spotify.com/album/4dyBDF0ThEiA0o7VSzPkB5) | 2:10 | 2023-03-23 | 2023-03-31 |
+| [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-08-29 |  |
 | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/track/3WaEyZXCEKX8TxmKciVNHm) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/album/1BIE4nVzZLtQ6sZenFfvx7) | 2:33 | 2022-10-13 | 2022-10-21 |
 | [Parachuting Off The Moon](https://open.spotify.com/track/5ZpxM4VkTOZbkqKlVpfgaJ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Parachuting Off The Moon](https://open.spotify.com/album/4eznk2tF07hjIuoKo7YMJT) | 3:42 | 2025-05-15 | 2025-05-23 |
 | [Parade](https://open.spotify.com/track/0IGr2xuMj48hjT6Vua9Qoc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3gWYgYUqqyz7BZgGiIGDql) | 3:06 | 2025-06-19 | 2025-06-27 |

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Caroline Shaw: Partita for 8 Voices",
+        "url": "https://open.spotify.com/album/4Py5CloXVddDHFphlwAY1s"
+      },
+      "artists": [
+        {
+          "name": "Caroline Shaw",
+          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
+        },
+        {
+          "name": "Roomful of Teeth",
+          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
+        },
+        {
+          "name": "Brad Wells",
+          "url": "https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6"
+        }
+      ],
+      "date_added": "2025-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539053,
+      "name": "3. Courante",
+      "url": "https://open.spotify.com/track/0WyrOGJPJcJcJdTcunzzxe"
+    },
+    {
+      "album": {
         "name": "I've Seen All I Need To See",
         "url": "https://open.spotify.com/album/3vRrTXRKeqF9eotYWzpOlZ"
       },
@@ -424,32 +450,6 @@
       "duration_ms": 223700,
       "name": "Paraguaya",
       "url": "https://open.spotify.com/track/7ibcDahEtQ8Grj7Fe3SSnJ"
-    },
-    {
-      "album": {
-        "name": "Caroline Shaw: Partita for 8 Voices",
-        "url": "https://open.spotify.com/album/4Py5CloXVddDHFphlwAY1s"
-      },
-      "artists": [
-        {
-          "name": "Caroline Shaw",
-          "url": "https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C"
-        },
-        {
-          "name": "Roomful of Teeth",
-          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
-        },
-        {
-          "name": "Brad Wells",
-          "url": "https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6"
-        }
-      ],
-      "date_added": "2025-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 539053,
-      "name": "Partita for 8 Singers: 3. Courante",
-      "url": "https://open.spotify.com/track/0WyrOGJPJcJcJdTcunzzxe"
     },
     {
       "album": {

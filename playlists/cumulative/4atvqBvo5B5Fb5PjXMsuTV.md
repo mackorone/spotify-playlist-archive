@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Aug 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Aug 18:04 UTC.
 
-5,408 songs - 12 day 13 hr 32 min
+5,410 songs - 12 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -989,6 +989,7 @@
 | [Comfort Me](https://open.spotify.com/track/3dAk7Z16rv38qRM3MIhCIX) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Comfort Me](https://open.spotify.com/album/2TBDKykLi4elMrJAfU2qhT) | 2:51 | 2024-11-01 | 2024-11-07 |
 | [Comfortable](https://open.spotify.com/track/5TWpIttAEtQEAdFHWYZfmR) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Comfortable](https://open.spotify.com/album/5FcL2rVBVhgXIYk2zmP7tl) | 3:38 | 2024-12-13 | 2024-12-15 |
 | [Coming Back](https://open.spotify.com/track/0KyzYW34VTdeIxT01HGz6m) | [WRLD](https://open.spotify.com/artist/4VqBNQRr0nDN0trNUOn0co), [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp), [Chris Quinton](https://open.spotify.com/artist/45qV493J7MwbVjUOtpWrU4) | [Coming Back](https://open.spotify.com/album/2So8OhcHSzn4jwr7gBtL7W) | 2:55 | 2024-12-05 | 2024-12-07 |
+| [Commas](https://open.spotify.com/track/0S7hKhEMgMKcA1O1ZKmwoE) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Commas](https://open.spotify.com/album/42tnvJGEEhjtaHf4l387PK) | 2:02 | 2025-08-30 |  |
 | [Common Loon](https://open.spotify.com/track/7tUSk4qGWjfDAD8bMqwtxH) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9) | [Common Loon](https://open.spotify.com/album/3Hb4hoxKdekny2pmRamnT7) | 3:31 | 2024-06-25 | 2024-06-27 |
 | [Company Culture](https://open.spotify.com/track/4fVNq2mSVupgHjcrVySEEx) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Company Culture](https://open.spotify.com/album/3IzcWVzJtbzMwovf3M3k0B) | 3:02 | 2024-09-17 | 2024-09-19 |
 | [COMPOSITE](https://open.spotify.com/track/0BweU0AR7wkABFOhW4VyJ0) | [Voltra](https://open.spotify.com/artist/55NnJzJsfA4x9g9MZA5Tu4) | [COMPOSITE](https://open.spotify.com/album/5dfUQZeaigPk9Z2I03Uqct) | 5:51 | 2024-12-18 | 2024-12-21 |
@@ -2545,7 +2546,7 @@
 | [Karen](https://open.spotify.com/track/5YY9pYGtbcw7nIwDDmAt7I) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Karen](https://open.spotify.com/album/3HMGg9ticBXA3gKsy1SJYs) | 2:30 | 2024-09-03 | 2024-09-06 |
 | [Karma Police](https://open.spotify.com/track/1bBThfzpHomaiU1ppk3khJ) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [Karma Police](https://open.spotify.com/album/3qxm2uAdDd0Ns08tcMjwVz) | 3:01 | 2024-08-08 | 2024-08-10 |
 | [Karma Waits](https://open.spotify.com/track/5rPzsLtTKZP2f1v99YoECJ) | [Antony Kos](https://open.spotify.com/artist/6qZZUJwgdyfWRfgHSZBPv7), [Inanimate Insanity](https://open.spotify.com/artist/1Is3qz6wgG4z3sAPzHxKm5) | [Karma Waits](https://open.spotify.com/album/1Xrb6LazPlK9mBnof5PwUB) | 2:29 | 2024-11-30 | 2024-12-06 |
-| [Keep An Eye On Summer](https://open.spotify.com/track/20xtYX3ouFKnmpwfILur6Q) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Keep An Eye On Summer](https://open.spotify.com/album/5E3cCJ93pNRC766xAExAGE) | 2:46 | 2025-08-22 |  |
+| [Keep An Eye On Summer](https://open.spotify.com/track/20xtYX3ouFKnmpwfILur6Q) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Keep An Eye On Summer](https://open.spotify.com/album/5E3cCJ93pNRC766xAExAGE) | 2:46 | 2025-08-22 | 2025-08-31 |
 | [Keep It](https://open.spotify.com/track/0PPA8xrbCiJgMcz9nk2LMF) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Keep It](https://open.spotify.com/album/1h1FXcyqF4O1x9U0McbpQt) | 2:53 | 2025-02-07 | 2025-02-13 |
 | [Keep It Gangsta](https://open.spotify.com/track/0fdZD4fqLR7G9YNCeW8Ko8) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Keep It Gangsta](https://open.spotify.com/album/4qWIB6scZHRPSHq4NhelZS) | 2:15 | 2024-08-23 | 2024-08-29 |
 | [keep it low](https://open.spotify.com/track/6i9gHlYiWT8rgrbMdb6p2l) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [keep it low](https://open.spotify.com/album/6fPfMvt5SMp2sl8iDQFjbW) | 2:50 | 2024-05-11 | 2024-05-15 |
@@ -2617,6 +2618,7 @@
 | [Krueger](https://open.spotify.com/track/0yWn9ASmnEnVZVMmutBTkj) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Krueger](https://open.spotify.com/album/47neLZxbh8NgETFGNP2DRr) | 2:07 | 2024-09-24 | 2024-09-27 |
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-06 | 2025-02-13 |
 | [KUJO BEAT DOWN](https://open.spotify.com/track/3oGB0bq3pHCK0EbuQQ8Kns) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [KUJO BEAT DOWN](https://open.spotify.com/album/0vqHbKY3pZbDq0654GLLkk) | 3:01 | 2024-09-05 | 2024-09-07 |
+| [kurayamisaka yori ai wo komete](https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO) | 3:13 | 2025-08-30 |  |
 | [KURSE OF KHARTOUM](https://open.spotify.com/track/0cUdOBgoRVOUVbxYzwfI7F) | [Tanger](https://open.spotify.com/artist/77JLoURVdxC8jnr3DPY05x), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [KURSE OF KHARTOUM](https://open.spotify.com/album/5L93fYPv9QwOTs68PdmtpB) | 3:20 | 2024-08-20 | 2024-08-23 |
 | [KURU KURU HARAJUKU](https://open.spotify.com/track/1xxDroHAay4TicZmGoo0sU) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/6ecY6bUbr5ajCf62xRuVvY) | 4:17 | 2025-07-22 | 2025-07-27 |
 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 | 2025-02-12 | 2025-02-20 |
@@ -5269,7 +5271,7 @@
 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 | 2024-09-25 | 2024-09-28 |
 | [Yacht Party](https://open.spotify.com/track/2LOoUMTCzJrEuY2OH4HfdQ) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Yacht Party](https://open.spotify.com/album/2ZLt15ASV1sAyBDz9PNN56) | 3:41 | 2024-07-12 | 2024-07-14 |
 | [Yeah Baby](https://open.spotify.com/track/4wmDMvjvjddgK17lnOYuvb) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Yeah Baby](https://open.spotify.com/album/5PHb8QUa081t4IxLhLrWcV) | 1:49 | 2024-07-20 | 2024-07-25 |
-| [Year of the Optimist](https://open.spotify.com/track/7FwNMwUTmuG9foVKIs6vQi) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Year of the Optimist](https://open.spotify.com/album/0KcREv7Ql3GaGVkMp8SgO9) | 2:35 | 2025-08-21 |  |
+| [Year of the Optimist](https://open.spotify.com/track/7FwNMwUTmuG9foVKIs6vQi) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Year of the Optimist](https://open.spotify.com/album/0KcREv7Ql3GaGVkMp8SgO9) | 2:35 | 2025-08-21 | 2025-08-31 |
 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 | 2025-04-08 | 2025-04-19 |
 | [Years Ago](https://open.spotify.com/track/4ByOmboQ0f9cDFyA1VPfC5) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [Years Ago](https://open.spotify.com/album/3T3Fb6pq21AEMJ0rNlVINo) | 5:14 | 2024-07-10 | 2024-07-12 |
 | [YES](https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [YES](https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE) | 2:58 | 2025-07-16 | 2025-07-26 |

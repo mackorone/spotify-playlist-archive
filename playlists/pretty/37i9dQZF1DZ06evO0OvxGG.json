@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8154,
+  "num_followers": 8165,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAGjZ+3BpkgWFcuElb7wvMg",
+  "snapshot_id": "aLDtgAAAAAAHxeM7S2JtAtHVm/TVZDMp",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Molho",
-        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 167119,
-      "name": "Molho",
-      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Molho",
+        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "Molho",
+      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
     },
     {
       "added_at": null,
@@ -530,15 +530,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 90000,
-      "name": "Velotrol",
-      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
     },
     {
       "added_at": null,
@@ -630,11 +626,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
+      "duration_ms": 90000,
+      "name": "Velotrol",
+      "url": "https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43"
     },
     {
       "added_at": null,

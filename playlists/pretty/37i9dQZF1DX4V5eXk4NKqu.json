@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Buscabulla.",
-  "num_followers": 168238,
+  "num_followers": 168232,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-07-16 15:57:28",
       "album": {
-        "name": "Amor Artificial",
-        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Amor Artificial",
-      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
-    },
-    {
-      "added_at": "2025-07-16 15:57:28",
-      "album": {
         "name": "Y SI SE ABREN LOS CIELOS",
         "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "added_at": "2025-07-16 15:57:28",
+      "album": {
+        "name": "Amor Artificial",
+        "url": "https://open.spotify.com/album/3C1E4Cy9MfI9X3prAsym42"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Amor Artificial",
+      "url": "https://open.spotify.com/track/7z0BLN6gAnrpBypnMR54r7"
     },
     {
       "added_at": "2025-07-16 15:57:28",

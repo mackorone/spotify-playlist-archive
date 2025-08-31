@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 228571,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5lDEyYqBrVn7eQTIVgx5sx"
@@ -3767,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Like a Girl",
+        "url": "https://open.spotify.com/album/5Px05kjKITxjHCo02chB7i"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259253,
+      "name": "Like a Girl",
+      "url": "https://open.spotify.com/track/3lGwlj49DIdoqYPLgb1BjN"
+    },
+    {
+      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -3926,6 +3944,24 @@
       "duration_ms": 176214,
       "name": "Love You",
       "url": "https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy"
+    },
+    {
+      "album": {
+        "name": "Loving You Is Easy",
+        "url": "https://open.spotify.com/album/2JCp1kF49ufLVygJ8ddaGw"
+      },
+      "artists": [
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/58KeGsuLVCSQ0Q72HFQENb"
     },
     {
       "album": {
@@ -4459,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Over it Now",
+        "url": "https://open.spotify.com/album/0elLQpmzjKwbSWLgtUXiv8"
+      },
+      "artists": [
+        {
+          "name": "Chilli Chilton",
+          "url": "https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203085,
+      "name": "Over it Now",
+      "url": "https://open.spotify.com/track/1dEoNJiB3BTk1BAXQETASo"
+    },
+    {
+      "album": {
         "name": "Pacemaker",
         "url": "https://open.spotify.com/album/620asHETGznhXwYUUFP3TB"
       },
@@ -4848,7 +4902,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 208517,
       "name": "Running",
       "url": "https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve"

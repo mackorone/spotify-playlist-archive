@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,394 songs - 7 day 22 hr 14 min
+3,395 songs - 7 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [BerwynGesaffNeighbours](https://open.spotify.com/track/21f4TjwWXbnqg8d5R6oq8Y) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 2:03 | 2024-04-12 | 2024-05-12 |
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-20 | 2025-07-19 |
 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 | 2025-07-04 | 2025-08-09 |
+| [Bet You Didn't Need](https://open.spotify.com/track/7rjtwubvFpMtchNnQf4Nwf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [Bet You Didn't Need](https://open.spotify.com/album/37KcSg6pUd5RSOjvNxx2FN) | 2:54 | 2025-08-30 |  |
 | [BET YOU NEVER](https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BET YOU NEVER](https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y) | 3:51 | 2024-06-07 | 2024-07-06 |
 | [Betrayal](https://open.spotify.com/track/0lU9hRfc1QDMrBWMmoZXjt) | [Rendr](https://open.spotify.com/artist/5eMeyfEbl93yC1hsMWLasd) | [Betrayal](https://open.spotify.com/album/38SuYbKLeVnQtS5GkmWtIM) | 2:52 | 2023-12-01 | 2024-01-06 |
 | [Better Be Moving](https://open.spotify.com/track/5EnoxPt5QZmLM2zBRYJhpJ) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL) | [Better Be Moving](https://open.spotify.com/album/0xkeeRW7van4LxsaSoNyhJ) | 5:02 | 2025-02-07 | 2025-03-22 |

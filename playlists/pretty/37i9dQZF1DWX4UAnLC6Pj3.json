@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga en portada \ud83d\udcf8",
-  "num_followers": 1275298,
+  "num_followers": 1275422,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230440,
       "name": "Olvidarte, \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "CHSM El H\u00edgado X2",
         "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
       },
@@ -1199,22 +1179,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1231,6 +1195,42 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 207625,
       "name": "Un Tabaco - En Vivo",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1287,26 +1267,22 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Yo Nac\u00ed Pa' Ser Jefe",
-        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 168553,
-      "name": "Yo Nac\u00ed Pa' Ser Jefe",
-      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
+      "duration_ms": 149986,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1327,6 +1303,30 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "En Vivo Desde Jap\u00f3n",
-        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "El Malo Soy Yo",
-      "url": "https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Que Hay Que Hacer",
         "url": "https://open.spotify.com/album/4WEs7qbShxaXYMMJhSoZQV"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 213562,
       "name": "Que Hay Que Hacer",
       "url": "https://open.spotify.com/track/11AS1e1BTVn9dBGk10kdAj"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "En Vivo Desde Jap\u00f3n",
+        "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "El Malo Soy Yo",
+      "url": "https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Mujer Infiel",
-        "url": "https://open.spotify.com/album/7KJEOb5fQ6Mpzlc42dzcoD"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 233265,
-      "name": "Mujer Infiel",
-      "url": "https://open.spotify.com/track/6LYw7Ql4Kn6iX6vJH0iaKD"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 200440,
       "name": "Vamos Bien",
       "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1579,34 +1579,18 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+        "name": "Mujer Infiel",
+        "url": "https://open.spotify.com/album/7KJEOb5fQ6Mpzlc42dzcoD"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         }
       ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
-        "name": "Si No Contesto Tus Llamadas",
-        "url": "https://open.spotify.com/album/250dxqVo5VE8BVnK6wUtet"
-      },
-      "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 204966,
-      "name": "Si No Contesto Tus Llamadas",
-      "url": "https://open.spotify.com/track/6QRdzKfmvrUNen0uPtDWVo"
+      "duration_ms": 233265,
+      "name": "Mujer Infiel",
+      "url": "https://open.spotify.com/track/6LYw7Ql4Kn6iX6vJH0iaKD"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1647,6 +1631,22 @@
       "duration_ms": 173538,
       "name": "Tengo Ganas de Llorar",
       "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Si No Contesto Tus Llamadas",
+        "url": "https://open.spotify.com/album/250dxqVo5VE8BVnK6wUtet"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 204966,
+      "name": "Si No Contesto Tus Llamadas",
+      "url": "https://open.spotify.com/track/6QRdzKfmvrUNen0uPtDWVo"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
         "name": "Mala Hierba",
         "url": "https://open.spotify.com/album/6QFKbgYHqHWwBL1MnSrC0v"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 167506,
       "name": "Mala Hierba",
       "url": "https://open.spotify.com/track/47Nf0haFCGYpWfMTP9Jdgd"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2025-07-18 15:31:52",
-      "album": {
         "name": "Me Gustas Mucho T\u00fa",
         "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
@@ -2031,18 +2015,18 @@
     {
       "added_at": "2025-07-18 15:31:52",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 205824,
-      "name": "Hoy perdemos",
-      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2025-07-18 15:31:52",
@@ -2079,6 +2063,22 @@
       "duration_ms": 207453,
       "name": "Me Vas A Comparar",
       "url": "https://open.spotify.com/track/2qp7K5TngemNXJWOw41nxa"
+    },
+    {
+      "added_at": "2025-07-18 15:31:52",
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Hoy perdemos",
+      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
     },
     {
       "added_at": "2025-07-18 15:31:52",

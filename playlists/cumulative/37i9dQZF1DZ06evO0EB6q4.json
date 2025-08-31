@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "En Tu Boca El Humo Me Sabe Mejor",
+        "url": "https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198957,
+      "name": "En Tu Boca El Humo Me Sabe Mejor",
+      "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
+    },
+    {
+      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
@@ -1694,7 +1716,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"

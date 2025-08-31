@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 254690,
+  "num_followers": 254780,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-06-06 03:00:14",
       "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+    },
+    {
+      "added_at": "2025-06-06 03:00:14",
+      "album": {
         "name": "MTV Unplugged. El Libro De Las Mutaciones",
         "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2025-06-06 03:00:14",
       "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+      "duration_ms": 197533,
+      "name": "As\u00ed Era Ella - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm"
     },
     {
       "added_at": "2025-06-06 03:00:14",
@@ -455,22 +471,6 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2025-06-06 03:00:14",
-      "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "As\u00ed Era Ella - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm"
     },
     {
       "added_at": "2025-06-06 03:00:14",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-06-06 03:00:14",
       "album": {
-        "name": "Franco De Vita Vuelve en Primera Fila",
-        "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 250960,
-      "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
-    },
-    {
-      "added_at": "2025-06-06 03:00:14",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 218080,
       "name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt"
+    },
+    {
+      "added_at": "2025-06-06 03:00:14",
+      "album": {
+        "name": "Franco De Vita Vuelve en Primera Fila",
+        "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
     },
     {
       "added_at": "2025-06-06 03:00:14",

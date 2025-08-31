@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,143 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,142 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,8 +237,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 227 | [All My Time](https://open.spotify.com/track/2zi3yUv881emZtNSXmmBZz) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:17 |
 | 228 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 229 | [Eagle](https://open.spotify.com/track/5XDIXl4gjvb3DiD9F7lV2D) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:41 |
-| 230 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 |
-| 231 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 230 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
+| 231 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 |
 | 232 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
 | 233 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 |
 | 234 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab604AAAAACi39SxmsN+8E9xhvmdJtCi`
+Snapshot ID: `Ab66sgAAAABHMJm+cky7tKBHRZ7Wnedi`

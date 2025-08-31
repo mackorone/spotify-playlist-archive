@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21613,
+  "num_followers": 21626,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJ1VAe8nFn9EKw6mP1QNvGSFZqu52I",
+  "snapshot_id": "AAAJ1knNm5575l9WU322eZ5zR/aDT5zd",
   "tracks": [
     {
       "added_at": "2025-08-29 19:44:15",
@@ -227,6 +227,30 @@
       "duration_ms": 223618,
       "name": "Galvanize - Chris Lake Remix",
       "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+    },
+    {
+      "added_at": "2025-08-30 04:48:57",
+      "album": {
+        "name": "Bet You Didn't Need",
+        "url": "https://open.spotify.com/album/37KcSg6pUd5RSOjvNxx2FN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "Bet You Didn't Need",
+      "url": "https://open.spotify.com/track/7rjtwubvFpMtchNnQf4Nwf"
     },
     {
       "added_at": "2025-08-29 19:44:15",

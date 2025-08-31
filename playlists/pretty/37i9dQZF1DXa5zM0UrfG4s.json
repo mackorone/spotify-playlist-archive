@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 115814,
+  "num_followers": 115830,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+        "name": "Jentekveld",
+        "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+      "duration_ms": 138568,
+      "name": "Jentekveld",
+      "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Jentekveld",
-        "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
       },
       "artists": [
         {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 138568,
-      "name": "Jentekveld",
-      "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -279,42 +279,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Flesk og duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -339,6 +303,42 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 157833,
       "name": "En d\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -959,8 +959,8 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Siste Kveld",
-        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
       },
       "artists": [
         {
@@ -968,13 +968,13 @@
           "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 159380,
-      "name": "Siste Kveld",
-      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+        "name": "Siste Kveld",
+        "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
       "artists": [
         {
@@ -1052,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
         },
         {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+      "duration_ms": 159380,
+      "name": "Siste Kveld",
+      "url": "https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081"
     },
     {
       "added_at": "2025-08-28 22:00:10",

@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 23 min
+75 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [ALVRGZO](https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [ALVRGZO](https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5) | 2:42 | 2024-08-08 |  |
 | [AMSTRDM](https://open.spotify.com/track/2b6dun7rRHWyNy1qr5iQBV) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [AMSTRDM](https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI) | 2:37 | 2025-05-07 |  |
 | [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-08-08 |  |
+| [BELICLOVE](https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELICLOVE](https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk) | 2:40 | 2025-08-31 |  |
 | [BELIKBOY](https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELIKBOY](https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc) | 2:45 | 2024-10-14 |  |
 | [BELIKBOY](https://open.spotify.com/track/6FJ4dBZyLuCh87qODnKpRI) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [CORRIDOS FELICES](https://open.spotify.com/album/0APk5IAtmIMSCuSTMqi8Zu) | 2:45 | 2024-08-08 | 2024-10-14 |
 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 | 2024-09-08 |  |
@@ -71,7 +72,7 @@
 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 | 2024-08-08 |  |
 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 | 2024-10-19 |  |
 | [RZR Rojo](https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [RZR Rojo](https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I) | 1:52 | 2024-08-08 |  |
-| [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 | 2024-08-08 |  |
+| [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 | 2024-08-08 | 2025-08-31 |
 | [Será](https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Doña Soledad](https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W) | 2:43 | 2025-01-25 |  |
 | [Sin Faramaya](https://open.spotify.com/track/5HwVM6aaOp7uJvFIrtgYt7) | [Ely Rosario](https://open.spotify.com/artist/4q8CrAeEOvqwXcwkOtUVZn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Sin Faramaya](https://open.spotify.com/album/5TxSrxxAuzOXdZPTqaOHaY) | 2:24 | 2024-08-08 | 2025-08-30 |
 | [This Is The End \- En Vivo](https://open.spotify.com/track/71e3w7ws39md8KgfP7LVlR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Rubio](https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy) | [This Is The End \(En Vivo\)](https://open.spotify.com/album/2Gv0dgR654JYphwcViwYwU) | 3:16 | 2024-08-08 | 2025-04-28 |

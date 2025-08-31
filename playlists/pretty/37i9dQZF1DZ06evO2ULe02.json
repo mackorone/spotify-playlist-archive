@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1767,
+  "num_followers": 1766,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAiwMeUOWN1UOwNJ5soom6j",
+  "snapshot_id": "aLDtgAAAAADJJEYoCYCNNrT4FtTLIuvL",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "are we in love yet?",
-        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 177193,
-      "name": "are we in love yet?",
-      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stuck on us",
         "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
       },
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "People Pleaser",
+      "url": "https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "shut up and love me",
         "url": "https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks"
       },
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
+        "name": "are we in love yet?",
+        "url": "https://open.spotify.com/album/2xQI0evHXKQ3I38ubLaRy6"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 190173,
-      "name": "People Pleaser",
-      "url": "https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0"
+      "duration_ms": 177193,
+      "name": "are we in love yet?",
+      "url": "https://open.spotify.com/track/59bPrwlWkwqqDSFu8o1cdu"
     },
     {
       "added_at": null,

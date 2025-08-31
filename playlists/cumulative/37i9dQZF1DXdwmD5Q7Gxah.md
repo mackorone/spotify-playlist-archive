@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: After
 
-3,511 songs - 7 day 23 hr 48 min
+3,515 songs - 8 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Boredom \(feat\. Rex Orange County & Anna of the North\)](https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 5:20 | 2020-05-12 | 2020-09-15 |
 | [Bottle Rocket](https://open.spotify.com/track/2UNaGqS3RPjvkBzTtIS94A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Bottle Rocket](https://open.spotify.com/album/4QOAYNpThe6GyIfce6KMvM) | 3:25 | 2020-07-31 | 2020-11-11 |
 | [Bound To Be](https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Bound To Be](https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb) | 3:30 | 2023-03-06 | 2023-04-09 |
+| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-29 |  |
 | [Bovine Excision](https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bovine Excision](https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt) | 2:53 | 2025-01-17 | 2025-02-22 |
 | [bowie box](https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:56 | 2024-05-03 | 2024-05-11 |
 | [Boy](https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr) | [Book Of Love](https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo) | [Book Of Love](https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53) | 2:59 | 2024-09-09 | 2024-10-30 |
@@ -836,6 +837,7 @@
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30\* | 2019-09-27 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 | 2024-04-24 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 | 2024-05-11 |
+| [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 | 2025-08-29 |  |
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2020-01-17 | 2020-02-20 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-04 | 2021-04-02 |
 | [Don't Be Afraid](https://open.spotify.com/track/0jkaODlyaMJHj0wu4nUL7f) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Don't Be Afraid](https://open.spotify.com/album/2JW7OQd2ZQThQs9Or6eGlS) | 3:33 | 2020-05-14 | 2021-03-06 |
@@ -2273,6 +2275,7 @@
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-10 | 2022-07-16 |
 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 | 2019-11-08 | 2020-03-13 |
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-06-11 | 2021-08-14 |
+| [Outbound](https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Outbound](https://open.spotify.com/album/04PB5ijhEf7SJnQp1D1G9K) | 3:47 | 2025-08-29 |  |
 | [Outside](https://open.spotify.com/track/0YCCXfwkqezFE8sjRoaKmi) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Outside](https://open.spotify.com/album/7bNmKoKLrqqhAg3e021cVG) | 2:18 | 2020-11-20 | 2020-12-23 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2019-08-10 | 2020-02-20 |
 | [Over and Over](https://open.spotify.com/track/3yrTYsLPUA7Xjq5k8B1Sj3) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Over and Over](https://open.spotify.com/album/0YVYFNTQ2joY7e8ITrIE9x) | 3:14 | 2023-05-26 | 2023-08-26 |
@@ -2441,6 +2444,7 @@
 | [Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Quarterback](https://open.spotify.com/album/1C51Uu0mo7y96PKMVKkNpU) | 3:00 | 2021-02-19 | 2021-07-31 |
 | [quiet motions](https://open.spotify.com/track/1PgfRXFbqNK2S97sRmhn0n) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [quiet motions](https://open.spotify.com/album/1KGg761SMmdSo8Iv2lZPxb) | 2:38 | 2020-03-13 | 2020-05-05 |
 | [Quilt of Steam](https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Quilt of Steam](https://open.spotify.com/album/7JBq28iBb2RIh8TgULDo3N) | 3:31 | 2023-09-06 | 2023-10-11 |
+| [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-29 |  |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 | 2023-04-14 | 2023-06-02 |
 | [racetrack](https://open.spotify.com/track/48yA757PIMqJsXhP1snqso) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [racetrack](https://open.spotify.com/album/0RuT3dmCkAsXkurFEXAjfV) | 4:12 | 2021-08-14 | 2021-11-13 |
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2024-02-27 | 2024-05-03 |

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-827 songs - 2 day 6 hr 24 min
+828 songs - 2 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [male](https://open.spotify.com/track/4A6Ls1BxfbTBDYXlcQ22Zb) | [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [insegui, ora](https://open.spotify.com/album/6QhLHFzi32nWSmZKgd10So) | 2:13 | 2025-05-23 |  |
 | [Man Like](https://open.spotify.com/track/6qcLuPPQTPWhuinRK2BPkA) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Man Like](https://open.spotify.com/album/1rthJT4jjfnXnbv159ubBJ) | 2:44 | 2025-02-16 | 2025-03-01 |
 | [Mantra Reactor](https://open.spotify.com/track/30KENMJmhUaG8Op6upzNoc) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Beat Rebel](https://open.spotify.com/artist/31L9rQTYTpZIBAW1nugqmW), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Mantra Reactor](https://open.spotify.com/album/6dbQNcRBE5WK1ovWMbidY0) | 3:03 | 2023-03-10 | 2023-05-14 |
-| [Mash It Up!](https://open.spotify.com/track/3FxAgkGhrw9QbvRq5FiCnI) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Robustt](https://open.spotify.com/artist/2MQru8GnhECYTThfJvRtyR) | [Mash It Up!](https://open.spotify.com/album/45EK9FW71cKG4BxJhds5Ih) | 3:17 | 2025-05-30 |  |
+| [Mash It Up!](https://open.spotify.com/track/3FxAgkGhrw9QbvRq5FiCnI) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Robustt](https://open.spotify.com/artist/2MQru8GnhECYTThfJvRtyR) | [Mash It Up!](https://open.spotify.com/album/45EK9FW71cKG4BxJhds5Ih) | 3:17 | 2025-05-30 | 2025-08-31 |
 | [Maw](https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Maw](https://open.spotify.com/album/4vD6xOvf61P2WMwbUHHe55) | 4:23 | 2024-12-13 | 2025-05-24 |
 | [Meaningless](https://open.spotify.com/track/3LCIjaKdbeCzWw5UQXYpkd) | [SBK](https://open.spotify.com/artist/3xwKCpbc3nMeh9ajAy7DQp) | [Problem City](https://open.spotify.com/album/4dXqrjWWp8gcyt6EqO59pt) | 6:37 | 2022-02-17 | 2023-02-14 |
 | [Medication](https://open.spotify.com/track/3lB0nER17ouKYxquio3XAW) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Undubbed EP](https://open.spotify.com/album/6U3jV3Auz0QDAR216BSIMI) | 4:41 | 2022-02-17 | 2022-04-09 |
@@ -624,6 +624,7 @@
 | [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 | 2024-08-19 | 2024-09-16 |
 | [Selekta](https://open.spotify.com/track/6RtL2HnugxsDR4MfUmMyHL) | [Goopsteppa](https://open.spotify.com/artist/0dXNe3Lre4kIsN8EKT5BxI) | [Selekta / Crstl Vip](https://open.spotify.com/album/6JTOLmMafGXTELc6iGoDrJ) | 3:00 | 2022-02-17 | 2023-08-16 |
 | [Sensi Dub](https://open.spotify.com/track/05OPr91FfXHTY1l0oONnss) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sensi Dub](https://open.spotify.com/album/27fy27PL0uFmezHJK2kNJz) | 3:39 | 2024-03-29 |  |
+| [Serpent Hunter](https://open.spotify.com/track/5sZq65iNSrImUbUzwdNqjy) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Serpent Hunter](https://open.spotify.com/album/6H1ylSNmChamL9Xbk3o7jn) | 2:37 | 2025-08-29 |  |
 | [set me free](https://open.spotify.com/track/5mAQRfPhcawxAwSVcVJOP8) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [set me free](https://open.spotify.com/album/0NioCSVb55rAqHsGQMJEGA) | 2:46 | 2025-07-11 |  |
 | [Shade](https://open.spotify.com/track/36ttV1VCMbegcpduOW6tMg) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Pusher EP](https://open.spotify.com/album/7hKMjdXCErUw1KbZrRhqlF) | 4:36 | 2022-02-17 | 2022-07-29 |
 | [Shades Of Amaranth](https://open.spotify.com/track/1GygOdjSduypMrO89FF4Xu) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G) | [Shades Of Amaranth](https://open.spotify.com/album/3AmSn3NwrZuyC46BfWeCAN) | 3:15 | 2022-04-15 | 2022-06-11 |

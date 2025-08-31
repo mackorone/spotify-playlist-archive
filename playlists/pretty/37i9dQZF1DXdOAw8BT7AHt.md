@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,203 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,199 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 15 | [Sickle Walk](https://open.spotify.com/track/2UxZMkNEeWqBoqfiGTrNVy) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Sickle Walk](https://open.spotify.com/album/2DoclzbDNEDSaRyQj77PL7) | 1:26 |
 | 16 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
 | 17 | [And a Big Load](https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [And a Big Load](https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx) | 2:53 |
-| 18 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
-| 19 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
+| 18 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
+| 19 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
 | 20 | [Supermodels](https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Supermodels](https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO) | 3:18 |
 | 21 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 |
 | 22 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 29 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
 | 30 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
 | 31 | [Gnash](https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Gnash](https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun) | 2:42 |
-| 32 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 |
-| 33 | [Circulate](https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Circulate](https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx) | 2:39 |
+| 32 | [Circulate](https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Circulate](https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx) | 2:39 |
+| 33 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 |
 | 34 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
 | 35 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
 | 36 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 59 | [Big Dogs](https://open.spotify.com/track/3XgZv8J2mB73xJiDQ7MjgR) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Big Dogs](https://open.spotify.com/album/2LCJWfVoj8pusZE9Ed2F93) | 2:44 |
 | 60 | [Descartes](https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Descartes](https://open.spotify.com/album/048eF8cmJqqF36fEvJABBY) | 3:13 |
 | 61 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
-| 62 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 |
-| 63 | [Optical Delusions](https://open.spotify.com/track/11w3cYXVjPxqyvxBUr4tUH) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Optical Delusions](https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg) | 1:14 |
+| 62 | [Optical Delusions](https://open.spotify.com/track/11w3cYXVjPxqyvxBUr4tUH) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Optical Delusions](https://open.spotify.com/album/6Xktv0xcSS1vaYilvd8LXg) | 1:14 |
+| 63 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 |
 | 64 | [Sick Of Being Down](https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Sick Of Being Down](https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB) | 3:24 |
 | 65 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 |
 | 66 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |

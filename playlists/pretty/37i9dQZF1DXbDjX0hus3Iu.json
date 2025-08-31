@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 528241,
+  "num_followers": 528306,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Outlaws",
-        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
-      },
-      "artists": [
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "There Goes Another Love Song",
-      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Keep On Smilin'",
         "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 237333,
       "name": "Keep On Smilin'",
       "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Outlaws",
+        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "There Goes Another Love Song",
+      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ"
     },
     {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Sweet Southern Wind",
+        "url": "https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw"
+      },
+      "artists": [
+        {
+          "name": "Holman Autry Band",
+          "url": "https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "Sweet Southern Wind",
+      "url": "https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI"
+    },
+    {
       "added_at": "2025-07-11 17:42:51",
       "album": {
         "name": "Ain't Rocked in a While",
@@ -1007,22 +1023,6 @@
       "duration_ms": 281160,
       "name": "Ain't Rocked in a While",
       "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Sweet Southern Wind",
-        "url": "https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw"
-      },
-      "artists": [
-        {
-          "name": "Holman Autry Band",
-          "url": "https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Sweet Southern Wind",
-      "url": "https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Stacked Deck (Remastered)",
         "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 142346,
       "name": "Hit the Nail on the Head - Remastered",
       "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2025-06-20 04:06:02",

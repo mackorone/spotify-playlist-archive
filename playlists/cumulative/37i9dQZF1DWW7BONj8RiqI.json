@@ -2063,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "ESKIMO (Remix)",
+        "url": "https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Killa",
+          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181153,
+      "name": "ESKIMO - Remix",
+      "url": "https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6"
+    },
+    {
+      "album": {
         "name": "Alien Head Riddim",
         "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
@@ -7368,7 +7390,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 207000,
       "name": "Whale Fu See",
       "url": "https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh"

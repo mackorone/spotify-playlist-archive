@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Abbie Gamboa & Aodhán King
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,829 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,869 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 22 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
 | 23 | [Difference Maker](https://open.spotify.com/track/7yWunlBSRiy8Flcq6OjWw1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Difference Maker](https://open.spotify.com/album/3cEFhJEwZV810Zdb3rxFyQ) | 5:07 |
 | 24 | [Feels Like Home](https://open.spotify.com/track/6B87JckufEOGt1b9z2DUlB) | [Mountain People Worship](https://open.spotify.com/artist/4PpHP5z3A0xsd2JU09LmDr) | [Feels Like Home](https://open.spotify.com/album/1W52hcrFDgiCA7vxRuWazJ) | 5:48 |
-| 25 | [Nothing But the Blood of Jesus](https://open.spotify.com/track/21tBbmZyqyqqJnUPwuNVhV) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Nothing But the Blood of Jesus](https://open.spotify.com/album/5BW3AskNuRbZTfkpILar0w) | 4:31 |
+| 25 | [Nothing But the Blood of Jesus](https://open.spotify.com/track/21tBbmZyqyqqJnUPwuNVhV) | [Nate Diaz](https://open.spotify.com/artist/0jC2wYCgbKNiSveN32TA9u) | [Nothing But the Blood of Jesus](https://open.spotify.com/album/5BW3AskNuRbZTfkpILar0w) | 4:31 |
 | 26 | [Great I Am](https://open.spotify.com/track/6UErbipPEX3JrL12ycS46q) | [Cody Powers](https://open.spotify.com/artist/18HgrMJXWxsV51NEK59IuE) | [Great I Am](https://open.spotify.com/album/03CEFikqz7IoS3p1gMiTQH) | 3:21 |
 | 27 | [How Firm a Foundation](https://open.spotify.com/track/5zCaHnDEg4V2nn9w044r40) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [How Firm a Foundation](https://open.spotify.com/album/1I8yQT5IVoUhGfLrf8jOyQ) | 4:53 |
 | 28 | [LIKE YOU DO](https://open.spotify.com/track/0ydvpPuVOqQJZOcF9eHFHp) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [LIKE YOU DO](https://open.spotify.com/album/03lfaasqXIER3hhWQyE4TR) | 2:19 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 56 | [To Him Who Sits On The Throne \- Live](https://open.spotify.com/track/6f2Vczl55VisMpJpO4JNnW) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [To Him Who Sits On The Throne \(Live\)](https://open.spotify.com/album/1JN80AGZMkcSbTC4StONaV) | 8:01 |
 | 57 | [Freedom chant \- Live](https://open.spotify.com/track/7bBecDvVJ3ngeIFGs1M8BG) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Chinedu Ndubueze](https://open.spotify.com/artist/52CdmtfVJaUfq8calnMejr) | [Freedom chant \(Live\)](https://open.spotify.com/album/7Gs5hlOMJxcpBeVQQAfUpm) | 6:37 |
 | 58 | [The Name of The Lord \- Live](https://open.spotify.com/track/1O9nZfEj56LnR8JCCZcX3N) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [The Name of The Lord \(Live\)](https://open.spotify.com/album/1pRBxy7vLdqZNasMxFZ47A) | 6:09 |
-| 59 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\) \[Spotify Only\]](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 |
+| 59 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\)](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 |
 | 60 | [Because Of Who You Are \- Live](https://open.spotify.com/track/1vvcXs8TR7nXhj2vRN7RYc) | [Martha Munizzi](https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR) | [Because Of Who You Are \(Live\)](https://open.spotify.com/album/2DO4ddsBvOsPnOS3MPKt33) | 6:17 |
 | 61 | [Revival \(Live In Detroit\)](https://open.spotify.com/track/7DCQiA1zpA5J44hPAFZJdE) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Revival \(Live In Detroit\)](https://open.spotify.com/album/67Y4zIjD4CIGkGki9348oI) | 3:37 |
 | 62 | [Masterpiece](https://open.spotify.com/track/31B4973cn2QBnl05li51z1) | [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Masterpiece](https://open.spotify.com/album/3ebVxd8MwhTTHYODQ7a4OK) | 3:36 |

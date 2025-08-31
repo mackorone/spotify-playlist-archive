@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,833 likes - 53 songs - 2 hr 38 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,834 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

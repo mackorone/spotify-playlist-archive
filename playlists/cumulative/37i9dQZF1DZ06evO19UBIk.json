@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of the Doors",
+        "url": "https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Break on Through (To the Other Side) - New Stereo Mix",
+      "url": "https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE"
+    },
+    {
+      "album": {
         "name": "Bangarang EP",
         "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
       },

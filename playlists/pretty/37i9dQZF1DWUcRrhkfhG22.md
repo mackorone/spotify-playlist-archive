@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,605 likes - 96 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,613 likes - 96 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 95 | [Closer to You](https://open.spotify.com/track/39aS1vayAYmSDhofk4paai) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/4ZUJhoZxGSTPoPYfgxDUAY) | 5:04 |
 | 96 | [Pomslap](https://open.spotify.com/track/3CNHLmc5GzNIjg1vGIlpzk) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/1DNHoVmaDggZwxNWxTpBpA) | 4:04 |
 
-Snapshot ID: `AAAAAEYY+wv9kiDrp5ho2UVVyTdsv3y8`
+Snapshot ID: `AAAAANB5XJKbMRjMd6COc5URVwFtv15F`

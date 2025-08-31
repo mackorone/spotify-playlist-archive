@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 100356,
+  "num_followers": 100397,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Wat Is Je Naam",
+        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Wat Is Je Naam",
+      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Wat Is Je Naam",
-        "url": "https://open.spotify.com/album/7DSXNoQCBYILBZGG83t53t"
-      },
-      "artists": [
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Wat Is Je Naam",
-      "url": "https://open.spotify.com/track/4SlqfJkQNAS7A5cvjBvQ3C"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1475,26 +1475,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+        "name": "J'ai D\u00e9conn\u00e9",
+        "url": "https://open.spotify.com/album/6cYHZJpSSeMCBRd7xzikIK"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Latifah",
+          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
         },
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+          "name": "Clandistino",
+          "url": "https://open.spotify.com/artist/6jS6JOoUxuUrEKDDrciQzm"
         }
       ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
+      "duration_ms": 168218,
+      "name": "J'ai D\u00e9conn\u00e9",
+      "url": "https://open.spotify.com/track/51PcB5453BMTM18V0hru79"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1523,22 +1519,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "J'ai D\u00e9conn\u00e9",
-        "url": "https://open.spotify.com/album/6cYHZJpSSeMCBRd7xzikIK"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
       },
       "artists": [
         {
-          "name": "Latifah",
-          "url": "https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Clandistino",
-          "url": "https://open.spotify.com/artist/6jS6JOoUxuUrEKDDrciQzm"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
         }
       ],
-      "duration_ms": 168218,
-      "name": "J'ai D\u00e9conn\u00e9",
-      "url": "https://open.spotify.com/track/51PcB5453BMTM18V0hru79"
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Bon Dia",
         "url": "https://open.spotify.com/album/4sBPQTmJDyHTkqet9DwoUo"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 193846,
       "name": "Bon Dia",
       "url": "https://open.spotify.com/track/1edwhO9JqK22yqrgyAaoXe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",

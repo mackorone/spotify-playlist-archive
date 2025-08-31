@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,897 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,913 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 20 | [Five Little Monkeys](https://open.spotify.com/track/475LPQIUiT6SqfwuqWYtU2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:08 |
 | 21 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 |
 | 22 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
-| 23 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
-| 24 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
+| 23 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 |
+| 24 | [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 |
 | 25 | [Skidamarink](https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [It's Time for Bed](https://open.spotify.com/album/3MKm8koz5nvtGYRaTkLYXe) | 2:16 |
 | 26 | [Boom Chicka Boom](https://open.spotify.com/track/3wwjGWZLyBv4SJwYxc9KZy) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Toddler Action Learning Songs](https://open.spotify.com/album/5MTRkg3C6Sk2am4AbN3h3F) | 2:34 |
 | 27 | [A Whole New World](https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin: Special Edition Soundtrack](https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2) | 2:40 |

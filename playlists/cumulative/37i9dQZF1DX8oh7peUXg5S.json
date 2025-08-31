@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 159066,
       "name": "Mi Querida Espa\u00f1a",
       "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 178811,
       "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
       "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
@@ -4928,15 +4928,19 @@
       },
       "artists": [
         {
-          "name": "Joaquin Sabina y Viceversa",
-          "url": "https://open.spotify.com/artist/77JFXiVvftzgV1WRx2mNve"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        },
+        {
+          "name": "Viceversa",
+          "url": "https://open.spotify.com/artist/1I48CZMQAC43VCujvKgX4j"
         }
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 244733,
-      "name": "Princesa",
+      "name": "Princesa (feat. Viceversa)",
       "url": "https://open.spotify.com/track/0C1OcBOsuFmFFGkh3FWIGG"
     },
     {

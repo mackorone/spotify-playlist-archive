@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Night in the City",
+        "url": "https://open.spotify.com/album/7I9Av7XYxponwKOHUJqmd4"
+      },
+      "artists": [
+        {
+          "name": "Richard Freeman",
+          "url": "https://open.spotify.com/artist/2jMdNGRfKWWbu2ln2qwTvQ"
+        }
+      ],
+      "date_added": "2025-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180621,
+      "name": "Endless Mind",
+      "url": "https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn"
+    },
+    {
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 248165,
       "name": "Evans",
       "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"

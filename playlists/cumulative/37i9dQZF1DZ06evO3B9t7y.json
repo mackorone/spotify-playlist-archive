@@ -1675,6 +1675,28 @@
     },
     {
       "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
+    },
+    {
+      "album": {
         "name": "Colmillo De Leche Live Sessions (En Vivo)",
         "url": "https://open.spotify.com/album/0JuvcIJT6XRYurUSUOT4FC"
       },
@@ -3292,7 +3314,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 172000,
       "name": "Tierra Tr\u00e1game (con Car\u00edn Le\u00f3n)",
       "url": "https://open.spotify.com/track/3FyeZnp9nMLxK2Xo7wAth4"

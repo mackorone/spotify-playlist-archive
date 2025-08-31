@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Bobby Bazini",
-  "num_followers": 45901,
+  "num_followers": 45907,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Zota (feat. Tayc)",
         "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
       },
@@ -611,34 +627,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Un, Dos, Tres",
-        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
       },
       "artists": [
         {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Un, Dos, Tres",
-      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "COM\u00c8TE",
-        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
-      },
-      "artists": [
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
         }
       ],
-      "duration_ms": 146526,
-      "name": "COM\u00c8TE",
-      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
+      "duration_ms": 195163,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -663,22 +667,18 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
+        "name": "COM\u00c8TE",
+        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
       },
       "artists": [
         {
-          "name": "Mattyeux",
-          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 195163,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
+      "duration_ms": 146526,
+      "name": "COM\u00c8TE",
+      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Coeur maladroit",
-        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Restes d'averses",
-      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Mille vagues",
         "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 303106,
       "name": "Mille vagues",
       "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Restes d'averses",
+      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

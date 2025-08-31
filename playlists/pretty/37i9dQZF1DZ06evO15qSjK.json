@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173942,
+  "num_followers": 173958,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADBtBNfLNMug/YtBIIbKZM9",
+  "snapshot_id": "aLDtgAAAAADG70eHiH8LoBFf9bN8PqqY",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kidz Bop 26",
         "url": "https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 162954,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Good 4 U",
-      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142383,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2022",
         "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 119788,
       "name": "Mood",
       "url": "https://open.spotify.com/track/788x9mdQZYIdw0sDZQn8St"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142383,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "About That Time",
-      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206413,
       "name": "Party In The USA - Redo Version",
       "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/5DbPNN11Em48bMBcjesRt3"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 195212,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1FbPp6NgKUtM0WhsyArQ0s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 219960,
       "name": "I Gotta Feeling - Redo Version",
       "url": "https://open.spotify.com/track/1Svh4ExakKVb26eflqL6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/5DbPNN11Em48bMBcjesRt3"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 195212,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1FbPp6NgKUtM0WhsyArQ0s"
     },
     {
       "added_at": null,

@@ -6757,6 +6757,28 @@
     },
     {
       "album": {
+        "name": "Rough Magic",
+        "url": "https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d"
+      },
+      "artists": [
+        {
+          "name": "William Brittelle",
+          "url": "https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja"
+        },
+        {
+          "name": "Roomful of Teeth",
+          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
+        }
+      ],
+      "date_added": "2024-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279620,
+      "name": "I. Deep Blue (You Beat Me)",
+      "url": "https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon"
+    },
+    {
+      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -11172,28 +11194,6 @@
       "duration_ms": 252492,
       "name": "Protocol",
       "url": "https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw"
-    },
-    {
-      "album": {
-        "name": "Rough Magic",
-        "url": "https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d"
-      },
-      "artists": [
-        {
-          "name": "William Brittelle",
-          "url": "https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja"
-        },
-        {
-          "name": "Roomful of Teeth",
-          "url": "https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH"
-        }
-      ],
-      "date_added": "2024-01-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 279620,
-      "name": "Psychedelics: I. Deep Blue (You Beat Me)",
-      "url": "https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon"
     },
     {
       "album": {

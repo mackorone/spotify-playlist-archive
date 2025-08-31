@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 29168,
+  "num_followers": 29171,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
+        "name": "\u795e\u69d8\u306f\u6b7b\u3093\u3060\u3001\u3063\u3066",
+        "url": "https://open.spotify.com/album/6YOFCgbDa6mUrXjiRufDXT"
+      },
+      "artists": [
+        {
+          "name": "LUCA IKARUGA (CV: Rina Kawaguchi)",
+          "url": "https://open.spotify.com/artist/38phtutZVVimwjYNOoYi4x"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "\u795e\u69d8\u306f\u6b7b\u3093\u3060\u3001\u3063\u3066",
+      "url": "https://open.spotify.com/track/2mja76vvIBmMbuDqhegpHM"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 01",
         "url": "https://open.spotify.com/album/2nINsRjHFbz5oWMG4zJo2i"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 244073,
       "name": "VERY BERRY LOVE",
       "url": "https://open.spotify.com/track/7gzthuIzXzuEkd4YQXTOLk"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 04",
-        "url": "https://open.spotify.com/album/5mmghdMKxtWt5QaAMLqGWQ"
-      },
-      "artists": [
-        {
-          "name": "HO-KA-GO CLIMAX GIRLS",
-          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "\u3088\u308a\u307f\u3061\u30b5\u30f3\u30bb\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/2W314eFGeZXq122e15weQI"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS",

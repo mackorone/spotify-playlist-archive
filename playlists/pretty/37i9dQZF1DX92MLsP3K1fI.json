@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Torreblanca en portada.",
-  "num_followers": 93189,
+  "num_followers": 93209,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
+        "name": "QUIERO OLVIDARTE (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "QUIERO OLVIDARTE - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
         "name": "voltaje",
         "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 172363,
       "name": "voltaje",
       "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
-        "name": "QUIERO OLVIDARTE (Respuesta #1)",
-        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "QUIERO OLVIDARTE - Respuesta #1",
-      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
     },
     {
       "added_at": "2025-08-29 17:03:49",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-08-29 17:03:49",
       "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
-    },
-    {
-      "added_at": "2025-08-29 17:03:49",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161373,
       "name": "PLATONIK",
       "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+    },
+    {
+      "added_at": "2025-08-29 17:03:49",
+      "album": {
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     },
     {
       "added_at": "2025-08-29 17:03:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday🔥 Jere Klein & Katteyes are bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,903 likes - 20 songs - 59 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,959 likes - 20 songs - 59 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

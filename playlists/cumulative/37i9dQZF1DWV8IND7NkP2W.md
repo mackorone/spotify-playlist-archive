@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-808 songs - 1 day 12 hr 30 min
+809 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2025-08-27 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |
 | [Colibri](https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [Colibri](https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S) | 3:32 | 2025-01-13 |  |
-| [Come Check](https://open.spotify.com/track/36Dswj5u2J8eNiwTI3JILf) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Come Check](https://open.spotify.com/album/1gV3dWkfZ5Zz5ZLP4g3DrJ) | 2:26 | 2024-07-26 |  |
+| [Come Check](https://open.spotify.com/track/36Dswj5u2J8eNiwTI3JILf) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Come Check](https://open.spotify.com/album/1gV3dWkfZ5Zz5ZLP4g3DrJ) | 2:26 | 2024-07-26 | 2025-08-31 |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2022-07-28 | 2023-12-08 |
 | [Conflicted](https://open.spotify.com/track/4Rex03OZQCSqIgqWbmebTs) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Conflicted](https://open.spotify.com/album/0B4Zt2LmDh1aowk0YA5etb) | 3:39 | 2021-12-23 | 2022-07-25 |
 | [Consciousness \- Instrumental](https://open.spotify.com/track/3DTrG2Jw4UhKUwGNH5mfZn) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Consciousness \(Instrumental\)](https://open.spotify.com/album/2iCaKInX41qUE9dvpNDhzE) | 1:43 | 2021-12-23 | 2022-06-14 |
@@ -163,7 +163,7 @@
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
 | [Curtain Call](https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Curtain Call](https://open.spotify.com/album/59TQxHntLy3yBkzajpmqdp) | 1:44 | 2021-12-23 | 2022-07-17 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-11-18 |
-| [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 | 2023-09-26 |  |
+| [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 | 2023-09-26 | 2025-08-31 |
 | [dawn of diego martin](https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [dawn of diego martin](https://open.spotify.com/album/3mfY09Oj9fEjPV4ckbZcSM) | 3:21 | 2021-12-23 | 2022-07-27 |
 | [DAY OFF](https://open.spotify.com/track/50O8IO9mY1fhlgB9iOnsxG) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [DAY OFF](https://open.spotify.com/album/5lWmKhQToRBkp4GXpPufKG) | 3:46 | 2021-12-23 | 2022-07-17 |
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
@@ -382,7 +382,7 @@
 | [Let Somebody Go](https://open.spotify.com/track/2RMKGL19Vqp72Uztte0RCk) | [Kikou](https://open.spotify.com/artist/1AqcVmVp7Ggxu1oJuJL8tn), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Let Somebody Go](https://open.spotify.com/album/03HbM4VsceyzqKrGxJnnok) | 1:24 | 2021-12-23 | 2022-05-08 |
 | [letdown](https://open.spotify.com/track/085xntFT3ILjAWurpEbmXR) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [4 million](https://open.spotify.com/album/5ArljGAioG93q3pt3N2vTZ) | 3:50 | 2022-01-06 | 2022-07-20 |
 | [letter \-second page\-](https://open.spotify.com/track/4Ne8nOvDRXS41vHpKhjBob) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [letter \-second page\-](https://open.spotify.com/album/4TM4cgxfI5DjBfpB4ObLAe) | 4:00 | 2021-12-23 | 2022-02-11 |
-| [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2022-03-24 | 2025-08-12 |
+| [Libration](https://open.spotify.com/track/58H942tr6mbp7FR5q3kwcB) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Libration](https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm) | 3:04 | 2022-03-24 |  |
 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 | 2025-06-12 | 2025-07-05 |
 | [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 | 2023-11-10 |
 | [Little Krumbs](https://open.spotify.com/track/19eL5iDhBdJWPaoN1CsHpS) | [mimii](https://open.spotify.com/artist/5etiKSmq26ACCmKPKHB2eA) | [Little Krumbs](https://open.spotify.com/album/0XukDaihdwBpk2RazkS7OR) | 1:14 | 2022-04-07 | 2022-04-21 |
@@ -645,6 +645,7 @@
 | [Sorrow Of Youth](https://open.spotify.com/track/2ZLNL0JcFc3DNbFrTQMaHQ) | [14?](https://open.spotify.com/artist/1DZRj5FUmSmvLmFNiQacWK) | [Escape](https://open.spotify.com/album/6EXNFcRX6s93p409GJ234a) | 4:26 | 2021-12-23 | 2022-01-25 |
 | [Sounds Like Love](https://open.spotify.com/track/4Ix70rkYSbbXfzqLk6lvRM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [The Remixes Instrumental](https://open.spotify.com/album/52xioo3LkEQ7B1dfYD9SVl) | 4:00 | 2022-01-13 | 2022-06-29 |
 | [Sous les étoiles](https://open.spotify.com/track/2VGD6dKxBoh6Yq94XTidZg) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Sous les étoiles](https://open.spotify.com/album/0U29rwwf7QYM3vJIKeZCqj) | 1:38 | 2022-01-13 | 2022-05-27 |
+| [Southern Street \(DLJ Remix\)](https://open.spotify.com/track/0w9bfDsou5J6Ef0wlLU6ry) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Southern Street \(DLJ Remix\)](https://open.spotify.com/album/0cxwp0Gripib4vzzBUdJzb) | 2:22 | 2025-08-29 |  |
 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 | 2024-07-26 | 2025-05-03 |
 | [Sparkler](https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [Sparkler](https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB) | 2:52 | 2024-12-14 |  |
 | [special](https://open.spotify.com/track/5YqgLosDBFzjeXUvNwCnQC) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [special](https://open.spotify.com/album/5GfEDnVTeachHBtWYl4YTr) | 2:26 | 2022-01-13 | 2025-05-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sabrina Carpenter, The Beaches, Bryan Adams, Patrick Watson,  ThxSoMuch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,805 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,927 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

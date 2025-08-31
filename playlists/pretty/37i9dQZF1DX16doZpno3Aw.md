@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,854 likes - 122 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,052 likes - 122 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 121 | [Elevator Music](https://open.spotify.com/track/5WIHTBujvgqKbbOp1mWQiz) | [Bohoman](https://open.spotify.com/artist/64kcpTMl9ldPMoUQzUh6LL) | [Elevator Music](https://open.spotify.com/album/4JELBhwdQUdAD6JcrlvuWx) | 2:48 |
 | 122 | [Ghibli style nostalgic waltz](https://open.spotify.com/track/6ePjQOlTtUMJ6vBMYAGAj3) | [MaSssugu Music](https://open.spotify.com/artist/7fhZxTXDRUQ18K24cb6y6l) | [Ghibli style nostalgic waltz](https://open.spotify.com/album/21tcl4HsmaG1lAzErLR47F) | 2:32 |
 
-Snapshot ID: `AAAAAAd7JRdoXslH5UNsKtESU2BCj/37`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

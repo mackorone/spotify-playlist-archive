@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 119 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 195 likes - 119 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 58 | [Night](https://open.spotify.com/track/0LFO2Dep3r3g36vt0rY8yt) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 4:14 |
 | 59 | [ASOBO \-English ver.\-](https://open.spotify.com/track/4bxx8e12FbY0x77AuqOjPu) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [ASOBO \-English ver.\-](https://open.spotify.com/album/3HrYO8vY7K3pAQ59pFrZaV) | 3:01 |
 | 60 | [Crazy Crazy 4 U \(feat\. Rumer Willis\)](https://open.spotify.com/track/0vwU1AygDRsVrTkpZTrrgo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Rumer Willis](https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 2:37 |
-| 61 | [Cha Cha](https://open.spotify.com/track/3V6iMzC3UouWCUFewAoaZ2) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:10 |
-| 62 | [Every Night](https://open.spotify.com/track/0Qe8IB3Tqb5wLQbsrri7ex) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 2:57 |
+| 61 | [Every Night](https://open.spotify.com/track/0Qe8IB3Tqb5wLQbsrri7ex) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 2:57 |
+| 62 | [Cha Cha](https://open.spotify.com/track/3V6iMzC3UouWCUFewAoaZ2) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:10 |
 | 63 | [Closer To God](https://open.spotify.com/track/6tEMQwdoXU7pkFwf4FjJjj) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:04 |
 | 64 | [Voices](https://open.spotify.com/track/0TeyADr2CzTOdwfsZCKn3c) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Voices / Psycho](https://open.spotify.com/album/3hUnq084DKurIS1RMU9srZ) | 3:36 |
 | 65 | [Dissolve](https://open.spotify.com/track/1vQ8UU7AGi4ljLZ8yngVBM) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 3:31 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 118 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 119 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `Ab606gAAAAAnnFFLz03jWUHHtbvSC8Yv`
+Snapshot ID: `Ab66vAAAAADUm6pC7+oK8cXCBQtiBuo4`

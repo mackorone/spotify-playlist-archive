@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83130,
+  "num_followers": 83156,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Amalia (Remix)",
-        "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        },
-        {
-          "name": "Opgeblazen",
-          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
-        }
-      ],
-      "duration_ms": 152829,
-      "name": "Amalia - Remix",
-      "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Gas Geven (Official Karnaval Festival 2025 Anthem)",
         "url": "https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 138217,
       "name": "Gas Geven - Official Karnaval Festival 2025 Anthem",
       "url": "https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Amalia (Remix)",
+        "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        },
+        {
+          "name": "Opgeblazen",
+          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
+        }
+      ],
+      "duration_ms": 152829,
+      "name": "Amalia - Remix",
+      "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -883,6 +883,30 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "In Mijn Bloed (feat. Eelco)",
+        "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "Eelco",
+          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
+        }
+      ],
+      "duration_ms": 191174,
+      "name": "In Mijn Bloed (feat. Eelco)",
+      "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "Adrenaline (Sound Rush Remix)",
         "url": "https://open.spotify.com/album/5nM7KwNskekFeQ3YCWixcU"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 182397,
       "name": "Adrenaline - Sound Rush Remix",
       "url": "https://open.spotify.com/track/2oiTNtLcGT6wl3RThNjldQ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "In Mijn Bloed (feat. Eelco)",
-        "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        },
-        {
-          "name": "Eelco",
-          "url": "https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX"
-        }
-      ],
-      "duration_ms": 191174,
-      "name": "In Mijn Bloed (feat. Eelco)",
-      "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Het Is Een Nacht (Total Loss Remix)",
         "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 257202,
       "name": "Het Is Een Nacht - Total Loss Remix",
       "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Ik Kom Harder",
-        "url": "https://open.spotify.com/album/1LYNfa6grpY6DBNrdee9kg"
+        "name": "Allez Allez Allez (Original Mix)",
+        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
       },
       "artists": [
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
         },
         {
-          "name": "Jordy Dijkshoorn",
-          "url": "https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke"
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Ik Kom Harder",
-      "url": "https://open.spotify.com/track/1CU7LGT6BsEOhi2cXOL3sf"
+      "duration_ms": 215612,
+      "name": "Allez Allez Allez - Original Mix",
+      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 248290,
+  "num_followers": 248342,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Love on the Rocks",
-        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
-      },
-      "artists": [
-        {
-          "name": "Lauren Anderson",
-          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Love on the Rocks",
-      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Soft Place To Fall",
         "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 291840,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Love on the Rocks",
+        "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
+      },
+      "artists": [
+        {
+          "name": "Lauren Anderson",
+          "url": "https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Love on the Rocks",
+      "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
-        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
       },
       "artists": [
         {
-          "name": "Janiva Magness",
-          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
-        },
-        {
-          "name": "Sam Morrow",
-          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Lodi",
-      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -547,6 +527,26 @@
       "duration_ms": 306680,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
+        "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
+      },
+      "artists": [
+        {
+          "name": "Janiva Magness",
+          "url": "https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg"
+        },
+        {
+          "name": "Sam Morrow",
+          "url": "https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Lodi",
+      "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 179197,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 349066,
       "name": "If Trouble Was Money",
       "url": "https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 179197,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp"
     },
     {
       "added_at": "2024-08-13 17:16:13",

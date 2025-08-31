@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58375,
+  "num_followers": 58379,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 285666,
-      "name": "Land of Confusion - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 302840,
-      "name": "In Too Deep - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+      "duration_ms": 285666,
+      "name": "Land of Confusion - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Gangsta Blues",
-        "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
-      },
-      "artists": [
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "It's A Pity",
-      "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 207133,
       "name": "Just How It Is",
       "url": "https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Gangsta Blues",
+        "url": "https://open.spotify.com/album/08N10iDC2hOpj69QHaU1Dn"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "It's A Pity",
+      "url": "https://open.spotify.com/track/0oWha7OKAqQwFZymfthIEV"
     },
     {
       "added_at": "2022-10-01 16:00:00",

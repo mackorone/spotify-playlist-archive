@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Yashraj & Calm
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,639 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,685 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TOP FLOOR SHiii](https://open.spotify.com/track/5PBLHkJ35cyzRHWN083JKM) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Calm](https://open.spotify.com/artist/2WQ75gaXBzFIIF54BDJXDv) | [TOP FLOOR SHiii](https://open.spotify.com/album/4HQywyfzZIxnI1zems5VBX) | 2:59 |
+| 1 | [TOP FLOOR SHiii](https://open.spotify.com/track/5PBLHkJ35cyzRHWN083JKM) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [TOP FLOOR SHiii](https://open.spotify.com/album/4HQywyfzZIxnI1zems5VBX) | 2:59 |
 | 2 | [Rain](https://open.spotify.com/track/2S7zil55OJvWaJrwiqSjIr) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Rain](https://open.spotify.com/album/5xrmHCJu7WQEnnVNti4Ynp) | 3:23 |
 | 3 | [Mood Nahi](https://open.spotify.com/track/1ai9wyNRwyWjj4aTlsdN8E) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Mood Nahi](https://open.spotify.com/album/57p3TMFyLM6T1Et6OglMu3) | 3:03 |
 | 4 | [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 |

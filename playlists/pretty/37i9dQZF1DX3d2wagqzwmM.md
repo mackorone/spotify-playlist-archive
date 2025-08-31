@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,347 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,511 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 74 | [Holy \- Nicky Romero & Almero Festival Edit](https://open.spotify.com/track/1eL80CN0UF5aBsncWBPfFQ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q), [Almero](https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI) | [Holy \(Nicky Romero & Almero Festival Edit\)](https://open.spotify.com/album/4YrGxWlTt7h1Q0BPIUEOAI) | 3:43 |
 | 75 | [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 |
 | 76 | [Magalenha](https://open.spotify.com/track/4IPEchRbWdV3CFCgl3tXRA) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Magalenha](https://open.spotify.com/album/3NQrqWMpGH9PqZMEoSPBsZ) | 2:32 |
-| 77 | [Paradoxx](https://open.spotify.com/track/311Qd187nocyXg2WcNRW1y) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx](https://open.spotify.com/album/6WQ196juQmaFmzWEOmfU4X) | 2:06 |
-| 78 | [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 |
+| 77 | [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 |
+| 78 | [Paradoxx](https://open.spotify.com/track/311Qd187nocyXg2WcNRW1y) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx](https://open.spotify.com/album/6WQ196juQmaFmzWEOmfU4X) | 2:06 |
 | 79 | [The House Of House \(Yves Deruyter & BYØRN Remix\) \[Live At Tomorrowland\]](https://open.spotify.com/track/6pvcrKHVbcTZGio7XWMiPG) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh), [Yves Deruyter](https://open.spotify.com/artist/0jKR1DdWGSZB2hYgJq82qt), [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Vinyl Only \(Live at Tomorrowland\)](https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6) | 3:08 |
 | 80 | [Push The Feeling](https://open.spotify.com/track/7DAQDfwJtRuhNOLCOCDtn3) | [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6), [Salento Guys](https://open.spotify.com/artist/51wnfYz48wZ4bYp9VqhLv4), [RKN](https://open.spotify.com/artist/2uwNJk0D4kj70Q93ler5ot) | [Push The Feeling](https://open.spotify.com/album/73Z91pnt51ePZzPR1dT8Oj) | 2:42 |
 

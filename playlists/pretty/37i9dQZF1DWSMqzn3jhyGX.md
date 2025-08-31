@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899 likes - 76 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMqzn3jhyGX.md) - [plain]
 | 50 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 |
 | 51 | [With you](https://open.spotify.com/track/2CxR1IipE09KsUmmD3oT4E) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 3:19 |
 | 52 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
-| 53 | [the deep sea](https://open.spotify.com/track/1hQDMQleO7992DMawi3lhd) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:47 |
+| 53 | [The Deep Sea](https://open.spotify.com/track/1hQDMQleO7992DMawi3lhd) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:47 |
 | 54 | [It\`s Okay](https://open.spotify.com/track/05vUJHSgvD8Esv34TfoqNH) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [Let′s Take A Walk](https://open.spotify.com/album/0233KfCcA6v3QCwjU80EBe) | 4:38 |
 | 55 | [Umbrella](https://open.spotify.com/track/5BX3ZXQlnUs2NQIrd4Sdjj) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [Umbrella](https://open.spotify.com/album/32UUy7PJJASCHsyJvatRs6) | 3:50 |
 | 56 | [Please Wait](https://open.spotify.com/track/7be6Hh3raT7CwyXv6G9FOl) | [Airmangirl](https://open.spotify.com/artist/6lHqZFk7FgvUD9Ib5QGPzu) | [Please Wait](https://open.spotify.com/album/1sZVgmq6mgnx1dvjFnJLT3) | 3:07 |

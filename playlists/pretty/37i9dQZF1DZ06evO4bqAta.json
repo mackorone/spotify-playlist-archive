@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 581314,
+  "num_followers": 581391,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACnsWrioxN8MnbO28eSEf4L",
+  "snapshot_id": "aLDtgAAAAAAZUvbFgObiklsdHhBQPhtN",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street-Legal",
-        "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 397093,
-      "name": "Changing of the Guards",
-      "url": "https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157933,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street-Legal",
+        "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 397093,
+      "name": "Changing of the Guards",
+      "url": "https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slow Train Coming",
-        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 324800,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 171106,
       "name": "Love Minus Zero",
       "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slow Train Coming",
+        "url": "https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 324800,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/760420tYNmNjFgi8bWvbop"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 356226,
-      "name": "Tombstone Blues",
-      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bringing It All Back Home",
         "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 166706,
       "name": "She Belongs to Me",
       "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 356226,
+      "name": "Tombstone Blues",
+      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
     },
     {
       "added_at": null,

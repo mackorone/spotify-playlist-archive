@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 8779,
+  "num_followers": 8798,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
+        "name": "\u4e03\u5915\u591c\u60f3\u66f2\u301c\u6751\u4e0b\u5b5d\u8535\u6700\u9ad8\u9078\u66f2\u96c6\u3000\u5176\u306e\u58f1",
+        "url": "https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW"
+      },
+      "artists": [
+        {
+          "name": "Kozo Murashita",
+          "url": "https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "\u967d\u3060\u307e\u308a",
+      "url": "https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
         "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 137880,
       "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
       "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
-        "name": "\u4e03\u5915\u591c\u60f3\u66f2\u301c\u6751\u4e0b\u5b5d\u8535\u6700\u9ad8\u9078\u66f2\u96c6\u3000\u5176\u306e\u58f1",
-        "url": "https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW"
-      },
-      "artists": [
-        {
-          "name": "Kozo Murashita",
-          "url": "https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "\u967d\u3060\u307e\u308a",
-      "url": "https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\uff31\uff35\uff21\uff32\uff34\uff25\uff32\uff22\uff21\uff23\uff2b",
-        "url": "https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP"
-      },
-      "artists": [
-        {
-          "name": "Masanori Ikeda",
-          "url": "https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F"
-        }
-      ],
-      "duration_ms": 245800,
-      "name": "NIGHT OF SUMMER SIDE",
-      "url": "https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01\u97f3\u697d\u96c6",
         "url": "https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268233,
       "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01 \uff5eFLY HIGH\uff5e",
       "url": "https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\uff31\uff35\uff21\uff32\uff34\uff25\uff32\uff22\uff21\uff23\uff2b",
+        "url": "https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP"
+      },
+      "artists": [
+        {
+          "name": "Masanori Ikeda",
+          "url": "https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "NIGHT OF SUMMER SIDE",
+      "url": "https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
-        "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
+        "name": "<\u6226\u5f8c70\u5e74 \u6b4c\u306e\u3042\u3086\u307f> \u3053\u3069\u3082\u306e\u3046\u305f \u301c\u3068\u3093\u304c\u308a\u5e3d\u5b50\u30fb\u307f\u304b\u3093\u306e\u82b1\u3055\u304f\u4e18\u301c",
+        "url": "https://open.spotify.com/album/3ZblGJJIGKnBUwYdQ0xOEu"
       },
       "artists": [
         {
-          "name": "Azumi Inoue",
-          "url": "https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp"
+          "name": "\u4e0a\u9ad8\u7530\u5c11\u5e74\u5408\u5531\u56e3",
+          "url": "https://open.spotify.com/artist/2a5e314NsqsLahfBcsfRYB"
         }
       ],
-      "duration_ms": 257760,
-      "name": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed(\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed)",
-      "url": "https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr"
+      "duration_ms": 149786,
+      "name": "\u9244\u8155\u30a2\u30c8\u30e0",
+      "url": "https://open.spotify.com/track/48h2O24oTHPDJ6BiJPydQ7"
     },
     {
       "added_at": "2025-06-13 16:40:18",

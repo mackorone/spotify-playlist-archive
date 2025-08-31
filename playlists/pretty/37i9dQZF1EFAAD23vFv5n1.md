@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 153 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 153 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 115 | [incantesimi v96](https://open.spotify.com/track/4c77bLupkvrEB6bpmfqFAQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 1:56 |
 | 116 | [BlaBlaBla](https://open.spotify.com/track/14XKk6Ly4Os7O3KKMLBnfP) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:34 |
 | 117 | [Labbra blu \(feat\. YTAM\)](https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DEFAULT](https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB) | 2:34 |
-| 118 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 |
-| 119 | [Banana](https://open.spotify.com/track/7lfhbKPw3ne71I57lAGQXV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Banana](https://open.spotify.com/album/0Rt92Xa4ng0V0cmmXCPf9Y) | 1:51 |
+| 118 | [Banana](https://open.spotify.com/track/7lfhbKPw3ne71I57lAGQXV) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR) | [Banana](https://open.spotify.com/album/0Rt92Xa4ng0V0cmmXCPf9Y) | 1:51 |
+| 119 | [CHE MUTANDE HAI v9](https://open.spotify.com/track/4QWsUSBK8aL8nNwqtF9MWS) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 3:22 |
 | 120 | [Cosa volevi da me](https://open.spotify.com/track/5du0P9jrdjk30gjVcCfUBO) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Indico](https://open.spotify.com/album/47sbHniMtApzvNu7FZDOje) | 2:56 |
 | 121 | [Apatia](https://open.spotify.com/track/4zRo75TW6X6zdu8In4qPIm) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 3:08 |
 | 122 | [Fare finta](https://open.spotify.com/track/0oxCfIael0av7V8JCucC7q) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [fuori dalla stanza](https://open.spotify.com/album/5IuN8Gt3WM27QXNhb6kenh) | 3:02 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 152 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 153 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab606gAAAADgTjRH1+/FCQQ+5N07ZHrk`
+Snapshot ID: `Ab66vAAAAACOQjV7gecDJ5liUcJFbdfM`

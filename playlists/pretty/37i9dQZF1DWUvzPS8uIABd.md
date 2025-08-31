@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Evelina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,153 likes - 59 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,175 likes - 59 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

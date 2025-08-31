@@ -769,6 +769,36 @@
     },
     {
       "album": {
+        "name": "Cachorro Sincero",
+        "url": "https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137989,
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj"
+    },
+    {
+      "album": {
         "name": "Donas do Jogo 2",
         "url": "https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo"
       },
@@ -1008,7 +1038,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"

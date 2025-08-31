@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Hurt People Hurt People",
+        "url": "https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214298,
+      "name": "Hurt People Hurt People",
+      "url": "https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4"
+    },
+    {
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },

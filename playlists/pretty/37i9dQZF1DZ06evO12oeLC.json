@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17801,
+  "num_followers": 17809,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAA0ml/VekjwiPtmNYxK754r",
+  "snapshot_id": "aLDtgAAAAAAg9uCRnVp9Vwg++0We47gg",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
       },
       "artists": [
         {
-          "name": "Claire Laffut",
-          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 199009,
-      "name": "Nudes",
-      "url": "https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1"
+      "duration_ms": 230130,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/37qgtEIrjqThh27zo0ERdf"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 230130,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/37qgtEIrjqThh27zo0ERdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAD BOY",
         "url": "https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 274520,
       "name": "BAD BOY",
       "url": "https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nudes",
+        "url": "https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3"
+      },
+      "artists": [
+        {
+          "name": "Claire Laffut",
+          "url": "https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 198855,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb"
     },
     {
       "added_at": null,

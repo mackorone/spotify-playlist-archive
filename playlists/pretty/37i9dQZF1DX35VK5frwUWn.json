@@ -495,26 +495,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Freddy Krueger (feat. Tee Grizzley)",
-        "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Freddy Krueger (feat. Tee Grizzley)",
-      "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "Rich Crack Baby",
         "url": "https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 227224,
       "name": "Foreva (feat. T.I.)",
       "url": "https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Freddy Krueger (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Freddy Krueger (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2"
     },
     {
       "added_at": "2022-11-01 04:00:00",

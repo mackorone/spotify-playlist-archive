@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > yo no tuve herencias ni carrito regalado ✨🧿 Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,633 likes - 63 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,945 likes - 63 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

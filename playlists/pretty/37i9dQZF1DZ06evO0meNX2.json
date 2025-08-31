@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 39991,
+  "num_followers": 40021,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAYHi7sapE6gVKUfCRlMmGQ",
+  "snapshot_id": "aLDtgAAAAAAfKyPDTXHi2OKac3A8gVNu",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 242928,
-      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+      "duration_ms": 153709,
+      "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 153709,
-      "name": "NO VOLVERE - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M"
+      "duration_ms": 242928,
+      "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
     },
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Amor II",
-        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
       },
       "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
+      "duration_ms": 225165,
+      "name": "Una Coronita",
+      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
       },
       "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 225165,
-      "name": "Una Coronita",
-      "url": "https://open.spotify.com/track/3h9gDBAAhEGK7xPCBse93k"
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
     },
     {
       "added_at": null,
@@ -847,26 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gabachas",
-        "url": "https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ"
+        "name": "El General",
+        "url": "https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg"
       },
       "artists": [
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Sheeno",
-          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 127920,
-      "name": "Gabachas",
-      "url": "https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN"
+      "duration_ms": 227004,
+      "name": "El General",
+      "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
     },
     {
       "added_at": null,
@@ -895,18 +887,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El General",
-        "url": "https://open.spotify.com/album/3GbcMCpdYObAqoAaQC09vg"
+        "name": "Gabachas",
+        "url": "https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ"
       },
       "artists": [
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         }
       ],
-      "duration_ms": 227004,
-      "name": "El General",
-      "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
+      "duration_ms": 127920,
+      "name": "Gabachas",
+      "url": "https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN"
     },
     {
       "added_at": null,

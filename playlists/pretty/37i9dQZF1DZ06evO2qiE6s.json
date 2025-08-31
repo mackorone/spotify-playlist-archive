@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 125836,
+  "num_followers": 125856,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAbWSI5Ar3fe/i1szwFdfs+",
+  "snapshot_id": "aLDtgAAAAABjxZPm0YeA0TLxhT49mP6Y",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
-        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "In Napoli",
-      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182106,
       "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
       "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
+        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "In Napoli",
+      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
     },
     {
       "added_at": null,

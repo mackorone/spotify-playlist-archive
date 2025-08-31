@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Aditya Rikhari, Shirley Setia and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,687 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,713 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 35 | [Aisi Mulaqaat](https://open.spotify.com/track/6kWBpnY5jGQiohGqUbkViW) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Aisi Mulaqaat](https://open.spotify.com/album/5tasBagj0tfQQj7Z9t2Qvi) | 2:44 |
 | 36 | [Panchii](https://open.spotify.com/track/2iqiSNXdFH6vOLi0ZypPVX) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Panchii](https://open.spotify.com/album/1S1ApH3B7ZnKI3UP1YTwCz) | 3:50 |
 | 37 | [Chadeya](https://open.spotify.com/track/37fiG26LiujOezzUOHgHoN) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH) | [Chadeya](https://open.spotify.com/album/59fK4J1A6WaQvs3zo12ffp) | 2:37 |
-| 38 | [Morni](https://open.spotify.com/track/72YcTplgzfw4We9PciCEHs) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Morni](https://open.spotify.com/album/5MCB0PiQwZxKOy1o3RFaV0) | 3:20 |
+| 38 | [Morni](https://open.spotify.com/track/72YcTplgzfw4We9PciCEHs) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Morni](https://open.spotify.com/album/5MCB0PiQwZxKOy1o3RFaV0) | 3:17 |
 | 39 | [Haaniya](https://open.spotify.com/track/6usB8w6q62tom1OqRk8LEX) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Haaniya](https://open.spotify.com/album/6y6urc9ONRjVs4xiW7Jm9b) | 3:08 |
 | 40 | [Last Love](https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Last Love](https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7) | 3:36 |
 | 41 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |

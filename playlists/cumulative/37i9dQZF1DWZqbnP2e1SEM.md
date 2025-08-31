@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-504 songs - 1 day 2 hr 42 min
+505 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 | 2022-05-10 | 2024-06-14 |
 | [Standstill \(feat\. Jess Ball\)](https://open.spotify.com/track/5dyYa091JBePwcdzn2vEtQ) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Standstill \(feat\. Jess Ball\)](https://open.spotify.com/album/2Sh6eBlwGXynpB4ujPIQf1) | 2:39 | 2024-05-24 | 2024-07-02 |
 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 | 2025-05-08 |  |
-| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-05-08 |  |
+| [Stay](https://open.spotify.com/track/2meQtvGUcrqgEj4lTmQgfd) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Stay](https://open.spotify.com/album/13KdVYCKtHHmpI4mn4WYRK) | 2:45 | 2025-05-08 | 2025-08-31 |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-06-20 | 2024-05-17 |
 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 | 2023-09-11 | 2024-04-19 |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2022-05-10 | 2024-06-14 |
@@ -474,6 +474,7 @@
 | [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 | 2024-08-02 | 2025-05-09 |
 | [Used To This](https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:46 | 2023-10-12 | 2024-04-19 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-05-10 | 2024-05-25 |
+| [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 | 2025-08-28 |  |
 | [Vibranium](https://open.spotify.com/track/3i3zj8jTAHkr3b1dSR6SOU) | [Chunkz](https://open.spotify.com/artist/3Lpx3ZSrsLeaVD9zKtGPiG), [Neji](https://open.spotify.com/artist/4Zpw485tk1ubdqIBe6GX9O) | [Vibranium](https://open.spotify.com/album/6GncPsrhSGA66FhgRaXr6d) | 3:28 | 2021-07-09 | 2022-05-11 |
 | [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 | 2024-07-05 | 2024-09-25 |
 | [Wait For Me](https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0) | [Wait For Me](https://open.spotify.com/album/2oEwrQXxQxrJTsmXRx00d0) | 3:15 | 2024-08-02 | 2024-09-16 |

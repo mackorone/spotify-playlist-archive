@@ -4,7 +4,7 @@
 
 > Today's top country hits\. Cover: Zach Top
 
-919 songs - 2 day 1 hr 40 min
+920 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [One Thing At A Time](https://open.spotify.com/track/6KGtAlYvgm4W9PoYabFAYE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 3:26 | 2023-01-27 | 2023-03-18 |
 | [One Thing Right](https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Thing Right](https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J) | 3:01 | 2019-06-30 | 2020-02-15 |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2020-09-17 | 2021-05-29 |
-| [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-25 |  |
+| [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-25 | 2025-08-31 |
 | [Other Girl](https://open.spotify.com/track/0Kt2cOpCmKN2D9mG8Fw2ce) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Other Girl](https://open.spotify.com/album/7um6zTS2EhW6iSIiDJ9gt1) | 3:15 | 2019-09-15 | 2020-03-14 |
 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 | 2022-07-15 | 2023-03-04 |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-08-09 | 2025-03-15 |
@@ -762,6 +762,7 @@
 | [Talk About](https://open.spotify.com/track/4bQZKz3ski6U9wSEuVbRxV) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Talk About](https://open.spotify.com/album/1qMBHz2wFOqnmidFJOWCIr) | 2:46 | 2021-01-09 | 2021-04-17 |
 | [Talk You Out Of It](https://open.spotify.com/track/4kKgn11J60MHCrfS4AfbIm) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Florida Georgia Line](https://open.spotify.com/album/6OWE1lqiV8GPpj9Kn4Rc32) | 3:22 | 2019-05-26\* | 2019-08-13 |
 | [Tell Me Tennessee](https://open.spotify.com/track/1TiAmIJNwfRmneV5iyTdMG) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Tell Me Tennessee](https://open.spotify.com/album/0xIsoU5AicBuIrbY5cOMke) | 3:30 | 2023-12-08 | 2024-03-02 |
+| [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-29 |  |
 | [Tennessee Don't Mind](https://open.spotify.com/track/6LaW2p9BxzbSGefvoW8Y4T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tennessee Don't Mind](https://open.spotify.com/album/3YQyzsRPVsbGGFig4lvcpz) | 4:02 | 2024-01-19 | 2024-05-18 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-16 | 2022-12-18 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-16 | 2023-05-08 |

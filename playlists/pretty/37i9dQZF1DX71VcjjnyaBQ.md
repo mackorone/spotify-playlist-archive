@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,037 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,125 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 49 | [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 |
 | 50 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 |
 | 51 | [Voor Jou Yvonne](https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6) | [Bill Weeds](https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Voor Jou Yvonne](https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt) | 7:41 |
-| 52 | [Uncle John’s Band](https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo) | 6:26 |
-| 53 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
+| 52 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
+| 53 | [Uncle John’s Band](https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo) | 6:26 |
 | 54 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 |
 | 55 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 |
 | 56 | [The Great Belonging](https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [The Great Belonging](https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB) | 6:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,994 likes - 41 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,991 likes - 41 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 40 | [Dose de Gin](https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:57 |
 | 41 | [MACEIÓ ATÉ JERI](https://open.spotify.com/track/38exGuwkNLp7FTKeVBhbT8) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [MIXTRAPISEIRO](https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY) | 3:22 |
 
-Snapshot ID: `AAAAAMZayhJ+OVtctgo/jL2EcIATgtLF`
+Snapshot ID: `AAAAANBr2PXg/zoV2/5Fl3mac5YLC/tG`

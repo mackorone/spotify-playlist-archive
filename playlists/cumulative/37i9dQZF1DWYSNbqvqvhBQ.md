@@ -2,7 +2,7 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek: Don West \(cover\), MICHA en Orange Skyline
+> Nieuwe tijdloze muziek: The Black Keys \(cover\), Kensington en Nona
 
 705 songs - 1 day 17 hr 8 min
 

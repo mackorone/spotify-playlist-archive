@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari Sabrina Carpenter, Tiara Andini, Tenxi & Jemsii dan masih banyak lagi dari dalam dan mancanegara
 
-28,279 songs - 67 day 2 hr 19 min
+28,281 songs - 67 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14216,6 +14216,7 @@
 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-09 | 2024-02-16 |
 | [Lonceng Tengah Malam](https://open.spotify.com/track/1PkV8yzsUc5ORNskVDugJT) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [Lonceng Tengah Malam](https://open.spotify.com/album/2gHtEcHKgrKwbQg1cc88Tc) | 6:56 | 2020-09-18 | 2020-09-25 |
 | [London](https://open.spotify.com/track/1o8SchxfiTUKilBOYrAx5z) | [KAIYI](https://open.spotify.com/artist/4tDe9qBHvHEkaXHzoA78jn) | [People Mountain People Sea](https://open.spotify.com/album/3KbNCzBBEtqzvgEHmCe9bF) | 2:31 | 2024-02-29 | 2024-03-08 |
+| [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-08-29 |  |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-10 | 2021-12-17 |
 | [London in the Spring \- single version](https://open.spotify.com/track/41TLC748nQFqNxbOe3WOrW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [London in the Spring](https://open.spotify.com/album/6Of9JBFfSpAieP3pBFKDAC) | 2:57 | 2020-05-01 | 2020-05-08 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-20 | 2022-01-28 |
@@ -18212,6 +18213,7 @@
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-05-15 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2021-08-13 | 2021-08-20 |
 | [Paprika](https://open.spotify.com/track/7hINOWdRK2rAWDKmjXTHth) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/0ajoNtBO6xHfWEkORtRCAv) | 3:40 | 2021-06-04 | 2021-06-11 |
+| [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-08-29 |  |
 | [parachute](https://open.spotify.com/track/4QvSA3gQn7DAWEwuEdHBAt) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/7oMpndHpNfCBH4QPqHGcta) | 2:36 | 2020-11-13 | 2020-11-20 |
 | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/track/3WaEyZXCEKX8TxmKciVNHm) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/album/1BIE4nVzZLtQ6sZenFfvx7) | 2:33 | 2022-10-13 | 2022-10-21 |
 | [Parachuting Off The Moon](https://open.spotify.com/track/5ZpxM4VkTOZbkqKlVpfgaJ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [barb.](https://open.spotify.com/artist/3c97nGqpNhVKMhxn8zEB33), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Parachuting Off The Moon](https://open.spotify.com/album/4eznk2tF07hjIuoKo7YMJT) | 3:42 | 2025-05-15 | 2025-05-23 |

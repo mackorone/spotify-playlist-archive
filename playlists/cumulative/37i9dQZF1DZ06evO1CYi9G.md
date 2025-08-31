@@ -4,7 +4,7 @@
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 40 min
+41 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 | 2024-05-14 |  |
 | [Have It Your Way](https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:45 | 2024-05-14 |  |
 | [Heard It All Before](https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 6:05 | 2024-05-14 |  |
+| [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 | 2025-08-31 |  |
 | [IMN](https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 5:51 | 2024-05-14 |  |
 | [Internal Primates Forever](https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:25 | 2024-05-14 |  |
 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 | 2024-05-14 |  |

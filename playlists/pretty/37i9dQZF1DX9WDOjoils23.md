@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,933 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,970 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 28 | [Tu Na Bhuldi](https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx) | [Jelly](https://open.spotify.com/artist/1ZTo2Iu8NpzTUzrxfuTSrQ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [Dhola \(The Sweetheart\)](https://open.spotify.com/album/6i2mTMica3getExPlNOSMs) | 6:20 |
 | 29 | [Ishq](https://open.spotify.com/track/74wdoS4XBF6rDcejHiyfBR) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 3:40 |
 | 30 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
-| 31 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
-| 32 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
+| 31 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
+| 32 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
 | 33 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
 | 34 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 |
 | 35 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 41 | [Merian Gallan Yaad Karengee](https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 6:35 |
 | 42 | [Guddi Wangoo Aj Menoon](https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 3:07 |
 | 43 | [Nit Khair Manga Sohneya](https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Big Boss Of Sufi Nusrat Fateh Ali Khan](https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN) | 15:19 |
-| 44 | [Waseeley \- From the Album "Travel Diaries Vol\. 3",](https://open.spotify.com/track/2WtPwGI1T7bJbDSenGI6kL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Waseeley](https://open.spotify.com/album/4oBhvtGKsvhNUB2ZurPoPb) | 8:40 |
+| 44 | [Saugaat \- From Travel Diaries Vol III](https://open.spotify.com/track/7yDUkSB556mIA5tYlxKngO) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Saugaat \(From Travel Diaries Vol III\)](https://open.spotify.com/album/3jHD1uvDbwlRIcSwX4SOcD) | 6:16 |
 | 45 | [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 |
 | 46 | [Terian Mithian Gallan Da](https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 15:19 |
 | 47 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 3:49 |
 | 48 | [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 |
-| 49 | [Saugaat \- From Travel Diaries Vol III](https://open.spotify.com/track/7yDUkSB556mIA5tYlxKngO) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Saugaat \(From Travel Diaries Vol III\)](https://open.spotify.com/album/3jHD1uvDbwlRIcSwX4SOcD) | 6:16 |
+| 49 | [Waseeley \- From the Album "Travel Diaries Vol\. 3",](https://open.spotify.com/track/2WtPwGI1T7bJbDSenGI6kL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Waseeley](https://open.spotify.com/album/4oBhvtGKsvhNUB2ZurPoPb) | 8:40 |
 | 50 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 |
 
 Snapshot ID: `AAAAAFsUKJcHd6MUJSnicqVKLYMEzV4G`

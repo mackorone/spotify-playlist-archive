@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia con Laura Dsk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,600 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,604 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 34 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 |
 | 35 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
 | 36 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
-| 37 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
-| 38 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
+| 37 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
+| 38 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 39 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
 | 40 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
 | 41 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
@@ -74,16 +74,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 64 | [Preso](https://open.spotify.com/track/42TVfH4Q0zv21NQKHsum8U) | [Nervio](https://open.spotify.com/artist/1R2eVRmyJMD00TKq3uNMCz) | [Preso](https://open.spotify.com/album/3TzAzbJ17X9l7vthAmDwOm) | 1:58 |
 | 65 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 66 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
-| 67 | [Blasfemia](https://open.spotify.com/track/133UobBv6GGvg39faYqIEf) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Petra de fenetra](https://open.spotify.com/artist/3R5QOgbyvfHegJPkBEtGxs), [13 Bats](https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt) | [Blasfemia](https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac) | 2:22 |
-| 68 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
+| 67 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
+| 68 | [Blasfemia](https://open.spotify.com/track/133UobBv6GGvg39faYqIEf) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M), [Petra de fenetra](https://open.spotify.com/artist/3R5QOgbyvfHegJPkBEtGxs), [13 Bats](https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt) | [Blasfemia](https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac) | 2:22 |
 | 69 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 70 | [Res de Nou](https://open.spotify.com/track/7pzdAfGVuCPkltHztUFFUu) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Res de Nou](https://open.spotify.com/album/7zp4PaDjA6Pt2CjZRLfapA) | 3:47 |
 | 71 | [Zapatillas de Trabajo](https://open.spotify.com/track/3djdtKPUNhsyclEAhqrgRo) | [Liberad al Kraken](https://open.spotify.com/artist/2KI2TJ8QE51et6nOne5stP) | [Zapatillas de Trabajo](https://open.spotify.com/album/1zhbIxRJeZrpU4ngBPlTcl) | 3:17 |
 | 72 | [Con Rabia, Con Ira](https://open.spotify.com/track/01GNX1UmJQjyLEQOGcE4QS) | [Gérmenes](https://open.spotify.com/artist/50Ymm1nPtn2tvRtEUZg5Me) | [Con Rabia, Con Ira](https://open.spotify.com/album/1hwEngSxBB59Rd3NohKLjS) | 3:40 |
 | 73 | [Insolente](https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Insolente](https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8) | 3:52 |
 | 74 | [Carroña del Esfuerzo](https://open.spotify.com/track/5Y0F3LbAYxRtJHOULhnUxz) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Ojos Pochos](https://open.spotify.com/album/2qrXpJR7V2Xegm11EJwmbr) | 1:45 |
-| 75 | [Al Pie Del Cañon](https://open.spotify.com/track/7mYHOIMSMYob8KylRnmPbK) | [Big Band Punk](https://open.spotify.com/artist/0gGkMGNxBcGsvZjxiIX8Rh) | [Al Pie Del Cañon](https://open.spotify.com/album/0zTt9Vfgi3hLHwR5maF2yT) | 4:28 |
-| 76 | [Aliens](https://open.spotify.com/track/2hzxOH4HcrvXC5Zhcaw9Sf) | [Descontrol](https://open.spotify.com/artist/5s68pO3PnLX7aCF7s1ARbM) | [Aliens](https://open.spotify.com/album/2zSV2m3p4Gb5Rs9MATrAbW) | 2:28 |
+| 75 | [Aliens](https://open.spotify.com/track/2hzxOH4HcrvXC5Zhcaw9Sf) | [Descontrol](https://open.spotify.com/artist/5s68pO3PnLX7aCF7s1ARbM) | [Aliens](https://open.spotify.com/album/2zSV2m3p4Gb5Rs9MATrAbW) | 2:28 |
+| 76 | [Al Pie Del Cañon](https://open.spotify.com/track/7mYHOIMSMYob8KylRnmPbK) | [Big Band Punk](https://open.spotify.com/artist/0gGkMGNxBcGsvZjxiIX8Rh) | [Al Pie Del Cañon](https://open.spotify.com/album/0zTt9Vfgi3hLHwR5maF2yT) | 4:28 |
 | 77 | [Pubertad Letal](https://open.spotify.com/track/3eEZ6x8U634XciQjyCzPqa) | [Astracán](https://open.spotify.com/artist/7weiTRYMS2S3idEBYuDUjc) | [Pubertad Letal](https://open.spotify.com/album/357L6o12nyqN0swdLIecMY) | 2:30 |
 | 78 | [Vaya semanita](https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI) | [Er Tabardillo](https://open.spotify.com/artist/6edzea6vZ4X4LkcACnOAW2) | [Manual de supervivencia extrema](https://open.spotify.com/album/2w6v7xVczkW4iq2UPOoQCL) | 3:06 |
 | 79 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 |

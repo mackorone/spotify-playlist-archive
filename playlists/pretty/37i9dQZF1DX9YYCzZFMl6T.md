@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,805 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 45 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
 | 46 | [Winter Wonderland](https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Winter Wonderland](https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy) | 3:38 |
 | 47 | [Christmas Everywhere](https://open.spotify.com/track/47RGDPSLWuczgwKM2kL2KY) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Christmas Everywhere](https://open.spotify.com/album/0ItLsaVhF3zZavq6lzUGyl) | 3:22 |
-| 48 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 |
+| 48 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
 | 49 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
-| 50 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
+| 50 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 |
 
 Snapshot ID: `AAAAAFd8FvSfMIGyTQEI+5FlgvXgh5+n`

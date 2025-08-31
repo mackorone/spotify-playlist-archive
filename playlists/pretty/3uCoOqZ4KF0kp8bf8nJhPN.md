@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 245 songs - 9 hr 46 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 244 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,6 +252,5 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 242 | [Рано](https://open.spotify.com/track/1QrlgLlaQV1Z3YJowIPkdv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:12 |
 | 243 | [Два пива](https://open.spotify.com/track/2ra5h8PS1nH3Bq4FFZ4yuu) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [молодой калуга](https://open.spotify.com/artist/0Tqo0PZewBqEA7VKODeWTF) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:57 |
 | 244 | [Дубчик](https://open.spotify.com/track/1uWUG6pioVivZHFDvgR90S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:03 |
-| 245 | [UR BITCH READ MY PALMS LMAO!](https://open.spotify.com/track/2VLNdVzuYov3xf6d4VpSBV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [UR BITCH READ MY PALMS LMAO!](https://open.spotify.com/album/3OVGFlLdLw477AGTK6rp9x) | 1:38 |
 
-Snapshot ID: `AAAGARXEMosHkSwnurAQxfQyra99hRGD`
+Snapshot ID: `AAAGApNq6m+G88hzXfMMLYW1W+GtRXoL`

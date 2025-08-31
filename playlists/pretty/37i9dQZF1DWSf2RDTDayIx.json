@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2444938,
+  "num_followers": 2445054,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,30 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
         "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/6GbUYC6kB63fND2yunOVmZ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 188160,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/5OLSGox6JVpAyEQuoSYRcs"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/2MGAPw592ly4ydVblvcMqr"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133212,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 172268,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200351,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
         "name": "Magic With You",
         "url": "https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 156923,
       "name": "Magic With You",
       "url": "https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
         "name": "ADDICTED: REFRESHED",
         "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 189135,
       "name": "Addicted - Zerb Acid VIP",
       "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "Night Feels",
-        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
       "artists": [
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 171448,
-      "name": "Night Feels",
-      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
+        "name": "Night Feels",
+        "url": "https://open.spotify.com/album/0TEbNZTuLr9F1rNvdchStD"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 171448,
+      "name": "Night Feels",
+      "url": "https://open.spotify.com/track/6oELcspL4BONtElLhJfBPI"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -2651,26 +2651,6 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "Pressing Onward",
-        "url": "https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Celebration (feat. Dawn Richard)",
-      "url": "https://open.spotify.com/track/723J8TT1MrywSg66aIqZio"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
         "name": "If The World Just Danced (MOTi Remix)",
         "url": "https://open.spotify.com/album/3z5pt1H2x64IxipkGh9pjy"
       },
@@ -2687,6 +2667,26 @@
       "duration_ms": 209013,
       "name": "If The World Just Danced - MOTi Remix",
       "url": "https://open.spotify.com/track/7kEh6jNlJOAhC0lv6XV3iw"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
+        "name": "Pressing Onward",
+        "url": "https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Celebration (feat. Dawn Richard)",
+      "url": "https://open.spotify.com/track/723J8TT1MrywSg66aIqZio"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -2879,22 +2879,6 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 275544,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw"
-    },
-    {
-      "added_at": "2025-08-29 04:00:37",
-      "album": {
         "name": "Good Feeling",
         "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 166955,
       "name": "These Are The Days (feat. Liv Dawson)",
       "url": "https://open.spotify.com/track/39GX8fhLrxiPcNAMgZhWUa"
+    },
+    {
+      "added_at": "2025-08-29 04:00:37",
+      "album": {
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 275544,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw"
     },
     {
       "added_at": "2025-08-29 04:00:37",
@@ -3063,26 +3063,22 @@
     {
       "added_at": "2025-08-29 04:00:37",
       "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+      "duration_ms": 183925,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz"
     }
   ],
   "unique_name": "Happy Beats",

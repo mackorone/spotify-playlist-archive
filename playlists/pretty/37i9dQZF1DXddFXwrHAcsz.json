@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 80's! Cover: Andr\u00e9 Hazes",
-  "num_followers": 67253,
+  "num_followers": 67304,
   "original_name": "80's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-10-11 07:08:55",
       "album": {
+        "name": "25 Jaar Mooi Was Die Tijd",
+        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
+      },
+      "artists": [
+        {
+          "name": "Corry Konings",
+          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
+    },
+    {
+      "added_at": "2022-10-11 07:08:55",
+      "album": {
         "name": "Dromentrein",
         "url": "https://open.spotify.com/album/16WwtrQLrcb7NpnPZvfAgD"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 198760,
       "name": "Visite",
       "url": "https://open.spotify.com/track/6NJ6k5hUKG6WHHyaqtUHm1"
-    },
-    {
-      "added_at": "2022-10-11 07:08:55",
-      "album": {
-        "name": "25 Jaar Mooi Was Die Tijd",
-        "url": "https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8"
-      },
-      "artists": [
-        {
-          "name": "Corry Konings",
-          "url": "https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Adios Amor",
-      "url": "https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9"
     },
     {
       "added_at": "2022-10-11 07:08:55",

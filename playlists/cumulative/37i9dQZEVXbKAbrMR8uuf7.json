@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 146952,
       "name": "3.5",
       "url": "https://open.spotify.com/track/1a8xrk8ZCV9jOZI6RjRIE0"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 139742,
       "name": "Back To Back",
       "url": "https://open.spotify.com/track/14ljxdLzjTxpfSA5oPee59"
@@ -13360,7 +13360,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -17220,7 +17220,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -26852,6 +26852,24 @@
       "duration_ms": 149538,
       "name": "PASAJERO",
       "url": "https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv"
+    },
+    {
+      "album": {
+        "name": "Pasao De Famarcia",
+        "url": "https://open.spotify.com/album/1Yf5V5fgbsOjFzh5r6elfR"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Pasao De Famarcia",
+      "url": "https://open.spotify.com/track/2wRSyhkTCLDXXAalScPkwH"
     },
     {
       "album": {
@@ -40684,6 +40702,44 @@
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "album": {
+        "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+        "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375381,
+      "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
+      "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
       "album": {

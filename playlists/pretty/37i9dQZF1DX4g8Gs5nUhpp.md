@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > Bạn thuộc hệ<a href="https://open.spotify.com/presents/vietspirit"> mãi tươi</a> <br/>như Tăng Duy Tân?
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,894 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,920 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

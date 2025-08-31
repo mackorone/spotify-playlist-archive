@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Oykie & Yssi SB ✨
 
-1,482 songs - 2 day 18 hr 5 min
+1,483 songs - 2 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,6 +1374,7 @@
 | [Verstoppertje](https://open.spotify.com/track/1anlPFtoqIqt80I5XVxauQ) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Verstoppertje](https://open.spotify.com/album/2sg26L0cngTtN5yVcSnOPy) | 3:01 | 2023-02-23 | 2023-03-25 |
 | [Vestido](https://open.spotify.com/track/4G7iJsjsHNZQZAEHMGDhLv) | [JM Fuego](https://open.spotify.com/artist/3NclztAZJKINqZ2m6anhQk), [JBigss](https://open.spotify.com/artist/26wDc3VG393s6Ta4W88AGX) | [Vestido](https://open.spotify.com/album/1w0w1jQtg5cvvWcLUwTCAX) | 2:29 | 2024-01-11 | 2024-02-02 |
 | [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Via Via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 | 2023-12-14 | 2024-02-09 |
+| [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-08-30 |  |
 | [Vibe](https://open.spotify.com/track/2x5p4UI8timppIAsxOAXxZ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Vibe](https://open.spotify.com/album/6DIBjtZBgMaFMAzUfljJPc) | 3:22 | 2023-05-18 | 2023-06-16 |
 | [Vibes](https://open.spotify.com/track/5hbAKbh48v9iCdA8BRTJ5i) | [Delaysa Nachia](https://open.spotify.com/artist/75bNGUcZ7ASiJbN8OQYcYK), [Shae](https://open.spotify.com/artist/27b1mFxIR6qs1xqoTsATPn), [Ritchy E](https://open.spotify.com/artist/0cVPixUuBpPqbhDFqExNjX) | [Vibes](https://open.spotify.com/album/701ZrEwpgFDJZxN8Vjh6y8) | 2:20 | 2022-10-20 | 2023-01-27 |
 | [Vierdaagse](https://open.spotify.com/track/1gHu4yrPxYfkurM3r5b5Lv) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Vierdaagse](https://open.spotify.com/album/3uvjPvEVsZsjh4CoNvJEyR) | 2:38 | 2024-09-19 | 2024-11-15 |

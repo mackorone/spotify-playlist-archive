@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-282 songs - 17 hr 43 min
+283 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA) | [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC), [DMNDS](https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [Calabria \(feat\. Fallen Roses, Lujavo & Lunis\)](https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n) | 2:08 | 2022-03-29 | 2023-03-18 |
 | [Calling Out Your Name \- Radio Edit](https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Calling Out Your Name](https://open.spotify.com/album/0HQWHfjbMZHuQGFCY2amgX) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Camachile](https://open.spotify.com/track/5nHi6OpSFmq2Pp2kTqozaB) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Camachile](https://open.spotify.com/album/6pC5vdTP485vAu5IxOj6WB) | 9:12 | 2022-04-24 | 2022-07-29 |
-| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-04 |  |
+| [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-04 | 2025-08-31 |
 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-11-22 |  |
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2024-01-26 | 2025-02-08 |
 | [Clandestina \- Cocaina Remix](https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0), [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ), [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Clandestina \(Cocaina Remix\)](https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82) | 2:30 | 2022-04-24 | 2023-03-15 |
@@ -267,6 +267,7 @@
 | [Upside Down](https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Upside Down](https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH) | 2:42 | 2025-01-24 | 2025-04-09 |
 | [Vamo a Dale Duro \- Uproot Andy Remix](https://open.spotify.com/track/0LxaK3oMBNQc2Q9YVOjnj2) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc) | [Vamo a Dale Duro \(Uproot Andy Remix\)](https://open.spotify.com/album/4qWrDMj5B73oaMBI89fNyz) | 5:24 | 2022-09-02 | 2022-10-13 |
 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 | 2024-03-08 | 2024-04-20 |
+| [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 | 2025-08-29 |  |
 | [Víctor Jara](https://open.spotify.com/track/5Uyp05hXNyZ36m4oUzhS4G) | [Seba Campos](https://open.spotify.com/artist/2ZX84ERPhemyyVHqUSK7bF) | [Vivir](https://open.spotify.com/album/7x9knGXeetiW9caJAHzRwv) | 5:15 | 2022-04-24 | 2022-07-29 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-07-12 | 2024-07-29 |
 | [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2025-07-25 |  |

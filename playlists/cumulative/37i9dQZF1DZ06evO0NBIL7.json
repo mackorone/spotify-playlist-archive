@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },

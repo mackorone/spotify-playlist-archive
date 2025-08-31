@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4915,
+  "num_followers": 4914,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAqy4OxWHWBOmTYBjl1eA9E",
+  "snapshot_id": "aLDtgAAAAADRjJbpstEk25vfjYljsRrF",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192423,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KLUBFETISH",
         "url": "https://open.spotify.com/album/0YWta22ockLSMT0EA4I07s"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 167833,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/0p1Ei2H706y4ynYaGGJxaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192423,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "WukiWorld",
+        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Stoppa",
+          "url": "https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ"
+        }
+      ],
+      "duration_ms": 168094,
+      "name": "Hey Ladies",
+      "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIRLS Deluxe",
         "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 162199,
       "name": "Luv Everybody",
       "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WukiWorld",
-        "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Stoppa",
-          "url": "https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ"
-        }
-      ],
-      "duration_ms": 168094,
-      "name": "Hey Ladies",
-      "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
     },
     {
       "added_at": null,

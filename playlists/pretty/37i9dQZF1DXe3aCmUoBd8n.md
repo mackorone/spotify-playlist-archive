@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Fouad Jned, Bessan Ismail, Amjad Jomaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,262 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,362 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [Halef 3al Hob](https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Halef 3al Hob](https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb) | 2:49 |
 | 50 | [سمرة وصغيرة](https://open.spotify.com/track/5NQOrWxcIL2Xh9I1SDoRmy) | [Mahfoud Almaher](https://open.spotify.com/artist/6Hc6rbR7BcGj4qxnBrfWd3) | [سمرة وصغيرة](https://open.spotify.com/album/0oLeiK4TOJ93hWGFxSrOhZ) | 3:19 |
 
-Snapshot ID: `AAAAAIw0sg8g4QRdzQqnwDDfnB/y6zi1`
+Snapshot ID: `AAAAAEBGpDbrKK/jHwG2K67p0otd/L6a`

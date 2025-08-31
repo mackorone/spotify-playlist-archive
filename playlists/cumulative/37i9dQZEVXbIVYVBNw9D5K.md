@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,311 songs - 2 day 17 hr 55 min
+1,312 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@
 | [Hadi Çal](https://open.spotify.com/track/23KCKQJ6FqCEW6bCi5J6bT) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Hadi Çal](https://open.spotify.com/album/4f6waNCGENUspZtUpTpZKa) | 2:36 | 2022-06-07 | 2022-09-11 |
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-28 |  |
 | [Hakim Bey](https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3) | [KADR](https://open.spotify.com/artist/5IbdRuOxSxGes8BU3lKmBx) | [Hakim Bey](https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ) | 2:47 | 2021-10-24 | 2021-12-20 |
-| [Hako diyorlar](https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:13 | 2025-07-19 |  |
+| [Hako diyorlar](https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:13 | 2025-07-19 | 2025-08-31 |
 | [Halbuki](https://open.spotify.com/track/5RZH849e1ZWa2qeVz6O3mK) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Halbuki](https://open.spotify.com/album/4ARvEbxaobzhKT2lvOvHMJ) | 3:22 | 2024-08-27 | 2025-02-11 |
 | [Halden Anlamaz](https://open.spotify.com/track/5EcpTIo0rUWuTShfOUJEqb) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV) | [Halden Anlamaz](https://open.spotify.com/album/06wYoYL8tx8HTo7i6IlyBx) | 3:19 | 2022-06-12 | 2022-10-02 |
 | [Halen](https://open.spotify.com/track/7KiJY7W8c5cNXE9YwuVqlW) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Dr\. Fuchs](https://open.spotify.com/artist/51o6QF11Nswx5jMlp6rAL8) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 3:52 | 2022-06-04 | 2022-06-06 |
@@ -590,7 +590,7 @@
 | [Hepsi Geçiyor](https://open.spotify.com/track/2EiDxAtcTF4vHAr95ztZwU) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Hepsi Geçiyor](https://open.spotify.com/album/6272MuSjfOJ3dbSOkb68Is) | 3:09 | 2021-03-27\* | 2021-05-06 |
 | [Her Gece](https://open.spotify.com/track/6D9C3pOcz76P84cMuAY1Ry) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Her Gece](https://open.spotify.com/album/20vhqRqL2VYwDOZ75rMGkE) | 4:20 | 2021-11-03 | 2021-11-06 |
 | [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-18 | 2025-03-06 |
-| [Her Nerdeysen](https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:29 | 2024-10-12 |  |
+| [Her Nerdeysen](https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 2:29 | 2024-10-12 | 2025-08-31 |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-21 | 2024-09-24 |
 | [Her şey Sensin](https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Her şey Sensin](https://open.spotify.com/album/448sA39a2V3mKafgqVszK2) | 4:36 | 2025-07-17 | 2025-07-19 |
 | [Her Şeyi Yak](https://open.spotify.com/track/4uqlFpMPTKO6uAsX6qvK0l) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Belki Alışman Lazım](https://open.spotify.com/album/5TQ4ZTyFM7FTDpnfSjE54l) | 4:30 | 2021-07-17 | 2021-11-10 |
@@ -638,6 +638,7 @@
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 | 2024-10-12 |  |
 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 | 2024-09-28 | 2024-10-03 |
+| [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 | 2025-08-30 |  |
 | [İkimizden Biri](https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [İkimizden Biri](https://open.spotify.com/album/1IcZEk9LPUkJIHomBVTXNX) | 3:47 | 2025-01-23 | 2025-08-12 |
 | [İkimize Birden](https://open.spotify.com/track/7u7e4PHL2uUelj9TcrUBEr) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [İkimize Birden](https://open.spotify.com/album/62rrBw8YbqLb1m5Josxs6H) | 4:07 | 2024-04-25 | 2024-04-29 |
 | [İlahi\(Cover\)](https://open.spotify.com/track/1paLcP0eKiKjp3OuQo8MJQ) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi), [Nazryn](https://open.spotify.com/artist/2L3obBOk34JgeWlmmT3Nwg) | [İlahi\(Cover\)](https://open.spotify.com/album/4kGRXX8ZFJs29E2PGkMnvm) | 2:41 | 2025-07-07 | 2025-07-09 |
@@ -1284,7 +1285,7 @@
 | [Çarşamba Tatili](https://open.spotify.com/track/4324xYtPWZH1XbIh8UkBiZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Çarşamba Tatili](https://open.spotify.com/album/0EcMkdfM1SyrhUR3LN0WkY) | 1:43 | 2021-07-18 | 2021-08-08 |
 | [Çatma Yarim](https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Çatma Yarim](https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG) | 2:57 | 2025-02-15 | 2025-06-12 |
 | [Çağır](https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:07 | 2023-06-03 | 2023-07-15 |
-| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-16 | 2025-08-29 |
+| [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-16 |  |
 | [Çevir Tavukları](https://open.spotify.com/track/1AWDAK1mwVI2hJltDDj71m) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Çevir Tavukları](https://open.spotify.com/album/4tYo3XSPJn7tFCWHMXYYmZ) | 3:24 | 2024-03-23 | 2024-04-01 |
 | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/track/23mm9aftN5GODdix3IY64M) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/album/11QO5v6BppeVyIfe0TxRM9) | 2:22 | 2021-07-08 | 2021-07-18 |
 | [Çiftetelli](https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Çiftetelli](https://open.spotify.com/album/40KYcI9yGdQhAWIOYyaE1L) | 2:11 | 2021-07-04 | 2021-07-16 |

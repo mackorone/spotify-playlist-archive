@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,362 likes - 63 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,374 likes - 63 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 62 | [Flares](https://open.spotify.com/track/181vIYBvnguit9zURIjvf8) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [Flares](https://open.spotify.com/album/3F6d80iHSUurxv9C7h9tfq) | 6:28 |
 | 63 | [Everything \- DJ Nobu Remix](https://open.spotify.com/track/4GdTGFtRYvOLCWG7FQq8is) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [Unspoken Words Remixes I](https://open.spotify.com/album/3erKNm0B6Y5ATBF07eht6z) | 5:52 |
 
-Snapshot ID: `AAAAAPj62MXxjJGeLlLlhKUerwMqgQ4A`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

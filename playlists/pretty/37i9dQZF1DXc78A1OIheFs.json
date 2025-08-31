@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19134,
+  "num_followers": 19136,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+      "duration_ms": 197280,
+      "name": "No Joy",
+      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "No Joy",
-        "url": "https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 197280,
-      "name": "No Joy",
-      "url": "https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "PLEASER",
         "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
@@ -515,22 +531,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Cross My Heart and Hope to Die",
-        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Cross My Heart and Hope to Die",
-      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+        "name": "Cross My Heart and Hope to Die",
+        "url": "https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO"
       },
       "artists": [
         {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+      "duration_ms": 194480,
+      "name": "Cross My Heart and Hope to Die",
+      "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -611,6 +611,38 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "Broken Glass",
+        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
+      },
+      "artists": [
+        {
+          "name": "Harper Finn",
+          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Blister",
+        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Broken Glass",
-        "url": "https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG"
-      },
-      "artists": [
-        {
-          "name": "Harper Finn",
-          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Eldest Daughter Of An Eldest Daughter",
         "url": "https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 266706,
       "name": "Faery King",
       "url": "https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "Blister",
-        "url": "https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Up In Flames (The Wayland)",
-        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up In Flames (The Wayland)",
-      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
+        "name": "Up In Flames (The Wayland)",
+        "url": "https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a"
       },
       "artists": [
         {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 211814,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
+      "duration_ms": 232666,
+      "name": "Up In Flames (The Wayland)",
+      "url": "https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -831,6 +815,22 @@
       "duration_ms": 196235,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/1XrG4FbpWriXEqBBriZD50"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 211814,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0YwpENNbchlW7WKAhgxEov"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Russian Roulette",
-        "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 279746,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "The Drip",
         "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 185714,
       "name": "What Would It Profit",
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -995,6 +979,22 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "Russian Roulette",
+        "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 279746,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -1019,26 +1019,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Live It Up (with The Green)",
-        "url": "https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA"
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Caleb Keolanui",
-          "url": "https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk"
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Live It Up (with The Green)",
-      "url": "https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN"
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1063,18 +1055,26 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+        "name": "Live It Up (with The Green)",
+        "url": "https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Caleb Keolanui",
+          "url": "https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk"
         }
       ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+      "duration_ms": 240320,
+      "name": "Live It Up (with The Green)",
+      "url": "https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1227,22 +1227,6 @@
       "duration_ms": 196740,
       "name": "One More Chance (feat. Savage)",
       "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "Bashville on the Sugar",
-        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Bashville on the Sugar",
-      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1279,6 +1263,22 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Bashville on the Sugar",
+        "url": "https://open.spotify.com/album/77XfD6bgXUQAfY06U79tQz"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Bashville on the Sugar",
+      "url": "https://open.spotify.com/track/5TkwyidkJz5h03T9N1gsg1"
     }
   ],
   "unique_name": "The Local List Aotearoa",

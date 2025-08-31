@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-423 songs - 1 day 0 hr 35 min
+424 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All I See Is You](https://open.spotify.com/track/6fguxhJr4J74AhAPACfVf4) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [All I See Is You](https://open.spotify.com/album/4PCW9G4aPNA9E72DianbnY) | 2:37 | 2025-03-20 | 2025-06-13 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-04-25 |
 | [All vår dans](https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [All vår dans](https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K) | 3:28 | 2024-08-29 | 2024-09-27 |
-| [Alla minnen kvar](https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Andreas Mattsson](https://open.spotify.com/artist/4Vff2nZMDC6c3GBrVL2y8n) | [I mina drömmars land](https://open.spotify.com/album/1yclSKg2FVF7t6bXcDc2XJ) | 2:51 | 2025-05-08 |  |
+| [Alla minnen kvar](https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Andreas Mattsson](https://open.spotify.com/artist/4Vff2nZMDC6c3GBrVL2y8n) | [I mina drömmars land](https://open.spotify.com/album/1yclSKg2FVF7t6bXcDc2XJ) | 2:51 | 2025-05-08 | 2025-08-31 |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-16 | 2025-05-30 |
 | [Allt jag önskar mig](https://open.spotify.com/track/7vzK22Wey9TkDh0TuWsIf7) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Allt jag önskar mig](https://open.spotify.com/album/1g4yNbMkcAtmCmG9sTMOUb) | 3:10 | 2024-11-07 | 2024-11-09 |
 | [Alltid Du \(feat\. Etta Zelmani\)](https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA), [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [Alltid Du](https://open.spotify.com/album/7bBq9PjJ0457BqQGMHDzUG) | 3:08 | 2024-10-10 | 2024-11-23 |
@@ -59,7 +59,7 @@
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2024-09-06 | 2025-04-11 |
 | [Country Tack Vare Er](https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Country Tack Vare Er](https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD) | 3:27 | 2025-04-24 | 2025-06-20 |
 | [COWBOY](https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [COWBOY](https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t) | 3:23 | 2024-08-29 | 2024-10-11 |
-| [Crazy](https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo) | 4:32 | 2025-05-15 | 2025-08-16 |
+| [Crazy](https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/5Dvb9sLbETzUR3EhbSuqbo) | 4:32 | 2025-05-15 |  |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [Dagar utan slut](https://open.spotify.com/track/4lJ8etGLqabsSiJSmcHVWU) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Dagar utan slut](https://open.spotify.com/album/11bnmwGiPmxTDtbnBPxSq3) | 2:42 | 2025-05-08 | 2025-07-10 |
 | [Dandelion Kids](https://open.spotify.com/track/647xMrWbg68cS3q4Hb8mvJ) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Dandelion Kids](https://open.spotify.com/album/7yHwznQ9AEl2qryn0oAx92) | 4:16 | 2024-11-07 | 2025-05-16 |
@@ -214,6 +214,7 @@
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-12-13 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
 | [Känns så längesen](https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Känns så längesen](https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2) | 3:03 | 2024-07-25 | 2025-04-11 |
+| [Kärleken är kung](https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [Kärleken är kung](https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap) | 2:29 | 2025-08-21 |  |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-10 |  |
 | [Lagt kort ligger](https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Lagt kort ligger](https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd) | 3:01 | 2024-09-06 | 2024-10-12 |
 | [Lake Geneva](https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Lake Geneva](https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A) | 3:41 | 2025-04-10 |  |
@@ -351,7 +352,7 @@
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 |  |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2025-01-24 |
-| [Swan Song](https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Swan Song](https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO) | 4:02 | 2025-03-20 |  |
+| [Swan Song](https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Swan Song](https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO) | 4:02 | 2025-03-20 | 2025-08-31 |
 | [Sweethearts](https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Sweethearts](https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB) | 4:43 | 2025-03-13 |  |
 | [Säg vad du tänker](https://open.spotify.com/track/0xzGKqSRbmUPfAMkxvvKOw) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Säg vad du tänker](https://open.spotify.com/album/7fBVXi9Bghd7hnz8zv4lDk) | 2:49 | 2024-09-26 | 2024-10-11 |
 | [Säkra kort](https://open.spotify.com/track/4TyzrKciaUGim6k1HR7pIC) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Säkra kort](https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL) | 3:23 | 2024-09-19 | 2025-04-25 |

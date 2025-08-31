@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,824 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,845 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 74 | [WHERE THE LOVE GO](https://open.spotify.com/track/2PomEWb6w6gkYKNcwplxJt) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI) | [WHERE THE LOVE GO](https://open.spotify.com/album/3HSP4MfEAxBMYBY2HZcyjM) | 2:30 |
 | 75 | [Sense](https://open.spotify.com/track/3XsrEA7lVrxOeRgZahaJTF) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Let the Sun Talk](https://open.spotify.com/album/1uEHrNStg2h7UMMWHKzg43) | 1:06 |
 
-Snapshot ID: `AAAAAIGY6LAw6lepCdUPrU8BjMsq+1xv`
+Snapshot ID: `AAAAAErPVsZpSQda721nqdHIKjQaKqvc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,580 likes - 181 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,550 likes - 181 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6177,6 +6177,28 @@
     },
     {
       "album": {
+        "name": "Paradise (with Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Paradise (with Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
+    },
+    {
+      "album": {
         "name": "PARISIENNE",
         "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
       },
@@ -8590,7 +8612,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

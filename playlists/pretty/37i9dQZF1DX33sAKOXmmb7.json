@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 81397,
+  "num_followers": 81423,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Phosphorescent Blues",
+        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 326493,
+      "name": "Julep",
+      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 236834,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Thin",
         "url": "https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 159102,
       "name": "Vedauwoo",
       "url": "https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 236834,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
     },
     {
       "added_at": "2024-08-28 14:05:36",

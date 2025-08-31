@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 388180,
+  "num_followers": 388183,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Juan and Nelson Records - 20 Exitos",
-        "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
-      },
-      "artists": [
-        {
-          "name": "Rasputin",
-          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 237826,
       "name": "El Silencio, Tu Y Yo",
       "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Juan and Nelson Records - 20 Exitos",
+        "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
+      },
+      "artists": [
+        {
+          "name": "Rasputin",
+          "url": "https://open.spotify.com/artist/0mALzjMaKXiSauA1QuXYLY"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
     },
     {
       "added_at": "2024-06-28 21:55:14",

@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 130063,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 269903,
       "name": "Alle werden alt",
       "url": "https://open.spotify.com/track/4H6IFl3r8jtbQbbUdeLZMq"
@@ -10741,6 +10741,28 @@
     },
     {
       "album": {
+        "name": "Walking On A Dream (Marlon Hoffstadt Remix)",
+        "url": "https://open.spotify.com/album/21MFSVhoL9WvCfCWFcVB82"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236530,
+      "name": "Walking On A Dream - Marlon Hoffstadt Remix",
+      "url": "https://open.spotify.com/track/0NZdEb4FIYj30IVRlzaY30"
+    },
+    {
+      "album": {
         "name": "Wanna Feel",
         "url": "https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2"
       },
@@ -10756,7 +10778,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,707 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,744 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Give Up On Me](https://open.spotify.com/track/16zzmh1oSdbke4IVEPYiXf) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Don't Give Up On Me](https://open.spotify.com/album/5DUrEM3IpUG4KETNcUM2KA) | 4:44 |
-| 2 | [The Truth Comes Out Eventually](https://open.spotify.com/track/3sl3JwQFNgLn6VDqKPTgWY) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [The Truth Comes Out Eventually](https://open.spotify.com/album/4JZk6LgKvWmbc8ESpc7aDC) | 5:46 |
-| 3 | [Magnolia](https://open.spotify.com/track/0ENoBHeSgaJsnjoY9abf9q) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Magnolia](https://open.spotify.com/album/6pNByFfy2lHC0VO38APy6w) | 4:20 |
-| 4 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 |
-| 5 | [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 |
-| 6 | [Believer](https://open.spotify.com/track/6dIiZC1dVN4DiVOUWE72DQ) | [Pug Johnson](https://open.spotify.com/artist/7Jrh16v5jTLnomhJCDH1CU) | [Believer](https://open.spotify.com/album/5DaItt8Fpb5txHmNB5IWcq) | 4:29 |
-| 7 | [Lost Man](https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Lost Man](https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u) | 5:23 |
+| 1 | [Simple](https://open.spotify.com/track/4xgwMmdnNLOeQcnNw8FnGq) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Simple](https://open.spotify.com/album/4M5ciqFVNQZnzGTem1zJlG) | 3:44 |
+| 2 | [Don't Give Up On Me](https://open.spotify.com/track/16zzmh1oSdbke4IVEPYiXf) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Don't Give Up On Me](https://open.spotify.com/album/5DUrEM3IpUG4KETNcUM2KA) | 4:44 |
+| 3 | [The Truth Comes Out Eventually](https://open.spotify.com/track/3sl3JwQFNgLn6VDqKPTgWY) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [The Truth Comes Out Eventually](https://open.spotify.com/album/4JZk6LgKvWmbc8ESpc7aDC) | 5:46 |
+| 4 | [Magnolia](https://open.spotify.com/track/0ENoBHeSgaJsnjoY9abf9q) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Magnolia](https://open.spotify.com/album/6pNByFfy2lHC0VO38APy6w) | 4:20 |
+| 5 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 |
+| 6 | [Pour Me Out](https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Pour Me Out](https://open.spotify.com/album/4Nesidkow2fCI0r6gneU2v) | 3:48 |
+| 7 | [Believer](https://open.spotify.com/track/6dIiZC1dVN4DiVOUWE72DQ) | [Pug Johnson](https://open.spotify.com/artist/7Jrh16v5jTLnomhJCDH1CU) | [Believer](https://open.spotify.com/album/5DaItt8Fpb5txHmNB5IWcq) | 4:29 |
 | 8 | [Our Time In The Sun](https://open.spotify.com/track/1EpwYfnVysMGx9sDoePtTM) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Our Time In The Sun](https://open.spotify.com/album/3nmv2z7uaNxaJ4vMlwbHhn) | 3:00 |
 | 9 | [Sweet Love](https://open.spotify.com/track/4FO8aNhT5HUYtZOJjHEdfZ) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Sweet Love](https://open.spotify.com/album/3mGcjjnhOwYbxQaxNdbZtq) | 3:32 |
 | 10 | [So Afraid of Losing You Again](https://open.spotify.com/track/0eHekxtEusjXpOBB0glzdx) | [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t) | [So Afraid Of Losing You Again](https://open.spotify.com/album/1JNdCq5mTHHn3K3RIlGabD) | 4:12 |

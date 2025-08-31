@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe e Rodrigo, Sabrina Carpenter, Natanzinho Lima com Wesley Safadão e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,145,936 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,146,934 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 48 | [Regra da Casa \- Ao Vivo](https://open.spotify.com/track/0zTq6CS9roo3NFJ6WtktiH) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6L3w8n0tKezdefcpIYTc7K) | 2:48 |
 | 49 | [DIP7](https://open.spotify.com/track/1KptMOQy3JRMuxYGujfuPj) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [Big Fa7Her](https://open.spotify.com/album/0pStzuellBenB3nll1Ow6B) | 2:59 |
 | 50 | [Roupa de Academia](https://open.spotify.com/track/6WutzWIt9ZtPd3zkiUWG93) | [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Mc Dkziin](https://open.spotify.com/artist/06CW6ZcdRZc14gC6wr3bt6), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Roupa de Academia](https://open.spotify.com/album/1eNDMO7agBelO1BMq98FPl) | 2:57 |
-| 51 | [Calma, Senta, Relaxa](https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Calma, Senta, Relaxa](https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq) | 2:04 |
+| 51 | [Calma, Senta, Relaxa](https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh) | [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Japão](https://open.spotify.com/artist/3xoA3XlugnMbcIurjFJp93), [Kamoto](https://open.spotify.com/artist/024MAhdqfNuVvJbpOvkZA9) | [Calma, Senta, Relaxa](https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq) | 2:04 |
 | 52 | [Luz de Velas](https://open.spotify.com/track/6IitElRJYS4fhaL1SNvfXR) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Luz de Velas](https://open.spotify.com/album/4qFWRzstZmqqqWvKKYLpBj) | 2:45 |
 | 53 | [Justa Causa](https://open.spotify.com/track/7ypiBHDN1KVueXrpNLxCkW) | [Fabinho Testado](https://open.spotify.com/artist/29OyPpZR54SPGzG4YmQ8gY), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Justa Causa](https://open.spotify.com/album/28DXv6eXs1OyTIGDH9y86T) | 2:46 |
 | 54 | [Cria de Favela](https://open.spotify.com/track/2OmKaGkeBi3a6be0lhYgU4) | [THAY OLIVEIRA](https://open.spotify.com/artist/5PgatY3YwJKvVd6oNesVhb), [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Cria de Favela](https://open.spotify.com/album/1dz2n57YDj3gvTlQuj5et7) | 2:09 |

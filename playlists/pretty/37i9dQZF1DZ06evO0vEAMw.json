@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 96457,
+  "num_followers": 96475,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAA+T7JHpzOIVzMd58sbsXfv",
+  "snapshot_id": "aLDtgAAAAACHcoZbGaGSxdQy8Afg9d8M",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doe",
+        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 242886,
+      "name": "Doe",
+      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doe",
-        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 242886,
-      "name": "Doe",
-      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
     },
     {
       "added_at": null,

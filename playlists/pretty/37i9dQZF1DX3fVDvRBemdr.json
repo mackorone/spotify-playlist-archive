@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: Wolter Kroes",
-  "num_followers": 152919,
+  "num_followers": 152942,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+t0XPiOXhZjFozfiab0U0yJuhB",
+  "snapshot_id": "AAAAALGvAyxJExcznQlBUMdNw1woNzYn",
   "tracks": [
     {
       "added_at": "2025-08-28 22:00:13",
@@ -71,6 +71,22 @@
       "duration_ms": 139628,
       "name": "Heb Je Al Genoeg Genoten",
       "url": "https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Kroegtijger",
+        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Kroegtijger",
+      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -163,22 +179,6 @@
       "duration_ms": 182942,
       "name": "Zaterdagavond",
       "url": "https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "Kroegtijger",
-        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
-      },
-      "artists": [
-        {
-          "name": "Joey Nicolay",
-          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Kroegtijger",
-      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1416,7 +1416,7 @@
       },
       "artists": [
         {
-          "name": "Raffie de Driver'",
+          "name": "Raffie de Driver",
           "url": "https://open.spotify.com/artist/1SJnoeN8EaCqWJBbeXi1tn"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130038,
+  "num_followers": 130059,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
-        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 349541,
-      "name": "\u82ac\u862d\u8ddd\u96e2",
-      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u4e0d\u5c6c\u65bc",
-        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
+        "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
+        "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
       },
       "artists": [
         {
-          "name": "\u674e\u4f73\u6b61",
-          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
         }
       ],
-      "duration_ms": 241071,
-      "name": "\u4e0d\u5c6c\u65bc",
-      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
+      "duration_ms": 349541,
+      "name": "\u82ac\u862d\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -415,6 +399,22 @@
       "duration_ms": 235750,
       "name": "\u4eb2\u7231\u7684\u4f60\u554a\uff08\u7535\u89c6\u5267\u300a\u65e0\u5c3d\u7684\u5c3d\u5934\u300b\u4e3b\u9898\u66f2\uff09",
       "url": "https://open.spotify.com/track/1jwwyhTZw5QRFnCCmCdhT5"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
+        "name": "\u4e0d\u5c6c\u65bc",
+        "url": "https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "duration_ms": 241071,
+      "name": "\u4e0d\u5c6c\u65bc",
+      "url": "https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u611b\u7684\u5c0d\u767d",
-        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
         "name": "DEPART",
         "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
         "name": "\u96d9\u751f\u706b\u7130",
         "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 305013,
       "name": "\u6c89\u9ed8",
       "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
-        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "\u7a7a\u62cd (Pause ll)",
-      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
         "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
         "url": "https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 288200,
       "name": "\u6674\u6642\u591a\u96f2\u5076\u60f3\u4f60",
       "url": "https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
+        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
+        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "\u7a7a\u62cd (Pause ll)",
+      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
     },
     {
       "added_at": "2025-08-28 16:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-08-28 16:00:25",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
-      },
-      "artists": [
-        {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
-    },
-    {
-      "added_at": "2025-08-28 16:00:25",
-      "album": {
         "name": "\u592a\u967d\u96e8",
         "url": "https://open.spotify.com/album/1o5ApqEbF0nSfiieqqE80u"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 216450,
       "name": "\u592a\u967d\u96e8",
       "url": "https://open.spotify.com/track/2A0vCSTeOryiLsbuWDwX7G"
+    },
+    {
+      "added_at": "2025-08-28 16:00:25",
+      "album": {
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2025-08-28 16:00:25",

@@ -4,7 +4,7 @@
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 59 min
+51 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Dune Mosse](https://open.spotify.com/track/4GL0qsiLoCN2rV1SlZh6oW) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [ZU & Co.](https://open.spotify.com/album/7KLdrRb8E0Y8ueALiGuWaY) | 5:44 | 2025-07-20 |  |
 | [Flamenco Sketches \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:26 | 2025-07-20 |  |
 | [Florence sur les Champs\-Élysées \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:52 | 2025-07-20 |  |
+| [Footprints](https://open.spotify.com/track/2wjHWYJVAs5TYSRP83JLmc) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Smiles](https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV) | 9:45 | 2025-08-31 |  |
 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:46 | 2025-07-20 |  |
-| [Get On \- Sentient Version](https://open.spotify.com/track/2CFOwoetNMZ83IN8oJIatO) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Paolo Rustichelli](https://open.spotify.com/artist/7wYQ8tcOhI6j5UxejVnOuD) | [Sentient](https://open.spotify.com/album/5S2j2NLZrW2MzY5bj7YvZY) | 4:05 | 2025-07-20 |  |
+| [Get On \- Sentient Version](https://open.spotify.com/track/2CFOwoetNMZ83IN8oJIatO) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Paolo Rustichelli](https://open.spotify.com/artist/7wYQ8tcOhI6j5UxejVnOuD) | [Sentient](https://open.spotify.com/album/5S2j2NLZrW2MzY5bj7YvZY) | 4:05 | 2025-07-20 | 2025-08-31 |
 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 | 2025-07-20 |  |
 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 | 2025-07-20 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:43 | 2025-07-20 |  |

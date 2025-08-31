@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Bauti Mascia & Amigo de Artistas.",
-  "num_followers": 1152668,
+  "num_followers": 1152445,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
         "name": "Te invito a bailar",
         "url": "https://open.spotify.com/album/1iV0l1bqtzcGDWkHDYHrDA"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 145191,
       "name": "Te invito a bailar",
       "url": "https://open.spotify.com/track/17vFIehhv8hKSXYn5Ce4Pk"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -631,46 +631,18 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "BORRACHO Y LOCO",
-        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd"
       },
       "artists": [
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
         }
       ],
-      "duration_ms": 232781,
-      "name": "BORRACHO Y LOCO",
-      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 312512,
-      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+      "duration_ms": 137727,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -707,18 +679,46 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/3W8jFYffyTKJqm6hSQtARd"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 137727,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/57q0jUz79o0XeTmN2E15uI"
+      "duration_ms": 312512,
+      "name": "Amor (Ft. Mon Laferte) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "BORRACHO Y LOCO",
+        "url": "https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 232781,
+      "name": "BORRACHO Y LOCO",
+      "url": "https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -911,14 +911,10 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Quiero Creer",
-        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
+        "name": "Te extra\u00f1o bb",
+        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
       },
       "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
         {
           "name": "La T y La M",
           "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
@@ -928,9 +924,9 @@
           "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 145054,
-      "name": "Quiero Creer",
-      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
+      "duration_ms": 212435,
+      "name": "Te extra\u00f1o bb",
+      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -955,10 +951,14 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Te extra\u00f1o bb",
-        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
+        "name": "Quiero Creer",
+        "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
       "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
         {
           "name": "La T y La M",
           "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 212435,
-      "name": "Te extra\u00f1o bb",
-      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
+      "duration_ms": 145054,
+      "name": "Quiero Creer",
+      "url": "https://open.spotify.com/track/7HdEUquZzUzPjgSllvlJGl"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -1067,38 +1099,6 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
         "name": "Romantiko",
         "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
       },
@@ -1115,6 +1115,26 @@
       "duration_ms": 194210,
       "name": "Romantiko",
       "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 140645,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1151,26 +1171,6 @@
       "duration_ms": 125969,
       "name": "SALE SOLA",
       "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 140645,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1455,6 +1455,38 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "Dif\u00edcil",
+        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
         "name": "Rubia Mala",
         "url": "https://open.spotify.com/album/0zRpbAVfQ3XdRgtESyQGOg"
       },
@@ -1471,22 +1503,6 @@
       "duration_ms": 138064,
       "name": "Rubia Mala",
       "url": "https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1511,22 +1527,22 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Me toc\u00f3 perder",
-        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
+        "name": "Mi Ex",
+        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
       },
       "artists": [
         {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
         },
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
         }
       ],
-      "duration_ms": 126477,
-      "name": "Me toc\u00f3 perder",
-      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
+      "duration_ms": 141978,
+      "name": "Mi Ex",
+      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1551,22 +1567,22 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Mi Ex",
-        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
+        "name": "Me toc\u00f3 perder",
+        "url": "https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x"
       },
       "artists": [
         {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         },
         {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 141978,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
+      "duration_ms": 126477,
+      "name": "Me toc\u00f3 perder",
+      "url": "https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1583,42 +1599,6 @@
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Dif\u00edcil",
-        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 165330,
-      "name": "Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1659,6 +1639,46 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "Te Regalo Amores",
+        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 182616,
+      "name": "Te Regalo Amores",
+      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
         "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
         "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
@@ -1691,22 +1711,18 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "Te Regalo Amores",
-        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
+        "name": "La Teor\u00eda del Hombre",
+        "url": "https://open.spotify.com/album/7CUglykEWo1wWqoT5UbCup"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
         }
       ],
-      "duration_ms": 182616,
-      "name": "Te Regalo Amores",
-      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
+      "duration_ms": 172788,
+      "name": "La Teor\u00eda del Hombre",
+      "url": "https://open.spotify.com/track/0IJDsr86YQ0wbbsdv9WU39"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1723,22 +1739,6 @@
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "La Teor\u00eda del Hombre",
-        "url": "https://open.spotify.com/album/7CUglykEWo1wWqoT5UbCup"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        }
-      ],
-      "duration_ms": 172788,
-      "name": "La Teor\u00eda del Hombre",
-      "url": "https://open.spotify.com/track/0IJDsr86YQ0wbbsdv9WU39"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
+        "name": "La M\u00e1s Amada del Pa\u00eds",
+        "url": "https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "La M\u00e1s Amada del Pa\u00eds",
+      "url": "https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
       },
@@ -1811,34 +1831,6 @@
       "duration_ms": 176577,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "JBL",
-        "url": "https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "JBL",
-      "url": "https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1863,22 +1855,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2025-08-29 03:00:24",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2025-08-29 03:00:24",
@@ -1915,8 +1891,8 @@
     {
       "added_at": "2025-08-29 03:00:24",
       "album": {
-        "name": "La M\u00e1s Amada del Pa\u00eds",
-        "url": "https://open.spotify.com/album/5INAZepCtHQEin7PlHYZ4S"
+        "name": "JBL",
+        "url": "https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9"
       },
       "artists": [
         {
@@ -1924,13 +1900,37 @@
           "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
         },
         {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
           "name": "Nico Valdi",
           "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
-      "duration_ms": 171080,
-      "name": "La M\u00e1s Amada del Pa\u00eds",
-      "url": "https://open.spotify.com/track/5FkdJAMh2z0ZQfxbUZXhRn"
+      "duration_ms": 184687,
+      "name": "JBL",
+      "url": "https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU"
+    },
+    {
+      "added_at": "2025-08-29 03:00:24",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2025-08-29 03:00:24",

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 68005,
+  "num_followers": 68039,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2025-08-28 20:01:15",
       "album": {
-        "name": "Agua Nueva",
-        "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Agua Nueva",
-      "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
-    },
-    {
-      "added_at": "2025-08-28 20:01:15",
-      "album": {
         "name": "Dimelo Ayer",
         "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 159892,
       "name": "Dimelo Ayer",
       "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+    },
+    {
+      "added_at": "2025-08-28 20:01:15",
+      "album": {
+        "name": "Agua Nueva",
+        "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Agua Nueva",
+      "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
     },
     {
       "added_at": "2025-08-28 20:01:15",

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soarito",
-  "num_followers": 233224,
+  "num_followers": 233251,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
+    },
+    {
+      "added_at": "2025-08-28 23:00:38",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2025-08-28 23:00:38",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2025-08-28 23:00:38",
+      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 210648,
       "name": "Momentos",
       "url": "https://open.spotify.com/track/4oy3pqAKEWN9mrxwTHwdMs"
-    },
-    {
-      "added_at": "2025-08-28 23:00:38",
-      "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Evitar",
-        "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 169393,
-      "name": "Evitar",
-      "url": "https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M"
-    },
-    {
-      "added_at": "2025-08-28 23:00:38",
-      "album": {
         "name": "Menta",
         "url": "https://open.spotify.com/album/5m12RKdPcPwMzRwb9EIECk"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Sem Querer",
-        "url": "https://open.spotify.com/album/6DdeUoqnPeYvL0bA1qUjBN"
+        "name": "Evitar",
+        "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
       },
       "artists": [
         {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 228292,
-      "name": "Sem Querer",
-      "url": "https://open.spotify.com/track/6bZWx1j4REgcJIlAvdV6DA"
+      "duration_ms": 169393,
+      "name": "Evitar",
+      "url": "https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1539,6 +1523,26 @@
       "duration_ms": 219712,
       "name": "365",
       "url": "https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q"
+    },
+    {
+      "added_at": "2025-08-28 23:00:38",
+      "album": {
+        "name": "Fica longi bo",
+        "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Fica longi bo",
+      "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1563,22 +1567,18 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Fica longi bo",
-        "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
+        "name": "Sem Querer",
+        "url": "https://open.spotify.com/album/6DdeUoqnPeYvL0bA1qUjBN"
       },
       "artists": [
         {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Fica longi bo",
-      "url": "https://open.spotify.com/track/74CP5TIs7o1S14ArcC8Jdz"
+      "duration_ms": 228292,
+      "name": "Sem Querer",
+      "url": "https://open.spotify.com/track/6bZWx1j4REgcJIlAvdV6DA"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Kannot Compare",
-        "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
-      },
-      "artists": [
-        {
-          "name": "Florito",
-          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        },
-        {
-          "name": "Sandro Beatz",
-          "url": "https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "Kannot Compare",
-      "url": "https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA"
-    },
-    {
-      "added_at": "2025-08-28 23:00:38",
-      "album": {
         "name": "BTLV",
         "url": "https://open.spotify.com/album/4p7bM6yutMVmZkWiFMes4a"
       },
@@ -1751,6 +1727,30 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
+        "name": "Kannot Compare",
+        "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        },
+        {
+          "name": "Sandro Beatz",
+          "url": "https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "Kannot Compare",
+      "url": "https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA"
+    },
+    {
+      "added_at": "2025-08-28 23:00:38",
+      "album": {
         "name": "ON\u00c7A",
         "url": "https://open.spotify.com/album/28Jc0FYJEynwpAhhAa2bv3"
       },
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Tua",
-        "url": "https://open.spotify.com/album/0p2QwqHfoiuH79c7pEza2y"
-      },
-      "artists": [
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Tua",
-      "url": "https://open.spotify.com/track/4vMBkltTZi1OKnmaMKfKHq"
-    },
-    {
-      "added_at": "2025-08-28 23:00:38",
-      "album": {
         "name": "Sentimento",
         "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
       },
@@ -1843,18 +1827,18 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Bo \u00e9 B\u00fassola",
-        "url": "https://open.spotify.com/album/0zeDZ5EjLnbJPURo7vM0gJ"
+        "name": "Tua",
+        "url": "https://open.spotify.com/album/0p2QwqHfoiuH79c7pEza2y"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
         }
       ],
-      "duration_ms": 219710,
-      "name": "Bo \u00e9 B\u00fassola",
-      "url": "https://open.spotify.com/track/7s03RKJG1XXrwqITY0u81f"
+      "duration_ms": 162666,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/4vMBkltTZi1OKnmaMKfKHq"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1879,18 +1863,18 @@
     {
       "added_at": "2025-08-28 23:00:38",
       "album": {
-        "name": "Je T\u2019Aime",
-        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
+        "name": "Bo \u00e9 B\u00fassola",
+        "url": "https://open.spotify.com/album/0zeDZ5EjLnbJPURo7vM0gJ"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 214512,
-      "name": "Je T\u2019Aime",
-      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
+      "duration_ms": 219710,
+      "name": "Bo \u00e9 B\u00fassola",
+      "url": "https://open.spotify.com/track/7s03RKJG1XXrwqITY0u81f"
     },
     {
       "added_at": "2025-08-28 23:00:38",
@@ -1915,6 +1899,22 @@
       "duration_ms": 266666,
       "name": "Divino",
       "url": "https://open.spotify.com/track/5SCcDWBNJjWaLxLAt6WldT"
+    },
+    {
+      "added_at": "2025-08-28 23:00:38",
+      "album": {
+        "name": "Je T\u2019Aime",
+        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 214512,
+      "name": "Je T\u2019Aime",
+      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
     },
     {
       "added_at": "2025-08-28 23:00:38",

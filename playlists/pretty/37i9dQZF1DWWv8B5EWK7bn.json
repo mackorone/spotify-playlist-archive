@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 203649,
+  "num_followers": 203670,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
     },
     {
+      "added_at": "2022-07-15 05:42:04",
+      "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
       "added_at": "2024-08-22 17:06:21",
       "album": {
         "name": "Organs",
@@ -523,22 +539,6 @@
       "duration_ms": 287403,
       "name": "Organs",
       "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
-    },
-    {
-      "added_at": "2022-07-15 05:42:04",
-      "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2024-05-03 16:59:29",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
     },
     {
-      "added_at": "2023-12-20 04:44:18",
-      "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
-    },
-    {
       "added_at": "2023-01-04 00:57:30",
       "album": {
         "name": "Classic Objects",
@@ -603,6 +587,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2023-12-20 04:44:18",
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "added_at": "2023-10-22 04:22:10",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
-      "added_at": "2023-08-10 05:47:21",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
       "added_at": "2024-04-15 18:24:59",
       "album": {
         "name": "Love in Constant Spectacle",
@@ -771,6 +755,22 @@
       "duration_ms": 257226,
       "name": "Love in Constant Spectacle",
       "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "added_at": "2023-08-10 05:47:21",
+      "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -791,22 +791,6 @@
       "duration_ms": 447453,
       "name": "Corner Of My Sky",
       "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
-    },
-    {
-      "added_at": "2023-06-07 23:32:59",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2024-01-11 03:53:36",
@@ -831,6 +815,22 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
+    },
+    {
+      "added_at": "2023-06-07 23:32:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": "2023-10-13 15:35:55",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
-      "added_at": "2024-10-23 05:47:27",
-      "album": {
-        "name": "Deux Paradis",
-        "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 273897,
-      "name": "Deux Paradis",
-      "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -933,20 +917,20 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
+      "added_at": "2024-10-23 05:47:27",
       "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+        "name": "Deux Paradis",
+        "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
       },
       "artists": [
         {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+      "duration_ms": 273897,
+      "name": "Deux Paradis",
+      "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
     },
     {
       "added_at": "2024-04-18 19:57:51",
@@ -965,20 +949,20 @@
       "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
+      "added_at": "2023-06-02 00:24:20",
       "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
       },
       "artists": [
         {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
         }
       ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
       "added_at": "2022-10-05 14:12:30",
@@ -995,6 +979,22 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -1021,6 +1021,22 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
+      "added_at": "2024-03-22 00:00:20",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -1039,22 +1055,6 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2024-03-22 00:00:20",
-      "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 159054,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2024-08-29 02:18:16",
-      "album": {
-        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 413958,
-      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1141,6 +1125,22 @@
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
     },
     {
+      "added_at": "2024-08-29 02:18:16",
+      "album": {
+        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 413958,
+      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
+    },
+    {
       "added_at": "2024-10-23 05:15:10",
       "album": {
         "name": "love is not the poison",
@@ -1155,6 +1155,22 @@
       "duration_ms": 318447,
       "name": "love is not the poison",
       "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
+    },
+    {
+      "added_at": "2024-10-25 00:44:14",
+      "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2023-10-27 23:56:32",
@@ -1175,22 +1191,6 @@
       "duration_ms": 290026,
       "name": "Dawn blessings",
       "url": "https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl"
-    },
-    {
-      "added_at": "2024-10-25 00:44:14",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2023-06-07 04:10:00",
@@ -1377,38 +1377,6 @@
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
     },
     {
-      "added_at": "2024-01-03 18:45:56",
-      "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
-    },
-    {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1429,6 +1397,22 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
+      "added_at": "2023-03-31 19:24:48",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
+    },
+    {
       "added_at": "2023-01-03 23:48:36",
       "album": {
         "name": "Where To Put The Pain",
@@ -1443,6 +1427,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2024-01-03 18:45:56",
+      "album": {
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1559,6 +1543,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2024-01-30 05:23:45",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "An Embroidery",
-        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 249208,
-      "name": "An Embroidery",
-      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
-    },
-    {
       "added_at": "2023-08-24 03:26:17",
       "album": {
         "name": "RPG",
@@ -1643,6 +1627,22 @@
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "An Embroidery",
+        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
       "added_at": "2023-03-24 15:38:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ISSA ODYSSEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,944 likes - 114 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,995 likes - 114 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

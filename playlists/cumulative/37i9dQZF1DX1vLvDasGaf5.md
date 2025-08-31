@@ -4,7 +4,7 @@
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-61 songs - 3 hr 33 min
+62 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 | 2024-08-19 |  |
 | [おれはグレートマジンガー \(グレートマジンガー\)](https://open.spotify.com/track/0rn96uPpyrQJFQ6mcas3Eo) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 2:35 | 2024-08-19 | 2024-08-28 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/2CN6Ku8RAJc14d4BbkD5rk) | [らんま1/2](https://open.spotify.com/artist/50h5fygfWtNlFN4FrddJCd) | [らんま1/2 おか持ち特選～猫飯店メニュー・ソング～](https://open.spotify.com/album/0dRu0BUHGRswjKwqoQtRlk) | 1:40 | 2024-08-19 |  |
-| [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2024-08-19 |  |
+| [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 | 2024-08-19 | 2025-08-31 |
 | [ど根性ガエル](https://open.spotify.com/track/0OMsLUf2ee3xxIXFdw9XBI) | [石川 進](https://open.spotify.com/artist/6M3y1FG6FWQqey40DPToW3) | [ど根性ガエル ミュージックファイル](https://open.spotify.com/album/64t1tTMjOCDGeTuaZSOnQE) | 1:33 | 2024-08-19 |  |
 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 | 2024-08-28 |  |
 | [ひょっこりひょうたん島](https://open.spotify.com/track/0OtLgyGzmLV82nXpgJel4M) | [ひばり児童合唱団](https://open.spotify.com/artist/2uTsoHGIkGX1Yz0VKOSD4l), [前川陽子](https://open.spotify.com/artist/6jthsP9pciBAA9JhNuUUzC) | [昭和の童謡のあゆみ～キングレコード90周年を彩る100曲](https://open.spotify.com/album/0SxDabDf6VyAO5wJE9vbth) | 1:05 | 2024-08-28 |  |
@@ -65,6 +65,7 @@
 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 | 2024-08-19 |  |
 | [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 | 2024-08-19 |  |
 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 | 2024-08-19 |  |
+| [鉄腕アトム](https://open.spotify.com/track/48h2O24oTHPDJ6BiJPydQ7) | [上高田少年合唱団](https://open.spotify.com/artist/2a5e314NsqsLahfBcsfRYB) | [<戦後70年 歌のあゆみ> こどものうた 〜とんがり帽子・みかんの花さく丘〜](https://open.spotify.com/album/3ZblGJJIGKnBUwYdQ0xOEu) | 2:29 | 2025-06-13 |  |
 | [銀河鉄道999](https://open.spotify.com/track/2eTFeq3uicvq8wzG00JMQx) | [Godiego](https://open.spotify.com/artist/7agr01GMFpbX5ie9UsTGxe) | [銀河鉄道999](https://open.spotify.com/album/2nkL2KXEMdQOaxJOOmJdAm) | 3:29 | 2024-08-19 |  |
 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 | 2024-08-19 |  |
 | [陽だまり](https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ) | [Kozo Murashita](https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz) | [七夕夜想曲〜村下孝蔵最高選曲集　其の壱](https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW) | 4:01 | 2024-08-19 |  |

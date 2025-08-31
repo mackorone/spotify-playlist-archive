@@ -1,6 +1,6 @@
 {
   "description": "For lazy days and cosy nights",
-  "num_followers": 1345662,
+  "num_followers": 1345554,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207420,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Paint My Bedroom Black",
+        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "Paint My Bedroom Black",
+      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Paint My Bedroom Black",
-        "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "Paint My Bedroom Black",
-      "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 140484,
       "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 171901,
-      "name": "Fade Into A Dream",
-      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "A Wonder Day",
-        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 209352,
-      "name": "A Wonder Day",
-      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "In This Room - EP",
         "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 231964,
       "name": "In This Room",
       "url": "https://open.spotify.com/track/0iugfm61MXlEQvYmFhgWtp"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "A Wonder Day",
+        "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 209352,
+      "name": "A Wonder Day",
+      "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2025-08-06 11:57:20",

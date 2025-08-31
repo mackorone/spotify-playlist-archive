@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 121054,
+  "num_followers": 121069,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -191,30 +191,6 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
         "name": "Kagaz",
         "url": "https://open.spotify.com/album/1kfXcMO0yTbkpHx8XO6VZZ"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 213857,
       "name": "Kagaz",
       "url": "https://open.spotify.com/track/7kF41c0FB7LJMs6ilrWqt2"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -727,22 +727,26 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
-        "name": "Rung",
-        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
+        "name": "Ratiya",
+        "url": "https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ"
       },
       "artists": [
         {
-          "name": "Hari & Sukhmani",
-          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
+          "name": "Pina Colada Blues",
+          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
         },
         {
-          "name": "Dhruv Sangari",
-          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
         }
       ],
-      "duration_ms": 326741,
-      "name": "Rung",
-      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
+      "duration_ms": 165900,
+      "name": "Ratiya",
+      "url": "https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -795,26 +799,22 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
-        "name": "Ratiya",
-        "url": "https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ"
+        "name": "Rung",
+        "url": "https://open.spotify.com/album/7eh36qK7s7eThfg7GAnWMB"
       },
       "artists": [
         {
-          "name": "Pina Colada Blues",
-          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
+          "name": "Hari & Sukhmani",
+          "url": "https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj"
         },
         {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+          "name": "Dhruv Sangari",
+          "url": "https://open.spotify.com/artist/6VGfXWL2EDRPXa6BcfuCyO"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Ratiya",
-      "url": "https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc"
+      "duration_ms": 326741,
+      "name": "Rung",
+      "url": "https://open.spotify.com/track/2PNdWB44ar4HlRbrJfHELg"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -855,34 +855,6 @@
       "duration_ms": 1398866,
       "name": "Raga Nata Bhairav - Remastered",
       "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Daavaanal",
-        "url": "https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD"
-      },
-      "artists": [
-        {
-          "name": "Antara Ansuna",
-          "url": "https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq"
-        },
-        {
-          "name": "Harsh Karmakar",
-          "url": "https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD"
-        },
-        {
-          "name": "Rohan Prasanna",
-          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
-        },
-        {
-          "name": "Mrunmay Chhavan",
-          "url": "https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Daavaanal",
-      "url": "https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -931,6 +903,34 @@
       "duration_ms": 909000,
       "name": "Dhun in Raga Mishra Pilu",
       "url": "https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
+        "name": "Daavaanal",
+        "url": "https://open.spotify.com/album/18qVKvrwy14E70G2EhhLBD"
+      },
+      "artists": [
+        {
+          "name": "Antara Ansuna",
+          "url": "https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq"
+        },
+        {
+          "name": "Harsh Karmakar",
+          "url": "https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        },
+        {
+          "name": "Mrunmay Chhavan",
+          "url": "https://open.spotify.com/artist/1pEUFsgSuKy6VlF6cSjRzR"
+        }
+      ],
+      "duration_ms": 212424,
+      "name": "Daavaanal",
+      "url": "https://open.spotify.com/track/0OMT0auLkcI34yCWZE1wvT"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
+        "name": "Bhagwaan",
+        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
+      },
+      "artists": [
+        {
+          "name": "Masala Coffee",
+          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
+        }
+      ],
+      "duration_ms": 274110,
+      "name": "Bhagwaan",
+      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
         "name": "Kaliyaan",
         "url": "https://open.spotify.com/album/3fl0YteOBNVB020BXkgpS1"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 159622,
       "name": "Kaliyaan",
       "url": "https://open.spotify.com/track/2imK2X4ah7bVms1TjSAB19"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Bhagwaan",
-        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 274110,
-      "name": "Bhagwaan",
-      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1159,6 +1159,22 @@
       "duration_ms": 162000,
       "name": "Kaahe?",
       "url": "https://open.spotify.com/track/2fqd0aU59n8vaYiSijMdsE"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
+        "name": "Raagraanis",
+        "url": "https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM"
+      },
+      "artists": [
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Jiya Naahi Laage",
+      "url": "https://open.spotify.com/track/6Llydl8p8aFuWxVy2jehXn"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1315,18 +1331,22 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
-        "name": "Raagraanis",
-        "url": "https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM"
+        "name": "Le Aayi",
+        "url": "https://open.spotify.com/album/5DuFyiWVmWqLDAvcavvqJp"
       },
       "artists": [
         {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
         }
       ],
-      "duration_ms": 167586,
-      "name": "Jiya Naahi Laage",
-      "url": "https://open.spotify.com/track/6Llydl8p8aFuWxVy2jehXn"
+      "duration_ms": 186131,
+      "name": "Le Aayi",
+      "url": "https://open.spotify.com/track/4MM1WM13IhM0wBoKw7v3tv"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1359,46 +1379,6 @@
       "duration_ms": 618000,
       "name": "Shiva Shankara",
       "url": "https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Le Aayi",
-        "url": "https://open.spotify.com/album/5DuFyiWVmWqLDAvcavvqJp"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        }
-      ],
-      "duration_ms": 186131,
-      "name": "Le Aayi",
-      "url": "https://open.spotify.com/track/4MM1WM13IhM0wBoKw7v3tv"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Nirbhay Nirgun (Live)",
-        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
-      },
-      "artists": [
-        {
-          "name": "The Anirudh Varma Collective",
-          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
-        },
-        {
-          "name": "Aastha Mandle",
-          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
-        }
-      ],
-      "duration_ms": 380000,
-      "name": "Nirbhay Nirgun (Live)",
-      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1463,6 +1443,26 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
         "name": "Swar Sadhna",
         "url": "https://open.spotify.com/album/303Pkb83Anu8cMovTksOen"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 2112156,
       "name": "Raga Shuddh Kalyan",
       "url": "https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Jamuna Kinaare",
-        "url": "https://open.spotify.com/album/6FoH3QGoYMwNlnPW6TkPNP"
-      },
-      "artists": [
-        {
-          "name": "Vidhya Gopal",
-          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
-        },
-        {
-          "name": "Yashika Sikka",
-          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
-        }
-      ],
-      "duration_ms": 461425,
-      "name": "Jamuna Kinaare",
-      "url": "https://open.spotify.com/track/7JRBFFMp0VpGoFmEMGLJ9w"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1523,26 +1503,6 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
-        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
-      },
-      "artists": [
-        {
-          "name": "Anupam Roy",
-          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
-        },
-        {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Ae Ri Sakhi",
-      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
         "name": "Sajaniya (From \"Vividh Bharti\")",
         "url": "https://open.spotify.com/album/6UeAXXSktmQVieATzFXWwl"
       },
@@ -1567,6 +1527,46 @@
     {
       "added_at": "2025-08-29 05:59:25",
       "album": {
+        "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Ae Ri Sakhi",
+      "url": "https://open.spotify.com/track/48VuZBLob8F0K62yPqch09"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
+        "name": "Jamuna Kinaare",
+        "url": "https://open.spotify.com/album/6FoH3QGoYMwNlnPW6TkPNP"
+      },
+      "artists": [
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "duration_ms": 461425,
+      "name": "Jamuna Kinaare",
+      "url": "https://open.spotify.com/track/7JRBFFMp0VpGoFmEMGLJ9w"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -1587,22 +1587,6 @@
       "duration_ms": 359960,
       "name": "Mohanam",
       "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
-    },
-    {
-      "added_at": "2025-08-29 05:59:25",
-      "album": {
-        "name": "Who's To Know - Indian Classical Music",
-        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
-      },
-      "artists": [
-        {
-          "name": "L. Shankar",
-          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
-        }
-      ],
-      "duration_ms": 1433426,
-      "name": "Ananda Nadamadum Tillai Sankara",
-      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2025-08-29 05:59:25",
@@ -1643,6 +1627,22 @@
       "duration_ms": 314000,
       "name": "Bhor Bhayi",
       "url": "https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2"
+    },
+    {
+      "added_at": "2025-08-29 05:59:25",
+      "album": {
+        "name": "Who's To Know - Indian Classical Music",
+        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
+      },
+      "artists": [
+        {
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
+        }
+      ],
+      "duration_ms": 1433426,
+      "name": "Ananda Nadamadum Tillai Sankara",
+      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2025-08-29 05:59:25",

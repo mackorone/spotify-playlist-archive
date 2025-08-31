@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Dante Bowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,901 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,946 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 |
 | 2 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
 | 3 | [Touched By Fire](https://open.spotify.com/track/6JICfyfPDtmUkl3wc0523z) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Made In The South](https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d) | 3:03 |
-| 4 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\) \[Spotify Only\]](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 |
+| 4 | [Still \(with Jamal Roberts\)](https://open.spotify.com/track/5Da2Lp145edSaxq5l5zDF7) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Still \(with Jamal Roberts\)](https://open.spotify.com/album/3oLll4slrA708yD4qwKbKl) | 7:58 |
 | 5 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |
 | 6 | [ABLE](https://open.spotify.com/track/4n87FlxzdkEHb7ywcubA9g) | [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [HEART OF MINE](https://open.spotify.com/album/63W5aLpnoN8952g4EYEDzF) | 4:47 |
 | 7 | [Rain](https://open.spotify.com/track/09ltlFkyREif6QKiKXJDvW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rain](https://open.spotify.com/album/3Oa1Fsz90HH7dZgxPQ5qGZ) | 5:15 |

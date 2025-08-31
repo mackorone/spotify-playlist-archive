@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 33675,
+  "num_followers": 33684,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV"
     },
     {
-      "added_at": "2025-08-07 10:21:40",
-      "album": {
-        "name": "EN D\u00d6ENDE PLANET",
-        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 243529,
-      "name": "EN D\u00d6ENDE PLANET",
-      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
-    },
-    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "En s\u00e5n h\u00e4r chans f\u00e5r man bara en g\u00e5ng i livet",
@@ -123,6 +107,22 @@
       "duration_ms": 175156,
       "name": "En s\u00e5n h\u00e4r chans f\u00e5r man bara en g\u00e5ng i livet",
       "url": "https://open.spotify.com/track/4c3g4uYQFyvfiNX7cWP24m"
+    },
+    {
+      "added_at": "2025-08-07 10:21:40",
+      "album": {
+        "name": "EN D\u00d6ENDE PLANET",
+        "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "EN D\u00d6ENDE PLANET",
+      "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Boulder Dash",
-        "url": "https://open.spotify.com/album/1rZebCDKD6CnEwQih6iAHl"
-      },
-      "artists": [
-        {
-          "name": "Korslagda Kukar",
-          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
-        }
-      ],
-      "duration_ms": 214167,
-      "name": "Boulder Dash",
-      "url": "https://open.spotify.com/track/6Pg9ifIvNc6yOyXuGJI7LA"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 109800,
       "name": "En slemmig torsk",
       "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Boulder Dash",
+        "url": "https://open.spotify.com/album/1rZebCDKD6CnEwQih6iAHl"
+      },
+      "artists": [
+        {
+          "name": "Korslagda Kukar",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+        }
+      ],
+      "duration_ms": 214167,
+      "name": "Boulder Dash",
+      "url": "https://open.spotify.com/track/6Pg9ifIvNc6yOyXuGJI7LA"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Risk p\u00e5 fyllan",
-        "url": "https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi"
+        "name": "Borgerlig begravning",
+        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rnarna",
-          "url": "https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y"
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
         }
       ],
-      "duration_ms": 177882,
-      "name": "Risk p\u00e5 fyllan",
-      "url": "https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN"
+      "duration_ms": 121510,
+      "name": "V\u00e4gra",
+      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
+        "name": "Risk p\u00e5 fyllan",
+        "url": "https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi"
       },
       "artists": [
         {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+          "name": "Bj\u00f6rnarna",
+          "url": "https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y"
         }
       ],
-      "duration_ms": 121510,
-      "name": "V\u00e4gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
+      "duration_ms": 177882,
+      "name": "Risk p\u00e5 fyllan",
+      "url": "https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 136068,
-      "name": "Martin I Skitlandet",
-      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Parasit",
         "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 152720,
       "name": "Parasit",
       "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 136068,
+      "name": "Martin I Skitlandet",
+      "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+        "name": "Fablernas V\u00e4rld",
+        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
       },
       "artists": [
         {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+          "name": "Riksv\u00e4g 51",
+          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
         }
       ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
+      "duration_ms": 152768,
+      "name": "Fablernas V\u00e4rld",
+      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -743,6 +743,22 @@
       "duration_ms": 78800,
       "name": "Jag vill bli som far",
       "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 155733,
       "name": "\u00c4gander\u00e4tt?",
       "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Fablernas V\u00e4rld",
-        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
-      },
-      "artists": [
-        {
-          "name": "Riksv\u00e4g 51",
-          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Fablernas V\u00e4rld",
-      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Bara skiten avtar",
-        "url": "https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm"
-      },
-      "artists": [
-        {
-          "name": "Norra Hospitalet",
-          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
-        }
-      ],
-      "duration_ms": 128345,
-      "name": "Tuffa tjejer",
-      "url": "https://open.spotify.com/track/68piTUx7iztTcalFvaXovc"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Bomb utan krut",
         "url": "https://open.spotify.com/album/01iMoiFsQIDJV67bOe82dD"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 164500,
       "name": "Bomb utan krut",
       "url": "https://open.spotify.com/track/7ofwvKzo8GTswhhxWFyNE4"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Bara skiten avtar",
+        "url": "https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "duration_ms": 128345,
+      "name": "Tuffa tjejer",
+      "url": "https://open.spotify.com/track/68piTUx7iztTcalFvaXovc"
     },
     {
       "added_at": "2024-08-29 22:00:00",

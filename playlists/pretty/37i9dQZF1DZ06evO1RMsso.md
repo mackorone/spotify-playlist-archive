@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,202 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,231 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 44 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
 | 45 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 
-Snapshot ID: `aK+cAAAAAADN6fnuKRrcms27woVz0EId`
+Snapshot ID: `aLDtgAAAAABGiLU9/PXId33SrG2ENJgr`

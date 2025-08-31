@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Bound2U",
+        "url": "https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176612,
+      "name": "Bound2U",
+      "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
+    },
+    {
+      "album": {
         "name": "Impeach My Bush",
         "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
       },
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 188080,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9"

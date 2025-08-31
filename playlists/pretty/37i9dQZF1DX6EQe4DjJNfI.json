@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 181365,
+  "num_followers": 181385,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "G\u00caMEOS EM G\u00caMEOS",
+        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "rela\u00e7\u00f5es superficiais",
+      "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Antes Que A Terra Acabe",
         "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 240522,
       "name": "Outono",
       "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "G\u00caMEOS EM G\u00caMEOS",
-        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "rela\u00e7\u00f5es superficiais",
-      "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -555,26 +571,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
       },
@@ -591,6 +587,26 @@
       "duration_ms": 166857,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -631,22 +647,6 @@
       "duration_ms": 261144,
       "name": "Sonhei com Voc\u00ea",
       "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 151475,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2025-08-25 19:42:35",
-      "album": {
         "name": "TRATO",
         "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2025-08-25 19:42:35",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2025-08-25 19:42:35",
@@ -1247,6 +1231,22 @@
       "duration_ms": 120000,
       "name": "Melanina",
       "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+    },
+    {
+      "added_at": "2025-08-25 19:42:35",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2025-08-25 19:42:35",

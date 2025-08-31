@@ -2,7 +2,7 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from Sabrina Carpenter, Stromae, Sylvie Kreusch, Snelle and more...
+> New music from Sabrina Carpenter, Stromae, Sylvie Kreusch and more...
 
 6,081 songs - 13 day 9 hr 15 min
 
@@ -3943,7 +3943,7 @@
 | [Onzekerheden](https://open.spotify.com/track/5GX8Dvdlgw29cBgXVckN5G) | [Yung Mutte](https://open.spotify.com/artist/3nlA8oiwhpvkZ2GkozXcaU) | [Onzekerheden](https://open.spotify.com/album/57flbnwgUGDv2UFaLYWlVI) | 2:11 | 2024-11-15 | 2024-11-22 |
 | [Ooh Little Mama](https://open.spotify.com/track/2CkGtpbpLJ8AjnGjByLGRj) | [GLINTSAL](https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Glints](https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta) | [GLINTSAL \(VOL\. 1\)](https://open.spotify.com/album/5tX11QRlcJh6oyYVTejrjg) | 3:32 | 2024-10-17 | 2024-10-25 |
 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 | 2025-08-07 | 2025-08-15 |
-| [Oost West Thuis Best](https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Oost West Thuis Best](https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya) | 2:50 | 2025-08-28 |  |
+| [Oost West Thuis Best](https://open.spotify.com/track/1IKPpNQOoyvgrycSKB3Wy3) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Oost West Thuis Best](https://open.spotify.com/album/2xseLpSW6QIfvmXtRlMFya) | 2:50 | 2025-08-28 | 2025-08-31 |
 | [Oostende](https://open.spotify.com/track/4Dda1NZjaI18UmDB58xyFs) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Oostende](https://open.spotify.com/album/6oZqXbfnvW2eqAIdWU7yeI) | 2:58 | 2025-06-12 | 2025-06-20 |
 | [OP](https://open.spotify.com/track/14L3efh5iLPPo73IwtY9j4) | [A.K.B.](https://open.spotify.com/artist/6z5aE1ggQc0SimXLqzUWqV) | [OP](https://open.spotify.com/album/24KuMqSy5ZnDRWtJEt4FuZ) | 3:12 | 2024-10-17 | 2024-10-25 |
 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/53yBDMhEF2ZXcpYLUzmnwU) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/6GOAOPAN78GQt9N3DEbkwl) | 3:52 | 2024-05-02 | 2024-05-10 |

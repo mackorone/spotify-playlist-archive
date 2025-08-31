@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 10709,
+  "num_followers": 10711,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAD1//9UYBLJUr5HwjPr3tby",
+  "snapshot_id": "aLDtgAAAAABbUxDD69LC57275c8NbWoN",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Games",
-        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196097,
-      "name": "War Games",
-      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Rhythm",
         "url": "https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 206695,
       "name": "Somewhere (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0iKgYHKMDci0gpwjRzfiPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War Games",
+        "url": "https://open.spotify.com/album/4oKjK6XhlZS7zOodd2Am2X"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196097,
+      "name": "War Games",
+      "url": "https://open.spotify.com/track/2l2XifQktrsMK4pDoh8W5e"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "brick by brick",
-      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 166649,
       "name": "Wild Enough",
       "url": "https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
     }
   ],
   "unique_name": "This Is Joy Oladokun",

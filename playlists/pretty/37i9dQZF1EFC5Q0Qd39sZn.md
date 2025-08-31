@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,229 likes - 571 songs - 1 day 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,231 likes - 571 songs - 1 day 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,9 +354,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 344 | [If You Need Somebody Tonight](https://open.spotify.com/track/6zAzkVXskqdvRWwvrfnV0x) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [I Stand Alone](https://open.spotify.com/album/38brv75fH38KBYxhXZelqc) | 3:32 |
 | 345 | [Get Used To Me](https://open.spotify.com/track/3gZmeRaZOoooNWqfqKR0GO) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [The Sapphires](https://open.spotify.com/album/3Bz3Kq37DkcJJT6JQCbWyA) | 3:16 |
 | 346 | [Time Stand Still \(feat\. Kiara Sasso\) \- Ao Vivo](https://open.spotify.com/track/1QvRz7oDgrWHiretTburFX) | [Daniel Boaventura](https://open.spotify.com/artist/6zhFFESLaKmtRCQ1VVi3kw), [Kiara Sasso](https://open.spotify.com/artist/4BsQ1RsulvNRosBibZeTY5) | [Your Song \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4Mi7oqkGF1vsixn6zry7eI) | 3:57 |
-| 347 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 |
+| 347 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
 | 348 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
-| 349 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 349 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 |
 | 350 | [Let's Start with Forever](https://open.spotify.com/track/1L7jyNfFhAaBMyyugmL7Kw) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Time and Chance](https://open.spotify.com/album/5jxSoZ69jIYIPovvbXBgb9) | 4:28 |
 | 351 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 |
 | 352 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 571 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab606gAAAABGmVlMnDGFW2NVR8oIaHMJ`
+Snapshot ID: `Ab66vAAAAABh0N1ue8T/hhkBPARCig7V`

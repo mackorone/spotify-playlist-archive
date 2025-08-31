@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8423,
+  "num_followers": 8436,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADA64MorktFa3QGQhvt9/AT",
+  "snapshot_id": "aLDtgAAAAAAXG7X3GOu+mdRF4uwPh5vL",
   "tracks": [
     {
       "added_at": null,
@@ -31,8 +31,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 200061,
       "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/5U6rulJvT2kOzG2WY98G4Y"
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": null,
@@ -59,6 +59,22 @@
       "duration_ms": 193843,
       "name": "Mami",
       "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7"
     },
     {
       "added_at": null,
@@ -91,22 +107,6 @@
       "duration_ms": 139894,
       "name": "NO TE HUBIERA BESADO",
       "url": "https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/2UmIxJCmMOWSqua4YXG1o7"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 178000,
-      "name": "J\u00c1LATE CONMIGO",
-      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
+      "duration_ms": 144700,
+      "name": "ME TIENES LOCO",
+      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
     },
     {
       "added_at": null,
@@ -568,9 +568,25 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 144700,
-      "name": "ME TIENES LOCO",
-      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
+      "duration_ms": 178000,
+      "name": "J\u00c1LATE CONMIGO",
+      "url": "https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 140755,
+      "name": "Una Noche Nomas",
+      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
     },
     {
       "added_at": null,
@@ -619,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 199857,
+      "name": "PERD\u00d3NAME",
+      "url": "https://open.spotify.com/track/7wy0jlsLAj66YsOqpxK6jX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 203416,
       "name": "Esto Avanza",
       "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 199857,
-      "name": "PERD\u00d3NAME",
-      "url": "https://open.spotify.com/track/7wy0jlsLAj66YsOqpxK6jX"
     },
     {
       "added_at": null,
@@ -691,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143132,
+      "name": "HASTA EL FONDO",
+      "url": "https://open.spotify.com/track/6Dj96onw1xh18NAsc8l3GY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 201750,
       "name": "48 Horas",
       "url": "https://open.spotify.com/track/64LyZmq9ovBu6GrDOhtf2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 143132,
-      "name": "HASTA EL FONDO",
-      "url": "https://open.spotify.com/track/6Dj96onw1xh18NAsc8l3GY"
     },
     {
       "added_at": null,
@@ -756,25 +772,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 146688,
-      "name": "Mejor Que Tu Ex",
-      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Era Mia",
-        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Era Mia",
-      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
+      "duration_ms": 185941,
+      "name": "En Ti Pensando",
+      "url": "https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": null,
@@ -840,15 +840,15 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 219939,
-      "name": "Duele Saber",
-      "url": "https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF"
+      "duration_ms": 146688,
+      "name": "Mejor Que Tu Ex",
+      "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Soy Aquel",
-      "url": "https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a"
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 185941,
-      "name": "En Ti Pensando",
-      "url": "https://open.spotify.com/track/73HfMf0c93AZMEfY8udH6f"
+      "duration_ms": 219939,
+      "name": "Duele Saber",
+      "url": "https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 330 songs - 18 hr 44 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 331 songs - 18 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,5 +338,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 328 | [Ma Chérie](https://open.spotify.com/track/2O4LWfEyyuOl4QYXzycM0r) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Ma Chérie](https://open.spotify.com/album/0R46cDVpHKEJn5VkVnjpEN) | 5:23 |
 | 329 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 |
 | 330 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 |
+| 331 | [kyu\-kurarin](https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk) | 3:37 |
 
-Snapshot ID: `AAAJPemK41fJVzFyhsg6kgtwEpZiK0OY`
+Snapshot ID: `AAAJPgTkJ8+ZyXTu14asUDKceahGRoBg`

@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=fCPfMM0RQayIrooGg2pkQg">Cairo CPT</a>
+> From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt?si=exvkccV6TkG5\_Gx2ucLnIA">Djknator </a>
 
-494 songs - 1 day 19 hr 51 min
+496 songs - 1 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Asteroid](https://open.spotify.com/track/0yfxkxCDYRvYgeVnONPnoU) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Double Impact](https://open.spotify.com/album/1xKN6gKx9T1NI0WpQXX1eG) | 6:17 | 2022-07-28 | 2022-11-08 |
 | [ATE](https://open.spotify.com/track/2L6GRLwvJJpQ0wWqEoDI3v) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [Aries Rose](https://open.spotify.com/artist/18MjyoHifvEC3g6yfSPeH4) | [ATE](https://open.spotify.com/album/0N9eUFN5xE08Hp35Eovxy6) | 4:06 | 2025-02-06 | 2025-02-21 |
 | [Atlanta](https://open.spotify.com/track/6lKvGAoHwevBamSrULaI2P) | [DJ TKM](https://open.spotify.com/artist/3orBASckH0kWd1FrlqlJvY) | [Atlanta](https://open.spotify.com/album/1E8XVG8kYfGy3kneUMb0SG) | 3:37 | 2025-06-19 | 2025-07-11 |
+| [Audionic \(feat\. Onyomarc\)](https://open.spotify.com/track/6uZVWCEnMvFhjqz5cJWvYh) | [Djknator](https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt), [Onyomarc](https://open.spotify.com/artist/6tsvMSYgfcHE8iyUBLwo58) | [Gqomlicious](https://open.spotify.com/album/6U2MpLapl3RQea4l9dlEJA) | 4:46 | 2025-08-29 |  |
 | [Aw Kodwa Loyiso \- Gqom Remake](https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc) | [Aw Kodwa Loyiso \(Gqom Remake\)](https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR) | 4:24 | 2025-01-16 |  |
 | [Aw Kodwa Loyiso \- Gqom Remix](https://open.spotify.com/track/08i589irYQI90vWfi0OH1S) | [Deejay Zebra SA](https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG), [Niseni](https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J), [Pro\-Tee](https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc), [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Gallo](https://open.spotify.com/artist/1zUaJeccYKnLv0R4O0YGK9) | [Aw Kodwa Loyiso \(Gqom Remix\)](https://open.spotify.com/album/43PNcQZUnfSmKyad1SgFaT) | 4:24 | 2025-01-16 | 2025-02-07 |
 | [Azikhale](https://open.spotify.com/track/2gDmNSk15mcSBYGd0GnyO1) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Road Trip](https://open.spotify.com/album/5AzXeukxvO8Wb1vMMY4v58) | 5:08 | 2022-06-30 | 2023-05-26 |
@@ -467,6 +468,7 @@
 | [Vula Vala](https://open.spotify.com/track/6xuiv7HNZfVY6CYOWrZ7P4) | [SIGGBOYZ](https://open.spotify.com/artist/4sxQjA56Xuyx5EdvZc5dyz), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Leemckrazy](https://open.spotify.com/artist/3wFj62BCd6jN5ji1uuiVpY) | [Vula Vala](https://open.spotify.com/album/4x2zNhHMomZKskJYrfZHjO) | 3:41 | 2025-03-27 | 2025-04-23 |
 | [Vulela](https://open.spotify.com/track/7m5c7Wl9rmvRBisoHdrARf) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC) | [Gqom On Fire](https://open.spotify.com/album/07dyXTLwr6BiwNoMufeoeM) | 4:36 | 2025-05-22 | 2025-06-20 |
 | [Vutha](https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD) | [Sphectacula and DJ Naves](https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Emza](https://open.spotify.com/artist/7c8DG0zrFEybxnKiBgd6iN), [Rude Boyz](https://open.spotify.com/artist/0qsPnUBg1EgGeGaXSLeO3n) | [Vutha](https://open.spotify.com/album/4rGWCrkgsLM61OiRmRhrmd) | 4:40 | 2022-11-07 | 2023-08-25 |
+| [Vutha \(feat\. Lavyjanda & Licious\)](https://open.spotify.com/track/2YYuDBKHKjZtAUuobsqtdN) | [Static Que](https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ), [Lavyjanda](https://open.spotify.com/artist/4ADJsBYbCWl3xxn86FayxN), [Licious](https://open.spotify.com/artist/5CBC06FD1wKSlSExfXzD9M) | [Vutha \(Package\)](https://open.spotify.com/album/6D9ZgdNnu4SUtwU9xnsAJG) | 6:36 | 2025-08-29 |  |
 | [WASSA](https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Formation Boyz](https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm) | [WASSA](https://open.spotify.com/album/5GB53dYIw2kYHKuDGvMV0W) | 3:22 | 2025-01-30 | 2025-02-28 |
 | [Wayethe Soze Andigowise](https://open.spotify.com/track/2LZKe030Kd7AVFn4PTcqZL) | [Jabs CPT](https://open.spotify.com/artist/3pf4xkWn1Wcda9iuAaXavv) | [Wayethe Soze Andigowise](https://open.spotify.com/album/4G7vT5MN6Iupisi4pDsYM8) | 5:25 | 2024-11-28 | 2025-01-17 |
 | [WDPTSG](https://open.spotify.com/track/2O5bseXpzslzyL3RLbUivi) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [WDPTSG EP](https://open.spotify.com/album/5Xx0oJcyrEYhhw58ISWru1) | 5:04 | 2023-08-24 | 2025-01-24 |

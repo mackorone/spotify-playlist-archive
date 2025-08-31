@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADliYHOCI62Odsm48SAJybc",
+  "snapshot_id": "aLDtgAAAAAC3yUOf4iGOkD9lID1caNgk",
   "tracks": [
     {
       "added_at": null,
@@ -267,30 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Se Move",
-        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341717,
-      "name": "Ele Se Move",
-      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Milagre Sou Eu",
         "url": "https://open.spotify.com/album/7g8BLM7W9A6uzvapx0IcjF"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 246013,
       "name": "O Milagre Sou Eu",
       "url": "https://open.spotify.com/track/4OrQaYo5LtcNlHMBntcyf7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
     },
     {
       "added_at": null,
@@ -963,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Existe Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 326263,
-      "name": "Existe Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
+      "duration_ms": 328051,
+      "name": "Basta um Olhar",
+      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
     },
     {
       "added_at": null,
@@ -1007,18 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+        "name": "Existe Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 328051,
-      "name": "Basta um Olhar",
-      "url": "https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3"
+      "duration_ms": 326263,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
     },
     {
       "added_at": null,

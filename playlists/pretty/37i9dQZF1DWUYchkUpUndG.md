@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 ### [Fresh Gospel Africa](https://open.spotify.com/playlist/37i9dQZF1DWUYchkUpUndG)
 
-> Discover new christian and gospel music\. Cover:  Folabi Nuel
+> Discover new christian and gospel music\. Cover:  Tim Godfrey
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,234 likes - 95 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,241 likes - 95 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 94 | [REMEDY](https://open.spotify.com/track/2a0PbVqpR87tU5vStOSxJv) | [Lexytunez](https://open.spotify.com/artist/3cQf5vzaEewWKBfypDLKrv) | [REMEDY](https://open.spotify.com/album/2v4lcMeQQqfQmh0tjDD9Mj) | 2:59 |
 | 95 | [T.F.O II \(Talaba Fi Owe\)](https://open.spotify.com/track/3cjx4eaW8uBV3OX9lX51yM) | [Dabo Williams](https://open.spotify.com/artist/2b1gzVa6dmkHEXKPCLOCHY), [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7) | [T.F.O II \(Talaba Fi Owe\)](https://open.spotify.com/album/6XY8RX4bxxlJvqVDgqiPyU) | 4:18 |
 
-Snapshot ID: `AAAAAPgtVHui1ISckrAQxnfPl50bQO30`
+Snapshot ID: `AAAAAB4w9E0o9bP+iskugja0rmOPsfKG`

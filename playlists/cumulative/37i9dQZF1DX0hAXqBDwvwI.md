@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-799 songs - 2 day 3 hr 49 min
+800 songs - 2 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [KISS OF DEATH\(Produced by HYDE\)](https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華15周年記念ベスト盤 BIBLE](https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO) | 4:10 | 2022-07-28 | 2022-10-19 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 | 2022-10-19 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-15 | 2022-10-19 |
+| [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 | 2025-08-07 |  |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2022-07-28 | 2024-04-19 |
 | [LEADER](https://open.spotify.com/track/7aL1ICSO4JYdRzQcxQ96lz) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [LEADER](https://open.spotify.com/album/25OW9AC6DkJlE2fD6uTLyn) | 4:05 | 2022-06-03 | 2022-07-11 |
 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 | 2023-05-12 | 2024-01-10 |
@@ -623,7 +624,7 @@
 | [君の知らない物語](https://open.spotify.com/track/4uGT6MUZagSKZ8ERNhR7Qw) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/4VeIR3f3yaDcMOnknO4LRC) | 5:39 | 2022-07-14 | 2022-07-22 |
 | [命の灯火](https://open.spotify.com/track/5AH3OpbMYGS983Yj5BlhTQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「ディープインサニティ ザ・ロストチャイルド」オープニングテーマ「命の灯火」](https://open.spotify.com/album/2K4f6h2Qh4Fgd30C944ivW) | 3:42 | 2022-06-14 | 2022-07-28 |
 | [命ノ証](https://open.spotify.com/track/2siPX9kyOPMaMUZAGtCfPK) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [命ノ証](https://open.spotify.com/album/2ycCJObN5Df1kYvEnGAATW) | 3:18 | 2022-06-03 | 2022-07-26 |
-| [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-07-26 |  |
+| [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-07-26 | 2025-08-31 |
 | [嘘](https://open.spotify.com/track/4HVmyH7lnGpaikr4XN0nS5) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [SID Anime Best 2008\-2017](https://open.spotify.com/album/2q9HhhZYE5VDNFXhDlP1gG) | 3:25 | 2022-06-14 | 2022-07-19 |
 | [嘘](https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy) | 3:25 | 2022-07-28 | 2022-10-19 |
 | [嘘](https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [hikari](https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK) | 3:25 | 2024-01-09 | 2024-04-19 |

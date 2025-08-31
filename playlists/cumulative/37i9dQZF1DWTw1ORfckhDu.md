@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯  Kannessa SHRTY ja Turisti.
+> Lepää rauhassa Ex Tuuttiz.
 
-982 songs - 1 day 22 hr 38 min
+983 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Kuka Siin Netis On](https://open.spotify.com/track/0NDi2CgFxwY78d1CcVxzBw) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Kuka Siin Netis On](https://open.spotify.com/album/3W3kB0jPZKAmAWGld8YBOG) | 2:37 | 2025-01-30 | 2025-04-11 |
 | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/track/1bntOGbJGOjhjI7anyfzHx) | [LILBRO](https://open.spotify.com/artist/1PIujpIZmCo918lfPJfn3w), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Kukaan muu \(feat\. Joe L\)](https://open.spotify.com/album/1SRtKVGt9rHBDa3jxdAR7N) | 2:47 | 2025-06-26 |  |
 | [Kukkulan kunkku \(feat\. Turisti\)](https://open.spotify.com/track/2kvDmllGIEDtWdNx6QucGx) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kukkulan kunkku \(feat\. Turisti\)](https://open.spotify.com/album/1cKEoXSMC1ospYr75r7QGE) | 2:46 | 2025-04-17 | 2025-08-23 |
+| [Kultainen linna](https://open.spotify.com/track/317WlwcAFHTwTV7HXrkUwC) | [Ex Tuuttiz](https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A) | [Kromihammas](https://open.spotify.com/album/6kO7EyJraQZnSFbt0gpwId) | 3:38 | 2025-08-30 |  |
 | [Kummitusjuna](https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Kummitusjuna](https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX) | 2:56 | 2025-08-21 |  |
 | [KUOLEMATON](https://open.spotify.com/track/7nTx12Fpr61t8Y6ykd5AmK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [KUOLEMATON / ROTTA \(feat\. ibe\)](https://open.spotify.com/album/2tRQChArCEBOyEP8vEm36r) | 2:49 | 2025-04-10 | 2025-05-23 |
 | [Kuori mua](https://open.spotify.com/track/4PHX33QcAtlyaPSvOJsV22) | [Sini Sabotage](https://open.spotify.com/artist/6zOyQHK37vQX62CFowxvWc) | [Kuori mua](https://open.spotify.com/album/64FEvZvuyPxg3y4tzcMi7e) | 2:55 | 2024-01-17 | 2024-03-01 |

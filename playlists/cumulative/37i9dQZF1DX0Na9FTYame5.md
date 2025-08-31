@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Kane
 
-263 songs - 11 hr 53 min
+265 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-08-28 |  |
 | [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 |  |
 | [Eintausend Farben](https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Eintausend Farben](https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ) | 2:36 | 2025-08-07 |  |
-| [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 |  |
+| [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 | 2025-08-31 |
 | [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
 | [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 | 2024-10-13 |
@@ -148,7 +148,7 @@
 | [Liebe ist ein Dieb](https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Liebe ist ein Dieb](https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW) | 3:11 | 2024-06-28 |  |
 | [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-24 | 2025-05-16 |
 | [Liebst du mich](https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Liebst du mich](https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd) | 2:57 | 2024-06-28 | 2025-01-19 |
-| [Ljubim te](https://open.spotify.com/track/5eei53cPg1Q8m3LMuO3ydu) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ljubim te](https://open.spotify.com/album/2zzuR8Lo7vAQa1BIOv56dt) | 2:05 | 2025-08-07 |  |
+| [Ljubim te](https://open.spotify.com/track/5eei53cPg1Q8m3LMuO3ydu) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ljubim te](https://open.spotify.com/album/2zzuR8Lo7vAQa1BIOv56dt) | 2:05 | 2025-08-07 | 2025-08-31 |
 | [Loser](https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Loser](https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu) | 3:36 | 2024-06-28 |  |
 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-07-03 |  |
 | [LOVEBOMB](https://open.spotify.com/track/24KU81wN6PtnKs6SXktFHP) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LOVEBOMB](https://open.spotify.com/album/2PbtxsIx0WXfhCJYBKDjHE) | 2:32 | 2024-08-12 |  |
@@ -170,6 +170,7 @@
 | [Mitten im Leben](https://open.spotify.com/track/4lrMjKFODnG1w3RObnHEYc) | [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Mitten im Leben](https://open.spotify.com/album/5Aux7ZXF6u4siHoFvy3k6q) | 2:03 | 2025-08-14 |  |
 | [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 | 2024-09-02 |
 | [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 | 2025-08-20 |
+| [Monster](https://open.spotify.com/track/6Cg5DRA6kHhpEYaoNGHwP6) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Monster](https://open.spotify.com/album/1c1qW3rQsXJ8EpM11NMjsb) | 2:35 | 2025-08-28 |  |
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 | 2024-09-10 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |
@@ -214,6 +215,7 @@
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
 | [Siehst du's auch so](https://open.spotify.com/track/6GFGIBvEfBama5eAcjvfyi) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Siehst du's auch so](https://open.spotify.com/album/4GSPITkPHjJjEMVmHZWjGW) | 2:44 | 2025-04-24 |  |
+| [Simpel](https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Simpel](https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL) | 2:43 | 2025-08-28 |  |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-11-11 |
 | [So leer](https://open.spotify.com/track/30mDIBxU7Jq9eoNZFrOPzU) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [So leer](https://open.spotify.com/album/3bCuTLn5zfUq3Zj1RsXSuf) | 2:18 | 2025-07-03 | 2025-08-29 |
 | [So wie du](https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [So wie du](https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh) | 2:32 | 2024-06-28 | 2025-07-25 |

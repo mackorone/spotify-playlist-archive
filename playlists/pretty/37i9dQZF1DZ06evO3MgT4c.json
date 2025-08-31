@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 436571,
+  "num_followers": 436576,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABGyEZC4En+dHqJwvdD5mKq",
+  "snapshot_id": "aLDtgAAAAABgAB/k60f2rTZs6Kbs5QOA",
   "tracks": [
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 144938,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is You Ready (From \"Mile 22\")",
         "url": "https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 184276,
       "name": "Is You Ready - From \"Mile 22\"",
       "url": "https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 144938,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS"
     },
     {
       "added_at": null,

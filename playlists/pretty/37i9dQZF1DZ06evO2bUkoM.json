@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49438,
+  "num_followers": 49440,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAB2ONeZ0ldjEF8VGDzQ+bCu",
+  "snapshot_id": "aLDtgAAAAAAi4lndfL7AjHtexOxjpWHk",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 189898,
       "name": "deep in the woods",
       "url": "https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 189872,
-      "name": "Better Than Love",
-      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
+      "duration_ms": 207617,
+      "name": "Rich Youth",
+      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 207617,
-      "name": "Rich Youth",
-      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
+      "duration_ms": 189872,
+      "name": "Better Than Love",
+      "url": "https://open.spotify.com/track/3ypI3OKQuqL4LxyXB04zHg"
     },
     {
       "added_at": null,

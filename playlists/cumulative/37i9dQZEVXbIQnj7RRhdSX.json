@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 140816,
       "name": "a me mi piace (feat. Manu Chao)",
       "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
@@ -4668,7 +4668,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -16300,6 +16300,28 @@
       "duration_ms": 146285,
       "name": "EVIL TWINS 2 (feat. Melons, Faneto)",
       "url": "https://open.spotify.com/track/2YfUju1GypSwoPThG77IYx"
+    },
+    {
+      "album": {
+        "name": "Ex (feat. Elodie)",
+        "url": "https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184981,
+      "name": "Ex (feat. Elodie)",
+      "url": "https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY"
     },
     {
       "album": {
@@ -29486,7 +29508,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 155307,
       "name": "Maledetta Rabbia",
       "url": "https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt"
@@ -31582,7 +31604,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 245853,
       "name": "Miami Vice (feat. Sfera Ebbasta, Simba La Rue)",
       "url": "https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE"
@@ -32960,6 +32982,24 @@
       "duration_ms": 172538,
       "name": "Moneylove (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3"
+    },
+    {
+      "album": {
+        "name": "MONEYMAKER",
+        "url": "https://open.spotify.com/album/79aSobm4X6ruiCM79AWE1j"
+      },
+      "artists": [
+        {
+          "name": "Garcia",
+          "url": "https://open.spotify.com/artist/1aIPO26FAWfQWNqzolldxh"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "MONEYMAKER",
+      "url": "https://open.spotify.com/track/72HJ4owxCzxe3ph68cxO6G"
     },
     {
       "album": {
@@ -41096,7 +41136,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 161432,
       "name": "Qualcosa di grande",
       "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
@@ -41416,6 +41456,28 @@
       "duration_ms": 210366,
       "name": "Quello Che Manca (con Rkomi)",
       "url": "https://open.spotify.com/track/56YZNYnzdsXTZiWttI6BfQ"
+    },
+    {
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/1R9yzLNi4GMkQSRwtiptjc"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216098,
+      "name": "Questa domenica",
+      "url": "https://open.spotify.com/track/7K4ny4ARBDr5z7ftcAzi6i"
     },
     {
       "album": {
@@ -48554,6 +48616,24 @@
       "duration_ms": 163624,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6wIcKY5pAYyhaVXQ8FCCZy"
+    },
+    {
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "album": {

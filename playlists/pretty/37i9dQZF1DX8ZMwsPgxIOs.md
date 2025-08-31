@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown, GeezLy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,624 likes - 130 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,623 likes - 130 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

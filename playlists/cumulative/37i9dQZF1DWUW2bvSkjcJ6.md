@@ -4,7 +4,7 @@
 
 > Neue Musik von Sabrina Carpenter, Apache 207, Topic, Fireboy DML, Nico Santos, und mehr!
 
-6,057 songs - 12 day 8 hr 47 min
+6,060 songs - 12 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1651,6 +1651,7 @@
 | [Everybody Samba](https://open.spotify.com/track/1G5ZA0MT8EZjiDbFx9ukEG) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [Everybody Samba](https://open.spotify.com/album/4qyRrD07fLrQyNov1Lxs8X) | 2:34 | 2024-05-16 | 2024-05-24 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-22 | 2025-08-29 |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-04-03 | 2025-04-11 |
+| [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 | 2025-08-29 |  |
 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-02 | 2025-01-10 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-16 | 2025-01-24 |
 | [Everything Goes With Blue \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:10 | 2025-06-12 | 2025-06-20 |
@@ -3012,6 +3013,7 @@
 | [Kotti d'Azur](https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Kotti d'Azur](https://open.spotify.com/album/70K6Hp3TXk8gAgabJFtcPB) | 2:43 | 2025-07-31 | 2025-08-08 |
 | [Krankenhaus](https://open.spotify.com/track/1v2w2FIY8uDK3mdrcgPLAK) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [Krankenhaus](https://open.spotify.com/album/1QnpcxeNRzsNGWkR2HEyYk) | 2:38 | 2024-09-26 | 2024-10-04 |
 | [Krass dass du noch da bist](https://open.spotify.com/track/7JtI3TJQ4ofGj6uOuzgpYG) | [TOCHTER](https://open.spotify.com/artist/3ygi0RTsXTi7zPVp5Be9fR), [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Krass dass du noch da bist](https://open.spotify.com/album/4OPVu6L9hsmXUiWcTx1HyY) | 3:08 | 2025-06-19 | 2025-06-27 |
+| [Kratzer im Lack](https://open.spotify.com/track/792ngQE00Q3U6BWzRX5zZB) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Kratzer im Lack](https://open.spotify.com/album/1KseR7fgmDEDT72VQaZQ1p) | 2:45 | 2025-08-29 |  |
 | [Kreislauf](https://open.spotify.com/track/7lswBD5MqA6skQ8GqF5NIE) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Kreislauf](https://open.spotify.com/album/16ep6MA5PAcoJYeA6TFq07) | 3:27 | 2024-04-26 | 2024-05-03 |
 | [Krieg mit mir selbst](https://open.spotify.com/track/4m0C0QGUN3ntqqMT4IcFM8) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0), [Megaloh](https://open.spotify.com/artist/0Ii48btR8aaP4vFNUG2dSv) | [Krieg mit mir selbst](https://open.spotify.com/album/7sn0gSgKzLUfC9k8vVlaEZ) | 3:20 | 2024-06-27 | 2024-07-05 |
 | [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 | 2025-07-24 | 2025-08-01 |
@@ -3248,6 +3250,7 @@
 | [Locked Feelings](https://open.spotify.com/track/0tnz29LX1tBXLpitkFyrAs) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [Locked Feelings](https://open.spotify.com/album/18AT618SeJoOLJ1hr2C5kG) | 2:51 | 2024-11-14 | 2024-11-22 |
 | [LOCKEN & ASICS](https://open.spotify.com/track/6p27ZnDVGANv0TN7gF7LUh) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [LOCKEN & ASICS](https://open.spotify.com/album/5xgIat5LzFFcmblzMJXdnE) | 2:19 | 2025-05-01 | 2025-05-10 |
 | [Loja](https://open.spotify.com/track/7vuYpCUEnhtwwPAxthzQKl) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Loja](https://open.spotify.com/album/6y0EGMa17xqqfas3HXqWzw) | 2:07 | 2024-07-18 | 2024-07-27 |
+| [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 | 2025-08-29 |  |
 | [London's Calling](https://open.spotify.com/track/0mUTOo5ZWhxWfWE68I0COt) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [London's Calling](https://open.spotify.com/album/5ZjHN7anVFMnDCP4Rx06aO) | 2:51 | 2025-03-20 | 2025-03-28 |
 | [Lonely](https://open.spotify.com/track/1L7RceRN2pSsthEXB3cZQi) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Becky Sikasa](https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ) | [Lonely](https://open.spotify.com/album/4pF0teE2sWG9PU5NyFidN4) | 2:09 | 2024-10-17 | 2024-10-25 |
 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 | 2024-06-28 | 2024-07-05 |

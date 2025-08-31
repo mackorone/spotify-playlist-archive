@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 433415,
+  "num_followers": 433648,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Konye",
+        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 164754,
+      "name": "Konye",
+      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Konye",
-        "url": "https://open.spotify.com/album/5oFI4EwwA2PTziier9QY8z"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 164754,
-      "name": "Konye",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "I Feel",
         "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
       },
@@ -1211,42 +1227,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
       },
       "artists": [
         {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         }
       ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Day 'N' Nite",
-        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Badjack",
-          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
-        },
-        {
-          "name": "Acid Boyz",
-          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Day 'N' Nite",
-      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
+      "duration_ms": 201235,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1275,18 +1267,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3khKaLL2SaCzw9UyvsLh5u"
+        "name": "Day 'N' Nite",
+        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Acid Boyz",
+          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
         }
       ],
-      "duration_ms": 201235,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/7bqTk1RRfajEw5fJf3CooS"
+      "duration_ms": 133000,
+      "name": "Day 'N' Nite",
+      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1667,22 +1667,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Late At Night",
-        "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
+        "name": "Jump Jump Jump",
+        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Late At Night",
-      "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
+      "duration_ms": 159473,
+      "name": "Jump Jump Jump",
+      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1735,26 +1739,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jump Jump Jump",
-        "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         }
       ],
-      "duration_ms": 159473,
-      "name": "Jump Jump Jump",
-      "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+      "duration_ms": 156400,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
     },
     {
       "added_at": "2025-06-26 22:00:24",

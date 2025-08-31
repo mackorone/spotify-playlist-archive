@@ -4,11 +4,11 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 55 min
+72 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 | 2025-03-15 |  |
+| ['Bout To Lose It](https://open.spotify.com/track/3ojjRvP2OTPp8PM4zNYQto) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | ['Bout To Lose It](https://open.spotify.com/album/7I94vpfWpgoqTGU7V20GY5) | 3:41 | 2025-03-15 | 2025-08-31 |
 | [11:11](https://open.spotify.com/track/2Uz3IrR8c3ay9mnk3IPk4B) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 4:04 | 2022-09-16 | 2022-11-18 |
 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2022-11-17 |  |
 | [Anxiety Trip](https://open.spotify.com/track/10S4dYhylLT9ant8pjwJ0y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:40 | 2022-09-19 | 2022-10-08 |
@@ -43,7 +43,7 @@
 | [Heather](https://open.spotify.com/track/3LrARCc1bfCx0IM83mFpmJ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:55 | 2022-09-16 | 2022-11-18 |
 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 | 2022-09-16 |  |
 | [Hey You](https://open.spotify.com/track/3q9ztoncWzO58rJsadhUfi) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:37 | 2022-09-16 | 2022-11-07 |
-| [I Don't Love Nothing And Nothing Loves Me](https://open.spotify.com/track/6Lhnj7aQpiBRKtWatbmMEm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:00 | 2025-08-24 |  |
+| [I Don't Love Nothing And Nothing Loves Me](https://open.spotify.com/track/6Lhnj7aQpiBRKtWatbmMEm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:00 | 2025-08-24 | 2025-08-31 |
 | [I've Felt Better](https://open.spotify.com/track/39ybOUF3YmjGDdHsk8EqtN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 2:53 | 2025-08-24 |  |
 | [In My Room](https://open.spotify.com/track/1ax2C3KOkZSbmvHJMJrEPh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/582YI5j1QSyYKquXe641zi) | 3:16 | 2022-09-16 | 2022-12-22 |
 | [In My Room](https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:16 | 2022-12-21 |  |
@@ -53,7 +53,8 @@
 | [Love's The Worst](https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Love's The Worst](https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC) | 2:47 | 2025-07-19 |  |
 | [Might as Well](https://open.spotify.com/track/4in6QMzkh6nljWeECsxBNx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:53 | 2022-10-11 | 2022-10-13 |
 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 | 2022-09-16 |  |
-| [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 | 2025-04-12 |  |
+| [My Way](https://open.spotify.com/track/0HELTZyVi4APXu85RtVGfn) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [My Way](https://open.spotify.com/album/1Rs26b0YSzU5phBWVVwkL1) | 3:24 | 2025-04-12 | 2025-08-31 |
+| [My Way](https://open.spotify.com/track/0SaK0ipZhNK904aYpqh2bh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:24 | 2025-08-31 |  |
 | [Nature Nurture](https://open.spotify.com/track/72slug0XL3C5Xq2PWCWzxt) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 4:14 | 2022-09-16 | 2022-10-13 |
 | [Never That Together](https://open.spotify.com/track/76gUncyZyZY47TMtyLByv3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 2:46 | 2022-10-10 |  |
 | [Nothing Personal](https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:43 | 2022-11-16 |  |

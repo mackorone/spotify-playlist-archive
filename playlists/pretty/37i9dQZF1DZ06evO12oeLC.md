@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,801 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,809 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 5 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 |
 | 6 | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm) | 2:56 |
 | 7 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
-| 8 | [Nudes](https://open.spotify.com/track/71J6q9BTYhMT4JOjcH9ea1) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Bleu](https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN) | 3:19 |
+| 8 | [Wine](https://open.spotify.com/track/37qgtEIrjqThh27zo0ERdf) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 |
 | 9 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
-| 10 | [Wine](https://open.spotify.com/track/37qgtEIrjqThh27zo0ERdf) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 3:50 |
-| 11 | [BAD BOY](https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BAD BOY](https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4) | 4:34 |
+| 10 | [BAD BOY](https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BAD BOY](https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4) | 4:34 |
+| 11 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 |
 | 12 | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX) | 3:58 |
 | 13 | [Move \(feat\. Yseult\)](https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:41 |
 | 14 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 50 | [Ferme là](https://open.spotify.com/track/13WkCO8JEH89AEyvJ4KqOx) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Le Motif](https://open.spotify.com/artist/0HdLXCWPtmK9wgd7CyNuj3) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 3:27 |
 
-Snapshot ID: `aK+cAAAAAAA0ml/VekjwiPtmNYxK754r`
+Snapshot ID: `aLDtgAAAAAAg9uCRnVp9Vwg++0We47gg`

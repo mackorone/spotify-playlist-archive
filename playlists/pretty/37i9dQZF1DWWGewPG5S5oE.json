@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: fox capture plan, \u30d2\u30b0\u30c1\u30a2\u30a4",
-  "num_followers": 46250,
+  "num_followers": 46262,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-08-26 15:00:23",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
-    },
-    {
-      "added_at": "2025-08-26 15:00:23",
-      "album": {
         "name": "wolf moon",
         "url": "https://open.spotify.com/album/5oioKgDqssAhTVd5jWNtMV"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 290293,
       "name": "wolf moon",
       "url": "https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1"
+    },
+    {
+      "added_at": "2025-08-26 15:00:23",
+      "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2025-08-26 15:00:23",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-08-26 15:00:23",
       "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/0ECqC21Af1SVTA4ytYSnro"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u5343\u6607",
+          "url": "https://open.spotify.com/artist/56nzE9yi1o62Gfea26c5fL"
+        }
+      ],
+      "duration_ms": 201895,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/2thyo2SvMSOvbWNNVGTFVB"
+    },
+    {
+      "added_at": "2025-08-26 15:00:23",
+      "album": {
         "name": "Reiya The P.A.V.E.",
         "url": "https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 165733,
       "name": "Spark",
       "url": "https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3"
-    },
-    {
-      "added_at": "2025-08-26 15:00:23",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 355973,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
     },
     {
       "added_at": "2025-08-26 15:00:23",
@@ -847,6 +847,38 @@
     {
       "added_at": "2025-08-26 15:00:23",
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/4ftRVwpPcBhLoCCKLrCLLW"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 355973,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5c9PKrxJgtVwDNRE9IOd5S"
+    },
+    {
+      "added_at": "2025-08-26 15:00:23",
+      "album": {
+        "name": "1-0",
+        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 281914,
+      "name": "1-0",
+      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2025-08-26 15:00:23",
+      "album": {
         "name": "STEPS OF THE BLUE",
         "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
       },
@@ -883,22 +915,6 @@
     {
       "added_at": "2025-08-26 15:00:23",
       "album": {
-        "name": "BELLOWS",
-        "url": "https://open.spotify.com/album/5SoQ6amE0kqTcluYDWyemL"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u702c\u60a0\u8f14",
-          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
-        }
-      ],
-      "duration_ms": 364318,
-      "name": "Cosmic string",
-      "url": "https://open.spotify.com/track/7KBPdSMeiD4gtcZZyk6AII"
-    },
-    {
-      "added_at": "2025-08-26 15:00:23",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2025-08-26 15:00:23",
       "album": {
-        "name": "1-0",
-        "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
+        "name": "Off-the-cuff",
+        "url": "https://open.spotify.com/album/09g2LMDN0QntOdKzsaCWld"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
         }
       ],
-      "duration_ms": 281914,
-      "name": "1-0",
-      "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+      "duration_ms": 384743,
+      "name": "Off-the-cuff",
+      "url": "https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy"
     },
     {
       "added_at": "2025-08-26 15:00:23",
@@ -947,26 +963,6 @@
       "duration_ms": 258183,
       "name": "Rhapsody in Summer",
       "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
-    },
-    {
-      "added_at": "2025-08-26 15:00:23",
-      "album": {
-        "name": "EVERYDAY",
-        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        },
-        {
-          "name": "Corey King",
-          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "Must Have Known",
-      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
     }
   ],
   "unique_name": "Modern Jazz Japan",

@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 232560,
       "name": "Las Cinco Rosas",
       "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 170527,
       "name": "Otra Pa' Mi Cuenta",
       "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 147301,
       "name": "Oww Nena",
       "url": "https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 197215,
       "name": "Si Pudiera Regresar",
       "url": "https://open.spotify.com/track/5Zcwn4XCq2jV1unBsbp1Lw"
@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184651,
+      "name": "Ya fue",
+      "url": "https://open.spotify.com/track/1nP5Mv2tTSLny8maw7ZVSY"
+    },
+    {
+      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
       },
@@ -1872,7 +1894,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 184651,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"

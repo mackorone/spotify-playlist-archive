@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,498 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,543 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 32 | [Danse Macabre](https://open.spotify.com/track/4hZYHWCGvKPR74DgPK8jZ9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV) | [Danse Macabre](https://open.spotify.com/album/4dzIrm27bFhZw4rTEagMKJ) | 2:28 |
 | 33 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 34 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
-| 35 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
-| 36 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |
+| 35 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |
+| 36 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
 | 37 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 38 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 | 39 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |

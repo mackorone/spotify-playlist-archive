@@ -1,6 +1,6 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Kashus Culpepper",
-  "num_followers": 567707,
+  "num_followers": 567744,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAICLrjC/vcE6HV/qzFikQIGMqdpC",
   "tracks": [
+    {
+      "added_at": "2025-08-29 04:00:27",
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4M5ciqFVNQZnzGTem1zJlG"
+      },
+      "artists": [
+        {
+          "name": "Ash Minor",
+          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4xgwMmdnNLOeQcnNw8FnGq"
+    },
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
@@ -103,22 +119,6 @@
       "duration_ms": 269146,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6dIiZC1dVN4DiVOUWE72DQ"
-    },
-    {
-      "added_at": "2025-03-07 05:00:21",
-      "album": {
-        "name": "Lost Man",
-        "url": "https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u"
-      },
-      "artists": [
-        {
-          "name": "Ash Minor",
-          "url": "https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG"
-        }
-      ],
-      "duration_ms": 323437,
-      "name": "Lost Man",
-      "url": "https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof"
     },
     {
       "added_at": "2024-09-06 04:00:00",

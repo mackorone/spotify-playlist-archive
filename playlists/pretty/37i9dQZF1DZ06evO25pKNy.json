@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAD29CfyC00khgrlX41vyzS/",
+  "snapshot_id": "aLDtgAAAAAD4nbnWuKcSkUqLTwAnbekn",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -547,22 +531,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 167408,
-      "name": "6 Colores",
-      "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "48th Piso",
+        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 122047,
+      "name": "48th Piso",
+      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "48th Piso",
-        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 122047,
-      "name": "48th Piso",
-      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
+      "duration_ms": 167408,
+      "name": "6 Colores",
+      "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando Al Chavalon",
-        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
+        "name": "Historia Personal",
+        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 132555,
-      "name": "Recordando Al Chavalon",
-      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
+      "duration_ms": 261002,
+      "name": "Historia Personal",
+      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historia Personal",
-        "url": "https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA"
+        "name": "Recordando Al Chavalon",
+        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 261002,
-      "name": "Historia Personal",
-      "url": "https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI"
+      "duration_ms": 132555,
+      "name": "Recordando Al Chavalon",
+      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
     },
     {
       "added_at": null,

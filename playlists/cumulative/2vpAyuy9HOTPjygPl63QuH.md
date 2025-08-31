@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,291 songs - 5 day 9 hr 18 min
+2,292 songs - 5 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Future](https://open.spotify.com/track/3raQAaDeWucnLtoOvVpEea) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Future](https://open.spotify.com/album/6nbVcHHsxb0WXYoSbIrOaV) | 5:09 | 2023-03-10 | 2023-03-18 |
 | [Gadasi](https://open.spotify.com/track/3imFFkLiWijl9RID0PBfYT) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Gadasi](https://open.spotify.com/album/1tQHaDy2es4uTg8c0mivZU) | 3:14 | 2023-06-30 | 2023-07-16 |
 | [Gaida \- TR671](https://open.spotify.com/track/6Rq5xjzLpdgWPIDjHNv8Fq) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [C'mon](https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394), [Otistic](https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd) | [Toolroom Radio EP671 \- Presented by Crusy](https://open.spotify.com/album/5fpcKTjgz1FTE2QV8EQxHF) | 4:03 | 2023-02-17 | 2023-02-25 |
+| [Galvanize \- Chris Lake Remix](https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Galvanize \(Chris Lake Remix\)](https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB) | 3:43 | 2025-08-30 |  |
 | [Gangsta](https://open.spotify.com/track/6rLcuUaXfiHnzqeTt6eqsk) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 2:53 | 2022-09-30 | 2022-10-08 |
 | [Gas Leak](https://open.spotify.com/track/1Rl4IeHyxpKlCwTtaHey9X) | [House Divided](https://open.spotify.com/artist/6Cq2iS9JhvjwEGwdVEWuti) | [Gas Leak](https://open.spotify.com/album/0x2VWzMVJg4ivfQ9sXkT4A) | 4:35 | 2023-05-05 | 2023-05-13 |
 | [Gas Pedal \- Kyle Watson Remix](https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Gas Pedal \(Kyle Watson Remix\)](https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg) | 3:03 | 2023-05-19 | 2023-06-10 |

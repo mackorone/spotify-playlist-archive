@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Marshall Ahmad
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,971 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,987 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 79 | [Kaava](https://open.spotify.com/track/1LCvfc2SvDnxfIxkesDZEO) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:45 |
 | 80 | [Kon Ae Tu?](https://open.spotify.com/track/4jIVye9jAjdr0M7tqwJFHv) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Kon Ae Tu?](https://open.spotify.com/album/6wyTkLCl6L8jUHDyT8r7No) | 2:43 |
 
-Snapshot ID: `AAAAADAQ6oGqH5a65d6iTIi7yc46MY9a`
+Snapshot ID: `AAAAAJIqDajQVIJXYirxTqPYiHimGvzi`

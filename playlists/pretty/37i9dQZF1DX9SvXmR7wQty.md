@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Bobby Bazini
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,901 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,907 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 29 | [Toujours les vacances](https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Toujours les vacances](https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO) | 3:18 |
 | 30 | [C'est Fort](https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est Fort](https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS) | 2:39 |
 | 31 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 |
-| 32 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
-| 33 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
-| 34 | [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 |
+| 32 | [Un, Dos, Tres](https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Un, Dos, Tres](https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG) | 2:34 |
+| 33 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 |
+| 34 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
 | 35 | [Laponie](https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Alba](https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl) | 2:40 |
-| 36 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
+| 36 | [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 |
 | 37 | [Chouchou](https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chouchou](https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ) | 3:20 |
 | 38 | [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 |
 | 39 | [SELEK](https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:39 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 45 | [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 |
 | 46 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |
 | 47 | [Tana](https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Insomnia](https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU) | 2:36 |
-| 48 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
-| 49 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
+| 48 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
+| 49 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
 
 Snapshot ID: `AAAAAHt55x8od7RPhdqh9lnz1CLGeTJf`

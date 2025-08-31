@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-420 songs - 18 hr 23 min
+423 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-09 |  |
 | [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 | 2024-11-01 | 2025-02-15 |
 | [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 | 2024-02-16 | 2024-04-06 |
-| [BLEEP](https://open.spotify.com/track/4UP9Dn3u8O4p8oH41EXOai) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:47 | 2025-08-29 |  |
+| [BLEEP](https://open.spotify.com/track/4AGAUoDmMnSnVqr01wyJQR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:47 | 2025-08-29 |  |
+| [BLEEP](https://open.spotify.com/track/4UP9Dn3u8O4p8oH41EXOai) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:47 | 2025-08-29 | 2025-08-31 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-26 | 2024-02-03 |
 | [BOLSHIE KURTKI](https://open.spotify.com/track/6IPoUtuun8i6CvnilcrqWI) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH), [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [BOLSHIE KURTKI](https://open.spotify.com/album/1Lm1tt8t4d1eyxoYnZS6L1) | 3:16 | 2024-11-22 | 2024-11-30 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-14 | 2025-02-22 |
@@ -49,13 +50,15 @@
 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2024-12-13 | 2025-03-08 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-16 | 2024-04-20 |
 | [Casino](https://open.spotify.com/track/3slzrpqPz7Bfe7Y6pczFyS) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/6bT5SWbxuKHfzZGmnkIqCi) | 1:57 | 2024-12-13 |  |
-| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-29 |  |
+| [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-29 |  |
+| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-29 | 2025-08-31 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-08-09 | 2024-08-31 |
 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-26 | 2024-08-28 |
 | [Closer](https://open.spotify.com/track/74qrCDDswH0NKgVAf6ZOlO) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:02 | 2024-07-05 | 2024-07-13 |
 | [CowBoys](https://open.spotify.com/track/4AohXjVyQa5Y5rGIQdMtGv) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [CowBoys](https://open.spotify.com/album/2ACugalXFuRNq8SMm2boIa) | 2:45 | 2024-10-04 | 2024-10-12 |
 | [CRANKI](https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [MIND UP!](https://open.spotify.com/album/2ErQkuMncjeG2DQ7mxoGih) | 1:50 | 2024-01-26 | 2024-10-19 |
-| [CREED](https://open.spotify.com/track/2vhT1g99dOFuh1EFv1fiGE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:41 | 2025-08-29 |  |
+| [CREED](https://open.spotify.com/track/2vhT1g99dOFuh1EFv1fiGE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:41 | 2025-08-29 | 2025-08-31 |
+| [CREED](https://open.spotify.com/track/76GnA27I7WemuQ4Qg6k2z2) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:41 | 2025-08-29 |  |
 | [DANCE FLOOR](https://open.spotify.com/track/39oIdZOwFwe1NwUeaYRjm8) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [IN MY DNA](https://open.spotify.com/album/1iccPHXLRk2mRsdqf2dfke) | 1:46 | 2024-01-26 | 2024-03-23 |
 | [Dayang](https://open.spotify.com/track/5oJICQvO6ZkPPZPwsvPLBs) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:47 | 2024-01-26 | 2024-03-02 |
 | [Diamond Tears](https://open.spotify.com/track/3u6ijAXDYG5QqqbWj4Kvf2) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz), [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Diamond Tears](https://open.spotify.com/album/48spdzZSka309dMdvXqsde) | 2:44 | 2025-02-14 | 2025-02-22 |

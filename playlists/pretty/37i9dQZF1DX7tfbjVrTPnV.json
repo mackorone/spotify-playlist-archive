@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 230112,
+  "num_followers": 230146,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
       },
       "artists": [
         {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "duration_ms": 260333,
-      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
+      "duration_ms": 260333,
+      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Dumplin' Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 318160,
-      "name": "Troublesome Waters",
-      "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Nowhere to Hide",
         "url": "https://open.spotify.com/album/2ffD2tYaD8wcbnsgOudUtA"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 212104,
       "name": "Every Pilgrim Needs a Highway",
       "url": "https://open.spotify.com/track/0AsSPcTKgY81UnorV87EJa"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 318160,
+      "name": "Troublesome Waters",
+      "url": "https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Carter Girl",
-        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
-      },
-      "artists": [
-        {
-          "name": "Carlene Carter",
-          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Little Black Train",
-      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Carter Girl",
+        "url": "https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T"
+      },
+      "artists": [
+        {
+          "name": "Carlene Carter",
+          "url": "https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Little Black Train",
+      "url": "https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c"
     },
     {
       "added_at": "2024-08-30 04:00:00",

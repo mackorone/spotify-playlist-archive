@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40262,
+  "num_followers": 40264,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACDrsOapCsxlmAuJiRU3++j",
+  "snapshot_id": "aLDtgAAAAAAwG3ZFJD83yfwaCVsFoldK",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 206216,
+      "name": "Bar de corazones rotos",
+      "url": "https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -527,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Quieren Ser Un Gato Jazz",
-        "url": "https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 276933,
-      "name": "Todos Quieren Ser Un Gato Jazz",
-      "url": "https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1o C\u00edtrico",
         "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
@@ -587,6 +583,50 @@
       "duration_ms": 221760,
       "name": "Juan Y Paul",
       "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "No sabes amar",
+      "url": "https://open.spotify.com/track/2yhwd5uElvQJaDquJ0Iexv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Quieren Ser Un Gato Jazz",
+        "url": "https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Todos Quieren Ser Un Gato Jazz",
+      "url": "https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3"
     },
     {
       "added_at": null,
@@ -651,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -703,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 194154,
+      "name": "Te va a doler",
+      "url": "https://open.spotify.com/track/3E1iSNh6yovFIYJKhKMEqx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -715,26 +795,6 @@
       "duration_ms": 223920,
       "name": "Solo",
       "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRENE ALEJANDRA",
-        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 217096,
-      "name": "Te Am\u00e9 Temprano",
-      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
     },
     {
       "added_at": null,
@@ -759,6 +819,46 @@
       "duration_ms": 315853,
       "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRENE ALEJANDRA",
+        "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 217096,
+      "name": "Te Am\u00e9 Temprano",
+      "url": "https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 187043,
+      "name": "Cita compartida",
+      "url": "https://open.spotify.com/track/52Cgt6hPWKyLmkBSJzedgw"
     },
     {
       "added_at": null,
@@ -811,6 +911,26 @@
       "duration_ms": 195026,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Llorando en el avi\u00f3n",
+      "url": "https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I"
     },
     {
       "added_at": null,
@@ -871,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Que Me Das",
-        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 227658,
-      "name": "Eso Que Me Das",
-      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -907,122 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Noa Noa (Remix)",
-        "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
+        "name": "Eso Que Me Das",
+        "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
       "artists": [
         {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        },
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "El Noa Noa - Remix",
-      "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Burkina Faso",
-      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANSIED\u00c1",
-        "url": "https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
         },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 156482,
-      "name": "ANSIED\u00c1",
-      "url": "https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo (Remix)",
-        "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Solo - Remix",
-      "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
+      "duration_ms": 227658,
+      "name": "Eso Que Me Das",
+      "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
     }
   ],
   "unique_name": "This Is Esteman",

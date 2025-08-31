@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=fCPfMM0RQayIrooGg2pkQg\">Cairo CPT</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt?si=exvkccV6TkG5_Gx2ucLnIA\">Djknator </a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -542,6 +542,28 @@
       "duration_ms": 217787,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/6lKvGAoHwevBamSrULaI2P"
+    },
+    {
+      "album": {
+        "name": "Gqomlicious",
+        "url": "https://open.spotify.com/album/6U2MpLapl3RQea4l9dlEJA"
+      },
+      "artists": [
+        {
+          "name": "Djknator",
+          "url": "https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt"
+        },
+        {
+          "name": "Onyomarc",
+          "url": "https://open.spotify.com/artist/6tsvMSYgfcHE8iyUBLwo58"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286740,
+      "name": "Audionic (feat. Onyomarc)",
+      "url": "https://open.spotify.com/track/6uZVWCEnMvFhjqz5cJWvYh"
     },
     {
       "album": {
@@ -10372,6 +10394,32 @@
       "duration_ms": 280000,
       "name": "Vutha",
       "url": "https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD"
+    },
+    {
+      "album": {
+        "name": "Vutha (Package)",
+        "url": "https://open.spotify.com/album/6D9ZgdNnu4SUtwU9xnsAJG"
+      },
+      "artists": [
+        {
+          "name": "Static Que",
+          "url": "https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ"
+        },
+        {
+          "name": "Lavyjanda",
+          "url": "https://open.spotify.com/artist/4ADJsBYbCWl3xxn86FayxN"
+        },
+        {
+          "name": "Licious",
+          "url": "https://open.spotify.com/artist/5CBC06FD1wKSlSExfXzD9M"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396329,
+      "name": "Vutha (feat. Lavyjanda & Licious)",
+      "url": "https://open.spotify.com/track/2YYuDBKHKjZtAUuobsqtdN"
     },
     {
       "album": {

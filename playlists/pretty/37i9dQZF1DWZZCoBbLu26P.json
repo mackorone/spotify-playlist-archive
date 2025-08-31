@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 97382,
+  "num_followers": 97394,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Know-It-All",
+        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
+      },
+      "artists": [
+        {
+          "name": "Jinkx Monsoon",
+          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
+        }
+      ],
+      "duration_ms": 268459,
+      "name": "Know-It-All",
+      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Everyone Is A Little Bit Gay",
         "url": "https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 190603,
       "name": "Everyone Is A Little Bit Gay",
       "url": "https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Know-It-All",
-        "url": "https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW"
-      },
-      "artists": [
-        {
-          "name": "Jinkx Monsoon",
-          "url": "https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR"
-        }
-      ],
-      "duration_ms": 268459,
-      "name": "Know-It-All",
-      "url": "https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        },
-        {
-          "name": "Brandon Stansell",
-          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Transphibian",
         "url": "https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 253585,
       "name": "Supermarch\u00e9",
       "url": "https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        },
+        {
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Part 2: The Antidote",
-        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
       },
       "artists": [
         {
@@ -1244,13 +1244,13 @@
           "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
         },
         {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
         }
       ],
-      "duration_ms": 169731,
-      "name": "I Specialise In Love",
-      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
+        "name": "Part 2: The Antidote",
+        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
       "artists": [
         {
@@ -1328,13 +1328,13 @@
           "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
         },
         {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
         }
       ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
+      "duration_ms": 169731,
+      "name": "I Specialise In Love",
+      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 589914,
+  "num_followers": 589989,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABxKUU/FlH84bwgy190qHBP",
+  "snapshot_id": "aLDtgAAAAAClnGhGQ0oNApPgpLtXqlcR",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
+      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 156287,
       "name": "Best Friend (with Fall Out Boy)",
       "url": "https://open.spotify.com/track/1zKuSINcb2QSE7m6mk6J36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Headfirst Slide Into Cooperstown On A Bad Bet",
-      "url": "https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 122706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take This to Your Grave",
         "url": "https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY"
       },
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Stay Frosty Royal Milk Tea",
-      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
+      "duration_ms": 192533,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
     },
     {
       "added_at": null,
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 192533,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
+      "duration_ms": 171053,
+      "name": "Stay Frosty Royal Milk Tea",
+      "url": "https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 214133,
       "name": "America's Suitehearts",
       "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believers Never Die - Greatest Hits (Volume Two)",
-        "url": "https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Bob Dylan",
-      "url": "https://open.spotify.com/track/3liDoBAc3NGI8tmWUTOAed"
     }
   ],
   "unique_name": "This Is Fall Out Boy",

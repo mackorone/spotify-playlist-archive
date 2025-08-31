@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,100 likes - 72 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,095 likes - 72 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

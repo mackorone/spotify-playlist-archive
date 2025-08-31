@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: SSTEDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,422 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,438 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 3 | [Almighty God](https://open.spotify.com/track/4X5KBd5ZkVkvVAYvASqhcg) | [Chosen Jigg](https://open.spotify.com/artist/7qqT7RNb6rvCSp6uhQlkgJ) | [Almighty God](https://open.spotify.com/album/0hugVK9WS7tifIdlGfBfy1) | 2:17 |
 | 4 | [DISSONANCE](https://open.spotify.com/track/1D1D3VPxfYSZ65tkaOXxZZ) | [Kelsey Breedlove](https://open.spotify.com/artist/0RylJjG2CawOJWWxRD6Qts) | [DISSONANCE](https://open.spotify.com/album/3m0oyZOhhKGxFH5XiDAKZe) | 3:50 |
 | 5 | [water walker](https://open.spotify.com/track/2amI101fkxMkDRKFSq0Sar) | [abeltriesherbest](https://open.spotify.com/artist/7gvOG7JnooNlhJbHnPBckr) | [water walker](https://open.spotify.com/album/0Mq4c8LKnzENTQhbN8wExg) | 2:41 |
-| 6 | [You](https://open.spotify.com/track/3kGR691eQ4tGl6pGR3x4k7) | [OAKS](https://open.spotify.com/artist/2q3aC3XhYU0I7Uwkib8GvB), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [You](https://open.spotify.com/album/4sa5KEdJno71S1jlsLZyJb) | 3:13 |
+| 6 | [You](https://open.spotify.com/track/3kGR691eQ4tGl6pGR3x4k7) | [OAKS](https://open.spotify.com/artist/2q3aC3XhYU0I7Uwkib8GvB), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Tapestry Worship](https://open.spotify.com/artist/5vSRguAsGm92WB4exbS87g) | [You](https://open.spotify.com/album/4sa5KEdJno71S1jlsLZyJb) | 3:13 |
 | 7 | [Falling](https://open.spotify.com/track/1Mg2LkAzrAjJFjSwcatV1D) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Falling](https://open.spotify.com/album/2OjORPnRafXAkjy9PE82NZ) | 2:40 |
 | 8 | [deep in love](https://open.spotify.com/track/4csTcBhMlYTVlZJTqhsm2k) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [deep in love](https://open.spotify.com/album/4OGgIObFUgJnzjG3FU8XDr) | 4:51 |
 | 9 | [Coming Home](https://open.spotify.com/track/41o0Odr5edTyzq5rnSKvRY) | [Johan Åsgärde](https://open.spotify.com/artist/6VMGCLxmS95jnze9DRPcgr) | [Coming Home](https://open.spotify.com/album/2sW6FURZvE71Wpot1LnEsR) | 3:18 |

@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-181 songs - 12 hr 39 min
+182 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Last Surrender](https://open.spotify.com/track/2qQC0jWfRaUUhGWkPdb7g2) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/2ZR9S2HND7WD0zh630IyR1) | 3:17 | 2020-11-05 | 2024-04-19 |
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 | 2025-06-28 |
 | [Little Bit Longer](https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA) | [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Little Bit Longer](https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7) | 3:55 | 2022-11-18 |  |
-| [Lost Man](https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Lost Man](https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u) | 5:23 | 2025-03-07 |  |
+| [Lost Man](https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Lost Man](https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u) | 5:23 | 2025-03-07 | 2025-08-31 |
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 | 2023-12-14 |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |
@@ -134,6 +134,7 @@
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 | 2020-11-05 | 2024-04-19 |
 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/album/026ZioCze6KbxDpunugdId) | 4:43 | 2020-11-05 |  |
 | [Shows What You Know](https://open.spotify.com/track/2dgL3GePB3gJot6bjpo4SC) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [1 Hopeful Rd.](https://open.spotify.com/album/7hEZhkFjaW8bH1cI1D6Dsd) | 4:12 | 2020-11-05 |  |
+| [Simple](https://open.spotify.com/track/4xgwMmdnNLOeQcnNw8FnGq) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Simple](https://open.spotify.com/album/4M5ciqFVNQZnzGTem1zJlG) | 3:44 | 2025-08-29 |  |
 | [Slow Love](https://open.spotify.com/track/43yzHeaBaa6C96s2EDCWxU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Changes](https://open.spotify.com/album/4TiJdmV0Oh7GauOdmfrXNe) | 3:38 | 2020-11-05 |  |
 | [Slow Love](https://open.spotify.com/track/0JhPbFpBALh3B9c9njC6iB) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:38 | 2020-11-05 | 2024-04-19 |
 | [Slow Love](https://open.spotify.com/track/0hoCHnREuYBPYdjRttLopJ) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Daptone Mood](https://open.spotify.com/album/75eePeKVblGR9BAAnhOtuC) | 3:38 | 2020-11-05 | 2022-11-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,442 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,530 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 42 | [End Of The Beginning](https://open.spotify.com/track/3QbnMRadaXqmlghaglLAit) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:06 |
 | 43 | [The Mob Rules](https://open.spotify.com/track/5tCj1nLQ9fE2DEd3BEl8Vl) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 3:12 |
 | 44 | [Wishing Well](https://open.spotify.com/track/2ji4QgWCNK6Sf1Vr1RVrRb) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:04 |
-| 45 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
-| 46 | [No Stranger to Love \(2009 Remaster\)](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
+| 45 | [No Stranger to Love \(2009 Remaster\)](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
+| 46 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
 | 47 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 |
 | 48 | [Megalomania \(2009 Remaster\)](https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 9:41 |
 | 49 | [Junior's Eyes \- 2009 Remaster](https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 6:41 |
 | 50 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
 
-Snapshot ID: `aK+cAAAAAABp+hAzwDFdD3W2oC413BDG`
+Snapshot ID: `aLDtgAAAAAADR7dlPVrNx7TNj9iIa/LG`

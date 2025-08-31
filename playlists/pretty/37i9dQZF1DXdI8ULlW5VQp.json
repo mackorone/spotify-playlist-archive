@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Charlie Rodd en portada.",
-  "num_followers": 192370,
+  "num_followers": 192371,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "febrero",
+        "url": "https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "febrero",
+      "url": "https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/5GYUFA7GNOu4JfVbXUBO01"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 194906,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/7ontkt96zdqa5SOxdA8xFu"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
-        "name": "febrero",
-        "url": "https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 226027,
-      "name": "febrero",
-      "url": "https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Truco Viejo",
-        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Truco Viejo",
-      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Volver a Creer",
         "url": "https://open.spotify.com/album/79vM4z2ZJcCQTEFQSJ75tD"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 264658,
       "name": "Mantenme pendiente",
       "url": "https://open.spotify.com/track/1i2Rm2W5zoLN4ic5WUQDrn"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Truco Viejo",
+        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Truco Viejo",
+      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO"
+        "name": "Remedios",
+        "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
         }
       ],
-      "duration_ms": 213380,
-      "name": "La Ciudad",
-      "url": "https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5"
+      "duration_ms": 208074,
+      "name": "Remedios",
+      "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Remedios",
-        "url": "https://open.spotify.com/album/3i4xUcTsaFK4ZjWdxx4uzp"
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO"
       },
       "artists": [
         {
-          "name": "Gabriela Alatorre",
-          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 208074,
-      "name": "Remedios",
-      "url": "https://open.spotify.com/track/7EozlnvFrXBD2wl5jdCvDR"
+      "duration_ms": 213380,
+      "name": "La Ciudad",
+      "url": "https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 192612,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Sonora",
         "url": "https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 207522,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 192612,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9"
     }
   ],
   "unique_name": "Pop Folk",

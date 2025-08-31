@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 46165,
+  "num_followers": 46166,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADsQ4k2/uhDvjsktgEam4B7",
+  "snapshot_id": "aLDtgAAAAACwBuYACkbyag/OqgiSnQRK",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly/Big Empty Country (Edit)",
-        "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 254122,
-      "name": "Big Empty Country - Edit",
-      "url": "https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU"
+      "duration_ms": 1041520,
+      "name": "1/1 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5"
     },
     {
       "added_at": null,
@@ -143,18 +139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+        "name": "Suddenly/Big Empty Country (Edit)",
+        "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
       },
       "artists": [
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 1041520,
-      "name": "1/1 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5"
+      "duration_ms": 254122,
+      "name": "Big Empty Country - Edit",
+      "url": "https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 163887,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 163887,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
+      "duration_ms": 265962,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 578466,
-      "name": "2/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
+      "duration_ms": 727080,
+      "name": "1/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 265962,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/4LYwnQN8yP032iEZLHpN6g"
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 727080,
-      "name": "1/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp"
+      "duration_ms": 578466,
+      "name": "2/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminal",
-        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
-      "duration_ms": 198513,
-      "name": "Milky Sleep",
-      "url": "https://open.spotify.com/track/3GMrX2c1h8222h29Nza0Hi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last To Know / Ringing Ocean",
         "url": "https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 157073,
       "name": "The Last To Know",
       "url": "https://open.spotify.com/track/2lXiIPp2cMu8ibphjMcW1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luminal",
+        "url": "https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 198513,
+      "name": "Milky Sleep",
+      "url": "https://open.spotify.com/track/3GMrX2c1h8222h29Nza0Hi"
     },
     {
       "added_at": null,

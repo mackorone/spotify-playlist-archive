@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,007 songs - 1 day 16 hr 34 min
+2,008 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Autumn Moonlight](https://open.spotify.com/track/3WifCtcnBd0xrh9fOZ3U9a) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Moonlight](https://open.spotify.com/album/0dWGKr31tTlKjqZDr95mYO) | 1:00 | 2024-10-20 |  |
 | [Autumn Morning](https://open.spotify.com/track/5ZFd35s8aS0ftzZHRTonvj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Autumn Morning](https://open.spotify.com/album/5mr8tv8Z6pucY9Yos6Ves8) | 1:02 | 2022-10-05 | 2024-01-30 |
 | [Autumn Sunlight](https://open.spotify.com/track/23agY1FRngBN4kng0b2RxK) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Autumn Sunlight](https://open.spotify.com/album/1odVY6duTDQN39pvLTEaDR) | 1:00 | 2024-10-20 |  |
+| [Awaiting](https://open.spotify.com/track/6ucb3jW9Wf9b0w8TsXgC41) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Awaiting](https://open.spotify.com/album/3LW69C1BGvvwgrheV8pYwe) | 1:00 | 2025-08-30 |  |
 | [Awakening](https://open.spotify.com/track/58VrjRhzoC4a5MqIurZRUT) | [Ryan Stewart](https://open.spotify.com/artist/6C3BLXg58ruQY0PmlhV7sy) | [In the Dreaming Hour](https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7) | 4:28 | 2022-01-12 | 2024-02-13 |
 | [Away With Me](https://open.spotify.com/track/11xSEDkKHlTTLaF4Y7aL1f) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Azure](https://open.spotify.com/track/6C1fPfjuK7IU3qGzMrnmWI) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Cello Stories](https://open.spotify.com/album/7oVEf4VjkG8dnuj9GL6vKf) | 1:16 | 2024-01-29 |  |

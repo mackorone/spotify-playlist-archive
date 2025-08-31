@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 47601,
+  "num_followers": 47632,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Stilte In De Storm",
+        "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Als Je Lacht",
+      "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Stilte In De Storm",
-        "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Als Je Lacht",
-      "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
     },
     {
       "added_at": "2020-02-10 14:27:21",

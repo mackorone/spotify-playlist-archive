@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 274455,
+  "num_followers": 274588,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,22 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki"
+        "name": "Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe",
+        "url": "https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m"
       },
       "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
         {
           "name": "Jo\u00e3o Gomes",
           "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 140208,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV"
+      "duration_ms": 225497,
+      "name": "Se quiser \u00e9 assim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa"
     },
     {
       "added_at": "2025-07-11 05:47:10",
@@ -119,22 +123,18 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe",
-        "url": "https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m"
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki"
       },
       "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        },
         {
           "name": "Jo\u00e3o Gomes",
           "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 225497,
-      "name": "Se quiser \u00e9 assim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa"
+      "duration_ms": 140208,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV"
     },
     {
       "added_at": "2025-07-11 05:47:10",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Agora Estou Sofrendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8"
-      },
-      "artists": [
-        {
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 258968,
-      "name": "Agora Estou Sofrendo",
-      "url": "https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c"
-    },
-    {
-      "added_at": "2025-07-11 05:47:10",
-      "album": {
         "name": "Voc\u00ea Me Conquistou",
         "url": "https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 188423,
       "name": "Voc\u00ea Me Conquistou",
       "url": "https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw"
+    },
+    {
+      "added_at": "2025-07-11 05:47:10",
+      "album": {
+        "name": "Agora Estou Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8"
+      },
+      "artists": [
+        {
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 258968,
+      "name": "Agora Estou Sofrendo",
+      "url": "https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c"
     },
     {
       "added_at": "2025-07-11 05:47:10",

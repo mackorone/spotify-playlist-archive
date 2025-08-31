@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Cor
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,818 likes - 64 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,815 likes - 64 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 63 | [Dun Talkin](https://open.spotify.com/track/7lmzgl8eDytUb9k4ILf6IM) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Dun Talkin](https://open.spotify.com/album/5MfPtpC7nc4OQqwHmKp2nj) | 2:16 |
 | 64 | [Sky Dweller](https://open.spotify.com/track/3zdwEr6ueR5VUeajFodUug) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Sky Dweller](https://open.spotify.com/album/4E17M8EByWHHCGoScjnDhj) | 2:48 |
 
-Snapshot ID: `AAAAAJ0HxdSHQ1W2slYFDzKnHSt20sXt`
+Snapshot ID: `AAAAAC5QHmdtYnnwOMi9mEw1flE9s7YH`

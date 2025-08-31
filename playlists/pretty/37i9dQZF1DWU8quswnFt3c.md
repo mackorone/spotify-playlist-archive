@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Tissa Biani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,665 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,351 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
 | 35 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
 | 36 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
-| 37 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
-| 38 | [In the Neon](https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [In The Neon](https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7) | 3:00 |
+| 37 | [In the Neon](https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [In The Neon](https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7) | 3:00 |
+| 38 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 39 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 40 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
 | 41 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 |
 | 64 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
 | 65 | [Toronyházak](https://open.spotify.com/track/7cBgmJg3AEKGXQ3AqMjHhJ) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:44 |
-| 66 | [Chasing the Dust](https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Chasing the Dust](https://open.spotify.com/album/3JYG0fab0J51q5bDpfVIBa) | 2:30 |
-| 67 | [Játsszál mással](https://open.spotify.com/track/6AJsvb1VnDyEuSQAudNauH) | [Mayberian Sanskülotts](https://open.spotify.com/artist/76NgT67VLqbEyGy4HKBhqy) | [Rekult I.](https://open.spotify.com/album/66HEMVm1tsJag4zheUXvPb) | 2:22 |
+| 66 | [Játsszál mással](https://open.spotify.com/track/6AJsvb1VnDyEuSQAudNauH) | [Mayberian Sanskülotts](https://open.spotify.com/artist/76NgT67VLqbEyGy4HKBhqy) | [Rekult I.](https://open.spotify.com/album/66HEMVm1tsJag4zheUXvPb) | 2:22 |
+| 67 | [Chasing the Dust](https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Chasing the Dust](https://open.spotify.com/album/3JYG0fab0J51q5bDpfVIBa) | 2:30 |
 | 68 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
-| 69 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
-| 70 | [esküszöm](https://open.spotify.com/track/5YVeMDv0kzBhClqRM5Lox0) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [esetek és minták](https://open.spotify.com/album/6gfo7h2cN3aqDyjZNoOsLa) | 2:03 |
+| 69 | [esküszöm](https://open.spotify.com/track/5YVeMDv0kzBhClqRM5Lox0) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [esetek és minták](https://open.spotify.com/album/6gfo7h2cN3aqDyjZNoOsLa) | 2:03 |
+| 70 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
 | 71 | [Szex](https://open.spotify.com/track/3049QcCJ593nYs2r49uV71) | [alszok](https://open.spotify.com/artist/0zkdd59mkQoDJ1pAWuafK0), [fiatal csonti](https://open.spotify.com/artist/2lJvPjCSlPBw5OA6L9TGQU) | [Szex](https://open.spotify.com/album/6NtdGbCjNkF1f0iKi6eBgz) | 2:40 |
 | 72 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
 | 73 | [Hamvado cigarettaveg](https://open.spotify.com/track/07OqCQlAFiWXltHTewim1n) | [Karády Katalin](https://open.spotify.com/artist/0dapLiVAvNDfkzQXhhyAZJ) | [Hungarian Retro Music / Karády Katalin, Volume 4](https://open.spotify.com/album/0RJV1HSSG7ItgDTTooQIEP) | 3:33 |

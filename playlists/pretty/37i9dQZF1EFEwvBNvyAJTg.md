@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 98 | [Hell Bound](https://open.spotify.com/track/5q7qGNhvkSe9aNyGhy87Lb) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:40 |
 | 99 | [This One's For The Girls](https://open.spotify.com/track/0PgesxnsfbPbqF8XGN1CXh) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 3:20 |
 | 100 | [All Night, Pt\. II](https://open.spotify.com/track/6UDH8pqwW5siqNszFtX6x0) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [No Logic](https://open.spotify.com/album/7D9Cg5C2gXofYhGEUbCWuh) | 3:16 |
-| 101 | [LAST DAY](https://open.spotify.com/track/2jxrreHQb2Itr4jJFtWEKg) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [LAST DAY](https://open.spotify.com/album/1GUjZGpVnLXF3DPIHI0nhM) | 3:05 |
-| 102 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
+| 101 | [Shook](https://open.spotify.com/track/1dPfUpXRn8U5Q1fgAnhvbe) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Shook](https://open.spotify.com/album/6CzSYXBYtypopA9bAZArQd) | 2:56 |
+| 102 | [LAST DAY](https://open.spotify.com/track/2jxrreHQb2Itr4jJFtWEKg) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [LAST DAY](https://open.spotify.com/album/1GUjZGpVnLXF3DPIHI0nhM) | 3:05 |
 | 103 | [Prince of the Lost & Broken](https://open.spotify.com/track/7no7JMVOzCpfH7I1msYvIZ) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 3:04 |
 | 104 | [Spooky Electrick](https://open.spotify.com/track/1OmtT0yb2Zt9FqpPtWk8Tv) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Spooky Electrick](https://open.spotify.com/album/5ZdKZJ8iwUv888RA4RJkl6) | 2:43 |
 | 105 | [Love Shine Down](https://open.spotify.com/track/6Wtv2n0dqdjzeAGbxhrdWL) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Olly Murs](https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq) | 4:05 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 126 | [Free Falling](https://open.spotify.com/track/0MxXc2F46m0xTDHkbQpLs1) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Sirens](https://open.spotify.com/album/3Y3ZsVngNf68uBvv7QHrZ3) | 2:39 |
 | 127 | [Girl](https://open.spotify.com/track/07NPESjhABcRWTtLRydTS4) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Girl](https://open.spotify.com/album/4u2SR190hhv6SGDNm0vChV) | 2:57 |
 | 128 | [Ain't One Thing](https://open.spotify.com/track/3jqnjFXsxFGiSKUxB5GqN5) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Some Nights Last for Days](https://open.spotify.com/album/3zfGPmRofpeOiZCIsgekUF) | 2:52 |
-| 129 | [All or Nothing](https://open.spotify.com/track/6cy6q63aHMraSCtwt9bwMy) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 |
-| 130 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 129 | [Manifesting](https://open.spotify.com/track/1iEKheX3sTJa6VHwqk7dK3) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 2:57 |
+| 130 | [All or Nothing](https://open.spotify.com/track/6cy6q63aHMraSCtwt9bwMy) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 |
 | 131 | [Play Me](https://open.spotify.com/track/0yLB4F9cLHcNYi9GHOcmfc) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 3:36 |
 | 132 | [GO MODE](https://open.spotify.com/track/2D0MoJ4EdhuV9PjP7M3Rkc) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:36 |
 | 133 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 181 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 182 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `Ab606gAAAADl9ljHNyc18RsdyVN95j4i`
+Snapshot ID: `Ab66vAAAAAC/EdusolbCpv6Tsp4aaYeP`

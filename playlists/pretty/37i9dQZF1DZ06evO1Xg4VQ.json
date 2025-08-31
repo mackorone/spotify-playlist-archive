@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72022,
+  "num_followers": 72028,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADKA2/wgnowONSU2kElIpj5",
+  "snapshot_id": "aLDtgAAAAADNaF0IjWmV2mQvYks425gQ",
   "tracks": [
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
         "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 231506,
       "name": "La Barca (with Lila Downs)",
       "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,

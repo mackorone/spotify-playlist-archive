@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 75 | [To Do List](https://open.spotify.com/track/1U5yljiF4b2KwGvDLgt2rz) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:26 |
 | 76 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
 | 77 | [New Truck](https://open.spotify.com/track/3rPkYKoR924QmwcmaYjyfo) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:22 |
-| 78 | [Neva Neva](https://open.spotify.com/track/3kkTirqEG0FgeCSZLYXgut) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 3:18 |
-| 79 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 78 | [The Baddest](https://open.spotify.com/track/0ENXtaJRb7ixLcmFjM3gbu) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 79 | [Neva Neva](https://open.spotify.com/track/3kkTirqEG0FgeCSZLYXgut) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 3:18 |
 | 80 | [Loverman \(feat\. Priscilla Renea\)](https://open.spotify.com/track/6Cfy5wwz2S0TpF6KhE30er) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [a girl a bottle a boat](https://open.spotify.com/album/26OJfCFh7u9WmHd3Y3q8IS) | 2:41 |
 | 81 | [Process](https://open.spotify.com/track/45wbaSjwlHfUyLf36DHPtF) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:54 |
 | 82 | [Chit Chat](https://open.spotify.com/track/02TXRRR6EXFGLnqmHXWI0P) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Heavy Rules Mixtape](https://open.spotify.com/album/7MNdScEmf2wgF9bVLOyXKs) | 3:20 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 179 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 180 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Ab604AAAAADhpC53xY57VV9HmvyFMyiK`
+Snapshot ID: `Ab66qAAAAABDcZ4dspy7eNKkVtdP277Q`

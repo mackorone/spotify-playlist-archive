@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-588 songs - 1 day 9 hr 9 min
+589 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\) \- “ From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack ”](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-09-30 | 2023-03-04 |
 | [Heartbeat Connection](https://open.spotify.com/track/38khFVtHj2atrYLxeSJZKu) | [Swim](https://open.spotify.com/artist/5sU8kGIBhMYhDIPr0zu20w) | [Heartbeat Connection](https://open.spotify.com/album/1eIXyka0S5LMSBVNPqM5BT) | 3:40 | 2022-04-27 | 2022-07-29 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2022-12-14 | 2025-05-10 |
-| [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2021-12-16 |  |
+| [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2021-12-16 | 2025-08-31 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2022-07-08 | 2022-08-15 |
 | [Heaven Is A Place On Earth \- Promo 7" Edit](https://open.spotify.com/track/3EvpaRZkKWxsgDIO2zMH7g) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 3:53 | 2022-09-09 | 2022-12-14 |
 | [Hello](https://open.spotify.com/track/5nRwc9fPDqd7Ta3cQBbonP) | [7th & Hope](https://open.spotify.com/artist/4sIynoozX5MEIq6eBz92KK) | [Hello](https://open.spotify.com/album/1Io0oNBuAcfl5kYZNe0a5P) | 2:42 | 2022-02-21 | 2022-07-29 |
@@ -389,6 +389,7 @@
 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 | 2021-12-16 | 2022-11-13 |
 | [Only You](https://open.spotify.com/track/7dLOOzJGQnsgqFcflWiEcZ) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Bryan Finlay](https://open.spotify.com/artist/3bmpMHIiXjoOP4KORU9bCL) | [Only You](https://open.spotify.com/album/2IgoG92BBQMm6mB6ZjiQX9) | 3:02 | 2021-12-16 | 2022-07-29 |
 | [Ooh La La](https://open.spotify.com/track/6RMMUeYPFoOSL7lMTnMURk) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Ooh La La](https://open.spotify.com/album/0oMiT1tUJV6BhnE22Vg5ht) | 2:49 | 2021-12-16 | 2022-07-29 |
+| [Open Your Heart](https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:13 | 2024-07-12 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-05-09 |  |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-12-14 | 2023-07-01 |
 | [Outstanding](https://open.spotify.com/track/5csB2ObtPw026SLDOgQLvc) | [Roy Batty](https://open.spotify.com/artist/4MvzedBYPLY7bqNhkBWNWP), [Alex Raider](https://open.spotify.com/artist/3kqsHzwkLANM95Ohcf6V9d) | [Outstanding](https://open.spotify.com/album/199iRnf07WUET2598IV8G0) | 3:16 | 2022-06-24 | 2022-07-24 |

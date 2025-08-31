@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Ke Personajes
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,353 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,437 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 91 | [Perdóname \- Versión Cumbia](https://open.spotify.com/track/6E4X11lIgXzJMD84oO8K4h) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Perdóname \- Versión Cumbia](https://open.spotify.com/album/3gMLBdIC3o1ljxnDRXDbAv) | 3:12 |
 | 92 | [Poloche](https://open.spotify.com/track/6FbQ2tej1wh45DyEwFSE0m) | [Los Sufridos](https://open.spotify.com/artist/2tmrdVbpFzIVIOcqxvErj2), [N.I.T.O](https://open.spotify.com/artist/4tLDopX5IY3O47FaJLO7A3) | [Poloche](https://open.spotify.com/album/4kplVgxLR5xJ0o9E6WlDTp) | 2:38 |
 | 93 | [Moneda de Tres Pesos](https://open.spotify.com/track/2rGhhqUeZc9L1IrHDQlDcC) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f), [stephy ayala](https://open.spotify.com/artist/0MUHkqYEA1G9AjD70kQMX0) | [Moneda de Tres Pesos](https://open.spotify.com/album/2RT7JHsZtVgXgRR6vK1mY0) | 3:16 |
-| 94 | [Marbella](https://open.spotify.com/track/4i2nohBmdMiJf8HFHBPsnE) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Tropical Vibes](https://open.spotify.com/album/7CGjr14MrbsL8UFuptMDvs) | 2:10 |
+| 94 | [Marbella](https://open.spotify.com/track/4i2nohBmdMiJf8HFHBPsnE) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Claudiortiz](https://open.spotify.com/artist/1SONNrL6c9HhMIcCdkldRF) | [Tropical Vibes](https://open.spotify.com/album/7CGjr14MrbsL8UFuptMDvs) | 2:10 |
 | 95 | [Lindo Dia](https://open.spotify.com/track/6UcRwLTiBZ4gp2n68pHXlD) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Lindo Dia](https://open.spotify.com/album/2mI8BfJebGfU2uxDwh16XJ) | 3:18 |
 | 96 | [Mi Coqueta](https://open.spotify.com/track/2wDn0zAsrIMfSfk0GvCi9D) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Mi Coqueta](https://open.spotify.com/album/1r1Uf3Jq6XnFsnAU30ultf) | 3:48 |
 | 97 | [Serenata \- bachata \- En Vivo](https://open.spotify.com/track/0XYJm2z26QEOrj0bwqqjS5) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Serenata \- bachata \(En Vivo\)](https://open.spotify.com/album/0LXIq7THjQTM688tq6aouh) | 3:47 |

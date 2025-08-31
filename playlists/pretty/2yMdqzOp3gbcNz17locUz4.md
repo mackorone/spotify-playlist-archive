@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/0uV7gNXQdzaZA0GjgeUdE6?si=YFHR7crYSIeNUUicOE1Hcw">carter c</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,600 likes - 116 songs - 6 hr 22 min
+[trickyStoop](https://open.spotify.com/user/tlpij335kpcn3s0ulidrtgtid) - 3,601 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/2yMdqzOp3gbcNz17locUz4.md) - [plain]
 | 7 | [The Water](https://open.spotify.com/track/5IJdAkK1KJfr8oAa1S2cUl) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Staring Down The Barrel](https://open.spotify.com/album/3VKTPNZCARzAXTxFpQlJ66) | 1:31 |
 | 8 | [Navigator](https://open.spotify.com/track/5oZnpwPZW0jOpobzSG7l3O) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Navigator](https://open.spotify.com/album/2KnxoUvGsuTXBMIuBqfdfv) | 4:23 |
 | 9 | [Toons Can't Die](https://open.spotify.com/track/2O7QfAOtjmuwovNP2BHoEa) | [Furry Loser](https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk) | [Painting Clouds and Mountaintops](https://open.spotify.com/album/43d8wYLX8bTRf00ikYPGSE) | 4:51 |
-| 10 | [dizzzzy](https://open.spotify.com/track/5kiIj9D1XgmDke1vdopgMm) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [krwyn](https://open.spotify.com/artist/1amkng7Rw5XiSnZ43yo55j), [ilysm](https://open.spotify.com/artist/4C50lCjGzvP8PqaZ2G3qf8) | [save the world](https://open.spotify.com/album/11483W3CdWdNelyLQy61F0) | 2:49 |
+| 10 | [dizzzzy](https://open.spotify.com/track/5kiIj9D1XgmDke1vdopgMm) | [bea4real](https://open.spotify.com/artist/2TLhLQc2Y4cIGC5gg65zSH), [krwyn](https://open.spotify.com/artist/1amkng7Rw5XiSnZ43yo55j), [ilysm](https://open.spotify.com/artist/4C50lCjGzvP8PqaZ2G3qf8) | [save the world](https://open.spotify.com/album/11483W3CdWdNelyLQy61F0) | 2:49 |
 | 11 | [Glitching](https://open.spotify.com/track/4boi5YUGgirDQvtb4u2OCd) | [francium](https://open.spotify.com/artist/75mDfzs1ZGeTyh6OPYLlly) | [Something to add](https://open.spotify.com/album/4wBXOpL8twE75uIuSAvizR) | 1:42 |
 | 12 | [NOBODYKNOWS](https://open.spotify.com/track/2681Q9ESPtC5WV40JRGGC8) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [NOBODYKNOWS](https://open.spotify.com/album/5dFmgTO4kx9X78QWhiro0o) | 3:30 |
 | 13 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 |

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-436 songs - 1 day 2 hr 5 min
+438 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 | 2022-10-12 | 2023-10-05 |
 | [Good Vibrations](https://open.spotify.com/track/5hDBRwjI1ShIqqUDGT8WAZ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Good Vibrations](https://open.spotify.com/album/2lq1GCahwb7UkpwqL3S0VR) | 3:29 | 2024-07-25 |  |
 | [Gravity \- Payfone Remix](https://open.spotify.com/track/6UcCynkyFSmmjcxBdPqeTg) | [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc), [Payfone](https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu) | [Gravity \(Payfone Remix\)](https://open.spotify.com/album/4UVDulFuJkfv84DZGnGxSJ) | 5:47 | 2024-06-07 |  |
+| [Green and Gold \- Delfonic Rework](https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 4:01 | 2025-08-30 |  |
 | [Hands Up](https://open.spotify.com/track/15VZAEqTSjheNR2XdyMLuc) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Hands Up](https://open.spotify.com/album/0Bwu8g04lF4mEIvoSMNeD4) | 4:12 | 2022-09-09 | 2022-12-02 |
 | [Hard to Get](https://open.spotify.com/track/5y8AZ1jWdnPHrQoyhswqFw) | [Thomas Ford](https://open.spotify.com/artist/4prjwjwLedf54KWAs54ErF) | [Hard to Get](https://open.spotify.com/album/4TTi9VEk5HZmsnsywsOIuQ) | 3:03 | 2022-09-09 | 2024-05-10 |
 | [Heels \- Moods Remix](https://open.spotify.com/track/2YrSZEwN7rDAdBNZc7Pzb5) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Heels \(Moods Remix\)](https://open.spotify.com/album/1UUn9hgxPip1wXzHXpKxO1) | 3:21 | 2022-09-09 | 2022-10-13 |
@@ -439,6 +440,7 @@
 | [You 2 Thank](https://open.spotify.com/track/0r73aRdmx8uVeUzL6yYzSC) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [You 2 Thank](https://open.spotify.com/album/770NPIetbye6vd31ZDuG09) | 2:44 | 2023-12-08 | 2024-09-27 |
 | [You Can Do Anything](https://open.spotify.com/track/3mgBGxzglmgIK02jP5oqX2) | [YesYou](https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd) | [You Can Do Anything](https://open.spotify.com/album/5rYDRc3OLQVqWqa41I3KBL) | 2:39 | 2024-07-04 |  |
 | [You don't listen](https://open.spotify.com/track/7JjRTtAWZND9U2XoH4Il6D) | [Moodssupply](https://open.spotify.com/artist/2EqKTm9ltVzMpSWZHpSOy2) | [You don't listen](https://open.spotify.com/album/2uK8gE6zUjiZ8vfBZvL5Y3) | 2:32 | 2025-01-10 |  |
+| [You Got It](https://open.spotify.com/track/3HDzfqVlr9Fe3ZvPFOUnwP) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [FREE UP](https://open.spotify.com/album/6LjosUEO0uYlyNKpUtL3Tm) | 4:03 | 2025-08-30 |  |
 | [You're Home](https://open.spotify.com/track/3kfalsko8zp5Mvt0sPMuvL) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [You're Home](https://open.spotify.com/album/4ynSL73wIneH2Z9jP2SGgG) | 2:08 | 2024-10-17 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2024-01-23 |
 | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/track/6zeDZ7S5TJ8kIn3V0OGVvV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Young Hearts \(Polo & Pan Remix\)](https://open.spotify.com/album/5UCvSYbby8k6RQam1apbbz) | 3:29 | 2024-01-22 | 2024-04-19 |

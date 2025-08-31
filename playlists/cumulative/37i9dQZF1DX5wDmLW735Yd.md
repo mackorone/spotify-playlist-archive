@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, Mia Falls
+> The world's biggest Drum 'n' Bass playlist! Cover: DJ Zinc, Mila Falls
 
 1,000 songs - 2 day 11 hr 5 min
 

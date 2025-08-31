@@ -2754,7 +2754,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 415440,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
@@ -4376,7 +4376,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 372375,
       "name": "Ayaphi Amaphoyisa",
       "url": "https://open.spotify.com/track/2ez4Ors2dEJlMvUYWTtHzj"
@@ -5050,6 +5050,36 @@
       "duration_ms": 245760,
       "name": "Bafana (feat. Ba Bethe Gashoazen)",
       "url": "https://open.spotify.com/track/5W6KyyrmTImJK4vGsnfQuZ"
+    },
+    {
+      "album": {
+        "name": "Kings Will Rise",
+        "url": "https://open.spotify.com/album/14IjonLq86hzXdpLFwP4RL"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399292,
+      "name": "Bafo (feat. Njelic & Tman Xpress)",
+      "url": "https://open.spotify.com/track/3ujiDUMKDtyuckY8Ck8QUH"
     },
     {
       "album": {
@@ -12378,7 +12408,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 184320,
       "name": "Different Species (feat. Gunna)",
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
@@ -12598,7 +12628,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 428816,
       "name": "Dlala Ka Yona (feat. Focalistic, Ricky Lenyora, Uncool MC & Mellow & Sleazy)",
       "url": "https://open.spotify.com/track/659qsb8NZaTuNubJDk1gaD"
@@ -19342,7 +19372,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 348490,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5ig0RnKG54l8pB6x6PSzDL"
@@ -26855,6 +26885,40 @@
     },
     {
       "album": {
+        "name": "Kings Will Rise",
+        "url": "https://open.spotify.com/album/14IjonLq86hzXdpLFwP4RL"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373805,
+      "name": "Lalelani (feat. Zaba, Njelic & Dlala Thukzin)",
+      "url": "https://open.spotify.com/track/70s9t9OKbbhKOKCqcs5aEj"
+    },
+    {
+      "album": {
         "name": "Sewe",
         "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
       },
@@ -29242,7 +29306,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 442691,
       "name": "Mabebuza - Mdu aka TRP Remix",
       "url": "https://open.spotify.com/track/15goPz747cpNjWQP2sjo2D"
@@ -29981,7 +30045,7 @@
         },
         {
           "name": "Skillz",
-          "url": "https://open.spotify.com/artist/7FL9mLob9AYSvvTqeYiJqQ"
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
         },
         {
           "name": "Sykes",
@@ -33730,7 +33794,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 383425,
       "name": "Ngathi Nguye",
       "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"
@@ -34288,7 +34352,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 283062,
       "name": "Ngiyakuthanda",
       "url": "https://open.spotify.com/track/3RCMGDpJlWeEgCLhOz63oa"
@@ -50739,6 +50803,40 @@
     },
     {
       "album": {
+        "name": "Amazwi Okubonga",
+        "url": "https://open.spotify.com/album/5i4SCQfgYUJ0tZNRsxz9mF"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "DJ Veek",
+          "url": "https://open.spotify.com/artist/3sDsuIwH3ClfSh6aMgEC7o"
+        },
+        {
+          "name": "Criimora b.k.z",
+          "url": "https://open.spotify.com/artist/1Pz02GTLnPBX75ECw6OBty"
+        },
+        {
+          "name": "ChildDaDj",
+          "url": "https://open.spotify.com/artist/70DzXxVr9BqAIfsBoa3rn5"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397682,
+      "name": "Umona (feat. Sykes)",
+      "url": "https://open.spotify.com/track/5AROirCx9LJlNF66npXCki"
+    },
+    {
+      "album": {
         "name": "umoya",
         "url": "https://open.spotify.com/album/1WIQTSv4ExIRpENXv14rdH"
       },
@@ -54586,7 +54684,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

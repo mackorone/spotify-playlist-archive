@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Geassassin en la tarima.
 
-750 songs - 1 day 20 hr 7 min
+751 songs - 1 day 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Toma 4](https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 4](https://open.spotify.com/album/7Il1eXMjz7OJExifvW8Vgt) | 3:20 | 2022-04-22 | 2023-06-17 |
 | [Too Much Flow](https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Too Much Flow](https://open.spotify.com/album/1lp5sffsnaXjF5W5BxMKrK) | 3:34 | 2022-01-28 | 2022-04-25 |
 | [Top Rank](https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Top Rank](https://open.spotify.com/album/20YVpil3sY0AZLfoNAySuS) | 2:05 | 2023-03-03 | 2023-05-20 |
+| [Track 1](https://open.spotify.com/track/6oJF7CYjSveetFyiDbjjCy) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C), [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q), [YoungKidz](https://open.spotify.com/artist/05yWybuA4tWnASXd89oNMS) | [RAPSTARDOS](https://open.spotify.com/album/7pt0I0Oo9Z9H2gnv29sq9v) | 0:00 | 2025-08-29 |  |
 | [Traicionero](https://open.spotify.com/track/3ro7U72y8MOT3047ioOCiV) | [Shino Amb](https://open.spotify.com/artist/5POETuwoYsELLuimWVzQYC), [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC), [Alvin Muñoz](https://open.spotify.com/artist/7ipu46kBcsrewN7ngPJWFp) | [Traicionero](https://open.spotify.com/album/7FszHUAmLlersoAxteScJP) | 4:34 | 2023-01-27 | 2023-02-11 |
 | [Traigo El Mando](https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Traigo El Mando](https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa) | 3:02 | 2023-09-01 | 2024-11-16 |
 | [Trankilikilon](https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trankilikilon](https://open.spotify.com/album/6JiEE9Gp2A4ltyUz43mHtn) | 3:34 | 2022-07-06 | 2023-06-01 |

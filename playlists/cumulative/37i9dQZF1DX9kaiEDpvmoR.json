@@ -244,7 +244,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 171946,
       "name": "Alla minnen kvar",
       "url": "https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 272980,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0OFAFAZed5rbdxM5YnQyt4"
@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4rleken \u00e4r kung",
+        "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
+      },
+      "artists": [
+        {
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149153,
+      "name": "K\u00e4rleken \u00e4r kung",
+      "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
+    },
+    {
+      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -6526,7 +6544,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 242013,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"

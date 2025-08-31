@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 226251,
       "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
       "url": "https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 138982,
       "name": "Ingen vil elsk d\u00e6 (feat. Sval)",
       "url": "https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh"
@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166036,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr"
+    },
+    {
+      "album": {
         "name": "R\u00f8d cabriolet",
         "url": "https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg"
       },
@@ -4534,6 +4552,24 @@
       "duration_ms": 174692,
       "name": "wildflower",
       "url": "https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ"
+    },
+    {
+      "album": {
+        "name": "\u00c6lsk n\u00e5nn",
+        "url": "https://open.spotify.com/album/3SxRO68yT4mmagISCMzjJP"
+      },
+      "artists": [
+        {
+          "name": "Ingrid V\u00e5rvik",
+          "url": "https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185206,
+      "name": "\u00c6lsk n\u00e5nn",
+      "url": "https://open.spotify.com/track/3m4V5TOoJCX2zriMAQNIk4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8RrjZR06viH"

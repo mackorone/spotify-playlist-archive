@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 197272,
+  "num_followers": 197304,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAA8heHxf1okoxk+lEbQIIHt",
+  "snapshot_id": "aLDtgAAAAACZ/FNwgU+ruERqiTLuiB9P",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77",
         "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 260506,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 302520,
-      "name": "Take Me to the River - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1oV1tu8utgHQjLJsEK9sVl"
+      "duration_ms": 302893,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/1auuYcOrua5hrsGCS7idun"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 238906,
-      "name": "The Lady Don't Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
+      "duration_ms": 156480,
+      "name": "Sugar on My Tongue - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1w3IeWPxVHuw0gyXcGV2pN"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Sugar on My Tongue - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1w3IeWPxVHuw0gyXcGV2pN"
+      "duration_ms": 238906,
+      "name": "The Lady Don't Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 222413,
-      "name": "Stay up Late - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
+      "duration_ms": 332093,
+      "name": "(Nothing But) Flowers - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 332093,
-      "name": "(Nothing But) Flowers - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+      "duration_ms": 222413,
+      "name": "Stay up Late - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+      "duration_ms": 169466,
+      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Uh-Oh, Love Comes to Town - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1ziWFozxLNQH76CGGizB32"
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
       "duration_ms": 354213,
       "name": "Making Flippy Floppy - 2005 Remaster",
       "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 258053,
+      "name": "Psycho Killer - Acoustic",
+      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 258053,
-      "name": "Psycho Killer - Acoustic",
-      "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 188973,
       "name": "I Zimbra - 2005 Remaster",
       "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6S2pKjLlCpH5Fv5TQX2IBa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Listening Wind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 178000,
       "name": "Love \u2192 Building on Fire - 2004 Remaster",
       "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Listening Wind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/438kAOxGJQtpEkVMom9WXJ"
     },
     {
       "added_at": null,

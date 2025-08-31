@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,422 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,437 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [മിന്നി മറഞ്ഞു](https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs) | [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [GATE](https://open.spotify.com/album/76aZGm2avDSL6BrJwsjuNi) | 2:57 |
 | 2 | [Gang B](https://open.spotify.com/track/649iHHlfV5MjNIMsmeRDzW) | [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Gang B](https://open.spotify.com/album/6tPkFSgCB5fzzPqb3pMhZw) | 3:59 |
 | 3 | [District 7](https://open.spotify.com/track/7L7KUlPFJJld5GfOO20GIG) | [Dan Pearson](https://open.spotify.com/artist/5Nn0s495B28CrScEPN1GkQ), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [District 7](https://open.spotify.com/album/2rMb2UfKlyXUekKL86UeGc) | 2:58 |
-| 4 | [Thinnua Orangua](https://open.spotify.com/track/0BpwI9BApncyL9IcRCRVHZ) | [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO), [Hyper KR](https://open.spotify.com/artist/3s3KFYdMQq3mshkQtdE3OL) | [Thinnua Orangua](https://open.spotify.com/album/3zckeKqr4M8aYRj6ZekDWs) | 2:51 |
+| 4 | [Thinnua Orangua](https://open.spotify.com/track/0BpwI9BApncyL9IcRCRVHZ) | [Hyper KR](https://open.spotify.com/artist/3s3KFYdMQq3mshkQtdE3OL), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [Thinnua Orangua](https://open.spotify.com/album/3zckeKqr4M8aYRj6ZekDWs) | 2:51 |
 | 5 | [Irul](https://open.spotify.com/track/4myT2BMTVpWZkJ0YYb2kiQ) | [Earthgrime](https://open.spotify.com/artist/2eDYdmzgVH5cTJh20dCeSO), [Edo No Jidai](https://open.spotify.com/artist/2uqwKAgha9aY8lqBIZk0t9) | [Irul](https://open.spotify.com/album/2w0wncIpGuQ3ZY6ZlVaBe8) | 2:40 |
 | 6 | [Parotta & Beef \(From "Loopd"\)](https://open.spotify.com/track/3mGCnv2BBiTXMuM4r56qup) | [Yestey](https://open.spotify.com/artist/61GIgF63J9NtPTJabXY1id), [Tuhin](https://open.spotify.com/artist/1z4Jw5qcAlfAgu0ZVMKRMB) | [Parotta & Beef \(From "Loopd"\)](https://open.spotify.com/album/6wmPuMeUMMLBJbUi4ihjC4) | 3:06 |
 | 7 | [POOPAADAM](https://open.spotify.com/track/339DGFmkpYyNfylP28dpJi) | [The Culturehood](https://open.spotify.com/artist/7MI6r4NDDgVjonBkrnXAgx), [mubasssok](https://open.spotify.com/artist/0WYTnBzklB1EUwdBNYO53l), [MC MAC](https://open.spotify.com/artist/3wVf68S73HpgPc03cYE5sD) | [POOPAADAM](https://open.spotify.com/album/4Xl8JVFlXhjcMktvEhWQED) | 3:11 |

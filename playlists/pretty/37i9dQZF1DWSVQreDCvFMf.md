@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: NOBITA
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,863 likes - 149 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,892 likes - 149 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Madilyn Mei
 
-2,001 songs - 4 day 12 hr 10 min
+2,003 songs - 4 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Best They Ever Had](https://open.spotify.com/track/5ktOGNBypzC0E6mQ8hHDjk) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Best They Ever Had](https://open.spotify.com/album/70JbZ1zZ3kZJ2oteMXMm5h) | 2:39 | 2022-11-30 | 2023-01-05 |
 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/4DlQATcTbsUyf1RSxDVVYT) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Before The Gloss Up](https://open.spotify.com/album/6GH2gPa7pby3C7FAg4elDp) | 2:18 | 2023-02-01 | 2023-02-17 |
 | [Bestfrenn \(feat\. GloRilla\)](https://open.spotify.com/track/4fxSegYEwj9e2L4PYbM4xK) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Before The Gloss Up](https://open.spotify.com/album/2jI8AvIGU33ArLL94xJRA1) | 2:18 | 2023-02-07 | 2023-03-02 |
+| [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 | 2025-08-29 |  |
 | [BETTER \(arr\. Emawk\)](https://open.spotify.com/track/5kZhsoeFVmoLWOkRNx8YmB) | [Malika Tirolien](https://open.spotify.com/artist/0ikYn0NEcQ8rC64TA3Rh4N), [emawk](https://open.spotify.com/artist/7gSZocK2o1aDYdXQcVZKJp) | [Better \(arr\. Emawk\)](https://open.spotify.com/album/1pTdZPhmgOd5rTJa7a1YtT) | 5:40 | 2022-11-02 | 2022-12-01 |
 | [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 | 2024-09-03 | 2024-10-02 |
 | [Better Thangs \(with Summer Walker\)](https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77) | 3:34 | 2022-10-05 | 2022-11-03 |
@@ -521,7 +522,7 @@
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-10-04 | 2023-11-09 |
 | [Dust](https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Dust](https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H) | 2:58 | 2025-01-17 | 2025-04-09 |
 | [Dystopia Girl](https://open.spotify.com/track/2tAr4OkKQRfkeQcSXaJ7sK) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 3:44 | 2023-09-06 | 2023-10-05 |
-| [E After Next](https://open.spotify.com/track/4xbkVck6aVUis2XHMnmDhV) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Perpetual Emotion Machine](https://open.spotify.com/album/1SQyTavN3Uk6iLujhoUCUM) | 3:59 | 2025-08-29 |  |
+| [E After Next](https://open.spotify.com/track/4xbkVck6aVUis2XHMnmDhV) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Perpetual Emotion Machine](https://open.spotify.com/album/1SQyTavN3Uk6iLujhoUCUM) | 3:59 | 2025-08-29 | 2025-08-31 |
 | [Ease Your Mind](https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb) | [NAOMI](https://open.spotify.com/artist/30JZwBAgqINdgg2zefqwha) | [Ease Your Mind](https://open.spotify.com/album/2tcYrqRgthQ8DDEIRz0XhI) | 2:56 | 2025-08-04 | 2025-08-30 |
 | [Easy](https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:28 | 2023-06-07 | 2023-07-06 |
 | [easy going down](https://open.spotify.com/track/6fpBjPf37z4b55lAiaIReL) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [easy going down](https://open.spotify.com/album/5ETx9RPz9XEZm8TnWJUZod) | 2:26 | 2023-08-02 | 2023-09-07 |
@@ -1476,6 +1477,7 @@
 | [Roc Steady \(feat\. Flo Milli\)](https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:19 | 2025-01-17 | 2025-04-07 |
 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 | 2024-08-01 | 2024-09-04 |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-03-08 | 2022-04-07 |
+| [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 | 2025-08-29 |  |
 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 | 2025-04-01 | 2025-07-02 |
 | [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-08-03 | 2022-08-10 |
 | [rookie of the year](https://open.spotify.com/track/52efxkazJPLF9SeuUuuX0u) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:49 | 2024-05-01 | 2025-01-18 |
@@ -1927,7 +1929,7 @@
 | [Where do we go now?](https://open.spotify.com/track/22bV9M6ZhoSMQk6Kumpe92) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:03 | 2023-04-05 | 2023-05-04 |
 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 | 2023-11-29 | 2024-01-27 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-02-01 | 2023-03-02 |
-| [Where Is My Angel](https://open.spotify.com/track/0gtymJc3EEfZezuhNwcKWn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 4:25 | 2025-08-04 |  |
+| [Where Is My Angel](https://open.spotify.com/track/0gtymJc3EEfZezuhNwcKWn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 4:25 | 2025-08-04 | 2025-08-31 |
 | [Wherever You Are \- Radio Mix](https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are \(Radio Mix\)](https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T) | 3:23 | 2025-02-08 | 2025-04-09 |
 | [While We Wait](https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [While We Wait](https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI) | 3:19 | 2022-04-06 | 2022-05-05 |
 | [While You're At It](https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [While You're At It](https://open.spotify.com/album/2C8nRU6fcdKtxIAduogNgS) | 2:07 | 2022-10-05 | 2022-11-03 |

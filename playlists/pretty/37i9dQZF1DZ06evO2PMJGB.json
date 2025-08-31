@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264402,
+  "num_followers": 264440,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACUg13aG9Rh4Lflzbr39oDt",
+  "snapshot_id": "aLDtgAAAAAD/hujWAMLBfrcjzYBBUEwL",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
       "duration_ms": 149090,
       "name": "BATE VOLTA",
       "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Kingdom BR",
+        "url": "https://open.spotify.com/album/67IWz5Q3oC4L2jyNDBYaqt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 115556,
+      "name": "Red Kingdom BR",
+      "url": "https://open.spotify.com/track/4CY4h9AlvsMR8foW2yhA71"
     },
     {
       "added_at": null,
@@ -407,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -443,6 +439,26 @@
       "duration_ms": 147482,
       "name": "U\u00f1as Afiladas",
       "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
     },
     {
       "added_at": null,

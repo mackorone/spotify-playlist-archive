@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,451 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,540 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 73 | [Moonlight Serenade](https://open.spotify.com/track/6Tw9p1kBeDyv9opkP7oDuF) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:05 |
 | 74 | [You Taught My Heart to Sing](https://open.spotify.com/track/6ZZSi4URY8EIS6xOWkmhdV) | [Lucía](https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii) | [Lucía](https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7) | 4:38 |
 | 75 | [I'll Love You Just The Same](https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik) | [Kieran Brown](https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ) | [Loving You](https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR) | 3:20 |
-| 76 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
-| 77 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 76 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 77 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
 | 78 | [Thank You for Everything](https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Mellow Tones](https://open.spotify.com/album/3b6kIkydadwHO9xberFMQ5) | 5:55 |
 | 79 | [My Funny Valentine](https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:32 |
 | 80 | [I've Been Kicking Myself](https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I've Been Kicking Myself](https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq) | 3:14 |

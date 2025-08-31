@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "Awaiting",
+        "url": "https://open.spotify.com/album/3LW69C1BGvvwgrheV8pYwe"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60437,
+      "name": "Awaiting",
+      "url": "https://open.spotify.com/track/6ucb3jW9Wf9b0w8TsXgC41"
+    },
+    {
+      "album": {
         "name": "In the Dreaming Hour",
         "url": "https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7"
       },

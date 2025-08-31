@@ -1,13 +1,29 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37066,
+  "num_followers": 37073,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABjoPh+3Oy847DDfVKzgrq3",
+  "snapshot_id": "aLDtgAAAAAAk4z2u0DAPGyEz8B7OtVV1",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tem Milagre",
+        "url": "https://open.spotify.com/album/786Yb8RGLm5I1hezYh9klS"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 247051,
+      "name": "Tem Milagre",
+      "url": "https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc"
+    },
     {
       "added_at": null,
       "album": {
@@ -507,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 266518,
+      "name": "N\u00e3o Reclame",
+      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -539,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 266518,
-      "name": "N\u00e3o Reclame",
-      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 321549,
       "name": "N\u00e3o Negue a Jesus",
       "url": "https://open.spotify.com/track/7bmiXFTz3yKImalPGZ1DeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -599,22 +631,6 @@
       "duration_ms": 289552,
       "name": "Esconderijo do Alt\u00edssimo",
       "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 322478,
-      "name": "Louve Sempre",
-      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Pare Agora",
         "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 269775,
       "name": "N\u00e3o Pare Agora",
       "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Louve Sempre",
+      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
     },
     {
       "added_at": null,
@@ -987,22 +1003,6 @@
       "duration_ms": 247942,
       "name": "A Alma Abatida",
       "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cassiane 40 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 279554,
-      "name": "Aquieta (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3zUUCAfl9sOUsogbIhJFBm"
     }
   ],
   "unique_name": "This Is Cassiane",

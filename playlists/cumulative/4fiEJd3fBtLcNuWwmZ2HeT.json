@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "kyu-kurarin",
+        "url": "https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk"
+      },
+      "artists": [
+        {
+          "name": "Iyowa",
+          "url": "https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "kyu-kurarin",
+      "url": "https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd"
+    },
+    {
+      "album": {
         "name": "L'\u00c9toile D'afrique - #18",
         "url": "https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAD/RinQNDaMCAknlWAtuml2",
+  "snapshot_id": "aLDtgAAAAADNb9hsPzflx63tpgZw2bsz",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
-        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 199753,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/1Nlnc7r6wgmpnUFKQ9gEAf"
+        "name": "I Will Follow You into the Dark / Cinco De Mayo Shit Show",
+        "url": "https://open.spotify.com/album/0zqnHcHf2juzSYudfZJe7I"
       },
       "artists": [
         {
@@ -464,25 +464,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/1PLqYyRbCsteMhCLMn4g2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rain Just Follows Me",
-        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
+      "duration_ms": 199753,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 201760,
       "name": "Somewhere In Between",
       "url": "https://open.spotify.com/track/0UbQ3KnwzzQ8uAvRA81cEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rain Just Follows Me",
+        "url": "https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 166213,
-      "name": "Hollywood & Vine",
-      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
+      "duration_ms": 166213,
+      "name": "Hollywood & Vine",
+      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
       "artists": [
         {
@@ -644,9 +644,25 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Four White Walls",
+      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 152346,
       "name": "The Girl That Destroyed Me",
       "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Four White Walls",
-      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hawthorne Heights / Emery",
         "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 224550,
       "name": "Walls",
       "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,

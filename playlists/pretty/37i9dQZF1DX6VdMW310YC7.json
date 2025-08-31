@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3922114,
+  "num_followers": 3922033,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,30 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "duration_ms": 198764,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
@@ -875,30 +899,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Dinia",
-          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
-        }
-      ],
-      "duration_ms": 198764,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Kids of the Sun",
+        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
+      },
+      "artists": [
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Kids of the Sun",
+      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 234492,
       "name": "Free",
       "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Kids of the Sun",
-        "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
-      },
-      "artists": [
-        {
-          "name": "Alex Keeper",
-          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Kids of the Sun",
-      "url": "https://open.spotify.com/track/7j0LmNibEdZWB9KNOVZ9vP"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/0udlUWkYUdtgKhg8x8DSM5"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/0udlUWkYUdtgKhg8x8DSM5"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Polar Lights",
         "url": "https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2"
       },
@@ -1667,38 +1667,6 @@
       "duration_ms": 190819,
       "name": "Polar Lights",
       "url": "https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK"
-      },
-      "artists": [
-        {
-          "name": "Drics",
-          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Postcards / All Access",
-        "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Postcards",
-      "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -1719,6 +1687,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Postcards / All Access",
+        "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK"
+      },
+      "artists": [
+        {
+          "name": "Drics",
+          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Fever In My Bones",
-        "url": "https://open.spotify.com/album/2DxlhYq3F41DrO7fwQPkTS"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "Fever In My Bones",
-      "url": "https://open.spotify.com/track/3vq0D8gv2Ga61lvcEsqXvi"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Wanna Know",
         "url": "https://open.spotify.com/album/3QLPxAh68K1z8bLdE2uMFL"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 218709,
       "name": "Wanna Know",
       "url": "https://open.spotify.com/track/3xolC0BcOdR447oA7j51k9"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Fever In My Bones",
+        "url": "https://open.spotify.com/album/2DxlhYq3F41DrO7fwQPkTS"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "Fever In My Bones",
+      "url": "https://open.spotify.com/track/3vq0D8gv2Ga61lvcEsqXvi"
     },
     {
       "added_at": "2025-08-29 04:00:36",

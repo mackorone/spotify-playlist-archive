@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TFl1j4HhQg\-lqItJ76m0lw>Lawrence Oyor</a>  and <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=HAnDya9QRIGtTDBfG7ORiw>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,315 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,568 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Morning Devotion/Amapiano Praise \- Live](https://open.spotify.com/track/1wBiGuowpm9ydzGtaCEkAV) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Morning Devotion/Amapiano Praise \(Live\)](https://open.spotify.com/album/4wDyN58e3WS3xuC06krqO5) | 13:26 |
 | 50 | [ZA](https://open.spotify.com/track/3Vh0hKMCEOip7tfy64Mg2z) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [ZA](https://open.spotify.com/album/7glx4kVsugS16QmJyouyhT) | 2:41 |
 
-Snapshot ID: `AAAAAEZpie5xeDFzcQlVIM601s60VgR+`
+Snapshot ID: `AAAAALQxa9idnPZJ+KOQnX/Rkh0595PO`

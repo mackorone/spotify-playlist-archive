@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: ليجي\-سي
 
-1,566 songs - 3 day 15 hr 23 min
+1,568 songs - 3 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Betaa Zaman](https://open.spotify.com/track/3tRFSAqNZRSi3tW09dVGNW) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Betaa Zaman](https://open.spotify.com/album/7pyyEiSY1qrUO6JXOrcPpK) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 | 2024-08-15 | 2024-09-27 |
 | [Betseeri El Gadal](https://open.spotify.com/track/6x2JlAZVoq7ELXSiRfEIAn) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Betseeri El Gadal](https://open.spotify.com/album/69MCpaAU3I4bki2lxwDXqZ) | 2:46 | 2023-02-02 | 2023-03-11 |
+| [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 | 2025-08-30 |  |
 | [Bkam](https://open.spotify.com/track/00UnHWPTVmkhRj6rW1ZlFH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 1:53 | 2023-12-21 | 2023-12-31 |
 | [Bkam](https://open.spotify.com/track/4OgtLrSm7HbhwH9EVGCz4O) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 1:53 | 2023-12-29 | 2024-01-06 |
 | [Bkam](https://open.spotify.com/track/6NxEW5BYo3SKFW6kxO9rBq) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 1:53 | 2024-01-05 | 2024-01-30 |
@@ -322,7 +323,7 @@
 | [El7kaya ElMolhema \| الحكاية الملهمة](https://open.spotify.com/track/5wz1nnypt5tuPX98MG941E) | [Elmes Edena](https://open.spotify.com/artist/650t3yUNSO3E1JVchneWxm) | [El7kaya ElMolhema \| الحكاية الملهمة](https://open.spotify.com/album/1bG6FxM6bRTdUQ86hZ8nqO) | 4:05 | 2024-02-23 | 2024-06-07 |
 | [Ela 7aden Ma](https://open.spotify.com/track/5hc6jOHOgXJtN3ZHKwj1lN) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Ela 7aden Ma](https://open.spotify.com/album/25ft5XXqmxrQCMVAOuUyxk) | 3:39 | 2023-02-23 | 2023-05-05 |
 | [Ela Mawlay](https://open.spotify.com/track/4yVvenus75K86x9UR5rv23) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Ela Mawlay](https://open.spotify.com/album/39zGZN4R5u7h2CvBF0wau1) | 3:59 | 2024-04-25 | 2024-07-02 |
-| [ELGAW HELW](https://open.spotify.com/track/7at2lxz5LlRlvqOH9xt99j) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [ELGAW HELW](https://open.spotify.com/album/445utBvTp2Z49v8mCY16Dz) | 2:34 | 2025-06-26 |  |
+| [ELGAW HELW](https://open.spotify.com/track/7at2lxz5LlRlvqOH9xt99j) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [ELGAW HELW](https://open.spotify.com/album/445utBvTp2Z49v8mCY16Dz) | 2:34 | 2025-06-26 | 2025-08-31 |
 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 | 2021-12-23 | 2022-03-10 |
 | [Elkol yez3al](https://open.spotify.com/track/5JiD624SRLUa1GZxhqmw5A) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [Elkol yez3al](https://open.spotify.com/album/5urVyboPQdZRKJRgNZphBY) | 2:57 | 2025-05-22 | 2025-07-11 |
 | [Elly Sar](https://open.spotify.com/track/6RJlxFYC6lHH7JC7FYcxll) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi), [Isco](https://open.spotify.com/artist/3Jso2v7OAOY5Pkzp3BcTxJ) | [Markeba \(Phase One\)](https://open.spotify.com/album/4LRt35cFkXXU4Gs6DFJsem) | 3:33 | 2024-12-31 | 2025-02-07 |
@@ -835,6 +836,7 @@
 | [Setohom](https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG) | [Setohom](https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2) | 2:29 | 2023-08-03 | 2023-08-24 |
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-07 | 2022-05-22 |
 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 | 2023-09-29 | 2024-01-05 |
+| [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 | 2025-08-30 |  |
 | [Shakly Ha3esh](https://open.spotify.com/track/2oWNiZYY8W5YEy2M9CPp2J) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Shakly Ha3esh](https://open.spotify.com/album/6KISR3mmosRXkxfSzVQxGz) | 3:42 | 2024-07-24 | 2024-10-04 |
 | [Shakshaka](https://open.spotify.com/track/5Eq09G3fJGaKeWDPq1CeH9) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Shakshaka](https://open.spotify.com/album/5hdm0gJYmtCnQYd0gzOu4G) | 2:33 | 2021-12-23 | 2022-03-10 |
 | [SHAMROUKH](https://open.spotify.com/track/6Ko6eF0dtw3v8Ab1GAe5J3) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [SHAMROUKH](https://open.spotify.com/album/286nUW47JR4xHHeCUD2WSf) | 2:02 | 2023-12-18 | 2024-01-26 |
@@ -1208,7 +1210,7 @@
 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 | 2023-10-06 | 2024-01-17 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-04 | 2023-08-03 |
 | [حكايتنا منهيه](https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حكايتنا منهيه](https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd) | 4:39 | 2023-08-10 | 2023-11-29 |
-| [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 | 2025-06-16 |  |
+| [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 | 2025-06-16 | 2025-08-31 |
 | [حلمي بسيط](https://open.spotify.com/track/6yQ43GHL12XAjq2U9O4vbb) | [404 Band](https://open.spotify.com/artist/0HpnFPEgkKeLBiQBzlxVOX) | [حلمي بسيط](https://open.spotify.com/album/5r6bhdq6P0nhEPStExl1wo) | 3:07 | 2025-06-19 | 2025-08-01 |
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-07 | 2023-12-25 |
 | [حمد الله على السلامة](https://open.spotify.com/track/2iKkj34fFU0fiQQm2HPuEx) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [حمد الله على السلامة](https://open.spotify.com/album/6otpGoLEbwlOE4Zm5UZmtv) | 2:55 | 2023-03-27 | 2023-05-12 |

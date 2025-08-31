@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: DVSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,174 likes - 291 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,267 likes - 291 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

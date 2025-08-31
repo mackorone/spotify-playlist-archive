@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 90013,
+  "num_followers": 90022,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "cloak n dagger",
+        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "cloak n dagger",
+      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 140183,
       "name": "800 db cloud",
       "url": "https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "cloak n dagger",
-        "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "cloak n dagger",
-      "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -975,38 +975,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 263364,
       "name": "Thos Moser",
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
-      },
-      "artists": [
-        {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Drop FM",
         "url": "https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+      },
+      "artists": [
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "HIGHSCHOOLUNDEAD",
-        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
-      },
-      "artists": [
-        {
-          "name": "Kid Trash",
-          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "MY WORLD",
-      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Dog Show",
         "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 117003,
       "name": "127 Hrs in Bed",
       "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "HIGHSCHOOLUNDEAD",
+        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
+      },
+      "artists": [
+        {
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "MY WORLD",
+      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
     },
     {
       "added_at": "2024-10-09 21:55:22",

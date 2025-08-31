@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAB97NrqHx9YwJ2ekgjMeaCC",
+  "snapshot_id": "aLDtgAAAAACkN8EHN2DxpanyAoxIkkWT",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "So Easy",
+      "url": "https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O"
+    },
     {
       "added_at": null,
       "album": {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 241520,
-      "name": "Sweater Forever",
-      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+      "duration_ms": 155840,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 155840,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
+      "duration_ms": 241520,
+      "name": "Sweater Forever",
+      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
     },
     {
       "added_at": null,
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
+      "duration_ms": 203786,
+      "name": "High",
+      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
     },
     {
       "added_at": null,
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 203786,
-      "name": "High",
-      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
+      "duration_ms": 165613,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-270 songs - 16 hr 48 min
+271 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blow \- Cirkut Remix](https://open.spotify.com/track/6OUkQGd1Wt2SuTctHdZPfj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [I Am The Dance Commander + I Command You To Dance: The Remix Album](https://open.spotify.com/album/4OcwiwMiAXhAbe4AlHjSvN) | 4:05 | 2023-04-14 | 2023-04-27 |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2025-05-02 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2023-02-16 | 2023-08-19 |
+| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-29 |  |
 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 | 2023-09-05 |  |
 | [Bruises](https://open.spotify.com/track/4KCcxVTDOuOntQCaXZkN3R) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/0LxYnbZ4oZcDYF9UIFxqLF) | 4:01 | 2023-09-05 | 2024-04-19 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-11-10 | 2024-02-02 |
@@ -127,7 +128,7 @@
 | [I'm In Miami Bitch](https://open.spotify.com/track/1vaUxfrERQIQfJ1wBTmeRE) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Party Rock](https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR) | 3:47 | 2023-04-14 | 2023-04-27 |
 | [I'm Just Your Problem \(feat\. Olivia Olson\)](https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [Olivia Olson](https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb) | [Adventure Time, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/65tIpVeX7kDv9ZCyZDV90e) | 1:56 | 2023-04-14 | 2023-05-18 |
 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 | 2023-09-05 | 2024-12-11 |
-| [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 | 2023-09-05 |  |
+| [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 | 2023-09-05 | 2025-08-31 |
 | [Indie Rokkers](https://open.spotify.com/track/0gCNIZWff5ymNGYMbwImMz) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Time to Pretend](https://open.spotify.com/album/00yE8PoU4i4mEP08jfrdt0) | 4:25 | 2023-05-17 | 2023-07-25 |
 | [Infinity Guitars](https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 2:31 | 2023-09-05 | 2025-07-26 |
 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 | 2023-04-14 | 2023-04-27 |

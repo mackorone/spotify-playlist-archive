@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: IVE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,992 likes - 110 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,020 likes - 110 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 16 | [VIRAL \(feat\. Dok2\)](https://open.spotify.com/track/08ivrwf2GQAaYBI0dlcAqb) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [CHAPTER III](https://open.spotify.com/album/3eMzL0AxT1odEw7fsWA3Gr) | 2:38 |
 | 17 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 |
 | 18 | [LOVE ME](https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [POSER](https://open.spotify.com/album/0nMWRJyIjND1q5lSMW4fus) | 2:26 |
-| 19 | [boyhood](https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Peace](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 3:08 |
+| 19 | [boyhood](https://open.spotify.com/track/2qwuV26irr0fQwgvsSsdQM) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 3:08 |
 | 20 | [hot!hot](https://open.spotify.com/track/6Hcvia1nQPq90eLukDiQb8) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [hot!hot](https://open.spotify.com/album/07QKohzvcVCO8Xe1Kp1pbP) | 2:33 |
 | 21 | [Lemon Cherry Bomb](https://open.spotify.com/track/4PMhqrsIv3qJq0AwZdRzmw) | [DaHye](https://open.spotify.com/artist/6MHofs3y2bwFn1s79DfaXw) | [Prologue at the End](https://open.spotify.com/album/1ErHcIhtRJidkPcIRSvqE5) | 2:36 |
 | 22 | [Farewell Once Again](https://open.spotify.com/track/352KleOeLaDzFo8ieVd08b) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Farewell Once Again \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/4ZAWW1BGLPY07uTFxKAOCs) | 4:30 |

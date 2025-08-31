@@ -1,6 +1,6 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140999,
+  "num_followers": 141003,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Ain't Nothing Like The Real Thing",
-      "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -459,6 +439,26 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Ain't Nothing Like The Real Thing",
+      "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -519,6 +503,22 @@
       "duration_ms": 413773,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Soul Power",
         "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 270306,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+      },
+      "artists": [
+        {
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 211426,
       "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
-      },
-      "artists": [
-        {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
-        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
-      },
-      "artists": [
-        {
-          "name": "Z.Z. Hill",
-          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Clean Up America",
-      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Patches",
         "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 159040,
       "name": "Your Love Lifted Me",
       "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
+        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
+      },
+      "artists": [
+        {
+          "name": "Z.Z. Hill",
+          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Clean Up America",
+      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Enter The 37th Chamber",
-        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "You're Not Alone b/w I'm Gonna Get Loaded",
         "url": "https://open.spotify.com/album/7vPaGFQmtxOh75R5waO8Xl"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 277292,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4BHS7gFJOU0nrt8XPpv7J8"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Enter The 37th Chamber",
+        "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2711,6 +2711,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "The Addict",
+        "url": "https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK"
+      },
+      "artists": [
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "The Addict",
+      "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Mary Wells Sings My Guy",
         "url": "https://open.spotify.com/album/5JdQA7Qwvrw3rgyblLzxFW"
       },
@@ -2939,22 +2955,6 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "The Addict",
-        "url": "https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK"
-      },
-      "artists": [
-        {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "The Addict",
-      "url": "https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C"
     },
     {
       "added_at": "2025-08-08 09:33:38",

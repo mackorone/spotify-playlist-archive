@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Pierce The Veil",
-  "num_followers": 597501,
+  "num_followers": 597524,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "Red Velvet (with Ari Abdul)",
         "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 186025,
       "name": "Red Velvet (with Ari Abdul)",
       "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "ONE MORE TIME...",
         "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213191,
       "name": "ANTHEM PART 3",
       "url": "https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "By The Way",
-        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "By The Way",
-      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219389,
       "name": "TAKE ME IN",
       "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "waste away",
-        "url": "https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis"
-      },
-      "artists": [
-        {
-          "name": "saturdays at your place",
-          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
-        }
-      ],
-      "duration_ms": 166388,
-      "name": "waste away",
-      "url": "https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "tragic love songs to study to [vol. 5]",
         "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "There's A Whole World Out There",
-        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
+        "name": "waste away",
+        "url": "https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis"
       },
       "artists": [
         {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+          "name": "saturdays at your place",
+          "url": "https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR"
         }
       ],
-      "duration_ms": 250172,
-      "name": "Fatal Flaw",
-      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+      "duration_ms": 166388,
+      "name": "waste away",
+      "url": "https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -1023,6 +1007,22 @@
       "duration_ms": 220096,
       "name": "Through The Landslide",
       "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "There's A Whole World Out There",
+        "url": "https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 250172,
+      "name": "Fatal Flaw",
+      "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "WEST COAST",
-        "url": "https://open.spotify.com/album/3hOBh1X4dghn0RZO6CsUDL"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 168331,
-      "name": "WEST COAST",
-      "url": "https://open.spotify.com/track/2QCwIcd7COBkzEmfRvREha"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 159428,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "WEST COAST",
+        "url": "https://open.spotify.com/album/3hOBh1X4dghn0RZO6CsUDL"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 168331,
+      "name": "WEST COAST",
+      "url": "https://open.spotify.com/track/2QCwIcd7COBkzEmfRvREha"
     },
     {
       "added_at": "2025-08-07 23:00:25",

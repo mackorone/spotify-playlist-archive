@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,086 songs - 2 day 16 hr 0 min
+1,087 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,7 @@
 | [Mornin Dew](https://open.spotify.com/track/6IDZpk0zFGk5Gptc8WiaR4) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Marsh Willow](https://open.spotify.com/artist/0peX4zwJwmSYGbCp7xT0eA) | [Mornin Dew](https://open.spotify.com/album/28VeLIJUs9pwdiMeGpTvrZ) | 2:58 | 2022-11-29 | 2023-01-13 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2022-10-20 | 2024-05-08 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-06-28 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 | 2025-08-31 |
 | [my apologiesss](https://open.spotify.com/track/4Co4LOu8vVJ5mntIWLRqRd) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [You Were Wrong](https://open.spotify.com/album/6qpDp066saTszT71b8pm3t) | 3:04 | 2025-01-15 | 2025-01-22 |
 | [My Baby Just Cares For Me \- HONNE Remix](https://open.spotify.com/track/5fVA5uH0SS3wJZjyC1JE5m) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [My Baby Just Cares For Me \(HONNE Remix\)](https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l) | 3:51 | 2022-11-29 | 2022-12-02 |
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-12 | 2023-05-26 |
@@ -838,6 +838,7 @@
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q) | 3:35 | 2023-03-07 | 2023-03-29 |
 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-07-02 | 2025-07-11 |
 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-23 | 2022-12-24 |
+| [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 |  |
 | [Teibou \(feat\. Hikari\)](https://open.spotify.com/track/4gGlDBjYN1xYLEXR7taTfs) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Teibou \(feat\. Hikari\)](https://open.spotify.com/album/2JA2xWJMJL8SZnPQFVud3S) | 4:12 | 2025-07-02 | 2025-07-11 |
 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 | 2024-09-18 | 2025-07-02 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-06 | 2024-11-13 |

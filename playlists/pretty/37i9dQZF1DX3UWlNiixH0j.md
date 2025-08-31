@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,440 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,449 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 56 | [Q](https://open.spotify.com/track/773w1nEqVUs888p9pmwcJT) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Q](https://open.spotify.com/album/7kTytsmv7F8TBRiPToBtie) | 3:17 |
 | 57 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 58 | [かみんち](https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [かみんち](https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs) | 3:53 |
-| 59 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
-| 60 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 59 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 60 | [難しい](https://open.spotify.com/track/4A17FmwUuCAHfPm8vB8VTq) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [石の糸](https://open.spotify.com/album/2mwTHy379ujzZaHgj5AJEA) | 3:07 |
 | 61 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
 | 62 | [ミーンストリート](https://open.spotify.com/track/6Ecc1MqVM3N88cDw2xzulw) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:41 |
-| 63 | [悲しいことがあった日は](https://open.spotify.com/track/5SFNtz5dJtmd0xuzx65vb6) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [サニービート](https://open.spotify.com/album/3S95YpFh0LLtsuvNflTeFe) | 2:17 |
-| 64 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
+| 63 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
+| 64 | [悲しいことがあった日は](https://open.spotify.com/track/5SFNtz5dJtmd0xuzx65vb6) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [サニービート](https://open.spotify.com/album/3S95YpFh0LLtsuvNflTeFe) | 2:17 |
 | 65 | [燕](https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [燕](https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir) | 3:49 |
-| 66 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
-| 67 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 66 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 67 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
 | 68 | [マイル feat.Gotch](https://open.spotify.com/track/3cizKKoPTxCLDrzEFF1coJ) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [マイル feat.Gotch](https://open.spotify.com/album/5utHzbAEzHxGa2RMWoAPpu) | 3:15 |
 | 69 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
-| 70 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
-| 71 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
-| 72 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
-| 73 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
-| 74 | [ウィノナライダー アンドロイド](https://open.spotify.com/track/4dQf9tCe3FeDL6lxkZKKGJ) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:45 |
-| 75 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 70 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
+| 71 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
+| 72 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 73 | [ウィノナライダー アンドロイド](https://open.spotify.com/track/4dQf9tCe3FeDL6lxkZKKGJ) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:45 |
+| 74 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
+| 75 | [Glow Within](https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9), [HERALBONY](https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P) | [Glow Within](https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9) | 4:58 |
 
 Snapshot ID: `AAAAAE7FqA2LJKpg3o6gzZSCCPOF0D4P`

@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 198090,
       "name": "Don't Call It Love",
       "url": "https://open.spotify.com/track/6NKOAdHTXONN0IZaekxifN"
@@ -408,10 +408,36 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire (Jazz-N-Groove Club Mix)",
+        "url": "https://open.spotify.com/album/0eARVqhXGqrSUHdHIspeGx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Jazz N Groove",
+          "url": "https://open.spotify.com/artist/5qNWZfVzh34W6PCtrLZwWa"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192420,
+      "name": "Edge of Desire - Jazz-N-Groove Club Mix",
+      "url": "https://open.spotify.com/track/20LyxLxcXYjfumul42P9CO"
     },
     {
       "album": {
@@ -1292,6 +1318,28 @@
       "duration_ms": 205810,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+    },
+    {
+      "album": {
+        "name": "Ride It (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Ride It - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M"
     },
     {
       "album": {

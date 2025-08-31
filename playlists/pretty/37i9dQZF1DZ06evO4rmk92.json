@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 122396,
+  "num_followers": 122408,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABLTw/wTosDEmUXJfYPa99q",
+  "snapshot_id": "aLDtgAAAAAACmpnfNuDfRtwjWkLkKslH",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sings For Two In Love",
         "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 160666,
       "name": "Autumn Leaves - Remastered 1987",
       "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole Espanol",
-        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168826,
-      "name": "Acercate Mas (Come Closer To Me)",
-      "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Nat King Cole",
         "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155666,
       "name": "Love Me As Though There Were No Tomorrow - Remastered 2001",
       "url": "https://open.spotify.com/track/0RluX0auLYdKAZxWQZpLiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cole Espanol",
+        "url": "https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168826,
+      "name": "Acercate Mas (Come Closer To Me)",
+      "url": "https://open.spotify.com/track/76AbCflWiJBgByIqFl396O"
     },
     {
       "added_at": null,

@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82381,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC"
+    },
+    {
+      "album": {
         "name": "Nightsong",
         "url": "https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW"
       },
@@ -878,7 +896,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 103698,
       "name": "Nokt\u00farna Variation",
       "url": "https://open.spotify.com/track/4AnUtAQBpd8S8woFEqVgzL"

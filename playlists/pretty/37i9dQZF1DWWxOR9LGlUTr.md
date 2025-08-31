@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain]
 
 > These are the songs that have shaped "Yellowjackets" composers Anna Waronker & Craig Wedren's alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain]
 | 20 | [Miste](https://open.spotify.com/track/4rpfEr3f82eesktZEu5gUC) | [The Haxan Cloak](https://open.spotify.com/artist/543jOiqi5zLNZIOv7rA6rg) | [Excavation](https://open.spotify.com/album/2iMuDUx0AkuUemuFtmhUG1) | 5:37 |
 | 21 | [Winter Kills](https://open.spotify.com/track/3JySPH4q2kIney2XFqTWxG) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 4:04 |
 | 22 | [Opening](https://open.spotify.com/track/6W8a4Jn48HjgDOWHyAa0Em) | [Shudder To Think](https://open.spotify.com/artist/3PP5Hnii2zI9Ufm7jFkers) | [High Art](https://open.spotify.com/album/0a7yzLZX8ZfZaipjeKyj8J) | 2:07 |
-| 23 | [Partita for 8 Singers: 3\. Courante](https://open.spotify.com/track/0WyrOGJPJcJcJdTcunzzxe) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/4Py5CloXVddDHFphlwAY1s) | 8:59 |
+| 23 | [3\. Courante](https://open.spotify.com/track/0WyrOGJPJcJcJdTcunzzxe) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/4Py5CloXVddDHFphlwAY1s) | 8:59 |
 | 24 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
 | 25 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 |
 | 26 | [Dorothy](https://open.spotify.com/track/0ZPB7pb4ZUlhvfyhIN7rd6) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [The Stars Are So Big The Earth Is So Small..\. Stay As You Are](https://open.spotify.com/album/7pHaVKDHtzVVrhdMKQXeHN) | 3:54 |

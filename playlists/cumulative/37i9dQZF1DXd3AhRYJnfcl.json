@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "El Ayam",
+        "url": "https://open.spotify.com/album/4HOCPn72fyE24btiYrQjQw"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "El Ayam",
+      "url": "https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN"
+    },
+    {
+      "album": {
         "name": "El Dahab",
         "url": "https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60"
       },
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 195107,
       "name": "WARANA EH",
       "url": "https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii"

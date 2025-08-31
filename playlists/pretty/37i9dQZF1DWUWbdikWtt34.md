@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Mansyur S
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,508 likes - 92 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,519 likes - 92 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

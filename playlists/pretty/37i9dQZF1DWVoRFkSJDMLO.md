@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands with Skillibeng\. 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,018 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,068 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

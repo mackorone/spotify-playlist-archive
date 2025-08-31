@@ -2353,6 +2353,28 @@
     },
     {
       "album": {
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
+    },
+    {
+      "album": {
         "name": "Brazilian Caf\u00e9",
         "url": "https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg"
       },
@@ -5806,7 +5828,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 132170,
       "name": "At\u00e9 Quebrar a Cama 2.0",
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
@@ -10970,6 +10992,36 @@
       "duration_ms": 180981,
       "name": "Brilho da Lua",
       "url": "https://open.spotify.com/track/7nUEFnaYqoC7IZgufkTo9Z"
+    },
+    {
+      "album": {
+        "name": "Brilho: Golden (Guerreiras do Kpop)",
+        "url": "https://open.spotify.com/album/2OwjIuGEfySn6fuyV0KUwN"
+      },
+      "artists": [
+        {
+          "name": "PROJECT ASTRA",
+          "url": "https://open.spotify.com/artist/388o8bMMkkFvAOaxnQGwvg"
+        },
+        {
+          "name": "Larillba",
+          "url": "https://open.spotify.com/artist/2Mf0q2NTOF6E9XsiRDCNlF"
+        },
+        {
+          "name": "Lua Del Chiaro",
+          "url": "https://open.spotify.com/artist/0PNlilVo4nXpJo66NafG1T"
+        },
+        {
+          "name": "Yuta Peach",
+          "url": "https://open.spotify.com/artist/2EdLEjEigi2Fj003zODKq5"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191588,
+      "name": "Brilho: Golden (Guerreiras do Kpop)",
+      "url": "https://open.spotify.com/track/0sgR29AmLp8CJ7EYKXnUlr"
     },
     {
       "album": {
@@ -38284,7 +38336,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "LUZ, CAMA E A\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/5gLmMNEvDcl0Kb1EX8b69m"
@@ -47066,7 +47118,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
@@ -66326,7 +66378,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3luic5gdP19rj3dZVNXFTE"

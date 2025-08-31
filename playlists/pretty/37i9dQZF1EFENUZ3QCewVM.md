@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 36 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 |
 | 37 | [Carry On \- Acoustic](https://open.spotify.com/track/0DvhfhHlIE4HqgBX8yDJz3) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Carry On \(Acoustic\)](https://open.spotify.com/album/68psFr57W11XOyGdB2lOzk) | 3:27 |
 | 38 | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 |
-| 39 | [Champagne](https://open.spotify.com/track/4n1oum6u8Usfs9YSEwXZb8) | [Lia Marie Johnson](https://open.spotify.com/artist/4GaA53bqvMoSs2WzEFGiLe) | [Champagne](https://open.spotify.com/album/7JYzocpan2uUTtoZgMaQ3K) | 3:53 |
-| 40 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
+| 39 | [Two people](https://open.spotify.com/track/6LPi5m37Sv2N7N3ZdzH51T) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:13 |
+| 40 | [Champagne](https://open.spotify.com/track/4n1oum6u8Usfs9YSEwXZb8) | [Lia Marie Johnson](https://open.spotify.com/artist/4GaA53bqvMoSs2WzEFGiLe) | [Champagne](https://open.spotify.com/album/7JYzocpan2uUTtoZgMaQ3K) | 3:53 |
 | 41 | [Destiny](https://open.spotify.com/track/29ovbgjQ0pnjA7wE5tWeqs) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 3:47 |
 | 42 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 |
 | 43 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 120 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 121 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 
-Snapshot ID: `Ab604AAAAAACzjCfEFZB6XGgGqe0HMqU`
+Snapshot ID: `Ab66sgAAAADbQ3z+uzezM3QY++O/D/f/`

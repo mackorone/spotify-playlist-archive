@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 98898,
+  "num_followers": 98947,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAAciAeFPDwtCBmFqR+wMYEG",
+  "snapshot_id": "aLDtgAAAAADKWJCEyzwKRLzkPBdnMDsb",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 184894,
-      "name": "WAIT",
-      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
+      "duration_ms": 174288,
+      "name": "SLIDE",
+      "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 174288,
-      "name": "SLIDE",
-      "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
+      "duration_ms": 184894,
+      "name": "WAIT",
+      "url": "https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitch I'm Nice",
-        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "Bitch I'm Nice",
-      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 159380,
       "name": "What's Your Name?",
       "url": "https://open.spotify.com/track/3MLvQJFO1ofeMnrz5tS1RE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitch I'm Nice",
+        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "Bitch I'm Nice",
+      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bra-Less",
+        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Shit",
+      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 214899,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/2Xrc2SOmcCHi9Fx5PynXVe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bra-Less",
-        "url": "https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Shit",
-      "url": "https://open.spotify.com/track/5A1brlnMQDvsDl9W2IOY69"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19275,
+  "num_followers": 19274,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245223,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245223,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Recut",
-        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Pejza\u017c",
-          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
-        }
-      ],
-      "duration_ms": 250431,
-      "name": "Together - Pejza\u017c Remix",
-      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Recut",
+        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Pejza\u017c",
+          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
+        }
+      ],
+      "duration_ms": 250431,
+      "name": "Together - Pejza\u017c Remix",
+      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Himalaje",
-        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
-      },
-      "artists": [
-        {
-          "name": "Mela Koteluk",
-          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
-        }
-      ],
-      "duration_ms": 207677,
-      "name": "Himalaje",
-      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 192013,
       "name": "Kercelak",
       "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Himalaje",
+        "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
+      },
+      "artists": [
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "duration_ms": 207677,
+      "name": "Himalaje",
+      "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Grzybnia",
-        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
-      },
-      "artists": [
-        {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Kozak",
-      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
         "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 310653,
       "name": "Kr\u00f3lowa \u0142ez",
       "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Grzybnia",
+        "url": "https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6"
+      },
+      "artists": [
+        {
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Kozak",
+      "url": "https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1207,6 +1207,30 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Adam's Apple",
+        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Rafal Janiak",
+          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
+        },
+        {
+          "name": "Chopin University Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
+        }
+      ],
+      "duration_ms": 314728,
+      "name": "Adam's Apple: III. Temptation",
+      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Tradycyja",
         "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Adam's Apple",
-        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Rafal Janiak",
-          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
-        },
-        {
-          "name": "Chopin University Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
-        }
-      ],
-      "duration_ms": 314728,
-      "name": "Adam's Apple: III. Temptation",
-      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
+      },
+      "artists": [
+        {
+          "name": "Lukasz Targosz",
+          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
+        }
+      ],
+      "duration_ms": 137170,
+      "name": "Welcome To The Forrest",
+      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 577993,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3cXAWUKMUREsKv9Gno7s06"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Diabe\u0142 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2EqKEaj0aII5cEOT90J4V8"
-      },
-      "artists": [
-        {
-          "name": "Lukasz Targosz",
-          "url": "https://open.spotify.com/artist/1jVCUSiiEjd8RNkjLcLkQa"
-        }
-      ],
-      "duration_ms": 137170,
-      "name": "Welcome To The Forrest",
-      "url": "https://open.spotify.com/track/2wlBxJQQAYfgHyJo4coG61"
     },
     {
       "added_at": "2025-04-06 08:27:45",

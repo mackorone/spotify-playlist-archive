@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "2 pa 1",
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 172772,
       "name": "Cai de Perna Aberta 2",
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
@@ -10512,7 +10512,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 171943,
       "name": "Enamorarte Mil Veces",
       "url": "https://open.spotify.com/track/1XmJsXTKeaw51buHrbaqDM"
@@ -12186,7 +12186,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 190431,
       "name": "Frecuencia",
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
@@ -12314,6 +12314,36 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "album": {
+        "name": "Clasicos 2008-2010",
+        "url": "https://open.spotify.com/album/3kVQAMAPgkUOkwpoaT2f0P"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225080,
+      "name": "Fuera del Planeta - Remix",
+      "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
     },
     {
       "album": {
@@ -20808,7 +20838,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -21982,7 +22012,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 104464,
       "name": "NO ERA AMOR - Super Slowed",
       "url": "https://open.spotify.com/track/1ppuvA6Jl2GYrwPcvLeRic"
@@ -23160,7 +23190,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 186000,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/35dfKQxGu54W4ZwQGnCFrB"
@@ -24548,7 +24578,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
@@ -28531,6 +28561,24 @@
     },
     {
       "album": {
+        "name": "Sigue brillando sin ti",
+        "url": "https://open.spotify.com/album/4hDkHyeE64rY3avXC4kKjQ"
+      },
+      "artists": [
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Sigue brillando sin ti",
+      "url": "https://open.spotify.com/track/1IDEqmoMKfjTURgPjBKvI2"
+    },
+    {
+      "album": {
         "name": "Silla",
         "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
       },
@@ -28848,7 +28896,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "So Far So Fake",
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
@@ -29038,7 +29086,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 223342,
       "name": "Solare",
       "url": "https://open.spotify.com/track/6TaJZRQRgvjOtRb31BlPLd"

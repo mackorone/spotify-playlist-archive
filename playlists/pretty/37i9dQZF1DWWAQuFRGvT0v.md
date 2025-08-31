@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAQuFRGvT0v.md) - [plain]
 
 > Enjoy the KISS OF LIFE tour concert LIVE SET including the voices of them on stage! \(키스오브라이프의 무대 멘트와 목소리가 포함된 팬 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,582 likes - 29 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 29 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

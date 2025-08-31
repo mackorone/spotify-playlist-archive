@@ -4,7 +4,7 @@
 
 > 
 
-7,662 songs - 19 day 18 hr 43 min
+7,663 songs - 19 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5497,6 +5497,7 @@
 | [Stranger Than Paradise](https://open.spotify.com/track/4QAgXpjd6Z6TiH6UM8d8t0) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/79MWIC3te7wmBeiLs5DM75) | 3:01 | 2025-08-11 |  |
 | [Stranger Things Have Happened](https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:21 | 2025-01-03 |  |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/4b9cdjpEqR9ufNZTLevuAD) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 4:08 | 2025-01-03 |  |
+| [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 | 2025-08-30 |  |
 | [Strawberry Kush](https://open.spotify.com/track/0rNfyVTVLk6kIjLSKQmwXl) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Bruce Wayne](https://open.spotify.com/album/4w9vl62zVJkZ5ADdAxP55c) | 2:24 | 2025-01-03 |  |
 | [Street Lights](https://open.spotify.com/track/6j8gTlbhj9KJSeypNcNAS9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:09 | 2025-01-03 |  |
 | [STREET SWEEPER \(feat\. Future\)](https://open.spotify.com/track/3pjzb1lnMOJbWbghMGSp23) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:12 | 2025-04-04 |  |

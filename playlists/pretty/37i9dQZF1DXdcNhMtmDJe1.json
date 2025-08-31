@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 91981,
+  "num_followers": 91988,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,34 @@
     {
       "added_at": "2025-07-04 11:13:21",
       "album": {
+        "name": "Gershwin Fantasy",
+        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "Liza (All the Clouds'll Roll Away)",
+      "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
+    },
+    {
+      "added_at": "2025-07-04 11:13:21",
+      "album": {
         "name": "Gershwin: Rhapsody in Blue",
         "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
       },
@@ -479,34 +507,6 @@
       "duration_ms": 92533,
       "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
       "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
-    },
-    {
-      "added_at": "2025-07-04 11:13:21",
-      "album": {
-        "name": "Gershwin Fantasy",
-        "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Joshua Bell",
-          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "Liza (All the Clouds'll Roll Away)",
-      "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
     },
     {
       "added_at": "2025-07-04 11:13:21",

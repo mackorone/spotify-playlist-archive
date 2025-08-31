@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,773 songs - 8 day 13 hr 12 min
+3,775 songs - 8 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Badman Control](https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6) | [Badman Control](https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O) | 3:34 | 2025-04-08 | 2025-04-12 |
 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 | 2024-06-13 | 2024-06-17 |
 | [Bailando](https://open.spotify.com/track/5Zm0lM69GIVw45fXhaL167) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bailando](https://open.spotify.com/album/5PXUWLnPxUVsaOt1gERTRx) | 2:15 | 2025-07-11 | 2025-07-21 |
+| [Bam Bam](https://open.spotify.com/track/2yhMSpGHm1UVbfvyahlOie) | [Vorwerk](https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC) | [Bam Bam](https://open.spotify.com/album/6D50Y6JiuhFqrffj6d1Ttr) | 2:35 | 2025-08-30 |  |
 | [BANG BANG](https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [BANG BANG](https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2) | 2:18 | 2025-08-22 | 2025-08-30 |
 | [Bang Bang](https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Bang Bang](https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF) | 2:22 | 2024-11-29 | 2024-12-06 |
 | [BANG BANG](https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [BANG BANG](https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA) | 3:13 | 2025-04-18 | 2025-04-25 |
@@ -3201,6 +3202,7 @@
 | [Talamanca](https://open.spotify.com/track/3gSnJK5ACmMetzCY7tyy1l) | [Scot & Millfield](https://open.spotify.com/artist/6LTgaNvQ4z07MLP5Fs3plh), [Cabriolet Paris](https://open.spotify.com/artist/2Thn292Skc8PQDq1KSgNkv) | [Talamanca](https://open.spotify.com/album/6xx9OZt2fao4AxjsINvLZS) | 2:46 | 2024-07-12 | 2024-07-19 |
 | [Talk](https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Talk](https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh) | 2:18 | 2025-04-25 | 2025-05-03 |
 | [Talk About Us \- jeonghyeon Remix](https://open.spotify.com/track/65wIxoF8uOdpYnLcaKYbnH) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Talk About Us \(Remixes\)](https://open.spotify.com/album/0VulRy3C3pUhLVMr7dGvpj) | 2:51 | 2025-04-24 | 2025-05-03 |
+| [Talk Nerdy to Me \(Vol 1\)](https://open.spotify.com/track/6aZDYk9DnoHl1hQZJ20SRI) | [Aggrozilla](https://open.spotify.com/artist/4eXpW90n7PXkfr2Dlp6Zp1) | [Talk Nerdy to Me \(Vol 1\)](https://open.spotify.com/album/50H1ByIRUUeekZpcUhNOOH) | 2:49 | 2025-08-30 |  |
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-10-31 | 2024-11-09 |
 | [Talk to Me](https://open.spotify.com/track/03Du19uqh7mGTSfQwpgZLa) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Talk to Me](https://open.spotify.com/album/2CCLNopJoGPhw2VpgTBJd6) | 2:40 | 2024-09-13 | 2024-09-27 |
 | [Tanha](https://open.spotify.com/track/6W4ui8ZxeYW6BzwJB2oTxm) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Tanha](https://open.spotify.com/album/7fUxHUwAeRUP2e0bpUG0oV) | 2:47 | 2025-01-31 | 2025-02-07 |

@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Shubh
 
-330 songs - 17 hr 47 min
+331 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-08-17 | 2024-10-02 |
 | [4.10](https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0m5Q6hoYA8lw47ZFtZHSqa) | 2:49 | 2024-01-03 | 2024-04-19 |
 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 | 2024-04-19 | 2024-09-17 |
-| [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-11 |  |
+| [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-11 | 2025-08-31 |
 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-29 |  |
 | [911 Porsche](https://open.spotify.com/track/05W6XiPHvftfTifU8PQ8mr) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [911 Porsche](https://open.spotify.com/album/1y2NBEqFYL30kS5QhbQQ9P) | 3:03 | 2024-06-07 | 2024-08-03 |
 | [Aag](https://open.spotify.com/track/2ccfR07KexkfAyB0kTkj0p) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Aag](https://open.spotify.com/album/6rjqQpDqcW3eOY1jgD3GEA) | 2:41 | 2025-08-01 | 2025-08-09 |
@@ -85,6 +85,7 @@
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-18 |  |
 | [CROWN](https://open.spotify.com/track/313cWKPX3VujfQcxj7Se6x) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [CROWN](https://open.spotify.com/album/5bPuDMi9I7tyKlUceNEQgr) | 3:17 | 2023-08-23 | 2023-09-21 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-27 | 2024-07-06 |
+| [Daytona](https://open.spotify.com/track/1dlCoq7vdDnuAzo3DYPTY4) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 | 2025-08-30 |  |
 | [DEHSHAT HO](https://open.spotify.com/track/54woTHhitonXA8nWL7blMW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:15 | 2024-11-15 | 2025-01-25 |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/0wAXFT9FskLIaN1pLkmTYE) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Gorilla Bounce](https://open.spotify.com/album/1105dcUWKvpAEAGO1MdaqH) | 3:21 | 2023-07-07 | 2023-11-10 |
 | [Desi Dan Bilzerian](https://open.spotify.com/track/5vdWj5rEzg9lg5qbE98PmX) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Gorilla Bounce](https://open.spotify.com/album/4N3Ltmqz2cQt9ZMJedfCGn) | 3:21 | 2023-07-07 | 2023-07-11 |

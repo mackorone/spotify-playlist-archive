@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-386 songs - 21 hr 1 min
+387 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 | 2023-05-15 |  |
 | [Erupt](https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Fireman Hooper](https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T) | [Erupt](https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx) | 3:18 | 2025-06-20 |  |
 | [ESKIMO](https://open.spotify.com/track/4dcDJ2zxbrO6CBgpZ3lxPz) | [Trinidad Killa](https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx) | [ESKIMO](https://open.spotify.com/album/59d6YjsvxMfIYOlRP1OEHW) | 3:36 | 2025-02-06 |  |
+| [ESKIMO \- Remix](https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6) | [Trinidad Killa](https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [ESKIMO \(Remix\)](https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt) | 3:01 | 2025-08-29 |  |
 | [Explore](https://open.spotify.com/track/177934bysEv1ssIn65AAJy) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Alien Head Riddim](https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM) | 2:25 | 2025-02-06 |  |
 | [Face Beat](https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG) | [Father Philis](https://open.spotify.com/artist/4VF0sdPSFLYdVWF6FRK6OK) | [Face Beat](https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM) | 2:23 | 2023-05-15 |  |
 | [Fair sa](https://open.spotify.com/track/6CvmOdbUizqxPvvPSWNl14) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [Fair sa](https://open.spotify.com/album/7FE3U9NjszxvjCoWY28IHH) | 3:01 | 2023-07-11 | 2024-07-25 |
@@ -380,7 +381,7 @@
 | [We Woulda](https://open.spotify.com/track/08QneaTQS4TGH4ZovxQ3Bp) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:41 | 2022-08-18 | 2022-10-05 |
 | [Weak](https://open.spotify.com/track/4TNpd91LNGPTlSvbTh5i0Y) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 2:49 | 2022-02-24 | 2022-08-19 |
 | [Welcome To Carnival](https://open.spotify.com/track/5iQDeHszlApK5qgRaqEBTv) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG) | [Welcome To Spicemas](https://open.spotify.com/album/1CjKM4g3AY5QrrVGN76Ife) | 3:18 | 2023-08-11 | 2024-07-25 |
-| [Whale Fu See](https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh) | [Og Park](https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS), [Rum Lawd](https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ) | [Whale Fu See](https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ) | 3:27 | 2025-06-20 |  |
+| [Whale Fu See](https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh) | [Og Park](https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS), [Rum Lawd](https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ) | [Whale Fu See](https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ) | 3:27 | 2025-06-20 | 2025-08-31 |
 | [What I Want](https://open.spotify.com/track/7c53MoaEd6aRU7omlRnKgP) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [Soundz of Freedom \(My Ultimate Summer of Love Mix\)](https://open.spotify.com/album/6gnHb4btc0NLg0otP1H30f) | 3:53 | 2023-02-21 | 2023-07-12 |
 | [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 | 2025-07-21 |
 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 | 2023-08-11 | 2024-07-25 |

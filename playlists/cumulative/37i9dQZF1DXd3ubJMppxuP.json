@@ -35,6 +35,28 @@
     },
     {
       "album": {
+        "name": "Allez Allez Allez (Original Mix)",
+        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215612,
+      "name": "Allez Allez Allez - Original Mix",
+      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
+    },
+    {
+      "album": {
         "name": "Als De Morgen Is Gekomen (Remix)",
         "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
       },
@@ -648,7 +670,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 194666,
       "name": "Ik Kom Harder",
       "url": "https://open.spotify.com/track/1CU7LGT6BsEOhi2cXOL3sf"

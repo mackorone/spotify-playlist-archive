@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 40762,
+  "num_followers": 40790,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAAD1ED2YknGnHHXyLGTF9OaD",
+  "snapshot_id": "aLDtgAAAAADLd+ROJZxPSK0qS9Dgu7M3",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/7j2XUgQz7PLCUPzUStwOJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/7j2XUgQz7PLCUPzUStwOJf"
     },
     {
       "added_at": null,

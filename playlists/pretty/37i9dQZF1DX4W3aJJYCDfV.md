@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter, CMAT, Major Lazer and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,879 likes - 116 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,920 likes - 116 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

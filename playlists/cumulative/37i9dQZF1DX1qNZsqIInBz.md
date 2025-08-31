@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-224 songs - 9 hr 46 min
+225 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 | 2023-12-05 |
 | [Infinite](https://open.spotify.com/track/36lAaFOepMC0kbLeHSLtbU) | [Skidz](https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y) | [Infinite](https://open.spotify.com/album/2F7yVNgSaE4UcfTKx9be2B) | 3:22 | 2022-10-10 | 2023-03-25 |
 | [infinite universe](https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [infinite universe](https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj) | 2:05 | 2023-09-29 |  |
+| [INSONAMIA \(Slowed\)](https://open.spotify.com/track/1yMaQ0gJ9XPkJh3t6aMrgN) | [Ronald Figo](https://open.spotify.com/artist/5AOzeroMxe112GJoFnCcyG) | [INSONAMIA \(Slowed\)](https://open.spotify.com/album/0mCml60WkuwX5963VhM83t) | 3:23 | 2025-08-29 |  |
 | [IRON KNIGHT](https://open.spotify.com/track/66rbsDlM1RfmVW6I2nBmuh) | [DJ RXBBERY](https://open.spotify.com/artist/0NuERMLAqu8zM3uFAo1dN9) | [IRON KNIGHT](https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT) | 2:24 | 2022-10-10 | 2023-07-22 |
 | [Kansai](https://open.spotify.com/track/4qvnEEwIXb8ch6CfudeqGW) | [boneles\_s](https://open.spotify.com/artist/15T8AuT0gmxOfifQtbShQL), [InsaneTracer](https://open.spotify.com/artist/5jK86GBNNwGHD4brZp16yo) | [Kansai](https://open.spotify.com/album/0EvPrrikCr1F3nuwQ0eA9Q) | 2:41 | 2022-10-21 | 2023-05-06 |
 | [Komarovo \(DVRST Phonk Remix\)](https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Igor Sklyar](https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv), [Atomic Heart](https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP) | [Atomic Heart \(Original Game Soundtrack\) Vol.1](https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx) | 2:26 | 2023-05-05 |  |
@@ -186,7 +187,7 @@
 | [Rinse Repeat](https://open.spotify.com/track/5A3TRHr2EAYgsJOOmlYaxe) | [Elisabeth Brownlow](https://open.spotify.com/artist/4AhXblXPAw9O9c0a56tvD7) | [Rinse Repeat](https://open.spotify.com/album/46rjHo1V4l5DseiDqWj2UN) | 2:19 | 2023-09-22 | 2025-04-12 |
 | [RITMO CÓSMICO](https://open.spotify.com/track/7pZNXdNDsTy5F2msNILaMl) | [LILAAX](https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz), [NTPV](https://open.spotify.com/artist/4ln235vY1WKuyeLoGJSdwZ) | [RITMO CÓSMICO](https://open.spotify.com/album/6JLYdAbw7vXTnHNZ8MIWYG) | 2:21 | 2024-11-08 |  |
 | [SADNESS](https://open.spotify.com/track/48XqhTBkKOpI8iBBoF4sdK) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [SADNESS](https://open.spotify.com/album/5ysSvnyvTyQotyrc0qKiw3) | 1:49 | 2024-03-29 |  |
-| [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 |  |
+| [seaside](https://open.spotify.com/track/3Cj5VVbQnLRknyj2NriPJu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [seaside](https://open.spotify.com/album/385VMmkSq2CVCIOTCtTdts) | 2:39 | 2022-10-10 | 2025-08-31 |
 | [See U](https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [See U](https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0) | 2:50 | 2022-10-10 |  |
 | [SEE U IN WINTER](https://open.spotify.com/track/38s6G7066hE4dTvrTsSqoL) | [winternarnia](https://open.spotify.com/artist/6OoeFKBBbuYtyPM9E615D3), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn) | [SEE U IN WINTER](https://open.spotify.com/album/77fm9KnaipWrowbRD0fUz9) | 2:31 | 2022-12-23 | 2023-09-30 |
 | [Shiver](https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7) | [Shiver](https://open.spotify.com/album/3dT2NMs4X8OUay4JJ2weY7) | 2:25 | 2022-10-10 | 2025-02-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Droomsindroom, Chris Steyn, Spoegwolf,  Wikus Botma, Robbie Wessels en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,302 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,322 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 20 | [Like Jou Niks](https://open.spotify.com/track/6CmEsHOC5LXqDRoAVrfybX) | [Demarie](https://open.spotify.com/artist/4wMH6p9mxcndu43v9vc2zj) | [Like Jou Niks](https://open.spotify.com/album/4zzvRhzdQPN2I9KVW7Z87c) | 2:41 |
 | 21 | [Reën](https://open.spotify.com/track/6F1TDPbNGso0x9v6YZWpMP) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Reën](https://open.spotify.com/album/6FWS8JVwztt24KlpdyBWQG) | 4:33 |
 | 22 | [Net Mooi Niks](https://open.spotify.com/track/3AlSO7R6xPSurWRF7IQ4bj) | [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Net Mooi Niks](https://open.spotify.com/album/7uUaIReoDHjrKE4NUUQYma) | 3:07 |
-| 23 | [Check Vir My](https://open.spotify.com/track/6QNFqSIxDEad0uKqQjpfCf) | [Fred den Hartog](https://open.spotify.com/artist/2gvAqpjUy6RPj6gZ0PWVT5), [Jaakie](https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Check Vir My](https://open.spotify.com/album/3Fgk3DFhtUcEAzg6DOZyXc) | 2:45 |
+| 23 | [Check Vir My](https://open.spotify.com/track/6QNFqSIxDEad0uKqQjpfCf) | [Fred Den Hartog](https://open.spotify.com/artist/5abXs4hcb60KWxunzW0Fi5), [Jaakie](https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Check Vir My](https://open.spotify.com/album/3Fgk3DFhtUcEAzg6DOZyXc) | 2:45 |
 | 24 | [Elektrisiteit](https://open.spotify.com/track/2JJ9aWgkx0xBc9NHJlyhKn) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Elektrisiteit](https://open.spotify.com/album/16p7QrebBEFTjkYr9PLJXQ) | 3:34 |
 | 25 | [Mielies](https://open.spotify.com/track/2FM1y1sLwGLEhfzuUFNaUd) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq) | [Mielies](https://open.spotify.com/album/0tYrnEISwOL15Rcuz1Xb1L) | 2:54 |
 | 26 | [Kan Jy](https://open.spotify.com/track/2rchTS4RMXhsYIwg7emgXq) | [Chxnelle](https://open.spotify.com/artist/3EoIyJg49B7L6iSuGxoPnk) | [Kan Jy](https://open.spotify.com/album/5q33yb7uPIvqhGogUYcBfM) | 2:34 |

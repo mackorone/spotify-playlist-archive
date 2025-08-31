@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 150214,
+  "num_followers": 150229,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Takes One To Know One",
         "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -703,6 +687,26 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -727,22 +731,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 180114,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
+    },
+    {
       "added_at": "2025-08-15 04:00:09",
       "album": {
         "name": "In My Head",
@@ -909,20 +925,20 @@
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
-      "added_at": "2025-08-22 04:00:13",
+      "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
         }
       ],
-      "duration_ms": 180114,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -939,22 +955,6 @@
       "duration_ms": 161327,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/2bPZTakU4YDTYtfM895oFx"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "FUNERAL",
-        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 181923,
-      "name": "FUNERAL",
-      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "I'm So Good At Being Alone?",
         "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 171349,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Little Like Hell",
+        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 187804,
+      "name": "Little Like Hell",
+      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Little Like Hell",
-        "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
-      },
-      "artists": [
-        {
-          "name": "The Haunt",
-          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Little Like Hell",
-      "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "Everything In Transit: Strings Attached",
+        "url": "https://open.spotify.com/album/7JJXHjsryD8ZX05Wub4OnE"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 261238,
+      "name": "Dark Blue (Strings Attached Version)",
+      "url": "https://open.spotify.com/track/5449HN9URNirAUgZKMDpgF"
+    },
+    {
       "added_at": "2025-08-15 04:00:09",
       "album": {
         "name": "kinda smacks",
@@ -1619,22 +1635,6 @@
       "duration_ms": 190651,
       "name": "Only Wanna Be With You",
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:13",
-      "album": {
-        "name": "Everything In Transit: Strings Attached",
-        "url": "https://open.spotify.com/album/7JJXHjsryD8ZX05Wub4OnE"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 261238,
-      "name": "Dark Blue (Strings Attached Version)",
-      "url": "https://open.spotify.com/track/5449HN9URNirAUgZKMDpgF"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Flowers / Algorithm & Blues (Over & Over)",
-        "url": "https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 224805,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Flowers / Algorithm & Blues (Over & Over)",
+        "url": "https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 224805,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "LOSER!!",
-        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
-      },
-      "artists": [
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "LOSER!!",
-      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 189101,
       "name": "Mugshot",
       "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "LOSER!!",
+        "url": "https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD"
+      },
+      "artists": [
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "LOSER!!",
+      "url": "https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "lightweight",
-        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "lightweight",
-      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "SOULSUCKER",
         "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 146620,
       "name": "SOULSUCKER",
       "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "lightweight",
+        "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "lightweight",
+      "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2231,22 +2231,6 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 128696,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2331,18 +2315,38 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "White Casket",
-        "url": "https://open.spotify.com/album/6vIy8qzPJAWvr1g6Yvp3lE"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
       },
       "artists": [
         {
-          "name": "Jady",
-          "url": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 150176,
-      "name": "White Casket",
-      "url": "https://open.spotify.com/track/3o2xKwz3oNhm3f2BywSrWm"
+      "duration_ms": 128696,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "FREAK (Feat. jxdn)",
+        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2367,22 +2371,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "FREAK (Feat. jxdn)",
-        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
+        "name": "White Casket",
+        "url": "https://open.spotify.com/album/6vIy8qzPJAWvr1g6Yvp3lE"
       },
       "artists": [
         {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Jady",
+          "url": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1"
         }
       ],
-      "duration_ms": 149142,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+      "duration_ms": 150176,
+      "name": "White Casket",
+      "url": "https://open.spotify.com/track/3o2xKwz3oNhm3f2BywSrWm"
     },
     {
       "added_at": "2025-08-15 04:00:09",

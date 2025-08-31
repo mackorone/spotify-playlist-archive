@@ -4,7 +4,7 @@
 
 > Nieuw: Nathan, Orco, Vurr Flashy & Safouu en meer...
 
-85 songs - 3 hr 37 min
+87 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,11 @@
 | [Hoelang](https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Hoelang](https://open.spotify.com/album/0XMlh8RJF5RqNaX6D1bbLg) | 2:53 | 2025-07-17 | 2025-08-29 |
 | [Hoogwater](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 2:27 | 2025-08-14 |  |
 | [Huismuziek](https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Huismuziek](https://open.spotify.com/album/0oB2M2lgv9YK4X2eRRmYk7) | 2:45 | 2025-07-17 | 2025-08-15 |
+| [HUNT VOOR DIE STACKS](https://open.spotify.com/track/3FMlpWtnv2cg33jeX0GPBp) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Starvin Marv](https://open.spotify.com/artist/1gR79EU9ky3ZCyaFO1fp6S) | [HUNT VOOR DIE STACKS](https://open.spotify.com/album/6eIfWWt8IZEdRx36cEZ0Ph) | 2:44 | 2025-08-30 |  |
 | [IJskoud Affiliated](https://open.spotify.com/track/6Fdzhh2rgpGHC1HK3qOrBq) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [PB](https://open.spotify.com/artist/2TnfeQKbvmQMhIb3XK0rkJ), [Gina](https://open.spotify.com/artist/0Uk9zTPdKWZxctyvybqRkI), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB) | [IJskoud Affiliated](https://open.spotify.com/album/2eSiJDAIPajc0U3M78pYbP) | 3:04 | 2025-08-07 |  |
 | [Isri](https://open.spotify.com/track/3rDpGytBHq64SXDRf9LQrt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Poppe](https://open.spotify.com/artist/7rMTGOF2vqBUcsh1cH64bC), [Ayya Ites](https://open.spotify.com/artist/471zrtvGVQFHk0ZKuaxaNf) | [Isri](https://open.spotify.com/album/44UABAk12dzr0x8JRHV4ip) | 2:50 | 2025-08-07 |  |
 | [Jonge van Beethoven](https://open.spotify.com/track/5LRexkmbnueuLmXhAda0QW) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Jonge van Beethoven](https://open.spotify.com/album/3wPDHdpHJX8zW8pdRimiAR) | 1:40 | 2025-07-17 | 2025-08-15 |
+| [Keuzestress](https://open.spotify.com/track/0WnoiVs6hof6Zq2sWUQRos) | [TB](https://open.spotify.com/artist/62EMg5GRIhbikI9xhUb1pS) | [Keuzestress](https://open.spotify.com/album/7Ib3uUof3im4f0vnGKiWak) | 2:41 | 2025-08-30 |  |
 | [Khoya](https://open.spotify.com/track/1bN1FoCeBkFaPWcF8V4Cmo) | [AangenaamBK](https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb) | [Khoya](https://open.spotify.com/album/7rhHgale2llDAi6DeJ9OJ9) | 2:03 | 2025-07-17 | 2025-08-29 |
 | [Kino](https://open.spotify.com/track/5OaBSixlgJUbU8o11bP1ET) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Kino](https://open.spotify.com/album/7LHfL6LqGdampkL83Uh4lP) | 2:56 | 2025-07-17 | 2025-08-15 |
 | [Laan Van London](https://open.spotify.com/track/7tSbhg47Hlk2thtSwZYso4) | [Bouye](https://open.spotify.com/artist/1oFefHvtiUfR8Ly2le1OJn) | [Laan Van London](https://open.spotify.com/album/6XRKyJgI6ynPySc4Dty91t) | 3:23 | 2025-07-17 | 2025-08-29 |

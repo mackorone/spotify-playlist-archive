@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-336 songs - 19 hr 9 min
+337 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 | 2025-05-27 |  |
 | [Knife of Love](https://open.spotify.com/track/3uA8nw4Jwgdcq6Q8JXTMYx) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [Knife of Love](https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9) | 2:42 | 2025-04-06 |  |
 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 | 2025-05-27 |  |
+| [kyu\-kurarin](https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk) | 3:37 | 2025-08-30 |  |
 | [L'Étoile D'afrique \- \#18](https://open.spotify.com/track/1xHDxvqZduPRMqOCdiAKNZ) | [VDYCD](https://open.spotify.com/artist/6ZtfvZofStC4xF34rNriyY) | [L'Étoile D'afrique \- \#18](https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0) | 1:45 | 2023-04-01 |  |
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |
 | [lapis lazuli](https://open.spotify.com/track/471Ij7ju21628jTjGCQX6U) | [璃依子](https://open.spotify.com/artist/0h9Bctxh6IkFpbsYhIBj07) | [lapis lazuli](https://open.spotify.com/album/5WyyjVnvOkDkTZzD63AxKW) | 4:19 | 2025-05-27 |  |

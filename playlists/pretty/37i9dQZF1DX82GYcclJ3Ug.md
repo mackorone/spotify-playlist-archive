@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,280 likes - 130 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,138 likes - 130 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

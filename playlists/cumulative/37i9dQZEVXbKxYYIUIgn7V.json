@@ -3668,7 +3668,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 140792,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/5Y6GmjixoGCrcGv9Y63txZ"
@@ -13964,7 +13964,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -19775,6 +19775,24 @@
     },
     {
       "album": {
+        "name": "Intimschmuck",
+        "url": "https://open.spotify.com/album/2raJaW3k00rDh8lbnEEGaP"
+      },
+      "artists": [
+        {
+          "name": "Doktormethoden & Doktormithoden",
+          "url": "https://open.spotify.com/artist/0xsQy6ZpcHBskCcLXKJqDY"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144012,
+      "name": "Intimschmuck",
+      "url": "https://open.spotify.com/track/7Cue0PN1rM13PbeHOx6NyJ"
+    },
+    {
+      "album": {
         "name": "iPhone 5s",
         "url": "https://open.spotify.com/album/12j5qmxcRIDBrmoXGD7LPu"
       },
@@ -24732,7 +24750,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 148000,
       "name": "MAMA HATTE IMMER RECHT",
       "url": "https://open.spotify.com/track/7exvsVwIJVK3KV70Shmoyc"
@@ -40523,6 +40541,28 @@
     },
     {
       "album": {
+        "name": "Verwandtschaftstreffen (feat. RIAN)",
+        "url": "https://open.spotify.com/album/6fZVRggIZpYRfdzAkNbz2j"
+      },
+      "artists": [
+        {
+          "name": "DJ Alpaka",
+          "url": "https://open.spotify.com/artist/6Ekq8xlSxID2HMXkaK2hR8"
+        },
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "Verwandtschaftstreffen (feat. RIAN)",
+      "url": "https://open.spotify.com/track/11IeqkHu573GaOpE8urIJX"
+    },
+    {
+      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -42310,7 +42350,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 269826,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"

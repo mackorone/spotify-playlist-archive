@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Sabrina Carpenter, Snelle, Donnie & Marco Schuitmaker en meer
 
-12,430 songs - 27 day 1 hr 4 min
+12,431 songs - 27 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [ALL THE GIRLS](https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ), [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1) | [ALL THE GIRLS](https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa) | 1:49 | 2024-10-10 | 2024-10-18 |
 | [All The Good Things](https://open.spotify.com/track/1cuUQoWowoAtGihy0B4P0D) | [The Tambles](https://open.spotify.com/artist/4992V7oi0D7PxPKnyDAOYn) | [All The Good Things](https://open.spotify.com/album/66pbFCXfQHJ6WOoOquVfHf) | 2:22 | 2024-01-18 | 2024-01-26 |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-13 | 2025-02-21 |
+| [All The Names](https://open.spotify.com/track/25VSaYS6vsaBBfw6XsbrnJ) | [a fungus](https://open.spotify.com/artist/067eX6DglgkJ7Ey7Gkl9OU) | [Field Relief](https://open.spotify.com/album/5kTU3vt2DzIXyNteROC3Hw) | 3:46 | 2025-08-29 |  |
 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 | 2024-04-04 | 2024-04-12 |
 | [All The Time](https://open.spotify.com/track/55f4zYdGVMh2rp0R0FrVIB) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [All The Time](https://open.spotify.com/album/15qcFttV9S4d7ESCEocjAf) | 3:08 | 2024-05-09 | 2024-05-17 |
 | [All The Time](https://open.spotify.com/track/1chSIMG2RYnBeTlp2OS7Bx) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [All The Time](https://open.spotify.com/album/2LCHdPqBVEyUZCdgDSM6H4) | 3:09 | 2024-11-14 | 2024-11-22 |

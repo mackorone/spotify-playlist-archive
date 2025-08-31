@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 258113,
       "name": "I Heard The Angels Sing",
       "url": "https://open.spotify.com/track/2GveI3ecvcQjqMKZwNlMlK"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 156800,
       "name": "Keep Your Lamp Trimmed And Burning",
       "url": "https://open.spotify.com/track/7o7hmVr3nyr1n2lnKKuoYF"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 219032,
       "name": "Moon is Going Down",
       "url": "https://open.spotify.com/track/3jjV3Ifz4zlqzm13cJCVov"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 212426,
       "name": "Mountain Jack",
       "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
@@ -3476,6 +3476,24 @@
       "duration_ms": 128560,
       "name": "My Heart is Fixed",
       "url": "https://open.spotify.com/track/5wi4Jf8NkHH77X1Wla5UiT"
+    },
+    {
+      "album": {
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "My Heart Is Fixed",
+      "url": "https://open.spotify.com/track/4bUl1LmbZdrqHFQbvdv0RE"
     },
     {
       "album": {
@@ -5416,7 +5434,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 189333,
       "name": "Twelve Gates To The City",
       "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
@@ -5596,7 +5614,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 310426,
       "name": "Walkin' Dog Blues",
       "url": "https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb"

@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 29 min
+71 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Back To You \- SUBSHIFT Remix](https://open.spotify.com/track/4RmkE2SMOY9R5HFLj4JuRz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Back To You \(Deluxe Pack\)](https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K) | 3:32 | 2024-07-22 |  |
 | [Bad B](https://open.spotify.com/track/6dbca3nF7J8wdRdf6PYMNq) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad B](https://open.spotify.com/album/0zpf6Mkc9v127iGORp26wA) | 2:33 | 2025-04-13 |  |
 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 | 2022-10-10 |  |
+| [Big Bad Sound](https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Big Bad Sound](https://open.spotify.com/album/5kbNQthGaDLvSlczyJnSDM) | 2:31 | 2025-08-31 |  |
 | [Blink](https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Blink](https://open.spotify.com/album/3K0ZUAJYic8PxlQcyoxqi2) | 2:49 | 2025-07-20 |  |
 | [Body & Soul](https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Body & Soul](https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK) | 2:38 | 2025-03-23 |  |
 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 | 2023-04-08 | 2025-08-23 |
@@ -27,7 +28,7 @@
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |
 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 | 2024-09-29 |  |
 | [DNA \- Extended Mix](https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 3:58 | 2024-08-10 | 2024-11-24 |
-| [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 |  |
+| [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 | 2025-08-31 |
 | [Don't Sweat It](https://open.spotify.com/track/07BJUgWZ51mfGuPw3oFQYP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Don't Sweat It](https://open.spotify.com/album/64YRQCg7VLOrpwn9ydDPuO) | 2:56 | 2025-08-15 |  |
 | [Don't Sweat It](https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Don't Sweat It](https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF) | 2:56 | 2022-10-10 | 2025-08-15 |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 |  |

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-520 songs - 1 day 22 hr 48 min
+521 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Arrival](https://open.spotify.com/track/3nz3KvhNBeOSQkI0Crt7Y5) | [Phi\-Psonics](https://open.spotify.com/artist/2fd1Ou8fG8CtsHLBDxM3l0) | [Morning Sun / Arrival](https://open.spotify.com/album/6NWneRZlucq241KpkW4ZeB) | 5:21 | 2024-09-06 | 2025-05-24 |
 | [As It Were](https://open.spotify.com/track/0FHn2vcDngtc4qmVLwKbNx) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [76](https://open.spotify.com/album/0XPAgAYpLScInEGM92pWj2) | 5:07 | 2024-01-19 | 2024-06-15 |
 | [As We Were \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/2GVoBRIR777NoOppqPa5ie) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:25 | 2023-08-03 | 2025-08-24 |
-| [Ashé](https://open.spotify.com/track/6yzCdriVjWu7XIfah04DpU) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Ashé](https://open.spotify.com/album/7tWlyVquYTtIwZXTwGHNty) | 4:31 | 2024-09-27 |  |
+| [Ashé](https://open.spotify.com/track/6yzCdriVjWu7XIfah04DpU) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Ashé](https://open.spotify.com/album/7tWlyVquYTtIwZXTwGHNty) | 4:31 | 2024-09-27 | 2025-08-31 |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-10 | 2022-07-29 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-08-20 | 2022-06-01 |
 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 | 2022-07-21 | 2024-04-19 |
@@ -347,6 +347,7 @@
 | [Petrichor](https://open.spotify.com/track/0wXhAI4j4g1mZdcZwCvHIU) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Petrichor](https://open.spotify.com/album/5xEYOG6rRWYjQ0Oaok4c0d) | 5:39 | 2025-02-14 | 2025-04-12 |
 | [Pictures \- Instrumental](https://open.spotify.com/track/080lT3us8k0pYleQ3JCAMt) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Pictures \(Instrumental\)](https://open.spotify.com/album/5VjByV0PJCgVWG0B0b2hx1) | 4:50 | 2025-01-10 | 2025-02-08 |
 | [Plainsong](https://open.spotify.com/track/4SrykUt9al7hl3tDYd1G86) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [The Surrounding Green](https://open.spotify.com/album/0X4iyYATnXLm1IvSNp3bfq) | 5:50 | 2025-06-27 | 2025-08-24 |
+| [Point Of View](https://open.spotify.com/track/27MWj3buZO5OOZYpXJgAkx) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Blue Lou Marini](https://open.spotify.com/artist/7hudoVzdSvweH71zKP0B53) | [Point of View](https://open.spotify.com/album/4boY7cjoRXzsvnJaYEShIA) | 5:36 | 2025-08-29 |  |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |
 | [Prelude](https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [Dawn](https://open.spotify.com/album/6oPbbOKJyk9plm5gyA4psH) | 2:21 | 2022-09-06 |  |
 | [Procession](https://open.spotify.com/track/2DZWXfoMTvtNK8XN6NNWG6) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 4:30 | 2022-01-27 |  |

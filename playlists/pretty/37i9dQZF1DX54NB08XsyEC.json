@@ -1,6 +1,6 @@
 {
   "description": "ela faz chover ela / Foto: Sabrina Carpenter",
-  "num_followers": 403885,
+  "num_followers": 403923,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-08-29 03:01:07",
       "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
+    },
+    {
+      "added_at": "2025-08-29 03:01:07",
+      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2025-08-29 03:01:07",
       "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
-      "added_at": "2025-08-29 03:01:07",
-      "album": {
         "name": "ROMEO",
         "url": "https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 190624,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE"
-    },
-    {
-      "added_at": "2025-08-29 03:01:07",
-      "album": {
-        "name": "Dat Type Of Gurl",
-        "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
-      },
-      "artists": [
-        {
-          "name": "Rasheeda",
-          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "My Bubble Gum",
-      "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
     },
     {
       "added_at": "2025-08-29 03:01:07",
@@ -943,6 +927,22 @@
       "duration_ms": 244684,
       "name": "One Of The Girls",
       "url": "https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK"
+    },
+    {
+      "added_at": "2025-08-29 03:01:07",
+      "album": {
+        "name": "Dat Type Of Gurl",
+        "url": "https://open.spotify.com/album/2n2sXuFZW2FrhI8JYhicI7"
+      },
+      "artists": [
+        {
+          "name": "Rasheeda",
+          "url": "https://open.spotify.com/artist/3x6gZfwmkDn92EKOwnYq4H"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "My Bubble Gum",
+      "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
     },
     {
       "added_at": "2025-08-29 03:01:07",

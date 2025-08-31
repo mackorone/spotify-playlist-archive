@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-556 songs - 1 day 7 hr 22 min
+557 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [DIOS ME PERDONE](https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DIOS ME PERDONE](https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY) | 2:53 | 2024-01-12 | 2024-09-03 |
 | [DJ ALEX, LA JOAQUI \- TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DJ ALEX, LA JOAQUI \- TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-12-07 |  |
 | [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-08-30 |  |
+| [Domingo](https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Domingo](https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI) | 2:36 | 2025-08-29 |  |
 | [Donde Estas](https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/1MnOOeThicwy2KTa1ONDqg) | 2:34 | 2023-01-06 | 2023-06-19 |
 | [Donde Estas](https://open.spotify.com/track/58QDB1sKe1wHZEvngevtGE) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Donde Estas](https://open.spotify.com/album/6HliYi1SE9uMcnJHFVC0oT) | 2:37 | 2022-02-18 | 2022-09-18 |
 | [Donde Estas](https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Donde Estas](https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj) | 2:55 | 2022-01-21 | 2022-06-17 |
@@ -488,7 +489,7 @@
 | [Tributo A Grupo Trinidad Bonus Track / Zorros Amantes / Quién Te Quiere / Es Una Noche Para Amar / Conversemos \- Bonus Track](https://open.spotify.com/track/6q5U7c1J8Ec53YGQh0l2Bm) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tributo A Grupo Trinidad / Zorros Amantes / Quién Te Quiere / Es Una Noche Para Amar / Conversemos \(Bonus Track\)](https://open.spotify.com/album/39UKGVl0lnLSGKTQW1zrH4) | 5:50 | 2022-01-14 | 2022-07-12 |
 | [Triste Recuerdo](https://open.spotify.com/track/2EH5C4yJxaHlEahILa6bxo) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Triste Recuerdo](https://open.spotify.com/album/3JdTmIQP8SHrz0s7CO2mSQ) | 3:43 | 2024-07-26 | 2024-08-31 |
 | [Tu \- Live Session](https://open.spotify.com/track/748ZjU8OoEfawysf7HFPph) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Tu \(Session Live\)](https://open.spotify.com/album/1te9iJDm1eG6a6WopX4VK5) | 2:48 | 2022-01-21 | 2022-07-17 |
-| [Tu Amante Tu Amigo](https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR) | [Marko Silva](https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tu Amante Tu Amigo](https://open.spotify.com/album/4tSk0kBGbVadz95y7HGTVY) | 3:49 | 2023-04-21 |  |
+| [Tu Amante Tu Amigo](https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR) | [Marko Silva](https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tu Amante Tu Amigo](https://open.spotify.com/album/4tSk0kBGbVadz95y7HGTVY) | 3:49 | 2023-04-21 | 2025-08-31 |
 | [Tu Carcel](https://open.spotify.com/track/26x3Fedrm3ETgQBepwZkKF) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9), [Grupo Karicia](https://open.spotify.com/artist/0LOfrH82HIHcCXk3eFF7og) | [Session \#14 Los Charros](https://open.spotify.com/album/6OocCESiVHo7bc1fX1RNWb) | 2:50 | 2024-11-01 |  |
 | [Tu Cariño](https://open.spotify.com/track/3lqmMrBhWLqw14dSGKZpl7) | [La Kosmica](https://open.spotify.com/artist/2rRqBAduZDY1nyge8evc19) | [Tu Cariño](https://open.spotify.com/album/5R0P9uEX1XIOo9Mb55Zj6Z) | 3:09 | 2022-04-01 | 2022-05-28 |
 | [Tu Despertador](https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Tu Despertador](https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS) | 2:30 | 2023-06-09 | 2023-10-08 |

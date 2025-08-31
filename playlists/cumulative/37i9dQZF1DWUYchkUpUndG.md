@@ -2,7 +2,7 @@
 
 ### [Fresh Gospel Africa](https://open.spotify.com/playlist/37i9dQZF1DWUYchkUpUndG)
 
-> Discover new christian and gospel music\. Cover:  Folabi Nuel
+> Discover new christian and gospel music\. Cover:  Tim Godfrey
 
 6,087 songs - 18 day 11 hr 39 min
 

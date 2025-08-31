@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> PH vibin' cover: Yoki
+> PH vibin' cover: Elhé
 
-373 songs - 20 hr 30 min
+377 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [ikaw](https://open.spotify.com/track/4UTaWN5LRt6UOukp4aAgKL) | [Los Gratis](https://open.spotify.com/artist/6QGPtPGtyBCFHV7TmYBLxc) | [ikaw](https://open.spotify.com/album/391WJriDioyaCPaPpVfiby) | 3:27 | 2022-10-12 | 2022-12-15 |
 | [Ikaw Na](https://open.spotify.com/track/1ECFCAUroIYDxDhjIcxqVL) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK), [Rovilyn](https://open.spotify.com/artist/34xRxPfcQ0rTt7rzIh6S0T) | [Ikaw Na](https://open.spotify.com/album/0cHX1T0EI9lNimlibqOswh) | 3:42 | 2024-04-12 | 2024-07-27 |
 | [Ikaw Na](https://open.spotify.com/track/324bREqdLQKkOCp4ce9WvF) | [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK), [Rovilyn](https://open.spotify.com/artist/34xRxPfcQ0rTt7rzIh6S0T) | [Ikaw Na](https://open.spotify.com/album/6Fs4uDY9PpPzJmNW96qKzB) | 3:42 | 2024-02-28 | 2024-04-19 |
+| [Ikaw Nalang](https://open.spotify.com/track/3Xzo5tBnYdNPC4NKOXYhTi) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Ikaw Nalang](https://open.spotify.com/album/2uZKqL54Y0zzNNF4cYmDd8) | 3:12 | 2025-08-29 |  |
 | [Ikaw Pa Yung Galit](https://open.spotify.com/track/1L1JxTo8XVHE19JP7OVTIN) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Ikaw Pa Yung Galit](https://open.spotify.com/album/4d0TfkDOl9k3h1dcWIwDEx) | 4:58 | 2022-10-12 | 2023-07-29 |
 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 | 2025-05-27 |  |
 | [Ikot](https://open.spotify.com/track/0rd6noFWDqPWWcCFasvkLR) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [Ikot](https://open.spotify.com/album/573S9oVOjislJJVL3lEIoQ) | 3:32 | 2023-07-28 | 2024-01-27 |
@@ -210,6 +211,7 @@
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 | 2024-01-27 |
 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 | 2023-09-06 | 2023-11-11 |
 | [MAGIC](https://open.spotify.com/track/3XvLg5slzPY1EwJDmTliuB) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [MAGIC](https://open.spotify.com/album/5dhHgdAMdCJGNB12rZCQ3b) | 3:17 | 2025-07-12 |  |
+| [MAHAL KO](https://open.spotify.com/track/4IX8ITFvjlxO8YKVArV2u1) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa) | [MAHAL KO](https://open.spotify.com/album/5NkqZb1VpsydkEMM0tndAz) | 3:55 | 2025-08-29 |  |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2024-06-05 | 2025-01-17 |
 | [Mahirap](https://open.spotify.com/track/4RUF5cWK5iKOa8OY8gCU0W) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Mahirap](https://open.spotify.com/album/2XbDGLTQxv8yYabdHR45HI) | 2:43 | 2024-06-14 | 2024-08-10 |
 | [Maikee's Letters](https://open.spotify.com/track/21XjtaAEZxurElfPGSKrv9) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Maikee's Letters](https://open.spotify.com/album/6Hd66jTMfgXgaItso2FfzJ) | 5:00 | 2022-10-12 | 2023-07-29 |
@@ -263,6 +265,7 @@
 | [Pahalik](https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Curse One](https://open.spotify.com/artist/6TUcd6yXFC0qQ1xbaycJT4), [Vlync](https://open.spotify.com/artist/46QyyIgyd2KywJPeWAASA2) | [Pahalik](https://open.spotify.com/album/4DTQWoQA46pswKmobyuNd6) | 8:03 | 2022-10-12 | 2023-05-18 |
 | [PAHIMAKAS](https://open.spotify.com/track/4a4leAJpcU9fH2sFJs0jgn) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW) | [PAHIMAKAS](https://open.spotify.com/album/0buFGUKfBl1Spvg9oggzo7) | 4:07 | 2022-10-12 | 2023-05-18 |
 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2023-12-01 | 2025-01-17 |
+| [Palaisipan](https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palaisipan](https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0) | 4:01 | 2025-08-29 |  |
 | [Palayo](https://open.spotify.com/track/3FvYLNM5ShB5vDCzGw8syX) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/799Hq8BLuJ7lgwFr8dGJba) | 4:23 | 2022-12-14 | 2023-07-29 |
 | [Palayo](https://open.spotify.com/track/50mdyhgtq7KyFYiuAfvQY9) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Palayo](https://open.spotify.com/album/1AVW36IAlLdbPzwtFzyHUA) | 4:23 | 2022-10-12 | 2023-02-10 |
 | [Palindrome](https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS), [AIMEE](https://open.spotify.com/artist/5VZCJ2KIGqwlYgq1MulghF) | [Palindrome](https://open.spotify.com/album/6MnaDiGGvjYaVyLSobh7si) | 4:27 | 2022-10-12 | 2023-05-18 |
@@ -343,6 +346,7 @@
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 |  |
 | [syf](https://open.spotify.com/track/65BmvLsQxNwcIlWyIDuHFe) | [Termula](https://open.spotify.com/artist/7L5fW1cU8MtB8geMfEFPtE) | [syf](https://open.spotify.com/album/1DQFkQPkf9cLxiIA7fnYAl) | 3:30 | 2023-04-06 | 2023-12-02 |
 | [T\-Break](https://open.spotify.com/track/516epRJ6ppt3JwEuLPnAo1) | [Yzkk](https://open.spotify.com/artist/25KaeIB4BrH1WpOG5dIV0n) | [T\-Break](https://open.spotify.com/album/6V7gUiVauT1wRvfg6akvHc) | 4:33 | 2023-09-25 | 2024-02-29 |
+| [T4NGA](https://open.spotify.com/track/5zqRO009V7imVeeWFLpNNk) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [T4NGA](https://open.spotify.com/album/7MO0G2bsT0qfeQxx10dN76) | 2:13 | 2025-08-29 |  |
 | [Takaw Tingin](https://open.spotify.com/track/4N8ScJCglGFgpTnD39KFQF) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Takaw Tingin](https://open.spotify.com/album/2AAnmzyeMl25pWn3SHElA9) | 3:09 | 2023-06-13 | 2023-10-03 |
 | [TALK](https://open.spotify.com/track/2F5Qkb1wJNnmQFQ3Edrzfb) | [dulai](https://open.spotify.com/artist/1DwP6HIWrPItZ3hmJkKxQ1), [leeza](https://open.spotify.com/artist/7KmrzNyuaqGPAVVXd9A0Nx) | [TALK](https://open.spotify.com/album/41cjmYpOgI1BKgiGLwJM44) | 2:24 | 2023-09-20 | 2023-09-30 |
 | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/track/22waNdIbBAhzes4D2CTQX0) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [THE BADDEST \(with Illest Morena\)](https://open.spotify.com/album/3N6AEFJ8tVjRIghPf1GPK6) | 3:12 | 2025-05-27 |  |

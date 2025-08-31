@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84817,
+  "num_followers": 84828,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACublxUBLGakvPpe2/hWjk9",
+  "snapshot_id": "aLDtgAAAAAAqt1f3nTmkNtRJsfvp0bfv",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 179013,
       "name": "T\u00fa Me Obligaste",
       "url": "https://open.spotify.com/track/2U5AymDbKKdUncaaGGi3Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/3t448MCWrigAIbWyMEMsgR"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 222730,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/2nbp4VOiQvjsOUvgtdmB4O"
     },
     {
       "added_at": null,
@@ -903,22 +923,6 @@
       "duration_ms": 286820,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pasiones de Cabaret",
-        "url": "https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 238030,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY"
     }
   ],
   "unique_name": "This Is Edith M\u00e1rquez",

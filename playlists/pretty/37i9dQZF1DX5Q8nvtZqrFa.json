@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22029,
+  "num_followers": 22033,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-08-19 15:00:22",
       "album": {
-        "name": "ANTENNA",
-        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "ANTENNA",
-      "url": "https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk"
-    },
-    {
-      "added_at": "2025-08-19 15:00:22",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 235240,
       "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
+    },
+    {
+      "added_at": "2025-08-19 15:00:22",
+      "album": {
+        "name": "ANTENNA",
+        "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "ANTENNA",
+      "url": "https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk"
     },
     {
       "added_at": "2025-08-19 15:00:22",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-08-19 15:00:22",
       "album": {
-        "name": "\u30c6\u30a4\u30af\u30df\u30fc",
-        "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
+        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
       },
       "artists": [
         {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
         }
       ],
-      "duration_ms": 249600,
-      "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
-      "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
+      "duration_ms": 208937,
+      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
+      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
     },
     {
       "added_at": "2025-08-19 15:00:22",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-08-19 15:00:22",
       "album": {
-        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
+        "name": "\u30c6\u30a4\u30af\u30df\u30fc",
+        "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
         }
       ],
-      "duration_ms": 208937,
-      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
-      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
+      "duration_ms": 249600,
+      "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
+      "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
     },
     {
       "added_at": "2025-08-19 15:00:22",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-08-19 15:00:22",
       "album": {
-        "name": "Mouiiyo",
-        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
+        "name": "19.5",
+        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
       },
       "artists": [
         {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 177959,
-      "name": "Mouiiyo",
-      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
+      "duration_ms": 151483,
+      "name": "For bbys",
+      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
     },
     {
       "added_at": "2025-08-19 15:00:22",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-08-19 15:00:22",
       "album": {
-        "name": "19.5",
-        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
+        "name": "Mouiiyo",
+        "url": "https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
         }
       ],
-      "duration_ms": 151483,
-      "name": "For bbys",
-      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
+      "duration_ms": 177959,
+      "name": "Mouiiyo",
+      "url": "https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE"
     },
     {
       "added_at": "2025-08-19 15:00:22",

@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1939805,
+  "num_followers": 1939638,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-08-26 14:20:33",
       "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2025-08-26 14:20:33",
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2025-08-26 14:20:33",
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2025-08-26 14:20:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-26 14:20:33",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 156463,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
-    },
-    {
-      "added_at": "2025-08-26 14:20:33",
-      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2025-08-26 14:20:33",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 156463,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
     },
     {
       "added_at": "2025-08-26 14:20:33",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2025-08-26 14:20:33",
       "album": {
-        "name": "World Gone Wild (feat. Sam Martin)",
-        "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "World Gone Wild (feat. Sam Martin)",
-      "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
-    },
-    {
-      "added_at": "2025-08-26 14:20:33",
-      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2025-08-26 14:20:33",
+      "album": {
+        "name": "World Gone Wild (feat. Sam Martin)",
+        "url": "https://open.spotify.com/album/1e1baOsSG422OeuXVWGNRt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "duration_ms": 146523,
+      "name": "World Gone Wild (feat. Sam Martin)",
+      "url": "https://open.spotify.com/track/4arNFfHtD5FPYcpUUiUOM1"
     },
     {
       "added_at": "2025-08-26 14:20:33",

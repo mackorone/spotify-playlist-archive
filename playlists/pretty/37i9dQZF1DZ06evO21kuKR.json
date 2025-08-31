@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 96486,
+  "num_followers": 96490,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADkd9MSevM9PDORsW+8Q0aB",
+  "snapshot_id": "aLDtgAAAAAABb8RyxxbJm97xsgzu/Kn6",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 144032,
+      "name": "Just Say Det",
+      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to O'Block",
         "url": "https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp"
       },
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "Federal 3X",
+        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
       },
       "artists": [
         {
@@ -868,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 144032,
-      "name": "Just Say Det",
-      "url": "https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw"
+      "duration_ms": 204073,
+      "name": "Side B!+$#es",
+      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
       "duration_ms": 196000,
       "name": "DRUNK OFF U (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Federal 3X",
-        "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 204073,
-      "name": "Side B!+$#es",
-      "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
     },
     {
       "added_at": null,
@@ -955,8 +955,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 166956,
-      "name": "TRYNA MAKE SURE",
-      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
+      "duration_ms": 142049,
+      "name": "Speak 4 Em",
+      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
     }
   ],
   "unique_name": "This Is Moneybagg Yo",

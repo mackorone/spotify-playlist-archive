@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,255 likes - 76 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,606 likes - 76 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

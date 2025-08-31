@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,730 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,727 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 25 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 26 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 27 | [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 |
-| 28 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
-| 29 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
+| 28 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
+| 29 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
 | 30 | [Oriental Pearls](https://open.spotify.com/track/4rj7twM1JiFJAHmAUPVB2N) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:19 |
 | 31 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |
 | 32 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
-| 33 | [Monagah \(Prayer\)](https://open.spotify.com/track/3XlalwVyxZNa6otxJyUj3n) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:31 |
-| 34 | [Reve](https://open.spotify.com/track/0GPJZn4NGP4I06LK9Pfqvd) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 6:05 |
+| 33 | [Reve](https://open.spotify.com/track/0GPJZn4NGP4I06LK9Pfqvd) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 6:05 |
+| 34 | [Monagah \(Prayer\)](https://open.spotify.com/track/3XlalwVyxZNa6otxJyUj3n) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:31 |
 | 35 | [Oriental Dreams](https://open.spotify.com/track/5UgcKwDo470y2ghbPWKIfp) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:06 |
 | 36 | [Misage](https://open.spotify.com/track/2ed8ct9ysWH6Cp7DquMSiQ) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Randana](https://open.spotify.com/album/0RB1X637etjmDDy5bzkfVw) | 4:56 |
 | 37 | [Ourakjoutyoun \(Joy\) \[Lebanon\]](https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 2:56 |

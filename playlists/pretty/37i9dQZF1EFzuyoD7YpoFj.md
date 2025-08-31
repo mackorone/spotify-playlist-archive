@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 384 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 384 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -358,8 +358,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 348 | [I Never Realised](https://open.spotify.com/track/0Uim7ryGipYBRDibfYEcqW) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter In London, Vol\. 1](https://open.spotify.com/album/0DS8IXLdZ7be3Y6mBCEX2U) | 3:37 |
 | 349 | [The New Yorkers: Love for Sale](https://open.spotify.com/track/36wqhQnRzcWU3wpG8fRGQA) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Florida All\-State Jazz Band](https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9), [R\. Gary Langford](https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY) | [2012 Florida Music Educators Association \(FMEA\): All\-State Jazz Band & High School Honors Band](https://open.spotify.com/album/52dFNXhMCZCA4vgJkrcjjE) | 4:38 |
 | 350 | [Little Skipper \(03\-08\-39\)](https://open.spotify.com/track/77QD6LMbDamxvIMQiCfXBD) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [Complete Jazz Series 1939 Vol\. 1](https://open.spotify.com/album/62io6zZ11bTScrBmPTrxn7) | 2:38 |
-| 351 | [Hail, Hail, Hail](https://open.spotify.com/track/3tmzstZRN0XqBSKSDaNUxE) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 3:03 |
-| 352 | [I Sing of Love](https://open.spotify.com/track/65xnf9jumN7yup30y26CBt) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me Kate \(Original 1996 Studio Cast\) \[Complete Recording\]](https://open.spotify.com/album/09GsPfP3XglDcjqwwEJryu) | 2:23 |
+| 351 | [I Sing of Love](https://open.spotify.com/track/65xnf9jumN7yup30y26CBt) | [Diane Langton](https://open.spotify.com/artist/0Vxavd9Ml7sPbTkhtfsCIv), [Graham Bickley](https://open.spotify.com/artist/71AtBFFAazgxdHLQWl4Jr0) | [Kiss Me Kate \(Original 1996 Studio Cast\) \[Complete Recording\]](https://open.spotify.com/album/09GsPfP3XglDcjqwwEJryu) | 2:23 |
+| 352 | [Hail, Hail, Hail](https://open.spotify.com/track/3tmzstZRN0XqBSKSDaNUxE) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 3:03 |
 | 353 | [What a Crazy Way to Spend Sunday](https://open.spotify.com/track/6KZzFb3mbXrNtsZxgxuUzd) | [Harry Sosnik Orchestra and Chorus](https://open.spotify.com/artist/1peQfeQCkjvB1uKKjmdOCB) | [Mexican Hayride \(Original Broadway Cast\)](https://open.spotify.com/album/3t0HX9OgbWfhiPN8kTwg8q) | 2:00 |
 | 354 | [The Wild One](https://open.spotify.com/track/0ay7asoI58KnwlLvn9XRtp) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Born To Dance](https://open.spotify.com/album/4S93XaKrdpFN1eZ2M5lNrX) | 3:17 |
 | 355 | [Adios, Argentina: Don't Fence Me In \(Arr\. K\. Shaw\)](https://open.spotify.com/track/0PMzjRPLzR1B9cj4HFbH7w) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Lake Jackson Intermediate Men's Choir](https://open.spotify.com/artist/5AYdqPAxzvhn9sbEk0JcXe), [David Hill](https://open.spotify.com/artist/4Qq5rJ5mqO9DIXo2OPBWG8) | [2010 Texas Music Educators Association \(TMEA\): Lake Jackson Intermediate Men's Choir, Friendswood Jr\. High School Varsity Treble Choir & Cook Middle School Advanced Girls Choir](https://open.spotify.com/album/0xlOcjl0GC78D1CsArHkTm) | 3:24 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 383 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 384 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab604AAAAAC5fs4tIg/BNI/fApWKyeem`
+Snapshot ID: `Ab66vAAAAACsQ8B3+VxnjiI41k+MrhMR`

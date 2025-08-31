@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641396,
+  "num_followers": 1641413,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABPEVKPnzm9sr3jVm05JqUW",
+  "snapshot_id": "aLDtgAAAAAC2UHxO1ZLjucj6H43Q8aLP",
   "tracks": [
     {
       "added_at": null,
@@ -29,7 +29,7 @@
         },
         {
           "name": "Delta Force",
-          "url": "https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G"
+          "url": "https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU"
         }
       ],
       "duration_ms": 190926,
@@ -451,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
-      },
-      "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ahrix",
-          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ahrix",
+          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
     },
     {
       "added_at": null,

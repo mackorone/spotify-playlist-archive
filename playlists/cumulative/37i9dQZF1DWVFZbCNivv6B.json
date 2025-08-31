@@ -15441,6 +15441,32 @@
     },
     {
       "album": {
+        "name": "RAPSTARDOS",
+        "url": "https://open.spotify.com/album/7pt0I0Oo9Z9H2gnv29sq9v"
+      },
+      "artists": [
+        {
+          "name": "Mike Lamadrid",
+          "url": "https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C"
+        },
+        {
+          "name": "Fukin Keno",
+          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
+        },
+        {
+          "name": "YoungKidz",
+          "url": "https://open.spotify.com/artist/05yWybuA4tWnASXd89oNMS"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6oJF7CYjSveetFyiDbjjCy"
+    },
+    {
+      "album": {
         "name": "Traicionero",
         "url": "https://open.spotify.com/album/7FszHUAmLlersoAxteScJP"
       },

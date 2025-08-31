@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56933,
+  "num_followers": 56943,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACaE69bRmiaksvUGz6o8Oy9",
+  "snapshot_id": "aLDtgAAAAAAQoWDT1ZcE7a2haYWSMgwc",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X Ambassadors | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 235922,
       "name": "Everything Sounds Like a Love Song (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/02pSQGZEwKrwzT9TWHFwis"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Love Songs Drug Songs",
-      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Unconsolable",
+      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
         "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
       },
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
       },
       "artists": [
         {
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Unconsolable",
-      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+      "duration_ms": 193566,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193566,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 235426,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 338282,
-      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
     },
     {
       "added_at": null,
@@ -939,6 +919,26 @@
       "duration_ms": 188686,
       "name": "You'll Get Yours (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Ambassadors | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 338282,
+      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
     }
   ],
   "unique_name": "This Is X Ambassadors",

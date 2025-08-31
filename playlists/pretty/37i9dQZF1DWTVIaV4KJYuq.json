@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 708732,
+  "num_followers": 708728,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Man in the Mirror",
         "url": "https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 210891,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
+      },
+      "artists": [
+        {
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "More Than a Woman",
+      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
+    },
+    {
       "added_at": "2025-08-29 04:00:33",
       "album": {
         "name": "My Valentine (with Paul McCartney)",
@@ -1135,22 +1151,6 @@
       "duration_ms": 258712,
       "name": "My Valentine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "More Than a Woman",
-        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
-      },
-      "artists": [
-        {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
         "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 192927,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Way You Make Me Feel",
         "url": "https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 232200,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Butterfly Doors",
-        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
-      },
-      "artists": [
-        {
-          "name": "Onlybino!",
-          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
-        }
-      ],
-      "duration_ms": 112336,
-      "name": "Butterfly Doors",
-      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "No Ties (Amapiano Remix)",
         "url": "https://open.spotify.com/album/2S7i4HxGQBN9okVs3Po1Gy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 342577,
       "name": "No Ties - Amapiano Remix",
       "url": "https://open.spotify.com/track/0N3SdZTNhp0gZDCoZgiYNH"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Butterfly Doors",
+        "url": "https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        }
+      ],
+      "duration_ms": 112336,
+      "name": "Butterfly Doors",
+      "url": "https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI"
     },
     {
       "added_at": "2022-10-01 17:37:57",

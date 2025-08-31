@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 292413,
       "name": "Green and Gold",
       "url": "https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ"
@@ -765,6 +765,32 @@
     },
     {
       "album": {
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350293,
+      "name": "Oh What A Lonely Feeling - Delfonic Rework",
+      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
+    },
+    {
+      "album": {
         "name": "G-Spot",
         "url": "https://open.spotify.com/album/7jfpsH6zwgjRyc4fSMD5UY"
       },
@@ -816,7 +842,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 390933,
       "name": "Poo Poo La La",
       "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
@@ -1052,7 +1078,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 420346,
       "name": "Sugar - Delfonic Rework",
       "url": "https://open.spotify.com/track/2I6IEtR9bDJkEoMPh8CMbM"

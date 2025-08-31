@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain]
 
 > The official playlist for the GIANTS show with the Dean collection, opening in Minneapolis on March 7th\. Get your tickets<a href="https://tickets.artsmia.org/events/01934052\-e7dc\-337b\-b9f3\-e4216feb4d0e"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,452 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,472 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

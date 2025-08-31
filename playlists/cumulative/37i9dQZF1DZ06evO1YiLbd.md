@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-172 songs - 7 hr 54 min
+173 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Jet Set Run](https://open.spotify.com/track/3jRwb8NABDs7n8YsYyHO8c) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:45 | 2024-04-19 |  |
 | [Jet Set Run](https://open.spotify.com/track/7L7XzsEDNRGgVsAixpiba4) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:45 | 2022-12-23 | 2024-04-19 |
 | [Just Another Hero](https://open.spotify.com/track/5MVgPvxtIi1OQTguhaHqVf) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 3:24 | 2023-03-02 | 2024-03-25 |
-| [Just Another Hero](https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:24 | 2024-05-13 |  |
+| [Just Another Hero](https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX) | [Steven McNair](https://open.spotify.com/artist/4vyqxxgPi4d3TsRarKphMY), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:24 | 2024-05-13 | 2025-08-31 |
 | [Lady Nagant \(My Hero Academia\) \- Trap Remix](https://open.spotify.com/track/2Du2EWLDCzEQ9wiK500GFt) | [Bakrou](https://open.spotify.com/artist/1bwDpUYOmTBa0ddptcaRZh), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Lady Nagant \(My Hero Academia\) \[Trap Remix\]](https://open.spotify.com/album/5z60YeNYIB8agSdzMtg65O) | 2:16 | 2023-04-21 | 2023-04-25 |
 | [Looking for you \- from "My Hero Academia: Vigilantes"](https://open.spotify.com/track/3ysBocf0RtB8GTbY9ftlww) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [Looking for you \(from "My Hero Academia: Vigilantes"\)](https://open.spotify.com/album/5kBqjIUnQnCfgqKuyTT1YH) | 1:50 | 2025-05-08 | 2025-05-15 |
 | [Might](https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 5:43 | 2022-12-23 |  |
@@ -107,6 +107,7 @@
 | [チームの地力](https://open.spotify.com/track/0S5OaeNAC1RlO0ZkeuPmhq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:58 | 2022-12-23 | 2024-04-10 |
 | [ハイキュー!!](https://open.spotify.com/track/4RN2wwg7BaUA3A40s1F9Gs) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 3:54 | 2022-12-23 | 2024-04-15 |
 | [ハイキュー!!](https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 3:54 | 2024-04-15 |  |
+| [ハーケン](https://open.spotify.com/track/7HBkUALQjiFyE4PI80HLgJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 3:19 | 2025-08-31 |  |
 | [バケモンたちの宴](https://open.spotify.com/track/6UgPcdNdyLK96zqKs7nBCT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 3:25 | 2022-12-23 |  |
 | [バレーの虫たち](https://open.spotify.com/track/4jRiXwBbij1XB13lNnzndV) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『劇場版ハイキュー‼ ゴミ捨て場の決戦』オリジナル・サウンドトラック](https://open.spotify.com/album/6lGRAnmCrwobSnjZrt09CQ) | 1:09 | 2025-05-25 | 2025-05-31 |
 | [パートナー結成 ver1](https://open.spotify.com/track/62clUBYeugLjZ7GpTi7Kzy) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:29 | 2024-01-07 | 2024-01-27 |

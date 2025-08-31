@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "WYAT? Right here, counting down to concert night. Cover: SB19",
-  "name": "On Tour Singapore: SB19",
+  "description": "Still hearing the echoes of the dream. Cover: Insomniacks",
+  "name": "On Tour Singapore: Insomniacks",
   "tracks": [
     {
       "album": {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 208500,
       "name": "8TonBall",
       "url": "https://open.spotify.com/track/7AqrfyOdFWPnjQrgzWzcUz"
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Awake & Dreaming EP",
+        "url": "https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Anti-Hero (Welcome To My Nightmare)",
+      "url": "https://open.spotify.com/track/27ASTGNXwT67MsZy7WilHs"
+    },
+    {
+      "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 232800,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/7tKK8AGJ6Nfefm829JwLgr"
+    },
+    {
+      "album": {
+        "name": "Awake & Dreaming EP",
+        "url": "https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227349,
+      "name": "Awake & Dreaming",
+      "url": "https://open.spotify.com/track/6pD1sRBnBtUbwitUoZVrCc"
     },
     {
       "album": {
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 202506,
       "name": "Bazinga",
       "url": "https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b"
@@ -1350,6 +1386,28 @@
       "duration_ms": 196587,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw"
+    },
+    {
+      "album": {
+        "name": "Belum Mulai",
+        "url": "https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        },
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214585,
+      "name": "Belum Mulai",
+      "url": "https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc"
     },
     {
       "album": {
@@ -2335,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "Cerita Kita",
+        "url": "https://open.spotify.com/album/4R8IxdtCQj242dBeQCVQ9n"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        },
+        {
+          "name": "Nabila Razali",
+          "url": "https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224514,
+      "name": "Cerita Kita",
+      "url": "https://open.spotify.com/track/4IPqIHMpiWO3zuYdcEHdsZ"
+    },
+    {
+      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -2766,7 +2846,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 229384,
       "name": "CRIMZONE",
       "url": "https://open.spotify.com/track/5GcS9zT4iIL7l0JrqZeG6O"
@@ -2838,7 +2918,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 209187,
       "name": "DAM",
       "url": "https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P"
@@ -3307,6 +3387,24 @@
     },
     {
       "album": {
+        "name": "TEMAN EP",
+        "url": "https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204183,
+      "name": "Dimana",
+      "url": "https://open.spotify.com/track/5WQU9DoCh4cu3J83YOU1zs"
+    },
+    {
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -3704,7 +3802,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 215497,
       "name": "DUNGKA!",
       "url": "https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy"
@@ -4616,7 +4714,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 211214,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2CuYpdcx2f9XbMZhc3ST8E"
@@ -4836,7 +4934,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 232621,
       "name": "GENTO",
       "url": "https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2"
@@ -5130,7 +5228,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 155996,
       "name": "golden hour - SB19 Remix",
       "url": "https://open.spotify.com/track/6ZUSwmLViVASwgHkYWyc3Z"
@@ -5699,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Kepala Batu EP",
+        "url": "https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223028,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/3KC6j9ZfsWgHzQ9dYmchmb"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - Here I Am",
         "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
       },
@@ -6240,7 +6356,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 223339,
       "name": "I WANT YOU",
       "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
@@ -6385,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Igauan Malam",
+        "url": "https://open.spotify.com/album/4WTIpr7McvDy14UT87FhhJ"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293894,
+      "name": "Igauan Malam",
+      "url": "https://open.spotify.com/track/68oey8CEp8hOD0ho0VsEqz"
+    },
+    {
+      "album": {
         "name": "PAGTATAG!",
         "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
       },
@@ -6396,7 +6530,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 292929,
       "name": "ILAW",
       "url": "https://open.spotify.com/track/4zoqT3f80GyytJvnhVHgEl"
@@ -7125,6 +7259,24 @@
     },
     {
       "album": {
+        "name": "Kepala Batu",
+        "url": "https://open.spotify.com/album/6VQtsZhoiiSS9Zl1MTEjD0"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208948,
+      "name": "Kepala Batu",
+      "url": "https://open.spotify.com/track/1lJMeBBPwaS9MSvPPDOd90"
+    },
+    {
+      "album": {
         "name": "MELTING POINT",
         "url": "https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys"
       },
@@ -7440,6 +7592,24 @@
       "duration_ms": 177212,
       "name": "lacy",
       "url": "https://open.spotify.com/track/5SShKhLCYFydCsO4L7ULMr"
+    },
+    {
+      "album": {
+        "name": "Kepala Batu EP",
+        "url": "https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175246,
+      "name": "Langgar",
+      "url": "https://open.spotify.com/track/2qKycfe4GVcjmVjsxor2qW"
     },
     {
       "album": {
@@ -8246,7 +8416,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 243676,
       "name": "Mana",
       "url": "https://open.spotify.com/track/0EtkP3TUHvTeDIgrpgMS8m"
@@ -8300,7 +8470,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 275420,
       "name": "MAPA",
       "url": "https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ"
@@ -8872,7 +9042,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 168102,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1xAYG31LamC5qlykRhbWxd"
@@ -9384,7 +9554,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 346849,
       "name": "Nyebe",
       "url": "https://open.spotify.com/track/6aLjE6peuaJQRWRgfjxrRw"
@@ -9648,6 +9818,28 @@
       "duration_ms": 192613,
       "name": "Over Me",
       "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
+    },
+    {
+      "album": {
+        "name": "Awake & Dreaming EP",
+        "url": "https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        },
+        {
+          "name": "Killa Driz",
+          "url": "https://open.spotify.com/artist/37Kp0IeMMN23eOnJANil3a"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199315,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/1zH1LxQMXwF0u6uxP9upe1"
     },
     {
       "album": {
@@ -10193,6 +10385,24 @@
     },
     {
       "album": {
+        "name": "Pulang",
+        "url": "https://open.spotify.com/album/71rJWafKCflIm3q1NzNm7n"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287477,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/1DVHCvTwuwtZrpYDV4irH5"
+    },
+    {
+      "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
       },
@@ -10258,7 +10468,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 283090,
       "name": "Quit",
       "url": "https://open.spotify.com/track/7oIQWmbKShhEt2yTSBxNpu"
@@ -10334,6 +10544,24 @@
       "duration_ms": 203384,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "album": {
+        "name": "Kepala Batu EP",
+        "url": "https://open.spotify.com/album/6U1Imk9cN9VSNQrnHMgGkY"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265406,
+      "name": "Reminisensi",
+      "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"
     },
     {
       "album": {
@@ -10831,6 +11059,24 @@
     },
     {
       "album": {
+        "name": "Selalu",
+        "url": "https://open.spotify.com/album/6e80C4fwLA1ufSNYBZ4VjG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234990,
+      "name": "Selalu",
+      "url": "https://open.spotify.com/track/5gYUquvcd9ZPwlgNAivkym"
+    },
+    {
+      "album": {
         "name": "2:BE",
         "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
       },
@@ -10867,6 +11113,24 @@
     },
     {
       "album": {
+        "name": "Sempurna",
+        "url": "https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251714,
+      "name": "Sempurna",
+      "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"
+    },
+    {
+      "album": {
         "name": "Ooh La ! La!",
         "url": "https://open.spotify.com/album/1WbKFr38t3WJqbw7iteihJ"
       },
@@ -10882,6 +11146,24 @@
       "duration_ms": 285560,
       "name": "Semuanya Ok",
       "url": "https://open.spotify.com/track/3ipddyjTmrzKFuNTxLuLft"
+    },
+    {
+      "album": {
+        "name": "Seperti Dulu",
+        "url": "https://open.spotify.com/album/1iT9kNNuQeZKXL3ZTUZKSg"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249323,
+      "name": "Seperti Dulu",
+      "url": "https://open.spotify.com/track/4dBWp2aLhZRvycZlHH23k6"
     },
     {
       "album": {
@@ -11152,7 +11434,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 236697,
       "name": "Shooting for the Stars",
       "url": "https://open.spotify.com/track/6q3qzeZgWgoFrV6DmaZr1R"
@@ -11318,7 +11600,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 199013,
       "name": "SLMT",
       "url": "https://open.spotify.com/track/0AbJoAxuqYgMrmXvtFOc0K"
@@ -11532,6 +11814,24 @@
       "duration_ms": 219488,
       "name": "SOLO (Feat. Hoody)",
       "url": "https://open.spotify.com/track/6j3i8yVetAyxX8vUIfoz70"
+    },
+    {
+      "album": {
+        "name": "Some Days Are Just Better",
+        "url": "https://open.spotify.com/album/2y2mo57YUCnw5Thb67ugbp"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216898,
+      "name": "Some Days Are Just Better",
+      "url": "https://open.spotify.com/track/6rADLWIVopV1tD2S323Jy0"
     },
     {
       "album": {
@@ -12221,6 +12521,24 @@
     },
     {
       "album": {
+        "name": "Teman",
+        "url": "https://open.spotify.com/album/0HsFWCBUOfZdiIJC5xrbfL"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237907,
+      "name": "Teman",
+      "url": "https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa"
+    },
+    {
+      "album": {
         "name": "ten",
         "url": "https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F"
       },
@@ -12804,7 +13122,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 224318,
       "name": "Time",
       "url": "https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF"
@@ -13736,7 +14054,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 270192,
       "name": "What?",
       "url": "https://open.spotify.com/track/4sYZHEiueAYM5klpUbVNyk"
@@ -13851,6 +14169,24 @@
     },
     {
       "album": {
+        "name": "Awake & Dreaming EP",
+        "url": "https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162038,
+      "name": "why don't u cry?",
+      "url": "https://open.spotify.com/track/31b1psRnP8SdJBv4P0JOpD"
+    },
+    {
+      "album": {
         "name": "look what i made",
         "url": "https://open.spotify.com/album/6hIBFEFTlljAeGdU1AAGl3"
       },
@@ -13952,7 +14288,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-31",
       "duration_ms": 218461,
       "name": "WYAT (Where You At)",
       "url": "https://open.spotify.com/track/1z50Hub2XCsAPWo8zgoePu"
@@ -14636,6 +14972,42 @@
       "duration_ms": 219280,
       "name": "\u0e44\u0e2b\u0e19\u0e1a\u0e2d\u0e01\u0e40\u0e25\u0e34\u0e01\u0e41\u0e25\u0e49\u0e27 (In My Bed)",
       "url": "https://open.spotify.com/track/1Fs20RsWqb8I510IkvwcqL"
+    },
+    {
+      "album": {
+        "name": "TEMAN EP",
+        "url": "https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "\u2060Sayang/Cinta",
+      "url": "https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo"
+    },
+    {
+      "album": {
+        "name": "TEMAN EP",
+        "url": "https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "\u2060Temani Hati",
+      "url": "https://open.spotify.com/track/59EPrFB2wzEHviwAovm7J0"
     },
     {
       "album": {

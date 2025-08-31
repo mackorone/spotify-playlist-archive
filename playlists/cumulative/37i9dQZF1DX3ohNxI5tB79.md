@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-327 songs - 21 hr 2 min
+329 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,12 +308,14 @@
 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 | 2022-06-21 | 2025-02-11 |
 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 | 2022-07-05 | 2023-10-04 |
 | [Wandering Ways](https://open.spotify.com/track/1qPxBxzTbnJ7PCVAyBsy1R) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/6P9qlf4qE0QkQ58yTaQnUK) | 2:48 | 2021-12-13 | 2022-07-29 |
+| [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-08-30 |  |
 | [What if We Stopped Paying Taxes? \- Sharon Jones and The Dap King](https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Impeach The Precedent](https://open.spotify.com/album/0p0OC8cKmADVSd3LGvxiU4) | 5:01 | 2022-12-05 | 2023-05-19 |
 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 | 2023-02-17 | 2025-03-08 |
 | [What's the Move](https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [What's the Move](https://open.spotify.com/album/431U10Fvg2NtgECribydtZ) | 3:07 | 2024-06-28 |  |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-10-03 | 2025-04-09 |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-12-13 | 2024-02-24 |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 | 2025-03-08 |
+| [wHIP](https://open.spotify.com/track/6iaLsNI1ht2Z2fSFqvESx0) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 2:48 | 2025-08-30 |  |
 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 | 2022-04-28 | 2024-10-26 |
 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 | 2022-07-05 | 2024-04-19 |
 | [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2023-02-17 | 2024-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,452 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 4 | [Fascination](https://open.spotify.com/track/3Cce15ZRmDB6p41GHiNEP4) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Fascination](https://open.spotify.com/album/5bg9moPdC5rl4PEPykc2HU) | 3:25 |
 | 5 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 |
 | 6 | [SEE ME HERE](https://open.spotify.com/track/5nYYaJ2mQ6Z749VawIjLXM) | [Hakyung](https://open.spotify.com/artist/6iSUJTtPGOz42wAUl1PxKO) | [BREATHING IN](https://open.spotify.com/album/56xFsFGOFWYOKTDwcDW3KG) | 5:13 |
-| 7 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8), [Bonnie](https://open.spotify.com/artist/0ffPMxFfQk7veBXApIWZWu), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
+| 7 | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/track/0JT4sHcL4tlrxsJBXGVwEv) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8), [Bonnie](https://open.spotify.com/artist/1gRewtKGMez7TrX39W9Fgd), [Sunny](https://open.spotify.com/artist/3zzUbb5VsVgF07lb7gpLwo) | [Love You \(with Bonnie, Sunny\)](https://open.spotify.com/album/11WOPtjOyIPfvxnyhFr62s) | 1:56 |
 | 8 | [Soft Serenade](https://open.spotify.com/track/2kakhlsfdppnzXRGgZuRGf) | [Green Pulse](https://open.spotify.com/artist/4GdPbBDa4FCCyWWVxeoO0P) | [Soft Serenade](https://open.spotify.com/album/5QWLLTpUyVUjXqJV19wicG) | 3:11 |
 | 9 | [Espresso Rush](https://open.spotify.com/track/2x6idBqv6fVq4bPNO8l9QZ) | [Relax Ann](https://open.spotify.com/artist/2esrpoyixMx83vSV2UzV65) | [Espresso Rush](https://open.spotify.com/album/3zG5QTErCjGc5Tcr5SQAtx) | 2:13 |
 | 10 | [The moon is mooning](https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [The Divorce Insurance, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo) | 2:28 |

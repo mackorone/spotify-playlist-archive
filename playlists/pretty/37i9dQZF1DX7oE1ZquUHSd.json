@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 208670,
+  "num_followers": 208718,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Super Jon-Z (Residente Challenge)",
         "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 487011,
       "name": "Super Jon-Z (Residente Challenge)",
       "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -791,42 +791,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "24/Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
-      },
-      "artists": [
-        {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 110229,
-      "name": "C.R.O 24/Siempre",
-      "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 332853,
-      "name": "Cantando",
-      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -847,18 +811,38 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+      "duration_ms": 332853,
+      "name": "Cantando",
+      "url": "https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "24/Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 110229,
+      "name": "C.R.O 24/Siempre",
+      "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -879,6 +863,22 @@
       "duration_ms": 309733,
       "name": "Gaminart",
       "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "24/Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
-      },
-      "artists": [
-        {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 152298,
-      "name": "Homer el Mero Mero 24/Siempre",
-      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Mejor Que El Silencio",
         "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
       },
@@ -1135,22 +1115,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
+        "name": "24/Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
       "artists": [
         {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
         },
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
         }
       ],
-      "duration_ms": 170981,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero 24/Siempre",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lujo Ib\u00e9rico",
-        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
       "artists": [
         {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 167506,
-      "name": "Tengo Un Trato",
-      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Minotauro",
-        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+        "name": "Lujo Ib\u00e9rico",
+        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 245958,
-      "name": "Minotauro",
-      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
+      "duration_ms": 167506,
+      "name": "Tengo Un Trato",
+      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1235,6 +1219,22 @@
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Minotauro",
+        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 245958,
+      "name": "Minotauro",
+      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Verdugo",
-        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 224651,
-      "name": "Tratos Con el Diablo",
-      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "En la brevedad de los dias",
         "url": "https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 245120,
       "name": "Basado en hechos reales",
       "url": "https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Verdugo",
+        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 224651,
+      "name": "Tratos Con el Diablo",
+      "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "R de Rumba",
         "url": "https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+        "name": "El Ataque De Los Que Observaban",
+        "url": "https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY"
       },
       "artists": [
         {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
         }
       ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+      "duration_ms": 354226,
+      "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
+      "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1619,22 +1635,6 @@
       "duration_ms": 293066,
       "name": "Digo Lo Que Pienso",
       "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "El Ataque De Los Que Observaban",
-        "url": "https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY"
-      },
-      "artists": [
-        {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        }
-      ],
-      "duration_ms": 354226,
-      "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
-      "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1759,22 +1759,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Faruz Vs. Proof",
-        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
+        "name": "Verdugo",
+        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
       "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        },
         {
           "name": "Proof",
           "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         }
       ],
-      "duration_ms": 204173,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb"
+      "duration_ms": 176842,
+      "name": "Verdugo",
+      "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1799,18 +1795,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Verdugo",
-        "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
+        "name": "Faruz Vs. Proof",
+        "url": "https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8"
       },
       "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
         {
           "name": "Proof",
           "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
         }
       ],
-      "duration_ms": 176842,
-      "name": "Verdugo",
-      "url": "https://open.spotify.com/track/1zmPtZKrIxWRsdfk2yhH0k"
+      "duration_ms": 204173,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb"
     },
     {
       "added_at": "2024-07-12 18:46:41",

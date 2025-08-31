@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [TUKTUK](https://open.spotify.com/track/6rxyCz0kF55sboellENzq3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK), [Nemazalány](https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc) | [TUKTUK](https://open.spotify.com/album/3Letpc0U8APdF4wfi7PkKG) | 3:00 |
 | 50 | [Ki viszi át a szerelmet?](https://open.spotify.com/track/3gb8sFSaUhrLSJToATIJzX) | [Hegedűs Bori](https://open.spotify.com/artist/09OYVqClUT8Hec0wQdIp5F), [Tempfli Erik](https://open.spotify.com/artist/4jy7SetDUhLUyvuAK0dlNL) | [Megtörtént dolgok háza](https://open.spotify.com/album/2lIQrLFsAwxuqiSTZHoLf8) | 2:24 |
 
-Snapshot ID: `AAAAAISv4ZoxH4uccqsXNdfcM2JxiIVe`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

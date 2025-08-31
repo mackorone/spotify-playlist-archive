@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-81 songs - 6 hr 55 min
+82 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alvo Mais que a Neve](https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 5:45 | 2025-02-18 |  |
 | [Amigo Espírito Santo](https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Ao Som dos Louvores](https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU) | 5:13 | 2023-07-09 |  |
 | [Ao Estrugir a Trombeta](https://open.spotify.com/track/0V3gGGIw36rS8vjVyicDLw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:09 | 2023-07-09 | 2024-05-07 |
-| [Aquieta \(Ao Vivo\)](https://open.spotify.com/track/3zUUCAfl9sOUsogbIhJFBm) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di) | 4:39 | 2025-08-06 |  |
+| [Aquieta \(Ao Vivo\)](https://open.spotify.com/track/3zUUCAfl9sOUsogbIhJFBm) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane 40 Anos \(Ao Vivo\)](https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di) | 4:39 | 2025-08-06 | 2025-08-31 |
 | [Basta Uma Palavra](https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:35 | 2023-07-09 |  |
 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 | 2023-07-09 | 2023-09-16 |
 | [Choque E Fogo](https://open.spotify.com/track/0Y0tYSDTuGpzff4moYGa4u) | [Pregador Luo](https://open.spotify.com/artist/1dpUJl5huB5mtceAbK2E2r), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Único \- Incomparável \(Vol\. 1\)](https://open.spotify.com/album/1PD0lcDNh9WozfS2309QAu) | 4:00 | 2024-06-18 | 2025-02-25 |
@@ -80,6 +80,7 @@
 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 | 2023-07-09 |  |
 | [Sossegai](https://open.spotify.com/track/5mz1wRklvSTHDYe1W4Iec6) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 6:36 | 2023-07-09 | 2024-05-13 |
 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 | 2024-05-26 |  |
+| [Tem Milagre](https://open.spotify.com/track/4N8W1ihLYDi7b3PzBjgiqc) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tem Milagre](https://open.spotify.com/album/786Yb8RGLm5I1hezYh9klS) | 4:07 | 2025-08-31 |  |
 | [Todavia me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 5:52 | 2023-07-09 |  |
 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 | 2023-07-09 |  |
 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Cassiane](https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 | 2023-07-09 | 2025-04-20 |

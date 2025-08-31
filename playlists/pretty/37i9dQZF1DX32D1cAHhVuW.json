@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 62180,
+  "num_followers": 62207,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 93799,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 218610,
       "name": "That's Facts",
       "url": "https://open.spotify.com/track/6dug6dIV40JMz2myhafHrm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 93799,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -675,22 +675,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "G.I.H.F.",
+        "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
       },
       "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 195063,
-      "name": "Still Hood",
-      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
+      "duration_ms": 276239,
+      "name": "Walk (feat. Lil Baby & 42 Dugg)",
+      "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -715,26 +719,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "G.I.H.F.",
-        "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
       "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 276239,
-      "name": "Walk (feat. Lil Baby & 42 Dugg)",
-      "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+      "duration_ms": 195063,
+      "name": "Still Hood",
+      "url": "https://open.spotify.com/track/1huoY7hw3hGVGfuPPe9y8P"
     },
     {
       "added_at": "2022-10-01 16:00:00",

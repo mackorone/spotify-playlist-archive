@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31004,
+  "num_followers": 31014,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABxHwuiana3dtSYQOvOfzUa",
+  "snapshot_id": "aLDtgAAAAADIBZP4c9zJ94k+rLFtzxcl",
   "tracks": [
     {
       "added_at": null,
@@ -1215,26 +1215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "I'd Rather Be Sorry",
-      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Austin Sessions",
         "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
@@ -1247,22 +1227,6 @@
       "duration_ms": 157733,
       "name": "Please Don't Tell Me How the Story Ends",
       "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1287,6 +1251,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "I'd Rather Be Sorry",
+      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 282640,
       "name": "To Beat The Devil",
       "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural Act",
-        "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Loving You Was Easier",
-      "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
     },
     {
       "added_at": null,
@@ -1367,6 +1347,26 @@
       "duration_ms": 152586,
       "name": "Closer to the Bone",
       "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural Act",
+        "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Loving You Was Easier",
+      "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
     },
     {
       "added_at": null,

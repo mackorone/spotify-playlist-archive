@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61578,
+  "num_followers": 61594,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAACf+jD4fOZSjtZdvbhyT9+9",
+  "snapshot_id": "aLDtgAAAAABsGpqPB/Sx/bbzuLiMSN3a",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz 'Round Midnight: Bossa Nova",
-        "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
       "artists": [
         {
@@ -644,17 +644,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 264226,
-      "name": "It Might As Well Be Spring - Live At Carnegie Hall",
-      "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
+      "duration_ms": 129720,
+      "name": "Bim Bom - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
     },
     {
       "added_at": null,
@@ -675,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+        "name": "Jazz 'Round Midnight: Bossa Nova",
+        "url": "https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY"
       },
       "artists": [
         {
@@ -684,13 +680,17 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 129720,
-      "name": "Bim Bom - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
+      "duration_ms": 264226,
+      "name": "It Might As Well Be Spring - Live At Carnegie Hall",
+      "url": "https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz"
     },
     {
       "added_at": null,

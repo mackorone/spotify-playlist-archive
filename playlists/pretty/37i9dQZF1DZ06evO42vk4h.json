@@ -1,13 +1,37 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4159,
+  "num_followers": 4160,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAADGcHD3wzqFVNDhz5+my+2p",
+  "snapshot_id": "aLDtgAAAAABT2wHxEg69T+guL/qpjt42",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tsa Ma Ndebele Kids (Dr Feel & Oskido Remix)",
+        "url": "https://open.spotify.com/album/4Wv2434ZMueT4tAMUzdlCF"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Tsa Ma Ndebele Kids - Remix",
+      "url": "https://open.spotify.com/track/0LtPRk1WosYYiJAL9AshZS"
+    },
     {
       "added_at": null,
       "album": {
@@ -149,7 +173,7 @@
         },
         {
           "name": "Alvaro",
-          "url": "https://open.spotify.com/artist/20mCdWSz6PqFQof9gFFJ1r"
+          "url": "https://open.spotify.com/artist/3b2a8KKO6aLSfo5xVSL1Zv"
         },
         {
           "name": "Oscar Mdlongwa",
@@ -383,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self-Control",
-        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
-      },
-      "artists": [
-        {
-          "name": "Character",
-          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Mono T",
-          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
-        }
-      ],
-      "duration_ms": 341908,
-      "name": "Inxeba Le Ndoda",
-      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Izandla",
         "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
       },
@@ -427,6 +427,30 @@
       "duration_ms": 225535,
       "name": "Izandla - Radio Edit",
       "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self-Control",
+        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
+      },
+      "artists": [
+        {
+          "name": "Character",
+          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Mono T",
+          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
+        }
+      ],
+      "duration_ms": 341908,
+      "name": "Inxeba Le Ndoda",
+      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
     },
     {
       "added_at": null,
@@ -499,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Onole Kae (feat. CowBoii)",
         "url": "https://open.spotify.com/album/6QFhPrr8KbLhFlErQq0Sea"
       },
@@ -523,26 +567,6 @@
       "duration_ms": 440837,
       "name": "Onole Kae (feat. CowBoii)",
       "url": "https://open.spotify.com/track/0KQT0AbkQSGkClVEV0W6eh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
     },
     {
       "added_at": null,
@@ -887,6 +911,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "x Wise",
+          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
+        }
+      ],
+      "duration_ms": 432144,
+      "name": "iThuba - Deep House Mix",
+      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iphinde",
         "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
       },
@@ -947,34 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "iThuba",
-        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Nhlonipho",
-          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        },
-        {
-          "name": "x Wise",
-          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
-        }
-      ],
-      "duration_ms": 432144,
-      "name": "iThuba - Deep House Mix",
-      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afro Wave",
         "url": "https://open.spotify.com/album/1cGMWl5ce7XiIoLP3ecUqp"
       },
@@ -1031,30 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mngani Wami",
-        "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
-      },
-      "artists": [
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        }
-      ],
-      "duration_ms": 367288,
-      "name": "Mngani Wami",
-      "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Next Gen",
         "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
@@ -1083,6 +1083,30 @@
       "duration_ms": 229384,
       "name": "Mpulele (feat. King Tone SA & Shane907) - Radio Edit",
       "url": "https://open.spotify.com/track/1YuLielZbBk98qv6KYAgH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mngani Wami",
+        "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
+      },
+      "artists": [
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        }
+      ],
+      "duration_ms": 367288,
+      "name": "Mngani Wami",
+      "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
     },
     {
       "added_at": null,
@@ -1119,82 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lets Dance",
-        "url": "https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 185811,
-      "name": "Lets Dance",
-      "url": "https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wena Kphela",
-        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
-      },
-      "artists": [
-        {
-          "name": "Ze2",
-          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 250711,
-      "name": "Wena Kphela",
-      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Next Gen",
-        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Ntwana yami (feat. X-wise) - Acoustic Version",
-      "url": "https://open.spotify.com/track/4sf0P3XBy2YD4omSpKsg2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reunited",
         "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
       },
@@ -1223,30 +1171,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uzobuya",
-        "url": "https://open.spotify.com/album/0F7r7hwDnx4ui5WTXiLlaf"
+        "name": "Next Gen",
+        "url": "https://open.spotify.com/album/0i4WqyKHDVQlo0ojq5mJVq"
       },
       "artists": [
         {
-          "name": "LilyFaith",
-          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Lowsheen",
-          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
-        },
-        {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         }
       ],
-      "duration_ms": 289057,
-      "name": "Uzobuya",
-      "url": "https://open.spotify.com/track/6dfmPhjcqGM2EDGmcwwyTY"
+      "duration_ms": 207600,
+      "name": "Ntwana yami (feat. X-wise) - Acoustic Version",
+      "url": "https://open.spotify.com/track/4sf0P3XBy2YD4omSpKsg2i"
     },
     {
       "added_at": null,
@@ -1271,6 +1215,58 @@
       "duration_ms": 214285,
       "name": "Sabela - Radio Edit",
       "url": "https://open.spotify.com/track/704kjwbiGaRqUDxbtxa7zW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wena Kphela",
+        "url": "https://open.spotify.com/album/0rVbKRueliaVGriIZ6BMZt"
+      },
+      "artists": [
+        {
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 250711,
+      "name": "Wena Kphela",
+      "url": "https://open.spotify.com/track/4FZCPj5ENTJUICPckzTEO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lets Dance",
+        "url": "https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 185811,
+      "name": "Lets Dance",
+      "url": "https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS"
     },
     {
       "added_at": null,
@@ -1303,30 +1299,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pakinou (Remix)",
-        "url": "https://open.spotify.com/album/2fir7nH0x8BcWInU28seKW"
+        "name": "Uzobuya",
+        "url": "https://open.spotify.com/album/0F7r7hwDnx4ui5WTXiLlaf"
       },
       "artists": [
         {
-          "name": "REINE ABLAA",
-          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
         },
         {
-          "name": "Adeba Konan",
-          "url": "https://open.spotify.com/artist/3c4MzIYdt28h4BgC5PCiHF"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Lowsheen",
+          "url": "https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         }
       ],
-      "duration_ms": 221415,
-      "name": "Pakinou - Remix",
-      "url": "https://open.spotify.com/track/55PRpaKqYP3iLMIKS6gADm"
+      "duration_ms": 289057,
+      "name": "Uzobuya",
+      "url": "https://open.spotify.com/track/6dfmPhjcqGM2EDGmcwwyTY"
     }
   ],
   "unique_name": "This Is OSKIDO",

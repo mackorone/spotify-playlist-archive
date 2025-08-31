@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Yaeji \[LIVE WITH A HAMMER ASIA TOUR\] 8월 25일 @ 블루스퀘어 SOL트래블홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,553 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,537 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

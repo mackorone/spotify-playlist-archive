@@ -4,7 +4,7 @@
 
 > feel it all\. Cover: Taking Back Sunday
 
-206 songs - 12 hr 25 min
+207 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,13 +184,14 @@
 | [The Permanent Rain](https://open.spotify.com/track/3aTyz9Yur7YRSXXXlyjKUD) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Reach For The Sun](https://open.spotify.com/album/13Zqbq7TFA0zOHrK4ZLO9J) | 3:23 | 2021-12-16 | 2022-07-29 |
 | [The Permanent Rain](https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Reach For The Sun](https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T) | 3:23 | 2022-06-14 | 2024-04-19 |
 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 | 2022-05-27 |  |
-| [The Season](https://open.spotify.com/track/67mSnPBrCNWevJjLplCW66) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [The Season](https://open.spotify.com/album/2mWwk4gv1U8BneOTqlgQTT) | 3:35 | 2022-05-27 |  |
+| [The Season](https://open.spotify.com/track/67mSnPBrCNWevJjLplCW66) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [The Season](https://open.spotify.com/album/2mWwk4gv1U8BneOTqlgQTT) | 3:35 | 2022-05-27 | 2025-08-31 |
 | [The Space Between](https://open.spotify.com/track/3VGjUGJ5H3N61ggpyORS0n) | [Valencia](https://open.spotify.com/artist/44Ga8DsScroKWAkQAJ1GwE) | [This Could Be A Possibility](https://open.spotify.com/album/6fFF8Oo2xBO2kCnR6xW0Zg) | 3:37 | 2021-12-16 | 2022-07-25 |
 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 | 2021-12-16 |  |
 | [The Truth About Heaven](https://open.spotify.com/track/5qAKEQvEMo2TAjOq7qbRsK) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:30 | 2023-10-22 | 2024-01-01 |
 | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2021-12-16 |  |
 | [This Could Be Anywhere In The World](https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw) | 4:03 | 2023-07-25 | 2024-04-19 |
 | [This Could Be Anywhere In The World](https://open.spotify.com/track/0pmdgnrTrUUR60u69LE5GR) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/5KlHprkUumEKWLTWT1bjGf) | 4:03 | 2021-12-16 | 2022-07-26 |
+| [This Years Most Open Heartbreak](https://open.spotify.com/track/1AZ8CSdziuczeW2ckUPvO2) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:42 | 2025-08-05 |  |
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2021-12-16 |  |
 | [Tiny Raindrop](https://open.spotify.com/track/4EvzBvvreh74hcVAsUvfjD) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [The Things We Think We're Missing](https://open.spotify.com/album/3ZCQXNkbMzAH7WDIQ8EN3O) | 3:33 | 2023-07-25 | 2024-07-04 |
 | [Transatlanticism](https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 7:55 | 2023-07-25 |  |

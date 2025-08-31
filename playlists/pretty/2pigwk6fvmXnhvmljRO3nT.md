@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,592 songs - 19 day 14 hr 51 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,593 songs - 19 day 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7600,5 +7600,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7590 | [Yobanashi Deseive](https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Maria](https://open.spotify.com/artist/4BaJdxkFoGLQFYOwcg2ik4) | [Mekakucity M's 2 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 3:21 |
 | 7591 | [Ayano No Koufukuriron](https://open.spotify.com/track/4jcyxykbZGgu72DY7zl2vu) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [Okui Aki](https://open.spotify.com/artist/0D1vK3SxxPezAurBjxzMOZ) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 5:37 |
 | 7592 | [LAY YOUR HANDS ON ME \(2017\)](https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [19972016 \-20082016\-](https://open.spotify.com/album/2k9f4qBmEx1GgY4I3XT42r) | 6:12 |
+| 7593 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
 
-Snapshot ID: `AAAIchjFzvLXPmVIvvXG8ikbZMWfR2xV`
+Snapshot ID: `AAAIc6Pqjc/2ear8xdsEBordAY4L0IUc`

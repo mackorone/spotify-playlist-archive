@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 104106,
+  "num_followers": 104138,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 286253,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Master of My Make-Believe",
         "url": "https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 284400,
       "name": "Disparate Youth",
       "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Flume",
-        "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 154414,
-      "name": "Holdin On",
-      "url": "https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 167546,
       "name": "Chained",
       "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 154414,
+      "name": "Holdin On",
+      "url": "https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Days Are Gone (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Don't Save Me",
-      "url": "https://open.spotify.com/track/02iCjWBd2cOMbTnMs5Zek8"
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+        "name": "Days Are Gone (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
       "artists": [
         {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
+      "duration_ms": 231226,
+      "name": "Don't Save Me",
+      "url": "https://open.spotify.com/track/02iCjWBd2cOMbTnMs5Zek8"
     },
     {
       "added_at": "2025-03-14 12:16:12",

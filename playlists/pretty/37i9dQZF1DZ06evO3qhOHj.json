@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aK+cAAAAAABrb2CDIiySLpJgGXn8kWdI",
+  "snapshot_id": "aLDtgAAAAAARVjGcgKp+L3kS9Xj4U67o",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Anything For You - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 223426,
       "name": "Superfantastic",
       "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Anything For You - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 252520,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -667,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big [Expanded]",
         "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
@@ -708,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,
@@ -731,6 +683,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2dvxVshYOguKNlimauN4Mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell",
-        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "Just Let Your Heart Decide",
-      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big (2023 Remastered)",
         "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 295472,
       "name": "Had Enough - 2023 Remastered",
       "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...The Stories We Could Tell",
+        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "Just Let Your Heart Decide",
+      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
     },
     {
       "added_at": null,

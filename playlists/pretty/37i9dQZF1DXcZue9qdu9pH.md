@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,345 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,346 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOING](https://open.spotify.com/track/3K40ExNdW7OLgTsDKAtJaC) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [GOING](https://open.spotify.com/album/5S3NQCNi6QOu9dGvjjtceu) | 2:02 |
-| 2 | [gin and wine \- SwuM Remix](https://open.spotify.com/track/1iiHhZQ6TVLG5ETjoUnZhs) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [gin and wine \(SwuM Remix\)](https://open.spotify.com/album/2tHzEyFoJfgIZ71UkLdgoX) | 2:24 |
+| 2 | [gin and wine \- Remix](https://open.spotify.com/track/1iiHhZQ6TVLG5ETjoUnZhs) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [gin and wine \(Remix\)](https://open.spotify.com/album/2tHzEyFoJfgIZ71UkLdgoX) | 2:24 |
 | 3 | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [THESE DISHES AIN'T GONNA DO THEMSELVES](https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4) | 2:54 |
 | 4 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 |
 | 5 | [Nakungoja](https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ) | [Iminza](https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2) | [Nakungoja](https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE) | 2:28 |

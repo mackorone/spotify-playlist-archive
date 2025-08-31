@@ -4,12 +4,12 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with NGHTMRE
 
-1,459 songs - 3 day 8 hr 30 min
+1,460 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 | 2023-07-08 |
-| [100 Dolla Bill](https://open.spotify.com/track/55zFoHpJgzSuoJcXdMdc5q) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Silk Young](https://open.spotify.com/artist/20alfRgjw9jmTboYF6ZsOc) | [Heavy Hitterz](https://open.spotify.com/album/5DeF4jIJvlp9qdCRr8x2KB) | 3:34 | 2025-07-11 |  |
+| [100 Dolla Bill](https://open.spotify.com/track/55zFoHpJgzSuoJcXdMdc5q) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Silk Young](https://open.spotify.com/artist/20alfRgjw9jmTboYF6ZsOc) | [Heavy Hitterz](https://open.spotify.com/album/5DeF4jIJvlp9qdCRr8x2KB) | 3:34 | 2025-07-11 | 2025-08-31 |
 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-31 | 2025-03-08 |
 | [24 HRS](https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [24 HRS](https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc) | 3:01 | 2023-10-06 | 2023-10-30 |
 | [24/7](https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [24/7](https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW) | 3:16 | 2023-11-17 | 2023-12-30 |
@@ -785,6 +785,7 @@
 | [Lonely](https://open.spotify.com/track/3GUWJzkXw4nCkRvKXT1XkV) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Lonely](https://open.spotify.com/album/0V2fLxZCzq7rs7zJQCQGvE) | 4:33 | 2024-08-23 | 2024-09-28 |
 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 | 2024-05-31 | 2024-06-29 |
 | [Look Inside](https://open.spotify.com/track/2pku66IzwrTpu5MBIw2qUS) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [leah weaver](https://open.spotify.com/artist/0S2MrHwKRIcy0VKekvmumb) | [The Code of Dreamz](https://open.spotify.com/album/7CY0Rkh9lUuJRmwMdQ4NNj) | 2:37 | 2024-06-07 | 2024-08-10 |
+| [LOOK4MYLOVE](https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [LOOK4MYLOVE](https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD) | 3:40 | 2025-08-29 |  |
 | [Looking For More](https://open.spotify.com/track/7us5o6uXfSSmiedZSoKkR6) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Looking For More](https://open.spotify.com/album/3j32wZ0pudc0BLviHDVpi3) | 4:04 | 2021-12-17 | 2022-03-12 |
 | [Looking Inward](https://open.spotify.com/track/4r68AKH58EABND9aIozsG2) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Looking Inward](https://open.spotify.com/album/3pV3XAHlqJRKj6fvf8GKS2) | 2:51 | 2025-01-10 | 2025-01-18 |
 | [LOSE CONTROL](https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [Alter/Ego Volume III](https://open.spotify.com/album/5yXptClzNwBAw9GdIRxt76) | 3:28 | 2024-06-21 | 2024-10-05 |

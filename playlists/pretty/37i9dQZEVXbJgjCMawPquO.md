@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,489 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Gracias](https://open.spotify.com/track/3Hm0cLZmR9CIAt7IYpkJBT) | [Sangre Cumbiera](https://open.spotify.com/artist/01LbKSyRULsGSMNafaCCkD) | [Gracias](https://open.spotify.com/album/7CEVhTtvEIpsvrqPOOdQIX) | 2:45 |
 | 50 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 
-Snapshot ID: `MEUXoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MEZreAAAAAAAAAAAAAAAAAAAAAAAAGVu`

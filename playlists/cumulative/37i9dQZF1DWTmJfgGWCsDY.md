@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
-159 songs - 10 hr 38 min
+160 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 | 2022-11-24 |  |
 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 | 2022-08-05 |  |
 | [Kuchi Kuchi](https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9), [Kinata MC](https://open.spotify.com/artist/7y5en0LMphmD7mNKnEvB0b) | [Kuchi Kuchi](https://open.spotify.com/album/43svCQme17PS5C9uI9kT0w) | 4:24 | 2023-12-15 | 2025-02-07 |
-| [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 |  |
+| [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 | 2022-08-05 | 2025-08-31 |
 | [Kwampalange](https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi) | [Kinkau](https://open.spotify.com/artist/5rvEeHjcYfgx7xpGO4OQhb), [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U) | [Kwampalange](https://open.spotify.com/album/04hyzfw6DPX7ueXed6hxB1) | 3:39 | 2022-08-05 | 2025-05-17 |
 | [Kwanini](https://open.spotify.com/track/1mP3PPtft6EQumpjaj1nmc) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kwanini](https://open.spotify.com/album/57w4MZxXpYPG5RbjKCaTZA) | 4:35 | 2022-09-22 | 2025-05-08 |
 | [Kwetu](https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Kwetu](https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ) | 3:29 | 2023-01-26 | 2025-04-16 |
@@ -71,6 +71,7 @@
 | [Maisha Yetu Usela](https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm) | [Maisha Yetu Usela](https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG) | 5:25 | 2023-12-15 | 2025-08-09 |
 | [Mama Samia](https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Mama Samia](https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk) | 5:00 | 2024-04-26 | 2025-06-06 |
 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 | 2022-08-05 |  |
+| [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 | 2025-08-29 |  |
 | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Jetty Mc](https://open.spotify.com/artist/04pRUHmMXLeGtMCInTm142), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx) | [Mapenzi Hisia \(feat\. Jetty Mc, Vanillah, Baddest 47 & Jay Combat\)](https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3) | 4:21 | 2025-03-28 |  |
 | [Marejesho](https://open.spotify.com/track/41D9fiXwXEoaIpTcKvop3G) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Hassan Mapenzi](https://open.spotify.com/artist/4yDF3IlkVmivoqjNHXt8Ga) | [Marejesho](https://open.spotify.com/album/4VYG8Q8YNr9fYsO5eLEOpV) | 3:30 | 2025-06-05 | 2025-07-25 |
 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 | 2025-08-29 |  |

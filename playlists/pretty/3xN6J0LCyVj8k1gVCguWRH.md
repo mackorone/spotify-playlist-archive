@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,890 likes - 179 songs - 10 hr 33 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,893 likes - 175 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,9 +183,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 173 | [Deep As You](https://open.spotify.com/track/4TZQfo8otB5FD4B1Zo3Fk7) | [Tommy Lee James](https://open.spotify.com/artist/2K3oUlBUYEhyiQvTK8xddm) | [Deep As You](https://open.spotify.com/album/579ZUkQk1qVNtBejOUzrv0) | 3:41 |
 | 174 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 |
 | 175 | [I Tried](https://open.spotify.com/track/3NkGOMpRYm1dvZbP4Ox3Qj) | [Abel Skarz](https://open.spotify.com/artist/5ELxc8Gdyad067U7AQlBgf) | [I Tried](https://open.spotify.com/album/1nZD23gPirMXGGV1TUafA1) | 2:45 |
-| 176 | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/track/7uGIrSB669kY1q65R1vRTQ) | [Alfreda](https://open.spotify.com/artist/76h1KZm11oBfisNBwHuBzA) | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/album/2NBpuxM6dy7ejJEFYUkjmP) | 3:52 |
-| 177 | [flying by](https://open.spotify.com/track/5Tu4wE6GBuI4N777jTlZjT) | [elle j.](https://open.spotify.com/artist/2NT7hw8RUTe0WWE8iH4SFg) | [.27 CRISIS](https://open.spotify.com/album/228SxGKprFbFfya5x45xd7) | 3:10 |
-| 178 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 |
-| 179 | [Refresh](https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42) | [Jawson Dell](https://open.spotify.com/artist/6qjNqBZgGz4gXV8puoJbXl) | [Refresh](https://open.spotify.com/album/0f563gNCAM6pSgqc36aiHb) | 4:09 |
 
-Snapshot ID: `AAA0Im40tZmp0u/vMQ4HKuU1/cJUcSHb`
+Snapshot ID: `AAA0I3p7ZiTJJ/HfaX43p+qntmJXgZcj`
