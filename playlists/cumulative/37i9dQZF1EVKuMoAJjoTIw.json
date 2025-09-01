@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVbwNwLhDE83>NOTHING MORE</a>, <a href=spotify:playlist:37i9dQZF1EIZOFpmHPdHnx>Pepe Aguilar</a>, <a href=spotify:playlist:37i9dQZF1EIYy7x9QrOkCo>Deep Purple</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWzxsIy8S0Ow>Teoman</a>, <a href=spotify:playlist:37i9dQZF1EIZsq3tmw5snT>Dani Fern\u00e1ndez</a>, <a href=spotify:playlist:37i9dQZF1EIZ5e425mZ0ye>Melike \u015eahin</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 364906,
       "name": "Fade In / Fade Out",
       "url": "https://open.spotify.com/track/3HYs3wvhafGbyoGtLspEzr"
@@ -5215,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "I Won't Beg for You",
+        "url": "https://open.spotify.com/album/5OyOJw6cJrHZkBp6Qns0Wz"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "I Won't Beg for You",
+      "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting (Sad At Christmas)",
         "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 242652,
       "name": "listen before i go",
       "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
@@ -8166,7 +8184,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -8574,7 +8592,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 270906,
       "name": "Perdono y Olvido",
       "url": "https://open.spotify.com/track/3Xbq8UTJhuui2JCfpFDn54"
@@ -9685,6 +9703,24 @@
     },
     {
       "album": {
+        "name": "\u0130lhan \u015ee\u015fen: Hediyem",
+        "url": "https://open.spotify.com/album/4NMfHFqT5ZonWBzkPsYajS"
+      },
+      "artists": [
+        {
+          "name": "Yal\u0131n",
+          "url": "https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217557,
+      "name": "Sensiz Olmaz",
+      "url": "https://open.spotify.com/track/27t7YHIlw0u1uVO302wpvD"
+    },
+    {
+      "album": {
         "name": "Perayaan Patah Hati - Babak 1",
         "url": "https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa"
       },
@@ -10072,7 +10108,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 204880,
       "name": "Soldier Of Fortune - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK"
@@ -10350,6 +10386,24 @@
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
+    },
+    {
+      "album": {
+        "name": "Stargazing (Moonlight Version)",
+        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Stargazing - Moonlight Version",
+      "url": "https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI"
     },
     {
       "album": {

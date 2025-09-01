@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,117 songs - 3 day 9 hr 13 min
+1,118 songs - 3 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Rising Urge \- Lost Tapes](https://open.spotify.com/track/7Bm0j8ALNJ7ledPN0fKfBw) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\)](https://open.spotify.com/album/6vWgySuOqxQcfOyvzYV74B) | 5:06 | 2019-06-19\* | 2022-04-16 |
 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 | 2025-02-28 |  |
 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 | 2024-08-02 |  |
+| [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 | 2025-08-28 |  |
 | [Roman](https://open.spotify.com/track/6xIoTyFvqpswNNiLPpfLvz) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Young Alaska](https://open.spotify.com/album/2DstkNuTgbUk6hcHHMaVed) | 7:28 | 2019-06-19\* | 2020-08-26 |
 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 | 2022-07-01 | 2024-01-24 |
 | [Rose's Thorn](https://open.spotify.com/track/2hlqCFahLVgdBIbY3yTrAb) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/1L879cRp3hbkvCaMRQ7d1l) | 4:24 | 2019-06-19\* | 2022-04-17 |
@@ -834,7 +835,7 @@
 | [Sharing Prosperity](https://open.spotify.com/track/7lecTWibaxA2u3Bdx3j9lJ) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sharing Prosperity](https://open.spotify.com/album/4AmRstNiXHoPnUgamUkZ9j) | 5:11 | 2022-06-03 | 2022-07-29 |
 | [Shell Game \- Original Mix](https://open.spotify.com/track/4HpKLgvBpFlLgW5RhXGGc7) | [DMX Krew](https://open.spotify.com/artist/4W1v5X4x0ObMOJVJreZX3k) | [Glad To Be Sad](https://open.spotify.com/album/3FequuV4vTOYFOFhRqCKCm) | 2:03 | 2019-06-19\* | 2022-04-15 |
 | [Shibori](https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio) | [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr) | [Boro](https://open.spotify.com/album/6F8oFWdnaDZKe7PuEPI2Gk) | 6:28 | 2021-07-12 | 2022-07-28 |
-| [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* |  |
+| [Shimmer](https://open.spotify.com/track/7dy1n3TtiCfmCYG1EeAXGZ) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:02 | 2019-06-19\* | 2025-09-01 |
 | [Shimmering Lake](https://open.spotify.com/track/26iHdLEmhqo2ZyW3CyCzWC) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Shimmering Lake](https://open.spotify.com/album/5cvIHfDo9BCdE5M2qKMtZU) | 3:00 | 2025-06-13 |  |
 | [shivelight \- 7"](https://open.spotify.com/track/6PVsaZR8yTyGZW3lOWSCwQ) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [shivelight](https://open.spotify.com/album/5LrmWygOLU1oKMEe5GTza4) | 4:05 | 2025-04-15 | 2025-04-25 |
 | [Show Me](https://open.spotify.com/track/5k4MVfklNSMZZHB1jxvKrr) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:38 | 2019-06-19\* | 2020-10-21 |

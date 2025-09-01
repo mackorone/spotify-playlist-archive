@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12437,
+  "num_followers": 12438,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAC8nvLkEt5KcEHnABdUuv88",
+  "snapshot_id": "aLI/AAAAAADQVpgvgXWzEUJB/SBNuD6P",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+      "duration_ms": 293213,
+      "name": "Sit Down and Talk to Me",
+      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 293213,
-      "name": "Sit Down and Talk to Me",
-      "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 206733,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn"
     },
     {
       "added_at": null,

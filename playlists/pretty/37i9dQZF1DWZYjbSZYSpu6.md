@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Grizzly & Rothy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,621 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,644 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 21 | [Last Scene \(Feat\. Wonstein\)](https://open.spotify.com/track/6OPd1gGT2gRadClWhzcPit) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [A flower bookmark, Pt\. 3](https://open.spotify.com/album/4TeDL95L9OTCpYnuQwlrwY) | 4:03 |
 | 22 | [Glue stick \(Feat\. Hoody\)](https://open.spotify.com/track/5kTTqmMNRQRgtkol2iM2ir) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Interlunar](https://open.spotify.com/album/37h2a00dYA02FN9eyAAN8O) | 3:14 |
 | 23 | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/track/19RJveMHfA1CvcnRGhPzzm) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [Dahyun](https://open.spotify.com/artist/5mq0LKFisC0tRxuvBVAY5P) | [You Are the Apple of My Eye \(From "You Are the Apple of My Eye" \[Original Television Soundtrack\], Pt.2\)](https://open.spotify.com/album/0QVjQYG5cMiQ0r7LH1E6sm) | 4:15 |
-| 24 | [Ferris wheel \(feat\. Heize\)](https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [WONDERLAND](https://open.spotify.com/album/6kAIg4on5PAYArTdNvywdV) | 3:01 |
-| 25 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 |
+| 24 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 |
+| 25 | [Ferris wheel \(feat\. Heize\)](https://open.spotify.com/track/7MbtHBj17NTiuk6jYJGExd) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [WONDERLAND](https://open.spotify.com/album/6kAIg4on5PAYArTdNvywdV) | 3:01 |
 | 26 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 |
 | 27 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
 | 28 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21743,
+  "num_followers": 21744,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
+        "name": "OHNANA",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "OHNANA",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 153400,
       "name": "GUILT TRIPPIN (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "OHNANA",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "OHNANA",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216621,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
       },
@@ -271,22 +291,26 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 216621,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -331,30 +355,6 @@
       "duration_ms": 228349,
       "name": "MULHER SECRETA",
       "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "Tobog\u00e3",
-        "url": "https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD"
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
       "artists": [
         {
-          "name": "Renegado",
-          "url": "https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f"
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
         },
         {
-          "name": "PMM",
-          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Tobog\u00e3",
-      "url": "https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl"
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -1111,42 +1111,22 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "Quem Me Guia",
-        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
+        "name": "Tobog\u00e3",
+        "url": "https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD"
       },
       "artists": [
         {
-          "name": "Amorim",
-          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+          "name": "Renegado",
+          "url": "https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "PMM",
+          "url": "https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J"
         }
       ],
-      "duration_ms": 149575,
-      "name": "Quem Me Guia",
-      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+      "duration_ms": 166736,
+      "name": "Tobog\u00e3",
+      "url": "https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -1167,6 +1147,26 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2025-08-22 17:11:08",

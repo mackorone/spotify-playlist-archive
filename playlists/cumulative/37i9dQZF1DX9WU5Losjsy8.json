@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
@@ -2990,6 +2990,28 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "album": {
+        "name": "Pocahontas",
+        "url": "https://open.spotify.com/album/6v9pDee58Msavl9WqNRfQC"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        },
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151808,
+      "name": "Pocahontas",
+      "url": "https://open.spotify.com/track/5ircREr2MLhs8j5TXwAaeR"
     },
     {
       "album": {

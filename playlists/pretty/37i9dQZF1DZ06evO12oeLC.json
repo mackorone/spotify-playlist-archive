@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17809,
+  "num_followers": 17814,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAAg9uCRnVp9Vwg++0We47gg",
+  "snapshot_id": "aLI/AAAAAADhgieBd16p9HdFDHVOKISc",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 415422,
       "name": "SEXE",
       "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/47DegVvp3qZCPIs6952aa6"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "Trop peu de temps - Souvenirs d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/52zR5zo8AYk8j6NuXEQpTg"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "L\u2019orage",
-      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUT",
         "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 213601,
       "name": "BB",
       "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "L\u2019orage",
+      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
     },
     {
       "added_at": null,

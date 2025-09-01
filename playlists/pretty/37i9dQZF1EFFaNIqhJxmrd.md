@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 55 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
 | 56 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 |
 | 57 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/5BCP1OvZ2MRDVJbRafIgtS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:28 |
-| 58 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
-| 59 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
+| 58 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 |
+| 59 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
 | 60 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
 | 61 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 |
 | 62 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [MARI](https://open.spotify.com/artist/6Qda4oVRMWJl7Ri8ZTCgfq) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 67 | [Like You](https://open.spotify.com/track/43UyWO6ngUld3xcjYl5XRR) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/2I3nYpvclZVh4kMB7pzaRS) | 3:24 |
 | 68 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 |
 | 69 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
-| 70 | [Ex](https://open.spotify.com/track/6RZQRn1cp0AgraqbQt87Cm) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Ex](https://open.spotify.com/album/3AjwRqossPPmviLhB9KgVF) | 3:06 |
-| 71 | [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 |
+| 70 | [Håll käften](https://open.spotify.com/track/4R3XhLS8ozkyVPwaneQSkv) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Håll käften](https://open.spotify.com/album/6JxwMTYthxwIo7eVYow8uD) | 2:42 |
+| 71 | [Ex](https://open.spotify.com/track/6RZQRn1cp0AgraqbQt87Cm) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Ex](https://open.spotify.com/album/3AjwRqossPPmviLhB9KgVF) | 3:06 |
 | 72 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 |
 | 73 | [Death of Me](https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:13 |
 | 74 | [Våran första sommar](https://open.spotify.com/track/0uHdKs2SAfPhrTKRqIRCJD) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [TAMPA](https://open.spotify.com/album/1RJj36DweXkCPIJQNCwpQh) | 4:34 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 107 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 108 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Ab66qAAAAABi2NqPI3NFcA+Tu9zU/pCr`
+Snapshot ID: `Ab7ANAAAAADDm85hTgDVBgnbXc72k9x8`

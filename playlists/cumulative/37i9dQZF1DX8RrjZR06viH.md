@@ -4,7 +4,7 @@
 
 > Sommeren er snart over!🍹
 
-240 songs - 12 hr 26 min
+241 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 | 2025-05-03 |
 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 | 2025-05-08 |  |
 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 | 2025-03-27 | 2025-04-11 |
-| [All I have to do is dream](https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [All I have to do is dream](https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd) | 2:10 | 2025-04-10 |  |
+| [All I have to do is dream](https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [All I have to do is dream](https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd) | 2:10 | 2025-04-10 | 2025-09-01 |
 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-05-29 |  |
 | [Alt jeg har drømt om](https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Alt jeg har drømt om](https://open.spotify.com/album/78baGAYAw809s68WP75BXX) | 2:26 | 2024-06-27 | 2024-10-12 |
 | [Alt til sin tid](https://open.spotify.com/track/6KXuQnp9OlSbxGqXccex47) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Alt til sin tid](https://open.spotify.com/album/5cA6qcqSAJJqyNOcZHuwb0) | 2:07 | 2025-08-14 |  |
@@ -143,6 +143,7 @@
 | [LOVELIFE](https://open.spotify.com/track/3ajtF3uVoLhE3vyKBlZCnl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [LOVELIFE](https://open.spotify.com/album/1xwdQ8SUEkJLgXw0AXd1Hq) | 3:05 | 2025-03-27 |  |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-10-11 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2024-06-27 | 2025-05-03 |
+| [Lykkelig uten meg](https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1) | [Andrea Bredesen Holm](https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt) | [Lykkelig uten meg](https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6) | 3:05 | 2025-08-28 |  |
 | [Lys på mig](https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lys på mig](https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M) | 2:39 | 2025-05-29 |  |
 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 | 2024-06-27 | 2024-10-11 |
 | [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 |  |

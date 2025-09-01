@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ORANGE RANGE
 
-527 songs - 1 day 6 hr 3 min
+529 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-28 | 2024-12-13 |
 | [STRAND](https://open.spotify.com/track/61Vx7YHbVM6gUOcqdPJLY5) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:32 | 2023-07-20 | 2023-08-04 |
 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-04-20 | 2023-06-16 |
+| [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 | 2025-09-01 |  |
 | [Super funk market](https://open.spotify.com/track/3HnMGHU13H5oeNYjbKw8Eb) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [Super funk market](https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP) | 3:49 | 2023-09-21 | 2023-10-03 |
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-02-02 | 2023-02-24 |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-04-01 | 2024-06-04 |
@@ -321,6 +322,7 @@
 | [You](https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq) | 3:42 | 2024-04-18 | 2024-11-22 |
 | [You](https://open.spotify.com/track/6Z0qVrfmIMId2WsJ1EIDn9) | [808](https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7) | [You](https://open.spotify.com/album/08cvsB41GIdh3AszsM6aPk) | 3:42 | 2024-04-11 | 2024-04-19 |
 | [you are my curse](https://open.spotify.com/track/7qALdDJNziRn0URhWKRh6P) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [you are my curse](https://open.spotify.com/album/0sXGHTRKpnvRcmnqYVsDa3) | 2:20 | 2023-07-27 | 2023-12-14 |
+| [You Mermaid I](https://open.spotify.com/track/28bMZjDjRRa9kmIXTjyiE7) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [KID IN ME](https://open.spotify.com/album/3dWKaZnTTOji0e86PQwFjX) | 4:04 | 2025-09-01 |  |
 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-12-07 | 2024-05-15 |
 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 | 2023-11-09 | 2023-12-18 |
 | [Yozora](https://open.spotify.com/track/67WGNeo1vhgZxs3pAayoJG) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/6O0dPaOmLSNXJE9zLLMoMv) | 2:56 | 2024-04-18 | 2024-04-26 |
@@ -329,7 +331,7 @@
 | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/album/1Cqv6zjMexgzqw91Q9WGJK) | 4:25 | 2024-09-02 | 2024-10-02 |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-01-26 | 2023-06-02 |
 | [うたたね](https://open.spotify.com/track/7jKekT7CT9hmvLjWtht5Oi) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [愛の産声、哀の鳴き声](https://open.spotify.com/album/2v3t0YRjdNqjO1yXJ0bhuk) | 3:04 | 2025-05-01 | 2025-06-02 |
-| [おしゃれ番長](https://open.spotify.com/track/0lmhzoftBzz9ft8wu66vxd) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD), [ソイソース](https://open.spotify.com/artist/0nZwtI3AkeAQCPaxIDyxuj) | [ALL the SINGLES](https://open.spotify.com/album/5wvpcNgNQhd7jhoel4gMyT) | 3:08 | 2025-07-10 |  |
+| [おしゃれ番長](https://open.spotify.com/track/0lmhzoftBzz9ft8wu66vxd) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD), [ソイソース](https://open.spotify.com/artist/0nZwtI3AkeAQCPaxIDyxuj) | [ALL the SINGLES](https://open.spotify.com/album/5wvpcNgNQhd7jhoel4gMyT) | 3:08 | 2025-07-10 | 2025-09-01 |
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-05-08 |  |
 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 | 2023-11-16 | 2025-01-17 |
 | [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 | 2025-08-14 |  |
@@ -521,7 +523,7 @@
 | [綺羅綺羅](https://open.spotify.com/track/1PYf8NPd7Q9xjtfjVCgPw1) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [綺羅綺羅](https://open.spotify.com/album/3hHtwgwIZklErgqC9f9A5e) | 3:13 | 2023-06-01 | 2023-07-14 |
 | [繋いだ手](https://open.spotify.com/track/3YMt4l4fQRqL18peB4AuYY) | [MINAMI](https://open.spotify.com/artist/1JEdEHubWKD5Qr6pDIyCEy) | [繋いだ手](https://open.spotify.com/album/0TLOkRatBwCXj9PgBXWNg6) | 3:37 | 2023-07-27 | 2023-09-15 |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-08-01 |  |
-| [裸足のチェッコリー](https://open.spotify.com/track/6jAvoParpWFORg8pqmbMdz) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [裸足のチェッコリー](https://open.spotify.com/album/6UL3yCiubdnXZXBjp1YyAI) | 3:01 | 2025-08-01 |  |
+| [裸足のチェッコリー](https://open.spotify.com/track/6jAvoParpWFORg8pqmbMdz) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [裸足のチェッコリー](https://open.spotify.com/album/6UL3yCiubdnXZXBjp1YyAI) | 3:01 | 2025-08-01 | 2025-09-01 |
 | [負け犬にアンコールはいらない](https://open.spotify.com/track/1fooGB6yJLKiOk8jW3thn6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:54 | 2023-04-13 | 2023-06-23 |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-04-27 | 2023-11-11 |
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-06-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21881,
+  "num_followers": 21882,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAACGUpOJOG5ZOIwaGNrhJXJa",
+  "snapshot_id": "aLI/AAAAAABkLeUc/5+tr0EQgOKplVse",
   "tracks": [
     {
       "added_at": null,
@@ -354,43 +354,15 @@
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
+        },
         {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+          "name": "Warren H. Williams",
+          "url": "https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mallee Boy",
-        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+      "duration_ms": 170173,
+      "name": "A Thousand Feet (with Warren H. Williams)",
+      "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
     },
     {
       "added_at": null,
@@ -411,6 +383,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mallee Boy",
+        "url": "https://open.spotify.com/album/5M2PUXuOVJ4YhsSkQNIKD3"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/2AW8dwJEdOfumSVNwxfeIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -418,31 +422,11 @@
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        },
-        {
-          "name": "Warren H. Williams",
-          "url": "https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY"
         }
       ],
-      "duration_ms": 170173,
-      "name": "A Thousand Feet (with Warren H. Williams)",
-      "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 180866,
       "name": "Cydi",
       "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Waltzing Matilda",
-      "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 284466,
-      "name": "Hang My Hat in Queensland - Orchestra Version",
-      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
+      "duration_ms": 242786,
+      "name": "Waltzing Matilda",
+      "url": "https://open.spotify.com/track/1x2KFbCFp8k3MFBMrz7eXA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de J Balvin & DJ Snake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,961 likes - 104 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,940 likes - 104 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

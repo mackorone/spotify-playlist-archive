@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 229545,
+  "num_followers": 229576,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAAsuSf+LIHwAchPcSLKaaxk",
+  "snapshot_id": "aLI/AAAAAAAP5Ks/7O1R4v0ZZ4v9Ml3W",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 261133,
       "name": "I Won't Settle For Less Than The Best (For You Baby)",
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White's Greatest Hits",
         "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barry White Sings For Someone You Love",
         "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 467640,
       "name": "You Turned My Whole World Around",
       "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "The Right Night",
-      "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "The Right Night",
+      "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Gon'",
         "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 520666,
       "name": "Girl It's True, Yes I'll Always Love You",
       "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Put Me In Your Mix - Single Version",
-      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 190333,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Put Me In Your Mix - Single Version",
+      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-92 songs - 5 hr 24 min
+93 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Kejah \- From Saina Music Indie](https://open.spotify.com/track/0JxsBVBtlxC7e5ZTHmn9XS) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Kejah \(From Saina Music Indie\)](https://open.spotify.com/album/1iC5eqNcHO5v8HExIL43be) | 3:31 | 2025-07-14 |  |
 | [Khalbum Katti](https://open.spotify.com/track/70eTArYv8s81pKECLgL1il) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [Khalbum Katti](https://open.spotify.com/album/3smw8wrJ6fnvq1CyUcNgkb) | 3:29 | 2023-10-25 | 2025-07-15 |
 | [Kiliye \- From "ARM"](https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Kiliye \(From "ARM"\)](https://open.spotify.com/album/30tPbatfXYe4Em74JzAzSg) | 4:31 | 2024-10-15 |  |
+| [Kiliye Kiliye Revival Film \- Aa Raathri](https://open.spotify.com/track/4u994ntWCLCAaVEa2AXYI0) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [S\. Janaki Revival Hits](https://open.spotify.com/album/05gs0CijH51Wct3SW5Ff4D) | 4:38 | 2025-08-31 |  |
 | [Killer On The Loose](https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/4ZUtfxl9eSCS2TVCirtxef) | [Rifle Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ljauieQ7eWxhZkn6PfxTV) | 3:02 | 2025-01-16 | 2025-07-23 |
 | [Kodava Wedding Song \(From "Bromance"\)](https://open.spotify.com/track/6hwtqPMgsoSCLg8yEW28nA) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Kiran Kaverappa](https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9) | [Kodava Wedding Song \(From "Bromance"\)](https://open.spotify.com/album/6fuczhcfFpZ51NzH4QcVLk) | 3:49 | 2025-02-21 | 2025-03-18 |
 | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV) | 4:07 | 2024-10-07 |  |

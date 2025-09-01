@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo",
-  "num_followers": 401926,
+  "num_followers": 401900,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Anoche Hablamos de Amor",
+      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/0INLo9d20pUVNHOX1x2X4Q"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 128041,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/4f1PmMKVxCr8vIXikhXwEn"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Anoche Hablamos de Amor",
-      "url": "https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -943,8 +943,8 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Exitos De",
-        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+        "name": "Amame",
+        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 295320,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+      "duration_ms": 289973,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1031,38 +1031,6 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "Amame",
-        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 289973,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
         "name": "O.K. All Right",
         "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 272533,
       "name": "El Moreno Esta",
       "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Exitos De",
+        "url": "https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Borracho Me Doli\u00f3",
-        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Borracho Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
         "name": "Por Ti Amor",
         "url": "https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 257424,
       "name": "Por Ti Amor",
       "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Borracho Me Doli\u00f3",
+        "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Borracho Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1403,22 +1403,6 @@
       "duration_ms": 171200,
       "name": "El Bote",
       "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1451,6 +1435,22 @@
       "duration_ms": 243200,
       "name": "Est\u00e1s Enamorada",
       "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Agua pa las flores",
-        "url": "https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 162114,
-      "name": "Agua pa las flores",
-      "url": "https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
         "name": "Que No Se Acabe",
         "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
+        "name": "Agua pa las flores",
+        "url": "https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 162114,
+      "name": "Agua pa las flores",
+      "url": "https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
         "name": "Lo Mejor de Lo Mejor - Tropical",
         "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
-    },
-    {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "Luquillo",
-        "url": "https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn"
-      },
-      "artists": [
-        {
-          "name": "Babywine",
-          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Luquillo",
-      "url": "https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ"
     },
     {
       "added_at": "2025-08-08 04:00:33",
@@ -1723,22 +1703,42 @@
     {
       "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "No Toy En Ti",
-        "url": "https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE"
+        "name": "Luquillo",
+        "url": "https://open.spotify.com/album/0qM3TxO18AQrLuAryc4cYn"
       },
       "artists": [
         {
-          "name": "Henry Mendez",
-          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+          "name": "Babywine",
+          "url": "https://open.spotify.com/artist/5DLfGYyYP6BBL0fbh3GuBG"
         },
         {
-          "name": "Victor R -Swag",
-          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         }
       ],
-      "duration_ms": 171428,
-      "name": "No Toy En Ti",
-      "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
+      "duration_ms": 151829,
+      "name": "Luquillo",
+      "url": "https://open.spotify.com/track/3G06OfTDhREomvTNDCVzOZ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Qu\u00e9date Conmigo (Remix)",
+        "url": "https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y"
+      },
+      "artists": [
+        {
+          "name": "Omar Enrique",
+          "url": "https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        }
+      ],
+      "duration_ms": 213976,
+      "name": "Qu\u00e9date Conmigo - Remix",
+      "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
     }
   ],
   "unique_name": "Merengue Mania",

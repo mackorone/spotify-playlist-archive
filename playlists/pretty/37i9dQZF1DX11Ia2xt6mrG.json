@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro, Alexia Mariel y RAYBEN en portada.",
-  "num_followers": 66909,
+  "num_followers": 66932,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
         "name": "boss",
         "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 145165,
       "name": "HOUSE OF LUX 2",
       "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "LABUBU",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "LABUBU",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
         "name": "ZENDAYA",
         "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 183870,
       "name": "ZENDAYA",
       "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
-      },
-      "artists": [
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
         "name": "FFM",
         "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 193770,
       "name": "FFM",
       "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
         "name": "Lunita (J.Pool Remix)",
         "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 380878,
       "name": "Lunita - J.Pool Remix",
       "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1035,22 +1035,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
         },
         {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
       "artists": [
         {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
         }
       ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "Tomala (Se Mueve Se Siente)",
-        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 160600,
-      "name": "Tomala (Se Mueve Se Siente)",
-      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+        "name": "Tomala (Se Mueve Se Siente)",
+        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
         }
       ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+      "duration_ms": 160600,
+      "name": "Tomala (Se Mueve Se Siente)",
+      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
-      },
-      "artists": [
-        {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 153875,
       "name": "Serena",
       "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2qWJxA1LE4FCzzfHtWhPsx"
+      },
+      "artists": [
+        {
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
     },
     {
       "added_at": "2025-08-22 06:00:15",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2025-08-22 06:00:15",
       "album": {
-        "name": "Midnight Purple",
-        "url": "https://open.spotify.com/album/4fpLQ7nQtYHX9fEFq534mE"
-      },
-      "artists": [
-        {
-          "name": "Unstable",
-          "url": "https://open.spotify.com/artist/7pToxrUn34Of0IeyHladxZ"
-        },
-        {
-          "name": "Nerd Acid",
-          "url": "https://open.spotify.com/artist/75hl9obJLWx8f1xEs5HcEY"
-        },
-        {
-          "name": "360 Music",
-          "url": "https://open.spotify.com/artist/0FbpvtRHojCD6eRKx1QOCd"
-        }
-      ],
-      "duration_ms": 460273,
-      "name": "Midnight Purple",
-      "url": "https://open.spotify.com/track/17Xo4pMftBj331FpvBQovd"
-    },
-    {
-      "added_at": "2025-08-22 06:00:15",
-      "album": {
         "name": "999 (Goer)",
         "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
       },
@@ -1743,6 +1719,30 @@
       "duration_ms": 164129,
       "name": "DIOSA </3",
       "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+    },
+    {
+      "added_at": "2025-08-22 06:00:15",
+      "album": {
+        "name": "Midnight Purple",
+        "url": "https://open.spotify.com/album/4fpLQ7nQtYHX9fEFq534mE"
+      },
+      "artists": [
+        {
+          "name": "Unstable",
+          "url": "https://open.spotify.com/artist/7pToxrUn34Of0IeyHladxZ"
+        },
+        {
+          "name": "Nerd Acid",
+          "url": "https://open.spotify.com/artist/75hl9obJLWx8f1xEs5HcEY"
+        },
+        {
+          "name": "360 Music",
+          "url": "https://open.spotify.com/artist/0FbpvtRHojCD6eRKx1QOCd"
+        }
+      ],
+      "duration_ms": 460273,
+      "name": "Midnight Purple",
+      "url": "https://open.spotify.com/track/17Xo4pMftBj331FpvBQovd"
     },
     {
       "added_at": "2025-08-22 06:00:15",

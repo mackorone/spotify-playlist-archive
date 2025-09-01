@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23055,
+  "num_followers": 23058,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAArDDDFHEx2WrY/cKZAKH0C",
+  "snapshot_id": "aLI/AAAAAAAsXN1cCFYM9to5uVE6kxQp",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Skoin Skoin (feat. Bianca Costa)",
-      "url": "https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq"
+      "duration_ms": 211293,
+      "name": "dtf",
+      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
         }
       ],
-      "duration_ms": 211293,
-      "name": "dtf",
-      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
+      "duration_ms": 173333,
+      "name": "Skoin Skoin (feat. Bianca Costa)",
+      "url": "https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "EGWU EJI",
+      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "EGWU EJI",
-      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
     },
     {
       "added_at": null,

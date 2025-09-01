@@ -4,7 +4,7 @@
 
 > 
 
-870 songs - 2 day 20 hr 30 min
+871 songs - 2 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Flor De Coca](https://open.spotify.com/track/18WNgAIJZlvJhB5OybdZIT) | [Number One Ensemble](https://open.spotify.com/artist/1Mq23qgOqEenoiIdrkAvHP) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/2RaT4ogzB8oJDOKVXkey18) | 5:42 | 2020-09-23 |  |
 | [Flor do Real](https://open.spotify.com/track/5h5af91Bfsvx3BnSnNE838) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Grandeza](https://open.spotify.com/album/43dS5hFKkzX805ADDzQMSC) | 3:34 | 2023-05-24 |  |
 | [Fogo do Sol](https://open.spotify.com/track/3p9UNNwbezi22pNknFKQMK) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 3:45 | 2020-12-22 |  |
+| [Forever And Ever](https://open.spotify.com/track/7pD1NHvfB5W5L4bGBPBQtd) | [Demis Roussos](https://open.spotify.com/artist/0J9mbwg4BquN4XlHzdMK3X) | [Forever And Ever](https://open.spotify.com/album/1x58IoWBz7t0RuTOlWaRog) | 3:41 | 2025-08-31 |  |
 | [Força Bruta](https://open.spotify.com/track/2ZUszKpDYEPvNWFrxewx94) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta](https://open.spotify.com/album/4e9GNzfj6z4LvijhimWXo3) | 5:09 | 2020-10-14 |  |
 | [Free Blow \- Dub Version](https://open.spotify.com/track/0euDP2BUvPMXNoFrjaJm34) | [Tony Benn Feghaly](https://open.spotify.com/artist/63f72ydS3ABU4EnwhGoa3d) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 5:11 | 2022-04-26 |  |
 | [Frivole de nuit](https://open.spotify.com/track/5Q2yV1wgKENv1XsCTB7nma) | [Laurie Destal](https://open.spotify.com/artist/5w8zUn6bCJGjtxuMJyOdxR) | [Vidal Benjamin présente Disco Sympathie](https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt) | 8:08 | 2021-03-12 |  |

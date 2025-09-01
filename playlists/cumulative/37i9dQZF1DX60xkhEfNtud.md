@@ -4,7 +4,7 @@
 
 > Whale song from the deep underwater world of the oceans
 
-69 songs - 3 hr 9 min
+70 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,13 +17,14 @@
 | [Binaural Whales Sound 2](https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB) | [Binaural Reality](https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ) | [Binaural Whales Sound](https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b) | 3:25 | 2022-07-08 |  |
 | [Black Water Whales](https://open.spotify.com/track/4lCwll0aDIchTg9qd7njC4) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Wandering Whales](https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr) | 2:54 | 2022-07-08 | 2024-12-19 |
 | [Calming Whale Sounds](https://open.spotify.com/track/7MBcCDNL4bbGJWW3MA9Qu7) | [Water Beds](https://open.spotify.com/artist/3y1CfQi9gq0ZAa4hgPkdYF) | [Calming Whale Sounds](https://open.spotify.com/album/71SFjLaBQ36iJeL7QgAhe2) | 2:30 | 2024-01-22 |  |
+| [Come and Play](https://open.spotify.com/track/3F2d3Z7spaefmIzRfkzfuH) | [King of The Ocean](https://open.spotify.com/artist/0fc0bsVCmbeaH6M08Rgn95) | [Whale Healing](https://open.spotify.com/album/7JuJVKdm8eDXTchOi3V0v8) | 2:45 | 2025-02-26 |  |
 | [Communicating Wales](https://open.spotify.com/track/0t6nVgwOmJikwqxR3mHtYO) | [Nature Expedition](https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi) | [Whales in the Deep Sea 2](https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs) | 2:39 | 2022-07-08 |  |
 | [Deep Ocean Sleep](https://open.spotify.com/track/2nQ4V8lzAc85CNrRZqjfD8) | [Blue Velvet](https://open.spotify.com/artist/7KxHrDLunTQ1OWe4qsF3MU) | [Deep Waters](https://open.spotify.com/album/6WzDyDhqfNchKJ0Y1nqSGl) | 2:36 | 2024-08-23 | 2025-04-30 |
 | [Deep See Whales](https://open.spotify.com/track/1d8PvcNnRHTwJnN0gvjYlY) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Ocean Whales](https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW) | 3:16 | 2022-07-08 |  |
 | [Deep Underwater Whales](https://open.spotify.com/track/6Yz8N3m0XdpAjPySeEU2Nm) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Whale Sounds of the Sea](https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS) | 3:09 | 2022-07-08 |  |
 | [Distant Underwater Whales Sounds](https://open.spotify.com/track/6JB3nlgWptOPom3PhaTxvj) | [Humpback Sounds](https://open.spotify.com/artist/5DCq6izASQ7Gzatgynkz5k) | [Ambient Whale Sounds](https://open.spotify.com/album/2pWbLGvbfu7tSMdSb4ACq7) | 2:13 | 2022-07-08 |  |
 | [Gentle Whale Sounds](https://open.spotify.com/track/1H5D3NoPQbXHLrG4HYcGDS) | [Whale Sounds](https://open.spotify.com/artist/7LVCDe9G98TWctZ7EzukDm) | [Whale Sounds](https://open.spotify.com/album/7qjf8RYINNHq3klX7QABXe) | 1:07 | 2022-07-08 | 2023-06-21 |
-| [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 | 2023-06-20 |  |
+| [Harmonious Woodscape](https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Harmonious Woodscape](https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8) | 2:40 | 2023-06-20 | 2025-09-01 |
 | [Healing Whale](https://open.spotify.com/track/2CfSXVfsGEZj6ptlCBD34R) | [Whales Sample](https://open.spotify.com/artist/0sWkEbH2U6YtdZurTXUhe6) | [Whales Sounds Collection](https://open.spotify.com/album/57W20d0oOma8Hq8FKRjT34) | 2:20 | 2022-07-08 |  |
 | [Invisible Deep Whales I](https://open.spotify.com/track/14suyegd7sy7kIuha52qUl) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Invisible Deep Whales](https://open.spotify.com/album/0HVRCh8U2Z9BlSwZGDsHRu) | 3:00 | 2022-07-08 | 2024-01-23 |
 | [Invisible Deep Whales II](https://open.spotify.com/track/62xI0FUSIEiSRHkTOYaOCq) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Invisible Deep Whales](https://open.spotify.com/album/0HVRCh8U2Z9BlSwZGDsHRu) | 3:06 | 2022-07-08 | 2024-01-23 |

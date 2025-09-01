@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 157500,
       "name": "Over The Line",
       "url": "https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E"
@@ -2954,6 +2954,24 @@
       "duration_ms": 301933,
       "name": "Tell Me So",
       "url": "https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE"
+    },
+    {
+      "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/2DvF0oDRdvlikFs5KucVZU"
+      },
+      "artists": [
+        {
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/5z3EszUPbgnNCp9cXOfkqK"
     },
     {
       "album": {

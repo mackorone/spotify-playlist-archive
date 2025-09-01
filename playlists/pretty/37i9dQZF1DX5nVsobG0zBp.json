@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
-  "num_followers": 77608,
+  "num_followers": 77622,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Caixa Azul",
+        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Lidar",
+      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "Picareta",
         "url": "https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 163862,
       "name": "Picareta",
       "url": "https://open.spotify.com/track/29aqbuYYooVNgqzcOKhwbK"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Caixa Azul",
-        "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Lidar",
-      "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Tropa do Madruga",
-        "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        }
-      ],
-      "duration_ms": 180574,
-      "name": "Tropa do Madruga",
-      "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Trovador",
         "url": "https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 226005,
       "name": "Trovador",
       "url": "https://open.spotify.com/track/2wAFMaA47CNXOTSsVJA52j"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Tropa do Madruga",
+        "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 180574,
+      "name": "Tropa do Madruga",
+      "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2025-07-25 14:20:58",

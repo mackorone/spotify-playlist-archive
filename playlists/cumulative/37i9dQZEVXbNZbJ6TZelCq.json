@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 190416,
       "name": "Ban pe ban",
       "url": "https://open.spotify.com/track/0Ju9yyLP0bgxJ9Avn2m28S"
@@ -6782,7 +6782,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 137837,
       "name": "Caraibe",
       "url": "https://open.spotify.com/track/1fhlMbJa5XtxbGiqxmRYq8"
@@ -7256,7 +7256,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 160143,
       "name": "Cere Bani",
       "url": "https://open.spotify.com/track/2s8xsupF204XcRrUBWXvgw"
@@ -10031,6 +10031,28 @@
     },
     {
       "album": {
+        "name": "De la cer la p\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/6lwycmufhXCRznVmYSyTsK"
+      },
+      "artists": [
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        },
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179520,
+      "name": "De la cer la p\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/3H6Tg6xtH17pra1yLKTTAz"
+    },
+    {
+      "album": {
         "name": "De la dela",
         "url": "https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy"
       },
@@ -11118,7 +11140,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
@@ -13878,7 +13900,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 154736,
       "name": "Filipineza",
       "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
@@ -15012,7 +15034,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -23560,7 +23582,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -25810,7 +25832,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 128591,
       "name": "M\u0103 rupe r\u0103u",
       "url": "https://open.spotify.com/track/5kFawu0YBiZNktW7Fa2rQO"
@@ -27850,7 +27872,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 209999,
       "name": "Olla, olla",
       "url": "https://open.spotify.com/track/7xwvCKAfPihDr47OUsxoQm"
@@ -29554,7 +29576,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 245876,
       "name": "Piesa Mea Preferat\u0103",
       "url": "https://open.spotify.com/track/4Z7WpgiJscWC60Pr4acH61"
@@ -33990,7 +34012,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 159011,
       "name": "SELFWASH",
       "url": "https://open.spotify.com/track/3UZdU1gxTtVjpFUij7ssqr"
@@ -42128,7 +42150,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"

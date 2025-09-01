@@ -353,6 +353,40 @@
     },
     {
       "album": {
+        "name": "Bach Brandenburg Concerto Revisited (From BWV 1046: I. Allegro, Arr. for Violin, String Quintet & Piano by Jarkko Riihim\u00e4ki)",
+        "url": "https://open.spotify.com/album/04kAsrKaEyFwJzIEH0hqiZ"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jarkko Riihim\u00e4ki",
+          "url": "https://open.spotify.com/artist/4HWfXjjxs86XNlaIEodp2T"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Norwegian String Quintet",
+          "url": "https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        }
+      ],
+      "date_added": "2025-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133117,
+      "name": "Bach Brandenburg Concerto Revisited (After Brandenburg Concerto No.1 in F Major, BWV 1046: I. Allegro) [Arr. for Violin, String Quintet & Piano by Jarkko Riihim\u00e4ki]",
+      "url": "https://open.spotify.com/track/0qZZUF1YbuBpB4zBl6NiBU"
+    },
+    {
+      "album": {
         "name": "Bach: Prelude Piano Variation (From Cello Suite No. 1, BWV 1007, Arr. for Piano by Tim Allhoff)",
         "url": "https://open.spotify.com/album/1H98oHKyP6vU6CLkfjSACM"
       },
@@ -412,36 +446,6 @@
       "duration_ms": 312832,
       "name": "Belle de Nuit",
       "url": "https://open.spotify.com/track/1kz9kj5yn4fIfzAjtxDhp3"
-    },
-    {
-      "album": {
-        "name": "Bach Brandenburg Concerto Revisited (From BWV 1046: I. Allegro, Arr. for Violin, String Quintet & Piano by Jarkko Riihim\u00e4ki)",
-        "url": "https://open.spotify.com/album/04kAsrKaEyFwJzIEH0hqiZ"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Eldbj\u00f8rg Hemsing",
-          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
-        },
-        {
-          "name": "Norwegian String Quintet",
-          "url": "https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B"
-        },
-        {
-          "name": "Tim Allhoff",
-          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
-        }
-      ],
-      "date_added": "2025-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 133117,
-      "name": "Brandenburg Concerto No.1 in F Major, BWV 1046: I. Allegro (Arr. for Violin, String Quintet & Piano by Jarkko Riihim\u00e4ki)",
-      "url": "https://open.spotify.com/track/0qZZUF1YbuBpB4zBl6NiBU"
     },
     {
       "album": {
@@ -1683,6 +1687,10 @@
         "url": "https://open.spotify.com/album/64tSEDm53lDy700XNDHK24"
       },
       "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
         {
           "name": "Olga Scheps",
           "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"

@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 85567,
+  "num_followers": 85600,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -1275,38 +1275,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        }
-      ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1319,54 +1287,6 @@
       "duration_ms": 215672,
       "name": "Mil Momentos - En Vivo",
       "url": "https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "La Desamorada",
-        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 241477,
-      "name": "La Desamorada",
-      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "Huella",
-        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
-      },
-      "artists": [
-        {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "No Me Canso de Amar",
-      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "Amarte Sin Piedad",
-        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
-      },
-      "artists": [
-        {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
-        }
-      ],
-      "duration_ms": 211410,
-      "name": "Amarte Sin Piedad",
-      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1387,6 +1307,54 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Huella",
+        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
+      },
+      "artists": [
+        {
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "No Me Canso de Amar",
+      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "La Desamorada",
+        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 241477,
+      "name": "La Desamorada",
+      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
         "name": "Canciones Con Sentido",
         "url": "https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w"
       },
@@ -1403,18 +1371,34 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Asuntos Pendientes",
-        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
       },
       "artists": [
         {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Amarte Sin Piedad",
+        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "Amarte Sin Piedad",
+      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1435,6 +1419,22 @@
       "duration_ms": 191854,
       "name": "Vidala del Amor Sincero (feat. Fernando Barrientos)",
       "url": "https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Respuesta",
-        "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Respuesta",
-      "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Nuestro adi\u00f3s",
         "url": "https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 248653,
       "name": "Nuestro adi\u00f3s 24b",
       "url": "https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Respuesta",
+        "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Respuesta",
+      "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
     },
     {
       "added_at": "2025-08-21 19:40:34",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-628 songs - 2 day 4 hr 3 min
+629 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Gira](https://open.spotify.com/track/03q9AtM0x9F3a6IegdR4C8) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/37CKAnHq973TQx6Dz8gKoS) | 7:45 | 2022-10-28 | 2023-12-17 |
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |
 | [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 | 2024-09-06 |  |
+| [Glow](https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Glow](https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky) | 2:42 | 2025-08-29 |  |
 | [Go](https://open.spotify.com/track/3TjfLlWgtEvsrKAvOeyIHT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Go](https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM) | 4:34 | 2024-04-12 |  |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 | 2024-07-13 |
@@ -550,7 +551,7 @@
 | [Tears](https://open.spotify.com/track/2dpzs6UBVMvB4zHM6ly1iq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Tears](https://open.spotify.com/album/7hMZlhA5J4w7qYIJEnk0Rt) | 3:57 | 2023-09-08 |  |
 | [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 | 2024-08-10 |
 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 | 2023-11-17 | 2024-04-19 |
-| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 |  |
+| [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 | 2025-09-01 |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 | 2024-04-13 |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |
 | [the mirror](https://open.spotify.com/track/1eGrUX80yxeneDVZpVCYh1) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/32pmXLNEJuWihhO1Vntab2) | 8:54 | 2023-01-06 | 2023-04-10 |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-599 songs - 1 day 2 hr 47 min
+600 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blue Mood](https://open.spotify.com/track/0TnER1XL6JWeNp3WMxSGoB) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Blue Mood](https://open.spotify.com/album/08971qtWKAvQED2y6bp1X6) | 2:00 | 2025-04-04 |  |
 | [Blue Notes](https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Still Love](https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn) | 2:05 | 2023-08-22 | 2025-04-12 |
 | [blues clues](https://open.spotify.com/track/6dE8byiQs38hPetenI2Zuh) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [blues clues](https://open.spotify.com/album/1W6RhFLzgRCMbVOVhwI08P) | 2:24 | 2024-11-29 |  |
-| [Boketto](https://open.spotify.com/track/7xos61THl5pg88dpoV5mnZ) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Boketto](https://open.spotify.com/album/6X9lFdmAzmoH2CV1gECMLS) | 2:15 | 2025-07-18 |  |
+| [Boketto](https://open.spotify.com/track/7xos61THl5pg88dpoV5mnZ) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Boketto](https://open.spotify.com/album/6X9lFdmAzmoH2CV1gECMLS) | 2:15 | 2025-07-18 | 2025-09-01 |
 | [Bookmark](https://open.spotify.com/track/2acdBTC96mqesyon9dUX9N) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Bookmark](https://open.spotify.com/album/3WNAvM5T5SncMavJOl0A23) | 1:59 | 2025-02-03 | 2025-08-30 |
 | [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 |  |
 | [Breeze](https://open.spotify.com/track/4Hf8Dzr69UplutFptqGLs0) | [Maajjyyn](https://open.spotify.com/artist/2FFQrnhVGwSpSELR5dfG39) | [Breeze](https://open.spotify.com/album/4FYso3anLawE5xBWbGoMu9) | 2:58 | 2025-05-16 |  |
@@ -254,6 +254,7 @@
 | [Jour Soleil](https://open.spotify.com/track/2vFmsUYWbYrZShKIaVntQm) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [Jour Soleil](https://open.spotify.com/album/4U8gL5ZAxh9letyUEivtRY) | 4:32 | 2024-03-20 | 2024-06-08 |
 | [Jour Soleil](https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:32 | 2023-08-22 | 2024-04-19 |
 | [Jumbled](https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [THE HEIST](https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W) | 3:25 | 2023-08-22 | 2025-04-12 |
+| [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 | 2025-08-29 |  |
 | [Karo](https://open.spotify.com/track/7mg3Wz8oXPYVI773QKThWv) | [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Karo](https://open.spotify.com/album/6JNWhYjmthdsi7zQxXXJgh) | 1:54 | 2025-03-14 |  |
 | [Kebab Sauce](https://open.spotify.com/track/0xfbi9XImWDPx2cmuqzFzZ) | [James Iwa](https://open.spotify.com/artist/1fmklyMt530qdVGqeYfB23), [Jo Mayasi](https://open.spotify.com/artist/4mwPFf1mRv53R17AYvoiUK), [Shems Bendali](https://open.spotify.com/artist/0JxUQEHGmTmloT5BoqtHQG) | [Kebab Sauce](https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54) | 3:01 | 2023-08-22 | 2025-02-17 |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-08-22 | 2025-04-12 |

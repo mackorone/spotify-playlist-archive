@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35148,
+  "num_followers": 35149,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABO26beceHVeMXYvgYhmhkb",
+  "snapshot_id": "aLI/AAAAAAB9LAT+ScCbHg1zfxIEIUK3",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou Dif\u00edcil",
         "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
       },
@@ -919,42 +919,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neymar Mudou",
-        "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
       "artists": [
         {
-          "name": "MC Mari",
-          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "DG e Batid\u00e3o Stronda",
-          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Neymar Mudou",
-      "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
       "added_at": null,
@@ -1011,30 +999,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "Neymar Mudou",
+        "url": "https://open.spotify.com/album/4Wu6b5zgLWWdMC078UF4jO"
       },
       "artists": [
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "MC Mari",
+          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
         }
       ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+      "duration_ms": 198000,
+      "name": "Neymar Mudou",
+      "url": "https://open.spotify.com/track/6NgcQrj5PrQhE0ayrLyliD"
     },
     {
       "added_at": null,
@@ -1203,6 +1203,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rol\u00ea Play",
+        "url": "https://open.spotify.com/album/4F5scwJVY2RhSXrYToDbay"
+      },
+      "artists": [
+        {
+          "name": "Dj Skieter",
+          "url": "https://open.spotify.com/artist/0sRePgsh9HLipBzIhgWgnJ"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/2MEaZYiTRUCOLDxTCboPPC"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Rol\u00ea Play - Eletrofunk",
+      "url": "https://open.spotify.com/track/2ny0JBN2Q4AK0LxoDZWC6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1239,34 +1267,6 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rol\u00ea Play",
-        "url": "https://open.spotify.com/album/4F5scwJVY2RhSXrYToDbay"
-      },
-      "artists": [
-        {
-          "name": "Dj Skieter",
-          "url": "https://open.spotify.com/artist/0sRePgsh9HLipBzIhgWgnJ"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "MC Flavinho",
-          "url": "https://open.spotify.com/artist/2MEaZYiTRUCOLDxTCboPPC"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Rol\u00ea Play - Eletrofunk",
-      "url": "https://open.spotify.com/track/2ny0JBN2Q4AK0LxoDZWC6p"
     },
     {
       "added_at": null,
@@ -1447,6 +1447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Novembro",
+        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
+      },
+      "artists": [
+        {
+          "name": "Junior Gobira",
+          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135855,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rave Don't Start Now",
         "url": "https://open.spotify.com/album/3xOrZD9NxfMTD08Yjx4vt7"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 237230,
       "name": "Rave Don't Start Now",
       "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novembro",
-        "url": "https://open.spotify.com/album/2dv7uPquU801ROCydE2GPv"
-      },
-      "artists": [
-        {
-          "name": "Junior Gobira",
-          "url": "https://open.spotify.com/artist/2iarQygwcHCidcNIdKdQFk"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135855,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/4ghA52EaYaZl1YnvO4uD8Z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,388 likes - 108 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,401 likes - 108 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

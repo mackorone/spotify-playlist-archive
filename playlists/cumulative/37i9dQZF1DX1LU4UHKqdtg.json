@@ -19871,6 +19871,24 @@
     },
     {
       "album": {
+        "name": "WHO I AM",
+        "url": "https://open.spotify.com/album/298bsWulHmoqIV0Qcycpnz"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Royal Energy",
+      "url": "https://open.spotify.com/track/3OclausFfLzJlFYhqJSo50"
+    },
+    {
+      "album": {
         "name": "RU-PUM PUM (Japanese ver.)",
         "url": "https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA"
       },
@@ -24602,7 +24620,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 179000,
       "name": "THIS IS ME:I",
       "url": "https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ"
@@ -24815,6 +24833,24 @@
     },
     {
       "album": {
+        "name": "Toki Yo Tomare",
+        "url": "https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "Toki Yo Tomare",
+      "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
+    },
+    {
+      "album": {
         "name": "more...",
         "url": "https://open.spotify.com/album/3McO8rH7UiRc6dNyb90hDJ"
       },
@@ -24950,7 +24986,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 166640,
       "name": "Topping",
       "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"

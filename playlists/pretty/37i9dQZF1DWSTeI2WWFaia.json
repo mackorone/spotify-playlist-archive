@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs & The Alchemist",
-  "num_followers": 1583635,
+  "num_followers": 1583600,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,34 @@
     {
       "added_at": "2025-08-29 04:00:45",
       "album": {
+        "name": "Lonely At The Top",
+        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        },
+        {
+          "name": "CJ Fly",
+          "url": "https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "BK'S FINEST (feat. Rome Streetz, Kai Ca$h & CJ Fly)",
+      "url": "https://open.spotify.com/track/0BwvLKnnzUr7ymJPMzDoWs"
+    },
+    {
+      "added_at": "2025-08-29 04:00:45",
+      "album": {
         "name": "The Emperor's New Clothes",
         "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
       },
@@ -951,22 +979,6 @@
       "duration_ms": 219000,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
-    },
-    {
-      "added_at": "2025-08-29 04:00:45",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: YADAM",
-  "num_followers": 137631,
+  "num_followers": 137626,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
         "name": "Vuela M\u00e1s Alto",
         "url": "https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 159373,
       "name": "Vuela M\u00e1s Alto",
       "url": "https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
+        "name": "La Custodia",
+        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "La Custodia",
+      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
         "name": "Querer Querer",
         "url": "https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 207572,
       "name": "Querer Querer",
       "url": "https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
-        "name": "La Custodia",
-        "url": "https://open.spotify.com/album/0OS8G8yhjnTs8bVJ2XzdFb"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "La Custodia",
-      "url": "https://open.spotify.com/track/2PUznvn28VI6XhvCLKWR6d"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "La Caldera",
-        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 216125,
-      "name": "Cara de Gitana",
-      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 397520,
       "name": "T\u00e9 de Malv\u00f3n",
       "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
+        "name": "La Caldera",
+        "url": "https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 216125,
+      "name": "Cara de Gitana",
+      "url": "https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1463,18 +1463,26 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "Soy Asi",
-        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
+        "name": "Sex Tape",
+        "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
       "artists": [
         {
-          "name": "Kevin Fret",
-          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
+          "name": "JEDET",
+          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pipo Beatz",
+          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
         }
       ],
-      "duration_ms": 232362,
-      "name": "Soy Asi",
-      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+      "duration_ms": 118206,
+      "name": "Sex Tape",
+      "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1511,26 +1519,18 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "Sex Tape",
-        "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
+        "name": "Soy Asi",
+        "url": "https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl"
       },
       "artists": [
         {
-          "name": "JEDET",
-          "url": "https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Pipo Beatz",
-          "url": "https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ"
+          "name": "Kevin Fret",
+          "url": "https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM"
         }
       ],
-      "duration_ms": 118206,
-      "name": "Sex Tape",
-      "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
+      "duration_ms": 232362,
+      "name": "Soy Asi",
+      "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
+        "name": "Radio Sunshine",
+        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "Vacation Bae",
+      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
+    },
+    {
+      "added_at": "2025-07-18 04:00:12",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
-        "name": "Radio Sunshine",
-        "url": "https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23"
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Vacation Bae",
-      "url": "https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5"
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
     },
     {
       "added_at": "2025-07-18 04:00:12",
@@ -1695,22 +1711,6 @@
       "duration_ms": 131416,
       "name": "NO BINARIA",
       "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
     },
     {
       "added_at": "2025-07-18 04:00:12",

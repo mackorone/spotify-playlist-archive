@@ -5742,7 +5742,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 277959,
       "name": "Iku-Turso",
       "url": "https://open.spotify.com/track/7x80QmX9qhW4jEbZrE7mDD"
@@ -10117,7 +10117,7 @@
     },
     {
       "album": {
-        "name": "Stained In Rot",
+        "name": "Stained in Rot",
         "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
       },
       "artists": [
@@ -10130,7 +10130,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254500,
-      "name": "Stained In Rot",
+      "name": "Stained in Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
@@ -11206,7 +11206,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 422000,
       "name": "The Numinous One",
       "url": "https://open.spotify.com/track/30a8YSOFPocPuru2uYe7hY"

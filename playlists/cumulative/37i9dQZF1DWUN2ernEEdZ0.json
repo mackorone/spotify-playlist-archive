@@ -289,6 +289,36 @@
     },
     {
       "album": {
+        "name": "Ave Maria Variation",
+        "url": "https://open.spotify.com/album/6PhODc9izHGNLBYs0B7akm"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Norwegian String Quintet",
+          "url": "https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128356,
+      "name": "Ave Maria Variation (After The Well-Tempered Clavier I: Prelude and Fugue No. 1 in C Major, BWV 846: I. Prelude) [Arr. for Violin, String Quintet and Piano by Tim Allhoff]",
+      "url": "https://open.spotify.com/track/26XqpCmNYpvbkFttjmBIUb"
+    },
+    {
+      "album": {
         "name": "Bach: Keyboard Concerto No. 1, BWV 1052: I. Allegro",
         "url": "https://open.spotify.com/album/41xAJe6SBh94HVChAEKzvh"
       },
@@ -1946,36 +1976,6 @@
       "duration_ms": 272501,
       "name": "The Monolith",
       "url": "https://open.spotify.com/track/2gIQ32GVBpFkDb6lsIQK39"
-    },
-    {
-      "album": {
-        "name": "Ave Maria Variation",
-        "url": "https://open.spotify.com/album/6PhODc9izHGNLBYs0B7akm"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Eldbj\u00f8rg Hemsing",
-          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
-        },
-        {
-          "name": "Norwegian String Quintet",
-          "url": "https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B"
-        },
-        {
-          "name": "Tim Allhoff",
-          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
-        }
-      ],
-      "date_added": "2025-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128356,
-      "name": "The Well-Tempered Clavier I: Prelude and Fugue No. 1 in C Major, BWV 846: I. Prelude (Arr. for Violin, String Quintet and Piano by Tim Allhoff)",
-      "url": "https://open.spotify.com/track/26XqpCmNYpvbkFttjmBIUb"
     },
     {
       "album": {

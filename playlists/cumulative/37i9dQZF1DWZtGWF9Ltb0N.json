@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 185142,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2UnhLpz7PF9gZqq1v1YFSK"
@@ -13088,6 +13088,28 @@
       "duration_ms": 227471,
       "name": "Special Delivery",
       "url": "https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e"
+    },
+    {
+      "album": {
+        "name": "Spenk",
+        "url": "https://open.spotify.com/album/7nGjjRLeM4rDzDdWylsL9H"
+      },
+      "artists": [
+        {
+          "name": "Aweminus",
+          "url": "https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7"
+        },
+        {
+          "name": "Phiso",
+          "url": "https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Spenk",
+      "url": "https://open.spotify.com/track/3VdvyE4glqXT5MtL7PKkyK"
     },
     {
       "album": {

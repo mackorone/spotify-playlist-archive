@@ -4,7 +4,7 @@
 
 > The vibes start here.
 
-500 songs - 1 day 2 hr 47 min
+501 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [I Feel Good](https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Moment In Time](https://open.spotify.com/album/02p7gkI3r0m3J1wWU11uex) | 3:42 | 2023-07-10 | 2023-08-08 |
 | [I Know](https://open.spotify.com/track/1gSyVQDOARkemBoM1o8Hvi) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [I Know](https://open.spotify.com/album/021nE8jAFXDJdH3SNnmmWC) | 3:01 | 2025-08-11 | 2025-08-19 |
 | [I Like Muhself](https://open.spotify.com/track/6gOAlgNHMtXc6caBVFhQNw) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [I Like Muhself](https://open.spotify.com/album/1CIkJPiIT261NY31V6OpG7) | 3:01 | 2022-08-18 | 2023-02-22 |
-| [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 | 2025-08-18 |  |
+| [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 | 2025-08-18 | 2025-09-01 |
 | [IKATION](https://open.spotify.com/track/2zsJpyPVy1aMMeciBm29r8) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [IKATION](https://open.spotify.com/album/20RTlNHHXFY3AZTaGiOl2R) | 3:03 | 2025-07-18 |  |
 | [In De Congaline](https://open.spotify.com/track/4N1NODo6rAAtJhSKUSm2jn) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Soca 101 Vol\. 1](https://open.spotify.com/album/7FEdke9MotkOuK81ZN6VTa) | 4:05 | 2023-07-10 | 2023-08-08 |
 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 | 2022-07-30 | 2023-08-08 |
@@ -438,6 +438,7 @@
 | [Thickiana](https://open.spotify.com/track/6YXLiEWYes0RJUhz2iEN6J) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Thickiana](https://open.spotify.com/album/05guEviu84uZVrswOmNc2E) | 2:41 | 2022-07-30 | 2022-08-19 |
 | [Things You Do](https://open.spotify.com/track/6uH6V2cJpc2j9Go5Zei0B7) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy), [The Meditations](https://open.spotify.com/artist/0ESPEmxgaaAKGI39Jt0NlZ) | [Brooklyn Riddim Batch 2](https://open.spotify.com/album/1URP7q9gBJ9YdwGOeCqrB3) | 3:32 | 2025-06-12 | 2025-07-12 |
 | [Three Little Birds](https://open.spotify.com/track/7vggqxNKwd6xdRoYS0pQtM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:00 | 2023-07-10 | 2023-08-08 |
+| [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 | 2025-08-18 |  |
 | [Thunda](https://open.spotify.com/track/6bzGsrzTDC3IS1lNVOjAJ2) | [Deno Crazy](https://open.spotify.com/artist/1kLIll3eaXbtpi642OtnbV), [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Thunda](https://open.spotify.com/album/4cjzYKCAvzdANa6gu9JYIa) | 2:41 | 2023-08-07 | 2023-09-25 |
 | [Tic It & Tac It](https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2) | [BoBo](https://open.spotify.com/artist/2ReU09e8cwWdv544qEDTDK) | [Tic It & Tac It](https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W) | 2:03 | 2023-08-07 | 2023-09-25 |
 | [Tilt](https://open.spotify.com/track/4boWnSLvtMns64y7Ns6fYx) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Tilt Riddim, Pt\. 1](https://open.spotify.com/album/2uJ638CIojgWY2CA1hFbEi) | 2:59 | 2022-02-24 | 2022-07-31 |

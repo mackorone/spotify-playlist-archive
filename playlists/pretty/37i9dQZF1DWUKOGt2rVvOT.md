@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些歌還很紅也！快一年不只一年兩年三年？真的假的？高人氣金曲讓你一路聽下去！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,172 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,203 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

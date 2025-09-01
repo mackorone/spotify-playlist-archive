@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243820,
+  "num_followers": 243822,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 197388,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Dancing Thing",
-        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 184045,
-      "name": "Dancing Thing",
-      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Dancing Thing",
+        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 184045,
+      "name": "Dancing Thing",
+      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -599,18 +599,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
+        "name": "The Last Goodbye Remixes N\u00b0.2",
+        "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
       "artists": [
         {
-          "name": "NOTSOBAD",
-          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 201023,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+      "duration_ms": 251903,
+      "name": "This Version Of You - Joseph Ray Remix",
+      "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -635,26 +643,18 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "The Last Goodbye Remixes N\u00b0.2",
-        "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/0REyCTre7WLmJnVmBDMqgN"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "NOTSOBAD",
+          "url": "https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ"
         }
       ],
-      "duration_ms": 251903,
-      "name": "This Version Of You - Joseph Ray Remix",
-      "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
+      "duration_ms": 201023,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187620,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187620,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Envy",
         "url": "https://open.spotify.com/album/60K91BZTnabLByBJejwqVS"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 247730,
       "name": "Envy",
       "url": "https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -903,34 +903,6 @@
       "duration_ms": 256052,
       "name": "New Love",
       "url": "https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Jamis",
-          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "HIISAK",
-          "url": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
-        }
-      ],
-      "duration_ms": 161829,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -971,26 +943,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Laika.",
-        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        },
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 180458,
-      "name": "Laika.",
-      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "New Fires",
         "url": "https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj"
       },
@@ -1007,6 +959,54 @@
       "duration_ms": 251591,
       "name": "New Fires",
       "url": "https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jamis",
+          "url": "https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "HIISAK",
+          "url": "https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf"
+        }
+      ],
+      "duration_ms": 161829,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Laika.",
+        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 180458,
+      "name": "Laika.",
+      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
     }
   ],
   "unique_name": "melancholia",

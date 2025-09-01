@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 190545,
       "name": "KONTINUUM",
       "url": "https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp"
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 237836,
       "name": "Same Blue",
       "url": "https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j"
@@ -6603,6 +6603,24 @@
     },
     {
       "album": {
+        "name": "The 1",
+        "url": "https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191717,
+      "name": "The 1",
+      "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
+    },
+    {
+      "album": {
         "name": "86\u2015\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\u2015 \u30aa\u30ea\u30b7\u3099\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc"
       },
@@ -6618,6 +6636,24 @@
       "duration_ms": 226053,
       "name": "THE ANSWER",
       "url": "https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLY EFFECT",
+        "url": "https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9"
     },
     {
       "album": {
@@ -9300,7 +9336,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 215866,
       "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
       "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
@@ -11644,6 +11680,24 @@
       "duration_ms": 214117,
       "name": "\u56de\u590f",
       "url": "https://open.spotify.com/track/5IW6VmYrOkkn7o6L49AEUD"
+    },
+    {
+      "album": {
+        "name": "\u56f3\u9451",
+        "url": "https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241064,
+      "name": "\u56f3\u9451",
+      "url": "https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss"
     },
     {
       "album": {

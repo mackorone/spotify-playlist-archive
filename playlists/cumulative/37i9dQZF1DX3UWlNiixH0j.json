@@ -9832,7 +9832,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 298181,
       "name": "Glow Within",
       "url": "https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U"
@@ -15056,7 +15056,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 262228,
       "name": "Lone Star",
       "url": "https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD"
@@ -20820,7 +20820,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 227250,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m"
@@ -23452,6 +23452,24 @@
       "duration_ms": 218978,
       "name": "SAVON",
       "url": "https://open.spotify.com/track/3lO2iS2GKMvsEwxvdFpFIN"
+    },
+    {
+      "album": {
+        "name": "say my name",
+        "url": "https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "say my name",
+      "url": "https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ"
     },
     {
       "album": {

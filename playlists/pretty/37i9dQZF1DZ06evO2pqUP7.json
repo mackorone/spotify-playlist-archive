@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69411,
+  "num_followers": 69414,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAB9wI0fnJC7hEN6Sq3I5UDc",
+  "snapshot_id": "aLI/AAAAAAA2FrprSPCt3haUxw/uwif5",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relaciones",
+        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "Relaciones",
+      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 235226,
       "name": "En Mi Habitaci\u00f3n",
       "url": "https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relaciones",
-        "url": "https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "Relaciones",
-      "url": "https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV"
     },
     {
       "added_at": null,
@@ -1171,8 +1171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        "name": "Si Te Vas Conmigo",
+        "url": "https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 176000,
-      "name": "360",
-      "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
+      "duration_ms": 160000,
+      "name": "Si Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"
     },
     {
       "added_at": null,
@@ -1203,8 +1203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Te Vas Conmigo",
-        "url": "https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM"
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Si Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"
+      "duration_ms": 176000,
+      "name": "360",
+      "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
     }
   ],
   "unique_name": "This Is Lunay",

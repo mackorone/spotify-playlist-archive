@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269006,
+  "num_followers": 269009,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAADGdf1X3biwKK90N6uNx125",
+  "snapshot_id": "aLI/AAAAAABCX3C1LPO1kFn2LIiGC07G",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hosana (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 326883,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fernandinho Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 455597,
       "name": "Poderoso Deus (Medley)",
       "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hosana (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 326883,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
     },
     {
       "added_at": null,

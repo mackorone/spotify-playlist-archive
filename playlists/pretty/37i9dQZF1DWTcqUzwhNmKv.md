@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sleep Token are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,623 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,912 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 6 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
 | 7 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 8 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
-| 9 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
-| 10 | [God Fearing Man](https://open.spotify.com/track/2Uq8o3398JlRbWdpvObYii) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Return of The Black](https://open.spotify.com/album/5WxVgcugX1HZj8ARMfGnmK) | 5:19 |
-| 11 | [one by one](https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED](https://open.spotify.com/album/42KPmh26BJtkXWEQqsfIQ3) | 3:18 |
-| 12 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 |
+| 9 | [God Fearing Man](https://open.spotify.com/track/2Uq8o3398JlRbWdpvObYii) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Return of The Black](https://open.spotify.com/album/5WxVgcugX1HZj8ARMfGnmK) | 5:19 |
+| 10 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 |
+| 11 | [Sacred](https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Sacred](https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ) | 3:49 |
+| 12 | [one by one](https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED](https://open.spotify.com/album/42KPmh26BJtkXWEQqsfIQ3) | 3:18 |
 | 13 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
 | 14 | [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 |
 | 15 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 80 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 |
 | 81 | [Incinerate](https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Incinerate](https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj) | 3:07 |
 
-Snapshot ID: `AAAAAA1WpcELYrJA+txm7aAWkcuUDrbh`
+Snapshot ID: `AAAAAHH9be6LB5fJbc6g8TPW75GNrvct`

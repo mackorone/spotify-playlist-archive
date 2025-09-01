@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19958,
+  "num_followers": 19959,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAADi/uSMmyyjl5YQ7YIbYGtl",
+  "snapshot_id": "aLI/AAAAAACiwhxyIhaOL79CyvxlWZjQ",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#PROUDCATOWNERREMIX",
-        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157293,
-      "name": "#PROUDCATOWNERREMIX",
-      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/51ZdiAjVcjhGGHO83nyYwv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#PROUDCATOWNERREMIX",
+        "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "#PROUDCATOWNERREMIX",
+      "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
     },
     {
       "added_at": null,
@@ -763,26 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "my way (w/ Rico Nasty & Kanii)",
-        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
+        "name": "+/-",
+        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
       "artists": [
         {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 177782,
-      "name": "my way (w/ Rico Nasty & Kanii)",
-      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
+      "duration_ms": 228005,
+      "name": "Girl Crush (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
     },
     {
       "added_at": null,
@@ -807,22 +803,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "+/-",
-        "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 228005,
-      "name": "Girl Crush (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floor Seats",
         "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 152120,
       "name": "Butt Naked (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,

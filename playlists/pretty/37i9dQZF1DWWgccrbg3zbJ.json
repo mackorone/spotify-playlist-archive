@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 491156,
+  "num_followers": 491755,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -43,30 +43,6 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Saudade Vem Correndo",
-      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
         "name": "Vinicius & Toquinho",
         "url": "https://open.spotify.com/album/5DRGRv3kZwLwislN27IaUz"
       },
@@ -87,6 +63,30 @@
       "duration_ms": 158360,
       "name": "Carta Ao Tom 74",
       "url": "https://open.spotify.com/track/5DHsGfjaxIpt0v0dPGaWdI"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
     },
     {
       "added_at": "2025-07-14 08:19:39",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
-        "name": "Legends Play Jobim",
-        "url": "https://open.spotify.com/album/2EweqGzFf3aMoV8mrZpACj"
-      },
-      "artists": [
-        {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
-        }
-      ],
-      "duration_ms": 110811,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 140840,
       "name": "Corcovado (Quiet Nights Of Quiet Stars)",
       "url": "https://open.spotify.com/track/6OeIgS4Sk5Qea5Ds5MGTGe"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
+        "name": "Legends Play Jobim",
+        "url": "https://open.spotify.com/album/2EweqGzFf3aMoV8mrZpACj"
+      },
+      "artists": [
+        {
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+        }
+      ],
+      "duration_ms": 110811,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf"
     },
     {
       "added_at": "2025-07-14 08:19:39",

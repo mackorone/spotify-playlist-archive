@@ -4875,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/1x58IoWBz7t0RuTOlWaRog"
+      },
+      "artists": [
+        {
+          "name": "Demis Roussos",
+          "url": "https://open.spotify.com/artist/0J9mbwg4BquN4XlHzdMK3X"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/7pD1NHvfB5W5L4bGBPBQtd"
+    },
+    {
+      "album": {
         "name": "For\u00e7a Bruta",
         "url": "https://open.spotify.com/album/4e9GNzfj6z4LvijhimWXo3"
       },

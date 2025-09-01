@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover:ロクデナシ
 
-3,296 songs - 8 day 18 hr 16 min
+3,297 songs - 8 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3017,7 +3017,7 @@
 | [火をつけろ](https://open.spotify.com/track/4HkYOprD8jhVK12Mp1CYyH) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [火をつけろ / 晴るく / 白昼夢 / 一目惚れ / 究極の休日](https://open.spotify.com/album/2S95X7XlFMWYBeZ2sVpiTF) | 4:05 | 2024-05-14 | 2024-05-29 |
 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-13 |  |
 | [灯](https://open.spotify.com/track/47gDqwGaEMR0kgeQtU0vUb) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [LIBERTY ERA](https://open.spotify.com/album/3OsTuPCm6VbKXKIGVuJr4r) | 3:31 | 2024-02-27 | 2024-03-13 |
-| [灯星](https://open.spotify.com/track/6yk54dGwC2LMmkaOZqpkBH) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [灯星](https://open.spotify.com/album/3S9hcfu9h6fRF4ucs6OPAX) | 4:10 | 2025-07-08 |  |
+| [灯星](https://open.spotify.com/track/6yk54dGwC2LMmkaOZqpkBH) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [灯星](https://open.spotify.com/album/3S9hcfu9h6fRF4ucs6OPAX) | 4:10 | 2025-07-08 | 2025-09-01 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2022-05-29 | 2022-11-30 |
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-01-31 | 2023-04-05 |
 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2023-07-04 | 2024-12-05 |
@@ -3168,6 +3168,7 @@
 | [虹色クジラ](https://open.spotify.com/track/6NmQdItURzFsHGP6f0VOQo) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 4:35 | 2023-10-17 | 2023-11-01 |
 | [蜂蜜とミルク](https://open.spotify.com/track/6rMEf70DvRQSn0mZOolHFP) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:35 | 2022-05-29 | 2022-06-01 |
 | [蜃気楼](https://open.spotify.com/track/64mQXhe60mj1CtlLv5gJZU) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [蜃気楼](https://open.spotify.com/album/4LuWkiqBLxnCIFupdgJ7lZ) | 4:38 | 2022-05-29 | 2022-06-01 |
+| [蜃気楼ニ問フ](https://open.spotify.com/track/0NbuhWCqo1JO1NhpuIJBIv) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [蜃気楼ニ問フ](https://open.spotify.com/album/0vFY5rEEBYBKDcMsLUq3yF) | 2:39 | 2025-08-26 |  |
 | [蜘蛛の糸](https://open.spotify.com/track/3awwf5Ts5K4p5clqz5Dttk) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [蜘蛛の糸](https://open.spotify.com/album/7KVlkEoAhI1nfi4ybP5YeN) | 3:40 | 2024-10-08 | 2024-11-06 |
 | [蟻とリンゴスター](https://open.spotify.com/track/6IeXMHqRjlfAtrAboFrOSW) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [KOURO](https://open.spotify.com/album/5ST87BH4YQhksbzh5Xx62A) | 4:58 | 2022-10-18 | 2022-10-26 |
 | [行間](https://open.spotify.com/track/4H478qhSk6CmTSYqZGzB8B) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 4:34 | 2024-03-05 | 2024-03-27 |

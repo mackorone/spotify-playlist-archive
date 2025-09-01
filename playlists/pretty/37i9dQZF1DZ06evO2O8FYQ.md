@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 22 | [Pouring Gasoline](https://open.spotify.com/track/6eF46qhfOX5iyz3MlRUEZD) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 |
 | 23 | [Sunflower](https://open.spotify.com/track/4OXABTM6RzUskXSohHSWTN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:59 |
 | 24 | [Draw a Line](https://open.spotify.com/track/6xdVonW6VUcQsqsQrr5voE) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:55 |
-| 25 | [Nothing Personal](https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:43 |
+| 25 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 |
 | 26 | [Barce\-Loner](https://open.spotify.com/track/5JsxX5mxbXvgX8e8R0uH5x) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:15 |
 | 27 | [In My Room](https://open.spotify.com/track/4VoocBHWXw2LgjbDG5eTJs) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 3:16 |
 | 28 | [Arizona Waiting](https://open.spotify.com/track/2fAILrDcZY2MGkduWxXuok) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:04 |
-| 29 | [Grim Valentine](https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:04 |
+| 29 | [Nothing Personal](https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:43 |
 | 30 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 |
 | 31 | [Bella](https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nurtured EP \- B\-Sides and Bonus Tracks from Nature Nurture](https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5) | 2:45 |
 | 32 | [Summer Gurl](https://open.spotify.com/track/0k15e2OF6mpANBavcZ8BdB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:40 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 37 | [Never That Together](https://open.spotify.com/track/76gUncyZyZY47TMtyLByv3) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 2:46 |
 | 38 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 |
 
-Snapshot ID: `aLDtgAAAAAA7PKhaySC0BUNTT+QMyH82`
+Snapshot ID: `aLI/AAAAAAAPWVI8lAqsq91v0ZZgd5Bo`

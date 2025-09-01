@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 211956,
+  "num_followers": 211993,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 300893,
-      "name": "Topical Solution",
-      "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 172813,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 300893,
+      "name": "Topical Solution",
+      "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
     },
     {
       "added_at": "2025-08-07 23:00:59",

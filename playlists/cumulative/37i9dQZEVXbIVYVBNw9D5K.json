@@ -3666,7 +3666,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 268515,
       "name": "Bu A\u015fk Fazla Sana",
       "url": "https://open.spotify.com/track/3Ommpa2aE0RU3F04BedepA"
@@ -12304,7 +12304,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 156240,
       "name": "\u0130HT\u0130YA\u00c7 YOK OTELE",
       "url": "https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws"
@@ -18516,6 +18516,32 @@
       "duration_ms": 229225,
       "name": "Pen\u00e7e",
       "url": "https://open.spotify.com/track/1ol3ppkqUsSfMTJ9gv3bWP"
+    },
+    {
+      "album": {
+        "name": "PERDE",
+        "url": "https://open.spotify.com/album/5IqskLyHsfMb81DALRyIHl"
+      },
+      "artists": [
+        {
+          "name": "Eserrovic",
+          "url": "https://open.spotify.com/artist/6cM4SVLMlSqbwruT7wUf94"
+        },
+        {
+          "name": "SWEZ",
+          "url": "https://open.spotify.com/artist/5tcl4bOZ2QFFt3YOUY9eRf"
+        },
+        {
+          "name": "MAL\u0130.79",
+          "url": "https://open.spotify.com/artist/6C7sR5y3x1IruOljZw1sVG"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204846,
+      "name": "PERDE",
+      "url": "https://open.spotify.com/track/6iPh5HE2tXA8r9LAEHQMNK"
     },
     {
       "album": {

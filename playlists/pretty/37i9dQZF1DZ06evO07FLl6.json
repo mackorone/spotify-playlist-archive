@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244296,
+  "num_followers": 244289,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAC9rusu5KXJgjhCYb4D5dUJ",
+  "snapshot_id": "aLI/AAAAAABS1zH/CwwrhBjJopwlHYA5",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+      "duration_ms": 168760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Davis And Horns",
-        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Blue Room - Take 2",
-      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZU & Co.",
         "url": "https://open.spotify.com/album/7KLdrRb8E0Y8ueALiGuWaY"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 344506,
       "name": "Dune Mosse",
       "url": "https://open.spotify.com/track/4GL0qsiLoCN2rV1SlZh6oW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Davis And Horns",
+        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
     },
     {
       "added_at": null,
@@ -1039,18 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Smiles",
-        "url": "https://open.spotify.com/album/7buEUXT132AA4FPswvh9tV"
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
         }
       ],
-      "duration_ms": 585960,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/2wjHWYJVAs5TYSRP83JLmc"
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     }
   ],
   "unique_name": "This Is Miles Davis",

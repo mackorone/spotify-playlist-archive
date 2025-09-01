@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Hamburger Aufstand",
+        "url": "https://open.spotify.com/album/6Ud07gmj5Nfm2ip6bhL5Rl"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151766,
+      "name": "Familienchronik",
+      "url": "https://open.spotify.com/track/5p9ZWZ856h7bgdq1LlrL1y"
+    },
+    {
+      "album": {
         "name": "FAMILY & MONEY",
         "url": "https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS"
       },
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 158786,
       "name": "Wundersch\u00f6n",
       "url": "https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj"

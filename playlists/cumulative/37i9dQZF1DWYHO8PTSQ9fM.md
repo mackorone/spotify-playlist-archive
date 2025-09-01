@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment\. Cover: TIF, ElGrandeToto
+> Les hits du moment\. Cover: 7ari, Ramoon
 
 462 songs - 1 day 0 hr 42 min
 

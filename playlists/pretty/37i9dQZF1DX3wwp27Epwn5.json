@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 229106,
+  "num_followers": 229200,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
+        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
+      },
+      "artists": [
+        {
+          "name": "Ved Sharma",
+          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 287374,
+      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+    },
+    {
+      "added_at": "2025-08-18 04:25:31",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 226696,
       "name": "Dil Chori",
       "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
-    },
-    {
-      "added_at": "2025-08-18 04:25:31",
-      "album": {
-        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
-      },
-      "artists": [
-        {
-          "name": "Ved Sharma",
-          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 287374,
-      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -931,34 +931,6 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
-        "name": "Raaj Karega Maalik (From \"Maalik\")",
-        "url": "https://open.spotify.com/album/2GXcgpRrljLATgccVhdiCJ"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 216300,
-      "name": "Raaj Karega Maalik (From \"Maalik\")",
-      "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
-    },
-    {
-      "added_at": "2025-08-18 04:25:31",
-      "album": {
         "name": "Heer Aasmani (From \"Fighter\")",
         "url": "https://open.spotify.com/album/7uVdci5Ztnlr9jIZU6p0cn"
       },
@@ -983,6 +955,34 @@
       "duration_ms": 204110,
       "name": "Heer Aasmani (From \"Fighter\")",
       "url": "https://open.spotify.com/track/68hDecrVQCvVtzcYcvFMJX"
+    },
+    {
+      "added_at": "2025-08-18 04:25:31",
+      "album": {
+        "name": "Raaj Karega Maalik (From \"Maalik\")",
+        "url": "https://open.spotify.com/album/2GXcgpRrljLATgccVhdiCJ"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 216300,
+      "name": "Raaj Karega Maalik (From \"Maalik\")",
+      "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
     },
     {
       "added_at": "2025-08-18 04:25:31",

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 808332,
+  "num_followers": 808348,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -783,34 +783,6 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
-        "name": "Um Mar Pra Cada Um,",
-        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        },
-        {
-          "name": "Isaiah Sharkey",
-          "url": "https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY"
-        },
-        {
-          "name": "Kato Change",
-          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
-        }
-      ],
-      "duration_ms": 196771,
-      "name": "Joia",
-      "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -867,6 +839,34 @@
       "duration_ms": 229090,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
+        "name": "Um Mar Pra Cada Um,",
+        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        },
+        {
+          "name": "Isaiah Sharkey",
+          "url": "https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY"
+        },
+        {
+          "name": "Kato Change",
+          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
+        }
+      ],
+      "duration_ms": 196771,
+      "name": "Joia",
+      "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00e1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
         "name": "Calm\u00f4",
         "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
       },
@@ -1019,18 +1035,22 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00e1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+        "name": "A Paz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
       "artists": [
         {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+      "duration_ms": 274304,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
-        "name": "A Paz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 274304,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -1107,34 +1107,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
-        "name": "Antes Que A Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Kato Change",
-          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
-        },
-        {
-          "name": "Lucas Cirillo",
-          "url": "https://open.spotify.com/artist/1Je57sKV5oe0mR7CQkPtLO"
-        }
-      ],
-      "duration_ms": 249475,
-      "name": "Mara",
-      "url": "https://open.spotify.com/track/2UwewmzpU7CwevaxcLAnEt"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -1175,6 +1147,34 @@
       "duration_ms": 178892,
       "name": "Mentiras - Ao Vivo",
       "url": "https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
+        "name": "Antes Que A Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Kato Change",
+          "url": "https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5"
+        },
+        {
+          "name": "Lucas Cirillo",
+          "url": "https://open.spotify.com/artist/1Je57sKV5oe0mR7CQkPtLO"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "Mara",
+      "url": "https://open.spotify.com/track/2UwewmzpU7CwevaxcLAnEt"
     },
     {
       "added_at": "2025-08-15 13:27:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-15 13:27:36",
       "album": {
-        "name": "Homem com H",
-        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 121015,
-      "name": "O Mundo \u00e9 um Moinho",
-      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2025-08-15 13:27:36",
-      "album": {
         "name": "Abrigo",
         "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 223773,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+    },
+    {
+      "added_at": "2025-08-15 13:27:36",
+      "album": {
+        "name": "Homem com H",
+        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 121015,
+      "name": "O Mundo \u00e9 um Moinho",
+      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
     },
     {
       "added_at": "2025-08-15 13:27:36",

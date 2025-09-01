@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,851 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,895 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 15 | [La Saeta](https://open.spotify.com/track/5d6NoRmMBfFoNRjrWKIPBf) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 2:19 |
 | 16 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/345wiXlfRlPPmZE9qOLpcq) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Hotel, Dulce Hotel](https://open.spotify.com/album/4UBv7VLi5eBakkBymrMCN4) | 5:06 |
 | 17 | [Hoy Puede Ser un Gran Día](https://open.spotify.com/track/5YxgSArh0FDP0CEDuZcYnC) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 2:10 |
-| 18 | [Princesa](https://open.spotify.com/track/0ycxYAX6UbfhOFk7XiorRc) | [Joaquin Sabina y Viceversa](https://open.spotify.com/artist/77JFXiVvftzgV1WRx2mNve) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:02 |
+| 18 | [Princesa \(feat\. Viceversa\)](https://open.spotify.com/track/0ycxYAX6UbfhOFk7XiorRc) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Viceversa](https://open.spotify.com/artist/1I48CZMQAC43VCujvKgX4j) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:02 |
 | 19 | [Que Va a Ser de Ti](https://open.spotify.com/track/1yhdRrgE0E8f4gs0wQKu60) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 4:38 |
 | 20 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:58 |
 | 21 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |

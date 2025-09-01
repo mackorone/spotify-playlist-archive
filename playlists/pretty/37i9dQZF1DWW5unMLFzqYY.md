@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain]
 
 > Enjoy the NCT WISH \[ASIA TOUR LOG in\] LIVE SET including the voices of them on stage! \(NCT WISH의 무대 멘트와 목소리가 포함된 \[ASIA TOUR LOG in\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,445 likes - 22 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,460 likes - 22 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

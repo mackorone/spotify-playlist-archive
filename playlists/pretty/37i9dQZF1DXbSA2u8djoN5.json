@@ -827,30 +827,6 @@
     {
       "added_at": "2025-08-28 21:00:37",
       "album": {
-        "name": "Deliric X Silent Strike III",
-        "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
-      },
-      "artists": [
-        {
-          "name": "Deliric",
-          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
-        },
-        {
-          "name": "Silent Strike",
-          "url": "https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 180086,
-      "name": "Anxius",
-      "url": "https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq"
-    },
-    {
-      "added_at": "2025-08-28 21:00:37",
-      "album": {
         "name": "Ochii",
         "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 190263,
       "name": "Lini\u0219te",
       "url": "https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv"
+    },
+    {
+      "added_at": "2025-08-28 21:00:37",
+      "album": {
+        "name": "Deliric X Silent Strike III",
+        "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
+      },
+      "artists": [
+        {
+          "name": "Deliric",
+          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
+        },
+        {
+          "name": "Silent Strike",
+          "url": "https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 180086,
+      "name": "Anxius",
+      "url": "https://open.spotify.com/track/0yQDfUIZTZDofXxCTIf8Gq"
     },
     {
       "added_at": "2025-08-28 21:00:37",

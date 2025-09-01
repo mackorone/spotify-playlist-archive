@@ -4,7 +4,7 @@
 
 > For lazy days and cosy nights
 
-898 songs - 2 day 2 hr 12 min
+899 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 | 2025-03-24 |  |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-25 | 2025-05-02 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-26 | 2025-01-11 |
+| [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 | 2025-08-06 |  |
 | [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 | 2024-02-23 | 2024-03-29 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-02-03 | 2023-04-20 |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-08 |  |
@@ -784,7 +785,7 @@
 | [The Lucky Ones](https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Secrets I'll Never Tell](https://open.spotify.com/album/5MVRr1jreJqBg5vM0jjuW8) | 3:36 | 2021-12-16 | 2022-01-12 |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-12-20 |  |
 | [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 | 2024-12-21 |
-| [The Other Side of Falling](https://open.spotify.com/track/1Fjgkrf83KjXwgaHZdkIS0) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [The Other Side of Falling](https://open.spotify.com/album/3e31HZk9Dg7nwQfL6CArPl) | 3:59 | 2025-08-06 |  |
+| [The Other Side of Falling](https://open.spotify.com/track/1Fjgkrf83KjXwgaHZdkIS0) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [The Other Side of Falling](https://open.spotify.com/album/3e31HZk9Dg7nwQfL6CArPl) | 3:59 | 2025-08-06 | 2025-09-01 |
 | [The Otherside](https://open.spotify.com/track/3QorTmBB8lYdSO9bGglOrb) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Young Heart](https://open.spotify.com/album/4qsLVZk1UnizpQJBkbFNdx) | 3:26 | 2021-12-16 | 2022-02-15 |
 | [The Outside](https://open.spotify.com/track/3E73vIwmxgJxa4hoRB0jHI) | [Craig Eddie](https://open.spotify.com/artist/27O6Q2Y9ImQzCqrRLeRcZY) | [The Outside](https://open.spotify.com/album/1QZwbhICVPiuWZWXYITgcT) | 2:33 | 2021-12-16 | 2022-01-02 |
 | [The Outsider](https://open.spotify.com/track/13Y2OvFGijnHgFEGifRgEl) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Chaos In My Court](https://open.spotify.com/album/4dVCexXqcS9KDwdOXeUkSn) | 3:28 | 2022-02-21 | 2023-03-22 |

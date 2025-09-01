@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Maroon 5
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,964 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,984 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

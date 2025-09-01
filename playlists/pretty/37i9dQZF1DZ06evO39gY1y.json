@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 246567,
+  "num_followers": 246593,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABOFHaknWZZyeHUsv0S84Y3",
+  "snapshot_id": "aLI/AAAAAADRsv2vuT4IhiDrQoQVyhqu",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+        "name": "Hasta Que la Muerte Nos Separe",
+        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Carita de \u00c1ngel",
-      "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
+      "duration_ms": 232500,
+      "name": "Hasta Que la Muerte Nos Separe",
+      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
     },
     {
       "added_at": null,
@@ -603,22 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que la Muerte Nos Separe",
-        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Hasta Que la Muerte Nos Separe",
-      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
+      "duration_ms": 250000,
+      "name": "Carita de \u00c1ngel",
+      "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
     },
     {
       "added_at": null,

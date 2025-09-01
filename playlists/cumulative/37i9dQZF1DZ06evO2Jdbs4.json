@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 223332,
       "name": "Para Ti Con Amor - En Vivo",
       "url": "https://open.spotify.com/track/2uC2awJr7GbT0pEheuxjEU"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
@@ -2408,10 +2408,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 218960,
       "name": "Zona de Peligro",
       "url": "https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk"
+    },
+    {
+      "album": {
+        "name": "Zona De Peligro",
+        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Zona de Peligro",
+      "url": "https://open.spotify.com/track/3sHx52OKWUEymHdfQ4PPNf"
     },
     {
       "album": {

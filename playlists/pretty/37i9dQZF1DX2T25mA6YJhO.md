@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Bum Motion Club con Repion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,518 likes - 82 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,532 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,10 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 75 | [Pogo](https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Pogo](https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN) | 3:04 |
 | 76 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 |
 | 77 | [Te mataré](https://open.spotify.com/track/2cZmRibufSnJylo0g29vXg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No lo volveré a hacer](https://open.spotify.com/album/3oHXlxp5C7e59cu7OdmhPI) | 2:35 |
-| 78 | [Viernes con Rufus T\. Firefly](https://open.spotify.com/track/4foBjqNMLRtSgTHpK458hR) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Viernes con Rufus T\. Firefly](https://open.spotify.com/album/1GVKFgxvOHTi8uKpX2Z9nv) | 2:52 |
-| 79 | [Ya no me duele mal](https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ya no me duele mal](https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf) | 3:00 |
-| 80 | [Luces de emergencia](https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Patrick](https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB) | 3:33 |
-| 81 | [Al Dente](https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh) | [Supercremalleras](https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15) | [Al Dente](https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm) | 2:00 |
-| 82 | [Deshielo](https://open.spotify.com/track/2O31y8p7s2Iewo6tXILtWF) | [Ecos del Cierzo](https://open.spotify.com/artist/29kY0iavpytP7srVoxmoVz) | [Deshielo](https://open.spotify.com/album/7kF5hajZBpYYjymBr50cpC) | 4:03 |
+| 78 | [Ya no me duele mal](https://open.spotify.com/track/6S7XyK2Ao38xtVG21dy3uk) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Ya no me duele mal](https://open.spotify.com/album/2cPrx0zF9cy34OWngW5Mqf) | 3:00 |
+| 79 | [Luces de emergencia](https://open.spotify.com/track/4nFxOFKUmmdvHfCZbkDMhk) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Patrick](https://open.spotify.com/album/22V7fTKasT2FHivfo7QSIB) | 3:33 |
+| 80 | [Deshielo](https://open.spotify.com/track/2O31y8p7s2Iewo6tXILtWF) | [Ecos del Cierzo](https://open.spotify.com/artist/29kY0iavpytP7srVoxmoVz) | [Deshielo](https://open.spotify.com/album/7kF5hajZBpYYjymBr50cpC) | 4:03 |
 
-Snapshot ID: `AAAAANMYom+UqsvTagePKb3iIFakgj/K`
+Snapshot ID: `AAAAAPpBIXS9yCVTXdQijplWbKZPIHfc`

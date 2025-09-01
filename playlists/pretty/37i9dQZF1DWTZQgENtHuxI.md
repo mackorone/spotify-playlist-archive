@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,543 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,525 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 35 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
 | 36 | [Cette année\-là](https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 3:12 |
 | 37 | [She Can't Love You](https://open.spotify.com/track/5m2tbFHvChBEIRGBObZTVz) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 5:09 |
-| 38 | [Searching to Find the One \- Remix](https://open.spotify.com/track/2yzNqrykiRq4pwAlpe0bvL) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 7:24 |
-| 39 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 38 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 39 | [Searching to Find the One \- Remix](https://open.spotify.com/track/2yzNqrykiRq4pwAlpe0bvL) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 7:24 |
 | 40 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
 | 41 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 42 | [Do What You Wanna Do](https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Something For The Weekend](https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5) | 7:17 |

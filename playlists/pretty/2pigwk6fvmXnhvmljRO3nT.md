@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,593 songs - 19 day 14 hr 54 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,595 songs - 19 day 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7601,5 +7601,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7591 | [Ayano No Koufukuriron](https://open.spotify.com/track/4jcyxykbZGgu72DY7zl2vu) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [Okui Aki](https://open.spotify.com/artist/0D1vK3SxxPezAurBjxzMOZ) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 5:37 |
 | 7592 | [LAY YOUR HANDS ON ME \(2017\)](https://open.spotify.com/track/1Zvw4pJxwir18kyQ9uODS8) | [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [19972016 \-20082016\-](https://open.spotify.com/album/2k9f4qBmEx1GgY4I3XT42r) | 6:12 |
 | 7593 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
+| 7594 | [Burnt my mouth](https://open.spotify.com/track/3AmtivOGodM8mXFkoPcrnL) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Burnt my mouth](https://open.spotify.com/album/0XZayudr9ik00DxBNDspIa) | 2:12 |
+| 7595 | [Lady Bird](https://open.spotify.com/track/2fmDvHbRNfoZUvUjkh3rAG) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Yellow Moon](https://open.spotify.com/album/3fYugGacWZBNTCGMAY4xTm) | 4:29 |
 
-Snapshot ID: `AAAIc6Pqjc/2ear8xdsEBordAY4L0IUc`
+Snapshot ID: `AAAIdUrJVQrcqUlbBp/Q1RWoDTXe2/Ht`

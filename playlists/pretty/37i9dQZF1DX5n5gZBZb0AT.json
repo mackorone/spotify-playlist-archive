@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 944258,
+  "num_followers": 944433,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "fragment",
-        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
-      },
-      "artists": [
-        {
-          "name": "slxughter",
-          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
-        }
-      ],
-      "duration_ms": 97857,
-      "name": "fragment - slowed",
-      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "Montagem Supersonic",
         "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "fragment",
+        "url": "https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "duration_ms": 97857,
+      "name": "fragment - slowed",
+      "url": "https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "AUTOMOTIVO EMPURRA",
-        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
-      },
-      "artists": [
-        {
-          "name": "sma$her",
-          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
-        }
-      ],
-      "duration_ms": 72014,
-      "name": "AUTOMOTIVO EMPURRA",
-      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "TRALALERO TRALALA FUNK",
         "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 117901,
       "name": "TRALALERO TRALALA FUNK",
       "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "AUTOMOTIVO EMPURRA",
+        "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        }
+      ],
+      "duration_ms": 72014,
+      "name": "AUTOMOTIVO EMPURRA",
+      "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     },
     {
       "added_at": "2025-07-25 04:00:45",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,806 songs - 5 day 2 hr 55 min
+1,807 songs - 5 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [every\-little\-part](https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [every\-little\-part](https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij) | 3:49 | 2024-07-02 | 2025-06-21 |
 | [Everyday \- Edit](https://open.spotify.com/track/27NuLW6DhJkpfR8dhBmNwS) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Everyday](https://open.spotify.com/album/5Es3FdQxA4wM7eMQa1vfYs) | 3:40 | 2022-08-26 | 2022-10-01 |
 | [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 | 2020-03-16 | 2021-01-23 |
+| [Everything All At Once](https://open.spotify.com/track/6GVwBMdjAAgI59pyvxa1XR) | [Jack Willard](https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7), [Coastlines](https://open.spotify.com/artist/561yODCc2ueVijuuVw6kUK), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Everything All At Once](https://open.spotify.com/album/79qIARkVmChtiG0yTcs9Zv) | 4:05 | 2025-08-29 |  |
 | [Everything At Your Feet \(feat\. The Chamanas\)](https://open.spotify.com/track/5s4VITF7fn0msBtnS2Cw71) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [A Moment Apart](https://open.spotify.com/album/1t5AUjmNrLRxVIQ9FcBw10) | 3:28 | 2020-05-18 | 2020-07-18 |
 | [Exhale](https://open.spotify.com/track/3JVxMoCvTaEgnODlMxX378) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/0Dkj2r4S95C043ELdTDRjV) | 2:50 | 2021-01-08 | 2022-02-14 |
 | [Exodus Blue](https://open.spotify.com/track/3QmV65k5aAxUdxCBLQAtcW) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4) | [Purified Fragments XI](https://open.spotify.com/album/4SPUU9PnlD5AsrntVOgCjc) | 5:18 | 2022-12-28 | 2023-01-06 |
@@ -1273,7 +1274,7 @@
 | [Purple Sands](https://open.spotify.com/track/3b5guLQVB4k9VZaXW0OAIJ) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Purple Sands](https://open.spotify.com/album/3kCU2EuoADRSWdBflZ9xA7) | 3:11 | 2021-02-19 | 2021-03-10 |
 | [Pursuit](https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Pursuit](https://open.spotify.com/album/0rZHrHxu3kxKh8qeWAXR5F) | 4:52 | 2024-12-06 | 2025-01-04 |
 | [Queen of Ice \- Nora En Pure Club Mix](https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Queen of Ice \(Nora En Pure Remix\)](https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P) | 4:15 | 2022-12-28 | 2023-01-06 |
-| [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 |  |
+| [Rabbit Hole](https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Rabbit Hole](https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2) | 4:11 | 2024-10-04 | 2025-09-01 |
 | [Rabiosa](https://open.spotify.com/track/4wETfzGfYptjrNjf31CA06) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Rabiosa](https://open.spotify.com/album/7hre64g0IxybZvKQx22qbP) | 4:11 | 2022-12-28 | 2023-01-06 |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 | 2024-08-03 |
 | [Rain](https://open.spotify.com/track/3RPrtaRukLoAulq4dpI1nA) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Rain](https://open.spotify.com/album/284B6dcL3EcXn2PxZ3PD7h) | 3:42 | 2021-01-23 | 2022-10-21 |

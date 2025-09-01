@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 52532,
+  "num_followers": 52542,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAA+FG5QM9FDptqvfsiqFjcU",
+  "snapshot_id": "aLI/AAAAAAB6uXLLexiImH1Sbul6wrOI",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 248386,
       "name": "Dull Life",
       "url": "https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
     },
     {
       "added_at": null,

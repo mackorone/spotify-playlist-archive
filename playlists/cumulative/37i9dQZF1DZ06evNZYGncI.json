@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Me Inside (Demo)",
+        "url": "https://open.spotify.com/album/071FN3PArMqTHyawzqv0At"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Me Inside - Demo",
+      "url": "https://open.spotify.com/track/3fxohV0CcizJxe8pvmtubb"
+    },
+    {
+      "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },

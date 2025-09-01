@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: Kujenga
 
-308 songs - 1 day 6 hr 57 min
+309 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 | 2023-08-25 |  |
 | [Butterscotch](https://open.spotify.com/track/1fHjb4JsAuno8LTSWCV6i6) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In the Moment](https://open.spotify.com/album/6etxf5sFetv1fKaOT5TtWe) | 2:39 | 2023-11-01 | 2023-11-17 |
 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 | 2023-09-29 | 2024-07-12 |
-| [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 | 2024-02-08 |  |
+| [Champagne Kisses](https://open.spotify.com/track/6gQ6dZf0iA8pAcJGagcgPh) | [Elna Myburg](https://open.spotify.com/artist/7MTbe0rf19hObBAIFCV2YR) | [Champagne Kisses](https://open.spotify.com/album/4o2g3Jm21NCkUZRgsxCJoO) | 2:31 | 2024-02-08 | 2025-09-01 |
 | [Chanel's Mood](https://open.spotify.com/track/6vWowjcocZCZWuMlbbH08k) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Leagan Starchild](https://open.spotify.com/artist/463uy2bD1rR0u2GbG8AMxS), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4), [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [Skemerdans, Season 1 \(Music from the Showmax Original Series\)](https://open.spotify.com/album/0mNEoS45dcBIdQ5SAtzmV1) | 2:44 | 2022-04-28 | 2023-05-09 |
 | [Change](https://open.spotify.com/track/7cahHOmO7sCFEPDHUoxxyU) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Change](https://open.spotify.com/album/0JeO1Z8FsQom8wOrdCO1h5) | 5:01 | 2024-05-10 | 2024-05-17 |
 | [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 | 2023-08-25 | 2024-07-18 |
@@ -214,6 +214,7 @@
 | [Rainbow Revisited](https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/1dCytQDx5VX09Hl3q2oinS) | 7:13 | 2023-11-16 | 2025-06-25 |
 | [Rainbow Revisited](https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 7:13 | 2023-11-16 | 2024-04-19 |
 | [Rainbow Revisited](https://open.spotify.com/track/5nG5yO5vtIqmAle4bfDfTu) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5) | 7:13 | 2025-06-24 | 2025-07-09 |
+| [Ransome, Pt\. 1](https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Ransome](https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl) | 5:22 | 2025-08-29 |  |
 | [Ransome, Pt\. 2](https://open.spotify.com/track/1JhVDtQgWTzvjOf7qq2PGX) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Ransome](https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl) | 3:54 | 2025-08-29 |  |
 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 | 2022-04-28 | 2023-03-18 |
 | [Reflection](https://open.spotify.com/track/617puW9UmDJhalpAwbcenP) | [Maxwell Baloyi](https://open.spotify.com/artist/1jix0ggd0EXvBNUwgLa2vS) | [Healing Palms](https://open.spotify.com/album/2GExZE0oMZt8jL808N9CMw) | 4:51 | 2025-06-24 | 2025-08-04 |

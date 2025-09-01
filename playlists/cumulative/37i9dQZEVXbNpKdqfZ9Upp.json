@@ -27424,7 +27424,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -32800,7 +32800,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
@@ -50045,6 +50045,24 @@
     },
     {
       "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "album": {
         "name": "screenshot",
         "url": "https://open.spotify.com/album/6b5cSVGtY6gy3U07OMyfMl"
       },
@@ -50698,7 +50716,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 137012,
       "name": "SETEADORA",
       "url": "https://open.spotify.com/track/33YJrpYKyng8yWSdsrRF7L"
@@ -52044,7 +52062,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 174250,
       "name": "Si, Si Eres Tu",
       "url": "https://open.spotify.com/track/5vdbHnYhtraFF6vM9ZmenK"
@@ -52132,7 +52150,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Siento que merezco m\u00e1s",
       "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
@@ -57316,7 +57334,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 93414,
       "name": "Thiago el Amor",
       "url": "https://open.spotify.com/track/5hgrRhVpnMwRAsF30QuWG8"
@@ -62338,7 +62356,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 195750,
       "name": "Vuelve Mami",
       "url": "https://open.spotify.com/track/10kW99HEY6jT0FUwvVAlM9"
@@ -65532,7 +65550,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -66170,7 +66188,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

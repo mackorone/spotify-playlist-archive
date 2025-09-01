@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fcukers",
-  "num_followers": 37924,
+  "num_followers": 37935,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
+        "name": "Self Sabotage",
+        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 145074,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
         "name": "Rolling Thunder",
         "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 166451,
       "name": "Rolling Thunder",
       "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
-        "name": "Self Sabotage",
-        "url": "https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 145074,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175748,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
-        "name": "Lobster Telephone (Edit)",
-        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Lobster Telephone - Edit",
-      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
         "name": "From The Stars EP",
         "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
       },
@@ -1263,26 +1243,6 @@
       "duration_ms": 260156,
       "name": "From The Stars",
       "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -1307,6 +1267,46 @@
       "duration_ms": 144802,
       "name": "Rush (Missing Out On Me)",
       "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     }
   ],
   "unique_name": "Indie Electronic ",

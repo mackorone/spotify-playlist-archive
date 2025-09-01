@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-122 songs - 5 hr 52 min
+123 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,13 +56,14 @@
 | [El Soltero](https://open.spotify.com/track/0nlIQu9TT46KA47Z4eEQv0) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:52 | 2022-06-01 | 2022-11-21 |
 | [El Toro Zacatecano](https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:27 | 2023-03-17 |  |
 | [El Toro Zacatecano \- Banda Sinaloense](https://open.spotify.com/track/5sV57YmR6NT8VvJm2vGvjg) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [25 Aniversario Grandes Exitos](https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan) | 2:27 | 2022-06-01 | 2022-11-30 |
-| [El Ultimo Trago](https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [El Caballo Blanco, Vol\. 4](https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3) | 2:18 | 2025-08-31 |  |
+| [El Ultimo Trago](https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [El Caballo Blanco, Vol\. 4](https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3) | 2:18 | 2025-08-31 | 2025-09-01 |
 | [Esa Pared](https://open.spotify.com/track/20S29aqxj8pXq2pyeKM6KL) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:20 | 2022-06-02 | 2024-05-04 |
 | [Esta Noche](https://open.spotify.com/track/2t3kXw5RlRVtczzfxzs1Io) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [El Caballo Blanco, Vol\. 4](https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3) | 2:21 | 2024-01-23 | 2024-02-28 |
 | [Funk Town](https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 4:06 | 2022-06-01 |  |
 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 | 2022-06-01 |  |
 | [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 | 2022-09-11 | 2025-07-21 |
 | [La Calandria Canta](https://open.spotify.com/track/6CIOQAVklQM6h2N98e9uc8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:04 | 2023-07-08 | 2024-01-24 |
+| [La Cama de Piedra](https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:30 | 2025-09-01 |  |
 | [La Falda Cortita](https://open.spotify.com/track/0yJtjeAoUc2yYxpPVejqES) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:53 | 2022-08-09 | 2022-08-21 |
 | [La Leccion](https://open.spotify.com/track/61pAsXfJhNvB8DNg4ROCb8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 3:00 | 2022-06-01 | 2024-04-08 |
 | [La Lección](https://open.spotify.com/track/1dpnYgl9aEzpaGL4uqm41B) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 3:00 | 2024-04-08 |  |

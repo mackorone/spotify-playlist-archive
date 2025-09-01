@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Manu Chao y Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,554 likes - 86 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,538 likes - 86 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

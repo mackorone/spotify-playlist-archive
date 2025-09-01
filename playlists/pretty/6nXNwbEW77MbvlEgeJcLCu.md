@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nXNwbEW77MbvlEgeJcLCu.md) - [plain]
 
 > tryin&\#x27; to cope, cya next sadderday
 
-[g.fam](https://open.spotify.com/user/paktofonika) - 663 likes - 14 songs - 34 min 33 sec
+[g.fam](https://open.spotify.com/user/paktofonika) - 663 likes - 13 songs - 31 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,10 @@ pretty - [cumulative](/playlists/cumulative/6nXNwbEW77MbvlEgeJcLCu.md) - [plain]
 | 6 | [\(…\)](https://open.spotify.com/track/10t3LYApAgfZi8ok52rj4e) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [\#RICHAXXHAITIAN](https://open.spotify.com/album/3akQbvTaRFTiQYZILxVm3E) | 2:36 |
 | 7 | [Sundown \(feat\. JID\)](https://open.spotify.com/track/5VaFScgPH5IfIARcQjDjM3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Sick of Myself](https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j) | 2:36 |
 | 8 | [Spirit](https://open.spotify.com/track/00fJ5RpMSJhuGHjRG2Lny3) | [Hus KingPin](https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI) | [IN A STATE OF NIRVANA](https://open.spotify.com/album/2P3kboMLmaCClUFqmzM0S9) | 1:50 |
-| 9 | [Love And Bullets](https://open.spotify.com/track/5ADweWVh0mmpIyGSKI0Uci) | [Nowaah The Flood](https://open.spotify.com/artist/0Qwnl88tMe74wX3F3t6tlb), [Giallo Point](https://open.spotify.com/artist/1EXhFWMkZ775rxYoHSSbkH) | [Right Over Left 2 \(Square Business\)](https://open.spotify.com/album/0EhRvAoPWushREL8q0VGFm) | 2:37 |
-| 10 | [Nikt Nam Nie Obiecywał](https://open.spotify.com/track/2Xy2Iepm09NRStjW4BoPHy) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [Tylko dla Dorosłych \(Hidden Disk\)](https://open.spotify.com/album/6i1ccDSGkrI396MDWWgBUf) | 3:03 |
-| 11 | [Speed Of Plight \- live from the Royal Albert Hall](https://open.spotify.com/track/7xRPPftRSb13GbYTIjJbXU) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo: reimagined \(live from the Royal Albert Hall\)](https://open.spotify.com/album/7j6h4vC8tacAYvReQMHuR8) | 3:41 |
-| 12 | [When Will I See You?](https://open.spotify.com/track/76LyAumsYiVyQMrjmbXNvI) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [The South Got Something to Say](https://open.spotify.com/album/3SNpwvPDO9MfNJCJwhNCd7) | 2:01 |
-| 13 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:08 |
-| 14 | [Karar Verdim](https://open.spotify.com/track/6QfgCeeziwsyaBSBfbblQv) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Arka Bahçem](https://open.spotify.com/album/0EH7frrwJOk95DTwY0bDu1) | 3:31 |
+| 9 | [Nikt Nam Nie Obiecywał](https://open.spotify.com/track/2Xy2Iepm09NRStjW4BoPHy) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [Tylko dla Dorosłych \(Hidden Disk\)](https://open.spotify.com/album/6i1ccDSGkrI396MDWWgBUf) | 3:03 |
+| 10 | [Speed Of Plight \- live from the Royal Albert Hall](https://open.spotify.com/track/7xRPPftRSb13GbYTIjJbXU) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo: reimagined \(live from the Royal Albert Hall\)](https://open.spotify.com/album/7j6h4vC8tacAYvReQMHuR8) | 3:41 |
+| 11 | [When Will I See You?](https://open.spotify.com/track/76LyAumsYiVyQMrjmbXNvI) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [The South Got Something to Say](https://open.spotify.com/album/3SNpwvPDO9MfNJCJwhNCd7) | 2:01 |
+| 12 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:08 |
+| 13 | [Karar Verdim](https://open.spotify.com/track/6QfgCeeziwsyaBSBfbblQv) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Arka Bahçem](https://open.spotify.com/album/0EH7frrwJOk95DTwY0bDu1) | 3:31 |
 
-Snapshot ID: `AAACg0ppVag8h4Y63MGeR4zlspHfyxoZ`
+Snapshot ID: `AAAChEXV6qlErOE8DFz+j6TAvjby6PWu`

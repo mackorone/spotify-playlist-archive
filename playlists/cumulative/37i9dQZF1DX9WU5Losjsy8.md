@@ -4,7 +4,7 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-182 songs - 9 hr 9 min
+183 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [3er](https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [3er](https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG) | 2:24 | 2025-08-08 |  |
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 | 2025-05-30 |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
-| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 |  |
+| [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-09-01 |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 | 2025-03-18 |  |
 | [Anna\-Lena](https://open.spotify.com/track/1N7HWv5UZrmhGYJAExPBSO) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/5p43YwAvnW9SP3s5jVsO1Q) | 3:00 | 2024-02-09 | 2024-02-16 |
@@ -152,6 +152,7 @@
 | [Partysau](https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R) | [Malle Kalle](https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP), [Danergy](https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf) | [Partysau](https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI) | 1:55 | 2023-07-14 | 2024-08-14 |
 | [PECH & SCHWEFEL](https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [DORFDiSKO ZWEi](https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ) | 3:18 | 2023-07-14 | 2024-04-19 |
 | [Peter Pan](https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Peter Pan](https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn) | 3:30 | 2023-07-14 |  |
+| [Pocahontas](https://open.spotify.com/track/5ircREr2MLhs8j5TXwAaeR) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb), [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4) | [Pocahontas](https://open.spotify.com/album/6v9pDee58Msavl9WqNRfQC) | 2:31 | 2025-08-08 |  |
 | [Pyrotechnik](https://open.spotify.com/track/0qZ3G41U3JOIPGRoGMdaLP) | [Balkonultra](https://open.spotify.com/artist/244Mbyb5jTFQa0iT8f0ihz), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Pyrotechnik](https://open.spotify.com/album/1co3KxwhOSQRoJcJepGElm) | 2:57 | 2024-06-18 |  |
 | [Rakete \- Party Edit](https://open.spotify.com/track/1bPPGrKv9D6z4RSwYm76QY) | [Mätropolis](https://open.spotify.com/artist/7iYhDa5Ucrs8Ucsi0Vv1uG), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Rakete \(Party Edit\)](https://open.spotify.com/album/2YP8W81DKC5crHKWHaLKM3) | 3:08 | 2025-06-02 |  |
 | [Rapunzel \- DJ Robin Remix](https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV), [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Rapunzel \(DJ Robin Remix\)](https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX) | 2:45 | 2023-07-14 | 2025-07-22 |

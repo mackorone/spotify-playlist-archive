@@ -4689,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208039,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0"
+    },
+    {
+      "album": {
         "name": "BLOOD, MAGIC & DIAMONDS.",
         "url": "https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN"
       },

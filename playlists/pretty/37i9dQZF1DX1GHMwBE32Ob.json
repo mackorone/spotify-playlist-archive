@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Naira Marley",
-  "num_followers": 104773,
+  "num_followers": 104907,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-08-29 08:12:18",
       "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+    },
+    {
+      "added_at": "2025-08-29 08:12:18",
+      "album": {
         "name": "Intergalactic Dreams",
         "url": "https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S"
       },
@@ -759,18 +775,22 @@
     {
       "added_at": "2025-08-29 08:12:18",
       "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/4wB2UR1gjqZpThP1Kt94ia"
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 136551,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/2JtrWZrpNkbSEzG5m9phAV"
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2025-08-29 08:12:18",
@@ -803,26 +823,6 @@
       "duration_ms": 205714,
       "name": "Trenches Luv",
       "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
-    },
-    {
-      "added_at": "2025-08-29 08:12:18",
-      "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2025-08-29 08:12:18",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-08-29 08:12:18",
       "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+    },
+    {
+      "added_at": "2025-08-29 08:12:18",
+      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
-    },
-    {
-      "added_at": "2025-08-29 08:12:18",
-      "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2025-08-29 08:12:18",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-08-29 08:12:18",
       "album": {
-        "name": "Shakespopi",
-        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+        "name": "Loner",
+        "url": "https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160375,
-      "name": "ASAP",
-      "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
+      "duration_ms": 157333,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C"
     }
   ],
   "unique_name": "Street Energy ",

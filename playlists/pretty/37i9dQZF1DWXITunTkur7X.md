@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,511 likes - 67 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,519 likes - 67 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 29 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |
 | 30 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
 | 31 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
-| 32 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
-| 33 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
+| 32 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
+| 33 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
 | 34 | [Ik Zou Het Zo Weer Overdoen](https://open.spotify.com/track/7fRx3YuGwcXoYga8uyO6HI) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
 | 35 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
 | 36 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 53 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
 | 54 | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/track/0iYDkElqY6uu0aw8CzOttm) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag Ik Dan Bij Jou \( Single Version \)](https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK) | 3:23 |
 | 55 | [Later Als Ik Groter Ben](https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:24 |
-| 56 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
+| 56 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |
 | 57 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
-| 58 | [Uit elkaar](https://open.spotify.com/track/0UU2J2kHAxin4KU1A818yC) | [Livv](https://open.spotify.com/artist/0DVLNg4cUvv8X38wf9iyt2) | [Uit elkaar](https://open.spotify.com/album/1SpcwCXKigpkYGemCFJPTO) | 3:26 |
+| 58 | [Julia](https://open.spotify.com/track/7ytIZ59iskuW7UfMdyXD09) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Sterker \- Deluxe Edition](https://open.spotify.com/album/2hE8PiyYyCoRniEYatkP29) | 3:36 |
 | 59 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/3yYUgleOOIBTynnKsTJSh5) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom) | 3:43 |
 | 60 | [Open Je Ogen](https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys) | 4:38 |
 | 61 | [Wat Is Dromen](https://open.spotify.com/track/5jRE8yeRZHJKEPcn4rdoBg) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:53 |

@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: JELEEL!, Darkoo
 
-606 songs - 1 day 7 hr 28 min
+607 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Area Boyz](https://open.spotify.com/track/2YvS3NcP3j5ugDPHkYeFCX) | [C.P](https://open.spotify.com/artist/5H8q4aeFkwpLyCVT8JeUxP) | [Area Boyz](https://open.spotify.com/album/2j2MBiyqoWSS4DuY1jpaP7) | 3:33 | 2022-08-18 | 2022-09-17 |
 | [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 | 2024-01-23 |
 | [ASUNASA \- HOLD YOUR WAIST](https://open.spotify.com/track/0SJCnl4d1Imajh0hm0AaN4) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:05 | 2024-09-19 | 2024-10-11 |
-| [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-22 |  |
+| [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-22 | 2025-09-01 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-20 | 2023-05-15 |
 | [Bacchanal Lady](https://open.spotify.com/track/1oYRLc55gfdloCPbP4lQgD) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Bacchanal Lady](https://open.spotify.com/album/18QBT99lX9oB15YKzilm5Q) | 3:25 | 2024-12-06 | 2025-02-28 |
 | [Bad Gyal](https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Bad Gyal](https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol) | 3:36 | 2021-12-20 | 2022-07-22 |
@@ -94,6 +94,7 @@
 | [Can't Let You Go \- Remix](https://open.spotify.com/track/1jpWdlkRzrWWSg3tESHf34) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Can't Let You Go \(Remix\)](https://open.spotify.com/album/5uB7MTykLx39PBynOcJIKC) | 3:14 | 2021-12-20 | 2022-07-29 |
 | [Candy shop](https://open.spotify.com/track/41LoyeYeBGj8DTgu3ESJg3) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Yxng Bane](https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK) | [L'amour change le monde](https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9) | 2:41 | 2022-03-21 | 2022-07-08 |
 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 | 2021-12-20 | 2022-07-01 |
+| [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-08-29 |  |
 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 | 2024-01-22 | 2025-08-29 |
 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 | 2021-12-20 | 2022-01-17 |
 | [Caution](https://open.spotify.com/track/4g1TUIuoKWYYnJD0a8hrzb) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Caution / Turn Around](https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB) | 2:35 | 2022-07-17 | 2022-08-06 |

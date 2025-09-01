@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73615,
+  "num_followers": 73618,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAADv3aq/Oqhf/qtetepPlf1p",
+  "snapshot_id": "aLI/AAAAAABUXHsvcuhpdxp63w48d3DJ",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 301255,
-      "name": "Rasgando o Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 236690,
       "name": "A Noiva",
       "url": "https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 301255,
+      "name": "Rasgando o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Da Eternidade",
         "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 245481,
       "name": "Cacos Pelo Ch\u00e3o",
       "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Vaso de Alabastro",
-      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
     },
     {
       "added_at": null,

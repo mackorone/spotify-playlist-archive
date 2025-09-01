@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 269040,
+  "num_followers": 269111,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "LOS DOS",
         "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
-      },
-      "artists": [
-        {
-          "name": "Contrabandistas de San Luis",
-          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
-        }
-      ],
-      "duration_ms": 208927,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Agachadita",
         "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Camale\u00f3n",
         "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186546,
       "name": "El Camale\u00f3n",
       "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Zapateado Antrax",
-        "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
-      },
-      "artists": [
-        {
-          "name": "los ultimos del topo chico",
-          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
-        }
-      ],
-      "duration_ms": 233328,
-      "name": "Zapateado Antrax",
-      "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 193440,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Zapateado Antrax",
+        "url": "https://open.spotify.com/album/6jYT19oQKE9GBLvypymMts"
+      },
+      "artists": [
+        {
+          "name": "los ultimos del topo chico",
+          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
+        }
+      ],
+      "duration_ms": 233328,
+      "name": "Zapateado Antrax",
+      "url": "https://open.spotify.com/track/77zYPBbOkRHktf7Ahnmjsx"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "A Ver Si Capea",
-      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 195103,
       "name": "B\u00e9same Morenita",
       "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "A Ver Si Capea",
+      "url": "https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "Jam out Session 1",
-        "url": "https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr"
-      },
-      "artists": [
-        {
-          "name": "Afecto Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL"
-        }
-      ],
-      "duration_ms": 179212,
-      "name": "Cuando Los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "De Nueva Cuenta",
         "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "Jam out Session 1",
+        "url": "https://open.spotify.com/album/7qqHEk40QC538vbzveuiWr"
+      },
+      "artists": [
+        {
+          "name": "Afecto Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL"
+        }
+      ],
+      "duration_ms": 179212,
+      "name": "Cuando Los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/5YD7tjOv2xrj6z7e3AWIdF"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
-        "name": "\"15 Melodias Del Recuerdo\"",
-        "url": "https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Huejote\u00f1os",
-          "url": "https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/5YkXDQn5hjCnxAILxAfsLp"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 199880,
       "name": "Zapateado Encabronado #2",
       "url": "https://open.spotify.com/track/2kZ5FApqAZIeHPF66ER0ac"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
+        "name": "\"15 Melodias Del Recuerdo\"",
+        "url": "https://open.spotify.com/album/2BfKRacdLOFMlEQnXUlLtq"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Huejote\u00f1os",
+          "url": "https://open.spotify.com/artist/0Vea7Atmt6I5taZ7MSfE3I"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/0goMlu6mNQcj77VQHuLSGr"
     },
     {
       "added_at": "2024-11-28 22:59:11",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2024-11-28 22:59:11",
       "album": {
+        "name": "Bandido De Amores",
+        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 180337,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
+    },
+    {
+      "added_at": "2024-11-28 22:59:11",
+      "album": {
         "name": "Grupo El Mexicano",
         "url": "https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 185388,
       "name": "Ya No Me Mires Asi",
       "url": "https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0"
-    },
-    {
-      "added_at": "2024-11-28 22:59:11",
-      "album": {
-        "name": "Bandido De Amores",
-        "url": "https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 180337,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
     },
     {
       "added_at": "2024-11-28 22:59:11",

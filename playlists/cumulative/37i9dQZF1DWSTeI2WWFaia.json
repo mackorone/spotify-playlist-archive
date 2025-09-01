@@ -1867,6 +1867,36 @@
     },
     {
       "album": {
+        "name": "Lonely At The Top",
+        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "Kai Ca$h",
+          "url": "https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG"
+        },
+        {
+          "name": "CJ Fly",
+          "url": "https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "BK'S FINEST (feat. Rome Streetz, Kai Ca$h & CJ Fly)",
+      "url": "https://open.spotify.com/track/0BwvLKnnzUr7ymJPMzDoWs"
+    },
+    {
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -11976,7 +12006,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 240000,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"

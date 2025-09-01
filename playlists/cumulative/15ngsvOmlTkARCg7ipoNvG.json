@@ -31149,6 +31149,24 @@
     },
     {
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2fxqvTAf9aSJyWBl9ZGIbe"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60225,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/38rKUKv3Ew4hmlDlKFuNRf"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1VrS0czvfxcDTHZHSxDZFm"
       },

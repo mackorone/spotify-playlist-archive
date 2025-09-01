@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 930315,
+  "num_followers": 930191,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
         }
       ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -183,22 +187,18 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
       "artists": [
         {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -335,8 +335,8 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
       "artists": [
         {
@@ -344,13 +344,17 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
         }
       ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -443,8 +447,8 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
@@ -452,17 +456,13 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 190498,
       "name": "Silent",
       "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Hypnotize EP",
-        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "Party All The Time (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 134624,
       "name": "Party All The Time - D.O.D Remix",
       "url": "https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Senses (Now We Go)",
-        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "ONEDUO",
-          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Senses (Now We Go)",
-      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1183,22 +1163,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+        "name": "Senses (Now We Go)",
+        "url": "https://open.spotify.com/album/7mRcRoOlROslZtjpnke7BO"
       },
       "artists": [
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
         },
         {
-          "name": "Kris Kiss",
-          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+          "name": "ONEDUO",
+          "url": "https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
+      "duration_ms": 153750,
+      "name": "Senses (Now We Go)",
+      "url": "https://open.spotify.com/track/0kE6DMsgVSb6oHJzQlGEFC"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1219,6 +1199,26 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "I'm a Man",
-        "url": "https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Faiolli",
-          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
-        }
-      ],
-      "duration_ms": 167076,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1359,6 +1335,30 @@
       "duration_ms": 244218,
       "name": "B\u20acNZ",
       "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "I'm a Man",
+        "url": "https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "duration_ms": 167076,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
+        "name": "Keep On Dancin\u2019",
+        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Keep On Dancin\u2019",
+      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1483,6 +1499,22 @@
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "duration_ms": 141860,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1543,22 +1575,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 141860,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -1587,18 +1603,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Keep On Dancin\u2019",
-        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
       "artists": [
         {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
         }
       ],
-      "duration_ms": 207096,
-      "name": "Keep On Dancin\u2019",
-      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1623,26 +1643,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
-      },
-      "artists": [
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "Still Cutting Shapes",
         "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 148571,
       "name": "Still Cutting Shapes",
       "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
         "name": "Charged Up",
         "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2025-08-29 04:00:40",
       "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
@@ -1855,6 +1855,42 @@
       "duration_ms": 166954,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "808",
+      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
+    },
+    {
+      "added_at": "2025-08-29 04:00:40",
+      "album": {
+        "name": "Instant Moments",
+        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
+      },
+      "artists": [
+        {
+          "name": "Divasi",
+          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "Instant Moments",
+      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
     },
     {
       "added_at": "2025-08-29 04:00:40",
@@ -1903,42 +1939,6 @@
       "duration_ms": 166048,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "808",
-      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "All Nighter",
-        "url": "https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 145153,
-      "name": "All Nighter",
-      "url": "https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo"
     }
   ],
   "unique_name": "Shuffle Syndrome",

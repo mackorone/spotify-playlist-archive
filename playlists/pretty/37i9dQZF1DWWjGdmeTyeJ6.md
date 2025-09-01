@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: MARCO PLUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,967 likes - 300 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,059 likes - 300 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

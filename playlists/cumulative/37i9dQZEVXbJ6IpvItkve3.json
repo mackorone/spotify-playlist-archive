@@ -8550,7 +8550,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -11270,7 +11270,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 202408,
       "name": "\u05d0\u05d1\u05d0",
       "url": "https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ"
@@ -12022,7 +12022,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
       "url": "https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE"
@@ -12444,7 +12444,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 173967,
       "name": "\u05d0\u05dd \u05d6\u05d4 \u05d6\u05d4 \u2013 \u05d6\u05d4 \u05d6\u05d4",
       "url": "https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu"
@@ -12732,7 +12732,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 197687,
       "name": "\u05d0\u05e0\u05d9 \u05d7\u05d5\u05d6\u05e8",
       "url": "https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB"
@@ -13558,7 +13558,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 147296,
       "name": "\u05d1\u05d7\u05d9\u05d1\u05e7",
       "url": "https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd"
@@ -16370,7 +16370,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 160642,
       "name": "\u05d8\u05e7\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/5ppuL7dOIhd7td0YCJJuwf"
@@ -16832,7 +16832,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 199587,
       "name": "\u05d9\u05e6\u05d0\u05ea \u05dc\u05d8\u05d9\u05d5\u05dc",
       "url": "https://open.spotify.com/track/5X7EZzrGDp4YgzdFW3ZdZU"
@@ -20059,6 +20059,28 @@
     },
     {
       "album": {
+        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
+      },
+      "artists": [
+        {
+          "name": "Full Trunk",
+          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251028,
+      "name": "\u05e0\u05d2\u05e0\u05d1 \u05de\u05de\u05da",
+      "url": "https://open.spotify.com/track/05iw1Zb7Lp5DNUSvDhBRk6"
+    },
+    {
+      "album": {
         "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB"
       },
@@ -20736,7 +20758,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 172999,
       "name": "\u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05e6\u05d3\u05d9\u05e7\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a"
@@ -22096,7 +22118,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 175471,
       "name": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/2OhunYlfKcvrwQBStJD5u8"
@@ -23880,7 +23902,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 294093,
       "name": "\u05e9\u05de\u05e9 \u05e9\u05d6\u05d5\u05e8\u05d7\u05ea \u05e2\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/5xzBjwCJLdIKtIXQZ06RXj"

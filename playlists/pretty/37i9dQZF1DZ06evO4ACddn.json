@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAADv8q8Y8E1P3IzLX5BtY04h",
+  "snapshot_id": "aLI/AAAAAACN1V36Q8squ9zr6usOB73N",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We Do To Feel",
-        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
+        "name": "The Rat",
+        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 224957,
-      "name": "The Lens",
-      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
+      "duration_ms": 260120,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rat",
-        "url": "https://open.spotify.com/album/7xfgBU8oYPEJ3zuyhBmoJ5"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "The Rat",
-      "url": "https://open.spotify.com/track/2aEAQBRKqAImOF9rzALVxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -212,9 +196,25 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 276024,
-      "name": "Colour Me Sad",
-      "url": "https://open.spotify.com/track/43uDN7V5jJ9EYRnq8bR8wA"
+      "duration_ms": 224957,
+      "name": "The Lens",
+      "url": "https://open.spotify.com/track/6Lh5FdtCCWShjxZP9hPGAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We Do To Feel",
         "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
@@ -276,9 +260,25 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 206605,
-      "name": "Long Way",
-      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
+      "duration_ms": 276024,
+      "name": "Colour Me Sad",
+      "url": "https://open.spotify.com/track/43uDN7V5jJ9EYRnq8bR8wA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "What We Do To Feel",
+        "url": "https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/13IILXc2B0KUsIjbaXXudE"
+      "duration_ms": 206605,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/4qFSC85UlpHsaSQhfyoMGS"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Days EP",
-        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 218533,
-      "name": "Two Heads",
-      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+        "name": "Diamond Days EP",
+        "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+      "duration_ms": 218533,
+      "name": "Two Heads",
+      "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
     },
     {
       "added_at": null,

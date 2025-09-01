@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 94997,
+  "num_followers": 95015,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABamFfis3f4W2m2TWAJ/Sfm",
+  "snapshot_id": "aLI/AAAAAAAys995evAX3ep/qtdtr0aW",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
-        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 241444,
-      "name": "Los de La Casa",
-      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda Vol.2",
-        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
+        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 153289,
-      "name": "JJ Es La Clave",
-      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+      "duration_ms": 241444,
+      "name": "Los de La Casa",
+      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
+        "name": "Ni\u00f1as De Revista",
+        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 120749,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+      "duration_ms": 147480,
+      "name": "Ni\u00f1as De Revista",
+      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1as De Revista",
-        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 147480,
-      "name": "Ni\u00f1as De Revista",
-      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
+      "duration_ms": 120749,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 120653,
+      "name": "Diamantes De Esfera",
+      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Quiero Agarrar El Rollo",
         "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 168881,
       "name": "Sangre De Rancho",
       "url": "https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Prometido Es Deuda (Vol.4)",
-        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 120653,
-      "name": "Diamantes De Esfera",
-      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
     },
     {
       "added_at": null,

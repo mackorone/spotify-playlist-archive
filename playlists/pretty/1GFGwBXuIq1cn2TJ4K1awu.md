@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 35 min 58 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 40 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
-| 2 | [Paranoia Blues \(Unreleased Version\)](https://open.spotify.com/track/2r8Gi0kiA3JYy4HBT8Uj44) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 3:14 |
-| 3 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
-| 4 | [The Way We Get By](https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Kill the Moonlight](https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i) | 2:39 |
-| 5 | [Corralling the Blues](https://open.spotify.com/track/1kloBNF9c8Jwc7AIC1snAa) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/4l1JW9aV2fmAxnH9TeeK82) | 2:27 |
-| 6 | [Put Your Head On My Shoulder \- Remastered](https://open.spotify.com/track/6YDDrg8llsRtAgLlIROzZc) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:38 |
-| 7 | [Norf Norf](https://open.spotify.com/track/4uQ7wYsuL0DryknoDc11Hk) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Summertime '06](https://open.spotify.com/album/4Csoz10NhNJOrCTUoPBdUD) | 3:03 |
-| 8 | [Solo](https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:17 |
-| 9 | [Garden](https://open.spotify.com/track/3KcJEOyaLDLAERlOCBhmPA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:58 |
-| 10 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 11 | [Rings Of Saturn](https://open.spotify.com/track/2DJm8k4qUOF5m9yiDPt6gE) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/34xaLN7rDecGEK5UGIVbeJ) | 3:28 |
+| 1 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 |
+| 2 | [Heart Cooks Brain](https://open.spotify.com/track/6VPmuKRODPVBazkpPRUgK5) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:02 |
+| 3 | [Make It Right](https://open.spotify.com/track/30lERIpNM6X3G4OrKDToyE) | [The Coathangers](https://open.spotify.com/artist/7INFKsainUv68DHVbuLh4J) | [Nosebleed Weekend](https://open.spotify.com/album/27y8R6lqiOYmJc5LDGPWbe) | 3:01 |
+| 4 | [Buzzin' Fly](https://open.spotify.com/track/5hndRoB0NwY3nwXq1pbvVf) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Buzzin' Fly](https://open.spotify.com/album/79ZP4YwsRt03H4anVBt5vd) | 5:37 |
+| 5 | [Trouble, Heartaches & Sadness](https://open.spotify.com/track/0ryoOkpaDeSQRoYQGGJAxn) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [Straight from the Heart](https://open.spotify.com/album/2HGzxUUz5q4jldJkodIarf) | 2:41 |
+| 6 | [Mind Blowin'](https://open.spotify.com/track/4q6G2T3uLleqFvQnTC60NA) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 3:36 |
+| 7 | [Monkey Suite](https://open.spotify.com/track/6l3Bcu6R6Nx3h25l87gV5c) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Chrome Children Vol\. 1](https://open.spotify.com/album/5GitFcIJajt0bEZ1JXZbou) | 2:39 |
+| 8 | [Wanna Be Loved](https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:37 |
+| 9 | [You Don't Want Me](https://open.spotify.com/track/4oljCgUgf4uZ4xcszSwlZl) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Emotions and Math](https://open.spotify.com/album/2Bq3X3NF39gvmAihzX1DdK) | 2:04 |
+| 10 | [Faithless](https://open.spotify.com/track/3Jdvy13itjxVS0J8p7gzfA) | [Operators](https://open.spotify.com/artist/4kU5nN9B7hXLqUg7sMiQKw) | [Radiant Dawn](https://open.spotify.com/album/1lvuiRfYHNrjgPXAGIaKR8) | 6:33 |
+| 11 | [Luscious Lady](https://open.spotify.com/track/23LN1l3UQ4Qjg3YPzN8Yi7) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Listen To My Song: The Music City Sessions](https://open.spotify.com/album/4wMqa7e6wOLiF0LPa4pO8q) | 3:15 |
 
-Snapshot ID: `AAAHWYteyl0/KiI9hJByz0vndCNNes+C`
+Snapshot ID: `AAAHb+QY2diy6SrrQnMVhkaR1ioP1qfh`

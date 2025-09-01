@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: CMAT
 
-2,188 songs - 4 day 20 hr 1 min
+2,189 songs - 4 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-07 | 2024-09-14 |
 | [Closer to You](https://open.spotify.com/track/4grvUz76teA1WVYBOBAyJ6) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:25 | 2021-05-04 | 2021-05-24 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-03-06 | 2022-04-10 |
-| [clue](https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [clue / talk](https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a) | 3:39 | 2025-08-15 |  |
+| [clue](https://open.spotify.com/track/1ItaFV8IGkb33gXFI2c5Ps) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [clue / talk](https://open.spotify.com/album/4eCNegZL2VLo8CrhUhzL1a) | 3:39 | 2025-08-15 | 2025-09-01 |
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-01-28 | 2022-07-18 |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2021-08-06 | 2022-04-14 |
 | [Cocaine](https://open.spotify.com/track/0uoOJJYcnnLAFWajwNNAbL) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Cocaine](https://open.spotify.com/album/0K4jbnUPEuBr8JhWJuqdZ9) | 3:45 | 2023-02-10 | 2023-07-14 |
@@ -1478,6 +1478,7 @@
 | [Paper Mache World](https://open.spotify.com/track/7ai2SCMNgZQOSdxh5Oq9Ke) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You To Know](https://open.spotify.com/album/5zFw70dBof3n5bva2TcWQH) | 2:59 | 2020-11-20 | 2021-06-03 |
 | [Papercut](https://open.spotify.com/track/2eWz1ODTF9DcKikcwxsc9A) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/3FKnPiVfCOLhNeSlzpkJ3D) | 3:13 | 2021-05-03 | 2021-06-03 |
 | [Papercuts](https://open.spotify.com/track/2X2zzq2qi2MqQb878Sw82q) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Papercuts](https://open.spotify.com/album/7wps4tNNOWDpLBiD9in4JI) | 2:52 | 2021-02-08 | 2021-03-21 |
+| [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-08-29 |  |
 | [Paradise](https://open.spotify.com/track/7BQpgrL15I7wYGS47i1fOm) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Paradise](https://open.spotify.com/album/3rgaus8KT65dbLi2fxzT2H) | 2:33 | 2024-03-29 | 2024-05-04 |
 | [Parking Lot](https://open.spotify.com/track/3PKxQ93NYX0LG6xs2JuM0j) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Swimming Lessons](https://open.spotify.com/album/685PXSmsn7ii4B9mx8z8lL) | 2:41 | 2021-03-06 | 2022-04-13 |
 | [PART OF YOU \(with Carlie Hanson\)](https://open.spotify.com/track/6gDm3Qm9HOBDm2dd66nOHb) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [PART OF YOU \(with Carlie Hanson\)](https://open.spotify.com/album/1dr6DncBSTgnnriH1s3aZM) | 3:08 | 2021-05-03 | 2021-05-27 |

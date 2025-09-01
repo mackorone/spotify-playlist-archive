@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,090 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,091 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 13 | [Ảo Giác](https://open.spotify.com/track/4IkYjqZKEaSpS88OoI2BVM) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Ảo Giác](https://open.spotify.com/album/1S3i3m9hH5ilHb2RP2XWwp) | 2:41 |
 | 14 | [Chờ Chia Tay](https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:06 |
 | 15 | [CÓ LẼ ANH](https://open.spotify.com/track/2UNdTmeZOycErIaIKeuZlh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [CÓ LẼ ANH](https://open.spotify.com/album/0j4xZa2YuuNfWP7z5D2Ruj) | 2:59 |
-| 16 | [Cúc Hoạ Mi](https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:13 |
+| 16 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 |
 | 17 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 18 | [AUYEM](https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [AUYEM](https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV) | 3:30 |
 | 19 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
 | 20 | [Emotion](https://open.spotify.com/track/2A1bhm6a6Na7dkP3c83OVt) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:06 |
-| 21 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 |
+| 21 | [Cúc Hoạ Mi](https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:13 |
 | 22 | [Nắng hoa niên](https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:10 |
 | 23 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
 | 24 | [Hoàng Ku](https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Hoàng Ku](https://open.spotify.com/album/63sY910Q108Te3OjWqt1KH) | 3:03 |

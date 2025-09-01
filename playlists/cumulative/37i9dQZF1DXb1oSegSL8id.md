@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-137 songs - 7 hr 19 min
+138 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Graveto \- Ao Vivo](https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:48 | 2023-01-03 | 2025-03-01 |
 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 | 2023-01-03 |  |
 | [Hold On](https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh) | [Legard](https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT) | [Hold On](https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN) | 2:59 | 2023-01-03 | 2023-09-22 |
-| [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2023-01-03 |  |
+| [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2023-01-03 | 2025-09-01 |
 | [Insegurança \- Ao Vivo](https://open.spotify.com/track/6LQQGxRzNLsWQtwgLe5fAm) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [15 Anos \(Ao Vivo\)](https://open.spotify.com/album/7zWYZ8XJrFBhRZZfi13I1n) | 3:00 | 2023-01-03 |  |
 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 | 2023-01-03 | 2024-04-19 |
 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 | 2023-01-03 | 2024-04-19 |
@@ -140,6 +140,7 @@
 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 | 2023-11-17 |  |
 | [Tá Rocheda](https://open.spotify.com/track/3dPvQLKl42dMYWV4LWRTLK) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [As Melhores 2018](https://open.spotify.com/album/59Q7HNcjiKQ0TFBvuzpbLP) | 3:23 | 2023-01-03 |  |
 | [Tô de Boa \- Ao vivo](https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:52 | 2023-01-03 |  |
+| [Vagabundo](https://open.spotify.com/track/05e0rJXgFF3ptT7rK9DO2V) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:45 | 2024-07-09 |  |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2023-01-03 |  |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2023-01-03 |  |
 | [Xote Dos Milagres](https://open.spotify.com/track/6IAPvuuTejcMmbAZKPiiq4) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo), [Tato \(Falamansa\)](https://open.spotify.com/artist/2n9cWGNyvpcSF2fPT8EG5x) | [Arraiá 67](https://open.spotify.com/album/0sTO6W8fkGnqVh1NcV1Gr3) | 3:09 | 2023-01-03 | 2024-04-19 |

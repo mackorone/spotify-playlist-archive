@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,262 songs - 12 day 6 hr 18 min
+5,263 songs - 12 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2693,6 +2693,7 @@
 | [LONG DRIVE \(stripped\)](https://open.spotify.com/track/1bQiY1zmmRCZCuVC9jRFGa) | [Chris DuPont](https://open.spotify.com/artist/3yRhMwMkm2gWO27hxRzHZA), [Nate Veldhoff](https://open.spotify.com/artist/5UAJzsobfXFgNItXHbraXQ) | [LONG DRIVE \(stripped\)](https://open.spotify.com/album/2rpWGNWeKwAdKMAzzsjbCk) | 4:58 | 2024-11-05 | 2024-11-18 |
 | [Long For Nothing \(I Got You\)](https://open.spotify.com/track/2MuT1ro5zOHn2N4jvZohQZ) | [Rooskin](https://open.spotify.com/artist/010wxklenCFtHumkvnpUXg) | [Long For Nothing \(I Got You\)](https://open.spotify.com/album/3e4uO2Iuf7CDNAYncona5B) | 2:48 | 2025-06-17 | 2025-07-16 |
 | [Long Road](https://open.spotify.com/track/2gPEhLllYJk4TJEImgepZo) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [Long Road](https://open.spotify.com/album/59M2qLszFxLN5iaZs4z069) | 4:34 | 2024-12-31 | 2025-01-12 |
+| [Long Time \- Original Mix](https://open.spotify.com/track/5sTp5WJBKgnqpqiJpfR0VS) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Long Time \(Original Mix\)](https://open.spotify.com/album/2gOmhG4qJ1Qu9vravrjDjN) | 3:04 | 2025-08-31 |  |
 | [Long Way Down](https://open.spotify.com/track/3lkXTNsllynrDiCC4mvvFR) | [GzLz](https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT) | [Faded Lights](https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW) | 3:37 | 2024-08-27 | 2024-09-08 |
 | [Long Way Home](https://open.spotify.com/track/0rsWCP5PW0Yh39kAY27smQ) | [Jack Kwon](https://open.spotify.com/artist/1PkM8pZQFryMO4FNSgs3Ld) | [Long Way Home](https://open.spotify.com/album/5xvyXcM666P2DpIsrjRXZR) | 4:10 | 2024-06-29 | 2024-07-11 |
 | [long way home](https://open.spotify.com/track/73HrmMGhlFVz8BbdAABaZa) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [long way home](https://open.spotify.com/album/6j5Z01WF39JENkXvALSGAH) | 2:52 | 2022-07-08 | 2022-07-27 |

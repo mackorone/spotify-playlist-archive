@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10801,
+  "num_followers": 10800,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "Zapiski z Landary",
         "url": "https://open.spotify.com/album/4nPFlRBXTJfZgWUpPow7ML"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 216869,
       "name": "Tam gdzie Ty",
       "url": "https://open.spotify.com/track/1zlKgDxMkGLt0CCQicAFoA"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2025-04-24 21:35:46",

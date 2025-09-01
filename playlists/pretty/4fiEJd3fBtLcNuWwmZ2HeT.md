@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 331 songs - 18 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 335 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,5 +339,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 329 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 |
 | 330 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 |
 | 331 | [kyu\-kurarin](https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk) | 3:37 |
+| 332 | [BRAIN](https://open.spotify.com/track/1JPXGllBrloh5PnNa8D62g) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [BRAIN](https://open.spotify.com/album/72lhPYIoZ9BeHimm6jDs15) | 2:36 |
+| 333 | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
+| 334 | [Dec.](https://open.spotify.com/track/7iYrP7trNTMlH9fbRAnexx) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Dec.](https://open.spotify.com/album/2Ym8AuIyzuVjSgxq81gIvp) | 2:12 |
+| 335 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 
-Snapshot ID: `AAAJPgTkJ8+ZyXTu14asUDKceahGRoBg`
+Snapshot ID: `AAAJQgMMpoB7CQdDqMiKt/q6Sb5Lb2Mk`

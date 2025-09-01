@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,488 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,428 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 95 | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ) | 2:17 |
 | 96 | [Moana](https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0) | 2:58 |
 | 97 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 |
-| 98 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 |
-| 99 | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF) | 3:21 |
+| 98 | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF) | 3:21 |
+| 99 | [Rap Kingpin](https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Rap Kingpin](https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V) | 2:44 |
 | 100 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 |
 
 Snapshot ID: `AAAAAPKjHrLWgXPJE+N5csKpg/A8fwA7`

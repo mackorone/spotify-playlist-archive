@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 ### [Summer 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Kom maar op met de zon ☀️🌼🌻
+> Nazomers genieten ☀️🌼🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,061 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,105 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
 | 100 | [Burning Down](https://open.spotify.com/track/4sRKsQ7zQEACvXTi7hPyjX) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down \(Alex’s Version\)](https://open.spotify.com/album/44SlAPqGthCRERcF5874so) | 2:59 |
 
-Snapshot ID: `AAAAALIN4vDZwoAm6xfWrXjORUZMDKjb`
+Snapshot ID: `AAAAAKcRkdw2srvvSBgXkgSt6+aM0Id+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 46 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 15 | [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 |
 | 16 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 17 | [Mal Escrito](https://open.spotify.com/track/5g8LyZjezjQiEVzgjLFkLr) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 3:01 |
-| 18 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 |
-| 19 | [MACARRONES CON QUESO](https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 2:27 |
+| 18 | [MACARRONES CON QUESO](https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 2:27 |
+| 19 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 |
 | 20 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 |
 | 21 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
 | 22 | [No Voy a Ser Yo](https://open.spotify.com/track/3wY4usAdkaG7oviB6kOHxH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:55 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 32 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 |
 | 33 | [Mensajes Borrados](https://open.spotify.com/track/6LlGVA52RQPz3Pzr3QaXjQ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:56 |
 | 34 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
-| 35 | [ANTIBALAS](https://open.spotify.com/track/6KBYbkpGAyuHgOUvZcvsRx) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:17 |
-| 36 | [Florida \- \(Intro\)](https://open.spotify.com/track/0HwcjUFHUepCdJW1Jnr6m9) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 1:49 |
+| 35 | [Florida \- \(Intro\)](https://open.spotify.com/track/0HwcjUFHUepCdJW1Jnr6m9) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 1:49 |
+| 36 | [ANTIBALAS](https://open.spotify.com/track/6KBYbkpGAyuHgOUvZcvsRx) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:17 |
 | 37 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 |
 | 38 | [Archivados](https://open.spotify.com/track/67raYTvJGiDU1rX5qJMDrY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:45 |
 | 39 | [Montego Bay](https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:09 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 45 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 |
 | 46 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `Ab66lAAAAABFUp1SrmFMnGkSWmfBldJH`
+Snapshot ID: `Ab7AKgAAAACN3QrORIKRnQEiZA2ZRaxk`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 145227,
+  "num_followers": 145207,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Promises",
         "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 188053,
       "name": "Sleigh",
       "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
+      "duration_ms": 232746,
+      "name": "Jazz Bar (Carol ver.)",
+      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Jazz Bar (Carol ver.)",
-      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+        "name": "Merry-Chri",
+        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
       "artists": [
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 240200,
-      "name": "A miracle 3days ago",
-      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
+      "duration_ms": 332666,
+      "name": "Merry-Chri",
+      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Merry-Chri",
-        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 332666,
-      "name": "Merry-Chri",
-      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
+      "duration_ms": 240200,
+      "name": "A miracle 3days ago",
+      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Winter Bloom",
+        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "duration_ms": 179684,
+      "name": "Winter Bloom",
+      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "Winter Bloom",
-        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
-      },
-      "artists": [
-        {
-          "name": "CLASS:y",
-          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
-        }
-      ],
-      "duration_ms": 179684,
-      "name": "Winter Bloom",
-      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "When It Snows mmm (feat. Wheein)",
         "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
-      },
-      "artists": [
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 269012,
       "name": "Save Our Christmas",
       "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
-      },
-      "artists": [
-        {
-          "name": "Xydo",
-          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
-        },
-        {
-          "name": "BUMKEY",
-          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Rose",
         "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 223200,
       "name": "Christmas Rose (feat. LEEBADA)",
       "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        },
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
-      },
-      "artists": [
-        {
-          "name": "LeeBoram (seeya)",
-          "url": "https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        },
-        {
-          "name": "Baekyebin",
-          "url": "https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW"
-        }
-      ],
-      "duration_ms": 227460,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "C9 Single Album '2022 C9 Christmas'",
         "url": "https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 207880,
       "name": "Merry Merry Christmas",
       "url": "https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR"
+      },
+      "artists": [
+        {
+          "name": "LeeBoram (seeya)",
+          "url": "https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        },
+        {
+          "name": "Baekyebin",
+          "url": "https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
+        "name": "Sweater (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 205782,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
+      "duration_ms": 237161,
+      "name": "Sweater - Orchestral Version",
+      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Sweater (Orchestral Version)",
-        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
       },
       "artists": [
         {
@@ -1780,9 +1780,9 @@
           "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 237161,
-      "name": "Sweater - Orchestral Version",
-      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
+      "duration_ms": 205782,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
     },
     {
       "added_at": "2025-01-18 02:25:33",

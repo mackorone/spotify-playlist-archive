@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 33 | [What A Waste](https://open.spotify.com/track/7kGIXHL97P3bVy3Wh997ZA) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [What A Waste](https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW) | 3:13 |
 | 34 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 |
 | 35 | [Alone In My Room \(Gone\)](https://open.spotify.com/track/1Hoa0Hp9tTnSGaqo0r3rXh) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:35 |
-| 36 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 |
-| 37 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 36 | [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 |
+| 37 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 |
 | 38 | [Don't](https://open.spotify.com/track/4xIEnb2MOEgIfveGoyIy71) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:08 |
 | 39 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 |
 | 40 | [99%](https://open.spotify.com/track/0oUJB1ASvUvvO6xDjOvC85) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:10 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 61 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 62 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
 
-Snapshot ID: `Ab66qAAAAAADdRLVnkOMbeNK0aGEu0Vu`
+Snapshot ID: `Ab7ANAAAAACMH2/Z0oZ4PCT8hsphwdU8`

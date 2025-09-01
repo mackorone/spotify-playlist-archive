@@ -4,7 +4,7 @@
 
 > 
 
-7,663 songs - 19 day 18 hr 46 min
+7,665 songs - 19 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [BURN](https://open.spotify.com/track/38BgRP0EX5p0sBj0fFhqN9) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93) | 1:51 | 2025-01-10 |  |
 | [BURN](https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6) | 1:51 | 2025-04-17 | 2025-04-21 |
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2025-01-04 |  |
+| [Burnt my mouth](https://open.spotify.com/track/3AmtivOGodM8mXFkoPcrnL) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Burnt my mouth](https://open.spotify.com/album/0XZayudr9ik00DxBNDspIa) | 2:12 | 2025-08-31 |  |
 | [Bury the Light](https://open.spotify.com/track/0FcS0Cpz3tK1DLXIzr6iL2) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [Devil May Cry 5 Special Edition Vergil's Rebirth Sound Selection](https://open.spotify.com/album/0xmupOFcrSRBIolFIozXQm) | 9:40 | 2025-04-24 |  |
 | [Bus Stop \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5X3dOilXRTEVqyRbZhM49U) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:56 | 2025-01-03 |  |
 | [BUSHY B INTERLUDE](https://open.spotify.com/track/2wFwbyCz96QFLm2L6esbgf) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 1:05 | 2025-01-03 |  |
@@ -3237,6 +3238,7 @@
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2025-01-04 |  |
 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 | 2025-01-04 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2025-04-23 |  |
+| [Lady Bird](https://open.spotify.com/track/2fmDvHbRNfoZUvUjkh3rAG) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Yellow Moon](https://open.spotify.com/album/3fYugGacWZBNTCGMAY4xTm) | 4:29 | 2025-08-31 |  |
 | [Lady Bird](https://open.spotify.com/track/6xY3y0AdiV1wB0y4MJBz7j) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Yellow Moon](https://open.spotify.com/album/0EXEIqbZNj7XaCtbPusD9K) | 4:29 | 2025-04-30 |  |
 | [Lady Brown \(feat\. Cise Starr from CYNE\)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr](https://open.spotify.com/artist/2Xavhsn8y9Yrr7N08OxvKF) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:19 | 2025-01-04 |  |
 | [Lady Of Namek](https://open.spotify.com/track/6ieWL5CLN9WdC875guWtMe) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:13 | 2025-01-15 |  |

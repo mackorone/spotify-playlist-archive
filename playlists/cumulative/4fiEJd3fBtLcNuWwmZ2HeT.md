@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-337 songs - 19 hr 13 min
+341 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-09-22 |  |
 | [Black Sheep](https://open.spotify.com/track/76fIkBJQtCdBFcfyNpWPWD) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:06 | 2023-09-11 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-11 |  |
+| [BRAIN](https://open.spotify.com/track/1JPXGllBrloh5PnNa8D62g) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [BRAIN](https://open.spotify.com/album/72lhPYIoZ9BeHimm6jDs15) | 2:36 | 2025-08-31 |  |
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2022-08-18 |  |
 | [Burn My Dread \-Reload\-](https://open.spotify.com/track/1NG7bEQxL6ZfRuqHb1DFm8) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:40 | 2024-04-26 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2022-08-02 |  |
@@ -49,6 +50,7 @@
 | [Dance of Life](https://open.spotify.com/track/2ECoDhG6Xe9aQ4TuwE22yW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Dance of Life](https://open.spotify.com/album/5h94Q9larv6crjfGZlWo4B) | 3:47 | 2024-08-08 |  |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-09-12 |  |
 | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/track/1muALek1dLnnpVzZzDEHfC) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DEAD END in My Brain \(unknown Vo:10fu\)](https://open.spotify.com/album/4ntvDwQXImuuKGwFp182Mi) | 3:13 | 2023-08-21 |  |
+| [Dec.](https://open.spotify.com/track/7iYrP7trNTMlH9fbRAnexx) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Dec.](https://open.spotify.com/album/2Ym8AuIyzuVjSgxq81gIvp) | 2:12 | 2025-08-31 |  |
 | [Deep Breath Deep Breath \-Reload\-](https://open.spotify.com/track/44U2jUczRzLNme3lweF2Rs) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 2:55 | 2024-06-20 |  |
 | [Delusion](https://open.spotify.com/track/09jUEiCTmG8Ec4zDmmFjV4) | [Andora](https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi), [juu](https://open.spotify.com/artist/6YDsIjHPnVrYoZRbqlbxAw) | [Delusion](https://open.spotify.com/album/4hHSg9VVMEIyXVH5WUJA47) | 3:18 | 2023-02-02 |  |
 | [Destruction](https://open.spotify.com/track/486OJ5rXesJKnMb21D8P44) | [Megurimeguru](https://open.spotify.com/artist/5z8DugoSIrKIjVw0i8DTFk) | [Destruction](https://open.spotify.com/album/1YWkFs5TxO3dxv5tWuBPcx) | 2:50 | 2025-02-17 |  |
@@ -161,6 +163,7 @@
 | [RECEPTION](https://open.spotify.com/track/60rHc8aSo4wFQ0X6W4h50Q) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 2:43 | 2024-03-11 |  |
 | [Reflections on Existence](https://open.spotify.com/track/0WxOZ8ArjHaB5unslWtdfN) | [HoshiTakuto](https://open.spotify.com/artist/6ysfmdaAdc2ob5A4o5L2Gh) | [Reflections on Existence](https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn) | 3:36 | 2025-04-01 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-10-07 |  |
+| [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 | 2025-08-31 |  |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2021-08-26 |  |
 | [Rose Bud \- I.into the sorrow\-](https://open.spotify.com/track/4QxOlvV3Ruknxk79I7ICWQ) | [Eternal Melody](https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B) | [ALUCARD](https://open.spotify.com/album/6o2LIz8u5xzKTcKbek1NbG) | 5:26 | 2024-06-08 |  |
 | [Rose Bud \- II.into the fear of desire\-](https://open.spotify.com/track/3agtdTPUPdTSkZel6TmwYO) | [Eternal Melody](https://open.spotify.com/artist/5ulQKViMBrchooNvekS86B) | [ALUCARD](https://open.spotify.com/album/6o2LIz8u5xzKTcKbek1NbG) | 6:51 | 2024-06-08 |  |
@@ -200,6 +203,7 @@
 | [Wild Side \(From "Beastars"\)](https://open.spotify.com/track/2OppMWpVJYpd7aRFabrknT) | [MrLopez2112](https://open.spotify.com/artist/4r0pewWwxxqoq4KVrj897v) | [Wild Side \(From "Beastars"\)](https://open.spotify.com/album/7Fb3tJESZBCCA7bBWU2YQ1) | 2:43 | 2021-07-06 |  |
 | [Wine Red Night](https://open.spotify.com/track/5ODlBOueVnoq2WXbPFV85G) | [Vivanz Eden](https://open.spotify.com/artist/0NbuSxqoBPVOSn5dm7cM3I) | [Wine Red Night](https://open.spotify.com/album/30Eg5Z9eLHIVpQ2FySN9DU) | 2:56 | 2025-07-07 |  |
 | [witch trial](https://open.spotify.com/track/5v9f1ZftJVVWV6Hg2FwYov) | [Len](https://open.spotify.com/artist/6oMfS8fHX0CyDwRptywVjr), [否](https://open.spotify.com/artist/57Rl65o9Q40FfEWqgc05tx) | [witch trial](https://open.spotify.com/album/5F8hbFbQ6gLDkhwYaoGI4t) | 2:36 | 2025-07-07 |  |
+| [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2025-08-31 |  |
 | [You will never forget me](https://open.spotify.com/track/452ASKVqm4i7fvHevyBgF3) | [Awa Dobuno](https://open.spotify.com/artist/4s9gPwB69I2H9rEwKgrWoZ) | [You will never forget me](https://open.spotify.com/album/7L8TFycwRIW9yGYsiC065k) | 3:54 | 2024-06-08 |  |
 | [You're Not Special](https://open.spotify.com/track/2assykTcw0YvTyZD7XSGMd) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [JIGOKU 6](https://open.spotify.com/album/60EiDxjoQ7L059GbEOeQEs) | 3:29 | 2023-08-27 |  |
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2022-03-16 |  |

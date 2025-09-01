@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Leonardo Aguilar",
-  "num_followers": 365941,
+  "num_followers": 365948,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,18 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "Nuestro Camino",
-        "url": "https://open.spotify.com/album/4mDn0pCJ5eepwk8zJ218ov"
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 205500,
-      "name": "Nuestro Camino",
-      "url": "https://open.spotify.com/track/75ABFQC2lxBmgQ5kqE0Q0u"
+      "duration_ms": 194452,
+      "name": "Te Presento A Mi Amante",
+      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+        "name": "Nuestro Camino",
+        "url": "https://open.spotify.com/album/4mDn0pCJ5eepwk8zJ218ov"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 194452,
-      "name": "Te Presento A Mi Amante",
-      "url": "https://open.spotify.com/track/4qMZpEnZDoRfgmSklKFGjh"
+      "duration_ms": 205500,
+      "name": "Nuestro Camino",
+      "url": "https://open.spotify.com/track/75ABFQC2lxBmgQ5kqE0Q0u"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
         "name": "Una Llamada Perdida",
         "url": "https://open.spotify.com/album/7lm4FQqOoRuTkDoSmLHKa7"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 199413,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/50wcP2Qy153SJ3pP3ZTL9G"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
+        "name": "La Jugada",
+        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "La Jugada",
+      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -1259,28 +1279,8 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "La Jugada",
-        "url": "https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "La Jugada",
-      "url": "https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "added_at": "2025-07-25 06:07:02",

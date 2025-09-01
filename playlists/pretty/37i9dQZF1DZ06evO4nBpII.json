@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1124637,
+  "num_followers": 1124835,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAAvzoMKWaGngfm8szCXn0kp",
+  "snapshot_id": "aLI/AAAAAAD+EzQ8aQ7YJF+H5mhapCpd",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 326200,
-      "name": "Give Me Novacaine / She's a Rebel",
-      "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
+      "duration_ms": 175411,
+      "name": "St. Jimmy",
+      "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 175411,
-      "name": "St. Jimmy",
-      "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
+      "duration_ms": 326200,
+      "name": "Give Me Novacaine / She's a Rebel",
+      "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
     },
     {
       "added_at": null,

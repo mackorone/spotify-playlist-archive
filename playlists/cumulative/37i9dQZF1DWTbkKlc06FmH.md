@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,087 songs - 2 day 16 hr 2 min
+1,088 songs - 2 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,7 +774,7 @@
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-04-03 |
 | [Soft](https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Soft](https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB) | 5:18 | 2024-06-04 | 2024-07-31 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2024-07-18 |
-| [SOMEWHERE NEW](https://open.spotify.com/track/5P8PacMc8YVHo5P2fODnuL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SOMEWHERE NEW / WHAT NOW](https://open.spotify.com/album/0R3aQGOUkFvyxvn2X5cpxt) | 2:14 | 2025-08-06 |  |
+| [SOMEWHERE NEW](https://open.spotify.com/track/5P8PacMc8YVHo5P2fODnuL) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SOMEWHERE NEW / WHAT NOW](https://open.spotify.com/album/0R3aQGOUkFvyxvn2X5cpxt) | 2:14 | 2025-08-06 | 2025-09-01 |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-06-11 | 2025-06-18 |
 | [Soul Assassin \(feat\. BSC, MUD, DIAN & DONY JOINT\)](https://open.spotify.com/track/0jhM9IFLxDWqef69Dv2zxW) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [BSC](https://open.spotify.com/artist/6gb39K86ctQFpICp7ps9hn), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [DIAN](https://open.spotify.com/artist/6vsnsFUQWlelvGpD5PTfDo), [DONY JOINT](https://open.spotify.com/artist/3zBimOdEMH8zaDJY2QkniH) | [LAST ALBUM](https://open.spotify.com/album/7v1KuejMMyXdjw1GvPsG6v) | 2:33 | 2022-11-29 | 2022-12-07 |
 | [Soulmate](https://open.spotify.com/track/5iM1lc08cKINUynvV6ZWwT) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Soulmate](https://open.spotify.com/album/7EkMGNWlOyUPlSfDSKybRQ) | 3:11 | 2023-02-16 | 2023-02-24 |
@@ -919,6 +919,7 @@
 | [Venus Flytrap feat\. 佐藤千亜妃](https://open.spotify.com/track/7KRfQEpO97OMMD4Edc1YTw) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Venus Flytrap feat\. 佐藤千亜妃](https://open.spotify.com/album/3mbtkBajQNmdtmKi6pnANY) | 3:45 | 2023-02-14 | 2023-02-16 |
 | [Vibe Check \(My Kinda Party\)](https://open.spotify.com/track/5odk2WvoNDMiUFEDyIShrX) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Vibe Check \(My Kinda Party\)](https://open.spotify.com/album/6u0txa9oaFZBH5rfYzVx1O) | 2:56 | 2023-08-17 | 2023-09-27 |
 | [VIVID](https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [VIVID](https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5) | 3:13 | 2022-11-17 | 2023-02-27 |
+| [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-29 |  |
 | [Waited All Night](https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night](https://open.spotify.com/album/0pCKkt2fkUpUNuDuV45ei8) | 3:28 | 2024-09-25 | 2025-01-22 |
 | [Walk Away](https://open.spotify.com/track/6JQdSgIGB0hL7nwu1HrWCu) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt) | [Walk Away](https://open.spotify.com/album/5ybGGkPWigSINxSqXRulmq) | 3:02 | 2024-02-29 | 2024-03-27 |
 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV) | 3:47 | 2024-06-12 | 2024-07-25 |

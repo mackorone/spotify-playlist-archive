@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-800 songs - 2 day 3 hr 52 min
+803 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [KISS OF DEATH\(Produced by HYDE\)](https://open.spotify.com/track/5KAI6nfg3wQRmtwJ0PPaEW) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [雪の華15周年記念ベスト盤 BIBLE](https://open.spotify.com/album/6BaJvcf33DHd916Fo0fxuO) | 4:10 | 2022-07-28 | 2022-10-19 |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-07-28 | 2022-10-19 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-09-15 | 2022-10-19 |
-| [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 | 2025-08-07 |  |
+| [KONTINUUM](https://open.spotify.com/track/0gi4lrKLnvQuMx384HUBkp) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [KONTINUUM](https://open.spotify.com/album/6ntwbzl7KGgAipdM8CJIah) | 3:10 | 2025-08-07 | 2025-09-01 |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2022-07-28 | 2024-04-19 |
 | [LEADER](https://open.spotify.com/track/7aL1ICSO4JYdRzQcxQ96lz) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [LEADER](https://open.spotify.com/album/25OW9AC6DkJlE2fD6uTLyn) | 4:05 | 2022-06-03 | 2022-07-11 |
 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 | 2023-05-12 | 2024-01-10 |
@@ -317,7 +317,7 @@
 | [RUNAWAY](https://open.spotify.com/track/3A6IVD2ONUmlRqjol8uDt3) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:01 | 2022-06-14 | 2022-07-27 |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-06-03 | 2022-06-22 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-10-08 | 2023-11-10 |
-| [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2025-01-14 |  |
+| [Same Blue](https://open.spotify.com/track/2cupzYHOSLmMqDHRVQfI9j) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT) | 3:57 | 2025-01-14 | 2025-09-01 |
 | [See The Light](https://open.spotify.com/track/6lEmBW6LNglffHhnbkosMs) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Switch/PS4『ゆるキャン△ Have a nice day!』OP&ED](https://open.spotify.com/album/3eXDglDIgEA8D7Wxem6WW0) | 3:49 | 2022-07-07 | 2022-07-10 |
 | [selfish](https://open.spotify.com/track/0PjnMsqLESCjo6RLd5qLgo) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」エンディングテーマ「selfish」](https://open.spotify.com/album/5Qgz3sULal1qqcknzY8sIa) | 3:52 | 2022-07-14 | 2022-07-26 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-14 | 2022-07-29 |
@@ -361,7 +361,9 @@
 | [Take mo’ Chance](https://open.spotify.com/track/4H3wFEqxpE5uVLhMV5A50J) | [all at once](https://open.spotify.com/artist/48BElNPYehUg03qOO3puCo) | [12cm](https://open.spotify.com/album/1lVQTgTzXhekspBfvlXM5I) | 3:52 | 2022-06-03 | 2022-07-05 |
 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 | 2022-07-28 | 2022-10-19 |
 | [Tell me](https://open.spotify.com/track/0Q5iAvLaf5gPOXBdwn2xTI) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Tell me](https://open.spotify.com/album/69PUaIre9obNtcnh1uM4YS) | 3:43 | 2022-06-03 | 2022-07-24 |
+| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-09-01 |  |
 | [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-03 | 2022-07-29 |
+| [THE DAY](https://open.spotify.com/track/3wWPWoE2b7enVy5SIqMqm9) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [BUTTERFLY EFFECT](https://open.spotify.com/album/1iDYx5sNkNoJwgGXEGcfSy) | 4:01 | 2025-09-01 |  |
 | [The Key](https://open.spotify.com/track/12WfbUv9lv5HtyUdXqb7WH) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [The Key](https://open.spotify.com/album/3XtRdazuS41tWAOM6XaANG) | 2:41 | 2022-07-05 | 2022-07-15 |
 | [The Reluctant Heroes <MODv>](https://open.spotify.com/track/6AfO0mvPTVMaPgS7nbRQ3A) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [劇場版「進撃の巨人」前編\~紅蓮の弓矢\~エンディングテーマ YAMANAIAME produced by 澤野弘之](https://open.spotify.com/album/3bsEgUitzaD5yyAnXG9TFQ) | 4:30 | 2022-06-24 | 2022-06-30 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-06-03 | 2022-07-29 |
@@ -506,7 +508,7 @@
 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 | 2025-07-14 |  |
 | [ケアレス](https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 4:14 | 2022-06-21 | 2022-07-24 |
 | [ゲゲゲの鬼太郎](https://open.spotify.com/track/1V4OSucPmjnYJdiWuR1LFJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ゲゲゲの鬼太郎](https://open.spotify.com/album/2NaAcAcXjGRMpeKrWj99Bw) | 2:14 | 2025-07-08 | 2025-07-14 |
-| [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-18 |  |
+| [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-18 | 2025-09-01 |
 | [ココロオドル \-original version\-](https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル \-original version\- / Hero's Come Back!! BESTタッグ](https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR) | 4:13 | 2022-07-07 | 2022-07-09 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-07-14 | 2022-07-16 |
 | [サクラミツツキ](https://open.spotify.com/track/2M0eegWyJdvE3tUTWe8mFL) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/6OkpOEghbWWOSzbCvbWIBL) | 3:37 | 2022-06-03 | 2022-07-28 |
@@ -631,6 +633,7 @@
 | [嘘じゃない](https://open.spotify.com/track/47Old3TEOc2v4eOOv5pA6H) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [嘘じゃない \-Special Edition\-](https://open.spotify.com/album/1HGI3Yom7WAIwFJQMS65OV) | 4:19 | 2022-06-03 | 2022-07-24 |
 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2022-06-03 | 2025-04-09 |
 | [回夏](https://open.spotify.com/track/5IW6VmYrOkkn7o6L49AEUD) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [回夏](https://open.spotify.com/album/76zhJ0X2tZPg36SYK9XHgI) | 3:34 | 2022-06-14 | 2022-07-29 |
+| [図鑑](https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [図鑑](https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY) | 4:01 | 2025-09-01 |  |
 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2022-10-19 |  |
 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 | 2022-06-03 | 2022-07-29 |
 | [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-03 | 2022-07-29 |

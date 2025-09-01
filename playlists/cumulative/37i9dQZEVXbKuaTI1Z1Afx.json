@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 196015,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
@@ -9420,7 +9420,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
@@ -37712,7 +37712,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -76664,6 +76664,24 @@
       "duration_ms": 391200,
       "name": "Troy",
       "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
+    },
+    {
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229009,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/15UoIdoq9SfBwxRd8KG9lw"
     },
     {
       "album": {

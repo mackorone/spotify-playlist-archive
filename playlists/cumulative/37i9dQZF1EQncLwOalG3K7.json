@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZPKihjjaCMa>girl in red</a>, <a href=spotify:playlist:37i9dQZF1EIVLbpj75CoUt>Franco De Vita</a>, <a href=spotify:playlist:37i9dQZF1EIYA2o4J61SfG>Marcus & Martinus</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXcjxW0lsiXB>Britney Spears</a>, <a href=spotify:playlist:37i9dQZF1EIYtK4OGstKQA>Adam Hicks</a>, <a href=spotify:playlist:37i9dQZF1EIWhaLHqoJ8bB>Cazzu</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
@@ -858,10 +858,40 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 232253,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
+    },
+    {
+      "album": {
+        "name": "Lemonade Mouth",
+        "url": "https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Hicks",
+          "url": "https://open.spotify.com/artist/3dctbbXhrRgigX1icexnws"
+        },
+        {
+          "name": "Bridgit Mendler",
+          "url": "https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb"
+        },
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Determinate - From \"Lemonade Mouth\"",
+      "url": "https://open.spotify.com/track/4qEoqyPbLYnLOii6mKlIjI"
     },
     {
       "album": {
@@ -1054,7 +1084,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 200026,
       "name": "Elektrisk",
       "url": "https://open.spotify.com/track/2q83iIfEGIk8kyrdT4uYOG"
@@ -2445,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Overprotected - Radio Edit",
+      "url": "https://open.spotify.com/track/5p0KCAuu5nrHpTuAIhHdLw"
+    },
+    {
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
       },
@@ -3244,7 +3292,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 227200,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3"
@@ -3298,7 +3346,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -3334,7 +3382,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 242253,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
@@ -3860,7 +3908,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
@@ -3900,6 +3948,24 @@
       "duration_ms": 241001,
       "name": "\u00c2\u015f\u0131k",
       "url": "https://open.spotify.com/track/3cmdwp2DrD7FnfW2wleT6M"
+    },
+    {
+      "album": {
+        "name": "Latinaje",
+        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173889,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1gmFHuhCkXY1jGmscYdvIJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 565426,
+  "num_followers": 565451,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAA5hshpbSLCvRl7dMT5JaA+",
+  "snapshot_id": "aLI/AAAAAACy2YBbzZmOnjYXipxqukvH",
   "tracks": [
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/2pjZO2uC4uOLBaEoSXhPO3"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5tLIQPZ6EzdsvJDuUiJrvK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 176809,
       "name": "30 D\u00cdAS",
       "url": "https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/2pjZO2uC4uOLBaEoSXhPO3"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5tLIQPZ6EzdsvJDuUiJrvK"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRISTIAN",
-        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "GTO",
-      "url": "https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6"
     },
     {
       "added_at": null,
@@ -943,6 +923,26 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "GTO",
+      "url": "https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6"
     },
     {
       "added_at": null,
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
+      "duration_ms": 193246,
+      "name": "Hambre",
+      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
     },
     {
       "added_at": null,
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 193246,
-      "name": "Hambre",
-      "url": "https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7"
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": null,

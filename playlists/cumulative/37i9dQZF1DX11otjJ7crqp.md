@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Iris Caltwait
 
-9,302 songs - 19 day 8 hr 41 min
+9,303 songs - 19 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5282,6 +5282,7 @@
 | [Make It Better](https://open.spotify.com/track/3r1OdtQItTfevhFgq5poAA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Make It Better](https://open.spotify.com/album/19CEHgRVWSXPge6PVN9t4L) | 3:36 | 2024-10-11 | 2024-10-19 |
 | [MAKE IT OUT ALIVE](https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MAKE IT OUT ALIVE](https://open.spotify.com/album/3SJS6rambcg00ibSTn6iUw) | 2:51 | 2025-03-21 | 2025-03-29 |
 | [Make It Right](https://open.spotify.com/track/1ZOJTWzIo70uY4WOpcTrds) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Make It Right](https://open.spotify.com/album/2NXGp4A6BI26ECtQpwE4Jx) | 2:21 | 2025-07-11 | 2025-07-26 |
+| [Make Me Cry](https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Make Me Cry](https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3) | 2:54 | 2025-08-31 |  |
 | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/track/2iv9L7pBxfuGIRbJx7ip1D) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Deadbeat Girl](https://open.spotify.com/artist/6V267iCF72e4eP1L3ZkKQt) | [Make Me Cry \(feat\. Deadbeat Girl\)](https://open.spotify.com/album/2DiEV6hfnGqeCud4kf5gyK) | 3:30 | 2023-08-04 | 2023-08-19 |
 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-14 | 2025-03-22 |
 | [Make Me Happy](https://open.spotify.com/track/06rokyLY51kXV9BCso5fKv) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg) | [Make Me Happy](https://open.spotify.com/album/7zAol7d2kp219UgalyETEG) | 3:16 | 2024-10-04 | 2024-10-12 |
@@ -7474,7 +7475,7 @@
 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 | 2022-08-12 | 2022-08-27 |
 | [spaceship](https://open.spotify.com/track/03aOAaUrVIZnNxWGolrqpr) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [spaceship](https://open.spotify.com/album/6LqP9mD7mxlUsjQvbBoHVr) | 2:34 | 2022-02-04 | 2022-02-12 |
 | [Spam Calls](https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Spam Calls](https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh) | 2:59 | 2023-01-27 | 2023-02-11 |
-| [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 | 2025-08-22 |  |
+| [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 | 2025-08-22 | 2025-09-01 |
 | [Sparkle](https://open.spotify.com/track/601a0ZcnViKhwORpkT8RKp) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Sparkle](https://open.spotify.com/album/2GVtX4lv8aj7Yj3rKBwPQo) | 2:10 | 2023-07-14 | 2023-07-29 |
 | [Speak Up](https://open.spotify.com/track/5YZGn9s5e6YMXbcgks2nOZ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Speak Up](https://open.spotify.com/album/5k6MkIqPglsnDjDdx6m9H3) | 3:07 | 2023-08-11 | 2023-08-26 |
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-15 | 2022-05-07 |

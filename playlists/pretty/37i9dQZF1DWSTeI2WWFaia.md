@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,635 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,600 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 40 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
 | 41 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 42 | [Summer '25](https://open.spotify.com/track/75YrOesTP7LR2NxNrKDH7h) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Summer '25](https://open.spotify.com/album/4Z5Q79bhK7ViROrUyrhZgk) | 2:19 |
-| 43 | [Bear Hill](https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 2:24 |
-| 44 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
-| 45 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
-| 46 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
-| 47 | [Glory Hole](https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [The Coldest Profession](https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP) | 2:37 |
-| 48 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
-| 49 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
-| 50 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
+| 43 | [BK'S FINEST \(feat\. Rome Streetz, Kai Ca$h & CJ Fly\)](https://open.spotify.com/track/0BwvLKnnzUr7ymJPMzDoWs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 4:34 |
+| 44 | [Bear Hill](https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 2:24 |
+| 45 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
+| 46 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 |
+| 47 | [EINSTEIN KITCHEN](https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES](https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3) | 1:22 |
+| 48 | [Glory Hole](https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [The Coldest Profession](https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP) | 2:37 |
+| 49 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
+| 50 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 
 Snapshot ID: `AAAAALBgmdjIMgd+9jUSI4E9IW55ooF6`

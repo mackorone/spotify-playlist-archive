@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,118 songs - 2 day 20 hr 44 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,119 songs - 2 day 20 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1126,5 +1126,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1116 | [One Step Program](https://open.spotify.com/track/5SmHQ7l8P2fHRgyzkrTCwK) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 1:31 |
 | 1117 | [Lifespan](https://open.spotify.com/track/5fqUPNZKO1BUhxBN0H61Lx) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 2:03 |
 | 1118 | [Who I Am](https://open.spotify.com/track/65wAjSRDVNf3xtZYiZx7HY) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 1:31 |
+| 1119 | [Lucy](https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Lucy](https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU) | 2:22 |
 
-Snapshot ID: `AAAJUp2UXnZ7cF7KGX9KnuGI3Adp2neP`
+Snapshot ID: `AAAJUxMoco6VBoMaWrRhBaGXumTh4K4G`

@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-499 songs - 2 day 1 hr 59 min
+500 songs - 2 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Naja](https://open.spotify.com/track/0fOasAOL9nKlRuyVD6iufG) | [Pawas](https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Naja](https://open.spotify.com/album/0LVxelKIxsFxQVhUf2co0n) | 9:02 | 2019-08-02\* | 2021-01-16 |
 | [Najura](https://open.spotify.com/track/0tqRKO3AOyESSp5RaZlj0d) | [Seth Schwarz](https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr) | [Melodies From The Dust EP](https://open.spotify.com/album/2MHoj0JYT9N4MbY7HLCFi5) | 7:30 | 2019-09-20 | 2020-03-29 |
 | [Napauken Feat\. Fruiterama](https://open.spotify.com/track/4CJtnJh0NhpDyBpCvh0Mff) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Fruiterama](https://open.spotify.com/artist/3kcNoqtw8cpeiZ5AjrSCZj) | [Zehna](https://open.spotify.com/album/4gWQQaN6oKa8D94c61sH01) | 6:13 | 2019-08-02\* | 2021-06-03 |
-| [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 | 2022-11-25 |  |
+| [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 | 2022-11-25 | 2025-09-01 |
 | [Neunivai \- Original Mix](https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2) | 4:21 | 2021-06-05 | 2022-04-26 |
 | [Next Stop Konstantinopel \- Andhim Remix](https://open.spotify.com/track/1Eh8rkibeycdqbmas7NZzJ) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Next Stop Konstantinopel](https://open.spotify.com/album/3yqOBuPFuBYQQyUaoSMMEv) | 6:19 | 2020-06-29 | 2020-09-26 |
 | [Ngoma \- Drummers Mix](https://open.spotify.com/track/0Yg5Qwr9X8g7ks9a5LjNcD) | [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Ngoma](https://open.spotify.com/album/1vib9RdSDj9ZLE5BuIa9FE) | 8:36 | 2019-08-02\* | 2020-05-02 |
@@ -348,6 +348,7 @@
 | [Osè](https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [No Be Today](https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV) | 3:59 | 2024-07-05 | 2025-04-05 |
 | [Pandora](https://open.spotify.com/track/2kscYCgdy8FP8D92hgsVIy) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Pandora](https://open.spotify.com/album/74ulhSz1pv8TBMczTusgvv) | 5:55 | 2020-05-17 | 2022-04-21 |
 | [Pantarei](https://open.spotify.com/track/2zoJ31xwDphl9m6LHo2u64) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Pantarei](https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3) | 6:43 | 2023-03-25 | 2023-04-15 |
+| [Paradis](https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Dennis Louvra](https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC) | [Paradis](https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1) | 3:45 | 2025-08-22 |  |
 | [Paranoid](https://open.spotify.com/track/16iJwyXvOBMvQDejOcpada) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Amaare](https://open.spotify.com/artist/5JGK0bQg6tfuhzAq2uqweU) | [Paranoid](https://open.spotify.com/album/6gy0nXDWKjW3AuWfHmSaZB) | 7:29 | 2025-03-28 | 2025-05-03 |
 | [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 | 2022-01-21 | 2024-09-26 |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2023-11-14 | 2024-11-29 |

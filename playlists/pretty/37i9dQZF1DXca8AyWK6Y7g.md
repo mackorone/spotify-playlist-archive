@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > WHO'S MY SALLY TONIGHT?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,272 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,172 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 89 | [Sue me](https://open.spotify.com/track/6ah4mee54hPyycKICthl5B) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Sue me](https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq) | 2:50 |
 | 90 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 |
 
-Snapshot ID: `AAAAAICJ3s4xZFExEYq/YNOKeDugJfbK`
+Snapshot ID: `AAAAAMNflefJOPHcgqLhiAbA8c/RMYf7`

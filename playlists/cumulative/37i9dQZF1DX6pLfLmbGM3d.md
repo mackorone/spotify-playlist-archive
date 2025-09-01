@@ -4,7 +4,7 @@
 
 > Let's DIVE into IVE!
 
-72 songs - 3 hr 43 min
+78 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,11 +24,13 @@
 | [Cherish](https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:14 | 2023-04-10 | 2024-04-19 |
 | [Cherish](https://open.spotify.com/track/5EFoPlYE77qjYk1V9Tcau9) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:14 | 2023-10-13 |  |
 | [CRUSH](https://open.spotify.com/track/6YotW58GnfhgGSX5zFFx3n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 3:29 | 2024-12-19 |  |
+| [Dear, My Feelings](https://open.spotify.com/track/1U9odXaCgEULNvYBXJBn43) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:13 | 2025-09-01 |  |
 | [Either Way](https://open.spotify.com/track/5c1EubDxHdulbausF5CpX5) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:46 | 2023-10-13 |  |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2023-09-25 |  |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2023-04-10 |  |
 | [ELEVEN \-Japanese version\-](https://open.spotify.com/track/3bXYYgpCaYZBud2fB3I4ex) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 3:00 | 2023-04-10 |  |
 | [FLU](https://open.spotify.com/track/2mXHElFPmrKhAnoyWT5yDo) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:09 | 2025-02-03 |  |
+| [GOTCHA \(Baddest Eros\)](https://open.spotify.com/track/2Y7IdLEr2vSFN3Fc1BBjwQ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:31 | 2025-09-01 |  |
 | [Heroine](https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:51 | 2023-04-10 | 2024-04-19 |
 | [Heroine](https://open.spotify.com/track/181TBQxn46cDUxY2ssemLg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 2:51 | 2023-10-13 |  |
 | [Holy Moly](https://open.spotify.com/track/5q288Nbf39kqh2HtI2H2op) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:56 | 2023-10-13 |  |
@@ -46,6 +48,7 @@
 | [Lips](https://open.spotify.com/track/4BhGSAx2NTc7Ciw8AutWWM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:01 | 2023-10-13 |  |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2023-04-10 |  |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-04-10 |  |
+| [Midnight Kiss](https://open.spotify.com/track/3GX5tB0kmvz4CT5lsBVnk6) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 3:44 | 2025-09-01 |  |
 | [Mine](https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:10 | 2023-04-10 | 2024-04-19 |
 | [Mine](https://open.spotify.com/track/7xcVfRQTIwTQrDJN29llIx) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4) | 3:10 | 2023-10-13 |  |
 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 | 2023-04-10 |  |
@@ -72,12 +75,15 @@
 | [Thank U](https://open.spotify.com/track/2pBir4lzhZVCfppEMjJ08h) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:11 | 2025-02-03 |  |
 | [TKO](https://open.spotify.com/track/12eAOUNDpXxQhhwxpnlnZ3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 3:06 | 2025-02-03 |  |
 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 | 2023-05-11 |  |
+| [Wild Bird](https://open.spotify.com/track/1RdkAEmdbfPdvmAcGpqiYz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:43 | 2025-09-01 |  |
 | [Will](https://open.spotify.com/track/2jzBo3EtrZJeiQbsHJldNf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ALIVE](https://open.spotify.com/album/46uFocwb9yPpQyi7f431Sf) | 3:11 | 2024-12-19 |  |
 | [Will](https://open.spotify.com/track/27ld38UdmopEXofm96uAqt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will](https://open.spotify.com/album/5hr8FCRbxJYqhFVFP0I1wU) | 3:11 | 2024-04-26 |  |
 | [Will \-Korean version\-](https://open.spotify.com/track/5bFmrudRoxSGLVLH9ZEkKW) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will \-Korean version\-](https://open.spotify.com/album/4Pl0T6jHMRaGMamkg14mVZ) | 3:11 | 2024-12-19 |  |
 | [WOW](https://open.spotify.com/track/19rjGep5T6DeFqfzn0bPgM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 2:58 | 2024-04-29 |  |
+| [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-09-01 |  |
 | [You Wanna Cry](https://open.spotify.com/track/79PiWP2391W8NtEZMSRdHq) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/4k6MXh1GhcQEaw87YDyteH) | 2:54 | 2025-02-03 |  |
 | [궁금해 \(Next Page\)](https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:19 | 2023-04-10 | 2024-04-19 |
+| [삐빅 \(♥beats\)](https://open.spotify.com/track/4AFKzeKojgWujD7gEUmWCd) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:30 | 2025-09-01 |  |
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2023-04-10 | 2024-04-19 |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-29 |  |
 

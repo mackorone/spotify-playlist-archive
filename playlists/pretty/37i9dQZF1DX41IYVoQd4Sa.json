@@ -475,26 +475,6 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz"
-      },
-      "artists": [
-        {
-          "name": "Moscoman",
-          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
-        },
-        {
-          "name": "Tom Sanders",
-          "url": "https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "In Stereo",
-      "url": "https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7"
-    },
-    {
-      "added_at": "2025-08-28 21:00:36",
-      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 189047,
       "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW"
+    },
+    {
+      "added_at": "2025-08-28 21:00:36",
+      "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "Tom Sanders",
+          "url": "https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "In Stereo",
+      "url": "https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7"
     },
     {
       "added_at": "2025-08-28 21:00:36",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
+      },
+      "artists": [
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
+    },
+    {
+      "added_at": "2025-08-28 21:00:36",
+      "album": {
         "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 208706,
       "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
-    },
-    {
-      "added_at": "2025-08-28 21:00:36",
-      "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
-      },
-      "artists": [
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     },
     {
       "added_at": "2025-08-28 21:00:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-08-28 21:00:36",
+      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
-    },
-    {
-      "added_at": "2025-08-28 21:00:36",
-      "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2025-08-28 21:00:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,714 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,718 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 31 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
 | 32 | [Without Love](https://open.spotify.com/track/3BtUrhZJCneCzhxFarnd4N) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Without Love](https://open.spotify.com/album/0wD5bHfu88mLVIRBJRq7ly) | 3:28 |
 | 33 | [Rich](https://open.spotify.com/track/7AW0IE4g25VZwzi6FbJ93O) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Rich](https://open.spotify.com/album/5BcnWrFlAMw6xKQTcZsYLd) | 2:17 |
-| 34 | [First Love](https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [First Love](https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi) | 2:55 |
-| 35 | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/track/2ExOEgZzYA0EULVB8ORnUv) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/album/0u5tMnp65M9EvT3SJ1sUTq) | 4:34 |
+| 34 | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/track/2ExOEgZzYA0EULVB8ORnUv) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [NOTHING NEW \(I DO\) \- Wedding Version](https://open.spotify.com/album/0u5tMnp65M9EvT3SJ1sUTq) | 4:34 |
+| 35 | [First Love](https://open.spotify.com/track/06AAsD9gLcedyXipo6IROq) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [First Love](https://open.spotify.com/album/6yMRfivaE9J89s9gvS4Mfi) | 2:55 |
 | 36 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 |
 | 37 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
 | 38 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 83 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 84 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 | 85 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 |
-| 86 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 86 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
 | 87 | [Only Time Will Tell](https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Only Time Will Tell](https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG) | 3:18 |
-| 88 | [Lemonade](https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What a Heart Is Beating For](https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU) | 3:03 |
-| 89 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
-| 90 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
+| 88 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 89 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
+| 90 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
 | 91 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 92 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
 | 93 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |

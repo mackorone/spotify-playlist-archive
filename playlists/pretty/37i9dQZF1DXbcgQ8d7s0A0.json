@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1369824,
+  "num_followers": 1370057,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The Clarke/Duke Project",
-        "url": "https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI"
-      },
-      "artists": [
-        {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
-        },
-        {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
-        }
-      ],
-      "duration_ms": 227200,
-      "name": "Sweet Baby",
-      "url": "https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "The Very Best Of The Commodores",
         "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
       },
@@ -479,18 +459,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+        "name": "The Clarke/Duke Project",
+        "url": "https://open.spotify.com/album/0epO2c4fFaUPdcIdqIAtOI"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+        },
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+      "duration_ms": 227200,
+      "name": "Sweet Baby",
+      "url": "https://open.spotify.com/track/38705PDjZZVeWxfTRsTlJr"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -523,6 +507,22 @@
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2024-06-24 11:23:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 364853,
-      "name": "A Warm Summer Night",
-      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 364853,
+      "name": "A Warm Summer Night",
+      "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
     },
     {
       "added_at": "2024-06-24 11:23:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡TRAKAAA! Rolitas nuevas para combatir las lluvias con Luis R Conriquez y Anuel AA, brrrr 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,907 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045,110 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

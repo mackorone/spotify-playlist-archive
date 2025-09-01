@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 7 min
+90 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 | 2023-08-20 |
 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 |  |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 | 2025-03-22 |
+| [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 | 2025-09-01 |  |
 | [Free KayMuni](https://open.spotify.com/track/72ndmYCKcUm9jpqDXCyHmC) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5), [KB](https://open.spotify.com/artist/6jpQmGxDnk55k0i61iKN3a) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 2:56 | 2024-02-25 | 2024-02-29 |
 | [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 | 2024-02-18 | 2024-08-03 |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 | 2024-01-21 |
@@ -63,7 +64,7 @@
 | [Man up Anthem](https://open.spotify.com/track/4HSyxvkoA2MKKVh13ruWLI) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Man Up](https://open.spotify.com/album/6fSKi6TfeqQazb9QlpfRUy) | 3:27 | 2023-03-17 | 2023-08-20 |
 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 | 2023-08-19 |  |
 | [Monster](https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 3:17 | 2023-03-17 | 2025-07-21 |
-| [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr) | 3:53 | 2025-07-28 |  |
+| [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr) | 3:53 | 2025-07-28 | 2025-09-01 |
 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 | 2023-03-17 |  |
 | [Not Today Satan](https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:06 | 2023-03-17 |  |
 | [Now They Know](https://open.spotify.com/track/1wfY6AQT8zIY9CVyd8Iy79) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Now They Know](https://open.spotify.com/album/6lpJPDD0Z1nY8HtvPBjG2c) | 4:30 | 2023-03-17 | 2025-08-03 |

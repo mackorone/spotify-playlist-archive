@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 262375,
+  "num_followers": 262545,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 181826,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
+        "name": "Jazz Masters",
+        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 330693,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
-        "name": "Jazz Masters",
-        "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 473666,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 473666,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Blues In Trinity",
-        "url": "https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "I Had The Craziest Dream",
-      "url": "https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+        "name": "Blues In Trinity",
+        "url": "https://open.spotify.com/album/5LUiDFf6MTHLMtnNRHfrHy"
       },
       "artists": [
         {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
         }
       ],
-      "duration_ms": 271946,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
+      "duration_ms": 185840,
+      "name": "I Had The Craziest Dream",
+      "url": "https://open.spotify.com/track/61InMIqyvcBO4HGMaARf7O"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -791,6 +775,22 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/6zoe2w8ubQOTM7XFGU2tUE"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
         "name": "Makes It Happen",
         "url": "https://open.spotify.com/album/7uElhe7eCpY1w89SWtBcSr"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "Art",
         "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 333493,
       "name": "I'm A Fool To Want",
       "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -923,34 +923,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Settin' The Pace [RVG Edition]",
-        "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
-        }
-      ],
-      "duration_ms": 596706,
-      "name": "I See Your Face Before Me - RVG Remaster",
-      "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "The Complete RCA Victor Recordings",
         "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
@@ -975,6 +947,34 @@
       "duration_ms": 345333,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "Settin' The Pace [RVG Edition]",
+        "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 596706,
+      "name": "I See Your Face Before Me - RVG Remaster",
+      "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Plays For Bird (RVG Remaster)",
-        "url": "https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quintet",
-          "url": "https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "I've Grown Accustomed To Your Face - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 578960,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/1N3h6F9BjQRPzBn4YrGXRo"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "Plays For Bird (RVG Remaster)",
+        "url": "https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quintet",
+          "url": "https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO"
+        }
+      ],
+      "duration_ms": 291520,
+      "name": "I've Grown Accustomed To Your Face - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2Ss7eZJNHWyyLaCGdp6tac"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/79PzcQvhO8qJCNBA9KofG2"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Blues In The Night - Short Version",
-      "url": "https://open.spotify.com/track/0e2wEcl70Zk02JpVamOF4d"
-    },
-    {
-      "added_at": "2025-01-14 15:45:06",
-      "album": {
         "name": "Les Plus Grands Moments Du Jazz",
         "url": "https://open.spotify.com/album/1QtejTzzHfh76jf7w8Bjih"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 246760,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7my3KVDRhNAwYVYMpv1iib"
+    },
+    {
+      "added_at": "2025-01-14 15:45:06",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/79PzcQvhO8qJCNBA9KofG2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Blues In The Night - Short Version",
+      "url": "https://open.spotify.com/track/0e2wEcl70Zk02JpVamOF4d"
     },
     {
       "added_at": "2025-01-14 15:45:06",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2025-01-14 15:45:06",
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+        "name": "Gerry Mulligan Meets Ben Webster",
+        "url": "https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
           "name": "Gerry Mulligan",
           "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 346160,
-      "name": "Ballad",
-      "url": "https://open.spotify.com/track/0uLojEpJu5d0TFDz7FOPjm"
+      "duration_ms": 442506,
+      "name": "Chelsea Bridge",
+      "url": "https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB"
     }
   ],
   "unique_name": "Jazz Noir",

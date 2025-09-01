@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-552 songs - 1 day 8 hr 37 min
+553 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-08-26 |
 | [Astray \- Nicky Elisabeth Remix](https://open.spotify.com/track/6WcJUCMjHBXkP9vvPpQ0Oy) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n), [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Miracles \(Remixed\)](https://open.spotify.com/album/1AIxBTLNu8SaNa0BOylONe) | 3:44 | 2024-03-01 | 2024-03-30 |
 | [Back To Life](https://open.spotify.com/track/49gSNB9go1HdREQ9X2tAs4) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Connect](https://open.spotify.com/album/4VI4ooW0RGfpXLCaIODcXP) | 2:49 | 2024-11-22 | 2025-01-26 |
-| [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 | 2024-05-10 |  |
+| [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 | 2024-05-10 | 2025-09-01 |
 | [Be Someone](https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Dark Matter](https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN) | 3:24 | 2021-04-16 | 2024-08-17 |
 | [Beaches](https://open.spotify.com/track/51chgK66fLkr1TO3zRYt79) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Beaches](https://open.spotify.com/album/08gPFJoIssAEoQg8FejdQx) | 5:33 | 2021-08-14 | 2024-08-17 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-04-02 | 2024-07-06 |
@@ -97,6 +97,7 @@
 | [Cigarette](https://open.spotify.com/track/5xiiqiCNaFVAged8VtyEnM) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [Cigarette](https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f) | 3:30 | 2024-05-10 | 2024-08-17 |
 | [Close To You](https://open.spotify.com/track/4vpIn71jsD2X7Juzf0nWLe) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Close To You](https://open.spotify.com/album/1eYJ0RQFxvFdUJfMExvTnJ) | 2:52 | 2024-05-17 | 2024-06-18 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-08-27 | 2022-10-05 |
+| [Close Your Eyes \- VisionV Remix](https://open.spotify.com/track/1nOqnL9f1QbSrwCQILSYjI) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Close Your Eyes \(VisionV Remix\)](https://open.spotify.com/album/0L9MMuZywmc62z1U7ZyAih) | 2:29 | 2025-08-29 |  |
 | [Closer To You](https://open.spotify.com/track/76E3jFhT2wW6OkAEGAyM7H) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Closer To You](https://open.spotify.com/album/0NPe1L87hoya6YOC261JkI) | 4:53 | 2025-01-17 | 2025-03-03 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-17 |  |
 | [Clouds & Rain](https://open.spotify.com/track/2gfXFD8HYFEgPrqecE7unL) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [BUOY](https://open.spotify.com/artist/1wzMKD8Lb9UViWGjCQNkTx) | [Clouds & Rain](https://open.spotify.com/album/3oTdQjsKd05TgX2J3gP5xz) | 3:41 | 2025-06-06 | 2025-07-19 |

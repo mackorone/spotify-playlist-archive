@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 42747,
+  "num_followers": 42751,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Boom Boom Back",
-        "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
+        "name": "Rock en Espa\u00f1ol - Lo Mejor de Santa Sabina",
+        "url": "https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
         }
       ],
-      "duration_ms": 204469,
-      "name": "Boom Boom Back",
-      "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
+      "duration_ms": 256653,
+      "name": "Azul Casi Morado",
+      "url": "https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -191,18 +187,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Rock en Espa\u00f1ol - Lo Mejor de Santa Sabina",
-        "url": "https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH"
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
       },
       "artists": [
         {
-          "name": "Santa Sabina",
-          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 256653,
-      "name": "Azul Casi Morado",
-      "url": "https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV"
+      "duration_ms": 204469,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "No Te Perdono",
-        "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
-      },
-      "artists": [
-        {
-          "name": "MUGRE",
-          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
-        }
-      ],
-      "duration_ms": 203792,
-      "name": "No Te Perdono",
-      "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Viuda e Hijas de Roque Enroll",
         "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+        "name": "No Te Perdono",
+        "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
       },
       "artists": [
         {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
         }
       ],
-      "duration_ms": 291280,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
+      "duration_ms": 203792,
+      "name": "No Te Perdono",
+      "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -595,6 +579,22 @@
       "duration_ms": 171807,
       "name": "Anita",
       "url": "https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "duration_ms": 291280,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Such A Witch",
         "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 242186,
       "name": "Such A Witch",
       "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Por Mil Noches",
-        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
-      },
-      "artists": [
-        {
-          "name": "Maggie Sky",
-          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Maggie Sky",
+          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
         }
       ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+      "duration_ms": 283826,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -923,6 +907,22 @@
       "duration_ms": 244195,
       "name": "DOSMILUNO",
       "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "I Belong To You",
-        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 259659,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 319743,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 259659,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "El Ataque de Zorrita",
+        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
+      },
+      "artists": [
+        {
+          "name": "Venus",
+          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Est\u00e1s Borracho",
+      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 176528,
       "name": "Ego",
       "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "El Ataque de Zorrita",
-        "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
-      },
-      "artists": [
-        {
-          "name": "Venus",
-          "url": "https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Est\u00e1s Borracho",
-      "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Epica & Fant\u00e1stica",
         "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
@@ -1203,22 +1187,6 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Dulce Fuerte Grave",
-        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
-      },
-      "artists": [
-        {
-          "name": "Flopa",
-          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
-        }
-      ],
-      "duration_ms": 224119,
-      "name": "Vengas Conmigo",
-      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1239,6 +1207,38 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Dulce Fuerte Grave",
+        "url": "https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz"
+      },
+      "artists": [
+        {
+          "name": "Flopa",
+          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
+        }
+      ],
+      "duration_ms": 224119,
+      "name": "Vengas Conmigo",
+      "url": "https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "La G\u00e9nesis",
-        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "G\u00e9nesis",
-      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Hey",
         "url": "https://open.spotify.com/album/0OBfPwgHs21rpksGctLtzM"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 192888,
       "name": "Hey",
       "url": "https://open.spotify.com/track/58GQd1iu8VizO0lYM1pMs7"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "La G\u00e9nesis",
+        "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "G\u00e9nesis",
+      "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1511,6 +1511,42 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+      },
+      "artists": [
+        {
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Autodefensa",
         "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
       },
@@ -1539,22 +1575,6 @@
       "duration_ms": 241194,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1591,22 +1611,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "Batalla Naval",
+        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 203186,
+      "name": "Batalla Naval",
+      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1623,22 +1639,6 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "Batalla Naval",
-        "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
-      },
-      "artists": [
-        {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Batalla Naval",
-      "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
     }
   ],
   "unique_name": "Rockeras",

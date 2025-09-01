@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Martin Garrix &amp; Libby Whitehouse
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 265,021 likes - 231 songs - 12 hr 10 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 264,982 likes - 231 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

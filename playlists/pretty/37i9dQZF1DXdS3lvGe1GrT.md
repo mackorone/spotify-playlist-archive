@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Hannah Frances
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,539 likes - 142 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,551 likes - 142 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

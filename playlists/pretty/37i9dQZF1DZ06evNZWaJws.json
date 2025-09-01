@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 336785,
+  "num_followers": 336889,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABqZXp8uVAPJINXup2ZTb/l",
+  "snapshot_id": "aLI/AAAAAABocM0ZUbbiy++Jme6SUJ57",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Robaste El Corazon",
-        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 164426,
       "name": "Las Heladas",
       "url": "https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Robaste El Corazon",
+        "url": "https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 166253,
-      "name": "Clave Nueva",
-      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
+      "duration_ms": 178333,
+      "name": "La Pista Secreta",
+      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 178333,
-      "name": "La Pista Secreta",
-      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
+      "duration_ms": 166253,
+      "name": "Clave Nueva",
+      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
       "duration_ms": 196226,
       "name": "Panchito El F1",
       "url": "https://open.spotify.com/track/5oTOpSNp2FOLgjUeCGKjXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rigo Campos",
+        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 227275,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
     },
     {
       "added_at": null,
@@ -787,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 141871,
-      "name": "El Jefe X",
-      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Virus Del Amor",
         "url": "https://open.spotify.com/album/0zPdPmQSaEvZQt4PvllaJB"
       },
@@ -819,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 141871,
+      "name": "El Jefe X",
+      "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
         "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 173417,
       "name": "La Captura III",
       "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "El MZ",
-      "url": "https://open.spotify.com/track/3PBqV2WG8gGZbZJP3EbU8i"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

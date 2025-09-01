@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 724079,
+  "num_followers": 724268,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAAmJIBHSvQNwxPIOVzw/igw",
+  "snapshot_id": "aLI/AAAAAAAnG/O3tkFoAcKLM3NOBCoM",
   "tracks": [
     {
       "added_at": null,
@@ -243,30 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let God Sort Em Out",
-        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
+        "name": "Goblin",
+        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
       },
       "artists": [
-        {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 258030,
-      "name": "P.O.V.",
-      "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
+      "duration_ms": 253386,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
     },
     {
       "added_at": null,
@@ -323,22 +315,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goblin",
-        "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+        "name": "Let God Sort Em Out",
+        "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
       "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         }
       ],
-      "duration_ms": 253386,
-      "name": "She",
-      "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
+      "duration_ms": 258030,
+      "name": "P.O.V.",
+      "url": "https://open.spotify.com/track/0mwlZQjUxspUTpAzLwexw7"
     },
     {
       "added_at": null,

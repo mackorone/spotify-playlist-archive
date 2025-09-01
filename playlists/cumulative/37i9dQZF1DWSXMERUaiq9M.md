@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Funk Tribu
 
-558 songs - 1 day 10 hr 32 min
+559 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [So Lost](https://open.spotify.com/track/3d1pK4ShehtlaK3KqOsdsB) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [DJ Kirby](https://open.spotify.com/artist/5OaPThfnN888Dy4mpAEBcD) | [So Lost](https://open.spotify.com/album/46cduOYJ8bd1YURXtzDx8U) | 2:57 | 2024-08-01 | 2024-08-13 |
 | [Somebody Else](https://open.spotify.com/track/2plALALXZuxEAaTtKgY0v3) | [HRTS](https://open.spotify.com/artist/7hGFsaX8jTjQigQzzOPd9p) | [Somebody Else](https://open.spotify.com/album/4wcNaajYmHMRGDqMLApIR6) | 5:53 | 2024-08-26 | 2024-08-30 |
 | [somebody else \- KI/KI Remix](https://open.spotify.com/track/2SQ1Qyi2zNm40V5G5eFzgq) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [somebody else \(KI/KI Remix\)](https://open.spotify.com/album/5rMgUypEYuDx8AASsih7rR) | 2:55 | 2025-06-05 | 2025-06-13 |
+| [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 | 2025-08-28 |  |
 | [Sound of the Underground](https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Sound of the Underground](https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt) | 3:06 | 2025-01-23 | 2025-07-29 |
 | [SOÑAR](https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [SOÑAR](https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w) | 5:37 | 2024-07-04 | 2024-07-27 |
 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 | 2024-12-28 | 2025-01-07 |
@@ -535,7 +536,7 @@
 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 | 2024-11-11 |  |
 | [Walking Alone](https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Walking Alone](https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD) | 3:09 | 2023-05-05 | 2023-05-11 |
 | [Walking On A Dream \- Marlon Hoffstadt Remix](https://open.spotify.com/track/0NZdEb4FIYj30IVRlzaY30) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Walking On A Dream \(Marlon Hoffstadt Remix\)](https://open.spotify.com/album/21MFSVhoL9WvCfCWFcVB82) | 3:56 | 2025-08-28 |  |
-| [Wanna Feel](https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c) | [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK), [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wanna Feel](https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2) | 3:18 | 2025-04-17 |  |
+| [Wanna Feel](https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c) | [DJ IP](https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK), [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Wanna Feel](https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2) | 3:18 | 2025-04-17 | 2025-09-01 |
 | [Want My Love](https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [WOLTERS](https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl) | [Want My Love](https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE) | 3:18 | 2025-01-30 | 2025-06-06 |
 | [Wasting My Time](https://open.spotify.com/track/3jMH2HPknbxm6tVC1OySSJ) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Wasting My Time](https://open.spotify.com/album/4b4sE5JJHgFlXwN4CKbzkQ) | 2:05 | 2024-10-25 | 2024-11-12 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-10 | 2024-04-19 |

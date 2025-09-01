@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2585349,
+  "num_followers": 2585205,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
         "name": "Coast 2 Coast ft. Flowdan",
         "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 174751,
       "name": "Coast 2 Coast ft. Flowdan",
       "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "PAYBACK",
-        "url": "https://open.spotify.com/album/1PFMCeY6VJm60Vmtl3mEk0"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 219230,
-      "name": "PAYBACK",
-      "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
         "name": "PUSHINN",
         "url": "https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 139701,
       "name": "PUSHINN",
       "url": "https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "PAYBACK",
+        "url": "https://open.spotify.com/album/1PFMCeY6VJm60Vmtl3mEk0"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 219230,
+      "name": "PAYBACK",
+      "url": "https://open.spotify.com/track/4RIqJleQdPOg4KSo6uTmtK"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -927,18 +927,22 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
         }
       ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -963,22 +967,18 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
       },
       "artists": [
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1043,22 +1043,26 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "MINDFULL",
+        "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "JT Roach",
+          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 186000,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1087,18 +1091,22 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak"
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
       "artists": [
         {
-          "name": "Eliminate",
-          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46"
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1123,6 +1131,38 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak"
+      },
+      "artists": [
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 144335,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
         "name": "Up Top",
         "url": "https://open.spotify.com/album/02dhPSTWLTNeVjyplTQBiG"
       },
@@ -1143,22 +1183,6 @@
       "duration_ms": 201379,
       "name": "Up Top",
       "url": "https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1299,6 +1323,26 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
+        "name": "Big Bang (with Crankdat)",
+        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 239350,
+      "name": "Big Bang (with Crankdat)",
+      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
         "name": "Head Rock",
         "url": "https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC"
       },
@@ -1323,26 +1367,6 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Big Bang (with Crankdat)",
-        "url": "https://open.spotify.com/album/2DpZjtwH8GG964mwPfVHQ7"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 239350,
-      "name": "Big Bang (with Crankdat)",
-      "url": "https://open.spotify.com/track/6xkBy4dXb6LxQQ3OuuK2xv"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
@@ -1359,6 +1383,22 @@
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 164139,
+      "name": "select@",
+      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1407,22 +1447,6 @@
       "duration_ms": 233142,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 164139,
-      "name": "select@",
-      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -1527,50 +1551,6 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Torch",
-        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Bekon",
-          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Torch",
-      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC"
-      },
-      "artists": [
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
         "name": "Rapid Fire",
         "url": "https://open.spotify.com/album/5hqK495WT7LZG2AKzOWyTV"
       },
@@ -1595,6 +1575,30 @@
       "duration_ms": 166206,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/0YzrViv4LXpfLotDq58YKS"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Bekon",
+          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
     }
   ],
   "unique_name": "Hype",

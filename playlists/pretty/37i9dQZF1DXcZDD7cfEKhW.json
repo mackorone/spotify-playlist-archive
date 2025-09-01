@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Zara Larsson",
-  "num_followers": 4067197,
+  "num_followers": 4067009,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Murder On The Dancefloor (PNAU Remix)",
-        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "Murder On The Dancefloor - PNAU Remix",
-      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Peru (Peace Control Remix)",
         "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 287179,
       "name": "Peru - Peace Control Remix",
       "url": "https://open.spotify.com/track/4ae7kOsYM7CQqljNqMQ4lN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Murder On The Dancefloor (PNAU Remix)",
+        "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "Murder On The Dancefloor - PNAU Remix",
+      "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1567,22 +1567,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Before You Leave Me (TELYKAST Remix)",
-        "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
+        "name": "Espresso (Working Late Remixes)",
+        "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "FNZ",
+          "url": "https://open.spotify.com/artist/4lA6HCQmWfI4cRWyo2xmlK"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Before You Leave Me - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2"
+      "duration_ms": 338179,
+      "name": "Espresso - Mark Ronson x FNZ Working Later Remix",
+      "url": "https://open.spotify.com/track/03duS4fiU5jSVOZFR7TTQa"
     }
   ],
   "unique_name": "Pop Remix",

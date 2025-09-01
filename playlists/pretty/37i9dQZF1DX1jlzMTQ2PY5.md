@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,910 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,958 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 43 | [Only Dreamers](https://open.spotify.com/track/3E2FqRsEHRxFGVk0KPy8IG) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Only Dreamers](https://open.spotify.com/album/3hKqwbPnRBf7X3MgpHMPlz) | 5:16 |
 | 44 | [Was It Enough](https://open.spotify.com/track/7ftbGeJEZCJTuLEpoeZl9m) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Was It Enough](https://open.spotify.com/album/7gghxoaleNauVod7MSNq1P) | 2:20 |
 | 45 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
-| 46 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
-| 47 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
-| 48 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
-| 49 | [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 |
-| 50 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
+| 46 | [Make Forever](https://open.spotify.com/track/4hSwrKDgwetxHUeI5CUler) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Make Forever](https://open.spotify.com/album/3Li5yfh1hvasolGwy6Sv87) | 2:47 |
+| 47 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
+| 48 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 |
+| 49 | [Angel](https://open.spotify.com/track/4FtJFhfo4HI2BapCYunmJs) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Timeless](https://open.spotify.com/album/67HPieOqDZ6G7WOM09Egbk) | 4:58 |
+| 50 | [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 |
 
 Snapshot ID: `AAAAAONp+VwX7S6QVaj+j/aM0SrpBFVr`

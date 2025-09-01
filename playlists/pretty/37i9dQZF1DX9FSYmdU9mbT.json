@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1436106,
+  "num_followers": 1436352,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Nova Bis - Ivan Lins",
-        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
-      },
-      "artists": [
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Vitoriosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Como Vai Voc\u00ea",
         "url": "https://open.spotify.com/album/73zRVTgL5JJugtY1zWasXe"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 227568,
       "name": "Como Vai Voc\u00ea",
       "url": "https://open.spotify.com/track/6DihrQCKtLq7SpVQt4jBzA"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Nova Bis - Ivan Lins",
+        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
+      },
+      "artists": [
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Vitoriosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Exagerado 3.0 - Single",
-        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 226141,
-      "name": "Exagerado 3.0",
-      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249706,
       "name": "Lenha",
       "url": "https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Exagerado 3.0 - Single",
+        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 226141,
+      "name": "Exagerado 3.0",
+      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Li\u00e7\u00e3o de Vida",
-        "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Malandro",
-      "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/2NylFxVu73peifK68z2fuc"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 254795,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Li\u00e7\u00e3o de Vida",
+        "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
+        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
       },
       "artists": [
         {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
         }
       ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+      "duration_ms": 192062,
+      "name": "Paisagem da Janela - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1115,22 +1115,6 @@
       "duration_ms": 184119,
       "name": "Sabi\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/629DheUXpR6hplX51EWdiw"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
-        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 192062,
-      "name": "Paisagem da Janela - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1176,9 +1160,25 @@
           "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Elis (Remastered)",
+        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 171530,
+      "name": "Casa No Campo - Remastered 2021",
+      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1199,22 +1199,6 @@
       "duration_ms": 276480,
       "name": "Noturno (Cora\u00e7\u00e3o Alado)",
       "url": "https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Elis (Remastered)",
-        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 171530,
-      "name": "Casa No Campo - Remastered 2021",
-      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1247,6 +1231,22 @@
       "duration_ms": 225691,
       "name": "Prazer De Viver (Barra)",
       "url": "https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2025-05-30 05:19:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 353242,
+  "num_followers": 353396,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAACPUU8IVVlhrZ1Jm7MxsHwB",
+  "snapshot_id": "aLI/AAAAAACC3fOtpb5QLdlkw30K9nQj",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245478,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245478,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 151486,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eres Mi Crush",
+        "url": "https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 160234,
+      "name": "Eres Mi Crush",
+      "url": "https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eres Mi Crush",
-        "url": "https://open.spotify.com/album/6lUMeRzrbJekHBXcBZvSkJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 160234,
-      "name": "Eres Mi Crush",
-      "url": "https://open.spotify.com/track/6IhH9EuHGeFQbo49BJ4G7R"
     },
     {
       "added_at": null,

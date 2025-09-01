@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Blessd, Fuera Regida, Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,997 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,829 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

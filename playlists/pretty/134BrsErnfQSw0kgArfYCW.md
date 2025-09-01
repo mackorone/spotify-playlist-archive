@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/134BrsErnfQSw0kgArfYCW.md) - [plain]
 
 > De Jaren 90 playlist met de grootste jaren 90 hits\. Met o.a\. Craig David, Peter Andre, Daft Punk, Blur en alle andere throwback knijters uit de jaren 90! Foto: The Notorious B.I.G.
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 6,928 likes - 110 songs - 7 hr 34 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 6,929 likes - 110 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

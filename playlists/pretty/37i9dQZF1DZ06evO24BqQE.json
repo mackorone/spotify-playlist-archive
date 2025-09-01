@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 40790,
+  "num_followers": 40822,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAADLd+ROJZxPSK0qS9Dgu7M3",
+  "snapshot_id": "aLI/AAAAAAAoZXTES/mvFtKZidh6BJRi",
   "tracks": [
     {
       "added_at": null,
@@ -594,15 +594,11 @@
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 214060,
-      "name": "Kenkele",
-      "url": "https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD"
+      "duration_ms": 165217,
+      "name": "Loose Emotions",
+      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
     },
     {
       "added_at": null,
@@ -674,11 +670,15 @@
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 165217,
-      "name": "Loose Emotions",
-      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
+      "duration_ms": 214060,
+      "name": "Kenkele",
+      "url": "https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD"
     },
     {
       "added_at": null,

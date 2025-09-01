@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ0zkzLJLlmR>MF DOOM</a>, <a href=spotify:playlist:37i9dQZF1EIYVacm6N0kaM>Marvin Gaye</a>, <a href=spotify:playlist:37i9dQZF1EIWeAESNaSlhs>J Abdiel</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVh9CgqPAfrH>skywave</a>, <a href=spotify:playlist:37i9dQZF1EIYBqohyzU38C>Snoh Aalegra</a>, <a href=spotify:playlist:37i9dQZF1EIY5dmDlUlYaZ>FKJ</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 142182,
       "name": "[oops]",
       "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "album": {
+        "name": "a bird's last look",
+        "url": "https://open.spotify.com/album/6UCtpLplXyQjiPHY7UnENy"
+      },
+      "artists": [
+        {
+          "name": "skywave",
+          "url": "https://open.spotify.com/artist/5ImbfmouSWQpitdyxSOGTT"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107145,
+      "name": "a bird's last look - slowed",
+      "url": "https://open.spotify.com/track/2fJAgeojrusq3k2gdb9HhT"
     },
     {
       "album": {
@@ -684,7 +702,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 173333,
       "name": "Back2Back",
       "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 241370,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 176760,
       "name": "Coffin Nails",
       "url": "https://open.spotify.com/track/0o73cSWmV0YJeHvzDbJDdn"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 104431,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
@@ -4242,6 +4260,24 @@
       "duration_ms": 256266,
       "name": "Follow The Sun",
       "url": "https://open.spotify.com/track/3Y7fpFZbHLpAvWJJYGehz0"
+    },
+    {
+      "album": {
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5"
     },
     {
       "album": {
@@ -6586,7 +6622,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
@@ -7419,6 +7455,28 @@
     },
     {
       "album": {
+        "name": "Losing My Way",
+        "url": "https://open.spotify.com/album/4GlFFZE1tyiqLK81KVJ70T"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Losing My Way",
+      "url": "https://open.spotify.com/track/3zidJjXGWgKqgQnfb6hKak"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -7582,7 +7640,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -7956,7 +8014,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
@@ -8714,7 +8772,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
@@ -10554,7 +10612,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 235506,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
@@ -10932,7 +10990,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"

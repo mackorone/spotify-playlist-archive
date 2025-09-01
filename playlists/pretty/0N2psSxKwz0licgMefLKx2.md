@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,058 likes - 94 songs - 5 hr 6 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,057 likes - 94 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

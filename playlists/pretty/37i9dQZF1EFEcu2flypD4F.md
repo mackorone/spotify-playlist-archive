@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,310 likes - 339 songs - 21 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,309 likes - 339 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,8 +254,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 244 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 |
 | 245 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
 | 246 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 |
-| 247 | [Riding On My Bike](https://open.spotify.com/track/1fkpwndSm7u8IqWEtUw4fI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Riding On My Bike \(from “At home with the kids”\)](https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku) | 1:47 |
-| 248 | [My Love](https://open.spotify.com/track/4E7veCcEczlhKQDpOG4qPk) | [Top Hits](https://open.spotify.com/artist/457jVyl9BJJD36YSFM3NkC) | [The Top Hits](https://open.spotify.com/album/6BFWMtAJDVfLF3aPXzndhx) | 4:52 |
+| 247 | [My Love](https://open.spotify.com/track/4E7veCcEczlhKQDpOG4qPk) | [Top Hits](https://open.spotify.com/artist/457jVyl9BJJD36YSFM3NkC) | [The Top Hits](https://open.spotify.com/album/6BFWMtAJDVfLF3aPXzndhx) | 4:52 |
+| 248 | [Riding On My Bike](https://open.spotify.com/track/1fkpwndSm7u8IqWEtUw4fI) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Riding On My Bike \(from “At home with the kids”\)](https://open.spotify.com/album/68CycIbYcixJDbzd5xyeku) | 1:47 |
 | 249 | [Expertease \(Ready Set Go\)](https://open.spotify.com/track/5tpRdQQHr9eKa0tNdTmI64) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 4:04 |
 | 250 | [Pop Rock](https://open.spotify.com/track/4hRfQY1nGmSkBg5FU00zcG) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:56 |
 | 251 | [Rock Bottom](https://open.spotify.com/track/7b2AQnXlxKAPY0PBnjoHNr) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 3:55 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 338 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 339 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab66sgAAAAAgJCLSuf18zeEB4QknqxEN`
+Snapshot ID: `Ab7ASAAAAADMsj4roSwn7VsxCdasZUJ1`

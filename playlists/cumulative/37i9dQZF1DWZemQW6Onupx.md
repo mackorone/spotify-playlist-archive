@@ -2,9 +2,9 @@
 
 ### [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/>👉  Check out <a href="https://open.spotify.com/show/31eYyJk4EPoivEIZqyPzT1?si=04TtCDTaQoW0s9IgVFUR9A">Podcast</a> as well! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
+> Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/> ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-48 songs - 2 hr 32 min
+49 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Theme for Scanty & Knee Socks](https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:14 | 2021-05-26 |  |
 | [Theme of New PANTY & STOCKING](https://open.spotify.com/track/0behwHkoQ0HSMk5wQiVPlB) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY & STOCKING](https://open.spotify.com/album/3XWH4ZodF0FRlvpj9VUdJU) | 0:33 | 2025-07-17 | 2025-08-07 |
 | [Theme of New PANTY ＆ STOCKING \(Long Version\)](https://open.spotify.com/track/61dNYvOhpXQCsuWDLty4D8) | [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ), [E.V.P](https://open.spotify.com/artist/33yCAphqucbYTVBGfcJrjU), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Theme of New PANTY ＆ STOCKING](https://open.spotify.com/album/1Y3xFsb3FtXHbvbkEj8ON7) | 2:32 | 2025-08-07 |  |
+| [This Is New PANTY ＆ STOCKING \#1 ](https://open.spotify.com/episode/2haYU9gHhrgmXqra0vHYHi) | [This Is New PANTY ＆ STOCKING](https://open.spotify.com/show/31eYyJk4EPoivEIZqyPzT1) | [This Is New PANTY ＆ STOCKING](https://open.spotify.com/album/31eYyJk4EPoivEIZqyPzT1) | 49:04 | 2025-09-01 |  |
 | [Yesline Dub](https://open.spotify.com/track/4me6Bxcc3Po5OFf71YosnN) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 3:47 | 2021-05-26 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

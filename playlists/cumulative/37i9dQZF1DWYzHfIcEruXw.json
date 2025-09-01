@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "THE DAY",
+        "url": "https://open.spotify.com/album/3CCLycmOuNfKZiZ2KScBxK"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243146,
+      "name": "THE DAY",
+      "url": "https://open.spotify.com/track/5Nb08bCwVTjsqrK5wUCHtA"
+    },
+    {
+      "album": {
         "name": "Reunion",
         "url": "https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS"
       },

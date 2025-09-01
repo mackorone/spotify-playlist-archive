@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,798 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,804 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 12 | [ど根性ガエル](https://open.spotify.com/track/0OMsLUf2ee3xxIXFdw9XBI) | [石川 進](https://open.spotify.com/artist/6M3y1FG6FWQqey40DPToW3) | [ど根性ガエル ミュージックファイル](https://open.spotify.com/album/64t1tTMjOCDGeTuaZSOnQE) | 1:33 |
 | 13 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/26WZRSBEoNJsJTYEFgkQOr) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/7ntmIyCgmofbtK9dmU9RSv) | 4:52 |
 | 14 | [City Hunter 〜愛よ消えないで〜](https://open.spotify.com/track/4c0G3S4tGbwoJrF8Ve662r) | [Kahoru Kohiruimaki](https://open.spotify.com/artist/25AlSzLodlCYZrjU8je4pJ) | [The LEGEND](https://open.spotify.com/album/2X7Bq9qIsYPbva7aAZyB87) | 4:06 |
-| 15 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986～1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
-| 16 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
+| 15 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 |
+| 16 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986～1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 |
 | 17 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/2CN6Ku8RAJc14d4BbkD5rk) | [らんま1/2](https://open.spotify.com/artist/50h5fygfWtNlFN4FrddJCd) | [らんま1/2 おか持ち特選～猫飯店メニュー・ソング～](https://open.spotify.com/album/0dRu0BUHGRswjKwqoQtRlk) | 1:40 |
 | 18 | [鏡の中のアクトレス](https://open.spotify.com/track/5Aqe880HNpsQAkjWqWGqdu) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:35 |
 | 19 | [悲しみよこんにちは](https://open.spotify.com/track/4PykuFIJt1YlG1mvyYr0kY) | [Yuki Saito](https://open.spotify.com/artist/3b1ILSjPEq1AXyfmZXkPGr) | [チャイム <リマスター盤>](https://open.spotify.com/album/0KowZMTAsk3v3X9b5LHUUI) | 4:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 46 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
 | 47 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |
 | 48 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
-| 49 | [鉄腕アトム](https://open.spotify.com/track/48h2O24oTHPDJ6BiJPydQ7) | [上高田少年合唱団](https://open.spotify.com/artist/2a5e314NsqsLahfBcsfRYB) | [<戦後70年 歌のあゆみ> こどものうた 〜とんがり帽子・みかんの花さく丘〜](https://open.spotify.com/album/3ZblGJJIGKnBUwYdQ0xOEu) | 2:29 |
+| 49 | [となりのトトロ\(となりのトトロ\)](https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:17 |
 | 50 | [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 |
 
 Snapshot ID: `AAAAAH8VITlEKzhdQqHpkq54N7lLP+tj`

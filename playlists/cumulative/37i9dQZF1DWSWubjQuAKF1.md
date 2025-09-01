@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Krzyk Mody
 
-563 songs - 1 day 3 hr 28 min
+564 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 | 2025-04-25 |
 | [KŁOPOTY](https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX) | [Hanafi](https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [KŁOPOTY](https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE) | 3:20 | 2025-08-19 |  |
-| [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 |  |
+| [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
 | [lawenda](https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR) | [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [lawenda](https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1) | 3:55 | 2024-07-11 | 2024-11-08 |
 | [Lepsze dni](https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa) | [Lija](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [słowa, których nigdy nie wypowiedziałam](https://open.spotify.com/album/6evdJOStWbQNA0G8RwgssR) | 3:34 | 2024-06-28 | 2024-07-05 |
@@ -488,6 +488,7 @@
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-05 | 2025-06-20 |
 | [tired](https://open.spotify.com/track/4n7R8CV8VpASepuuA0WUxY) | [Bartek Koziorowski](https://open.spotify.com/artist/6a28yBCAdWnh1n1qc6zNBT) | [tired](https://open.spotify.com/album/5nspfDd338PUt3VNW2MrLI) | 2:06 | 2025-01-23 | 2025-02-21 |
 | [to jara Cię też!](https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj) | [Verde](https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7) | [to jara Cię też!](https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV) | 2:56 | 2024-06-28 | 2024-09-14 |
+| [To nie to](https://open.spotify.com/track/4sx1F5vrBxheiLB9LsGfPB) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [To nie to](https://open.spotify.com/album/1j5w8HDzPM4JYHvrvaBypb) | 3:03 | 2025-08-26 |  |
 | [TOKIO](https://open.spotify.com/track/0FUgOyAUgA9FLdYv6rHENE) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [TOKIO](https://open.spotify.com/album/1UnwAXNTPp9frqmoWkQlp1) | 2:52 | 2025-07-17 | 2025-08-07 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |

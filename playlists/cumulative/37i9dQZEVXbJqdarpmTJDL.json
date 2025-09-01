@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 217110,
       "name": "Alitiki Agapi",
       "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -12732,7 +12732,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 133846,
       "name": "EISAI BCC",
       "url": "https://open.spotify.com/track/4o6alQshJYIfjdH8WytWlc"
@@ -14152,7 +14152,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Esena",
       "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
@@ -15208,7 +15208,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 137821,
       "name": "Feggari",
       "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
@@ -22486,7 +22486,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 189374,
       "name": "Kathreftis",
       "url": "https://open.spotify.com/track/5QC9BGJEiSzpGXF3Zo23Z2"
@@ -22522,7 +22522,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
@@ -29152,7 +29152,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 120000,
       "name": "MISS ME",
       "url": "https://open.spotify.com/track/6QPJznZa06kApEw4r6BlRZ"
@@ -36642,7 +36642,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 193777,
       "name": "PROTI FORA",
       "url": "https://open.spotify.com/track/2ZP1SQPZboChRCbxhh6sBh"
@@ -40728,7 +40728,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 183307,
       "name": "SOS 2",
       "url": "https://open.spotify.com/track/2UiVXM5wWvdllPDLLcvYh3"
@@ -40954,10 +40954,28 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 164022,
       "name": "SPORT",
       "url": "https://open.spotify.com/track/2IM8ZA2irx9ygwyoh4Q1lK"
+    },
+    {
+      "album": {
+        "name": "SPORT",
+        "url": "https://open.spotify.com/album/7IcbXOhwOXgnvXSw8dGIW3"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164038,
+      "name": "SPORT",
+      "url": "https://open.spotify.com/track/45gAJZHqeYSIL3EIR3VHqJ"
     },
     {
       "album": {
@@ -42798,7 +42816,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -48050,7 +48068,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 218647,
       "name": "Xeiroteri Genia",
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"

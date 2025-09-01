@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Kane
 
-265 songs - 11 hr 58 min
+266 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Es tut weh](https://open.spotify.com/track/5oXobks1fMidFZW8m49ZEs) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Es tut weh](https://open.spotify.com/album/2AvzE3D7894RnykpjQIa0x) | 2:00 | 2025-07-17 | 2025-08-26 |
 | [Etage 3 \(feat\. Bausa\)](https://open.spotify.com/track/2yhSIniqP26PvJePcHFIg8) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Etage 3 \(feat\. Bausa\)](https://open.spotify.com/album/3sczb1THK9mTeiQTx8od59) | 2:14 | 2024-12-09 | 2025-02-04 |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-09-09 | 2025-01-17 |
+| [Familienchronik](https://open.spotify.com/track/5p9ZWZ856h7bgdq1LlrL1y) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Hamburger Aufstand](https://open.spotify.com/album/6Ud07gmj5Nfm2ip6bhL5Rl) | 2:31 | 2025-08-28 |  |
 | [Family](https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [FAMILY & MONEY](https://open.spotify.com/album/15hgMcP0LmFVsAEqhOoVjS) | 2:28 | 2024-09-02 | 2024-10-25 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-09 | 2025-03-22 |
 | [Fehler geschehen](https://open.spotify.com/track/3oBw2WgtGKWGYuJCi6I7R4) | [Dame](https://open.spotify.com/artist/2XNo6k4LqlZlM5sj0wKReo) | [Fehler geschehen](https://open.spotify.com/album/1A0VtKf5PLDVDeKubbyeXC) | 3:05 | 2025-07-24 | 2025-08-06 |
@@ -264,7 +265,7 @@
 | [Wo willst du hin](https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Wo willst du hin](https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9) | 2:49 | 2024-10-10 | 2025-08-08 |
 | [Wolken](https://open.spotify.com/track/13AzsOOlv5lwEeKsI1pAUt) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wolken](https://open.spotify.com/album/5lnMtsg8OiHho7I0vQ7LmR) | 3:13 | 2025-08-14 |  |
 | [Wunder](https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1), [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Wunder](https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa) | 2:56 | 2024-06-28 |  |
-| [Wunderschön](https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Wunderschön](https://open.spotify.com/album/6lpa9euCDZVAOwHO8RrHMV) | 2:38 | 2025-04-10 |  |
+| [Wunderschön](https://open.spotify.com/track/6qtysa6hXjmuWtmuXbOJtj) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Wunderschön](https://open.spotify.com/album/6lpa9euCDZVAOwHO8RrHMV) | 2:38 | 2025-04-10 | 2025-09-01 |
 | [WÄNDE AUS ZEMENT](https://open.spotify.com/track/72GCg37yQ4CZv7HHODylX7) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [WÄNDE AUS ZEMENT](https://open.spotify.com/album/0lcuJTNhXrd55zxjeayd7J) | 3:40 | 2024-12-13 | 2025-02-25 |
 | [Wünsch mir was](https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [Mufasa](https://open.spotify.com/album/7gkyr2RLvlijFDtzXtXnz1) | 3:15 | 2024-08-01 | 2025-01-21 |
 | [Yay](https://open.spotify.com/track/51OiYIROicWw15V5Pcbj5g) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:05 | 2025-01-16 | 2025-08-29 |

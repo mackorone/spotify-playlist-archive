@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM"
       },
@@ -10784,7 +10802,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-01",
       "duration_ms": 184627,
       "name": "The Crown",
       "url": "https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR"

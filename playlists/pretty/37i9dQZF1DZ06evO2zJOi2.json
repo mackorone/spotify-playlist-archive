@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 724397,
+  "num_followers": 724562,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAAALLhY3vLM06b7/K3D3kJpd",
+  "snapshot_id": "aLI/AAAAAAAkvVyfeQjvDfQqyYu0bPbu",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 217631,
       "name": "Miami (feat. Lil Wayne & Rick Ross)",
       "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
     },
     {
       "added_at": null,

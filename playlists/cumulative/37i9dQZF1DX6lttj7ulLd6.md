@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-193 songs - 14 hr 21 min
+194 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [On The Beach](https://open.spotify.com/track/6X0XzLsQZHLfOeoWUjRAye) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Do It Again](https://open.spotify.com/album/2fIm34Of6gQfOrLrdM02Lw) | 4:42 | 2022-05-06 | 2022-06-09 |
 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 | 2023-06-20 |  |
 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 | 2022-08-16 |  |
-| [Over The Line](https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Over The Line](https://open.spotify.com/album/5vyjEsckiQO2Ot84RiPG45) | 2:37 | 2023-08-18 |  |
+| [Over The Line](https://open.spotify.com/track/1kA20EkOahp3dPlvFDgz2E) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Over The Line](https://open.spotify.com/album/5vyjEsckiQO2Ot84RiPG45) | 2:37 | 2023-08-18 | 2025-09-01 |
 | [Over The Rainbow](https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 3:12 | 2023-12-08 | 2025-01-28 |
 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 | 2022-05-06 |  |
 | [Paddock Club](https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Paddock Club](https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz) | 2:52 | 2024-06-03 | 2025-05-31 |
@@ -168,6 +168,7 @@
 | [Take It Higher](https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Don't Stop Now!](https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm) | 4:23 | 2023-02-23 | 2023-03-01 |
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |
 | [Tell Me So](https://open.spotify.com/track/1xIfnVs8j4QfY91Un3rxvE) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [In The Name Of Love](https://open.spotify.com/album/54oJKdLUcrIwOwX4FkxBxW) | 5:01 | 2022-05-06 | 2023-03-29 |
+| [That Feeling](https://open.spotify.com/track/5z3EszUPbgnNCp9cXOfkqK) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [That Feeling](https://open.spotify.com/album/2DvF0oDRdvlikFs5KucVZU) | 3:00 | 2025-08-19 |  |
 | [The Catwalk](https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR) | [Peter Olyni Jr.](https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO) | [The Catwalk](https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC) | 3:27 | 2023-04-06 |  |
 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 | 2023-08-18 |  |
 | [The Gift](https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 5:28 | 2022-05-06 | 2022-11-23 |

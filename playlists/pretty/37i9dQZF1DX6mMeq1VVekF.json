@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Dijon",
-  "num_followers": 180360,
+  "num_followers": 180365,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,26 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+        "name": "Isaka (6am)",
+        "url": "https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY"
       },
       "artists": [
         {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
         }
       ],
-      "duration_ms": 144113,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+      "duration_ms": 349910,
+      "name": "Isaka (6am)",
+      "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
     },
     {
       "added_at": "2025-08-22 09:11:35",
@@ -75,26 +83,18 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
-        "name": "Isaka (6am)",
-        "url": "https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY"
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
       },
       "artists": [
         {
-          "name": "CIZA",
-          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
-        },
-        {
-          "name": "Jazzworx",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
         }
       ],
-      "duration_ms": 349910,
-      "name": "Isaka (6am)",
-      "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
     },
     {
       "added_at": "2025-08-22 09:11:35",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o"
-      },
-      "artists": [
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Sunshine On Catford",
-      "url": "https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl"
-    },
-    {
-      "added_at": "2025-08-22 09:11:35",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 140368,
       "name": "Prada or Celine",
       "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
+    },
+    {
+      "added_at": "2025-08-22 09:11:35",
+      "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o"
+      },
+      "artists": [
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Sunshine On Catford",
+      "url": "https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl"
     },
     {
       "added_at": "2025-08-22 09:11:35",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
+        "name": "Angel Patience",
+        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Angel Patience",
+      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
+    },
+    {
+      "added_at": "2025-08-22 09:11:35",
+      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-08-22 09:11:35",
-      "album": {
-        "name": "Angel Patience",
-        "url": "https://open.spotify.com/album/38M9Upz2H2raj01spTcwRp"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Angel Patience",
-      "url": "https://open.spotify.com/track/3QquNL6YhignMnpVNHotO7"
     },
     {
       "added_at": "2025-08-22 09:11:35",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
-      },
-      "artists": [
-        {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
-        }
-      ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
-    },
-    {
-      "added_at": "2025-08-22 09:11:35",
-      "album": {
         "name": "Miss Independent",
         "url": "https://open.spotify.com/album/2sd3mb5KsqYDA8sML6e93P"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 126956,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
+    },
+    {
+      "added_at": "2025-08-22 09:11:35",
+      "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2025-08-22 09:11:35",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-08-22 09:11:35",
       "album": {
-        "name": "Fit ID",
-        "url": "https://open.spotify.com/album/60hjjGjN5mNNVsnZEfDdmt"
+        "name": "AMANZI",
+        "url": "https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS"
       },
       "artists": [
         {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+          "name": "AMANZI",
+          "url": "https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Fit ID",
-      "url": "https://open.spotify.com/track/6ltJlPf02pYXiuZPHscjiD"
+      "duration_ms": 192018,
+      "name": "Give Us Some Time",
+      "url": "https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS"
     }
   ],
   "unique_name": "Free Form",

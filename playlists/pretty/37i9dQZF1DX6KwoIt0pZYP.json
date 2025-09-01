@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 252876,
+  "num_followers": 252887,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "added_at": "2025-07-11 07:40:56",
+      "album": {
         "name": "Dancing in the Dark",
         "url": "https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 198640,
       "name": "Dancing in the Dark",
       "url": "https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN"
-    },
-    {
-      "added_at": "2025-07-11 07:40:56",
-      "album": {
-        "name": "Infatuated",
-        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Infatuated",
-      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     },
     {
       "added_at": "2025-07-11 07:40:56",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-07-11 07:40:56",
       "album": {
-        "name": "Black Tie",
-        "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
         }
       ],
-      "duration_ms": 167202,
-      "name": "Black Tie",
-      "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
+      "duration_ms": 207625,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
     }
   ],
   "unique_name": "tapioca",

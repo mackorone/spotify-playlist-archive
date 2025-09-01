@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,543 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,583 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 27 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
 | 28 | [Run 4 Your Life](https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Run 4 Your Life](https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew) | 2:44 |
 | 29 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
-| 30 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
+| 30 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 31 | [Holy Calamity](https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Holy Calamity](https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj) | 2:41 |
 | 32 | [Danse Macabre](https://open.spotify.com/track/4hZYHWCGvKPR74DgPK8jZ9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Mr\. Ivex](https://open.spotify.com/artist/4rjpzgu5YnVodi62T50yjV) | [Danse Macabre](https://open.spotify.com/album/4dzIrm27bFhZw4rTEagMKJ) | 2:28 |
-| 33 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
+| 33 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
 | 34 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
 | 35 | [Straight To The Brain](https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Straight To The Brain](https://open.spotify.com/album/1wNIXYsuVpHrBQY29oVJ7q) | 2:05 |
 | 36 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |

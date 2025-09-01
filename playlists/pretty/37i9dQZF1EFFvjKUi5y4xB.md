@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 100 | [Gotta Be You](https://open.spotify.com/track/7fcNlsNAmRUPP1pXaexQ9F) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Gotta Be You](https://open.spotify.com/album/4fWpeImvRqRnV6ShryUs0M) | 2:16 |
 | 101 | [Don't Wanna Pretend](https://open.spotify.com/track/2tOJHzOuaf6e7kJaXItGn7) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 3:45 |
 | 102 | [Door No.2](https://open.spotify.com/track/47uhP9GwLEbUVi4msjCSiU) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 2:52 |
-| 103 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
-| 104 | [Fool’s Gold](https://open.spotify.com/track/1oDlkWpiQjkX2ci6GWnJe5) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 3:01 |
+| 103 | [Fool’s Gold](https://open.spotify.com/track/1oDlkWpiQjkX2ci6GWnJe5) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 3:01 |
+| 104 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
 | 105 | [Replay](https://open.spotify.com/track/7LENqRaHiHacJvpQcuuTJt) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs For Women, Free Game For Niggas \(Deluxe Edition\)](https://open.spotify.com/album/1IjQ0pJkd3F5w7OSylMaJY) | 3:23 |
 | 106 | [Push Thru](https://open.spotify.com/track/0rkvjZuAO56gvlFdsokv5w) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Push Thru](https://open.spotify.com/album/3yAVmXJQVOjtoE2npitBaS) | 3:49 |
 | 107 | [Knife](https://open.spotify.com/track/5E9baT9kS0AZryjOQKwHDi) | [Skinnyfromthe9](https://open.spotify.com/artist/5yJ8UM2G0BWZpvplnY4iln) | [It's an Evil World](https://open.spotify.com/album/7uWkmDHhumFMMNOe0XpEX5) | 2:40 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFvjKUi5y4xB.md) - [plain]
 | 112 | [Songs for Women](https://open.spotify.com/track/5gRUEMbzjBYe146BYIUlXK) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:28 |
 | 113 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 |
 
-Snapshot ID: `Ab66lAAAAAD6kRNSpchnSEQ+TNJwzbl4`
+Snapshot ID: `Ab7AZgAAAADEA1ucTZeyqBZKg9sre226`

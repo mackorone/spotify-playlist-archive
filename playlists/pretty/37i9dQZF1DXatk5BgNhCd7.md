@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Ke Personajes
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,437 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,532 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

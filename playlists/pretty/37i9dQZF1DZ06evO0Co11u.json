@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194492,
+  "num_followers": 194515,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAACQcpYuk6Tr/8tBmIlAbMaU",
+  "snapshot_id": "aLI/AAAAAACIKUrI5IIXvZNGP8Y+qI/c",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vie En Rose",
-        "url": "https://open.spotify.com/album/4rii2OLIasjb8JnzA0Ylel"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Can Anyone Explain? - Single Version",
-      "url": "https://open.spotify.com/track/53MiKD05DuARd9TbqmidxU"
+      "duration_ms": 200066,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
     },
     {
       "added_at": null,
@@ -527,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vie En Rose",
+        "url": "https://open.spotify.com/album/4rii2OLIasjb8JnzA0Ylel"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Can Anyone Explain? - Single Version",
+      "url": "https://open.spotify.com/track/53MiKD05DuARd9TbqmidxU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 211306,
       "name": "Hello Brother - Single Version",
       "url": "https://open.spotify.com/track/0bhczlo67Yc6LqMWYqDHyo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Fantastic, That's You",
-      "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis Under The Stars",
         "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
       },
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
+      "duration_ms": 178333,
+      "name": "Fantastic, That's You",
+      "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
     },
     {
       "added_at": null,
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 165906,
-      "name": "Cabaret - Single Version",
-      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -699,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Weather Bird",
-      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
+      "duration_ms": 165906,
+      "name": "Cabaret - Single Version",
+      "url": "https://open.spotify.com/track/77LwwnpmNJ4mU1yEzK0pf8"
     },
     {
       "added_at": null,
@@ -739,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 119026,
-      "name": "Give Me Your Kisses",
-      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+      "duration_ms": 164973,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 200466,
       "name": "My Sweet Hunk O' Trash - Single Version",
       "url": "https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Give Me Your Kisses",
+      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "The Home Fire",
-      "url": "https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essence of Armstrong",
         "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "The Home Fire",
+      "url": "https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Armstrong Of New Orleans",
-        "url": "https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "When The Saints Go Marching In",
-      "url": "https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo Sings",
         "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177440,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Armstrong Of New Orleans",
+        "url": "https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "When The Saints Go Marching In",
+      "url": "https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

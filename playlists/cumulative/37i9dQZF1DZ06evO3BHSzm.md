@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-122 songs - 8 hr 3 min
+123 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [I Don't Even Know Myself \- Re\-Make / Take 16](https://open.spotify.com/track/51A3P16XI08faBpppfkrb0) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 4:40 | 2023-11-10 | 2024-01-13 |
 | [I Don't Mind \- Stereo Version](https://open.spotify.com/track/10dFDqltx3vJbGXyjWyxIk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:36 | 2022-09-17 | 2022-10-02 |
 | [I Don't Wanna Get Wise](https://open.spotify.com/track/35cc8RpxVa5KaE07RB0iqj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:54 | 2022-09-17 | 2022-10-13 |
-| [I'm A Boy \- Mono](https://open.spotify.com/track/5Vb8gqBtQz6bwRWj7Ip8j5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50](https://open.spotify.com/album/4MWzCje4KFt8oi2aHbhKUN) | 2:41 | 2024-03-07 |  |
+| [I'm A Boy \- Mono](https://open.spotify.com/track/5Vb8gqBtQz6bwRWj7Ip8j5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50](https://open.spotify.com/album/4MWzCje4KFt8oi2aHbhKUN) | 2:41 | 2024-03-07 | 2025-09-01 |
 | [I'm Free](https://open.spotify.com/track/7tbp39GZvDA0cItgHynVnG) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:39 | 2022-09-17 |  |
 | [I'm One](https://open.spotify.com/track/4yLKrbpfDou64pknD62S2U) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:37 | 2022-09-17 | 2025-05-07 |
 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 | 2022-09-24 |  |
@@ -82,6 +82,7 @@
 | [Magic Bus \- Mono Edit](https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:22 | 2022-09-17 |  |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 | 2022-09-17 |  |
 | [My Wife](https://open.spotify.com/track/04jUWHa4mIZKn7duaD2gXW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:33 | 2022-10-07 | 2022-10-09 |
+| [Naked Eye \- Live At The Oval, London, England \- 9/18/1971](https://open.spotify.com/track/6NWMgCr5RtFY64t3iHRpyj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At The Oval 1971](https://open.spotify.com/album/6PjBwZHtSzVM8d1iD6or1w) | 7:21 | 2025-09-01 |  |
 | [Naked Eye \- Remake Version](https://open.spotify.com/track/7B6DdL3oTVHvq6HvQB8RH2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:59 | 2023-10-10 | 2024-02-13 |
 | [New Song](https://open.spotify.com/track/0RqPDkzJYtVwmAUjjWRjVx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:13 | 2023-06-15 | 2024-03-20 |
 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 | 2022-09-17 |  |

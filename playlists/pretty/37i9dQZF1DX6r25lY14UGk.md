@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Scott & Mark Hoying
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,724 likes - 167 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,742 likes - 167 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

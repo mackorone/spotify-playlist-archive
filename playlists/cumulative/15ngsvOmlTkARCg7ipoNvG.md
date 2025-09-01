@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,008 songs - 1 day 16 hr 35 min
+2,009 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1734,6 +1734,7 @@
 | [Tell Me A Story \- Piano Version](https://open.spotify.com/track/7rHtWEbSh3o2WA7qH8b0xA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tell Me A Story \(Piano Version\)](https://open.spotify.com/album/3q3ivsgjeXRMtvnD7Hd2KY) | 1:06 | 2022-03-25 |  |
 | [Tell Me A Story \- Strings Version](https://open.spotify.com/track/6x9Z9pJIUgClgBdSGmYTmB) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Tell Me A Story \(Strings Version\)](https://open.spotify.com/album/3Vs3NcPcoRT9kYaElh0LEP) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Tenderly](https://open.spotify.com/track/6NkdoXdR1Si100inOZUPHB) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Tenderly](https://open.spotify.com/album/7GjIAVU8IaGXGbI0nC9yKl) | 1:00 | 2024-02-27 |  |
+| [Thank You](https://open.spotify.com/track/38rKUKv3Ew4hmlDlKFuNRf) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Thank You](https://open.spotify.com/album/2fxqvTAf9aSJyWBl9ZGIbe) | 1:00 | 2025-08-31 |  |
 | [The Beauty Inside](https://open.spotify.com/track/6TZvzdXkgzem0TaQuvE926) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Hope](https://open.spotify.com/album/1VrS0czvfxcDTHZHSxDZFm) | 1:37 | 2022-01-20 | 2024-01-30 |
 | [The Break of Dawn](https://open.spotify.com/track/5Sh6Rrsj0nsJoOZmN4wTfN) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Songs](https://open.spotify.com/album/0YuJDF7piKgqkPYhkZ51wi) | 1:51 | 2024-01-29 |  |
 | [The Depth Of Your Love](https://open.spotify.com/track/3WdP4Z8hMcLSwehYCJossa) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:41 | 2022-01-12 |  |

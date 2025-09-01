@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Aug 18:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Aug 18:04 UTC.
 
-5,410 songs - 12 day 13 hr 37 min
+5,411 songs - 12 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3090,7 +3090,7 @@
 | [Moody](https://open.spotify.com/track/4BQOLNFvWAmC3VoK3bGm1E) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Moody](https://open.spotify.com/album/3HVojlvCwxnPuLNZ49Mttm) | 1:23 | 2024-10-20 | 2024-10-24 |
 | [Moonlit Floor \(Kiss Me\) \- Santa Baby Remix](https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\) \(Santa Baby Remix\)](https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl) | 2:35 | 2024-11-29 | 2024-12-06 |
 | [MORAL DEATH SENTENCE](https://open.spotify.com/track/7B3KeKnFNOu95tjmaUjpJu) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [MORAL DEATH SENTENCE](https://open.spotify.com/album/2rLzTSEc5n5tpHdgZ5rb9r) | 1:14 | 2024-09-03 | 2024-09-06 |
-| [More](https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [More](https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f) | 3:24 | 2025-08-20 |  |
+| [More](https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [More](https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f) | 3:24 | 2025-08-20 | 2025-09-01 |
 | [More Than Enough!](https://open.spotify.com/track/5jZVfj6yo04nalCTGfrPdV) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [More Than Enough!](https://open.spotify.com/album/0akoyjpqsi3cuokE8ygYwk) | 2:33 | 2024-09-11 | 2024-09-13 |
 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 | 2025-06-27 | 2025-07-08 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-09 | 2025-05-22 |
@@ -3186,6 +3186,7 @@
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-19 | 2024-07-21 |
 | [Nail in a wooden trunk](https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Nail in a wooden trunk](https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf) | 2:29 | 2024-09-17 | 2024-09-19 |
 | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Anime ver.\)](https://open.spotify.com/track/3b8YkPNHw7R7TGDTMpawTU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [NAKAMA feat\. AI \(Dragon Ball DAIMA Ending Theme \- Anime ver.\)](https://open.spotify.com/album/54zfFV5w8eETYMws3n3rjA) | 1:01 | 2024-12-10 | 2024-12-14 |
+| [NAKED](https://open.spotify.com/track/23FE8L9m7gFYt9UBpWfJCo) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [NAKED](https://open.spotify.com/album/2E9m50Y6IaXTewP1sT6ZP6) | 3:14 | 2025-08-31 |  |
 | [Namcy](https://open.spotify.com/track/7KFuYctUbZXScGa70BHLGb) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Namcy](https://open.spotify.com/album/7qoDmrSIPdFDVPgxWXGB2I) | 3:12 | 2025-03-16 | 2025-03-22 |
 | [Name Your Price](https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Name Your Price](https://open.spotify.com/album/5ExvE4ttfYYXO47PTRZjBg) | 3:25 | 2024-06-20 | 2024-06-22 |
 | [Nameless](https://open.spotify.com/track/43DGpdzL6un8gtOVbyRsld) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy), [Jang Hye\-Jin](https://open.spotify.com/artist/2vG3ydmgAksU2M1qIE89Bo) | [Nameless](https://open.spotify.com/album/6fA8MmZ0GQO8RP0zsX85gb) | 4:43 | 2024-10-06 | 2024-10-10 |

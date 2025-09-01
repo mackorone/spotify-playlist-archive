@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Khamari
 
-1,476 songs - 3 day 5 hr 49 min
+1,477 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1241,7 +1241,7 @@
 | [Take My Time](https://open.spotify.com/track/03QuhRi2HkEl6C2jYc8Obi) | [Dancody](https://open.spotify.com/artist/5nBggqz80XWqMUkMDndDnS), [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG), [THEO](https://open.spotify.com/artist/4RxsOR1W3dND7696bxwYzG) | [What We Lost](https://open.spotify.com/album/4EDIKL4peA6oDSLsZTguyq) | 3:12 | 2023-06-09 | 2023-11-20 |
 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 | 2025-01-31 | 2025-06-21 |
 | [TANTRUM!](https://open.spotify.com/track/2qOKYK813gVCIENtN27Ndv) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:28 | 2023-10-27 | 2024-07-20 |
-| [Tantrums \(feat\. James Blake\)](https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:10 | 2024-06-14 |  |
+| [Tantrums \(feat\. James Blake\)](https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:10 | 2024-06-14 | 2025-09-01 |
 | [Tarantino](https://open.spotify.com/track/0TYlzmj7EkJtiPjafJzuaT) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:34 | 2022-07-22 | 2022-07-25 |
 | [tea](https://open.spotify.com/track/6YTZ3l7vbx2lrJYl60uxXS) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [tea](https://open.spotify.com/album/2SFhJuvKw9tE8FI4RQUetm) | 3:41 | 2022-07-15 | 2022-10-15 |
 | [Teach](https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Teach](https://open.spotify.com/album/7cWMXbPvvIVZwy72OuMYjY) | 2:55 | 2022-04-01 | 2022-04-14 |
@@ -1325,6 +1325,7 @@
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2021-03-19 | 2022-06-23 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2022-04-01 | 2022-04-12 |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-31 | 2023-05-06 |
+| [tough guy](https://open.spotify.com/track/3OkdBa6PhTPxOEl2LqGy3L) | [646yf4t](https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF) | [Growing Pains](https://open.spotify.com/album/6tIPprBFkgVJVIT2EBeUqb) | 2:39 | 2025-08-22 |  |
 | [transit](https://open.spotify.com/track/4jooqGSJoluFI6TttmEhLq) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [transit](https://open.spotify.com/album/6wxaaIR88j1XA4tFcTPTDt) | 5:10 | 2023-01-20 | 2023-03-11 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-25 | 2024-03-30 |
 | [TRICK DADDY](https://open.spotify.com/track/3K8xZoLRRqwfZQyudI6vH3) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 1:53 | 2025-05-02 |  |

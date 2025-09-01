@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,142 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,141 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 44 | [Carry Your Load](https://open.spotify.com/track/5HyrrReqMAAKr8YZopAW5n) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:51 |
 | 45 | [Music](https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:49 |
 | 46 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
-| 47 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
-| 48 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 47 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 48 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
 | 49 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 50 | [CHAINS](https://open.spotify.com/track/6xYjG5RKGzubOElLiTIo5k) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:34 |
 | 51 | [I'd Never Find Another You](https://open.spotify.com/track/0mdCa3f0hJVCe02B54okhM) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf) | [The Billy Fury Hit Parade](https://open.spotify.com/album/6fRNMCvZ3lp5XOUvLTvPAx) | 2:37 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab66sgAAAABHMJm+cky7tKBHRZ7Wnedi`
+Snapshot ID: `Ab7ASAAAAACzHvKmXPCC4bF+bixBGooS`

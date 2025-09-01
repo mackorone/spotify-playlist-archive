@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2825,
+  "num_followers": 2829,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
+        "name": "Vai mo' (2021 Remaster)",
+        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
+      },
+      "artists": [
+        {
+          "name": "Pino Daniele",
+          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
+        }
+      ],
+      "duration_ms": 216543,
+      "name": "Yes I Know My Way - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
         "name": "BELLA STRONZA",
         "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 176571,
       "name": "BELLA STRONZA",
       "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Vai mo' (2021 Remaster)",
-        "url": "https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX"
-      },
-      "artists": [
-        {
-          "name": "Pino Daniele",
-          "url": "https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg"
-        }
-      ],
-      "duration_ms": 216543,
-      "name": "Yes I Know My Way - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX"
     },
     {
       "added_at": "2025-03-03 09:30:09",

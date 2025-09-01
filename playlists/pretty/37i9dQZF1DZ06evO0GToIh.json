@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 309051,
+  "num_followers": 309186,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABJLPXxUnHdHijOP2HxhSFM",
+  "snapshot_id": "aLI/AAAAAABkrllgshg09GffeGjCxRaE",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122242,
+      "name": "Oficialmente en Solter\u00eda",
+      "url": "https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 185738,
       "name": "Y Me Ver\u00e1n",
       "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122242,
-      "name": "Oficialmente en Solter\u00eda",
-      "url": "https://open.spotify.com/track/58P1q91WOAkofRlCEA0IHX"
     },
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches De Cantina",
-        "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
+        "name": "Vuela T\u00fa",
+        "url": "https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V"
       },
       "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 226535,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/2Xi56Opl3a3lN6zgciEHO7"
+      "duration_ms": 155481,
+      "name": "Vuela T\u00fa",
+      "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

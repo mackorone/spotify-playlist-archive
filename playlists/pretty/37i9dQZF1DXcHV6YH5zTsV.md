@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHV6YH5zTsV.md) - [plain]
 
 > Get ready to twist and shout \- this is the ultimate Beatles party playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,037 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,041 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

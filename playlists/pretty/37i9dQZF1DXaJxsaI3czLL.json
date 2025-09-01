@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136355,
+  "num_followers": 136366,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Editorial",
-        "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
+        "name": "CAFE JAPAN",
+        "url": "https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08"
       },
       "artists": [
         {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
         }
       ],
-      "duration_ms": 201426,
-      "name": "Bedroom Talk",
-      "url": "https://open.spotify.com/track/1Ppu2rlgrZz0pfcRl20vpC"
+      "duration_ms": 280280,
+      "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/3QppEXrAGuSrs8pmlxBDou"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "CAFE JAPAN",
-        "url": "https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08"
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 280280,
-      "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/3QppEXrAGuSrs8pmlxBDou"
+      "duration_ms": 201426,
+      "name": "Bedroom Talk",
+      "url": "https://open.spotify.com/track/1Ppu2rlgrZz0pfcRl20vpC"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "YELLOW DANCER",
-        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "\u591c",
-      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
         "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 259713,
       "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
       "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "\u591c",
+      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 167885,
-      "name": "Moon Dance",
-      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "Beautiful World",
         "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 340573,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 167885,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "19\u2103",
-        "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 253722,
-      "name": "19\u2103",
-      "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u306f\u306a\u3088\u3069",
         "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 261282,
       "name": "\u3084\u3048",
       "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "19\u2103",
+        "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 253722,
+      "name": "19\u2103",
+      "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 242573,
       "name": "Beautiful Sleep",
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
-        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        },
-        {
-          "name": "Hiroshi Fujiwara",
-          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
-      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 233946,
       "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
       "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u6708\u306e\u5e7b \uff5e Remix works \uff5e",
+        "url": "https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Hiroshi Fujiwara",
+          "url": "https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
+      "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 310520,
       "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
       "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 230204,
       "name": "Tokyo Family Restaurant",
       "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2025-07-17 15:02:14",

@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Tiwa Savage",
-  "num_followers": 255649,
+  "num_followers": 255690,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+    },
+    {
+      "added_at": "2025-08-29 07:57:52",
+      "album": {
         "name": "On The Low",
         "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-08-29 07:57:52",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
-    },
-    {
-      "added_at": "2025-08-29 07:57:52",
-      "album": {
         "name": "Constantly",
         "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 193567,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
+    },
+    {
+      "added_at": "2025-08-29 07:57:52",
+      "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": "2025-08-29 07:57:52",
-      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 164121,
       "name": "by now",
       "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
+    },
+    {
+      "added_at": "2025-08-29 07:57:52",
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
-    },
-    {
-      "added_at": "2025-08-29 07:57:52",
-      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -1155,22 +1139,18 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2025-08-29 07:57:52",
+      "album": {
         "name": "UNLIMITED",
         "url": "https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 126951,
       "name": "UNLIMITED",
       "url": "https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9"
+    },
+    {
+      "added_at": "2025-08-29 07:57:52",
+      "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -1227,22 +1243,6 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
-    },
-    {
-      "added_at": "2025-08-29 07:57:52",
-      "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-08-29 07:57:52",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2025-08-29 07:57:52",
       "album": {
-        "name": "Smooth Kriminal (with Oxlade)",
-        "url": "https://open.spotify.com/album/02kUmkf49XAPOWhwFF3lmt"
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
       "artists": [
         {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Smooth Kriminal (with Oxlade)",
-      "url": "https://open.spotify.com/track/39C3UVMIaU6XOm9iN6fhgg"
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     }
   ],
   "unique_name": "Ginger Me",

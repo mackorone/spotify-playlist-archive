@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 259392,
+  "num_followers": 259443,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -239,26 +255,6 @@
       "duration_ms": 252255,
       "name": "Two Thousand and Seventeen",
       "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Break Apart",
-      "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -299,18 +295,22 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+      "duration_ms": 274693,
+      "name": "Break Apart",
+      "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Turtle Jazz",
-        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Turtle Jazz",
-      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -679,6 +659,26 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
+        "name": "Turtle Jazz",
+        "url": "https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Turtle Jazz",
+      "url": "https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
       },
@@ -695,30 +695,6 @@
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
-        "name": "Flown",
-        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 235702,
-      "name": "Flown",
-      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -755,6 +731,30 @@
       "duration_ms": 354102,
       "name": "October",
       "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "Flown",
+        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 235702,
+      "name": "Flown",
+      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Cold nights and city bike rides.",
-        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        },
-        {
-          "name": "Oliver Rees",
-          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Cold nights and city bike rides.",
-      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 187125,
       "name": "Lydia (please make it better)",
       "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "Cold nights and city bike rides.",
+        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        },
+        {
+          "name": "Oliver Rees",
+          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Cold nights and city bike rides.",
+      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
     },
     {
       "added_at": "2025-08-27 11:10:29",

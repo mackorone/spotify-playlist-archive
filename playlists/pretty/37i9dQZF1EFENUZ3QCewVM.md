@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473 likes - 121 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 121 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 27 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 |
 | 28 | [Cruel Intentions](https://open.spotify.com/track/3Lzx6XSjH3ik3ZvigLK1Fb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:12 |
 | 29 | [FUCKBOY](https://open.spotify.com/track/4z6F5S9wbnjXK1JcCViIKM) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/3SWjeSD9WCC3l58LTmKgWU) | 3:10 |
-| 30 | [The Subway Song](https://open.spotify.com/track/4Hd0vNtf1iHFz2B3tAkexY) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 4:01 |
-| 31 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 30 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
+| 31 | [The Subway Song](https://open.spotify.com/track/4Hd0vNtf1iHFz2B3tAkexY) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 4:01 |
 | 32 | [Tummy Hurts \(feat\. Coco Jones\) \- Remix](https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:47 |
 | 33 | [You Don't Even Know Me](https://open.spotify.com/track/1AcoISuZA2tq5uFOwRA7yu) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [You Don't Even Know Me](https://open.spotify.com/album/6OWcBFdfI15aown78xchVh) | 3:46 |
 | 34 | [Fool's Gold](https://open.spotify.com/track/2VgDWxtqmHJh58enzTyijv) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg), [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:59 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 120 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 121 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 
-Snapshot ID: `Ab66sgAAAADbQ3z+uzezM3QY++O/D/f/`
+Snapshot ID: `Ab7ASAAAAACVMWLNjUimLArlPxILG/LS`

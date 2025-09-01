@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-551 songs - 1 day 2 hr 49 min
+552 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 | 2025-04-11 |  |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-16 | 2024-04-19 |
 | [All Night](https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [All Night & Gemini](https://open.spotify.com/album/7hmuaX4utQQELTvPIovNUn) | 2:31 | 2025-05-30 |  |
-| [All Nighter](https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [All Nighter](https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm) | 2:25 | 2025-06-27 |  |
+| [All Nighter](https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [All Nighter](https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm) | 2:25 | 2025-06-27 | 2025-09-01 |
 | [All That You Need](https://open.spotify.com/track/2tPecaIFLCxPWRjZkoqJoQ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/75s5BUC7M1SCw8ORUjkbxD) | 2:40 | 2022-09-09 | 2022-09-12 |
 | [All That You Need](https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [All That You Need](https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt) | 2:40 | 2022-09-09 | 2024-04-19 |
 | [Alone](https://open.spotify.com/track/05u2bMqTUNgD5CnxM7pEcU) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Alone](https://open.spotify.com/album/2VXvzPE7jTOol7ALzyTAfL) | 2:29 | 2021-10-29 | 2022-07-29 |
@@ -263,6 +263,7 @@
 | [Insane](https://open.spotify.com/track/6dnMgcSGyonR9LncwQTY6g) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF) | [Insane](https://open.spotify.com/album/4or3mIae4pphsjbwzkLhyn) | 2:39 | 2024-06-07 | 2025-04-12 |
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-04-01 | 2023-06-10 |
 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 | 2022-11-29 |  |
+| [Instant Moments](https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT) | [Divasi](https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY) | [Instant Moments](https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu) | 2:40 | 2025-08-29 |  |
 | [IQ Doesn't Matter](https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [IQ Doesn't Matter](https://open.spotify.com/album/47Mks62R6OaDfQWPt55fbp) | 2:27 | 2021-10-29 | 2022-03-21 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-07-12 | 2025-01-19 |
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |

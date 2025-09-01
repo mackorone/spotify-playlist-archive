@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,845 likes - 69 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,847 likes - 69 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 32 | [Belo Horizonte 30 Graus A Noite](https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Overdone](https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ) | [Fora Da Panela \(Mixtape\)](https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V) | 2:44 |
 | 33 | [Uk Drill](https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi) | [Uk Drill](https://open.spotify.com/album/7lfvKFpnyyIkabluqj6O0h) | 2:06 |
 | 34 | [SONHOS](https://open.spotify.com/track/4uvuvrx8lcrmpO01qqkeiK) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:12 |
-| 35 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 |
+| 35 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 |
 | 36 | [Sou Eu Mesma](https://open.spotify.com/track/0jBkw14sG2bbWaAWt95INe) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sou Eu Mesma](https://open.spotify.com/album/3XrbOjWQ3dRDGAynXACRAP) | 1:36 |
 | 37 | [FALADOR \- Freestyle](https://open.spotify.com/track/4cErznY085FaB3LxoJigmV) | [RodY 011](https://open.spotify.com/artist/7MMeyE1XDciazG1p4jF6nv), [G$](https://open.spotify.com/artist/7luv45bIC9slJ6BnXCWw6Y) | [FALADOR \(Freestyle\)](https://open.spotify.com/album/4bEzme1BRZPLT68u6A5U2e) | 2:12 |
 | 38 | [Se Quiser Só Vai](https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:43 |

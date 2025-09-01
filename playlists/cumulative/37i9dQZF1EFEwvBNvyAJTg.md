@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-250 songs - 13 hr 38 min
+251 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [White Girl](https://open.spotify.com/track/5qCQyPB2MEICEcSC8WVbNx) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:21 | 2024-06-13 |  |
 | [Who's Laughing Now](https://open.spotify.com/track/4j0IWZ8k3r7BFhuAuCM4uc) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Int'l Version\)](https://open.spotify.com/album/3KJBsmsJQK5timf0TESYUg) | 3:54 | 2024-06-13 |  |
 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/2yxoUbky67EEftHoYZQqT0) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:19 | 2024-06-13 |  |
+| [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 | 2025-08-31 |  |
 | [WITCHCRAFT GIRLS](https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:46 | 2024-06-13 |  |
 | [Words Don't Come So Easily](https://open.spotify.com/track/0KxtWB6hiGyzeyFGs9UAW4) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Lower Than Atlantis](https://open.spotify.com/album/25xQevIYTCKcvsw9fyZoDb) | 3:18 | 2025-01-09 | 2025-04-12 |
 | [Work](https://open.spotify.com/track/3yx6eryOZgO54bt3B671cn) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:43 | 2025-01-09 | 2025-04-12 |

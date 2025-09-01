@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 196301,
+  "num_followers": 196292,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 145175,
       "name": "Bara vi, bara jag, bara du",
       "url": "https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Backspegeln",
-        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 226745,
-      "name": "Backspegeln",
-      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Ramla",
-        "url": "https://open.spotify.com/album/39OJYOVxta0JzTODnefED9"
-      },
-      "artists": [
-        {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
-        }
-      ],
-      "duration_ms": 154156,
-      "name": "Ramla",
-      "url": "https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "Waiting For A Star To Fall",
         "url": "https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI"
+        "name": "Ramla",
+        "url": "https://open.spotify.com/album/39OJYOVxta0JzTODnefED9"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
         }
       ],
-      "duration_ms": 192593,
-      "name": "Carpe Diem",
-      "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
+      "duration_ms": 154156,
+      "name": "Ramla",
+      "url": "https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -567,18 +551,34 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Legalize Living",
-        "url": "https://open.spotify.com/album/50bN734086s72BiT5VNoPw"
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/5iRT4669x6nim2INHF7wyI"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 204631,
-      "name": "Legalize Living",
-      "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
+      "duration_ms": 192593,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "F\u00f6rr nu & forever",
+        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Glycerin (Merediths visa)",
+      "url": "https://open.spotify.com/track/5X1igZ1XLZ8JUIqkZF354K"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -595,6 +595,22 @@
       "duration_ms": 172596,
       "name": "Allt jag har",
       "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Legalize Living",
+        "url": "https://open.spotify.com/album/50bN734086s72BiT5VNoPw"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "Legalize Living",
+      "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -647,54 +663,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "F\u00f6rr nu & forever",
-        "url": "https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Glycerin (Merediths visa)",
-      "url": "https://open.spotify.com/track/5X1igZ1XLZ8JUIqkZF354K"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Cast Away",
-        "url": "https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Cast Away",
-      "url": "https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "4L",
         "url": "https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd"
       },
@@ -707,38 +675,6 @@
       "duration_ms": 151730,
       "name": "4L",
       "url": "https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Sommarland",
-        "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 163064,
-      "name": "Sommarland",
-      "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "BALENCIAGA COVERED EYES",
-        "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 245567,
-      "name": "BALENCIAGA COVERED EYES",
-      "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -759,6 +695,54 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 163064,
+      "name": "Sommarland",
+      "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Cast Away",
+        "url": "https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Cast Away",
+      "url": "https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
         "name": "Bella Notte",
         "url": "https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Dance King",
-        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
+        "name": "BALENCIAGA COVERED EYES",
+        "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
       },
       "artists": [
         {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
         }
       ],
-      "duration_ms": 150872,
-      "name": "Dance King",
-      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
+      "duration_ms": 245567,
+      "name": "BALENCIAGA COVERED EYES",
+      "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "F\u00f6r Sverige i tiden",
+        "url": "https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "F\u00f6r Sverige i tiden",
+      "url": "https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -811,38 +811,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Hej d\u00e4r mitt hj\u00e4rta",
-        "url": "https://open.spotify.com/album/1ttH6BHuYoqCiOzn84Sb9p"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Hej d\u00e4r mitt hj\u00e4rta",
-      "url": "https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "F\u00f6r Sverige i tiden",
-        "url": "https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "F\u00f6r Sverige i tiden",
-      "url": "https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "Jag har h\u00f6rt (hahaha)",
         "url": "https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 185000,
       "name": "Jag har h\u00f6rt (hahaha)",
       "url": "https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Dance King",
+        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 150872,
+      "name": "Dance King",
+      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Hej d\u00e4r mitt hj\u00e4rta",
+        "url": "https://open.spotify.com/album/1ttH6BHuYoqCiOzn84Sb9p"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Hej d\u00e4r mitt hj\u00e4rta",
+      "url": "https://open.spotify.com/track/1oBZzUV7j9zivts8gfZXNR"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
+        "name": "Bl\u00e5ljus",
+        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Bl\u00e5ljus",
+      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
         "name": "Inte bra i grupp",
         "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Bl\u00e5ljus",
-        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Bl\u00e5ljus",
-      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1051,18 +1071,18 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Ringar p\u00e5 vatten",
-        "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
+        "name": "Andarna",
+        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
       "artists": [
         {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 153998,
-      "name": "Ringar p\u00e5 vatten",
-      "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
+      "duration_ms": 226124,
+      "name": "Andarna",
+      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1091,6 +1111,22 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
+        "name": "Ringar p\u00e5 vatten",
+        "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "duration_ms": 153998,
+      "name": "Ringar p\u00e5 vatten",
+      "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
         "name": "Take It! Take It!",
         "url": "https://open.spotify.com/album/1jzob45PzKBXnvQ6fQpNTC"
       },
@@ -1107,18 +1143,18 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Andarna",
-        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
       "artists": [
         {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
         }
       ],
-      "duration_ms": 226124,
-      "name": "Andarna",
-      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1135,26 +1171,6 @@
       "duration_ms": 213680,
       "name": "MSN & Lunar",
       "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 230573,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1327,22 +1343,6 @@
       "duration_ms": 169723,
       "name": "Sommarsinnet",
       "url": "https://open.spotify.com/track/4PbUCjJb3tohMQFgXLIuJv"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "I Believed",
         "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 179266,
       "name": "I Believed",
       "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Swedish Girl",
+        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 153937,
+      "name": "Swedish Girl",
+      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
+        "name": "Dr\u00f6mmare",
+        "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
       },
       "artists": [
         {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+          "name": "Jakob Hellman",
+          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
+        },
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 207560,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
+      "duration_ms": 206977,
+      "name": "Dr\u00f6mmare",
+      "url": "https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Dr\u00f6mmare",
-        "url": "https://open.spotify.com/album/5gBifDZIcbwifi9TDVXzfS"
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
       },
       "artists": [
         {
-          "name": "Jakob Hellman",
-          "url": "https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG"
-        },
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
         }
       ],
-      "duration_ms": 206977,
-      "name": "Dr\u00f6mmare",
-      "url": "https://open.spotify.com/track/3LhUaJOzQpcWTIuBxtr9fC"
+      "duration_ms": 207560,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "Min Ibland",
-        "url": "https://open.spotify.com/album/0X98hKynTxswzzXrHIKp3R"
-      },
-      "artists": [
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 139960,
-      "name": "Min Ibland",
-      "url": "https://open.spotify.com/track/3PRtA83KfWcKzgEspcxtKq"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "Bl\u00e5jeans och stj\u00e4rnljus",
         "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "Min Ibland",
+        "url": "https://open.spotify.com/album/0X98hKynTxswzzXrHIKp3R"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "duration_ms": 139960,
+      "name": "Min Ibland",
+      "url": "https://open.spotify.com/track/3PRtA83KfWcKzgEspcxtKq"
     },
     {
       "added_at": "2025-08-28 22:00:20",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-08-28 22:00:20",
       "album": {
-        "name": "big bite mixtape",
-        "url": "https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T"
-      },
-      "artists": [
-        {
-          "name": "mimi bay",
-          "url": "https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf"
-        }
-      ],
-      "duration_ms": 169386,
-      "name": "go cowboy",
-      "url": "https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA"
-    },
-    {
-      "added_at": "2025-08-28 22:00:20",
-      "album": {
         "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
         "url": "https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 185115,
       "name": "kanske lika bra att vi l\u00e4gger av n\u00e4r vi ligger bra",
       "url": "https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh"
+    },
+    {
+      "added_at": "2025-08-28 22:00:20",
+      "album": {
+        "name": "big bite mixtape",
+        "url": "https://open.spotify.com/album/6S90qib2tu9vmn1CYAU72T"
+      },
+      "artists": [
+        {
+          "name": "mimi bay",
+          "url": "https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf"
+        }
+      ],
+      "duration_ms": 169386,
+      "name": "go cowboy",
+      "url": "https://open.spotify.com/track/1RvUSGdtvcHtWcO5bznlRA"
     },
     {
       "added_at": "2025-08-28 22:00:20",

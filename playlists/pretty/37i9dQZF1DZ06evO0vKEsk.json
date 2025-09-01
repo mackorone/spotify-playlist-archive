@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133169,
+  "num_followers": 133167,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLDtgAAAAABf1Ws4BDLIAw2FQf9Ksmnw",
+  "snapshot_id": "aLI/AAAAAAAwSvxU5oaDbUkaksu9kMKq",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sou Humano",
         "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 270976,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siga em Frente",
         "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 253004,
       "name": "Lugar Santo",
       "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+      "duration_ms": 254769,
+      "name": "Vento do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 254769,
-      "name": "Vento do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe"
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,

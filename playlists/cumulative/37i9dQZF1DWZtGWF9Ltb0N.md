@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-828 songs - 2 day 6 hr 27 min
+829 songs - 2 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [GLADIUS](https://open.spotify.com/track/2S6UdljYBjV6MRDRclz49N) | [BLAAP](https://open.spotify.com/artist/77YPCxtm3Djyu585a7JI7a), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Freddy Todd](https://open.spotify.com/artist/4BwM43tn51Mq0Dn8NMB5zk) | [GLADIUS](https://open.spotify.com/album/0gHyC8WEombnkh4lgpopg4) | 3:41 | 2024-11-15 | 2025-01-29 |
 | [Global](https://open.spotify.com/track/3CuNX6KlrDFxBcwFp1NRwY) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Decolonize](https://open.spotify.com/album/3Sz2i96qNwnlevouWxbeNz) | 6:27 | 2022-07-08 | 2024-04-05 |
 | [Global](https://open.spotify.com/track/418pbBTQTpUwNkydr9zo4y) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Decolonize](https://open.spotify.com/album/2pVccXB0QBGOpfOGiNhasO) | 6:27 | 2022-02-17 | 2022-07-29 |
-| [Glory](https://open.spotify.com/track/2UnhLpz7PF9gZqq1v1YFSK) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Glory](https://open.spotify.com/album/5q4tDYc2XCz2IdZjMQD8D8) | 3:05 | 2024-09-13 |  |
+| [Glory](https://open.spotify.com/track/2UnhLpz7PF9gZqq1v1YFSK) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Glory](https://open.spotify.com/album/5q4tDYc2XCz2IdZjMQD8D8) | 3:05 | 2024-09-13 | 2025-09-01 |
 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 | 2025-08-15 |  |
 | [Goblin \- 2024 Remaster](https://open.spotify.com/track/0EikGhoWleZXxtwJNUXtVy) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Goblin \(2024 Remaster & Hamdi Remix\)](https://open.spotify.com/album/6VV7XaCfPKDjwBT9tnA2TY) | 4:36 | 2024-09-13 | 2024-10-26 |
 | [Godless](https://open.spotify.com/track/34tVJbdGRbYzmphqiGVjAd) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [The Lower World](https://open.spotify.com/album/2hpPyPFwpyxZUPpVkou6sI) | 3:40 | 2025-05-23 |  |
@@ -673,6 +673,7 @@
 | [Spark The Room](https://open.spotify.com/track/4itmrvpqrXT3LvhbG1RxEU) | [Screamarts](https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Antithesis](https://open.spotify.com/album/16tkls2N88AfTutvdTAjtc) | 3:29 | 2024-11-15 | 2025-02-01 |
 | [Spear Dub](https://open.spotify.com/track/75wuEqw0J9eGyXiKi9aZzm) | [DubDiggerz](https://open.spotify.com/artist/48VBzyr90iGZSYmQd0uRRl) | [Spear Dub](https://open.spotify.com/album/59jfCrTfAPH2qti0ZNe63p) | 5:32 | 2022-02-17 | 2022-07-29 |
 | [Special Delivery](https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Special Delivery](https://open.spotify.com/album/6VQQqcpH9HgXdIRl95wsWZ) | 3:47 | 2023-09-15 |  |
+| [Spenk](https://open.spotify.com/track/3VdvyE4glqXT5MtL7PKkyK) | [Aweminus](https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [Spenk](https://open.spotify.com/album/7nGjjRLeM4rDzDdWylsL9H) | 4:36 | 2025-08-29 |  |
 | [Spine](https://open.spotify.com/track/1Hms7YOiUhcfICk4IjeS0o) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spine](https://open.spotify.com/album/2eTaMkVXER0MYqEaNljMe4) | 3:27 | 2025-01-31 |  |
 | [Spook'em](https://open.spotify.com/track/6gHCnGXo5FwyMhM97JQ0OH) | [Rygby](https://open.spotify.com/artist/4JYWD2cPpCgnXE1T3lhKg9) | [ENC021](https://open.spotify.com/album/5Mn6vzceZIbtSbuVMj9zRO) | 4:13 | 2022-02-17 | 2022-07-28 |
 | [Spooky Dub](https://open.spotify.com/track/0FhXQww4gwk4AxW01BgYYg) | [MR.K](https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G) | [Holdin' EP](https://open.spotify.com/album/2TR8HDuIlwwLeLONBqISKS) | 4:37 | 2022-02-17 | 2022-07-30 |
