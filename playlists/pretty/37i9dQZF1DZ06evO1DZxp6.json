@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 233910,
+  "num_followers": 233952,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAAC8yZs/rwiXOpj1W8/tkAxG",
+  "snapshot_id": "aLOQgAAAAABYZMqeGBDGt/VarNHNNcki",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti",
-        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "De Ti",
-      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -915,22 +895,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qomunidad",
-        "url": "https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG"
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
       "artists": [
         {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 231082,
-      "name": "El Para\u00edso",
-      "url": "https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew"
+      "duration_ms": 224739,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Certa Manha Acordei De Sonhos Intranquilos",
+        "url": "https://open.spotify.com/album/7wn5gtrPC8pOSoqBgc7EZK"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/23DnvfI41PNvTHEkGJXVBC"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064,780 likes - 307 songs - 14 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,993 likes - 307 songs - 14 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 306 | [Self Restore](https://open.spotify.com/track/6cjyZPz3EBwCIprOttjj1W) | [Mountainlake Individual](https://open.spotify.com/artist/0Kq17D6L4miAuMsbnyH1PH) | [Self Restore](https://open.spotify.com/album/3hgYz79E6GEic54YZVR8v8) | 3:17 |
 | 307 | [Deep Under](https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B) | [Starstrum](https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3) | [Deep Under](https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0) | 2:29 |
 
-Snapshot ID: `AAAAAFzg7hb6WFk62scAaWI4q9rqpUV8`
+Snapshot ID: `AAAAAPWjLH+htI6f1gdzvQZIf5g7AqjI`

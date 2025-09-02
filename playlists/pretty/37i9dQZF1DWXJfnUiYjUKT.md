@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Sabrina Carpenter on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,273 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,282 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 79 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
 | 80 | [Stewpid](https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Stewpid](https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4) | 2:41 |
 | 81 | [New Song](https://open.spotify.com/track/45q2AOznIJfxzBUWiHrZUh) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [New Song](https://open.spotify.com/album/6MhdDBccYBGBDkjOUncjsZ) | 2:55 |
-| 82 | [So Ghetto](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
+| 82 | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
 | 83 | [Coco Gauff](https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Coco Gauff](https://open.spotify.com/album/0NPKleK27CApFerYi1rN7W) | 2:17 |
 | 84 | [Dream of You](https://open.spotify.com/track/6kBMDjsl16SRkHmtyDi2Vu) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Dream of You](https://open.spotify.com/album/06pukcyvAvWMEuOnV9O18i) | 3:46 |
 | 85 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |

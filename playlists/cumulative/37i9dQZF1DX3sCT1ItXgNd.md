@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Juan Magán, Abraham Mateo
 
-778 songs - 1 day 15 hr 2 min
+779 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Desamarte](https://open.spotify.com/track/3xH7WdukxUJ90f4wZ0L5Ah) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Desamarte](https://open.spotify.com/album/6cje9Av6IKMjGPU0HDw5Rn) | 3:06 | 2025-05-12 |  |
 | [Desconocido](https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:53 | 2024-04-23 | 2024-07-05 |
 | [Desconocidos](https://open.spotify.com/track/4ENTAdTmgoZ2pID2eciubD) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Desconocidos](https://open.spotify.com/album/5EmUUyhdmQw3hc8cTTDcF0) | 2:30 | 2024-03-04 | 2024-03-23 |
-| [desmaquillada](https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [desmaquillada](https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc) | 2:08 | 2025-08-14 |  |
+| [desmaquillada](https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [desmaquillada](https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc) | 2:08 | 2025-08-14 | 2025-09-02 |
 | [Despedida](https://open.spotify.com/track/110BAOGkDSP4T5hUUius1q) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Despedida](https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf) | 2:23 | 2025-04-03 | 2025-06-18 |
 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 | 2023-03-13 | 2023-09-22 |
 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 | 2023-03-28 | 2023-04-11 |
@@ -384,6 +384,7 @@
 | [Lo he intentado](https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Lo he intentado](https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0) | 3:07 | 2024-07-15 | 2024-10-05 |
 | [Lo que fuimos](https://open.spotify.com/track/3ET7xi7oTO3g6ixCGgYzse) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Lo que fuimos](https://open.spotify.com/album/36Sg2N2IzHooZ2dTDmYSA2) | 2:47 | 2024-09-09 | 2024-09-18 |
 | [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 | 2025-01-23 | 2025-02-04 |
+| [Lo Que Pasó, Pasó \- feat\. Marta Santos](https://open.spotify.com/track/5uJYKNFVkPEjWi8sXuBoUq) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Lo Que Pasó, Pasó \(feat\. Marta Santos\)](https://open.spotify.com/album/0Z2joo0ZTmHXIAeqE2X6BW) | 2:42 | 2025-09-01 |  |
 | [Lo Que Queda de Mí](https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Lo Que Queda de Mí](https://open.spotify.com/album/5gSUafhGxfjgna6Wr0fiVc) | 3:50 | 2023-11-30 | 2024-01-26 |
 | [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 | 2024-10-21 | 2024-10-29 |
 | [Loka](https://open.spotify.com/track/5avBTSSq8umEAj7q6ONACv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Loka](https://open.spotify.com/album/3JXHAfYFUBuIANrq1CE5Cp) | 3:01 | 2023-11-02 | 2023-11-22 |

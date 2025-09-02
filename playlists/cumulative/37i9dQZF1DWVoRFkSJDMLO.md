@@ -4,7 +4,7 @@
 
 > From the continent to the islands with Skillibeng\. 🇯🇲
 
-1,429 songs - 2 day 23 hr 5 min
+1,430 songs - 2 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1266,6 +1266,7 @@
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 | 2024-04-19 |
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2023-12-15 | 2024-05-18 |
 | [Too Girly Girly](https://open.spotify.com/track/4pxmWIqKflqDNfhon9AOat) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Too Girly Girly](https://open.spotify.com/album/4NYkz5khn8h090UNsK1958) | 2:11 | 2024-07-05 | 2024-07-19 |
+| [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 | 2025-09-01 |  |
 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 | 2025-02-28 | 2025-03-29 |
 | [Too Young](https://open.spotify.com/track/25d6J6vWQznMkOTS73KSUW) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Lanae](https://open.spotify.com/artist/2G87fDiyNnJmCQStwG0oam) | [Too Young](https://open.spotify.com/album/03dhscBuyiDdIHf58zBe7D) | 2:20 | 2022-05-27 | 2022-06-11 |
 | [Top Gyal](https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P) | [Top Gyal](https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH) | 2:06 | 2025-08-22 |  |

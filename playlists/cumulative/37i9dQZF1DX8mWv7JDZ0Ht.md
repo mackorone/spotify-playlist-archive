@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Doral
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Mariana Nolasco
 
-856 songs - 1 day 18 hr 45 min
+857 songs - 1 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Quem É Você?](https://open.spotify.com/track/0fburSFYhNq39QBirzGILU) | [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Quem É Você?](https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk) | 3:44 | 2025-05-16 | 2025-07-04 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-05-17 |
 | [Quero Bem Mais](https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Quero Bem Mais](https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL) | 3:17 | 2023-11-24 | 2024-03-23 |
+| [Quero Te Contar](https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [quero te contar](https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD) | 2:45 | 2025-09-01 |  |
 | [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 | 2023-12-16 |
 | [Quero Te Ver Pra Sempre](https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Quero Te Ver Pra Sempre](https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk) | 3:19 | 2023-08-04 | 2023-09-02 |
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-16 | 2023-01-28 |
@@ -715,7 +716,7 @@
 | [Sumido](https://open.spotify.com/track/1lalcRBPVD5XJT1lQHcgoE) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Vitória](https://open.spotify.com/album/3xL7lEKuL1icXn7LjVudx0) | 3:09 | 2024-10-11 | 2024-11-09 |
 | [Sustentar](https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi), [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [Sustentar](https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF) | 2:27 | 2023-07-28 | 2023-09-30 |
 | [Só love](https://open.spotify.com/track/7q7qSCnDNJi6EDWdrd0jK5) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Só love](https://open.spotify.com/album/4XM2aCxAxUwcZnRmTev9Yi) | 2:41 | 2025-02-14 |  |
-| [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 |  |
+| [Só Mais Um Pouquinho](https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Só Mais Um Pouquinho](https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll) | 3:13 | 2024-02-23 | 2025-09-02 |
 | [Só Pra Te Falar](https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Só Pra Te Falar](https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK) | 2:41 | 2022-11-18 | 2023-01-28 |
 | [Só Quero Te Agradecer](https://open.spotify.com/track/4zEt63lCEJlB3co0rfbtzz) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Só Quero Te Agradecer](https://open.spotify.com/album/2kHLOvnLAY80tY4FVNfBWO) | 3:07 | 2024-05-06 | 2024-06-14 |
 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 | 2023-12-22 | 2024-03-23 |

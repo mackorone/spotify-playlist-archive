@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Aug 18:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Sep 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUXYMiiNycG8uuG260Nx0Ovhq73eTz",
+  "snapshot_id": "AAAUY7GtsXMIil8MweiRjRalkvLTIyvH",
   "tracks": [
+    {
+      "added_at": "2025-09-02 03:04:52",
+      "album": {
+        "name": "CIBELES",
+        "url": "https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Ramos",
+          "url": "https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "CIBELES",
+      "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
+    },
     {
       "added_at": "2025-08-29 22:04:54",
       "album": {
@@ -249,6 +265,26 @@
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
     },
     {
+      "added_at": "2025-09-01 13:04:46",
+      "album": {
+        "name": "Dyslexic Palindrome",
+        "url": "https://open.spotify.com/album/0vt6shKPsE4vfxbEK09bk0"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242080,
+      "name": "Dyslexic Palindrome",
+      "url": "https://open.spotify.com/track/0yuc3D0SWBZE2jhS1wJ5FG"
+    },
+    {
       "added_at": "2025-08-27 22:06:32",
       "album": {
         "name": "BADITUDE",
@@ -327,6 +363,22 @@
       "duration_ms": 176612,
       "name": "Bound2U",
       "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
+    },
+    {
+      "added_at": "2025-09-01 08:06:26",
+      "album": {
+        "name": "Like a Girl",
+        "url": "https://open.spotify.com/album/5Px05kjKITxjHCo02chB7i"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "Like a Girl",
+      "url": "https://open.spotify.com/track/3lGwlj49DIdoqYPLgb1BjN"
     },
     {
       "added_at": "2025-08-30 18:04:36",
@@ -787,54 +839,6 @@
       "duration_ms": 126545,
       "name": "Burning Up",
       "url": "https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ"
-    },
-    {
-      "added_at": "2025-08-21 18:04:36",
-      "album": {
-        "name": "Stardust / The Whole Woman",
-        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 406093,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/1Kl98pNTsvegkWpUKIO6bH"
-    },
-    {
-      "added_at": "2025-08-22 18:06:05",
-      "album": {
-        "name": "Like 1",
-        "url": "https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Like 1",
-      "url": "https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V"
-    },
-    {
-      "added_at": "2025-08-20 22:03:57",
-      "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     }
   ],
   "unique_name": "New Singles Now",

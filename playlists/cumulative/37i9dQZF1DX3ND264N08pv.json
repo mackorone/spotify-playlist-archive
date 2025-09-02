@@ -954,7 +954,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 156000,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ"
@@ -1042,6 +1042,24 @@
       "duration_ms": 188210,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
+    },
+    {
+      "album": {
+        "name": "Club Banger EP",
+        "url": "https://open.spotify.com/album/1dRTAgu3lF9zpe1WaDZ2wf"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118363,
+      "name": "Club Banger",
+      "url": "https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS"
     },
     {
       "album": {
@@ -5912,7 +5930,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 125333,
       "name": "Straight To The Brain",
       "url": "https://open.spotify.com/track/6WoOEoQOUeUakj357xvcPy"
@@ -6168,7 +6186,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 172706,
       "name": "The Apocalypse",
       "url": "https://open.spotify.com/track/3XrgmtMna0SCc8dRhhIGbm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWzxsIy8S0Ow>Teoman</a>, <a href=spotify:playlist:37i9dQZF1EIZsq3tmw5snT>Dani Fern\u00e1ndez</a>, <a href=spotify:playlist:37i9dQZF1EIZ5e425mZ0ye>Melike \u015eahin</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIX6NImthQCY7>Chris MC</a>, <a href=spotify:playlist:37i9dQZF1EIX6GYgGlhini>Ha*Ash</a>, <a href=spotify:playlist:37i9dQZF1EIUZByzgp9TdY>Lewis Capaldi</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
@@ -2774,6 +2774,24 @@
       "duration_ms": 250653,
       "name": "Del r\u00edo",
       "url": "https://open.spotify.com/track/2G3ud9WTxl6uYRG75X6Ib0"
+    },
+    {
+      "album": {
+        "name": "Deli Kan",
+        "url": "https://open.spotify.com/album/104AWqgfdjl368pWnyEI16"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248465,
+      "name": "Deli Kan",
+      "url": "https://open.spotify.com/track/4hnXCdg80boIlTHyWgmV0r"
     },
     {
       "album": {
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 123870,
       "name": "I Won't Beg for You",
       "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
@@ -5722,6 +5740,28 @@
       "duration_ms": 212606,
       "name": "It's You",
       "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/24JDfbTvl6EDZvRQLbNAy6"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        },
+        {
+          "name": "\u015eebnem Ferah",
+          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274533,
+      "name": "\u0130ki Yabanc\u0131",
+      "url": "https://open.spotify.com/track/2Eb9soohEouU73DZ5PA58j"
     },
     {
       "album": {
@@ -6602,7 +6642,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 242652,
       "name": "listen before i go",
       "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
@@ -7132,7 +7172,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
@@ -8184,7 +8224,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -9714,7 +9754,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 217557,
       "name": "Sensiz Olmaz",
       "url": "https://open.spotify.com/track/27t7YHIlw0u1uVO302wpvD"
@@ -9830,6 +9870,24 @@
       "duration_ms": 251433,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/1RQkKTyJZhFERJy6t5gIbv"
+    },
+    {
+      "album": {
+        "name": "Entre las dudas y el azar",
+        "url": "https://open.spotify.com/album/7jlqlUmgafE9UJSDIkV9EF"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244935,
+      "name": "Si tus piernas",
+      "url": "https://open.spotify.com/track/5wqwUPr7DbRT6FogXVmWWj"
     },
     {
       "album": {
@@ -10400,7 +10458,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 202000,
       "name": "Stargazing - Moonlight Version",
       "url": "https://open.spotify.com/track/6IdFbZkzvaS7apASHareqI"

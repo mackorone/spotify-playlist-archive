@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-386 songs - 20 hr 44 min
+388 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [...Japanese pancakes](https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...Japanese pancakes](https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9) | 2:13 | 2025-05-22 | 2025-07-10 |
 | [00:00:01](https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [00:00:01](https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW) | 2:10 | 2025-07-03 | 2025-08-08 |
 | [02:30](https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [02:30](https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja) | 3:37 | 2025-01-16 |  |
-| [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 |  |
+| [112](https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [112](https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7) | 3:16 | 2025-03-20 | 2025-09-02 |
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-28 | 2024-10-13 |
 | [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 | 2025-08-14 |  |
 | [500 kr](https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa) | [I$AK](https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [500 kr](https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE) | 3:45 | 2025-08-07 |  |
@@ -39,6 +39,7 @@
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-03 |  |
 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 | 2024-06-28 | 2024-08-23 |
 | [Backspegeln](https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Backspegeln](https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2) | 3:46 | 2025-08-21 |  |
+| [Bad Dream](https://open.spotify.com/track/4MIyiOOiMv10ybKL0N3hQN) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Bad Dream](https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9) | 3:24 | 2025-09-01 |  |
 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 | 2025-08-07 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
@@ -221,7 +222,7 @@
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 |  |
-| [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 |  |
+| [Lasse & hunden](https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Lasse & hunden](https://open.spotify.com/album/0SEyzhS1YHYQCsyTIlxzIG) | 2:44 | 2025-03-24 | 2025-09-02 |
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 | 2025-03-13 |  |
 | [LIE TO ME](https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [KELLYKKE](https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj) | [LIE TO ME](https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn) | 2:49 | 2025-05-30 |  |
@@ -241,6 +242,7 @@
 | [Lupins In Blue \- Harry Hayes Remix](https://open.spotify.com/track/33gniadkmUayASOPuTQnLb) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Lupins In Blue \(Harry Hayes Remix\)](https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1) | 2:57 | 2024-09-19 | 2025-03-09 |
 | [Längesen](https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Längesen](https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ) | 3:11 | 2025-05-15 | 2025-08-22 |
 | [Låta Dig Gå](https://open.spotify.com/track/4d3UATZjyBqff5U6Cbs08h) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Låta Dig Gå](https://open.spotify.com/album/4aVb3fj8jMFZa8WJq3NPqh) | 3:22 | 2024-06-28 | 2024-08-09 |
+| [Madame](https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Madame](https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf) | 2:14 | 2025-09-01 |  |
 | [Maskinen är tillbaka](https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw) | [Maskinen](https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf) | [Maskinen är tillbaka](https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm) | 2:19 | 2024-06-28 | 2025-03-14 |
 | [MATTER](https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir) | [NAVII](https://open.spotify.com/artist/4WzIyUXg4knXtXjuFxwW9l) | [MATTER](https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V) | 2:45 | 2024-08-15 | 2024-09-13 |
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-06-28 | 2024-08-30 |

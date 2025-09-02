@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:5LQgfVZPc6yC4VfDRj5xmi">Norbi&Wika</a>, <a href="spotify:artist:2z22TuCBjDnymI8mAv30W4">Motorboats</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,965 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,969 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

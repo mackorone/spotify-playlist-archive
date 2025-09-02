@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-695 songs - 1 day 16 hr 49 min
+696 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bubble](https://open.spotify.com/track/5njRRuTqS5jc0hnRLEiuAv) | [Jayden Paul](https://open.spotify.com/artist/29gvU820Nffy7b3TfB4bUl) | [Bubble](https://open.spotify.com/album/6vGV23SUU5PIUicPWy9NA4) | 4:50 | 2022-12-02 | 2024-12-12 |
 | [Buddy](https://open.spotify.com/track/4K5O3kx6c8jt81PrhCIHcy) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Buddy](https://open.spotify.com/album/6O43i10RhyxbF7GysYbb0E) | 4:28 | 2025-02-14 | 2025-05-24 |
 | [Bullet Vizhigalal \- Speed Up](https://open.spotify.com/track/67xBnmxtiYz53Wc0CqoOJU) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [Bullet Vizhigalal](https://open.spotify.com/album/24XucL2zXmAMPPkvUMLoj5) | 2:58 | 2024-06-14 | 2024-07-27 |
+| [BUTTERFLY](https://open.spotify.com/track/3xE3VFkV0Z78tFrFdsfGNK) | [Amala](https://open.spotify.com/artist/2o8hZWGjWneBgogNfAo641), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [BUTTERFLY](https://open.spotify.com/album/22V6DhRXjE4cVFwiA8V5tS) | 4:11 | 2025-09-01 |  |
 | [Bye Bye Bhaiya](https://open.spotify.com/track/5DeFoUexJicerrgXRXDLUi) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Bye Bye Bhaiya](https://open.spotify.com/album/1CDsn3do1lxwOTsgcYt8BZ) | 3:18 | 2025-02-20 |  |
 | [Champagini \- From "Think Indie"](https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Champagini \(From "Think Indie"\)](https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM) | 1:56 | 2025-04-18 |  |
 | [Chechi](https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj) | [Marshall](https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD) | [Chechi](https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4) | 3:12 | 2025-01-30 |  |

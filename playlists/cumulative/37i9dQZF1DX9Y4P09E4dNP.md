@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Fameye
+> The big Hip\-Life hits rn\. Cover: Shatta Wale
 
-279 songs - 17 hr 36 min
+281 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ahomka Womu](https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:30 | 2020-02-20 | 2022-07-28 |
 | [Aketesia](https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7) | [Nyankonton](https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc) | 5:11 | 2020-02-20 | 2024-03-05 |
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-03-04 | 2024-06-15 |
-| [Alaba](https://open.spotify.com/track/4Fz91Pk8VsyL9GIweeiDru) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Alaba](https://open.spotify.com/album/0xrC1JurZg5HadykKZrsXm) | 3:11 | 2025-08-22 |  |
+| [Alaba](https://open.spotify.com/track/4Fz91Pk8VsyL9GIweeiDru) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Alaba](https://open.spotify.com/album/0xrC1JurZg5HadykKZrsXm) | 3:11 | 2025-08-22 | 2025-09-02 |
 | [Alampaine](https://open.spotify.com/track/0ZOc6TTrgG4nEquANacw7B) | [Jay Dee](https://open.spotify.com/artist/43e1fq8gcisBmza9sAaG6c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:46 | 2020-02-20 | 2022-03-16 |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |
 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 | 2024-05-24 | 2024-10-26 |
@@ -122,7 +122,7 @@
 | [Industry Machine](https://open.spotify.com/track/3EYEGjTV30h3R4txuJNEbh) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Industry Machine](https://open.spotify.com/album/35QJ50hCFR9AAlYMzRT7L5) | 1:58 | 2024-07-19 | 2024-09-07 |
 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 | 2024-08-02 | 2024-10-01 |
 | [Inspector](https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Inspector](https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup) | 3:53 | 2023-11-17 | 2024-01-11 |
-| [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 |  |
+| [Into The Future](https://open.spotify.com/track/6zF39FfmenMgLFBuzc7Qi1) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 2:30 | 2024-03-04 | 2025-09-02 |
 | [Iron](https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Iron](https://open.spotify.com/album/5YIeMa14BClS4EbIyBn5tR) | 2:27 | 2024-09-20 | 2024-10-26 |
 | [It Is Finished](https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [It Is Finished](https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls) | 3:00 | 2025-08-29 |  |
 | [It's not over](https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [It's not over](https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX) | 3:10 | 2024-09-27 | 2024-10-05 |
@@ -246,6 +246,7 @@
 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 | 2020-02-20 | 2024-03-05 |
 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 | 2020-02-20 | 2024-03-05 |
 | [Still I Love You](https://open.spotify.com/track/2nb8GikJzwWHTJZkLJCiXF) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:26 | 2020-02-20 | 2022-07-29 |
+| [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 | 2025-09-01 |  |
 | [Sudwe \(feat\. Batman & Tinny\)](https://open.spotify.com/track/4aSkWak39yEulN0pwtYfir) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc), [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:32 | 2020-02-20 | 2022-07-29 |
 | [Sudwe Remix](https://open.spotify.com/track/5WruQLyuTbbGbu5VXZVT5W) | [KK Fosu](https://open.spotify.com/artist/7pPwgEQEB4AJoAHxtZdhUc) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 4:32 | 2020-02-20 | 2022-10-16 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-11-17 |
@@ -285,6 +286,7 @@
 | [Yeebe Sei Wiase](https://open.spotify.com/track/4gGfGvEI1YuRYNqZdDFmPI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Yeebe Sei Wiase](https://open.spotify.com/album/2uHjCLOLFYoyqms7obbhH6) | 2:23 | 2024-11-22 | 2025-01-22 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2020-02-20 | 2024-03-05 |
 | [Yewo Nyame](https://open.spotify.com/track/4lzhsMF2TUWC2EOcjcJOPi) | [Nana Acheampong](https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Yewo Nyame](https://open.spotify.com/album/6jLXI6n0xkgCQ6OTDCozWr) | 4:00 | 2024-04-26 | 2024-05-03 |
+| [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-09-01 |  |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2024-03-05 |
 

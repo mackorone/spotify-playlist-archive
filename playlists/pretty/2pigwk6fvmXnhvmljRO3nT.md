@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,595 songs - 19 day 15 hr 1 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,596 songs - 19 day 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7603,5 +7603,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7593 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
 | 7594 | [Burnt my mouth](https://open.spotify.com/track/3AmtivOGodM8mXFkoPcrnL) | [ssjishmael](https://open.spotify.com/artist/5kRwMwCO1hEylO9tYV9mkC) | [Burnt my mouth](https://open.spotify.com/album/0XZayudr9ik00DxBNDspIa) | 2:12 |
 | 7595 | [Lady Bird](https://open.spotify.com/track/2fmDvHbRNfoZUvUjkh3rAG) | [Oscar Neall](https://open.spotify.com/artist/43K5ZvnMFkpNC2ZmRO0HP1) | [Yellow Moon](https://open.spotify.com/album/3fYugGacWZBNTCGMAY4xTm) | 4:29 |
+| 7596 | [Mori no chiisana restaurant](https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Mori no chiisana restaurant](https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa) | 2:33 |
 
-Snapshot ID: `AAAIdUrJVQrcqUlbBp/Q1RWoDTXe2/Ht`
+Snapshot ID: `AAAIdpIYanx7l/7CjeDP6Ofx9UTt5+H4`

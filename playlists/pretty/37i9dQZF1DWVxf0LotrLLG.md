@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Sofía Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,926 likes - 303 songs - 16 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,931 likes - 303 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

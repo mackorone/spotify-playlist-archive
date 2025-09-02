@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: SHIRT\)
 
-562 songs - 1 day 6 hr 19 min
+565 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 | 2023-07-07 | 2023-09-03 |
 | [Careless I Love You](https://open.spotify.com/track/4EnlWcJi1HfjeINcs5X6XT) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Careless I Love You \(Secret Relationships X Paul Blanco\)](https://open.spotify.com/album/3mxfjPxPCkW210ymyiTVf9) | 2:20 | 2024-12-05 | 2025-04-18 |
 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 | 2025-06-02 |  |
+| [CATGIRL](https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp) | [LeSon](https://open.spotify.com/artist/6f03Hcv4DvUzPXRrmB2OiQ) | [CATGIRL](https://open.spotify.com/album/3sdM8IdoxJ7hDpFAGk8FdB) | 3:18 | 2025-09-01 |  |
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-05 | 2023-07-08 |
 | [Chantepleure](https://open.spotify.com/track/3uFqbKQm8939lVJf14iOtl) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Chantepleure](https://open.spotify.com/album/6Fx1xlTCQNFEoNfRExjrXt) | 3:42 | 2025-03-13 | 2025-06-21 |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 | 2022-07-28 |
@@ -183,6 +184,7 @@
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 | 2025-04-10 |
 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-26 | 2024-05-28 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-20 | 2023-08-18 |
+| [Filter\-Face](https://open.spotify.com/track/2IwhX7UNKcbZzdQiuaBwVR) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [Filter\-Face](https://open.spotify.com/album/4TVIjgKLKL8VpzZjtnk0XV) | 1:50 | 2025-09-01 |  |
 | [First Class](https://open.spotify.com/track/349oSDf5XxpypEq6L3zM2i) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [First Class](https://open.spotify.com/album/3BGZoDfmfyEpcnnlRS1Jux) | 2:11 | 2025-02-14 | 2025-06-03 |
 | [Flying \(Feat\. BIG Naughty\)](https://open.spotify.com/track/7gJcMXrSgaj0L9HN65Hkdd) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [4th Mini Album ?=3 GENEZIS3](https://open.spotify.com/album/2KHj5gzlNgcDyDSwfuC3si) | 3:15 | 2022-08-03 | 2023-01-11 |
 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-01-31 | 2023-02-15 |
@@ -229,7 +231,7 @@
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-05-01 |
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2022-05-28 | 2022-08-13 |
 | [HEY](https://open.spotify.com/track/0DRqPbwXeljwRUK1VF6lta) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [HEY](https://open.spotify.com/album/3deaJiF50MG6IWqj2t3qjZ) | 2:57 | 2023-08-22 | 2023-11-29 |
-| [Hey \(Feat\. Chiaki Mayumura\)](https://open.spotify.com/track/2nfcWiUMIPkNT9fPqrClIX) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Hey](https://open.spotify.com/album/73kcy19PNsu4NPQjBpLGAD) | 3:38 | 2025-05-20 |  |
+| [Hey \(Feat\. Chiaki Mayumura\)](https://open.spotify.com/track/2nfcWiUMIPkNT9fPqrClIX) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Hey](https://open.spotify.com/album/73kcy19PNsu4NPQjBpLGAD) | 3:38 | 2025-05-20 | 2025-09-02 |
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-12-14 |
 | [Hide & Seek](https://open.spotify.com/track/2WZKsCUDta0F8VgZtLCba7) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Reverie](https://open.spotify.com/album/3K7HY3ilH0IA6anq6l9RcN) | 2:34 | 2024-07-09 | 2024-09-14 |
 | [Hills & Valleys](https://open.spotify.com/track/13DbxYzAMAWTVvk2ia1dq9) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Hills & Valleys](https://open.spotify.com/album/1TVqoxEkZtvsRDFPQRGV5Q) | 3:29 | 2025-04-18 | 2025-08-21 |
@@ -331,7 +333,7 @@
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2025-01-25 |
 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 | 2024-09-05 | 2025-01-25 |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
-| [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-13 |  |
+| [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-13 | 2025-09-02 |
 | [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 | 2024-09-18 | 2025-02-06 |
 | [Moonlight dancer](https://open.spotify.com/track/3swMzIF5uXobKiuo7XbJyk) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [Moonlight dancer](https://open.spotify.com/album/783pDN25MWBe3Di4O3ILsZ) | 2:39 | 2025-07-09 |  |
 | [Moonrise](https://open.spotify.com/track/4mcsKdjh66FHEWTsVUzZhJ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [My Dearest Nemesis OST Part.4](https://open.spotify.com/album/0Js2J38m0fWQX7pAa6fu7G) | 3:37 | 2025-03-13 | 2025-07-09 |
@@ -339,7 +341,8 @@
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 | 2023-10-21 |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-05-28 | 2022-07-05 |
 | [MUSIC \(Feat\. LEE CHANHYUK\)](https://open.spotify.com/track/3SYveDpgawfdQtiMDlm4gi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [MUSIC](https://open.spotify.com/album/1dWHATlZ1wxvpTwCUV0TR0) | 2:39 | 2025-06-20 |  |
-| [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-13 |  |
+| [MY BAD](https://open.spotify.com/track/1Fp1aWRIK78nrKN3femdpi) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [I LOVE YOU, MY BAD](https://open.spotify.com/album/7eQwYtraQhqcKqMWPH9fD3) | 2:52 | 2025-09-01 |  |
+| [My Home](https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [My Home](https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL) | 3:36 | 2025-05-13 | 2025-09-02 |
 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 | 2022-06-14 | 2022-10-05 |
 | [My Memory](https://open.spotify.com/track/6pSNLABOjuqymQSkfyXuGt) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [My Memory](https://open.spotify.com/album/22osHqy2luFmK18jEc39MZ) | 3:28 | 2025-04-18 | 2025-08-06 |
 | [My Time](https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [My Time](https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco) | 2:28 | 2023-09-13 | 2024-02-07 |

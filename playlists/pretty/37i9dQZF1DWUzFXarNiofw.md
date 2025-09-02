@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: DVSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100,347 likes - 291 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,406 likes - 291 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 93 | [Holy Father](https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Holy Father](https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1) | 2:16 |
 | 94 | [Bro](https://open.spotify.com/track/2lKxgWo2xXPt3pC7YLo3rd) | [The Amours](https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE) | [Girls Will Be Girls](https://open.spotify.com/album/2nRE2Og5r2IdPVADDPExKF) | 3:03 |
 | 95 | [Pull Up \(Drop\)](https://open.spotify.com/track/59cGnThfcTHmqHRBJKCrjA) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Oakwood](https://open.spotify.com/album/6Ohkfur8ad6slWRL7vqHIW) | 2:46 |
-| 96 | [Miss Black America](https://open.spotify.com/track/3lOnh5ByORm35L62fscThB) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Miss Black America](https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8) | 2:43 |
+| 96 | [Miss Black America](https://open.spotify.com/track/3lOnh5ByORm35L62fscThB) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Miss Black America](https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8) | 2:41 |
 | 97 | [Slow It Down](https://open.spotify.com/track/6fT7NYnhOcvgYhni9QSFCm) | [We The Band](https://open.spotify.com/artist/4DLWXl0N5JnZRnMu7gddI0) | [Slow It Down](https://open.spotify.com/album/1xLe7s6yndj9vBU5PebKIG) | 2:24 |
 | 98 | [Hard Times](https://open.spotify.com/track/1wB0QrqZm0ICjaclOIbWeF) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Hard Times](https://open.spotify.com/album/7vwJ3WWXqKPszKznZQzTi7) | 3:27 |
 | 99 | [TREAT ME](https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [TREAT ME](https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X) | 2:11 |

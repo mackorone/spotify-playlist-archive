@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Satoshi, Advahov
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,780 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,781 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 8 | [Twinnin](https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Twinnin](https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W) | 2:32 |
 | 9 | [Adam](https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 4:17 |
 | 10 | [Castigator](https://open.spotify.com/track/5kPFL28u3qN8kgQkrXPeBR) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Castigator](https://open.spotify.com/album/0shMiAByr7Vh3GyFJE0Kx5) | 2:36 |
-| 11 | [Piesa de masina](https://open.spotify.com/track/0KqldOyqf87zR2rail9Yxi) | [Skizzo Skillz](https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d), [Feli](https://open.spotify.com/artist/02RZUv3X5F4DdA8foiV1R6) | [Rapper pana gasesc un job serios](https://open.spotify.com/album/5iVZCzBpqzpaXE25k4kLxi) | 4:35 |
+| 11 | [Piesa de masina](https://open.spotify.com/track/0KqldOyqf87zR2rail9Yxi) | [Skizzo Skillz](https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Rapper pana gasesc un job serios](https://open.spotify.com/album/5iVZCzBpqzpaXE25k4kLxi) | 4:35 |
 | 12 | [DOAR B.E.N.Z.](https://open.spotify.com/track/4LLQDpfk1Qx8yeAH0Yc994) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut) | [DOAR B.E.N.Z.](https://open.spotify.com/album/4dJEMh3lCG0qIuL2hXOfWL) | 4:20 |
 | 13 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
 | 14 | [Simte](https://open.spotify.com/track/5qONFl5brhuJH28OSpJvwC) | [Astro](https://open.spotify.com/artist/7uBIScqbA038YBTjqj6Lj9), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Simte](https://open.spotify.com/album/3e5Wht9D1L5SgXTZQIoD9o) | 2:57 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 47 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 48 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
 | 49 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
-| 50 | [Paradis 3](https://open.spotify.com/track/43Gt5PkBPDDzscRlWCfZps) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Paradis 3](https://open.spotify.com/album/1eKPlByx8VvRjE47fCPexj) | 3:50 |
+| 50 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 
 Snapshot ID: `AAAAAM8kSqjH+XLpaykLhF9GG91apVuP`

@@ -2,9 +2,9 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Gaby Amarantos
 
-307 songs - 18 hr 0 min
+309 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fiz Pra Você](https://open.spotify.com/track/3rgn58oPuIZPIZMtlfDLqt) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Rod 3030](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2) | [Fiz Pra Você](https://open.spotify.com/album/6ZtKSZaPPKhP9UN3byPiQu) | 3:17 | 2021-10-15 | 2022-07-20 |
 | [Florescer](https://open.spotify.com/track/1T6QvU1JMup4x4koI3s5EY) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Florescer](https://open.spotify.com/album/4u8IzJipJSQiNrIP1udKHi) | 3:08 | 2021-10-15 | 2022-07-26 |
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2021-10-15 | 2024-08-25 |
+| [Foguinho](https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 1:22 | 2025-09-01 |  |
 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 | 2024-10-22 |  |
 | [Frank Ocean](https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:33 | 2021-10-15 | 2024-04-19 |
 | [Frank Ocean](https://open.spotify.com/track/3BlKOnV53VWByI6pQ7NJyE) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/4NCpCNfz0V08DmAhmdtqkD) | 2:33 | 2021-10-15 | 2022-07-26 |
@@ -153,7 +154,7 @@
 | [Linda e Preta](https://open.spotify.com/track/1FHJ6I6TMbc2d2Nxn0LYUS) | [Nara Couto](https://open.spotify.com/artist/0E8Tq0Ix04PzANZuqMcho5) | [Linda e Preta](https://open.spotify.com/album/2TgSMrMYT0hVoHngxPTJs0) | 2:58 | 2021-10-15 | 2022-07-29 |
 | [Lisboa](https://open.spotify.com/track/49eJct0XAKWtl0Cicj64Xg) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Lisboa](https://open.spotify.com/album/5ZXXSnMtfw98MZDlpZfzzz) | 3:01 | 2021-10-15 | 2024-10-23 |
 | [Louca](https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Louca](https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH) | 2:39 | 2021-10-15 | 2024-10-23 |
-| [Louca Paixão](https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Vol\. 2](https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi) | 3:35 | 2024-10-22 |  |
+| [Louca Paixão](https://open.spotify.com/track/7Am0BZQdRi7xAZC0LcLb6y) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86) | [Vol\. 2](https://open.spotify.com/album/59VmiLW7m9sREMf03pCbCi) | 3:35 | 2024-10-22 | 2025-09-02 |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2021-10-15 | 2024-10-23 |
 | [Luandê](https://open.spotify.com/track/0yzY8Rbq3ARJYIK9RM6L8k) | [Virgínia Rodrigues](https://open.spotify.com/artist/7dzhoOPaRFY9SXSD9cjz0U) | [Mama Kalunga](https://open.spotify.com/album/4Dggsp1qAxU9LnctN6WmtW) | 6:00 | 2021-10-15 | 2022-07-29 |
 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 | 2024-10-22 |  |
@@ -202,7 +203,7 @@
 | [O Cego](https://open.spotify.com/track/6mKaNYuUImjvll3Wo1ZWBl) | [Ana de Oliveira](https://open.spotify.com/artist/45Wjw8c4PUTkSrgRe2k0dP) | [Ana pra Você](https://open.spotify.com/album/7daUfMO9pGu70hZWustNvv) | 2:38 | 2024-10-22 | 2025-02-14 |
 | [O Sangue Não Nega](https://open.spotify.com/track/0ZO4z16mEUHjDOSP2xbcva) | [Zezé Motta](https://open.spotify.com/artist/0fUaGtg6Wji6KS6KVtT6qG) | [Negra Melodia](https://open.spotify.com/album/5IxcCElQLNbhQHuOJms6YN) | 2:27 | 2021-10-15 | 2022-07-29 |
 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:17 | 2021-10-15 | 2024-10-23 |
-| [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 | 2024-10-22 |  |
+| [O Traficante](https://open.spotify.com/track/7f1x85YSE9DliOSRFFfuM2) | [Banda Amazonas](https://open.spotify.com/artist/6aADV1iVy0z8Bni0qXLRkf), [Nelsinho Rodrigues](https://open.spotify.com/artist/4k5GPOqlaMmuhxSQkPZrWb) | [Ai Amor](https://open.spotify.com/album/7GqpB21EqkfOs3WJYufal4) | 2:55 | 2024-10-22 | 2025-09-02 |
 | [Objeto de Desejo](https://open.spotify.com/track/5TnTDW5cgW23CCRb7RPUdZ) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Goiânia](https://open.spotify.com/album/5aWoIA9X1J0tabzygJbgCr) | 3:52 | 2024-12-09 | 2025-06-13 |
 | [Olha Bem pra Mim](https://open.spotify.com/track/5GUaslGmGrizqWohLhEcsN) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Olha Bem pra Mim](https://open.spotify.com/album/4Fy72e6MMBcGDIdE1wmI59) | 3:52 | 2024-10-22 |  |
 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 | 2024-10-25 |  |
@@ -281,6 +282,7 @@
 | [Tanto Que Te Amei](https://open.spotify.com/track/6oRMp2LVqvdK3trhVpFJvA) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE) | [Tanto Que Te Amei](https://open.spotify.com/album/0n9NOZUnO5SpVgonEB4TCW) | 3:04 | 2025-04-11 | 2025-06-28 |
 | [Tara](https://open.spotify.com/track/3L2jWpewWy9hikCHeawbJW) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr), [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Tara](https://open.spotify.com/album/0DAGqHAwH3kIZgmL6Gr9KU) | 2:20 | 2021-10-15 | 2022-07-08 |
 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 | 2025-08-22 |  |
+| [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 | 2025-09-01 |  |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2IRTK6heTT9WEVr6uWwutT) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné \- Single](https://open.spotify.com/album/1Zy3Hu3zZIr88xqOsaB0lk) | 3:47 | 2021-10-15 | 2022-07-29 |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 | 2021-10-15 | 2024-04-19 |
 | [Terra de Buda](https://open.spotify.com/track/54Yx62stIuYNrkavyM1KPl) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Velho Beats](https://open.spotify.com/artist/5wPxfqO5bzh5yjXWEHAtYr) | [Terra de Buda](https://open.spotify.com/album/0wkwNS0PZJ3bBWq9LgnDWj) | 3:25 | 2021-10-15 | 2024-10-23 |

@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-93 songs - 5 hr 58 min
+94 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [En Manasa Kalachale](https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN) | [Manoj Kumar.M, Sibhi](https://open.spotify.com/artist/5GKDMTkfivrBS17gPP6h0b) | [En Manasa Kalachale](https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR) | 3:34 | 2021-12-01 |  |
 | [En Manasa Kalachale](https://open.spotify.com/track/7wtlmmn8eIV4Ma7qcc9aXv) | [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/1a976GvlsDfAHjBk8OI5Au) | 3:34 | 2021-12-01 | 2023-11-04 |
 | [En Uravey](https://open.spotify.com/track/1pNVWXmlh8PQBIbQ3JJJDW) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Sathya Nithi](https://open.spotify.com/artist/3EaRKichvknevcEOvDte9N) | [En Uravey](https://open.spotify.com/album/0aDwjm96rpQV1ZIVpkEmof) | 5:23 | 2021-12-01 | 2024-06-20 |
+| [Endrum Un Ninaivil](https://open.spotify.com/track/7ooOLmA3smwuoEcEL3oIvJ) | [Manojh Kumar M](https://open.spotify.com/artist/1te3MJZ3tJYeKWTbKObrLQ), [Divya N](https://open.spotify.com/artist/2hvepGePrOQ4gTDIf8g15v) | [Endrum Un Ninaivil](https://open.spotify.com/album/0QNtr1Ybr0FvhETDcTDXjD) | 4:12 | 2025-09-01 |  |
 | [Ennaval](https://open.spotify.com/track/7ceeckHyXKhb2ZbtN3fpCJ) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ennaval](https://open.spotify.com/album/7zsQgug8SUE7Skc8FyWmra) | 3:40 | 2021-12-01 |  |
 | [Ennavaley](https://open.spotify.com/track/1pM9kwOy7CnjRNVzOHJ2kf) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2), [Thila Laxshman](https://open.spotify.com/artist/4hOt4NszxtYXKVTh14rLEO), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Saint\(TFC\)](https://open.spotify.com/artist/1Im8ga1cR4Ms4dCEUjtvhx) | [Saran Z Ennavaley](https://open.spotify.com/album/552jEYJblo3g8rZ6zGVIhI) | 4:03 | 2021-12-01 |  |
 | [Hey Singari](https://open.spotify.com/track/0uQoEdoRff5G6tY64bdDH3) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/79LcnpTBgWcooeqouIf8We) | 3:51 | 2021-12-01 | 2023-11-04 |

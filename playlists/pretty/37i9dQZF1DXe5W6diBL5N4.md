@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 ### [All New K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: IVE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: NCT WISH\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,017 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,020 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 22 | [UP ALL NITE \(Feat\. SUMIN\)](https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 3:06 |
 | 23 | [Sky Walking](https://open.spotify.com/track/537GKqf0UdlbI2aYOglmct) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/4fVtHcVAgLbRV3YphyyZBz) | 4:12 |
 | 24 | [Someday We Will](https://open.spotify.com/track/12Uv1vygmATfzGCXOK2rMx) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Someday We Will](https://open.spotify.com/album/35m5DoRR3ovZpkFIca0ZnB) | 4:02 |
-| 25 | [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [So Hee Song](https://open.spotify.com/artist/7vxTcdQVaxlYyV2J0qKp9Q) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 |
+| 25 | [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 |
 | 26 | [VIRAL \(feat\. Dok2\)](https://open.spotify.com/track/08ivrwf2GQAaYBI0dlcAqb) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [CHAPTER III](https://open.spotify.com/album/3eMzL0AxT1odEw7fsWA3Gr) | 2:38 |
 | 27 | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/track/6DwwRGm7Sl0ptUjPtYE2DU) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Stay With Me \(Feat\. Ailee\)](https://open.spotify.com/album/7jUJbL40ru1ZIiCtimtHlR) | 4:27 |
 | 28 | [LOVE ME](https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [POSER](https://open.spotify.com/album/0nMWRJyIjND1q5lSMW4fus) | 2:26 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 109 | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
 | 110 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 |
 
-Snapshot ID: `AAAAADGixkDVjPeqGEdiIrTXL6fDD66S`
+Snapshot ID: `AAAAAFpLvLDs6ry9Iy39iH+vzLmy6vnF`

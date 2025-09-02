@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "ICONIC EP",
+        "url": "https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ"
+      },
+      "artists": [
+        {
+          "name": "Maja Ivarsson",
+          "url": "https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt"
+    },
+    {
+      "album": {
         "name": "Doftade Dior",
         "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
       },
@@ -3514,7 +3532,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 199120,
       "name": "Jag dansade en sommar",
       "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
@@ -5377,6 +5395,28 @@
     },
     {
       "album": {
+        "name": "P\u00e5 egna ben (feat. Carola)",
+        "url": "https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202425,
+      "name": "P\u00e5 egna ben (feat. Carola)",
+      "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
+    },
+    {
+      "album": {
         "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
         "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
       },
@@ -7080,7 +7120,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 362920,
       "name": "Uteblivna vi",
       "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"

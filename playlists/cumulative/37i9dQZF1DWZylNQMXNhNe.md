@@ -4,7 +4,7 @@
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Pepita, Diego Martins
 
-223 songs - 11 hr 30 min
+224 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 | 2022-07-22 | 2022-12-10 |
 | [boca](https://open.spotify.com/track/0whBldSuTpdP1UrjhdngQl) | [vicro](https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF) | [boca](https://open.spotify.com/album/4NFrmdrkTIuY3FNZJts5UE) | 3:11 | 2023-06-23 | 2023-07-15 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-04-29 | 2024-06-27 |
-| [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 | 2024-06-26 |  |
+| [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 | 2024-06-26 | 2025-09-02 |
 | [Boogie Brasil](https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Boogie Brasil](https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT) | 2:57 | 2025-07-11 |  |
 | [Borboleta](https://open.spotify.com/track/7M7LwDM76QlNCie8KLG6qf) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg) | [Borboleta](https://open.spotify.com/album/2p52v9xFZiI37yQrMz3To8) | 2:18 | 2023-06-23 | 2023-07-29 |
 | [BOTA](https://open.spotify.com/track/52LzOfNNcxLjXfSBYfUwl4) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [BOTA](https://open.spotify.com/album/0k83d2uJt6cGPUMkipkNNw) | 2:35 | 2022-04-29 | 2022-06-25 |
@@ -169,6 +169,7 @@
 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 | 2025-07-04 |  |
 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 | 2023-03-12 | 2024-06-27 |
 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 | 2022-04-29 | 2024-06-27 |
+| [Putífero Pro Max](https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc), [ZUMBICORE](https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN), [Jonas kaik](https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8), [Kalef Castro](https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn) | [Putífero Pro Max](https://open.spotify.com/album/7nrYxHELVPbJWxKuXrcFZv) | 2:06 | 2025-09-01 |  |
 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 | 2024-07-12 |  |
 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 | 2025-07-04 |  |
 | [quanto tempo tem o tempo?](https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [quanto tempo tem o tempo?](https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI) | 3:26 | 2025-07-04 |  |

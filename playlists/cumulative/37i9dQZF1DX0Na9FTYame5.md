@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Kane
 
-266 songs - 12 hr 0 min
+267 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 | 2024-06-28 |  |
 | [August](https://open.spotify.com/track/6SYISkUBtn8rUrQuuQezl7) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [August](https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo) | 2:48 | 2024-08-01 | 2024-08-13 |
 | [AUSGERUTSCHT](https://open.spotify.com/track/71epxkNy3UZ1B6PydH176F) | [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [DEN UMSTÄNDEN WIDERSPRECHEND](https://open.spotify.com/album/74ZaEXX990KpZCW53Esv00) | 3:26 | 2025-06-18 | 2025-07-04 |
-| [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 |  |
+| [Bei Nacht](https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:41 | 2025-01-16 | 2025-09-02 |
 | [Bei Nacht](https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Bei Nacht](https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B) | 2:54 | 2024-06-28 | 2025-05-22 |
 | [BERETTA](https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [BERETTA](https://open.spotify.com/album/01Vdj2RKaAShfenS7e9wvh) | 3:32 | 2024-06-28 | 2025-05-28 |
 | [Beverly Hills](https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Beverly Hills](https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL) | 2:07 | 2024-06-28 | 2025-06-10 |
@@ -194,6 +194,7 @@
 | [Pflaster](https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [Pflaster](https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2) | 2:13 | 2024-11-25 | 2025-02-04 |
 | [Plastikblumen](https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Helldunkel](https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa) | 1:48 | 2024-08-26 | 2024-11-13 |
 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 | 2025-06-24 | 2025-08-23 |
+| [Porsche 911](https://open.spotify.com/track/1vP18y049pwS2OWUrvDjIE) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:10 | 2025-08-28 |  |
 | [Princess Treatment](https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Princess Treatment](https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC) | 2:15 | 2024-10-10 | 2024-12-10 |
 | [Pusteblume](https://open.spotify.com/track/2exlK2N3UXrw5fVsAhSimu) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Pusteblume](https://open.spotify.com/album/5vDviDx5Q5pgQpR7NpIAT9) | 2:48 | 2025-01-20 | 2025-08-29 |
 | [Rauch \- Piano Version](https://open.spotify.com/track/1W7ZQflfoD7RPcDMDL0B0M) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Rauch \(Piano Version\)](https://open.spotify.com/album/4ucb4q7JjfLH7TuZkrLohi) | 2:19 | 2025-02-06 | 2025-03-27 |

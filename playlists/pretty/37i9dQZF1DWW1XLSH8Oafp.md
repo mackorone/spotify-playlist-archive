@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Mel Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,114 likes - 149 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,700 likes - 149 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

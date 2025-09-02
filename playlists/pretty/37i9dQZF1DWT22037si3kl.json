@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Brand\u00e3o85",
-  "num_followers": 147362,
+  "num_followers": 147365,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-08-22 17:17:23",
       "album": {
+        "name": "Eu Meto Bronca",
+        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Eu Meto Bronca",
+      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
+    },
+    {
+      "added_at": "2025-08-22 17:17:23",
+      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 168000,
       "name": "Aruanda",
       "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
-    },
-    {
-      "added_at": "2025-08-22 17:17:23",
-      "album": {
-        "name": "Eu Meto Bronca",
-        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Eu Meto Bronca",
-      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
       "added_at": "2025-08-22 17:17:23",
@@ -803,30 +803,6 @@
     {
       "added_at": "2025-08-22 17:17:23",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "JECI",
-          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Foco",
-      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
-    },
-    {
-      "added_at": "2025-08-22 17:17:23",
-      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 166449,
       "name": "C.E.O'S (B\u00d4NUS TRACK)",
       "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+    },
+    {
+      "added_at": "2025-08-22 17:17:23",
+      "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
     },
     {
       "added_at": "2025-08-22 17:17:23",

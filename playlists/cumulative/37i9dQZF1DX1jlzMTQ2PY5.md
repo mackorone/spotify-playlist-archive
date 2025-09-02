@@ -4,10 +4,11 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-243 songs - 17 hr 19 min
+244 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I Don't Want To\) Fly Away](https://open.spotify.com/track/62VKv8GzbonnW5AYayL9GA) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [Liane Carroll](https://open.spotify.com/artist/7Dj9pPFhAO5JZb1gVPdmAk) | [\(I Don't Want To\) Fly Away](https://open.spotify.com/album/0wdPjxKxTv3lHGVUZ602vE) | 4:24 | 2025-08-28 |  |
 | [42](https://open.spotify.com/track/55elv8KNHcFEbLHPxkYBSe) | [Askel & Elere](https://open.spotify.com/artist/3ViPTsIhVM8tENOjWo4Xfo), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [42](https://open.spotify.com/album/4bP8pr3PLqNSHohVhOA7eE) | 4:11 | 2022-01-21 | 2022-07-18 |
 | [96'](https://open.spotify.com/track/1SpIjGdDI5ficOTrk8NIhH) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf) | [96’ / Deep Step](https://open.spotify.com/album/6ltbSHIpRAI7id2CR3sYRd) | 6:34 | 2022-01-21 | 2022-07-23 |
 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 | 2024-03-28 | 2024-05-22 |
@@ -75,7 +76,7 @@
 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 | 2025-05-08 |  |
 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 | 2022-01-21 | 2024-05-17 |
 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 | 2022-01-21 | 2024-11-15 |
-| [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 | 2025-02-14 |  |
+| [Evermade](https://open.spotify.com/track/74PVpodtlIRFnz5Yt9ZOLL) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Evermade](https://open.spotify.com/album/2tNKHCl8xRtJv7Rj56Fpo0) | 5:19 | 2025-02-14 | 2025-09-02 |
 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 | 2022-01-21 | 2023-10-14 |
 | [Evolving](https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx) | [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Evolving](https://open.spotify.com/album/7fvxLFTtlCn5FwQaDzpz0b) | 3:40 | 2022-01-21 | 2022-08-06 |
 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 | 2024-05-24 |  |

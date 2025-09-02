@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (24/8/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (31/8/2025)",
   "tracks": [
     {
       "album": {
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Batecs de pl\u00e0stic",
+        "url": "https://open.spotify.com/album/1eeqOKcIF623sn9lX2Skpw"
+      },
+      "artists": [
+        {
+          "name": "Diana Murr",
+          "url": "https://open.spotify.com/artist/4qhEWD7O6ccYc5qARJmNXe"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211075,
+      "name": "Batecs de pl\u00e0stic",
+      "url": "https://open.spotify.com/track/5NVMgnjwMsModmkraLrosa"
+    },
+    {
+      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 303130,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"

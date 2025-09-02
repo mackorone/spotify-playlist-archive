@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Sabrina Carpenter, Pablo Alborán, Tiago PZK, Yapi con JC Reyes y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,550 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,572 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hot Girl Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
+> Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
 1,038 songs - 2 day 6 hr 33 min
 

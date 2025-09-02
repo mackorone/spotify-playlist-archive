@@ -2,7 +2,7 @@
 
 ### [All New K\-Pop \(국내 최신 가요\)](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> Enjoy the freshest K\-Pop new releases \(Cover: IVE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
+> Enjoy the freshest K\-Pop new releases \(Cover: NCT WISH\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
 13,439 songs - 32 day 1 hr 9 min
 
@@ -10490,7 +10490,7 @@
 | [Survive](https://open.spotify.com/track/7bC3j5AxkBGp10OJtcofQJ) | [about his chronicle](https://open.spotify.com/artist/7gp26a7kh12MTNaPkWj2yr) | [Decibel OST](https://open.spotify.com/album/33zyJ7WXBQdSnDsrLyTScV) | 3:19 | 2022-12-05 | 2022-12-22 |
 | [Susanne](https://open.spotify.com/track/7AyrPPnMRQktj7mdoWUP2n) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [My Perfect Stranger OST Part.4](https://open.spotify.com/album/27Hkb4e9GNyfZVEuY8O6aj) | 3:35 | 2023-05-24 | 2023-08-10 |
 | [SUYU](https://open.spotify.com/track/3PQ4inuQaEj4nwjR9q1z4K) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [SUYU](https://open.spotify.com/album/7rUWeoYKLlgyAoLdq8JZue) | 3:42 | 2024-01-18 | 2024-03-14 |
-| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [So Hee Song](https://open.spotify.com/artist/7vxTcdQVaxlYyV2J0qKp9Q) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-08-28 |  |
+| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-08-28 |  |
 | [Swaggers in Korea](https://open.spotify.com/track/2R2pch4wez5eM89vN8Cxll) | [BLASTA](https://open.spotify.com/artist/6RjBFO3ed4E3x6GpqdcnlJ) | [VERSE BATTLE RAPCUP Quarterfinals Part II](https://open.spotify.com/album/7A1sdnwXwR3wa0sRR4QuPJ) | 2:21 | 2024-05-16 | 2024-06-20 |
 | [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 | 2024-10-10 |
 | [Swear](https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Swear](https://open.spotify.com/album/3vNYAR6SdAeKcQGgOPTyY2) | 2:57 | 2024-05-29 | 2024-06-20 |

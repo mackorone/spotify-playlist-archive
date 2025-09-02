@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-544 songs - 1 day 6 hr 55 min
+545 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Baadal](https://open.spotify.com/track/5Qp2Ke3Khb0sEnbCHCOjfa) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Sunjuice](https://open.spotify.com/album/3PDKQGvu0U5ibKqVGIQmQq) | 4:14 | 2024-11-13 | 2025-04-02 |
 | [Baaninda Haniyu Jaari](https://open.spotify.com/track/0TtEHRXmitFsSIXVxXo48T) | [Vivek Jungly](https://open.spotify.com/artist/0jF1dL20DInnqwEEq5pfJK) | [Baaninda Haniyu Jaari](https://open.spotify.com/album/2mAiDNhQkfaGeKwPjcqJ7W) | 2:32 | 2025-01-15 | 2025-06-15 |
 | [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 | 2024-02-01 |
+| [Baby](https://open.spotify.com/track/0MwwwYZxiitdtHb2nv3QE4) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Baby](https://open.spotify.com/album/1ptMkgO8jF6uEDZzUcYWiD) | 3:52 | 2025-09-01 |  |
 | [Baby 500](https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Baby 500](https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx) | 1:03 | 2024-04-01 | 2024-08-28 |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
 | [Baby I Love You](https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Baby I Love You](https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc) | 4:32 | 2023-12-07 | 2024-05-21 |

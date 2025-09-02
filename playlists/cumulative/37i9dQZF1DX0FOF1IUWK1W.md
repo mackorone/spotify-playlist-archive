@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Rafa e Junior, Hugo & Guilherme, DJ Ari SL e os maiores hits do país\. O que tá bombando tá aqui.
+> Grupo Menos É Mais com NATTAN e os maiores hits do país\. O que tá bombando tá aqui.
 
 622 songs - 1 day 7 hr 3 min
 

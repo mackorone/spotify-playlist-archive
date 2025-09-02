@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Wolter Kroes
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,942 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,946 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/track/3MzpJI7PJAm1EBFsSSajVR) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Zo Ben Ik Altijd Geweest](https://open.spotify.com/album/3yQR2m6SsxZs79uSnBJDCF) | 3:12 |
 | 2 | [Snelle Jelle](https://open.spotify.com/track/1FfJq2RjdJ8JY4jbgi3Omq) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Snelle Jelle](https://open.spotify.com/album/6cNFDYrsWh69Cos0DsyDdH) | 2:16 |
-| 3 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 |
-| 4 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 |
+| 3 | [Kroegtijger](https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kroegtijger](https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi) | 2:49 |
+| 4 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 |
 | 5 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 |
 | 6 | [Ontzettond](https://open.spotify.com/track/4S0XHr1xvMkXnR9hh7mLVq) | [DavineP](https://open.spotify.com/artist/1LPGs7TFPT9ssRp0c4ZFDf) | [Ontzettond](https://open.spotify.com/album/04IZE98cgDygUwlIlqFWSG) | 2:12 |
 | 7 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Plekje In Mijn Hart](https://open.spotify.com/track/64cxYuAQ4kDRLZb0YOrtsv) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH), [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh) | [Plekje In Mijn Hart](https://open.spotify.com/album/782FzCuKy3CcNjm5PtkjIi) | 3:00 |
 | 90 | [Ik Hou D'r Van](https://open.spotify.com/track/5dzLiaSgG4CtbwRSNnGY1S) | [Louisa Janssen](https://open.spotify.com/artist/3lZ9OQfbkyLYjUId88yLCf) | [Ik Hou D'r Van](https://open.spotify.com/album/0AO6nK5WlTJtKbpc7xzq3n) | 2:46 |
 
-Snapshot ID: `AAAAALGvAyxJExcznQlBUMdNw1woNzYn`
+Snapshot ID: `AAAAAJ2WaxMOJTB3B61RN7HlV8d8HIJ5`

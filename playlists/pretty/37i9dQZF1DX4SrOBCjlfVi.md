@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Eminem, Key Glock, DJ Khaled and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,003 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,083 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 14 | [Bikini Bottom](https://open.spotify.com/track/0MuPgMtGurEJMNpMMLVc7l) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Bikini Bottom](https://open.spotify.com/album/2kJ9nzPae4KMpxzKLsm5wx) | 3:45 |
 | 15 | [Firebomber](https://open.spotify.com/track/1orZXri2IguSEjN9XjT9TZ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Firebomber](https://open.spotify.com/album/32xYgM74LVRhx5rAl2dJ5c) | 4:13 |
 | 16 | [Nite N Day \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/track/4P8t48ZG1miuAzz16QqSf4) | [Luhh Dyl](https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Nite N Day \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/album/2eExyocGA6FWIClE4Xh1tZ) | 3:40 |
-| 17 | [So Ghetto](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
+| 17 | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
 | 18 | [Coco Gauff](https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Coco Gauff](https://open.spotify.com/album/0NPKleK27CApFerYi1rN7W) | 2:17 |
 | 19 | [Active](https://open.spotify.com/track/4SQLNBF97lQpxuaG0yeUBP) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:01 |
 | 20 | [What They All Say](https://open.spotify.com/track/4aHLFbwZLJAF4xT9wI6ZyE) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Diary of a Crashout](https://open.spotify.com/album/7eA5tVXzoxAcBoxmaMu7r4) | 3:45 |

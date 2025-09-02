@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 79617,
+  "num_followers": 79615,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "The Goldfinger Christmas EP",
-        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 86386,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "I Caught Fire",
         "url": "https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 175453,
       "name": "Alone This Holiday",
       "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "The Goldfinger Christmas EP",
+        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 86386,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 158408,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "X Christmas",
         "url": "https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 188333,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/22rBktERctuWCLmnV51Td5"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 158408,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "I'm Going Surfing for Xmas",
-        "url": "https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf"
+        "name": "A Very Skatune Christmas",
+        "url": "https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0"
       },
       "artists": [
         {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+          "name": "Skatune Network",
+          "url": "https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC"
+        },
+        {
+          "name": "GET TUFF",
+          "url": "https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy"
         }
       ],
-      "duration_ms": 135110,
-      "name": "I'm Going Surfing for Xmas",
-      "url": "https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo"
+      "duration_ms": 200149,
+      "name": "What Do the Lonely Do at Christmas?",
+      "url": "https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -903,22 +907,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A Very Skatune Christmas",
-        "url": "https://open.spotify.com/album/4VuImTk4cMf4ldCxsAnOI0"
+        "name": "I'm Going Surfing for Xmas",
+        "url": "https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf"
       },
       "artists": [
         {
-          "name": "Skatune Network",
-          "url": "https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC"
-        },
-        {
-          "name": "GET TUFF",
-          "url": "https://open.spotify.com/artist/3uA4mUI9kQS9b7muYR48Sy"
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
         }
       ],
-      "duration_ms": 200149,
-      "name": "What Do the Lonely Do at Christmas?",
-      "url": "https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy"
+      "duration_ms": 135110,
+      "name": "I'm Going Surfing for Xmas",
+      "url": "https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas is Canceled",
-        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
-      },
-      "artists": [
-        {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "Christmas is Canceled",
-      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "This Is a Christmas Match",
         "url": "https://open.spotify.com/album/6I1AEdIeubzxeUrf06Uz8H"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
+        "name": "Christmas is Canceled",
+        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
       },
       "artists": [
         {
-          "name": "The Dollyrots",
-          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
         }
       ],
-      "duration_ms": 164655,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
+      "duration_ms": 132509,
+      "name": "Christmas is Canceled",
+      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "This Could Be Christmas",
-        "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
       },
       "artists": [
         {
-          "name": "The So So Glos",
-          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
-        },
-        {
-          "name": "Spider Stacy",
-          "url": "https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu"
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
         }
       ],
-      "duration_ms": 291191,
-      "name": "This Could Be Christmas",
-      "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
+      "duration_ms": 164655,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1119,6 +1099,26 @@
       "duration_ms": 171145,
       "name": "Christmas, Baby Please Come Home",
       "url": "https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "This Could Be Christmas",
+        "url": "https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye"
+      },
+      "artists": [
+        {
+          "name": "The So So Glos",
+          "url": "https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP"
+        },
+        {
+          "name": "Spider Stacy",
+          "url": "https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu"
+        }
+      ],
+      "duration_ms": 291191,
+      "name": "This Could Be Christmas",
+      "url": "https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
-      },
-      "artists": [
-        {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Single All the Way",
         "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 195131,
       "name": "Single All the Way",
       "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+      },
+      "artists": [
+        {
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+        }
+      ],
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Happy Skalidays",
-        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 182286,
-      "name": "Grandma Got Run Over By A Reindeer",
-      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Let It Snow Baby...Let It Reindeer",
         "url": "https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 213466,
       "name": "12 Days of Christmas",
       "url": "https://open.spotify.com/track/5vVrDSIrZm3CpCTVBlKyrT"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Happy Skalidays",
+        "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 182286,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK"
+        "name": "A GC Christmas, Pt. 1",
+        "url": "https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 42506,
-      "name": "Happy Holidays, You Bastard",
-      "url": "https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN"
+      "duration_ms": 181991,
+      "name": "Christmas by the Phone",
+      "url": "https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF"
     }
   ],
   "unique_name": "Punk Christmas",

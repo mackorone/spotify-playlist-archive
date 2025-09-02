@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of future noise\. Cover: They Are Gutting a Body Of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,690 likes - 109 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,669 likes - 109 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

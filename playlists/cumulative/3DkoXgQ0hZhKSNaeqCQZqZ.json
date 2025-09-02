@@ -3487,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7AtO7tTV3q9V0V95Ku9SSA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Barmon",
+          "url": "https://open.spotify.com/artist/6XmkZvLVh3ct1FReteWY7t"
+        },
+        {
+          "name": "OSVLD",
+          "url": "https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206575,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/1aPUJE7BWylI4cjpQQRBs8"
+    },
+    {
+      "album": {
         "name": "kittycat heartthrob",
         "url": "https://open.spotify.com/album/3jePWfQ33qxjwB9MDAYfOR"
       },

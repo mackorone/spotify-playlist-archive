@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZASvfwxHkco.md) - [plain]
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: TJO, BOPCORN, KIYOTO, REXY=DEXY, TREKKIE TRAX CREW, VIVID, YAKSA, Ywe
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,132 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,133 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-265 songs - 18 hr 35 min
+266 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 | 2024-11-07 |
 | [Everyday Romance](https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Things I Love](https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me) | 3:32 | 2024-11-07 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 | 2025-05-09 |  |
+| [Fairy Tale](https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [Fairy Tale](https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ) | 2:59 | 2025-09-01 |  |
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 | 2024-11-07 |
 | [Fascination](https://open.spotify.com/track/3Cce15ZRmDB6p41GHiNEP4) | [Moon haewon](https://open.spotify.com/artist/51qFLjDgO3UGzJgTyjqhhW) | [Fascination](https://open.spotify.com/album/5bg9moPdC5rl4PEPykc2HU) | 3:25 | 2025-05-30 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2024-11-07 |
@@ -271,7 +272,7 @@
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 | 2024-08-11 |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 | 2022-11-11 | 2024-09-20 |
-| [한가위 블루스](https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms) | [Yun Siwon](https://open.spotify.com/artist/1L60NRbDnl7w1sX54R7ICt) | [한가위 블루스](https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ) | 2:31 | 2024-09-19 |  |
+| [한가위 블루스](https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms) | [Yun Siwon](https://open.spotify.com/artist/1L60NRbDnl7w1sX54R7ICt) | [한가위 블루스](https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ) | 2:31 | 2024-09-19 | 2025-09-02 |
 | [향해](https://open.spotify.com/track/0heB6yWowfMP46oBMEtRMT) | [한선구](https://open.spotify.com/artist/2Cs1CsArCfGiXBzqqNtFjg) | [향해](https://open.spotify.com/album/3Ft9zLvksjGjBhNUerw01V) | 6:10 | 2022-05-03 | 2023-02-08 |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

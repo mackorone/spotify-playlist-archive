@@ -1,12 +1,12 @@
 {
   "description": "welcome to our universe ft. chalk",
-  "num_followers": 813563,
+  "num_followers": 813511,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOzKgP9PIIsAZHhy5GSs6Lw4Iv7Z",
+  "snapshot_id": "AAAAAP7BU7OX20uIjJJ9Adz3PRVWbRkF",
   "tracks": [
     {
       "added_at": "2025-08-28 23:00:38",
@@ -275,6 +275,22 @@
       "duration_ms": 212386,
       "name": "NATURAL SELECTION",
       "url": "https://open.spotify.com/track/3xzIJWhbEOf0fiQezTP9hu"
+    },
+    {
+      "added_at": "2025-09-01 12:28:52",
+      "album": {
+        "name": "Parasites & Butterflies",
+        "url": "https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/7jiVBpDPPNBAJ2sPIxc845"
     },
     {
       "added_at": "2025-08-28 23:00:38",

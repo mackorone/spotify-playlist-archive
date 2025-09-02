@@ -904,10 +904,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 198093,
       "name": "I Just Want You Around",
       "url": "https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw"
+    },
+    {
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/3VUoeA5rCaXwbSSvKIjN0F"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "I Just Want You Around",
+      "url": "https://open.spotify.com/track/1WJKsZVig3b542LnfPXTlv"
     },
     {
       "album": {

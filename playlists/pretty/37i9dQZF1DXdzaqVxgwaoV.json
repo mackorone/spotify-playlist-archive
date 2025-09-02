@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 127539,
+  "num_followers": 127535,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Rey Sabanero",
-        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
-        }
-      ],
-      "duration_ms": 231890,
-      "name": "Entre Rejas",
-      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 201220,
       "name": "Nuestra Pobreza",
       "url": "https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Rey Sabanero",
+        "url": "https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "duration_ms": 231890,
+      "name": "Entre Rejas",
+      "url": "https://open.spotify.com/track/3H6Vg08qdNZIMSjGdUg2y6"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 191400,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 156467,
-      "name": "Mar\u00eda Teresa",
-      "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
-        }
-      ],
-      "duration_ms": 244608,
-      "name": "En Mi Pensamiento (Te Necesito)",
-      "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Salsa Pa Bacanes",
         "url": "https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 293360,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 244608,
+      "name": "En Mi Pensamiento (Te Necesito)",
+      "url": "https://open.spotify.com/track/4yXMkjU2NQkF2mFipkTF4q"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -983,6 +983,26 @@
       "duration_ms": 194149,
       "name": "Cumbia del Caribe",
       "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Distancia 83",
         "url": "https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE"
       },
@@ -1071,6 +1071,26 @@
       "duration_ms": 181001,
       "name": "Distancia 83",
       "url": "https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1123,26 +1143,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Colecci\u00f3n Oro del Vallenato (Vol. 1)",
         "url": "https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 179915,
       "name": "No Quiero Envejecer",
       "url": "https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Rescatando los \u00c9xitos Originales de Long Play",
+        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 207566,
+      "name": "Plegaria",
+      "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1207,26 +1227,6 @@
       "duration_ms": 226250,
       "name": "Cuerpo a Cuerpo",
       "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Rescatando los \u00c9xitos Originales de Long Play",
-        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 207566,
-      "name": "Plegaria",
-      "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "Con Verraquera",
+      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
         "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Los Relajos del Arriero",
-        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
-      },
-      "artists": [
-        {
-          "name": "Octavio Mesa",
-          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "Con Verraquera",
-      "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Lo Mejor de los Melodicos Vol. 1",
+        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "Amparito",
+      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 158727,
       "name": "Charanga Campesina",
       "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "Lo Mejor de los Melodicos Vol. 1",
-        "url": "https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "Amparito",
-      "url": "https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Billo 76 1/2",
-        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        }
-      ],
-      "duration_ms": 194931,
-      "name": "La Casa De Fernando",
-      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Top Latino Navidad (Remix - Audio)",
         "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 179320,
       "name": "Cinco Pa' las 12",
       "url": "https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Billo 76 1/2",
+        "url": "https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "La Casa De Fernando",
+      "url": "https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "\u00c9poca de Oro 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "Su\u00e9ltala Pa Que Se Defienda",
+      "url": "https://open.spotify.com/track/4XI7CINm8BOsWKKanX0lIE"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "A Mover el Esqueleto Con 3 Grandes",
         "url": "https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 261000,
       "name": "Quiero Ser Feliz",
       "url": "https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "El Mujeriego",
-        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 181269,
-      "name": "El Mujeriego",
-      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9poca de Oro 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
+        "name": "El Mujeriego",
+        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
         }
       ],
-      "duration_ms": 156655,
-      "name": "Su\u00e9ltala Pa Que Se Defienda",
-      "url": "https://open.spotify.com/track/4XI7CINm8BOsWKKanX0lIE"
+      "duration_ms": 181269,
+      "name": "El Mujeriego",
+      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Historia Musical de los Chiches Vallenatos: \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt"
+        "name": "\u00cddolo del Pueblo",
+        "url": "https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
         }
       ],
-      "duration_ms": 269596,
-      "name": "Te Ver\u00e9 Llorar",
-      "url": "https://open.spotify.com/track/034YyZnYJ4hos9IBAYZfp8"
+      "duration_ms": 154346,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

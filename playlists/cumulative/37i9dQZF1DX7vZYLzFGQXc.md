@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: ddbb\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: DADADA\) \(Meet the emerging talents of Korea!\)
 
-1,587 songs - 3 day 17 hr 13 min
+1,589 songs - 3 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [Fxxkin' Loving You](https://open.spotify.com/track/4Iymiu42PMZcQj2MN9FrNk) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [Fxxkin' Loving You](https://open.spotify.com/album/0a8WKAydrjwHicHHFOIyMV) | 2:50 | 2024-03-08 | 2024-07-04 |
 | [garbage\_dump\_record \(3am\)](https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M) | [kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [NUDUGI HEART RUNNER](https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp) | 2:47 | 2022-03-17 | 2022-04-21 |
 | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/track/58QcQFi9oZX5jSpEddgG4L) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Gardener \(feat\. Tamiz, SIM2\)](https://open.spotify.com/album/3nPuyX4q23rvzaNoHUHEOs) | 3:02 | 2022-08-12 | 2022-09-30 |
-| [Gazing into Indigo](https://open.spotify.com/track/1deOh4hYz3EbS7jIXGgKUp) | [Conut](https://open.spotify.com/artist/6TkT01hX9OeitLFMVUnS0H) | [Gazing into Indigo](https://open.spotify.com/album/4dSFQEyHSlglOSD51UNw8u) | 3:58 | 2025-05-14 |  |
+| [Gazing into Indigo](https://open.spotify.com/track/1deOh4hYz3EbS7jIXGgKUp) | [Conut](https://open.spotify.com/artist/6TkT01hX9OeitLFMVUnS0H) | [Gazing into Indigo](https://open.spotify.com/album/4dSFQEyHSlglOSD51UNw8u) | 3:58 | 2025-05-14 | 2025-09-02 |
 | [General well\-being](https://open.spotify.com/track/3hBDkqm2rBjofjELCzWyQU) | [Dohyuck Lim](https://open.spotify.com/artist/5kfY175biLFO0H74FXYqzX) | [General well\-being](https://open.spotify.com/album/0uf2hXXsUTqicPPIE5Mp0F) | 3:29 | 2021-12-02 | 2022-01-11 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2021-12-02 | 2022-01-11 |
 | [GET LUCKY!](https://open.spotify.com/track/6dkx7yryrVpYxP75lNsy6j) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [GET LUCKY!](https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm) | 3:40 | 2025-05-19 |  |
@@ -563,6 +563,7 @@
 | [Hate you \(feat\. Ellui\)](https://open.spotify.com/track/2LWupq4pun26BKGg2S8wfb) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Hate you \(feat\. Ellui\)](https://open.spotify.com/album/7BD9Jvp7TXN8RjYKhfA5XF) | 3:13 | 2023-07-27 | 2024-03-06 |
 | [Hatred](https://open.spotify.com/track/6wZAYtq58NtIuF2fhlsy8t) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Hatred](https://open.spotify.com/album/0lQvanEeBBKXPsa4sw5tbb) | 3:04 | 2023-06-01 | 2023-09-21 |
 | [Head in the clouds](https://open.spotify.com/track/0lfVvUEjZgVS1HnlB2VGLv) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [Head in the clouds](https://open.spotify.com/album/5caMoXULX2kC6tGAwWoQOc) | 3:34 | 2023-03-02 | 2023-05-02 |
+| [Heart](https://open.spotify.com/track/73aUjezd8PBHyNrW5lJ8C9) | [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [Heart](https://open.spotify.com/album/3pisk7bLoTZREoNooWkZZU) | 2:32 | 2025-09-01 |  |
 | [Heart Emoji \(feat\. BIGONE\)](https://open.spotify.com/track/5BhMBl7sVdjb8SOY7fwZjT) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Heart Emoji](https://open.spotify.com/album/3woPtSI7v4acRdHxKcjUvA) | 2:18 | 2023-01-11 | 2023-02-09 |
 | [Heart sound](https://open.spotify.com/track/76OMNXEj0YeumSiRcYH8ir) | [Yun JiSeong](https://open.spotify.com/artist/7MRhCYCgOjf0JvpuBljnkC) | [Lee Hong Gi's playlist <ONCE>](https://open.spotify.com/album/3hO3uedBPcmi8DSh28X2ub) | 3:47 | 2022-01-10 | 2022-02-05 |
 | [Heaven](https://open.spotify.com/track/26VqtImtvXaWcQarKcXQme) | [Seowoo Cheong](https://open.spotify.com/artist/5BdU0nmrAiKwME2VBbsoIK) | [Heaven](https://open.spotify.com/album/0sZL4bkUxJfJ4noyrijsby) | 3:28 | 2024-09-19 | 2025-02-04 |
@@ -775,6 +776,7 @@
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-30 |
 | [Like The Rain \(Feat\. Sonny Zero\)](https://open.spotify.com/track/4QoHporaPivC4kscOa11tP) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Like The Rain](https://open.spotify.com/album/3QXgjWpRqqYqUwcoavRcEB) | 3:24 | 2024-08-02 | 2024-10-05 |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2022-03-03 |
+| [Like You](https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Like You](https://open.spotify.com/album/6pmhnoMFLa3e6wf0BtfV2N) | 4:46 | 2025-09-01 |  |
 | [LIL BABY \(Feat\. KHAN\)](https://open.spotify.com/track/5G9BqSOlFkFKrY7aLJoJJK) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [LIL BABY \(Feat\. KHAN\)](https://open.spotify.com/album/2l2bbVMGXs1SCG1ySjcMk6) | 2:47 | 2023-02-08 | 2023-05-02 |
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2022-06-09 | 2022-06-19 |
 | [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-08-02 | 2024-11-12 |
@@ -791,7 +793,7 @@
 | [LOVE](https://open.spotify.com/track/3VVn7mGHHr9NB5SIXmDljM) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [LOVE](https://open.spotify.com/album/4Q8t9TQrVVfa9Y4B1t2rhX) | 2:53 | 2025-06-26 |  |
 | [Love & Care](https://open.spotify.com/track/20DJydWFasUXuGiNRAPLNA) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau), [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Love & Care](https://open.spotify.com/album/1GQqMT6zPFX1AiFWSsZmyd) | 3:54 | 2022-09-29 | 2022-12-01 |
 | [Love and Cough♥](https://open.spotify.com/track/0IgbkpnCfM1c5dOlVnALXS) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love & Cough♥](https://open.spotify.com/album/1ML4GnpXa6DLUjJTSnREW0) | 2:35 | 2025-05-09 |  |
-| [LOVE CLOUD](https://open.spotify.com/track/5eojMPE0A6IUhHDVzWydDy) | [김켄지](https://open.spotify.com/artist/6s7w7nCTjc5kXyFJfOQieZ) | [LOVE CLOUD](https://open.spotify.com/album/6lMheBKbvNxJ7WyqoJYXjE) | 2:58 | 2025-05-19 |  |
+| [LOVE CLOUD](https://open.spotify.com/track/5eojMPE0A6IUhHDVzWydDy) | [김켄지](https://open.spotify.com/artist/6s7w7nCTjc5kXyFJfOQieZ) | [LOVE CLOUD](https://open.spotify.com/album/6lMheBKbvNxJ7WyqoJYXjE) | 2:58 | 2025-05-19 | 2025-09-02 |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-09 | 2022-07-05 |
 | [love ends](https://open.spotify.com/track/74FPQJJ6ao6V8NCBKb1Yjl) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [love ends](https://open.spotify.com/album/5u9HYEIX9G5QMAiwNjHQ0w) | 4:07 | 2023-03-02 | 2023-05-02 |
 | [Love Equation](https://open.spotify.com/track/03ylCEX3Vtu8VxrJ0xNoKm) | [Meriberry](https://open.spotify.com/artist/0Nf0qk7EHwnEfRMgqac3qb) | [Love Equation](https://open.spotify.com/album/5ZdqTTmvBfWu7uWeZCFBvk) | 3:37 | 2024-06-04 | 2025-01-21 |

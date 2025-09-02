@@ -2,9 +2,9 @@
 
 ### [Flow Tranqui](https://open.spotify.com/playlist/37i9dQZF1DWVt7Sb7a9kCb)
 
-> Llévatela tranqui con los hits más relajados del urbano.
+> Llévatela tranqui con los hits más relajados del urbano\. Sergio Ramos en portada
 
-531 songs - 1 day 3 hr 2 min
+532 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [CHAO BEBE](https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [CHAO BEBE](https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5) | 3:26 | 2023-02-24 | 2024-04-03 |
 | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chispeo ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU) | 2:10 | 2023-11-30 | 2024-01-17 |
 | [Chulería](https://open.spotify.com/track/34rN10tWeSRxeeEboyqLSV) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Chulería](https://open.spotify.com/album/5FqdSGj0copJX5Hdei63Oc) | 2:15 | 2024-09-20 | 2024-09-28 |
+| [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 | 2025-09-01 |  |
 | [Ciclorama Sesh Cap.4: Una Vez Más](https://open.spotify.com/track/4Zont12fqeprn2xdoi1R4K) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Thyan V](https://open.spotify.com/artist/4flNO0lNvXAJmzZpWTvXzb) | [Ciclorama Sesh Cap.4: Una Vez Más](https://open.spotify.com/album/15ckZUad9f0HIN1oJSN9aF) | 2:30 | 2024-08-02 | 2024-08-10 |
 | [Clásico](https://open.spotify.com/track/1LwBr7plALJCF81Mk9CPXB) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Clásico](https://open.spotify.com/album/1VDzVk2o7IeOl0kL2wO1Dp) | 2:27 | 2022-05-25 | 2022-07-29 |
 | [COCO \(feat\. Yailin la Mas Viral\)](https://open.spotify.com/track/4ha1GYdpaquNwEe0WAj7eN) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [COCO \(feat\. Yailin la Mas Viral\)](https://open.spotify.com/album/2x5xdWg8y5lZgEQkOfokPp) | 2:38 | 2024-03-15 | 2024-05-01 |
@@ -156,7 +157,7 @@
 | [DOM1NGO](https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:08 | 2024-01-16 |  |
 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 | 2022-06-03 | 2023-01-14 |
 | [Drama](https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Drama](https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq) | 2:44 | 2023-10-27 | 2023-12-01 |
-| [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-05-25 |  |
+| [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2022-05-25 | 2025-09-02 |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-24 | 2025-08-30 |
 | [DÓNDE ESTARÁS??](https://open.spotify.com/track/0I7p3QwWVTpGq7K62IOVr3) | [Nyquest](https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [DÓNDE ESTARÁS??](https://open.spotify.com/album/4R43dqVLOOxx1ignjGAfnq) | 2:48 | 2025-08-29 |  |
 | [El Ciclo](https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [El Ciclo](https://open.spotify.com/album/0drXgXCkeFKcPTmFjqwMCY) | 3:17 | 2023-05-26 | 2023-06-03 |

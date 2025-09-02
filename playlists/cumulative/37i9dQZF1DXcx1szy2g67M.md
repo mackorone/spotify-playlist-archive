@@ -2,7 +2,7 @@
 
 ### [Summer 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Nazomers genieten ☀️🌼🌻
+> De laatste weken zomer :\) ☀️🌼🌻
 
 724 songs - 1 day 12 hr 31 min
 

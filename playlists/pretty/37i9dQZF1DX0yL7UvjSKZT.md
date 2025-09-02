@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: The Creekers
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,440 likes - 127 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,418 likes - 127 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 17 | [All Around You](https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [All Around You](https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR) | 3:13 |
 | 18 | [Old Dreams](https://open.spotify.com/track/2H4BiN1bezzrdB7wcwzUKC) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Leap Year](https://open.spotify.com/album/7nLGwzyeB9zzYinbCdhltJ) | 3:19 |
 | 19 | [High Life](https://open.spotify.com/track/79euymTE7egtSLkw2oYFWT) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7), [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [High Life](https://open.spotify.com/album/0iJRhOqdyE4arCftukw6CN) | 3:25 |
-| 20 | [Raleigh and Spencer](https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY) | [Clover Lynn](https://open.spotify.com/artist/4QRCzJPvMqYSmtg7Om46WC), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Raleigh and Spencer](https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0) | 2:36 |
+| 20 | [Raleigh and Spencer](https://open.spotify.com/track/5jN4JkTORouAjbgs53rGLY) | [Clover\-Lynn](https://open.spotify.com/artist/4Vikpgnpq4LoMpu0Qq6buG), [Joshua Quimby](https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0) | [Raleigh and Spencer](https://open.spotify.com/album/6mCrNmiRJPAvtSzZjIk7p0) | 2:36 |
 | 21 | [Spitfire](https://open.spotify.com/track/5bo79e4Y6e5OtR2k8zpyev) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Spitfire](https://open.spotify.com/album/4O1bFb2Lg7orRCi0NjYMDu) | 3:16 |
 | 22 | [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/track/6Yo9Ro78exOz0zfju18jxm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw), [Susto Stringband](https://open.spotify.com/artist/1nRwDuf4z8nUSvRhAsUf4d) | [Friends, Lovers, Ex\-Lovers: Whatever](https://open.spotify.com/album/3kg7JnKVAEBzhcNfujDaeu) | 3:27 |
 | 23 | [Something to Write In Stone](https://open.spotify.com/track/3NB8K0ryswvReiu3ZCQ8dH) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv) | [Something to Write In Stone](https://open.spotify.com/album/5SAJhWZnq2ypxAf8ZOAXzn) | 3:01 |

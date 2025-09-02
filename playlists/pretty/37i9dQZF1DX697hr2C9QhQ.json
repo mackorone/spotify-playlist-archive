@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 56649,
+  "num_followers": 56665,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Flock",
+        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
+      },
+      "artists": [
+        {
+          "name": "Bell X1",
+          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Songs For The Tempted",
         "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 213573,
       "name": "Mary",
       "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "Flock",
-        "url": "https://open.spotify.com/album/0fv20gMlaXlY2CXq7y6lXD"
-      },
-      "artists": [
-        {
-          "name": "Bell X1",
-          "url": "https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2147WIWlvQkAMW8l0QZWF7"
     },
     {
       "added_at": "2022-03-17 10:54:32",

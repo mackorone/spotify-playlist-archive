@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,775 songs - 8 day 13 hr 17 min
+3,777 songs - 8 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3003,6 +3003,7 @@
 | [Someone \(To Save Their World\)](https://open.spotify.com/track/28AzKc9mdDYKOYm2Ji3Fvl) | [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2), [Blaze Johnson Jr.](https://open.spotify.com/artist/2oM2UwBJgvwpSzP6unZpr6) | [Someone \(To Save Their World\)](https://open.spotify.com/album/0z6V5Q3Pc2wH1WwXevFf1n) | 2:24 | 2025-02-21 | 2025-03-01 |
 | [Someone You Forget](https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Someone You Forget](https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg) | 5:23 | 2025-01-23 | 2025-02-01 |
 | [Someone You Loved](https://open.spotify.com/track/0DFn6gpTjvLGhbtTLUHxLh) | [Danny Suko](https://open.spotify.com/artist/4LmA8fdViKiDkQChO1Tsag), [Dj Squared](https://open.spotify.com/artist/75Obng72MkIaKTFCgK1vKN) | [Someone You Loved](https://open.spotify.com/album/6a87gx0IIyElVAIf2HLaRL) | 2:57 | 2024-10-11 | 2024-10-22 |
+| [Something](https://open.spotify.com/track/4RDDC8GjSeIQzYiNVNrdxd) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Something](https://open.spotify.com/album/0KF9jcLnl15aGTQ3XSJxT2) | 4:48 | 2025-09-01 |  |
 | [Something Simple](https://open.spotify.com/track/0CFuRM54eYyQ08ofXj1TlP) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [Something Simple](https://open.spotify.com/album/3NtH3wyYCHT4QpzEDGUgRE) | 2:42 | 2025-06-27 | 2025-07-05 |
 | [Something To Believe In](https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Something To Believe In](https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A) | 2:26 | 2025-05-09 | 2025-05-17 |
 | [Somewhere Dreams Come True](https://open.spotify.com/track/1Mjb3rV4neYnCZ50Cdbqck) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Somewhere Dreams Come True](https://open.spotify.com/album/7Es1oWXSlo1sDIjbGr5xLv) | 3:58 | 2025-07-25 | 2025-08-02 |
@@ -3522,6 +3523,7 @@
 | [Vibe](https://open.spotify.com/track/3FtsZEmHYbAW6eUtppbunB) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Vibe](https://open.spotify.com/album/0RIYtcV2MSPzFlGhlkw5YR) | 3:53 | 2025-05-16 | 2025-05-30 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-06-20 | 2025-06-28 |
 | [Viking's Call](https://open.spotify.com/track/3S3dgnsXeYoAeP2hmYRmzU) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Viking's Call](https://open.spotify.com/album/5u0FU98Bk1EX4cfXH6h8Gu) | 3:41 | 2024-09-05 | 2024-09-13 |
+| [Vision](https://open.spotify.com/track/1kPGfwnZkzokSpydIsrhHM) | [dj try](https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F) | [Vision](https://open.spotify.com/album/5yL4KXrpNjAqJlfQ09eIVW) | 4:21 | 2025-09-01 |  |
 | [VISION](https://open.spotify.com/track/0yXUEQoWtiHRAevsJiasW2) | [Elis](https://open.spotify.com/artist/2SBGFN4SWI1avoQDc39osF) | [EYESONYOU](https://open.spotify.com/album/2cUWBJiTJ35rHdeH9lzB3h) | 2:22 | 2025-05-04 | 2025-05-10 |
 | [Viva l'Opera](https://open.spotify.com/track/06AHOI8pzCfAhhvIB8s1Pe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Viva l'Opera](https://open.spotify.com/album/7bm7dbkB0iExYNKbddfwTE) | 3:07 | 2024-12-13 | 2024-12-20 |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2024-09-05 | 2024-09-07 |

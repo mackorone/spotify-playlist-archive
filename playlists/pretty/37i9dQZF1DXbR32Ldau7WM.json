@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: kurayamisaka",
-  "num_followers": 299826,
+  "num_followers": 299835,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "\u8cdc\u7269",
-        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 288323,
-      "name": "\u8cdc\u7269",
-      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 209799,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "\u8cdc\u7269",
+        "url": "https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 288323,
+      "name": "\u8cdc\u7269",
+      "url": "https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "Kon! Kon! (feat. Bloodywood)",
-        "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Bloodywood",
-          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
-        }
-      ],
-      "duration_ms": 235127,
-      "name": "Kon! Kon! (feat. Bloodywood)",
-      "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "\u7b2c\u30bc\u30ed\u611f",
         "url": "https://open.spotify.com/album/7hUGSAApToftQu366lqPVf"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 240893,
       "name": "\u3068\u308d\u3044",
       "url": "https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "Kon! Kon! (feat. Bloodywood)",
+        "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "duration_ms": 235127,
+      "name": "Kon! Kon! (feat. Bloodywood)",
+      "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
+        "name": "FIXION",
+        "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "\u72c2\u4e71 Hey Kids!!",
+      "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 260099,
       "name": "UN-APEX",
       "url": "https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
-        "name": "FIXION",
-        "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "\u72c2\u4e71 Hey Kids!!",
-      "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
+        "name": "mild days",
+        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "mild days",
+      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
         "name": "Sleep Walking Orchestra",
         "url": "https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 208013,
       "name": "\u5f37\u706b",
       "url": "https://open.spotify.com/track/0mh1ueH9o75o0mt6bqk4Sp"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
-        "name": "mild days",
-        "url": "https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "mild days",
-      "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
     },
     {
       "added_at": "2025-08-26 15:00:29",

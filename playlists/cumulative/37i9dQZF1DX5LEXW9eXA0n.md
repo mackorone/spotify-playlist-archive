@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 이석훈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,536 songs - 4 day 3 hr 38 min
+1,537 songs - 4 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 | 2023-08-25 |
 | [Love](https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Move On](https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN) | 3:53 | 2023-08-07 | 2023-10-17 |
 | [LOVE](https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [LOVE](https://open.spotify.com/album/7FIXWzYrIEkGVh0jMkyBEz) | 4:19 | 2025-05-30 |  |
-| [Love & Hate](https://open.spotify.com/track/3PAJJYMWUVgHWotflVLnSH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love & Hate](https://open.spotify.com/album/2AI7iOX1zwz9aUaBaPXQ6T) | 3:46 | 2025-04-11 |  |
+| [Love & Hate](https://open.spotify.com/track/3PAJJYMWUVgHWotflVLnSH) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Love & Hate](https://open.spotify.com/album/2AI7iOX1zwz9aUaBaPXQ6T) | 3:46 | 2025-04-11 | 2025-09-02 |
 | [Love after](https://open.spotify.com/track/3p5Dsp3xJAOGnBD4r5KfA3) | [Sunjin](https://open.spotify.com/artist/6rI5Eao5yul0nRLKmeOqjt) | [Love after](https://open.spotify.com/album/0vpDYK1CwYdRJRBKj1nSLh) | 4:30 | 2023-08-31 | 2023-11-03 |
 | [Love Alone](https://open.spotify.com/track/5V0ZavoSTmk0mQlfyHiDFW) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Love Alone \(CURTAIN CALL OST Part.6\)](https://open.spotify.com/album/4XgfduD3vOgaJeolOa5Nz4) | 3:27 | 2022-11-22 | 2023-01-21 |
 | [Love Contact](https://open.spotify.com/track/4hEZIBzhFQjJ99Znqwd9y8) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN) | [Love Contact](https://open.spotify.com/album/1wtXh0pRrUTdH3hgOCTuvX) | 4:11 | 2022-12-16 | 2023-01-21 |
@@ -1143,6 +1143,7 @@
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 | 2023-06-23 |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
+| [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 | 2025-09-01 |  |
 | [Stay With Me](https://open.spotify.com/track/17qoIHNHmxUu4YjeAs0Prh) | [Jeon Eun Jin](https://open.spotify.com/artist/67lzkCTgtpkhb56aGYXJEY) | [Stay With Me](https://open.spotify.com/album/58GDtLSSF7VjO9xjjaADbP) | 3:21 | 2022-02-10 | 2022-02-17 |
 | [Stay With Me](https://open.spotify.com/track/4W1b3MxwZL87B1BNYLCtvW) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/5zCi2iLKEj1Gy7ieiasa1L) | 3:29 | 2025-08-18 |  |
 | [Step](https://open.spotify.com/track/2ZML6XkrBnaauvtkwP8at1) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Step](https://open.spotify.com/album/1xWCeaqYgmdUQ2Cm90Z6Zk) | 4:56 | 2023-04-08 | 2023-08-25 |

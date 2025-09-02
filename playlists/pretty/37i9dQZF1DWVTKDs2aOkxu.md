@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,491 likes - 90 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,464 likes - 90 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 89 | [Pool](https://open.spotify.com/track/0oeS0fFJTHZhFwpHLpu1VS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pool](https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss) | 4:29 |
 | 90 | [Can we talk about Isaac?](https://open.spotify.com/track/0vBbqvlbXY9ozSEtN2rROZ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL) | 4:03 |
 
-Snapshot ID: `AAAAADNmWEGYsFzmlvATyFugUQs8qBgX`
+Snapshot ID: `AAAAAI/7Ej1SJtwmvAuXGNujZRGxU/cC`

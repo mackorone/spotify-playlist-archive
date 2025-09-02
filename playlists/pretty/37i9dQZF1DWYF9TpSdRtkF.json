@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18119,
+  "num_followers": 18123,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "Be My Boy",
+      "url": "https://open.spotify.com/track/61e2l14hlkUp5JyamG0OIq"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 11 \u30aa\u30da\u30e9\u30bb\u30ea\u30a2\u30fb\u714c\u8f1d\u5ea7",
         "url": "https://open.spotify.com/album/2SSr71xZDj52IgJ3zacjfx"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 264480,
       "name": "Parade d'amour",
       "url": "https://open.spotify.com/track/0fPEMQLXpCDbaCeT6CgUAd"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
-        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
-      },
-      "artists": [
-        {
-          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
-          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "Be My Boy",
-      "url": "https://open.spotify.com/track/61e2l14hlkUp5JyamG0OIq"
     },
     {
       "added_at": "2025-03-26 16:49:37",

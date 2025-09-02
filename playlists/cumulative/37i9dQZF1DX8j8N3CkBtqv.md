@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Dream Note, Tsumyoki, gini and other exciting artists.
 
-1,147 songs - 2 day 14 hr 35 min
+1,148 songs - 2 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Banjao Na](https://open.spotify.com/track/2gGYHnborT0UlPsMlIpmpi) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Banjao Na](https://open.spotify.com/album/6IOv5k0CQeUprbc3qif90O) | 2:48 | 2024-08-23 | 2024-10-04 |
 | [Banjare](https://open.spotify.com/track/2zBbZIp3560qNjQEV3uPeA) | [Arjun Tanwar](https://open.spotify.com/artist/4zTNA5UtD8nSTJtWvty6DX), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Banjare](https://open.spotify.com/album/28gM4trdy1XBUpBKX2WoNa) | 3:20 | 2024-07-26 | 2024-08-24 |
 | [Barbaad](https://open.spotify.com/track/63vqn1STGPk3GMH5QTwTyp) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Barbaad](https://open.spotify.com/album/2xxqc1HGYP2fi5nx3YMM7R) | 3:38 | 2023-12-15 | 2024-01-20 |
-| [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 | 2025-06-27 |  |
+| [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 | 2025-06-27 | 2025-09-02 |
 | [Barf](https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Barf](https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI) | 3:12 | 2024-08-30 | 2024-10-12 |
 | [Barkha](https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [Barkha](https://open.spotify.com/album/0rJs2XjAJZvzqWe4ElYTAM) | 2:55 | 2024-09-13 | 2024-10-19 |
 | [Barkha Badariya](https://open.spotify.com/track/21ctYICO05WgE99bGGYejT) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI), [Vritant Sharma](https://open.spotify.com/artist/5a4sc0Jyed3Id281jlloqe) | [Barkha Badariya](https://open.spotify.com/album/5khJdFlQYDkoy02sq99DJo) | 3:30 | 2024-06-28 | 2024-08-10 |
@@ -1076,6 +1076,7 @@
 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 | 2025-05-23 |  |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-22 | 2023-10-21 |
 | [Tujhsa Na Koi](https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:55 | 2025-06-27 |  |
+| [Tum](https://open.spotify.com/track/4cdHmo4nWzTcFolH3L5Ttp) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Tum](https://open.spotify.com/album/3UECBX0YYmUWK4yTkC1h2o) | 3:48 | 2025-08-29 |  |
 | [Tum](https://open.spotify.com/track/51O12zLJMmUwHwa8vbtlWO) | [Rohit Nigam](https://open.spotify.com/artist/7qdScuZ6LcdSpnjMLwQd6x) | [Tum](https://open.spotify.com/album/4u5Rq2VRdY4OVgeqFe9cyM) | 3:39 | 2023-06-30 | 2023-07-29 |
 | [Tum Hi Tum Samaaye](https://open.spotify.com/track/1vDDeRBSPMbYXVZPVzXHhn) | [Shruti Mishra](https://open.spotify.com/artist/7ndDtB3eqSUv9FsmlB5CCO), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Tum Hi Tum Samaaye](https://open.spotify.com/album/2Nj3F5DlNWRVnqK2DEcBpi) | 2:40 | 2024-09-06 | 2024-10-04 |
 | [Tum Ho Toh](https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Tum Ho Toh](https://open.spotify.com/album/5TUa65Q467b458wmCXw1wb) | 2:51 | 2024-11-29 | 2025-03-08 |

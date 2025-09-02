@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Takie Ndou and Rofhiwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,659 likes - 100 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,766 likes - 100 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

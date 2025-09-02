@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "underground and experimental. greetings from sorry.",
+  "description": "unearthing music that makes us feel interesting. greetings from chartreuse.",
   "name": "melomania",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
+    },
     {
       "album": {
         "name": "11",
@@ -369,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211542,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5"
+    },
+    {
+      "album": {
         "name": "Tearstick",
         "url": "https://open.spotify.com/album/0uQY8Dkq9H0cAmgKDmiYfz"
       },
@@ -636,7 +672,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 216631,
       "name": "BADBADBUTGOOD",
       "url": "https://open.spotify.com/track/02aCD7SAm1gHM3Jt5P0H8k"
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 264508,
       "name": "Call It Easy - Edit",
       "url": "https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5"
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
@@ -1909,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "Dipped",
+        "url": "https://open.spotify.com/album/7sF4EDoaaVq31e07L2aWHJ"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204514,
+      "name": "Dipped",
+      "url": "https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC"
+    },
+    {
+      "album": {
         "name": "Disposition",
         "url": "https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t"
       },
@@ -2551,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Feed My Head",
+        "url": "https://open.spotify.com/album/5LySqN6iv9j6LuFxsJnt5N"
+      },
+      "artists": [
+        {
+          "name": "Cro\u00edthe",
+          "url": "https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130209,
+      "name": "Feed My Head",
+      "url": "https://open.spotify.com/track/3CXq7CUohamp9f249xMoOX"
+    },
+    {
+      "album": {
         "name": "Feels Like Heaven",
         "url": "https://open.spotify.com/album/1wXAdBWXzFArynFkW7DYE4"
       },
@@ -2620,6 +2692,42 @@
       "duration_ms": 215186,
       "name": "Flowers in the Rain",
       "url": "https://open.spotify.com/track/56sGK0Vx2NKKh3iTQVR6cF"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1TjO1lphyF0J5GXzoszYe6"
+      },
+      "artists": [
+        {
+          "name": "TTSSFU",
+          "url": "https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221355,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7aJCqveV9M4UlyBpv2mB2Q"
+    },
+    {
+      "album": {
+        "name": "Sandworms: The Songs of Howe Gelb and Giant Sand",
+        "url": "https://open.spotify.com/album/0ClKIidKy6ivQttSS3BIpO"
+      },
+      "artists": [
+        {
+          "name": "Gently Tender",
+          "url": "https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326905,
+      "name": "Forever and a Day",
+      "url": "https://open.spotify.com/track/351lU5mojxsZ2f7IOUEL0d"
     },
     {
       "album": {
@@ -2731,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
+    },
+    {
+      "album": {
         "name": "Gallic Shrug",
         "url": "https://open.spotify.com/album/22sXxVWML2bXvQik1Mz6ci"
       },
@@ -2832,7 +2958,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 262160,
       "name": "Gloss",
       "url": "https://open.spotify.com/track/5DN99sJquXAgXDWwA2EFeH"
@@ -3088,6 +3214,24 @@
       "duration_ms": 219000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "album": {
@@ -3588,7 +3732,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 156824,
       "name": "Jetplane",
       "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
@@ -3894,7 +4038,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 321186,
       "name": "Long Roads",
       "url": "https://open.spotify.com/track/2fSkTqQp79TTfi0KRtnG4B"
@@ -4315,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "Bless You & Be Well",
+        "url": "https://open.spotify.com/album/3bfig7rO1bKJpRG41wmoSy"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185584,
+      "name": "Moon Man",
+      "url": "https://open.spotify.com/track/1LGGZPIuNtcUvK14aUI2yZ"
+    },
+    {
+      "album": {
         "name": "More Heat!",
         "url": "https://open.spotify.com/album/27HX6A9hmHHspKjZbHAYDT"
       },
@@ -4668,7 +4830,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 186640,
       "name": "Not Ideal",
       "url": "https://open.spotify.com/track/0v4nAgyFbCbkztikjnhtjR"
@@ -4784,6 +4946,24 @@
       "duration_ms": 333669,
       "name": "Of The Sorrows",
       "url": "https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R"
+    },
+    {
+      "album": {
+        "name": "Oh",
+        "url": "https://open.spotify.com/album/4NLlsPWwJSjJEoXixvqSWQ"
+      },
+      "artists": [
+        {
+          "name": "Domina",
+          "url": "https://open.spotify.com/artist/5J4Y0TedRCY1Cx2pHOT0vP"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195924,
+      "name": "Oh",
+      "url": "https://open.spotify.com/track/1Wh0fEXzDU1my6dA6U2d0e"
     },
     {
       "album": {
@@ -5248,7 +5428,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 458000,
       "name": "Return of Youth",
       "url": "https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw"
@@ -5302,7 +5482,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 199493,
       "name": "Rivers Run Red",
       "url": "https://open.spotify.com/track/62UhV1TTMWqAKvoQHt8ClT"
@@ -5464,7 +5644,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 213303,
       "name": "Sequence Of Voices",
       "url": "https://open.spotify.com/track/5MvxKOp6Dm44goQYzGK2gJ"
@@ -5759,6 +5939,24 @@
     },
     {
       "album": {
+        "name": "Skeletons Coupling",
+        "url": "https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "Skeletons Coupling",
+      "url": "https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0"
+    },
+    {
+      "album": {
         "name": "Skins",
         "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
       },
@@ -5788,7 +5986,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 260173,
       "name": "Skins",
       "url": "https://open.spotify.com/track/6A3WzehznFCrvM17ESvJmb"
@@ -6901,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/218P4brorJq8BLcyzconqS"
+    },
+    {
+      "album": {
         "name": "Trevor",
         "url": "https://open.spotify.com/album/5k9ql2i9ynuPoHeCDD8h2m"
       },
@@ -7434,7 +7650,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 452329,
       "name": "Your New Place",
       "url": "https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl"

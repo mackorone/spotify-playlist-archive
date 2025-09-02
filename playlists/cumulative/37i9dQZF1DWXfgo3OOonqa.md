@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,000 songs - 3 day 13 hr 49 min
+2,002 songs - 3 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1584,6 +1584,7 @@
 | [SKAKAR](https://open.spotify.com/track/6tQx5DW6wVwXrV8gROGC2p) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:11 | 2022-01-06 | 2022-01-28 |
 | [Skeleton](https://open.spotify.com/track/6Prl2ymMpQbVAvS4ZOXlAN) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Skeleton](https://open.spotify.com/album/41miWtar3FG8ONnxVVoFLK) | 2:02 | 2023-07-27 | 2023-09-08 |
 | [Skenet Bedrar](https://open.spotify.com/track/2c9HQ1EKrrRCgruiXuDay3) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Skenet Bedrar](https://open.spotify.com/album/2YbiKxEd2s829ca1W6i5mA) | 3:17 | 2023-10-05 | 2023-12-08 |
+| [Skillibeng](https://open.spotify.com/track/2ROEzqfgwi2y6lzEeo50D6) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Skillibeng](https://open.spotify.com/album/3p0IwXe1xU3QET7yKtP0ZY) | 2:07 | 2025-09-01 |  |
 | [SKIMMA](https://open.spotify.com/track/1ZYZksZeWLbTc2vfIlA4Uh) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [SKIMMA](https://open.spotify.com/album/0UkjEEziJ5tSBsVfJzQ5cL) | 2:29 | 2022-08-05 | 2022-09-30 |
 | [skitdag \(feat\. Clayton\)](https://open.spotify.com/track/5Eocjojgyk5o9aGbxcLtIu) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [skitdag \(feat\. Clayton\)](https://open.spotify.com/album/4R9DcKWekG05uTxiApLD5T) | 2:52 | 2024-11-28 | 2025-03-14 |
 | [Skitz/Face ID](https://open.spotify.com/track/2vkuGMrfovItY96pmT5Dq8) | [Jiggz](https://open.spotify.com/artist/4vmyAixlpiovF3wJ5MSxfJ) | [Skitz/Face ID](https://open.spotify.com/album/0aqHbgEnvWltvYclkRj2aa) | 2:09 | 2024-02-29 | 2024-06-28 |
@@ -1648,6 +1649,7 @@
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-07-20 | 2024-01-26 |
 | [Stanna](https://open.spotify.com/track/2J8yqByteAvzKhHpyIx0WH) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [En fånges visor](https://open.spotify.com/album/0ttsohFG2HAXwPdMF8lqQQ) | 2:12 | 2024-09-12 | 2025-02-21 |
 | [STANNAT](https://open.spotify.com/track/3kgcku98wOQrB2nQuMJbj9) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [STANNAT](https://open.spotify.com/album/5otEdWPMxzKtnKdJ0NNqhT) | 3:17 | 2025-04-24 | 2025-07-25 |
+| [Starplayer](https://open.spotify.com/track/1x7QnpLei66RDB1hCiCK0w) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Starplayer](https://open.spotify.com/album/4UV0vrjRQk5buKlXoIyQE3) | 2:15 | 2025-09-01 |  |
 | [Starstruck](https://open.spotify.com/track/2KHoqKv7oqCa18EqDcOQmd) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Starstruck](https://open.spotify.com/album/2o8WMXyL47AQcEirBdoql0) | 2:28 | 2025-05-08 | 2025-07-25 |
 | [Stationen](https://open.spotify.com/track/583AJvyl1HDbo3TXWPWGJB) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Aleks](https://open.spotify.com/artist/0zKX6nlK1A4ZmztnFPOKGs) | [För evigt](https://open.spotify.com/album/3IFxAwtVwh6EXIhFjQQv2X) | 5:14 | 2023-08-10 | 2023-08-13 |
 | [Stefflon & Burna](https://open.spotify.com/track/2YLANvLF3wNHYr3FwlZz1p) | [Leyla Dahab](https://open.spotify.com/artist/7kKJ9Ow2GI3qvINsToclQj) | [Stefflon & Burna](https://open.spotify.com/album/6iUE3OkGZZegEy7dW2cCgi) | 3:03 | 2022-01-06 | 2022-01-28 |

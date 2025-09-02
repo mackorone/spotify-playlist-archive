@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-593 songs - 1 day 4 hr 36 min
+594 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,11 +369,12 @@
 | [Nocturnal Glow](https://open.spotify.com/track/5HepyasUWkTg0n9RrIrGEy) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Nocturnal Glow](https://open.spotify.com/album/7k9pnPw6vr1lXZsG5LukSu) | 2:38 | 2025-05-13 |  |
 | [Nocturnal Vibes](https://open.spotify.com/track/5OhMr3bntCGijbYyib6rJp) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Nocturnal Vibes](https://open.spotify.com/album/4fFKwFxQkJ0uG3SzV5lkvt) | 3:18 | 2021-12-17 | 2024-09-19 |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2021-12-17 | 2024-09-19 |
-| [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 | 2025-03-26 |  |
+| [Nostalgic](https://open.spotify.com/track/4vOnlLWIGRfxBDEWr4vICC) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Nostalgic](https://open.spotify.com/album/5TaRLHhBUoSw8CbrgI9X5a) | 2:59 | 2025-03-26 | 2025-09-02 |
 | [Nothing else mattered](https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 2:42 | 2023-03-17 | 2025-08-12 |
 | [Notte](https://open.spotify.com/track/3sAJq6EDW2iNSJnHwLzSqV) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Notte](https://open.spotify.com/album/5uTX4Gl0qEqf444613cBbn) | 3:19 | 2021-12-17 | 2024-03-27 |
 | [Novela](https://open.spotify.com/track/5niLpTfr4mjTpRZZReAuSZ) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Novela](https://open.spotify.com/album/45XWRStH7Eg4CJc8GZQgNS) | 3:54 | 2025-03-26 |  |
 | [Novi Sad](https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [Palaeophonus](https://open.spotify.com/album/37U1JppB4VUGPzpz1z7UcK) | 3:32 | 2021-12-17 | 2022-09-03 |
+| [Numenoris](https://open.spotify.com/track/6wDKO249Uwv6OSv27oT04E) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Numenoris](https://open.spotify.com/album/6KHiiwkKRVOxwLDJReck3C) | 2:56 | 2025-09-01 |  |
 | [Oasis of Stillness](https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89) | [Saga Lotus](https://open.spotify.com/artist/5RwXzQeQAqiSEcXHxmhFn9) | [Oasis of Stillness](https://open.spotify.com/album/1sx8HA77okp1MVy45u6vkR) | 3:07 | 2024-04-04 | 2025-03-01 |
 | [Obscure](https://open.spotify.com/track/3eU1mnj9Xf0aIi8LwCOAgR) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Obscure](https://open.spotify.com/album/2e4CihgrJs3ULCKhNph13G) | 2:48 | 2025-02-07 |  |
 | [Observation](https://open.spotify.com/track/4XG3jftp6ipriUK7vvU2gt) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Observation](https://open.spotify.com/album/6H9knBvaedA7TcrAEI2bt7) | 3:00 | 2024-04-29 |  |
@@ -499,7 +500,7 @@
 | [Spherical](https://open.spotify.com/track/18PVnCh5u9MM2D79Is8UaU) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Spherical](https://open.spotify.com/album/0jGtX3xd0Cl5NbnxHqGNDO) | 3:12 | 2024-06-10 | 2025-07-23 |
 | [Spirals](https://open.spotify.com/track/78HCy9rFb20PwAJvk9Tv73) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Spirals](https://open.spotify.com/album/4bzZ0mCQXJOBOvTVLxa7iZ) | 2:49 | 2022-11-11 | 2025-05-07 |
 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 | 2022-09-13 | 2025-05-07 |
-| [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-04 |  |
+| [Star Nebula](https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Star Nebula](https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp) | 3:06 | 2024-04-04 | 2025-09-02 |
 | [Starlight](https://open.spotify.com/track/7HjPINRbACZjEmzVLt3Tuv) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Eclipse](https://open.spotify.com/album/4CLRGpIhLUCwhSJXydDeme) | 3:21 | 2021-12-17 | 2024-05-12 |
 | [Starseer](https://open.spotify.com/track/4MwsRX4y2FMLSgxp8ZP7UF) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Starseer](https://open.spotify.com/album/0ZucB3KfvckpySyn5CUCmC) | 3:05 | 2025-05-27 |  |
 | [State of Grace](https://open.spotify.com/track/0GGBywhLXTT0D3dRIaEvFO) | [Ecovillage](https://open.spotify.com/artist/0JvmpwiLzNlN4bGtXCdNoK) | [State of Grace](https://open.spotify.com/album/5vIxjuPtAmpY26voHLTQPa) | 3:06 | 2021-12-17 | 2024-09-06 |

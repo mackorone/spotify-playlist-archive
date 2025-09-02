@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 234278,
       "name": "Nada Nos Para",
       "url": "https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik"
@@ -1457,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Qu\u00e9 Mentira Tan Perfecta",
+      "url": "https://open.spotify.com/track/1ebEUeKjLYA6R2icUcrDVt"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Mentira Tan Perfecta",
         "url": "https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y"
       },
@@ -1472,7 +1494,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 169000,
       "name": "Qu\u00e9 Mentira Tan Perfecta",
       "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
@@ -1872,7 +1894,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 184651,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1nP5Mv2tTSLny8maw7ZVSY"

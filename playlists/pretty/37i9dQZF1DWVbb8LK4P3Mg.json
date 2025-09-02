@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 145207,
+  "num_followers": 145199,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "THE BOYZ Special Single [Candles]",
         "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 231093,
       "name": "Candles",
       "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 206439,
-      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Winter Bloom",
         "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 206439,
+      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "When It Snows mmm (feat. Wheein)",
+        "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
+      },
+      "artists": [
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "When It Snows mmm (feat. Wheein)",
+      "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Everyday Christmas",
         "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "When It Snows mmm (feat. Wheein)",
-        "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
-      },
-      "artists": [
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "When It Snows mmm (feat. Wheein)",
-      "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Christmas With You",
-        "url": "https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ"
-      },
-      "artists": [
-        {
-          "name": "BANG&JUNG&YOO&MOON",
-          "url": "https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Christmas With You",
-      "url": "https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "5 Christmas Languages",
         "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "BANG&JUNG&YOO&MOON",
+          "url": "https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI"
         }
       ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+      "duration_ms": 234306,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1395,6 +1379,22 @@
       "duration_ms": 159616,
       "name": "I Still Believe in Santa",
       "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Sweater (Orchestral Version)",
         "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
       },
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Movie Winter",
         "url": "https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 213800,
       "name": "Candle",
       "url": "https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "The Christmas Book Page 2",
-        "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 239777,
-      "name": "Winter Land",
-      "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1807,6 +1791,22 @@
       "duration_ms": 178986,
       "name": "Grass under Snow",
       "url": "https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Christmas Book Page 2",
+        "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 239777,
+      "name": "Winter Land",
+      "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
     },
     {
       "added_at": "2025-01-18 02:25:33",

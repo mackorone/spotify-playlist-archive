@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-215 songs - 12 hr 1 min
+217 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Paiya Dei \- From "Think Indie"](https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di) | [Paiya Dei \(From "Think Indie"\)](https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40) | 2:35 | 2024-12-29 |  |
 | [Pakkam Vanthu](https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jo4lZjhgTwX7ldHD5hl1t) | 4:18 | 2022-02-08 | 2024-04-19 |
 | [Pakkam Vanthu \(From "Kaththi"\)](https://open.spotify.com/track/3FYrauenN3nxu6G9OchcrO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 4:16 | 2022-02-08 | 2025-05-03 |
+| [PANANTHOPPU](https://open.spotify.com/track/4NT2wkeGlUBLPxHpsdbiQo) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [BLACK PAAND1](https://open.spotify.com/artist/6UXX0cMnba6kAgjRUtYlv8) | [PANANTHOPPU](https://open.spotify.com/album/5gVkYMJvCq0zSKqqbSfZoY) | 2:25 | 2025-09-01 |  |
 | [Party with the Pei](https://open.spotify.com/track/1QzbBS78dbKMmM25mEuz24) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kharesma Ravichandran](https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw) | [Aranmanai 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4c5FnCEdOWZrCEAvBQGcms) | 3:35 | 2022-02-08 | 2025-01-10 |
 | [PATHUN POO](https://open.spotify.com/track/3rwXdpE92M76E2Pd754MVK) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pulingo](https://open.spotify.com/album/6fkCdDh5aA7XftqBC5106a) | 2:15 | 2024-12-29 |  |
 | [Pear Kettu Paru](https://open.spotify.com/track/45DB56vkOlgovmzfiYTTaG) | [Rejoy](https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA), [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C) | [Pear Kettu Paru](https://open.spotify.com/album/2DQuHfg2toXYcngswflcFn) | 2:46 | 2025-06-06 |  |
@@ -176,6 +177,7 @@
 | [Sollisai Haters](https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Sollisai Haters](https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn) | 3:07 | 2025-02-03 |  |
 | [Sollisai Kaalam](https://open.spotify.com/track/41KyWqoRsspaiFPbSy8ZnC) | [Iraivan](https://open.spotify.com/artist/6N9ejYnP3zgDFAf6TLuNzV) | [Sollisai Kaalam](https://open.spotify.com/album/7u2W7Q1XxLXkKk0ixQ6ia9) | 2:14 | 2025-03-07 | 2025-05-29 |
 | [Stable In The Game](https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB) | [NST](https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5) | [Stable In The Game](https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr) | 3:23 | 2024-12-29 | 2025-01-31 |
+| [STFUP](https://open.spotify.com/track/5s5Iyv81LvOC3gVDwxzxFC) | [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L) | [STFUP](https://open.spotify.com/album/5t32im9JgdiMylv3uLufaC) | 2:20 | 2025-09-01 |  |
 | [SUMMER SHOT](https://open.spotify.com/track/0V4SJS6mJas5o2Aafcpqf8) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [VENGAYO](https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [SUMMER SHOT](https://open.spotify.com/album/0NQQdfpsVuH1noFDDzrnB6) | 2:06 | 2025-07-22 |  |
 | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/track/5oFUweeBMoGCLs0UzqQ5Yj) | [Manikandan](https://open.spotify.com/artist/4ujp5wk5AK1cMq0LHzRzLv), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Suna Pana \(feat\. Jeruson\)](https://open.spotify.com/album/03pKi5SyllM186lRtJhd22) | 3:23 | 2024-12-29 |  |
 | [Surviva \(feat\. Yogi B & Mali\)](https://open.spotify.com/track/0jvNc73pMCkyHTchaQu6NV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 3:42 | 2022-02-08 | 2025-01-10 |

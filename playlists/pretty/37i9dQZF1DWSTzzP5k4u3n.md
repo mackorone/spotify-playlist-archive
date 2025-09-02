@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Kauko Röyhkä & Riku Mattila.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,382 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,389 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 4 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
 | 5 | [Oletko siellä](https://open.spotify.com/track/3EplszH4zG4GJFjmsiyVap) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Oletko siellä](https://open.spotify.com/album/5q4lviYJdKf8AIGmFLgNzX) | 3:54 |
 | 6 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
-| 7 | [Haavat](https://open.spotify.com/track/2Xp723l2bYsKGrieosITk5) | [Haavat](https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo) | [Haavat](https://open.spotify.com/album/6YBhxv7ZCGPAakltndNjxr) | 2:58 |
-| 8 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
-| 9 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 |
-| 10 | [Kirje Nylon Beatille](https://open.spotify.com/track/41XIoSEQUnups5w1evN77R) | [Kärmes](https://open.spotify.com/artist/6Pg3eTjJuTHEprVckuicfK) | [Kirje Nylon Beatille](https://open.spotify.com/album/4geaWTftfjusZX4w7GH5GZ) | 3:05 |
-| 11 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
-| 12 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
-| 13 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
-| 14 | [Haudankaivajat](https://open.spotify.com/track/0tGk2SgUbF3DFRfF7YvKTf) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Haudankaivajat](https://open.spotify.com/album/6XsPiQJIRHf9kPZKwzCjPy) | 3:53 |
-| 15 | [Oi Anhedonia!](https://open.spotify.com/track/78ucQHIEkH700wwsPkjFlX) | [A.Reikko & Kaupungin ääni](https://open.spotify.com/artist/3tph4aMNzlsxT0j2NzysvG), [A.Reikko](https://open.spotify.com/artist/2ueDIq14qjRHz330h0yK9F) | [Oi Anhedonia!](https://open.spotify.com/album/2DfjCDLH0YFuu9NyR1z6jV) | 3:21 |
-| 16 | [Tanssi mun kaa](https://open.spotify.com/track/36eXOuDBexnjhe8xbSSpLn) | [Kirkkovene](https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f) | [Kirkkovene](https://open.spotify.com/album/0XCR8IlyFIU29RCBJCHypy) | 2:21 |
-| 17 | [Älä yksin jää](https://open.spotify.com/track/3MZaJT1R5vhgjfhoijj4Sw) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Älä yksin jää](https://open.spotify.com/album/0Otups8MjIcD79WC8nhJMG) | 4:17 |
-| 18 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
-| 19 | [Suvi](https://open.spotify.com/track/69Jd9PU57qPtisMKrORean) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Suvi](https://open.spotify.com/album/1LiiSWqBCgtI6uedCBhVcL) | 2:50 |
-| 20 | [Helppo lapsi](https://open.spotify.com/track/6WB1Gep2OkEYpK4HJKbI5P) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Helppo lapsi](https://open.spotify.com/album/1ZPY9iUUhhpnS3oBnXQzB3) | 2:34 |
+| 7 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
+| 8 | [Haavat](https://open.spotify.com/track/2Xp723l2bYsKGrieosITk5) | [Haavat](https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo) | [Haavat](https://open.spotify.com/album/6YBhxv7ZCGPAakltndNjxr) | 2:58 |
+| 9 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
+| 10 | [Helppo lapsi](https://open.spotify.com/track/6WB1Gep2OkEYpK4HJKbI5P) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Helppo lapsi](https://open.spotify.com/album/1ZPY9iUUhhpnS3oBnXQzB3) | 2:34 |
+| 11 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
+| 12 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 |
+| 13 | [Kirje Nylon Beatille](https://open.spotify.com/track/41XIoSEQUnups5w1evN77R) | [Kärmes](https://open.spotify.com/artist/6Pg3eTjJuTHEprVckuicfK) | [Kirje Nylon Beatille](https://open.spotify.com/album/4geaWTftfjusZX4w7GH5GZ) | 3:05 |
+| 14 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
+| 15 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
+| 16 | [Haudankaivajat](https://open.spotify.com/track/0tGk2SgUbF3DFRfF7YvKTf) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Haudankaivajat](https://open.spotify.com/album/6XsPiQJIRHf9kPZKwzCjPy) | 3:53 |
+| 17 | [Oi Anhedonia!](https://open.spotify.com/track/78ucQHIEkH700wwsPkjFlX) | [A.Reikko & Kaupungin ääni](https://open.spotify.com/artist/3tph4aMNzlsxT0j2NzysvG), [A.Reikko](https://open.spotify.com/artist/2ueDIq14qjRHz330h0yK9F) | [Oi Anhedonia!](https://open.spotify.com/album/2DfjCDLH0YFuu9NyR1z6jV) | 3:21 |
+| 18 | [Tanssi mun kaa](https://open.spotify.com/track/36eXOuDBexnjhe8xbSSpLn) | [Kirkkovene](https://open.spotify.com/artist/0SZkRVbgQe92d3RdjmYh9f) | [Kirkkovene](https://open.spotify.com/album/0XCR8IlyFIU29RCBJCHypy) | 2:21 |
+| 19 | [Älä yksin jää](https://open.spotify.com/track/3MZaJT1R5vhgjfhoijj4Sw) | [Varjokoodi](https://open.spotify.com/artist/7DKrGAIwzSyahY63WZSFmv) | [Älä yksin jää](https://open.spotify.com/album/0Otups8MjIcD79WC8nhJMG) | 4:17 |
+| 20 | [Suvi](https://open.spotify.com/track/69Jd9PU57qPtisMKrORean) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Suvi](https://open.spotify.com/album/1LiiSWqBCgtI6uedCBhVcL) | 2:50 |
 | 21 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
 | 22 | [Mä En Tänne Jää](https://open.spotify.com/track/06BbiRhzzy25bM1qn2RnB4) | [Kalle Päätalo](https://open.spotify.com/artist/5EjLAZGg5z2Ey1Icv49cLV) | [Mä En Tänne Jää](https://open.spotify.com/album/4nbVc0wREhgMu5UhbA1r9A) | 3:20 |
 | 23 | [Pellava](https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Pellava](https://open.spotify.com/album/1d2yBZwUYZGY23W3bjCZFg) | 2:55 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 75 | [Eero Rivera](https://open.spotify.com/track/3OzOl4yUW2o9nXQBlN28hd) | [Eero Rivera](https://open.spotify.com/artist/0X4YpLbMH9LdgbwbBBlHdy) | [Eero Rivera](https://open.spotify.com/album/6phfE2Uqg5s6QLyoCPUmhp) | 2:36 |
 | 76 | [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 |
 
-Snapshot ID: `AAAAAABXGGqFZn10IfirSTbkxR3dMe/j`
+Snapshot ID: `AAAAAIiF4dIf0cavl8ItHdqc9VTsCSPp`

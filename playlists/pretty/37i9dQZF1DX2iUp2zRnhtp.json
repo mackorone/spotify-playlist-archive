@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 195014,
+  "num_followers": 195008,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
         "name": "What Did I Miss?",
         "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
       },
@@ -183,26 +199,6 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
-        "name": "Take My Mind",
-        "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 171199,
-      "name": "Take My Mind",
-      "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -239,18 +235,22 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+        "name": "Take My Mind",
+        "url": "https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+      "duration_ms": 171199,
+      "name": "Take My Mind",
+      "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 145733,
       "name": "Alle vil til himmelen",
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "2CB",
-        "url": "https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "2CB",
-      "url": "https://open.spotify.com/track/4v4544m9rPttWudGucbzAc"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Strawberry Blonde",
         "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 190965,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "2CB",
+        "url": "https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "2CB",
+      "url": "https://open.spotify.com/track/4v4544m9rPttWudGucbzAc"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Konfetti",
         "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 194425,
       "name": "Konfetti",
       "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 186435,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Djevelens Salong",
         "url": "https://open.spotify.com/album/37LVW3GvXut6cdPr89QHRn"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 161571,
       "name": "Djevelens Salong",
       "url": "https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/2iCLCNU6syUwGxn8wa6VCi"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 186435,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Due",
+          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/0L3q9BRlKUt2bDIG5sk7EK"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
         "name": "You You You",
         "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
       },
@@ -1411,26 +1431,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        },
-        {
-          "name": "Due",
-          "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/0L3q9BRlKUt2bDIG5sk7EK"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "So cool",
         "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "En Vakker Dag",
-        "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "En Vakker Dag",
-      "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Hvert \u00c5r",
         "url": "https://open.spotify.com/album/6HE9CnakRqPFCb4Ra36eQU"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 184918,
       "name": "Hvert \u00c5r",
       "url": "https://open.spotify.com/track/6lCuJDgduRfAmgrFyStT3g"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "En Vakker Dag",
+        "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "En Vakker Dag",
+      "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1547,6 +1547,26 @@
       "duration_ms": 194173,
       "name": "Call me when you need me",
       "url": "https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "fairytale",
+        "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "fairytale",
+      "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1651,26 +1671,6 @@
       "duration_ms": 158225,
       "name": "Dette er livet (feat. OnklP)",
       "url": "https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
-        "name": "fairytale",
-        "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Alexander Rybak",
-          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "fairytale",
-      "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Meant2Be",
-        "url": "https://open.spotify.com/album/5NWtkEhGJFFOPSn4mi8bS5"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 206836,
-      "name": "Meant2Be",
-      "url": "https://open.spotify.com/track/3841zePJnhIsQ3iBuZGgdD"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "MACHIAVELLI",
         "url": "https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 196691,
       "name": "MACHIAVELLI",
       "url": "https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "Meant2Be",
+        "url": "https://open.spotify.com/album/5NWtkEhGJFFOPSn4mi8bS5"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 206836,
+      "name": "Meant2Be",
+      "url": "https://open.spotify.com/track/3841zePJnhIsQ3iBuZGgdD"
     },
     {
       "added_at": "2025-08-28 22:00:10",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2025-08-28 22:00:10",
       "album": {
-        "name": "Body On Body",
-        "url": "https://open.spotify.com/album/1KIoMonb747LXCTsqQo0uv"
-      },
-      "artists": [
-        {
-          "name": "SINA",
-          "url": "https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv"
-        }
-      ],
-      "duration_ms": 195697,
-      "name": "Body On Body",
-      "url": "https://open.spotify.com/track/7LtTm0lzLApbRrPGsUqNUg"
-    },
-    {
-      "added_at": "2025-08-28 22:00:10",
-      "album": {
         "name": "Aldri slutt \u00e5 drekk",
         "url": "https://open.spotify.com/album/5HXQv5rE8tMonvbhMyKJf6"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 143735,
       "name": "Aldri slutt \u00e5 drekk",
       "url": "https://open.spotify.com/track/3ZtHgJsZZ4S3ggbtu6KrSq"
+    },
+    {
+      "added_at": "2025-08-28 22:00:10",
+      "album": {
+        "name": "Body On Body",
+        "url": "https://open.spotify.com/album/1KIoMonb747LXCTsqQo0uv"
+      },
+      "artists": [
+        {
+          "name": "SINA",
+          "url": "https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv"
+        }
+      ],
+      "duration_ms": 195697,
+      "name": "Body On Body",
+      "url": "https://open.spotify.com/track/7LtTm0lzLApbRrPGsUqNUg"
     },
     {
       "added_at": "2025-08-28 22:00:10",

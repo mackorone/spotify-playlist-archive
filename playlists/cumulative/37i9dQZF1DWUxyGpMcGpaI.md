@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUxyGpMcGpaI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUxyGpMcGpaI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUxyGpMcGpaI)
 
-### [Chainsaw Man チェンソーマン](https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI)
+### [Chainsaw Man](https://open.spotify.com/playlist/37i9dQZF1DWUxyGpMcGpaI)
 
-> Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>! /  TVアニメ<a href="https://chainsawman.dog/">『チェンソーマン』</a>のオフィシャルプレイリスト。
+> Music from the new anime,  <a href="https://chainsawman.dog/">"Chainsaw Man"</a>!
 
 98 songs - 3 hr 45 min
 

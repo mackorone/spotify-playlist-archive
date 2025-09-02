@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Divasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,879 likes - 94 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,876 likes - 94 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

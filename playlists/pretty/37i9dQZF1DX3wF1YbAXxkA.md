@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,932 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,989 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 98 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 |
 | 99 | [Should've Known \(feat\. Smino & Cedxric\)](https://open.spotify.com/track/4V8iRao70OTxshu74BMEBE) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Cedxric](https://open.spotify.com/artist/4BevWbXTBfZaF4T7yFDtOI) | [Don't Forget To Breathe](https://open.spotify.com/album/5MBfkQZYnJJgeSHeEOGHL4) | 3:03 |
 | 100 | [Tomorrow Man](https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 2:46 |
-| 101 | [Light Runner](https://open.spotify.com/track/3AfwSzagDnKTUXc7lqVzdx) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Light Runner](https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c) | 3:35 |
-| 102 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
+| 101 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
+| 102 | [Light Runner](https://open.spotify.com/track/3AfwSzagDnKTUXc7lqVzdx) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Light Runner](https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c) | 3:35 |
 | 103 | [Futuro Amor](https://open.spotify.com/track/51SFG4BRBBefJqXdy9acFE) | [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Miami](https://open.spotify.com/album/2iIEK9OCit36V2wOxAlJY9) | 2:47 |
 | 104 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
 | 105 | [Black Eye](https://open.spotify.com/track/67P2PR85vDePx5x2wvCL2V) | [SANITY](https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Black Eye](https://open.spotify.com/album/5YounM3AehIFLPltsa5kGN) | 4:52 |

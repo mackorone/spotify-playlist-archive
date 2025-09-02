@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,815 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,847 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [The Ancient Gods](https://open.spotify.com/track/5Yu6wzmoNf6rs6uy3NNCnD) | [Kvaen](https://open.spotify.com/artist/4G2t2vFfJk5Ud4GxwV9ooA) | [The Formless Fires](https://open.spotify.com/album/2RBpChfrlm7sfplPhpYPnB) | 5:39 |
 | 50 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 |
 
-Snapshot ID: `AAAAAK+M/WmQ4CshfCKkmV+zTtcTsj8Q`
+Snapshot ID: `AAAAALmsfyorxpNT0Djn7wB2ypTxH5yb`

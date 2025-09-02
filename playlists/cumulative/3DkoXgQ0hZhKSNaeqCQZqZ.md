@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-384 songs - 20 hr 23 min
+385 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [JUST ARTIST STRUGGLES](https://open.spotify.com/track/2wZUYejbABGk8QPZZbadFa) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [JUST ARTIST STRUGGLES](https://open.spotify.com/album/0jP65We8pL1jznmxY2YsNp) | 2:16 | 2024-07-22 |  |
 | [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 | 2025-01-25 |  |
 | [Kid Again](https://open.spotify.com/track/71xsIJOqLiH544H7RbeHrc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:55 | 2024-12-06 |  |
+| [Kill Me](https://open.spotify.com/track/1aPUJE7BWylI4cjpQQRBs8) | [Joseph Barmon](https://open.spotify.com/artist/6XmkZvLVh3ct1FReteWY7t), [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM) | [Kill Me](https://open.spotify.com/album/7AtO7tTV3q9V0V95Ku9SSA) | 3:26 | 2025-09-01 |  |
 | [kittycat heartthrob](https://open.spotify.com/track/73GMBtu2AqtWZ6idye6sqc) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [kittycat heartthrob](https://open.spotify.com/album/3jePWfQ33qxjwB9MDAYfOR) | 2:48 | 2023-06-14 |  |
 | [Koi](https://open.spotify.com/track/3XtSSTaxwntJrzsiArZQHt) | [silverism](https://open.spotify.com/artist/7ofEwjKaoYr5I4S9glSWPr) | [Koi](https://open.spotify.com/album/7BCHUJWYCG8ywLhpS0MNPZ) | 3:39 | 2024-02-09 |  |
 | [Korrent City Streets](https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu) | [JAMIEvx](https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP) | [In Flux](https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE) | 4:33 | 2025-04-03 |  |

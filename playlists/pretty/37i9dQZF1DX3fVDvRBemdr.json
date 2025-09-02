@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update met Hollands en volks. Cover: Wolter Kroes",
-  "num_followers": 152942,
+  "num_followers": 152946,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGvAyxJExcznQlBUMdNw1woNzYn",
+  "snapshot_id": "AAAAAJ2WaxMOJTB3B61RN7HlV8d8HIJ5",
   "tracks": [
     {
       "added_at": "2025-08-28 22:00:13",
@@ -55,6 +55,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "Kroegtijger",
+        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "duration_ms": 169040,
+      "name": "Kroegtijger",
+      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "Heb Je Al Genoeg Genoten",
         "url": "https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 139628,
       "name": "Heb Je Al Genoeg Genoten",
       "url": "https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "Kroegtijger",
-        "url": "https://open.spotify.com/album/6pTwUkBdUwhDlopJ1oisoi"
-      },
-      "artists": [
-        {
-          "name": "Joey Nicolay",
-          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
-        }
-      ],
-      "duration_ms": 169040,
-      "name": "Kroegtijger",
-      "url": "https://open.spotify.com/track/6NW25Pw9bMewv2pdcp1BvX"
     },
     {
       "added_at": "2025-08-28 22:00:13",

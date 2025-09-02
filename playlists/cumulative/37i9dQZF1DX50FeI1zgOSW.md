@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-590 songs - 1 day 9 hr 36 min
+593 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aayirathil Avan Oruvan](https://open.spotify.com/track/30gPXGKnK719UU9QjiJ5jT) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:10 | 2024-07-27 | 2024-09-21 |
 | [Adada](https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Adada](https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m) | 3:19 | 2025-03-28 | 2025-06-04 |
 | [Adada Amma](https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Adada Amma](https://open.spotify.com/album/3ulTXAt4H5S2Cv8Mo7mGTk) | 2:44 | 2023-05-13 | 2023-08-17 |
+| [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 | 2025-09-01 |  |
 | [Adi Pachaakiliyea](https://open.spotify.com/track/1CMonbTaLPncwnd9chZGr8) | [Samson P Moses](https://open.spotify.com/artist/0B8HwZtfjJyqF8WiQJRUu1) | [Adi Pachaakiliyea](https://open.spotify.com/album/08OCHiIMrHpG6nSRxhi6qc) | 3:32 | 2024-12-13 | 2025-02-11 |
 | [Adi Sandaali](https://open.spotify.com/track/35z9tsJtY9sXW6A7Pr6Rnc) | [Victor Dhayananth V G](https://open.spotify.com/artist/1xzYBSGf5ABxPbFXaIAxRY), [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ) | [Adi Sandaali](https://open.spotify.com/album/7CS85ZJ3MljrtPgcCRoVDa) | 2:28 | 2024-12-02 | 2025-02-04 |
 | [Adipoli](https://open.spotify.com/track/3RHV8pLX9hk2GTtbb3spdW) | [PAX DHARMA](https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ), [Buggimaan](https://open.spotify.com/artist/0r4YXuFgQ7PpwQpi9cVrSo) | [Adipoli](https://open.spotify.com/album/5btEGNWBn6T6ZQ2CLFnKqm) | 1:55 | 2025-05-15 |  |
@@ -392,6 +393,7 @@
 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 | 2024-10-19 |
 | [Parakkiren Naan](https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N) | [Roja Aditya](https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ) | [Parakkiren Naan](https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN) | 3:32 | 2024-12-19 | 2025-02-01 |
 | [Parakkuren](https://open.spotify.com/track/3ABotuOlhH8li3F0qgjT53) | [Viveck Ji](https://open.spotify.com/artist/2xE2rQ9G421frjq03UDlaD) | [Parakkuren](https://open.spotify.com/album/0hM4L4JJRKVGY21mSy6Qlf) | 4:34 | 2025-03-17 | 2025-06-04 |
+| [Paravaye](https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Paravaye](https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0) | 3:41 | 2025-09-01 |  |
 | [Pasumayile](https://open.spotify.com/track/6Udk6PfmbOo2s4rwgM9bvF) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [jhon victor](https://open.spotify.com/artist/0Xf0UjqV9arPtYk0iFxFpN) | [Pasumayile](https://open.spotify.com/album/2txonFEwdelXgauqdMreAd) | 3:27 | 2024-11-04 | 2024-12-26 |
 | [Peela Peter](https://open.spotify.com/track/5wDRGaS2eaKGdgECfGkmJy) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT) | [Peela Peter](https://open.spotify.com/album/44ALmEIFiFmhyP0w9l50mP) | 1:34 | 2024-01-31 | 2024-05-01 |
 | [Pen Nilave](https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Pen Nilave](https://open.spotify.com/album/1RtPUHI8LICX4dPGnuYG9l) | 3:18 | 2024-02-09 | 2024-08-24 |
@@ -534,6 +536,7 @@
 | [Uyir Ponaalum](https://open.spotify.com/track/0op614boUrlYXkjo2aBkJR) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Uyir Ponaalum](https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS) | 1:42 | 2025-05-06 | 2025-07-23 |
 | [Uyire](https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L) | [Nithish O K](https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78), [Sanoop Kumar](https://open.spotify.com/artist/4MEY11lhiB0Pzm6yjzejyy) | [Uyire](https://open.spotify.com/album/47AnDAz0zQJRP0dahRhPpl) | 3:36 | 2025-08-08 |  |
 | [Uyire](https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ) | [Suginthan Janathan](https://open.spotify.com/artist/2Y7jk1nAWikvbDncgAEQsq) | [Uyire](https://open.spotify.com/album/0GtxzQS97xos4PGzlLVzG9) | 3:18 | 2025-05-16 | 2025-07-26 |
+| [Uyire Kanave](https://open.spotify.com/track/5tgiuroKKlTNXFmvv52Ukb) | [Jibu Sivanandan](https://open.spotify.com/artist/2FoiKiPZJLr4cSg3QfXsCN), [Anjali Sanoop](https://open.spotify.com/artist/0aBgor04maMjOncVdj07Hw) | [Uyire Kanave](https://open.spotify.com/album/68CPQ87s5oBLsWg9JPdbtA) | 3:30 | 2025-09-01 |  |
 | [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-06 | 2023-12-12 |
 | [Uyirin Uyiraaga \- From "Soul of Promise"](https://open.spotify.com/track/5zSP9JTn74UBHRD4YgqQFZ) | [Deri Lorus](https://open.spotify.com/artist/5XVT4JCh2JJXmK56tF3hyx), [Kamalaja Rajagopal](https://open.spotify.com/artist/5GA1b7IUk3ThudtQ4N35qf), [Manoj Muralidharan](https://open.spotify.com/artist/03sc6Jb6d3C4euBZzpcVW4) | [Uyirin Uyiraaga \(From "Soul of Promise"\)](https://open.spotify.com/album/28zJAr46H8CIf0lZp18zQ1) | 3:14 | 2024-11-06 | 2025-01-31 |
 | [Vaa Nee Vaa](https://open.spotify.com/track/4vQefItF5lcMJhRBjTmICk) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5) | [Vaa Nee Vaa](https://open.spotify.com/album/4oBGVlbfcJ2x6r4ZQBC2Ey) | 3:17 | 2024-05-07 | 2024-05-14 |

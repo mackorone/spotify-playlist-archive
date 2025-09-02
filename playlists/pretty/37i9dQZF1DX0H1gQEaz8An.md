@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Anakin Larios & Omar Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,072 likes - 104 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,120 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

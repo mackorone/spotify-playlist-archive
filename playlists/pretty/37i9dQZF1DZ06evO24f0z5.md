@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,348 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,360 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 26 | [Se](https://open.spotify.com/track/6lISVT2zSb742aiX7pKRwG) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/7dUJgg7a8iff1DqhTWzf3d) | 4:20 |
 | 27 | [No te dejes Atribular](https://open.spotify.com/track/4fJ9I3prOx9v2h5fkzINxN) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/0G1VpkWCoM0TQb2pVzILsy) | 3:56 |
 | 28 | [Tú](https://open.spotify.com/track/1aimekoxRw6QkB23xhu3u0) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas Alla De La Zona](https://open.spotify.com/album/30wM6jKgNzpMBKGhaNaqnQ) | 3:34 |
-| 29 | [Dentro de mi](https://open.spotify.com/track/5exIdWhftQc7OzAlbmvtMf) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:27 |
+| 29 | [La vida \- Remastered](https://open.spotify.com/track/1Pfvi2AMz4Y4cR7iLbX2Md) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:51 |
 | 30 | [Qué pasa contigo](https://open.spotify.com/track/3rGXxt3512BjqyYdFR7jYH) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/6JKua9VUHe4SyVJdfKVJtW) | 4:20 |
 | 31 | [Expandiendo fuera de mi](https://open.spotify.com/track/6DSK9Ceusj8wUq22gJBzSm) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/1x5ottmo63xUCwn0EnzJZg) | 2:46 |
 | 32 | [Libre Te Hara](https://open.spotify.com/track/0Enjo6Ec6LiX0hKQfw8AG5) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas Alla De La Zona](https://open.spotify.com/album/30wM6jKgNzpMBKGhaNaqnQ) | 3:14 |
-| 33 | [Cuanto heredamos \- Remastered](https://open.spotify.com/track/6onc7bXOM9m9n6pjxByRzs) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:28 |
+| 33 | [Dentro de mi](https://open.spotify.com/track/5exIdWhftQc7OzAlbmvtMf) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:27 |
 | 34 | [Todo comenzó](https://open.spotify.com/track/2MrJmZzr92WHmU0mMM8m3M) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/6JKua9VUHe4SyVJdfKVJtW) | 3:03 |
 | 35 | [Inconmensurable](https://open.spotify.com/track/6kla09j7Gj2vS5kwVF5YD7) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/1x5ottmo63xUCwn0EnzJZg) | 3:44 |
 | 36 | [Por lo que obtuve](https://open.spotify.com/track/0705AvupCS2s0SSlll2wLa) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:32 |
-| 37 | [La vida \- Remastered](https://open.spotify.com/track/1Pfvi2AMz4Y4cR7iLbX2Md) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:51 |
+| 37 | [Cuanto heredamos \- Remastered](https://open.spotify.com/track/6onc7bXOM9m9n6pjxByRzs) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:28 |
 | 38 | [Ten panciencia](https://open.spotify.com/track/6WdG0UdRHHFE9V1OORJihU) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/7dUJgg7a8iff1DqhTWzf3d) | 3:16 |
 | 39 | [Inescriptible sensación](https://open.spotify.com/track/182xVnmt1AgJuD7fDF7ZuF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/6JKua9VUHe4SyVJdfKVJtW) | 4:26 |
 | 40 | [Con el diablo al lado](https://open.spotify.com/track/0EDUYQ2fcsoJll6wHMvhrx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/5WHwDiBnbtMVPXKNoMtDJH) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Cerca del río](https://open.spotify.com/track/0VIfgwSHb6xjCzgYhBvYdk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/2c1Ctje54v5kkdc932GsqN) | 5:02 |
 | 50 | [Esa luz](https://open.spotify.com/track/4N5P2ofWNgfYBc1YUS4u3t) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/6tsLoPNy8Zs6IGnyPiby0p) | 3:03 |
 
-Snapshot ID: `aLI/AAAAAAD38+pN/1crvgfsWullSfmf`
+Snapshot ID: `aLOQgAAAAADq420/ZGqAr+aG4kG0HP//`

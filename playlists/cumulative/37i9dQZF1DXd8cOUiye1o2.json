@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 125783,
       "name": "Beqadaran",
       "url": "https://open.spotify.com/track/6d0gsj7yBS0MqWgIkfVFNG"
@@ -4547,6 +4547,32 @@
     },
     {
       "album": {
+        "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+        "url": "https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395913,
+      "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+      "url": "https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa"
+    },
+    {
+      "album": {
         "name": "Sitaare Zameen Par (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1xijO3YYT4DRTbn5UxwEBY"
       },
@@ -5292,8 +5318,16 @@
       },
       "artists": [
         {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        },
+        {
           "name": "Jasleen Royal",
           "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
         }
       ],
       "date_added": "2025-08-29",

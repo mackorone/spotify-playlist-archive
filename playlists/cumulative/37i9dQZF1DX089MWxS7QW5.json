@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Min Jiwoon(\ubbfc\uc9c0\uc6b4))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: SHIRT)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "CATGIRL",
+        "url": "https://open.spotify.com/album/3sdM8IdoxJ7hDpFAGk8FdB"
+      },
+      "artists": [
+        {
+          "name": "LeSon",
+          "url": "https://open.spotify.com/artist/6f03Hcv4DvUzPXRrmB2OiQ"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "CATGIRL",
+      "url": "https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp"
+    },
+    {
+      "album": {
         "name": "Bind",
         "url": "https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr"
       },
@@ -3479,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Filter-Face",
+        "url": "https://open.spotify.com/album/4TVIjgKLKL8VpzZjtnk0XV"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110357,
+      "name": "Filter-Face",
+      "url": "https://open.spotify.com/track/2IwhX7UNKcbZzdQiuaBwVR"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/3BGZoDfmfyEpcnnlRS1Jux"
       },
@@ -4394,7 +4430,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 218053,
       "name": "Hey (Feat. Chiaki Mayumura)",
       "url": "https://open.spotify.com/track/2nfcWiUMIPkNT9fPqrClIX"
@@ -6422,7 +6458,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 233040,
       "name": "Mood",
       "url": "https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h"
@@ -6559,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "I LOVE YOU, MY BAD",
+        "url": "https://open.spotify.com/album/7eQwYtraQhqcKqMWPH9fD3"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "MY BAD",
+      "url": "https://open.spotify.com/track/1Fp1aWRIK78nrKN3femdpi"
+    },
+    {
+      "album": {
         "name": "My Home",
         "url": "https://open.spotify.com/album/0HozvH2bWEQSkUXVZ0yuKL"
       },
@@ -6570,7 +6624,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 216315,
       "name": "My Home",
       "url": "https://open.spotify.com/track/4d3y4RHBHrQGZcoTAHsfcT"

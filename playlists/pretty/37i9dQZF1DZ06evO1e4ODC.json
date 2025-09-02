@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 208018,
+  "num_followers": 208046,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAAC3a1uCQLrZpNM3DYEFI05v",
+  "snapshot_id": "aLOQgAAAAACMoJ798HRuhW23ir7NIIqW",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Que Ser\u00eda De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marcela Gandara (Live)",
         "url": "https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 330786,
       "name": "T\u00fa Est\u00e1s Aqu\u00ed (Live)",
       "url": "https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Que Ser\u00eda De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ha Sido En Vano",
-        "url": "https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom"
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 211534,
-      "name": "No Ha Sido En Vano",
-      "url": "https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq"
+      "duration_ms": 211053,
+      "name": "El Brillo De Mis Ojos",
+      "url": "https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+        "name": "No Ha Sido En Vano",
+        "url": "https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 211053,
-      "name": "El Brillo De Mis Ojos",
-      "url": "https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O"
+      "duration_ms": 211534,
+      "name": "No Ha Sido En Vano",
+      "url": "https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq"
     },
     {
       "added_at": null,

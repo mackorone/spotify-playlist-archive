@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Fairy Tale",
+        "url": "https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ"
+      },
+      "artists": [
+        {
+          "name": "\ud55c\uc11d\uaddc",
+          "url": "https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Fairy Tale",
+      "url": "https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7"
+    },
+    {
+      "album": {
         "name": "Falling In U",
         "url": "https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6"
       },
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 151255,
       "name": "\ud55c\uac00\uc704 \ube14\ub8e8\uc2a4",
       "url": "https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms"

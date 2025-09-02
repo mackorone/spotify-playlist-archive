@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 22simba e Silent Bob,  Neffa, Rondodasosa, 2rari, Vale Lambo insieme a Niko Beatz e Lele Blade, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,121 likes - 98 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,120 likes - 98 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

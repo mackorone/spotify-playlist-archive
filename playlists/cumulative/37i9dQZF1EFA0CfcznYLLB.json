@@ -6245,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Pop Off",
+        "url": "https://open.spotify.com/album/2J25gyiIpJHAW5gm0dh8xD"
+      },
+      "artists": [
+        {
+          "name": "Xuliyo",
+          "url": "https://open.spotify.com/artist/3TIeNIMPocxv51llx8JNwq"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123808,
+      "name": "Pop Off",
+      "url": "https://open.spotify.com/track/5DLPv77WZlS62ttvSYqdDR"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },

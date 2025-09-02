@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e8\u05d5\u05e2\u05d9 \u05e8\u05d9\u05e7",
-  "num_followers": 32485,
+  "num_followers": 32488,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -535,34 +535,22 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
-        "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
-        "url": "https://open.spotify.com/album/0SqhafySwFDOGMyvEnGF8n"
+        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
       "artists": [
         {
-          "name": "Roy Rieck",
-          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
         },
         {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
-        },
-        {
-          "name": "Guy Moses",
-          "url": "https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI"
-        },
-        {
-          "name": "Nitzan Eisenberg",
-          "url": "https://open.spotify.com/artist/4apB1JEe0qBaPVg7tqoVYx"
-        },
-        {
-          "name": "Orel",
-          "url": "https://open.spotify.com/artist/3acLKnjvEzfSUzi36SfU1K"
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
         }
       ],
-      "duration_ms": 195818,
-      "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
-      "url": "https://open.spotify.com/track/1nJ4abP7EBzDQGRHWeK1QX"
+      "duration_ms": 304400,
+      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
     },
     {
       "added_at": "2025-08-28 21:00:36",
@@ -599,22 +587,22 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
-        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
+        "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
       },
       "artists": [
         {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+          "name": "Ivri Lider",
+          "url": "https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK"
         },
         {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 304400,
-      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
-      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
+      "duration_ms": 208706,
+      "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
     },
     {
       "added_at": "2025-08-28 21:00:36",
@@ -635,22 +623,34 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
-        "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
+        "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
+        "url": "https://open.spotify.com/album/0SqhafySwFDOGMyvEnGF8n"
       },
       "artists": [
         {
-          "name": "Ivri Lider",
-          "url": "https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK"
+          "name": "Roy Rieck",
+          "url": "https://open.spotify.com/artist/3BrPNWMlwJ2ZZWSQZksoqI"
         },
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW"
+        },
+        {
+          "name": "Guy Moses",
+          "url": "https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI"
+        },
+        {
+          "name": "Nitzan Eisenberg",
+          "url": "https://open.spotify.com/artist/4apB1JEe0qBaPVg7tqoVYx"
+        },
+        {
+          "name": "Orel",
+          "url": "https://open.spotify.com/artist/3acLKnjvEzfSUzi36SfU1K"
         }
       ],
-      "duration_ms": 208706,
-      "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
+      "duration_ms": 195818,
+      "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
+      "url": "https://open.spotify.com/track/1nJ4abP7EBzDQGRHWeK1QX"
     },
     {
       "added_at": "2025-08-28 21:00:36",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-08-28 21:00:36",
       "album": {
+        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "duration_ms": 362108,
+      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
+      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-08-28 21:00:36",
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/5oCzUFXe0IiACt29jaIAH6"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 227100,
       "name": "Grow",
       "url": "https://open.spotify.com/track/1HiflKZ1j4EbduV5pSPEhF"
-    },
-    {
-      "added_at": "2025-08-28 21:00:36",
-      "album": {
-        "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-        "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
-      },
-      "artists": [
-        {
-          "name": "Ehud Banai",
-          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
-        }
-      ],
-      "duration_ms": 362108,
-      "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
-      "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
     },
     {
       "added_at": "2025-08-28 21:00:36",

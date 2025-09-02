@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Joaquin Medina
 
-524 songs - 1 day 2 hr 52 min
+525 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [BANDIDA](https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [BANDIDA](https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb) | 3:49 | 2023-07-07 | 2023-12-07 |
 | [Be Con Be](https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Be Con Be](https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL) | 2:36 | 2023-05-25 | 2023-12-07 |
 | [Bebe](https://open.spotify.com/track/05W92LIxRmVB22B3jvY8DL) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bebe](https://open.spotify.com/album/0pVYUAr6htgh45nWWlhTNW) | 3:04 | 2022-03-21 | 2022-04-20 |
+| [BELICLOVE](https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELICLOVE](https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk) | 2:40 | 2025-09-01 |  |
 | [BELICLUB](https://open.spotify.com/track/0lTif5y1QBpaIdE5W6MUxF) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [BELICLUB](https://open.spotify.com/album/3rWVXa6wTKbDvKeWqLvqjF) | 2:51 | 2024-03-18 |  |
 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 | 2025-03-21 |  |
 | [BELLA](https://open.spotify.com/track/7flg5peNvW82lmpT6nVtbZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:01 | 2024-08-07 |  |
@@ -260,7 +261,7 @@
 | [La Torta](https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La Torta](https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA) | 2:50 | 2022-10-14 | 2023-05-26 |
 | [La Trampa](https://open.spotify.com/track/3qC6uv5PZce0u6hXrXCOej) | [La Fiebre X](https://open.spotify.com/artist/0BHfbSRtEY6rUer2qWfp9e), [alexxxandrina](https://open.spotify.com/artist/0TTDMIwgNNLkx2Rb8A74up), [Nurrydog](https://open.spotify.com/artist/6ammIW7W5KtCtjwxaHpGit), [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [La Trampa](https://open.spotify.com/album/7g9XyM0sBwNgu9EveBLGvt) | 2:43 | 2022-03-21 | 2022-07-08 |
 | [La Zona](https://open.spotify.com/track/5kqNIqFjijuzvVLhuY9B8j) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:16 | 2022-03-21 | 2023-05-26 |
-| [LABIOS CARAMELO](https://open.spotify.com/track/1tMkkyA0akoLVwA0bCyatj) | [Primer Corte](https://open.spotify.com/artist/7ojb3ps0Q9hoKUTzdH5bk2), [Yong Bryel](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [LABIOS CARAMELO](https://open.spotify.com/album/2TUXhUHEtoVInrKMxwxZuI) | 1:55 | 2025-01-17 |  |
+| [LABIOS CARAMELO](https://open.spotify.com/track/1tMkkyA0akoLVwA0bCyatj) | [Primer Corte](https://open.spotify.com/artist/7ojb3ps0Q9hoKUTzdH5bk2), [Yong Bryel](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [LABIOS CARAMELO](https://open.spotify.com/album/2TUXhUHEtoVInrKMxwxZuI) | 1:55 | 2025-01-17 | 2025-09-02 |
 | [Las Chicas Super Perreadoras](https://open.spotify.com/track/5TVqlN1aXHAckyO794xuSv) | [Dam Dam](https://open.spotify.com/artist/2Tm2uw29i6VXLI2hcY4xpz), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT) | [Las Chicas Super Perreadoras](https://open.spotify.com/album/1VIUatLFSfUN9b6x9GxpVU) | 3:07 | 2023-05-25 | 2023-06-06 |
 | [LAS QUE NO TIENEN PAPÁ](https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [LAS QUE NO TIENEN PAPÁ](https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf) | 3:18 | 2023-04-03 | 2023-05-26 |
 | [LAS REINAS](https://open.spotify.com/track/3jXI5Bd7wluo7mhf818IJr) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LAS REINAS](https://open.spotify.com/album/4aBxRXvmVn7yHHOh0XEYMj) | 3:16 | 2022-07-08 | 2022-07-22 |

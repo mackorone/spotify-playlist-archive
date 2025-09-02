@@ -1957,6 +1957,28 @@
     },
     {
       "album": {
+        "name": "BUTTERFLY",
+        "url": "https://open.spotify.com/album/22V6DhRXjE4cVFwiA8V5tS"
+      },
+      "artists": [
+        {
+          "name": "Amala",
+          "url": "https://open.spotify.com/artist/2o8hZWGjWneBgogNfAo641"
+        },
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251194,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/3xE3VFkV0Z78tFrFdsfGNK"
+    },
+    {
+      "album": {
         "name": "Bye Bye Bhaiya",
         "url": "https://open.spotify.com/album/1CDsn3do1lxwOTsgcYt8BZ"
       },

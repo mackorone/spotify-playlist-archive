@@ -17833,6 +17833,24 @@
     },
     {
       "album": {
+        "name": "IT'S HARD (to be a Man)",
+        "url": "https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180267,
+      "name": "IT'S HARD (to be a Man)",
+      "url": "https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss"
+    },
+    {
+      "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
       },
@@ -35020,7 +35038,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 174966,
       "name": "Waldo",
       "url": "https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt"

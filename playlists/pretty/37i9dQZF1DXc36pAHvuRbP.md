@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 21 | [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 |
 | 22 | [Allez on fait la paix](https://open.spotify.com/track/1WKkhJXBgtWyX5x1f8nPTX) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 3:28 |
 | 23 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
-| 24 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 |
-| 25 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
+| 24 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
+| 25 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 |
 | 26 | [Ferme ta boîte à camembert](https://open.spotify.com/track/1z8cz5S2pyKxgxKw4tcA9y) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:23 |
 | 27 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
 | 28 | [Super ego](https://open.spotify.com/track/0CGmBHnvgvuUmadxtfyAPL) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX) | [Super Ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 4:18 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 42 | [Emoi et moi](https://open.spotify.com/track/4STLNBoqrN6MiJyMqJuwIX) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:45 |
 | 43 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
 | 44 | [J'ai trop la honte](https://open.spotify.com/track/2rWVBC9PyK87FScIXkVfWj) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:15 |
-| 45 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
-| 46 | [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 |
-| 47 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
-| 48 | [Non oui](https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:32 |
+| 45 | [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 |
+| 46 | [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 |
+| 47 | [Non oui](https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:32 |
+| 48 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 | 49 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
-| 50 | [La pagaille](https://open.spotify.com/track/0qZEARVQAQXwrxUmzoxZQs) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 2:46 |
+| 50 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
 
 Snapshot ID: `AAAAAHVCfQKAK6fEZRbOphJ7CgcFV9Y+`

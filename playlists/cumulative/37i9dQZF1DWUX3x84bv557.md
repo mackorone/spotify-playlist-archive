@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Bilal Wahib
 
-1,040 songs - 2 day 1 hr 40 min
+1,041 songs - 2 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [1234](https://open.spotify.com/track/0ZcTWDFmCidCFw4pPr7ekO) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/6myczO3dCuLnjSoUS6yOfY) | 2:36 | 2023-10-12 | 2024-03-08 |
 | [17](https://open.spotify.com/track/2Y4vxLDN2mCweUrN6ZcY1i) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [17](https://open.spotify.com/album/7g58IGmaCmCx1giHXtiVpz) | 2:40 | 2023-11-09 | 2024-03-29 |
 | [2 Glazen Wijn](https://open.spotify.com/track/5qf38xrJmEv83TXan3UCul) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75), [Kes](https://open.spotify.com/artist/1lMqPztKuO3DBB64uGJGr0) | [2 Glazen Wijn](https://open.spotify.com/album/4aIhJYYd20CqCfWeihADXg) | 2:34 | 2023-11-02 | 2024-02-16 |
-| [20 Zomers](https://open.spotify.com/track/1bS3c0MdHTOdwzwIbqUZxc) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [20 Zomers](https://open.spotify.com/album/0si1iaKqsA65OXeL83UAK8) | 2:54 | 2025-07-03 |  |
+| [20 Zomers](https://open.spotify.com/track/1bS3c0MdHTOdwzwIbqUZxc) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [20 Zomers](https://open.spotify.com/album/0si1iaKqsA65OXeL83UAK8) | 2:54 | 2025-07-03 | 2025-09-02 |
 | [2007](https://open.spotify.com/track/5yqC8eYWTwcY6LcvzMmtKJ) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [2007](https://open.spotify.com/album/3G2KQP6expATleHvaHvWJT) | 2:43 | 2025-01-06 | 2025-03-21 |
 | [2017](https://open.spotify.com/track/1wKSEq258kjMqY56W3bECX) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [2017](https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid) | 2:25 | 2024-09-19 | 2024-12-13 |
 | [2022](https://open.spotify.com/track/1QqQHrWGQrK0NhITVo1NYo) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [2022](https://open.spotify.com/album/7rbIRHZi9B5qBDYnlbBXFA) | 2:18 | 2023-02-23 | 2023-03-31 |
@@ -510,6 +510,7 @@
 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 | 2025-02-20 | 2025-05-16 |
 | [Kampvuur](https://open.spotify.com/track/2oxhVbOTQOGc5NJiGEuwQj) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Kampvuur](https://open.spotify.com/album/7IRD3wOMzyZJ3YmpxlMrm1) | 2:34 | 2025-02-20 | 2025-05-16 |
 | [Kan Je Me Laten](https://open.spotify.com/track/0WiLq7KevSxwPjwPT6QDzt) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Kan Je Me Laten](https://open.spotify.com/album/6FrYMFvJal8M2go84iwQhT) | 2:22 | 2024-02-01 | 2024-04-05 |
+| [Kan Je Me Zien](https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/2IZ7K8sB1gKaGkUswemFlU) | 3:27 | 2025-09-01 |  |
 | [Kansen](https://open.spotify.com/track/7Mw4F5tnXF5D52dghmzbLQ) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Kansen](https://open.spotify.com/album/7Jk5bj58KHAdhERKgUqgET) | 2:50 | 2023-02-23 | 2023-03-31 |
 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 | 2023-09-07 | 2023-10-13 |
 | [Kasper](https://open.spotify.com/track/1NC2AjrlULPt0W2ZUprK30) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Kasper](https://open.spotify.com/album/1zPxe1f2Sc6SAQfAmKOc2a) | 2:35 | 2023-10-05 | 2023-10-20 |

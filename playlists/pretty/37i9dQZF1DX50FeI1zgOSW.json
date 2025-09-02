@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Keethan",
-  "num_followers": 15950,
+  "num_followers": 15969,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2e+uv/eEIfTv7HlqarCAtIWqxl",
+  "snapshot_id": "AAAAAFieXLTxA/e1D35twIQ9RBTxO0Aw",
   "tracks": [
     {
       "added_at": "2025-06-30 11:07:31",
@@ -113,6 +113,26 @@
       "url": "https://open.spotify.com/track/5ehjc7hFuqi73E9GmQEz1U"
     },
     {
+      "added_at": "2025-09-01 08:25:18",
+      "album": {
+        "name": "Uyire Kanave",
+        "url": "https://open.spotify.com/album/68CPQ87s5oBLsWg9JPdbtA"
+      },
+      "artists": [
+        {
+          "name": "Jibu Sivanandan",
+          "url": "https://open.spotify.com/artist/2FoiKiPZJLr4cSg3QfXsCN"
+        },
+        {
+          "name": "Anjali Sanoop",
+          "url": "https://open.spotify.com/artist/0aBgor04maMjOncVdj07Hw"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "Uyire Kanave",
+      "url": "https://open.spotify.com/track/5tgiuroKKlTNXFmvv52Ukb"
+    },
+    {
       "added_at": "2025-08-21 15:22:04",
       "album": {
         "name": "Puluvaandi",
@@ -127,6 +147,46 @@
       "duration_ms": 195243,
       "name": "Puluvaandi",
       "url": "https://open.spotify.com/track/5w9CvE8N9nnFuogvFt03tR"
+    },
+    {
+      "added_at": "2025-09-01 08:12:36",
+      "album": {
+        "name": "Adam Eval",
+        "url": "https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP"
+      },
+      "artists": [
+        {
+          "name": "Diwa FeF",
+          "url": "https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX"
+        },
+        {
+          "name": "Parth Sapphire",
+          "url": "https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr"
+        },
+        {
+          "name": "Swetha",
+          "url": "https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Adam Eval",
+      "url": "https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K"
+    },
+    {
+      "added_at": "2025-09-01 08:11:59",
+      "album": {
+        "name": "Paravaye",
+        "url": "https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0"
+      },
+      "artists": [
+        {
+          "name": "Kaushik Mahalengam",
+          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
+        }
+      ],
+      "duration_ms": 221855,
+      "name": "Paravaye",
+      "url": "https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5"
     },
     {
       "added_at": "2025-08-18 13:17:44",

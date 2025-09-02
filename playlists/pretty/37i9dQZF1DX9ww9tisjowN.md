@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,197 likes - 76 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,424 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 63 | [九尾](https://open.spotify.com/track/7yzVGmzJ32IQliZSK9kyR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [九尾](https://open.spotify.com/album/6vjcdwSEBpuy8b1UQzaKlX) | 4:02 |
 | 64 | [そこに在る、光。](https://open.spotify.com/track/50viqPbAvhYq8cednKv1a9) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [そこに在る、光。](https://open.spotify.com/album/7uo85jq6onSaMtXUuzm62E) | 3:14 |
 | 65 | [HEART BEAT](https://open.spotify.com/track/6YtwZfRChtusWTO5lAzhTw) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [HEART BEAT](https://open.spotify.com/album/1kG2S3SMYAeLSmZnmHu9L5) | 3:01 |
-| 66 | [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 |
-| 67 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
-| 68 | [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 |
-| 69 | [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 |
-| 70 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 |
-| 71 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 |
-| 72 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
-| 73 | [noimage](https://open.spotify.com/track/1l9R011e8zEaWkPCv4vOy9) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [noimage](https://open.spotify.com/album/4fxWnxvmOksyOKWMKwFFEH) | 3:53 |
-| 74 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
-| 75 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
-| 76 | [人生ゲーム](https://open.spotify.com/track/2vKQgdBc9UZ1LN7lUjeLZb) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [人生ゲーム](https://open.spotify.com/album/2Epq2aPkp64buMO6gJRiKy) | 3:18 |
+| 66 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 |
+| 67 | [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 |
+| 68 | [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 |
+| 69 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 |
+| 70 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 |
+| 71 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
+| 72 | [noimage](https://open.spotify.com/track/1l9R011e8zEaWkPCv4vOy9) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [noimage](https://open.spotify.com/album/4fxWnxvmOksyOKWMKwFFEH) | 3:53 |
+| 73 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
+| 74 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
+| 75 | [沈める街 \- New Yoeko ver.](https://open.spotify.com/track/20XfY7g6Knyz6B0wbslcsH) | [ヨエコ](https://open.spotify.com/artist/3x5j3G0hm2CgvLnlzda1a3) | [沈める街 \(New Yoeko ver.\)](https://open.spotify.com/album/7ok4AusVW41SGAW2DJeHWX) | 3:10 |
 
-Snapshot ID: `AAAAAEJcTXPN5/SYzjTjAQbneiQP9A1H`
+Snapshot ID: `AAAAAHcAhxiWx6yp8CgrTf5A3GnbZFR8`

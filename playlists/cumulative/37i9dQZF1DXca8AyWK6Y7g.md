@@ -4,7 +4,7 @@
 
 > WHO'S MY SALLY TONIGHT?
 
-2,523 songs - 5 day 6 hr 49 min
+2,525 songs - 5 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1414,6 +1414,7 @@
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-24 | 2021-11-20 |
 | [Make It Thru the Day.](https://open.spotify.com/track/5i0S6dVDfTRGpjfVwBHIbU) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Make It Thru the Day.](https://open.spotify.com/album/3o7pxHq7wPCb1hRCq37POT) | 2:54 | 2020-04-21 | 2020-09-30 |
 | [make me](https://open.spotify.com/track/3xiUsDGgA41Nu8adozAZ9V) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [make me](https://open.spotify.com/album/7xkUn5cae9u8NIWSrQunSW) | 2:45 | 2024-07-08 | 2024-10-19 |
+| [Make Me Cry](https://open.spotify.com/track/3TtpqKNIjpfE8Gdwsx4DHg) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Make Me Cry](https://open.spotify.com/album/6zkx3umapCWzMktYccapQ3) | 2:54 | 2025-08-31 |  |
 | [Make Me Your Mrs](https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Make Me Your Mrs](https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K) | 2:38 | 2024-03-01 | 2024-05-18 |
 | [Make More Money](https://open.spotify.com/track/1AfQb3PcCfeUQo39c0jUR7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Make More Money](https://open.spotify.com/album/7fUJqEZknIGZwp59TsDQqK) | 3:19 | 2024-02-16 | 2024-05-25 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-09 | 2024-10-19 |
@@ -1539,6 +1540,7 @@
 | [Need You Right Now \(feat\. Channel Tres\)](https://open.spotify.com/track/7k2cwdnyG69gTaPQoEWWqv) | [Dan D'Lion](https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Need You Right Now \(feat\. Channel Tres\)](https://open.spotify.com/album/6tnB9ffKPL1eoUUvRBwnIz) | 3:46 | 2021-02-13 | 2022-01-08 |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2024-06-29 |
 | [Never Goes Away](https://open.spotify.com/track/5FPSUR4mfKAz1YIY0Fjx0L) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Never Goes Away](https://open.spotify.com/album/0NLKXJv4DxlwyQ94CetFXg) | 2:26 | 2023-03-10 | 2023-06-03 |
+| [Never Gonna Not Want More](https://open.spotify.com/track/1mpzrGtYVWZuMn4tEtb3si) | [Tess Clare](https://open.spotify.com/artist/0w3V7iEOBeQUDg8xm6NB6L) | [Never Gonna Not Want More](https://open.spotify.com/album/2GT8HQyMEuFLTq1gSpyDuM) | 3:35 | 2025-08-31 |  |
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 | 2023-03-04 |
 | [Never Let You Go](https://open.spotify.com/track/6H15f8zwZSiFE1iseSvkLT) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Never Let You Go](https://open.spotify.com/album/29aFzMPjs687GKSJCPLfNI) | 3:47 | 2019-09-27 | 2020-01-16 |
 | [Never Liked Your Name](https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Never Liked Your Name](https://open.spotify.com/album/2medAu4XBQnXVMtsgX4EAs) | 2:20 | 2023-08-25 | 2023-09-02 |

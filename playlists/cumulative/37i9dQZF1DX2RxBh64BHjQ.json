@@ -22161,6 +22161,28 @@
     },
     {
       "album": {
+        "name": "JAT (Remix)",
+        "url": "https://open.spotify.com/album/203AygGNtkJz0KlK73sw0k"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        },
+        {
+          "name": "Stunna Sandy",
+          "url": "https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "JAT (Remix) [with Stunna Sandy]",
+      "url": "https://open.spotify.com/track/3vn4cW1r3BWVWv0NamDIP3"
+    },
+    {
+      "album": {
         "name": "Jaw Morant",
         "url": "https://open.spotify.com/album/5bQIdXMpIoSkkA5CghhL9C"
       },
@@ -26020,7 +26042,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 156471,
       "name": "Make It Look Sexy",
       "url": "https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh"

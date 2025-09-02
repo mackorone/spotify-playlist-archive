@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,812,202 likes - 160 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,812,166 likes - 160 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 159 | [Lunar Rainbow](https://open.spotify.com/track/1NMxmBVNn7fP2nzl8dzHrj) | [Louaminé](https://open.spotify.com/artist/6ZuFc28ghG17tRPI8ZNpTF) | [Lunar Rainbow](https://open.spotify.com/album/4ErS1KMmmBecV5ZCmVUs4V) | 2:27 |
 | 160 | [fall deeply](https://open.spotify.com/track/43SiqHE5XFhQxAwcVOZi6v) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [fall deeply](https://open.spotify.com/album/1svuLX2RUD1PBzLzIVwHj5) | 2:48 |
 
-Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`
+Snapshot ID: `AAAAACLZ3XUcEii5o/nYwjAS/4uWo1O2`

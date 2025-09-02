@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! Cover: mollywood",
+  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -206,6 +206,24 @@
       "duration_ms": 135111,
       "name": "A KARRIEREM LESZ*ROM",
       "url": "https://open.spotify.com/track/6k2M8Iuxr1m7nWzNKOu2jx"
+    },
+    {
+      "album": {
+        "name": "A Maszk Alatt",
+        "url": "https://open.spotify.com/album/1Xwi8HjcsvWEt4tjkqAtFA"
+      },
+      "artists": [
+        {
+          "name": "Tiah",
+          "url": "https://open.spotify.com/artist/2Mx3Z7KLTpnOhcf6qwRgXT"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "A Maszk Alatt",
+      "url": "https://open.spotify.com/track/1mQq4ZDtiE3xMZCGpMWWwn"
     },
     {
       "album": {
@@ -558,7 +576,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 222000,
       "name": "Az \u00c9let \u00d6sszevarrt",
       "url": "https://open.spotify.com/track/6suNNliFhDMet6L225X6CC"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 186808,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/7A65mp4YCD2HyrYZ7DGIW9"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 157636,
       "name": "bangkok",
       "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 150697,
       "name": "Barbi Baba",
       "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 186091,
       "name": "Boldogtalans\u00e1g",
       "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 177777,
       "name": "Bonyodalom",
       "url": "https://open.spotify.com/track/2KBzxkCxXj67Degs8O8Y3T"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 194761,
       "name": "B\u00facs\u00faz\u00f3ul",
       "url": "https://open.spotify.com/track/0O7gWSHzq5BH164IrjbpJc"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 150295,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 172660,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 135818,
       "name": "d\u00edva",
       "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 170751,
       "name": "egyszer\u0171",
       "url": "https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 187951,
       "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
       "url": "https://open.spotify.com/track/71NlwzHDI64UVqenLz5CMW"
@@ -2182,6 +2200,28 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "album": {
+        "name": "FOROG A F\u00d6LD",
+        "url": "https://open.spotify.com/album/6JGfT6iaCMPndbWLNwXDff"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Gaspar Laci",
+          "url": "https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "FOROG A F\u00d6LD",
+      "url": "https://open.spotify.com/track/5Qmlr66irQIftmWA1NFXEj"
     },
     {
       "album": {
@@ -2240,7 +2280,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 163107,
       "name": "Frida Kahlo",
       "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
@@ -2430,7 +2470,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 170201,
       "name": "Goat Talk",
       "url": "https://open.spotify.com/track/0qeMR2Yp0aZp2c9T0P3O6z"
@@ -2562,7 +2602,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 216521,
       "name": "Gyere Kisl\u00e1ny",
       "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
@@ -2788,7 +2828,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 171428,
       "name": "Hajnalok a gangon",
       "url": "https://open.spotify.com/track/2AHMHf8SdDNySxZ4B7G5WN"
@@ -2940,7 +2980,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 136950,
       "name": "Hist\u00f3ria",
       "url": "https://open.spotify.com/track/57azn5oXW0OWBv8HVtuSmn"
@@ -3218,7 +3258,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 169841,
       "name": "introvert\u00e1lt dal",
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
@@ -3400,7 +3440,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "JUICY",
       "url": "https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI"
@@ -3422,7 +3462,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "J\u00e1ratlan",
       "url": "https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW"
@@ -3868,7 +3908,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 157688,
       "name": "LEV\u00c9L",
       "url": "https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8"
@@ -3908,7 +3948,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 177600,
       "name": "Lidokain",
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
@@ -3984,7 +4024,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 170434,
       "name": "LOMBKORON\u00c1K",
       "url": "https://open.spotify.com/track/20NIEH3lWXTxGbJ54YvMIT"
@@ -4028,7 +4068,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-06",
+      "date_removed": null,
       "duration_ms": 198666,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0BywaTkttaSOAoHTitOly3"
@@ -4068,7 +4108,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 159512,
       "name": "l\u00e1nc",
       "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
@@ -4276,7 +4316,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
@@ -4430,7 +4470,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 143142,
       "name": "MILF",
       "url": "https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3"
@@ -4510,7 +4550,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 158695,
       "name": "Minek Feln\u0151ni",
       "url": "https://open.spotify.com/track/24hZ3cRxdY3yPB6ArKQKJh"
@@ -4528,7 +4568,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 149510,
       "name": "Mire voltam j\u00f3?",
       "url": "https://open.spotify.com/track/2vA2j2pWNgnpVrMjgRNMWl"
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 176395,
       "name": "M\u00e1mor",
       "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
@@ -4716,7 +4756,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 208000,
       "name": "M\u00e1r nem sz\u00e9d\u00fcl\u00f6k",
       "url": "https://open.spotify.com/track/5cp1amsVOYe2HFbiaezm4B"
@@ -4910,7 +4950,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "Nem b\u00facs\u00faztam el",
       "url": "https://open.spotify.com/track/7vxd0D1Xt4RzTRU2EUHDO2"
@@ -5002,7 +5042,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 173592,
       "name": "NGZ LDN BER",
       "url": "https://open.spotify.com/track/3suDFP1Nwxi6a2dUKRFvJg"
@@ -5372,7 +5412,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Oy Lele",
       "url": "https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5"
@@ -5456,7 +5496,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
@@ -5510,7 +5550,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 149072,
       "name": "PATK\u00c1NY",
       "url": "https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV"
@@ -5633,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "PONT J\u00d3",
+        "url": "https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "PONT J\u00d3",
+      "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
+    },
+    {
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -5688,7 +5750,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 195157,
       "name": "priluki",
       "url": "https://open.spotify.com/track/0zvt9tYgfOquMYpXN2srkw"
@@ -5732,7 +5794,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -5917,6 +5979,32 @@
     },
     {
       "album": {
+        "name": "Rend\u0151rb\u00e1",
+        "url": "https://open.spotify.com/album/381XsrVAdCTvbLyPqpyd7w"
+      },
+      "artists": [
+        {
+          "name": "Wxlfless",
+          "url": "https://open.spotify.com/artist/7hhhDArCYPA0njtiX2E9Pr"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        },
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rend\u0151rb\u00e1",
+      "url": "https://open.spotify.com/track/2HuXzKUXrsSnJVeXRLxDqX"
+    },
+    {
+      "album": {
         "name": "Rim Tim Tagi Dim",
         "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
       },
@@ -6066,7 +6154,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 163448,
       "name": "rum",
       "url": "https://open.spotify.com/track/1E4dmBbgu6ut66FiXYlIfw"
@@ -6252,7 +6340,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-11",
+      "date_removed": null,
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
@@ -6296,7 +6384,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
@@ -6522,7 +6610,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 109455,
       "name": "SUV",
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
@@ -6588,7 +6676,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 151304,
       "name": "Szelleml\u00e1ny",
       "url": "https://open.spotify.com/track/25igQBjWKxb1NYh5jydLcl"
@@ -6714,7 +6802,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 170000,
       "name": "Sz\u00e9kelykapu",
       "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
@@ -6806,7 +6894,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 195789,
       "name": "SZ\u00cdVTIPR\u00d3",
       "url": "https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi"
@@ -6842,7 +6930,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "SZ\u00d6RNYETEG",
       "url": "https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr"
@@ -6940,7 +7028,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 144277,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/0KN7gjHni6JHOn97t9O1F1"
@@ -7178,7 +7266,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 203125,
       "name": "Tiara",
       "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
@@ -7214,7 +7302,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 216800,
       "name": "Titkos \u00fczenet",
       "url": "https://open.spotify.com/track/5OdmRZPg8cCOJE6j3wm87X"
@@ -7272,7 +7360,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 200543,
       "name": "T\u00fal sz\u00e9p",
       "url": "https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p"
@@ -7640,7 +7728,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
@@ -7782,7 +7870,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 175138,
       "name": "\u00c1tutaz\u00f3",
       "url": "https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd"
@@ -7956,7 +8044,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 199183,
       "name": "\u00dagy Hiszem",
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
@@ -7978,7 +8066,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "\u00fagy unom",
       "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"

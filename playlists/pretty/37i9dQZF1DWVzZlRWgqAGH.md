@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Khamari and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,211 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,381 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 10 | [In Our Sight](https://open.spotify.com/track/2Z6LKK4NITZealrsv6KROq) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [In Our Sight](https://open.spotify.com/album/1cAS2LMD5lfjq4jxhprxb6) | 3:56 |
 | 11 | [All I See \(feat\. CUBE\)](https://open.spotify.com/track/1eMiPD93vPUOHgcjp6Lq6y) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU), [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [All I See \(feat\. CUBE\)](https://open.spotify.com/album/2oz5Hw97W29S2iIVpnmsLw) | 4:19 |
 | 12 | [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 |
-| 13 | [Miss Black America](https://open.spotify.com/track/3lOnh5ByORm35L62fscThB) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Miss Black America](https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8) | 2:43 |
+| 13 | [Miss Black America](https://open.spotify.com/track/3lOnh5ByORm35L62fscThB) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Miss Black America](https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8) | 2:41 |
 | 14 | [Crysalis](https://open.spotify.com/track/43drLzaqUUPyo8YlD6PBPM) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Crysalis](https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4) | 1:47 |
 | 15 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
 | 16 | [BLOCK \(feat\. IDK & Musiq Soulchild\)](https://open.spotify.com/track/2SGV5jQvP4d226tsXDwch3) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [BLOCK \(feat\. IDK & Musiq Soulchild\)](https://open.spotify.com/album/5rKIikxyiQ1LWMtmF4sQQy) | 3:16 |

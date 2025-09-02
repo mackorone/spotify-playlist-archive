@@ -154475,6 +154475,24 @@
     },
     {
       "album": {
+        "name": "Unbloom",
+        "url": "https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis"
+      },
+      "artists": [
+        {
+          "name": "Gretel",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202718,
+      "name": "Unbloom",
+      "url": "https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji"
+    },
+    {
+      "album": {
         "name": "SURFACING",
         "url": "https://open.spotify.com/album/2BxES4GiO5LdChisskcSde"
       },

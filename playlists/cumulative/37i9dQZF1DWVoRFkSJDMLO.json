@@ -26877,6 +26877,28 @@
     },
     {
       "album": {
+        "name": "International",
+        "url": "https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134439,
+      "name": "Too Hot (feat. Moliy)",
+      "url": "https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh"
+    },
+    {
+      "album": {
         "name": "Too Late to Lie",
         "url": "https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj"
       },

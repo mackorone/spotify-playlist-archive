@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Bobby Bazini",
-  "num_followers": 45907,
+  "num_followers": 45905,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "kafini",
-        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "kafini",
-      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 158667,
       "name": "Connect\u00e9s",
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "kafini",
+        "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "kafini",
+      "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "BABABA WORLD",
         "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 159545,
       "name": "SELEK",
       "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Mille vagues",
+        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Mille vagues",
+      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
       },
@@ -887,34 +903,18 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Mille vagues",
-        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
       "artists": [
         {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Mille vagues",
-      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Coeur maladroit",
-        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Restes d'averses",
-      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

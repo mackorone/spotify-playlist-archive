@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
 
-633 songs - 1 day 12 hr 0 min
+634 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [La Main dans le Sac](https://open.spotify.com/track/1xnAh7KCRQJsZAdIiZ1wfg) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:38 | 2024-02-09 | 2024-03-09 |
 | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 | 2024-11-15 | 2025-05-03 |
 | [La vie des gens](https://open.spotify.com/track/3EcrfT5XuWsmoVMPXJZmhQ) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r) | [La vie des gens](https://open.spotify.com/album/2Pvtyteh6Phny6SIRJrwoa) | 3:06 | 2025-06-27 |  |
+| [La vie est compliquée](https://open.spotify.com/track/78mwAKZrBm5lvM7qY25LIz) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Départ Unique](https://open.spotify.com/album/2WmP2Pptm01giwo70JtVps) | 4:38 | 2025-09-01 |  |
 | [Laisse Les Parler](https://open.spotify.com/track/0VtJ5iOQMj3of0RINj3fL7) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb) | [Laisse Les Parler](https://open.spotify.com/album/2XKyZWsuo0VKSauzWrJno6) | 3:55 | 2023-11-10 | 2024-01-13 |
 | [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-08 | 2024-02-03 |
 | [Lakisa Photo’a Bae](https://open.spotify.com/track/4agVZjZqRIbyaXDRrROHxM) | [Marechal Abd](https://open.spotify.com/artist/5BygI6Tha3l5w9lxWJUKMY) | [Lakisa Photo’a Bae](https://open.spotify.com/album/09VNeekwCgaV3NVSJOl9f7) | 2:16 | 2022-09-23 | 2023-04-09 |

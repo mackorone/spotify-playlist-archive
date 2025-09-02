@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 胡凱兒 \(Who Cares\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,444 likes - 81 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,447 likes - 81 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 4 | [就算只是夢](https://open.spotify.com/track/10HDAnbEXX0ashiD7ofqU4) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [就算只是夢](https://open.spotify.com/album/7zeTJ5wShtpuvwnEjF6qTY) | 3:53 |
 | 5 | [以後的事以後再說](https://open.spotify.com/track/7Jp2n0o3KRy1eGaYEPA0ZW) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [以後的事以後再說](https://open.spotify.com/album/5aXdRM5cmaMMFBcogna11I) | 4:08 |
 | 6 | [啥款傲少年](https://open.spotify.com/track/1G4WZlntsG4pdkDJzYptzG) | [羊米人Yummy Man](https://open.spotify.com/artist/5OmWkLnsbfJMTgKY21S9Co) | [啥款傲少年](https://open.spotify.com/album/2HXTpDiePJmi3BOGTtKfBl) | 3:14 |
-| 7 | [Invisible Discord \- Live](https://open.spotify.com/track/1ElR6usnDKT5q43jITjXdt) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [Manic Sheep \| CINEMAPHONIC SESSIONS \(Live\)](https://open.spotify.com/album/67uU0oB3sDJBF7qK9u2I3W) | 3:32 |
+| 7 | [Invisible Discord \- Live](https://open.spotify.com/track/1ElR6usnDKT5q43jITjXdt) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [Manic Sheep on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/67uU0oB3sDJBF7qK9u2I3W) | 3:32 |
 | 8 | [LOSER](https://open.spotify.com/track/30INDK12JBbNbelrfEILMi) | [薄荷葉](https://open.spotify.com/artist/60rRASfjRQDHGKsnmef9oN) | [¬ NOTtoBE](https://open.spotify.com/album/0bmaXxWp6kh9SohlF38Lyb) | 5:17 |
-| 9 | [Don'T Call Me \- Live](https://open.spotify.com/track/3k01cNeg6LptsLU28OJiFW) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [擊沈女孩 \| Cinemaphonic Sessions \(Live\)](https://open.spotify.com/album/24ExASXmz5mWaIldiTB2f2) | 3:42 |
-| 10 | [時光 \- Live](https://open.spotify.com/track/1VllhGReKZD1FaYiMiuk1m) | [老貓偵探社](https://open.spotify.com/artist/2h55csqRuV8XOfMCke1HWl), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [老貓偵探社 \| CINEMAPHONIC SESSIONS \(Live\)](https://open.spotify.com/album/23DiTcWu1Rcf8gG21mqSX9) | 3:20 |
+| 9 | [Don'T Call Me \- Live](https://open.spotify.com/track/3k01cNeg6LptsLU28OJiFW) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [擊沈女孩 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/24ExASXmz5mWaIldiTB2f2) | 3:42 |
+| 10 | [時光 \- Live](https://open.spotify.com/track/1VllhGReKZD1FaYiMiuk1m) | [老貓偵探社](https://open.spotify.com/artist/2h55csqRuV8XOfMCke1HWl), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [老貓偵探社 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/23DiTcWu1Rcf8gG21mqSX9) | 3:20 |
 | 11 | [烏巴拉](https://open.spotify.com/track/7qS19iikfmd7V7D9GE8FSj) | [Geisha Neko](https://open.spotify.com/artist/5sPtu14R5Ms41MrybTPGhY) | [烏巴拉](https://open.spotify.com/album/2dbvDluS35D2eUhOuhS8kn) | 3:58 |
 | 12 | [你會等我嗎 ?](https://open.spotify.com/track/23WAiJqVHO8PrCWA6xs43S) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [你會等我嗎?](https://open.spotify.com/album/0Zhwc9f6e0SWTAzJW3n732) | 3:42 |
 | 13 | [Fotol Minko 佛度明哥](https://open.spotify.com/track/4kxOXuNI1Ix7ICYmRsJz8M) | [漂流出口](https://open.spotify.com/artist/2MTlHJpV27LEGE9HYVBGxy) | [Masonolay i Cepo’](https://open.spotify.com/album/2piAQbJpMQpPpseME5J7uo) | 5:14 |

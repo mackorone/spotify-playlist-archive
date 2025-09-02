@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,224 songs - 2 day 6 hr 3 min
+1,225 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 | 2023-12-07 | 2024-09-15 |
 | [Talk About Us](https://open.spotify.com/track/2aGi8MHh1WR0le7LEqzEga) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Talk About Us](https://open.spotify.com/album/1kAQMLfTYcIJbbuq2MMMc7) | 2:17 | 2024-01-05 | 2024-09-10 |
 | [Talk It Over](https://open.spotify.com/track/28TdAeobsNxRZ9DGQx53tA) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Talk It Over](https://open.spotify.com/album/5HUeWegbHeE6qebrXizJiC) | 2:11 | 2025-03-21 | 2025-04-26 |
+| [Tanning Lines](https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Tanning Lines](https://open.spotify.com/album/2jGgQdCyz7VTnN6XmyoK8C) | 2:03 | 2025-09-01 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/75e30Qkh0kdBEKjx7dNzHR) | [Scity](https://open.spotify.com/artist/7nXwmKcvxkrvlq6QcxgUSZ) | [Teenage Dirtbag](https://open.spotify.com/album/1gYd9kYl6sWVFdRjlu4rRL) | 3:18 | 2024-04-01 | 2024-06-15 |
 | [Tell Me](https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp) | [D3EPANK](https://open.spotify.com/artist/1mRJB43i0qK9HubZt4f8FJ) | [Tell Me](https://open.spotify.com/album/076yQZmCYLr11TVMZZRvP3) | 2:12 | 2024-01-05 | 2024-03-16 |
 | [Tell Me](https://open.spotify.com/track/38XqhKzJbBNFKMa7x6nsUv) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [Tell Me](https://open.spotify.com/album/01aOE0NYuWsZGoVjPOjQTR) | 3:18 | 2024-07-26 | 2024-08-31 |

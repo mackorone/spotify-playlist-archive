@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,062 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,058 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 68 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 |
 | 69 | [Hoy Ha Nacido el Salvador](https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH) | [Ivan Diaz](https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu) | [Hoy Ha Nacido el Salvador](https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm) | 5:29 |
 | 70 | [Navidad Llegó](https://open.spotify.com/track/55N7vaSCbmB2JTp08F9wmA) | [Dauny & Sucely](https://open.spotify.com/artist/0rKMA476BQMLIesPgyakcH), [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Sucely](https://open.spotify.com/artist/4tlNGVNSHusqJ9GA58Rlfe) | [Navidad Llegó](https://open.spotify.com/album/31wvx0Y94BXHUCfufKV4u8) | 3:08 |
-| 71 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 |
-| 72 | [Este Amor \- Ambient Mix](https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu) | [Leah Gourlie](https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Este Amor](https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa) | 5:23 |
+| 71 | [Este Amor \- Ambient Mix](https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu) | [Leah Gourlie](https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8) | [Este Amor](https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa) | 5:23 |
+| 72 | [Navidad en Miami](https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Navidad en Miami](https://open.spotify.com/album/3jzhn84tvI6eValgXTsBtK) | 2:40 |
 | 73 | [Un Año Más](https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Un Año Más](https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf) | 3:12 |
 | 74 | [Cristianos Vayamos](https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Cristianos Vayamos](https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj) | 3:47 |
 | 75 | [La Tierra Canta](https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 6:46 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 81 | [Fiestas De Navidad](https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Fiestas De Navidad](https://open.spotify.com/album/5Seo1QTqE1LLX1Qt10wnRH) | 3:00 |
 | 82 | [Noche de Paz](https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG) | [Celeste & Wilber](https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF) | [Noche de Paz](https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0) | 4:37 |
 | 83 | [Pasen La Navidad Conmigo](https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE) | [Michael Lizárraga](https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b) | [The Ultimate Christmas Collection](https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A) | 3:49 |
-| 84 | [Santa La Noche](https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui) | [Carla Vidal](https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi) | [Santa La Noche](https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl) | 4:13 |
-| 85 | [Esta Navidad Eres Tu](https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt) | [Esta Navidad Eres Tu](https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE) | 4:36 |
+| 84 | [Esta Navidad Eres Tu](https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt) | [Esta Navidad Eres Tu](https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE) | 4:36 |
+| 85 | [Santa La Noche](https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui) | [Carla Vidal](https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi) | [Santa La Noche](https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl) | 4:13 |
 | 86 | [Alabanzas Al Rey](https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:29 |
 | 87 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
 | 88 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |

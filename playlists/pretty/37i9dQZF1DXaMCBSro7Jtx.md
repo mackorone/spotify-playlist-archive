@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 
 > Celebrating 10 years of PC Music: The record label that changed pop music forever\. Cover art by <a href="https://www.instagram.com/tmthy.luke">Timothy Luke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,997 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,005 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

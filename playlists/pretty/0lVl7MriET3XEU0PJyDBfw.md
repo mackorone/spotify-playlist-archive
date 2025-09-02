@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [Demolish](https://open.spotify.com/track/18RjtwfnTsBij9ExHOnS9u) | [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP) | [Demolish](https://open.spotify.com/album/2mP40TbNvu3gEwFDZoL85r) | 2:49 |
 | 101 | [Hot](https://open.spotify.com/track/43JH7kSN1mH4RDM2ckuF44) | [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Hot](https://open.spotify.com/album/6Zp7nErVr9uOpuorQ9ZZia) | 2:44 |
 
-Snapshot ID: `AAAcG1+7Kf3gv3UfSLCsDccwQESP4ihy`
+Snapshot ID: `AAAcHPWk8IIFS+98XuAYtcyyEges5rdg`

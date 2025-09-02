@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Teen Jesus and the Jean Teasers
 
-9,170 songs - 21 day 18 hr 4 min
+9,171 songs - 21 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8417,6 +8417,7 @@
 | [Unaffected](https://open.spotify.com/track/6tFIpxt3hittaOtNhaEDfI) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Unaffected](https://open.spotify.com/album/3XWEdgpD5UzKyeTkgr66FI) | 2:53 | 2023-03-17 | 2023-03-25 |
 | [unaware](https://open.spotify.com/track/3N3VxHdS3mmN4Ygapw3X2L) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [unaware](https://open.spotify.com/album/0qx33py4jzQ4nQ1u7dF0k9) | 3:14 | 2023-06-23 | 2023-07-01 |
 | [Unbelonging](https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Unbelonging](https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU) | 3:30 | 2024-11-01 | 2024-11-09 |
+| [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-09-01 |  |
 | [Unborn](https://open.spotify.com/track/5czWYoKZkuXWzOzmZhVYtp) | [Devilskin](https://open.spotify.com/artist/3TIlROeJjCAhax6c000Pcd) | [SURFACING](https://open.spotify.com/album/2BxES4GiO5LdChisskcSde) | 4:25 | 2024-05-03 | 2024-05-11 |
 | [Uncertain Joys](https://open.spotify.com/track/27yMT64bCRQwD5hsLFd7ks) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Uncertain Joys](https://open.spotify.com/album/5K5qqlXzxEv2KhpCvT3vh1) | 3:23 | 2023-01-13 | 2023-01-21 |
 | [Uncharted Waters](https://open.spotify.com/track/4twKmUEECPq706wh3UK0iy) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times \(Deluxe Edition\)](https://open.spotify.com/album/47mEyfKfIOcqiD5UfD42jS) | 3:38 | 2025-03-28 | 2025-04-05 |

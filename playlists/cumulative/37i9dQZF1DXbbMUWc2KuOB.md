@@ -4,7 +4,7 @@
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-193 songs - 12 hr 32 min
+194 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Be My Light \(Inst.\)](https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Chicago Typewriter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT) | 3:48 | 2022-04-12 | 2022-07-28 |
 | [Beautiful \- Instrumental](https://open.spotify.com/track/4M7c95EghrwaFixpbGDoRn) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 | 2022-04-12 |  |
 | [Because of You \- Instrumental](https://open.spotify.com/track/4hl1HLr0JzkmDPQDSNjpFy) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 | 2022-04-12 | 2022-07-10 |
-| [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 | 2022-04-12 |  |
+| [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 | 2022-04-12 | 2025-09-02 |
 | [Bravo, My Life! \- Instrumental](https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB) | 4:05 | 2022-04-12 | 2022-07-29 |
 | [Breath \- instrumental](https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq) | 4:13 | 2022-04-12 |  |
 | [But it's Destiny \- Instrumental](https://open.spotify.com/track/05XGxWMNwMNRfrMJkFQbjV) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7DQKgUFYnTUOHGs04qsN8T) | 3:51 | 2022-04-12 | 2022-07-26 |
@@ -155,6 +155,7 @@
 | [Stardust love song \(Inst.\)](https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-04-12 |  |
 | [Stay with me](https://open.spotify.com/track/6o3LRRdo47fH25HmN8LysW) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Monthly magazine home, Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/2uf8JLjwYLXRvEhOinsw8z) | 3:56 | 2022-04-12 | 2023-12-17 |
 | [Stay with me \- Instrumental](https://open.spotify.com/track/1f248NQiqGNrolHVxa2eZq) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Monthly magazine home \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/5jULq7O1DCMkWBuluHCl6b) | 3:56 | 2022-04-12 | 2022-07-16 |
+| [Sunday Latte \- Instrumental](https://open.spotify.com/track/4zerpyG26IXU5sYJNgAQaq) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 | 2024-03-27 |  |
 | [Sunset \- Instrumental](https://open.spotify.com/track/0eoLjTrkpjZtJ4RhwKRnMJ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 | 2022-04-12 | 2024-04-19 |
 | [Sunset \- Instrumental](https://open.spotify.com/track/6FKSuCEc4UiO8gJidJKaoz) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 | 2022-04-12 | 2022-07-28 |
 | [Tell Me It's Not a Dream \- Inst.](https://open.spotify.com/track/5OwqkYHxGy1NsJPFoApFvq) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Queen of Tears \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0hJiHeURXoUEZMjiUxpbc6) | 3:55 | 2024-03-27 |  |

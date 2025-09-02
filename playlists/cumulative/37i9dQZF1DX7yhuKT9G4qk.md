@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-124 songs - 7 hr 9 min
+126 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-07-16 |  |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-07-16 |  |
-| [It Ain't Easy](https://open.spotify.com/track/2lyumlAFTrNJfaLHyNYVCa) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Tascam Tapes](https://open.spotify.com/album/3lmLhCSLh1VaRJ4mgYo837) | 3:24 | 2025-07-16 |  |
+| [It Ain't Easy](https://open.spotify.com/track/2lyumlAFTrNJfaLHyNYVCa) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Tascam Tapes](https://open.spotify.com/album/3lmLhCSLh1VaRJ4mgYo837) | 3:24 | 2025-07-16 | 2025-09-02 |
 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 | 2025-07-16 |  |
 | [Joan](https://open.spotify.com/track/2zJuQQS8vs8odCZFsmIWuU) | [Yvonne Ambrée](https://open.spotify.com/artist/5wdvfg6mXXZuPfaNX8d52X) | [Joan](https://open.spotify.com/album/2F3soH2g4nGBYZJXtJBsAF) | 3:37 | 2025-07-16 |  |
 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 | 2025-07-16 |  |
@@ -60,6 +60,7 @@
 | [Leave It Up To You](https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Leave It Up To You](https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH) | 2:48 | 2025-07-16 |  |
 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-08 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2025-07-16 |  |
+| [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 | 2025-09-01 |  |
 | [Living In A Loop](https://open.spotify.com/track/2LqsPBNNV5H1AOIHeDv4LT) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Living In A Loop](https://open.spotify.com/album/2k6s2ASP4cxqBj7JYelJZ0) | 2:53 | 2025-07-16 |  |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2025-07-16 |  |
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2025-07-16 |  |
@@ -71,6 +72,7 @@
 | [Memories](https://open.spotify.com/track/64ozgxrJ6rB3XEkzTL1oKo) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Memories](https://open.spotify.com/album/0WifEqnVNOXCDHGvSAbu4m) | 3:21 | 2025-07-16 |  |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-07-16 |  |
 | [Midnight Oil](https://open.spotify.com/track/4sTNEvndN8GJONJmbCRpuo) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Midnight Oil](https://open.spotify.com/album/1MnuQFfuMKUMHIphojuo9J) | 3:34 | 2025-07-16 |  |
+| [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 | 2025-09-01 |  |
 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 | 2025-07-16 |  |
 | [Mosquito](https://open.spotify.com/track/4XV9pVlrXolvH2ebE7k16K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Mosquito](https://open.spotify.com/album/5xe4kUUgh3bNurfSKUcmUE) | 3:49 | 2025-07-16 |  |
 | [Mutual](https://open.spotify.com/track/6kUkosakHtJ9bsNE2bxJnq) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [Mutual](https://open.spotify.com/album/7KBZC4RaCdSsSpShWVa6Ki) | 3:31 | 2025-07-16 |  |

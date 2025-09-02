@@ -5937,6 +5937,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9part Unique",
+        "url": "https://open.spotify.com/album/2WmP2Pptm01giwo70JtVps"
+      },
+      "artists": [
+        {
+          "name": "Werrason",
+          "url": "https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278565,
+      "name": "La vie est compliqu\u00e9e",
+      "url": "https://open.spotify.com/track/78mwAKZrBm5lvM7qY25LIz"
+    },
+    {
+      "album": {
         "name": "Laisse Les Parler",
         "url": "https://open.spotify.com/album/2XKyZWsuo0VKSauzWrJno6"
       },

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-424 songs - 1 day 0 hr 38 min
+426 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-27 | 2024-08-09 |
 | [Djungeltelegrafen](https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Innan kronan blir för tung](https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p) | 3:53 | 2025-03-27 |  |
 | [DNA](https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [DNA](https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy) | 3:10 | 2024-06-27 | 2024-08-16 |
+| [Do It](https://open.spotify.com/track/5IPuULP59E51nOwmYrElKt) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [ICONIC EP](https://open.spotify.com/album/7vCCapyy4kj3EHmgeXKKeQ) | 2:38 | 2025-09-01 |  |
 | [Doftade Dior](https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ) | [Doftade Dior](https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA) | 3:55 | 2024-06-27 | 2024-08-23 |
 | [Dom kallar henne mamma](https://open.spotify.com/track/45USEZKMJbftMlYbLjf3Te) | [Mira Ray](https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul) | [Dom kallar henne mamma](https://open.spotify.com/album/4eJxnnRLwFL0XzWxC1Eaz1) | 4:37 | 2024-06-27 | 2024-08-09 |
 | [Don't Blame It On Me](https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Don't Blame It On Me](https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9) | 2:48 | 2024-08-08 | 2025-04-04 |
@@ -193,7 +194,7 @@
 | [It’s Time](https://open.spotify.com/track/3vIPr2Fev8vviMO19hketG) | [Maskinisten](https://open.spotify.com/artist/7EqcInpJPb4pRMPyEvUKRR) | [It’s Time](https://open.spotify.com/album/2f2UQwxhPBWKbqGtGzlMOG) | 3:46 | 2025-04-10 | 2025-08-23 |
 | [I’m Here For You Now](https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [I’m Here For You Now](https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp) | 3:20 | 2024-10-24 | 2025-01-10 |
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
-| [Jag dansade en sommar](https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Jag dansade en sommar](https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4) | 3:19 | 2025-06-26 |  |
+| [Jag dansade en sommar](https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [Jag dansade en sommar](https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4) | 3:19 | 2025-06-26 | 2025-09-02 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-30 |
 | [Jag vill drömma](https://open.spotify.com/track/2lWBXbSIVtzGFq3egd7al4) | [Herreys](https://open.spotify.com/artist/2uS8ryCr9KuXzh7Y4xowle) | [Jag vill drömma](https://open.spotify.com/album/18dsriIndUm1FaelXGnzF8) | 3:24 | 2025-05-29 | 2025-06-01 |
@@ -292,6 +293,7 @@
 | [Plåster](https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Plåster](https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y) | 4:59 | 2024-08-15 | 2024-09-27 |
 | [Presence](https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Presence](https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP) | 3:15 | 2024-06-27 | 2024-10-13 |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-27 | 2024-08-23 |
+| [På egna ben \(feat\. Carola\)](https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [På egna ben \(feat\. Carola\)](https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U) | 3:22 | 2025-09-01 |  |
 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 | 2025-01-23 |  |
 | [Queen Of Pearls](https://open.spotify.com/track/584mfOg5T8fMsHmYCAZTN2) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Queen Of Pearls](https://open.spotify.com/album/6Y3pdvenWGtaC1zsi0Snlt) | 2:57 | 2024-06-27 | 2024-08-16 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 |  |
@@ -380,7 +382,7 @@
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Unsatisfied Heart](https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 5:45 | 2025-06-26 |  |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-04-04 |
-| [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 | 2025-03-20 |  |
+| [Uteblivna vi](https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Uteblivna vi](https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH) | 6:02 | 2025-03-20 | 2025-09-02 |
 | [Vad Dom Sa](https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Vad Dom Sa](https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe) | 2:47 | 2024-09-26 | 2025-01-10 |
 | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h) | 3:00 | 2024-10-10 | 2025-04-25 |
 | [Valet](https://open.spotify.com/track/0RrUetfG2Msa9FNaP4IWAj) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 5:35 | 2024-08-29 | 2024-10-28 |

@@ -19149,6 +19149,24 @@
     },
     {
       "album": {
+        "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
+        "url": "https://open.spotify.com/album/1g806y0pTlf7ToZ0Vdq2Nm"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "\u5b87\u5b99\u304b\u3089\u306e\u30e9\u30d6\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/41UT0vsxsQPwE5Zg4iRxDj"
+    },
+    {
+      "album": {
         "name": "\u5bf5\u611b\u65cf",
         "url": "https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa"
       },
@@ -19794,7 +19812,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 228050,
       "name": "\u611b\u3057\u5408\u3046\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/60eCBtq6iU3bCuaFI8bTpg"

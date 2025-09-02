@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,670 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,798 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 58 | [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG) | 3:41 |
 | 59 | [Miracle](https://open.spotify.com/track/196vYOLRFZbyUYXlIjDHf8) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Miracle](https://open.spotify.com/album/5FNVIQiCLGT9oCQPT2lfIt) | 3:30 |
 | 60 | [Aria](https://open.spotify.com/track/48FWcTAUppLh7yPkkkKtJK) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Aria](https://open.spotify.com/album/7CRPqwHZ8H8264OBRhUAEy) | 2:44 |
-| 61 | [Nobody Else](https://open.spotify.com/track/1Gg1UJxlKPYFi6jvxqiXFV) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Nobody Else](https://open.spotify.com/album/30Dkv0eLc0WT3vr2mn5b6t) | 2:57 |
-| 62 | [Acid Disco](https://open.spotify.com/track/2JKf4fQir0tbd8mBcrvJqE) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Acid Disco](https://open.spotify.com/album/5iRKuvBRR6fIOX1pJuzsSa) | 2:59 |
+| 61 | [Acid Disco](https://open.spotify.com/track/2JKf4fQir0tbd8mBcrvJqE) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Acid Disco](https://open.spotify.com/album/5iRKuvBRR6fIOX1pJuzsSa) | 2:59 |
+| 62 | [Nobody Else](https://open.spotify.com/track/1Gg1UJxlKPYFi6jvxqiXFV) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Nobody Else](https://open.spotify.com/album/30Dkv0eLc0WT3vr2mn5b6t) | 2:57 |
 | 63 | [Bring Back The Techno](https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Bring Back The Techno](https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME) | 3:01 |
 | 64 | [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 |
 | 65 | [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 |

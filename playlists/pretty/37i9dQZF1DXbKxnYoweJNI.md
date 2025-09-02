@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,601 likes - 148 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,603 likes - 148 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 39 | [互惠](https://open.spotify.com/track/3JMfpMiSRcmK7ZF4Oj3myo) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [互惠](https://open.spotify.com/album/3p6GvyspmrSA9so47wC6GH) | 3:45 |
 | 40 | [以後的事以後再說](https://open.spotify.com/track/7Jp2n0o3KRy1eGaYEPA0ZW) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [以後的事以後再說](https://open.spotify.com/album/5aXdRM5cmaMMFBcogna11I) | 4:08 |
 | 41 | [啥款傲少年](https://open.spotify.com/track/1G4WZlntsG4pdkDJzYptzG) | [羊米人Yummy Man](https://open.spotify.com/artist/5OmWkLnsbfJMTgKY21S9Co) | [啥款傲少年](https://open.spotify.com/album/2HXTpDiePJmi3BOGTtKfBl) | 3:14 |
-| 42 | [Invisible Discord \- Live](https://open.spotify.com/track/1ElR6usnDKT5q43jITjXdt) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [Manic Sheep \| CINEMAPHONIC SESSIONS \(Live\)](https://open.spotify.com/album/67uU0oB3sDJBF7qK9u2I3W) | 3:32 |
+| 42 | [Invisible Discord \- Live](https://open.spotify.com/track/1ElR6usnDKT5q43jITjXdt) | [Manic Sheep](https://open.spotify.com/artist/6JXdjqMVpq61fvihemTbfI), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [Manic Sheep on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/67uU0oB3sDJBF7qK9u2I3W) | 3:32 |
 | 43 | [You're Not A Saint \(You're Just A Girl\)](https://open.spotify.com/track/7ES9gxeQ1m5nla59Df8Sp6) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [You're Not A Saint \(You're Just A Girl\)](https://open.spotify.com/album/4cKac8SshcaENNKku2UNOJ) | 4:09 |
 | 44 | [像愛你那樣愛我](https://open.spotify.com/track/3QC5PlUPBi0J3yNVuX76c2) | [Jasmine C](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB), [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr), [Eiva 林麗謙](https://open.spotify.com/artist/568BSqN29OrH6UNmGDnvKj) | [像愛你那樣愛我](https://open.spotify.com/album/22asIVG6X1nHI04ZtbL027) | 4:38 |
 | 45 | [LOSER](https://open.spotify.com/track/30INDK12JBbNbelrfEILMi) | [薄荷葉](https://open.spotify.com/artist/60rRASfjRQDHGKsnmef9oN) | [¬ NOTtoBE](https://open.spotify.com/album/0bmaXxWp6kh9SohlF38Lyb) | 5:17 |
-| 46 | [Don'T Call Me \- Live](https://open.spotify.com/track/3k01cNeg6LptsLU28OJiFW) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [擊沈女孩 \| Cinemaphonic Sessions \(Live\)](https://open.spotify.com/album/24ExASXmz5mWaIldiTB2f2) | 3:42 |
-| 47 | [時光 \- Live](https://open.spotify.com/track/1VllhGReKZD1FaYiMiuk1m) | [老貓偵探社](https://open.spotify.com/artist/2h55csqRuV8XOfMCke1HWl), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [老貓偵探社 \| CINEMAPHONIC SESSIONS \(Live\)](https://open.spotify.com/album/23DiTcWu1Rcf8gG21mqSX9) | 3:20 |
+| 46 | [Don'T Call Me \- Live](https://open.spotify.com/track/3k01cNeg6LptsLU28OJiFW) | [Destroyers](https://open.spotify.com/artist/0n2SzMMLz0dcLCTFvKkxO7), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [擊沈女孩 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/24ExASXmz5mWaIldiTB2f2) | 3:42 |
+| 47 | [時光 \- Live](https://open.spotify.com/track/1VllhGReKZD1FaYiMiuk1m) | [老貓偵探社](https://open.spotify.com/artist/2h55csqRuV8XOfMCke1HWl), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [老貓偵探社 on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/23DiTcWu1Rcf8gG21mqSX9) | 3:20 |
 | 48 | [今夜的我們站在臺中](https://open.spotify.com/track/3aOD8WUKy8APB0uLhHeZWF) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz), [尤時晴](https://open.spotify.com/artist/4b384SPeKwygLWLIMzMQaL) | [今夜的我們站在臺中](https://open.spotify.com/album/0msS3ChUlVQPj5HIGghJmQ) | 3:20 |
 | 49 | [叫醒我的不是鬧鐘而是想見你的我](https://open.spotify.com/track/1GRt8jurED84WJNFy7DSg9) | [吉米高JIMIN](https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo) | [叫醒我的不是鬧鐘而是想見你的我](https://open.spotify.com/album/1i9ks2umjE1ThHdgeyi0Bg) | 3:12 |
 | 50 | [奔向我](https://open.spotify.com/track/58h11GE1qS1sWkqFX7pIIS) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [奔向我](https://open.spotify.com/album/40uggO5kh6ybCsclDOJMZC) | 3:56 |

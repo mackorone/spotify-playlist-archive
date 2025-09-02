@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,847 likes - 69 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,856 likes - 69 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 68 | [Fui na Favela](https://open.spotify.com/track/59RtHm2pgKmQPueDh5l5Fq) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [Fui na Favela](https://open.spotify.com/album/22eqMNkJMlrDnMygrMdHqZ) | 2:22 |
 | 69 | [Pool Party \- REMIX](https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy) | [Pool Party \(REMIX\)](https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX) | 1:53 |
 
-Snapshot ID: `AAAAAE2uijg0+xD/q32G1q+8g4MHcJTt`
+Snapshot ID: `AAAAALJ+O/Tvns0OObc8XB6mPi9cmvvV`

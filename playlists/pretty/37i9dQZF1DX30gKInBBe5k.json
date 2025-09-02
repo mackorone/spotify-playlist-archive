@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 211993,
+  "num_followers": 212022,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "So Tonight That I Might See",
-        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
-      },
-      "artists": [
-        {
-          "name": "Mazzy Star",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        }
-      ],
-      "duration_ms": 336760,
-      "name": "Into Dust",
-      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Down Colorful Hill",
         "url": "https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 589440,
       "name": "Medicine Bottle",
       "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -139,18 +139,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+        "name": "So Tonight That I Might See",
+        "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Mazzy Star",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         }
       ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+      "duration_ms": 336760,
+      "name": "Into Dust",
+      "url": "https://open.spotify.com/track/7l5nkTZpoD93OkynN0gcon"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Beat",
         "url": "https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC"
       },
@@ -295,6 +279,38 @@
       "duration_ms": 225773,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/330w7iBKrHxlJwx3WMdHVr"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 304460,
+      "name": "Headache",
+      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -327,22 +343,6 @@
       "duration_ms": 115067,
       "name": "she loved dogs",
       "url": "https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 304460,
-      "name": "Headache",
-      "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Things We Lost in the Fire",
-        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Things We Lost in the Fire",
+        "url": "https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Old Ramon",
         "url": "https://open.spotify.com/album/4rL0RzmHMQyHiZqJVdt7A8"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 337120,
       "name": "Wop-A-Din-Din",
       "url": "https://open.spotify.com/track/15XoeDfUqg2Q8rp2eOjAFe"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -555,6 +523,38 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Millions Now Living Will Never Die",
         "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
       },
@@ -587,38 +587,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 314560,
-      "name": "Snowstorm",
-      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Things We Lost in the Fire",
-        "url": "https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Dinosaur Act",
-      "url": "https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Moon Pix",
         "url": "https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 243800,
       "name": "Consolation Prize",
       "url": "https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Things We Lost in the Fire",
+        "url": "https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Dinosaur Act",
+      "url": "https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Snowstorm",
+      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172813,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Stratosphere",
         "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 300893,
       "name": "Topical Solution",
       "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 172813,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/5krHe0jThPClniUNYLKNYn"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Exit Music (For a Film)",
+      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "You Are Free",
         "url": "https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+        "name": "WhatFunLifeWas",
+        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Bedhead",
+          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
         }
       ],
-      "duration_ms": 267186,
-      "name": "Exit Music (For a Film)",
-      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
+      "duration_ms": 280356,
+      "name": "Liferaft",
+      "url": "https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1003,22 +1019,6 @@
       "duration_ms": 141040,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "WhatFunLifeWas",
-        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
-      },
-      "artists": [
-        {
-          "name": "Bedhead",
-          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
-        }
-      ],
-      "duration_ms": 280356,
-      "name": "Liferaft",
-      "url": "https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "WhatFunLifeWas",
-        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
       },
       "artists": [
         {
-          "name": "Bedhead",
-          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
         }
       ],
-      "duration_ms": 284301,
-      "name": "Bedside Table",
-      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
+      "duration_ms": 459333,
+      "name": "Good Morning, Captain",
+      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1151,50 +1151,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "At The Cut",
-        "url": "https://open.spotify.com/album/5vsxgGRWQkDiUQlcD0csyu"
+        "name": "WhatFunLifeWas",
+        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
       },
       "artists": [
         {
-          "name": "Vic Chesnutt",
-          "url": "https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H"
+          "name": "Bedhead",
+          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
         }
       ],
-      "duration_ms": 316173,
-      "name": "Coward",
-      "url": "https://open.spotify.com/track/11XhGYbYtuh2bKv3DXtjA2"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 459333,
-      "name": "Good Morning, Captain",
-      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 200025,
-      "name": "Montana",
-      "url": "https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR"
+      "duration_ms": 284301,
+      "name": "Bedside Table",
+      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1211,6 +1179,38 @@
       "duration_ms": 471200,
       "name": "Hold On Magnolia",
       "url": "https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "At The Cut",
+        "url": "https://open.spotify.com/album/5vsxgGRWQkDiUQlcD0csyu"
+      },
+      "artists": [
+        {
+          "name": "Vic Chesnutt",
+          "url": "https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H"
+        }
+      ],
+      "duration_ms": 316173,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/11XhGYbYtuh2bKv3DXtjA2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 200025,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR"
     },
     {
       "added_at": "2025-08-07 23:00:59",

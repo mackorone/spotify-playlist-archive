@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김뭉먕\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 권순일\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-602 songs - 1 day 11 hr 34 min
+604 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 | 2023-10-09 | 2023-11-26 |
 | [Can you tell me it's okey](https://open.spotify.com/track/31rP2uql9Dt2p1opVSHn15) | [Yoon Gru](https://open.spotify.com/artist/2wMT3riwCNhT9J0qJwILpl) | [Can you tell me it's okey](https://open.spotify.com/album/3BvYMlbeA8y8Mux9GTXiVe) | 3:34 | 2024-09-13 | 2024-09-24 |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2023-05-10 |
+| [Carefree](https://open.spotify.com/track/4NXvX2fQAKXNiRCK5RPVBB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Carefree](https://open.spotify.com/album/6xItPplCilWSqziw4Rwr5E) | 3:00 | 2025-09-01 |  |
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
 | [Changing Seasons](https://open.spotify.com/track/31zwd5SqzByO40OvwyW5fA) | [Son Hyeeun](https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ) | [Mosaic](https://open.spotify.com/album/0wBXXN9fvO9RKhcsqtNzmf) | 3:26 | 2025-03-28 | 2025-05-15 |
@@ -94,7 +95,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/7Lf3MxufBeAg6ZSKlut8wZ) | [Bam Soo Sung](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Close Your Eyes](https://open.spotify.com/album/5D8tcWOfpWfIoLG075ptmG) | 3:32 | 2022-03-31 | 2022-04-14 |
 | [Cloud](https://open.spotify.com/track/2C8ISWwVLF8t2b55GJrikc) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Cloud](https://open.spotify.com/album/2sBqBMbztnyHxhDHI8JbCP) | 2:47 | 2022-03-31 | 2022-04-21 |
 | [Clover](https://open.spotify.com/track/6KboAbHVBi95z5UAkeaJV6) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Clover](https://open.spotify.com/album/7F0h3aAEjQdQIZrLO4Lz95) | 3:46 | 2023-10-27 | 2023-11-04 |
-| [Coffee](https://open.spotify.com/track/5ajpJxhyVzeRuWvtAcVedH) | [나의 노래 메모장](https://open.spotify.com/artist/2j5LbdJFRLOltAs5r9QwOF) | [Coffee](https://open.spotify.com/album/4o3GYoyddGfm3AkIGugwmw) | 2:58 | 2025-08-05 |  |
+| [Coffee](https://open.spotify.com/track/5ajpJxhyVzeRuWvtAcVedH) | [나의 노래 메모장](https://open.spotify.com/artist/2j5LbdJFRLOltAs5r9QwOF) | [Coffee](https://open.spotify.com/album/4o3GYoyddGfm3AkIGugwmw) | 2:58 | 2025-08-05 | 2025-09-02 |
 | [Coffee Song \- Korean Version](https://open.spotify.com/track/0aWNMpUMgsy6erqUlft9Pw) | [임백천](https://open.spotify.com/artist/6LqtnFuXA9qt2dVmxHckoa) | [New Way](https://open.spotify.com/album/3v5zdvdUOz1sRYxN2fYSPL) | 2:52 | 2022-03-31 | 2022-04-21 |
 | [Color of the day](https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [Poems 25](https://open.spotify.com/album/33nIFtG0RQDBdXjsQ9X73G) | 3:30 | 2025-04-10 | 2025-05-15 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
@@ -511,7 +512,7 @@
 | [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 | 2024-02-21 |
 | [Umbrella](https://open.spotify.com/track/0o18OyyGIciA1QbaSWiMm0) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Fractal](https://open.spotify.com/album/7nRBNnnHayboasRapn3I91) | 2:56 | 2024-08-10 | 2024-08-23 |
 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 | 2025-07-11 | 2025-08-19 |
-| [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 |  |
+| [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 | 2025-09-02 |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 | 2025-08-22 |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 | 2024-09-03 |
@@ -554,6 +555,7 @@
 | [With me 오늘이 지나면](https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Dingo X BRANDNEW MUSIC](https://open.spotify.com/album/5LTNMxhEkangYCNUldlQI9) | 4:01 | 2021-12-10 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 | 2022-01-13 |  |
 | [Words of Wisdom](https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Words of Wisdom](https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7) | 5:06 | 2022-05-02 | 2022-06-08 |
+| [YaYaYa](https://open.spotify.com/track/3PiLrChGqJRReYYsBwGxEh) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [YaYaYa](https://open.spotify.com/album/2zmNxt0yfxyOjPvHQgpq9j) | 2:47 | 2025-09-01 |  |
 | [yellow flower](https://open.spotify.com/track/4zgtv325Jmhf4ZWhChaPfu) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [yellow flower](https://open.spotify.com/album/2mfAhk6glwWiONPKoIL1zW) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Yesterday You Left Me](https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi) | 3:42 | 2021-12-10 | 2024-05-09 |
 | [you](https://open.spotify.com/track/4ZmFkakOVJNmHdmqQqYlVm) | [onsu](https://open.spotify.com/artist/0AJ5Vo2rQGlmsiVYYwyQrJ) | [serenader](https://open.spotify.com/album/1zEO7f3WhdQUWBBX0xwK8g) | 3:52 | 2024-11-22 | 2024-12-06 |

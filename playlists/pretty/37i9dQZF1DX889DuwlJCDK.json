@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Mega Shinnosuke",
-  "num_followers": 20556,
+  "num_followers": 20564,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
+        "name": "\u611b\u60f3\u82b1\u706b",
+        "url": "https://open.spotify.com/album/0EPEKLTiD6vtjSGKKm1QM3"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
+          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
+        }
+      ],
+      "duration_ms": 203018,
+      "name": "\u611b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7hCpVVDceLNnjakgX430AW"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
         "name": "POP OUT! \u2162",
         "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "BRANDY SENKI",
-        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
-      },
-      "artists": [
-        {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "\u6625",
-      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "24hours",
         "url": "https://open.spotify.com/album/2X8D4hLh8sGTFWpfN5BFTY"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "\u611b\u60f3\u82b1\u706b",
-        "url": "https://open.spotify.com/album/0EPEKLTiD6vtjSGKKm1QM3"
+        "name": "BRANDY SENKI",
+        "url": "https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF"
       },
       "artists": [
         {
-          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
-          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
         }
       ],
-      "duration_ms": 203018,
-      "name": "\u611b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/7hCpVVDceLNnjakgX430AW"
+      "duration_ms": 196133,
+      "name": "\u6625",
+      "url": "https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 198302,
-      "name": "\u30d1\u30e1\u30e9",
-      "url": "https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "\u6708\u9762\u63a5\u543b",
         "url": "https://open.spotify.com/album/7zi4AejuS2PqMs084hmcjB"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 294053,
       "name": "\u6708\u9762\u63a5\u543b",
       "url": "https://open.spotify.com/track/1BVaTJoYRHVUFaLMyZYzCX"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/3lIOBUtWhcp2urQAyErTpg"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "duration_ms": 198302,
+      "name": "\u30d1\u30e1\u30e9",
+      "url": "https://open.spotify.com/track/6HEGbxwJYMtWItvjzeFAxt"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "Planetary",
-        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 177489,
-      "name": "Planetary",
-      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "\u8133\u5185\u544a\u767d",
         "url": "https://open.spotify.com/album/0OlNMPJ26VakgAwc4J7TwG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 177443,
       "name": "\u8133\u5185\u544a\u767d",
       "url": "https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "Planetary",
+        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "duration_ms": 177489,
+      "name": "Planetary",
+      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "Remember Summer Love",
-        "url": "https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4"
-      },
-      "artists": [
-        {
-          "name": "LET ME KNOW",
-          "url": "https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3"
-        }
-      ],
-      "duration_ms": 230233,
-      "name": "Remember Summer Love",
-      "url": "https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
         "name": "\u904b\u547d\u8ad6",
         "url": "https://open.spotify.com/album/5Cb6royNzyBSQlQLY45ojR"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 221773,
       "name": "\u904b\u547d\u8ad6",
       "url": "https://open.spotify.com/track/0eP6SVHeDmQ6ihRprBEARX"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "Remember Summer Love",
+        "url": "https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4"
+      },
+      "artists": [
+        {
+          "name": "LET ME KNOW",
+          "url": "https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3"
+        }
+      ],
+      "duration_ms": 230233,
+      "name": "Remember Summer Love",
+      "url": "https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "\u671d\u306e\u8fce\u3048\u65b9",
-        "url": "https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb"
+        "name": "\u604b\u7126\u304c\u308c",
+        "url": "https://open.spotify.com/album/677r9niptpT1tGkjU03kJj"
       },
       "artists": [
         {
-          "name": "hockrockb",
-          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
+          "name": "\u58f0\u306b\u306a\u3089\u306a\u3044\u3088",
+          "url": "https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F"
         }
       ],
-      "duration_ms": 238294,
-      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8\u4ea4\u63db",
-      "url": "https://open.spotify.com/track/3PjBMxtYRxIhedUgkVONuw"
+      "duration_ms": 173522,
+      "name": "\u604b\u7126\u304c\u308c",
+      "url": "https://open.spotify.com/track/4Ciwm63stEtGlvpEV4jWWx"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
-        "name": "\u604b\u7126\u304c\u308c",
-        "url": "https://open.spotify.com/album/677r9niptpT1tGkjU03kJj"
+        "name": "\u671d\u306e\u8fce\u3048\u65b9",
+        "url": "https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb"
       },
       "artists": [
         {
-          "name": "\u58f0\u306b\u306a\u3089\u306a\u3044\u3088",
-          "url": "https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F"
+          "name": "hockrockb",
+          "url": "https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3"
         }
       ],
-      "duration_ms": 173522,
-      "name": "\u604b\u7126\u304c\u308c",
-      "url": "https://open.spotify.com/track/4Ciwm63stEtGlvpEV4jWWx"
+      "duration_ms": 238294,
+      "name": "\u30d7\u30ec\u30bc\u30f3\u30c8\u4ea4\u63db",
+      "url": "https://open.spotify.com/track/3PjBMxtYRxIhedUgkVONuw"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1527,6 +1527,22 @@
       "duration_ms": 150953,
       "name": "0strich ran faster than me, wth",
       "url": "https://open.spotify.com/track/7vztj6iiU61WTqKpFlq1wc"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
+        "name": "\u6708\u3068\u79c1\u306e\u304b\u304f\u308c\u3093\u307c",
+        "url": "https://open.spotify.com/album/1g806y0pTlf7ToZ0Vdq2Nm"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "\u5b87\u5b99\u304b\u3089\u306e\u30e9\u30d6\u30ec\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/41UT0vsxsQPwE5Zg4iRxDj"
     },
     {
       "added_at": "2025-08-26 15:00:29",
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2025-08-26 15:00:29",
       "album": {
+        "name": "\u30e9\u30d6\u306e\u624b\u7d9a\u304d",
+        "url": "https://open.spotify.com/album/1ANGbGYZDA6frg2PyJR1Hn"
+      },
+      "artists": [
+        {
+          "name": "\u6c50\u308c\u3044\u3089",
+          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
+        }
+      ],
+      "duration_ms": 286689,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306b\u3057\u3066",
+      "url": "https://open.spotify.com/track/5WoE5XLxLdr8TWdHRNuQZZ"
+    },
+    {
+      "added_at": "2025-08-26 15:00:29",
+      "album": {
         "name": "rip-off",
         "url": "https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y"
       },
@@ -1595,38 +1627,6 @@
       "duration_ms": 230626,
       "name": "\u30a2\u30a4\u30d3\u30fc",
       "url": "https://open.spotify.com/track/1hWJBohOzshE7qTBou6AVE"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
-        "name": "\u30e9\u30d6\u306e\u624b\u7d9a\u304d",
-        "url": "https://open.spotify.com/album/1ANGbGYZDA6frg2PyJR1Hn"
-      },
-      "artists": [
-        {
-          "name": "\u6c50\u308c\u3044\u3089",
-          "url": "https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F"
-        }
-      ],
-      "duration_ms": 286689,
-      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306b\u3057\u3066",
-      "url": "https://open.spotify.com/track/5WoE5XLxLdr8TWdHRNuQZZ"
-    },
-    {
-      "added_at": "2025-08-26 15:00:29",
-      "album": {
-        "name": "\u611b\u3057\u5408\u3046\u3068\u3057\u3066",
-        "url": "https://open.spotify.com/album/0aNEft9YusNVaA2OWGN1A5"
-      },
-      "artists": [
-        {
-          "name": "SATOH",
-          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
-        }
-      ],
-      "duration_ms": 228050,
-      "name": "\u611b\u3057\u5408\u3046\u3068\u3057\u3066",
-      "url": "https://open.spotify.com/track/60eCBtq6iU3bCuaFI8bTpg"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月28日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,598 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,620 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [睡蓮花](https://open.spotify.com/track/7CgxrGWsDarS8ZvGAQG0jE) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [湘南乃風 〜JOKER〜](https://open.spotify.com/album/65NaMBjruYtSFCHiUg1FQq) | 7:14 |
 | 50 | [DANGER](https://open.spotify.com/track/5HBKNY11WYdJUY4iKXHzG1) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [DANGER](https://open.spotify.com/album/3KJBbTH6HJ80waDYtLYvDb) | 2:31 |
 
-Snapshot ID: `AAAAAPBhgSC/99ROxo5XS2q/67ruwxVb`
+Snapshot ID: `AAAAAIns2sAnVhOzhzr0RhR0OHNmCa6F`

@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. chalk
 
-1,186 songs - 2 day 10 hr 14 min
+1,187 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 | 2022-06-24 |
 | [Dreams](https://open.spotify.com/track/2c6DUvTVi7UkUXmnGmUxuf) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Dreams](https://open.spotify.com/album/3k2NdOf9Kud0fTpCn1RBZe) | 3:50 | 2023-11-10 | 2023-12-09 |
 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 | 2023-09-07 | 2023-10-13 |
+| [Drip](https://open.spotify.com/track/7jiVBpDPPNBAJ2sPIxc845) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Parasites & Butterflies](https://open.spotify.com/album/5uRq9tAqhsULMA35OL37Uk) | 2:58 | 2025-09-01 |  |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2024-05-28 | 2024-06-07 |
 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 | 2022-11-18 | 2023-02-17 |
 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:28 | 2023-06-01 | 2023-11-11 |

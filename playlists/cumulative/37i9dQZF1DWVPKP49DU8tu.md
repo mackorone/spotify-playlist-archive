@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVPKP49DU8tu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVPKP49DU8tu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVPKP49DU8tu)
 
-### [Canta Sotto La Doccia](https://open.spotify.com/playlist/37i9dQZF1DWVPKP49DU8tu)
+### [Hit da cantare \(come se nessuno ti stesse guardando\)](https://open.spotify.com/playlist/37i9dQZF1DWVPKP49DU8tu)
 
-> Solo hit da cantare \(anche fuori dalla doccia\).
+> Noi e il tuo specchio non ti giudicheremo mai, promesso 🤞🏼
 
 421 songs - 1 day 0 hr 37 min
 

@@ -4,7 +4,7 @@
 
 > freshly squeezed 📹  elle coves
 
-363 songs - 19 hr 38 min
+365 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [anything for you](https://open.spotify.com/track/0ucxeQa4PyP4rRpOswffcv) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [anything for you](https://open.spotify.com/album/2YQbA9MRcttOywdtMYkWHG) | 3:17 | 2024-06-14 | 2024-09-12 |
 | [Anything/Anyone](https://open.spotify.com/track/0MViV5e5788MXVDb3YX1Dq) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [Anything/Anyone](https://open.spotify.com/album/3us2WdeqDv2Qv0cpAFBUGU) | 2:40 | 2025-05-15 | 2025-07-11 |
 | [Baby Teeth](https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Baby Teeth](https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ) | 2:29 | 2025-08-07 |  |
+| [Back In Town](https://open.spotify.com/track/2UYMqEc8YckMucNfU6z7nc) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [Super Pedestrian](https://open.spotify.com/album/1VWd62Gbw17U0BUEp1jZE6) | 3:36 | 2025-09-01 |  |
 | [Background Actor](https://open.spotify.com/track/5kVzN50FflO5UtObI0v9aP) | [Sabrina Song](https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS) | [Background Actor](https://open.spotify.com/album/3FKlTjB9Sk53oLZ2iKXCOr) | 2:59 | 2025-05-15 | 2025-08-01 |
 | [background check](https://open.spotify.com/track/4p0CN3p41y178UE7d95MUe) | [Grace Spidell](https://open.spotify.com/artist/0PPYiSoH8uy2WgQEN48H3F) | [background check](https://open.spotify.com/album/0C6IgsS1zJRWcvbH0so2Jt) | 2:49 | 2025-07-24 |  |
 | [Bad Thing](https://open.spotify.com/track/0pgTEjFAxNjaDRjgC69HAH) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Bad Thing](https://open.spotify.com/album/5LM8i84TMmgV0hQDz7ah10) | 3:49 | 2024-07-12 | 2024-08-22 |
@@ -90,6 +91,7 @@
 | [Cry Cry Cry](https://open.spotify.com/track/7khKM6qJ3Yg48VOxLVoKNj) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cry Cry Cry](https://open.spotify.com/album/3VqLwj6IxrX2XYXU8XHI4F) | 2:58 | 2025-07-17 | 2025-08-15 |
 | [crying in chanel](https://open.spotify.com/track/0vrZ7IPhmPflJv57GWB5gh) | [ENNA](https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS) | [crying in chanel](https://open.spotify.com/album/0oXGHpzA98ax17AznYBCMO) | 2:29 | 2025-05-01 | 2025-05-13 |
 | [Daisy](https://open.spotify.com/track/5kAH1wvro8j2S2GPczmGlI) | [Leona Rue](https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe) | [Daisy](https://open.spotify.com/album/4ckNbXTzlhv3EE1xfOQGWv) | 3:15 | 2025-05-22 |  |
+| [dead to me](https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [dead to me](https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN) | 2:44 | 2025-09-01 |  |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-06-14 | 2024-12-06 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2025-05-01 | 2025-08-08 |
 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 | 2025-04-12 | 2025-06-13 |
@@ -105,7 +107,7 @@
 | [drive](https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob) | [jessica\-ann](https://open.spotify.com/artist/29PuEgWgOAYlJcqxPHI75s) | [drive](https://open.spotify.com/album/0i7tTvMVjPdA6G7Y0fCjiX) | 2:58 | 2025-06-05 |  |
 | [Dusty](https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:05 | 2025-04-12 | 2025-06-06 |
 | [Easy on My Little Heart](https://open.spotify.com/track/3TR90HQoCo1riKefUOeBAv) | [Charlotte Clark](https://open.spotify.com/artist/2mp1tlha2UQUPY00PZZhI2) | [Easy on My Little Heart](https://open.spotify.com/album/6NAo4g4qh1iXDR9fNBUi3a) | 2:16 | 2025-05-29 | 2025-08-08 |
-| [Emotion Kicks](https://open.spotify.com/track/1LwYtfxfR2QkAXt7rpyniC) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Emotion Kicks](https://open.spotify.com/album/0hkc66a0irMpNb2MRbTY6g) | 4:17 | 2025-07-10 |  |
+| [Emotion Kicks](https://open.spotify.com/track/1LwYtfxfR2QkAXt7rpyniC) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Emotion Kicks](https://open.spotify.com/album/0hkc66a0irMpNb2MRbTY6g) | 4:17 | 2025-07-10 | 2025-09-02 |
 | [Evelyn](https://open.spotify.com/track/1HJCTQYwWc1tALglWHt7im) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 3:07 | 2025-01-24 | 2025-05-09 |
 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 | 2024-06-14 | 2025-04-13 |
 | [everything changes](https://open.spotify.com/track/0KnLy2zr6aBwZW5MOHq1ly) | [Ethan French](https://open.spotify.com/artist/03Y8hH60ObeKNFsDcum6Uu) | [everything changes](https://open.spotify.com/album/4c7PGYQK8nJuDfaY18UJCU) | 4:06 | 2025-07-24 | 2025-08-29 |

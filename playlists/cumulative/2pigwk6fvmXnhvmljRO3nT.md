@@ -4,7 +4,7 @@
 
 > 
 
-7,665 songs - 19 day 18 hr 53 min
+7,666 songs - 19 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3917,6 +3917,7 @@
 | [More Sunshine](https://open.spotify.com/track/2NMUtFaYd6wu0WX8nOCFiX) | [AYEON](https://open.spotify.com/artist/48geUdJRPHmihs9hEbf8lC) | [More Sunshine](https://open.spotify.com/album/4hv4H5kSHrwA4qeucbYlMj) | 3:41 | 2024-12-07 |  |
 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 | 2025-01-03 |  |
 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 | 2025-01-15 |  |
+| [Mori no chiisana restaurant](https://open.spotify.com/track/77GGe1iI6TipMCaWuxfWXr) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Mori no chiisana restaurant](https://open.spotify.com/album/06ZsAXR2QKeZGVrLhqmbJa) | 2:33 | 2025-09-01 |  |
 | [Morning Alarm](https://open.spotify.com/track/077OYpVtq4xRxgDwzhzD4G) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Twintone Vol\. I](https://open.spotify.com/album/6sHxN7nCBZlVtxk2sNlSqU) | 0:51 | 2025-01-24 |  |
 | [Morning Call \- Remix Version](https://open.spotify.com/track/14Wd9MN8cm0cGDXywgaTQI) | [Ibadi](https://open.spotify.com/artist/5GfxPfcjDo593anViCnaOm) | [Voyage](https://open.spotify.com/album/5uJm5jk5PrVL234CfeYYpo) | 3:47 | 2025-01-19 |  |
 | [Morning Sex](https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Morning Sex](https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ) | 2:55 | 2025-01-15 |  |

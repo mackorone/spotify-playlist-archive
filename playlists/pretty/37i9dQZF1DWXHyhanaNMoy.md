@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Oykie & Yssi SB ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,632 likes - 76 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,629 likes - 76 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

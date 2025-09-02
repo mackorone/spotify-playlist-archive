@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: NOBITA
 
-508 songs - 1 day 7 hr 45 min
+510 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little Bit](https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [SWABE](https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L) | 4:37 | 2025-04-25 | 2025-07-19 |
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
 | [ABI](https://open.spotify.com/track/4UVXg1Pjs34P366H91egMA) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx), [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [ABI](https://open.spotify.com/album/1y21KDZs9GejirZLd4fYNk) | 3:55 | 2025-05-30 |  |
+| [Action!](https://open.spotify.com/track/1d28xRJzGuRKZ97VD40ztA) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Action!](https://open.spotify.com/album/1OaJC4PzvYhnEMVm8qmImz) | 3:08 | 2025-09-01 |  |
 | [Ahon](https://open.spotify.com/track/2ZNUhyHeCLzwKLBMH0m48Y) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ahon](https://open.spotify.com/album/6TUc561cCK7NAubC7YVxKN) | 4:17 | 2025-05-09 |  |
 | [AIGHT?](https://open.spotify.com/track/5ogwE88jZ0oowmT2wmSLzB) | [Carl Angelo](https://open.spotify.com/artist/6DSGhKHTjmfiPILjDnDky6) | [Silab](https://open.spotify.com/album/0dxHxcwXMcLptUNBWWIIXn) | 3:07 | 2025-06-10 |  |
 | [Akala Ko](https://open.spotify.com/track/2OWyYWZ2Z03bXqaGcOHJ7T) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Akala Ko](https://open.spotify.com/album/2lukVfOU2cJCOVmKt6bumz) | 3:43 | 2025-05-02 | 2025-07-13 |
@@ -163,6 +164,7 @@
 | [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-23 |  |
 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-09 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
+| [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 | 2025-09-01 |  |
 | [hindi mo dapat](https://open.spotify.com/track/1TdpAIyqK8WMkmrJx40axG) | [Hicci](https://open.spotify.com/artist/3nEqPCHcNEUY3XeLQo7YuS) | [hindi mo dapat](https://open.spotify.com/album/0a4idFB60DBCdd3Nn5RYoZ) | 3:36 | 2025-05-23 |  |
 | [Hingalo](https://open.spotify.com/track/1Bu4SSuA5gne7t5q8MW8Ka) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [Hingalo](https://open.spotify.com/album/2VSGdqPuSWfPIjJS5BvJYk) | 3:39 | 2025-05-09 |  |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |

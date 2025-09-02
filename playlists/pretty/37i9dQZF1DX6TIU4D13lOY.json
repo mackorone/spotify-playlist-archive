@@ -1,6 +1,6 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 296174,
+  "num_followers": 296286,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Foot Loose & Fancy Free",
-        "url": "https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 367400,
-      "name": "I Was Only Joking",
-      "url": "https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Whatever Happened to Benny Santini?",
         "url": "https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 284533,
       "name": "Fool (If You Think It's Over)",
       "url": "https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Foot Loose & Fancy Free",
+        "url": "https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 367400,
+      "name": "I Was Only Joking",
+      "url": "https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa"
     },
     {
       "added_at": "2020-01-07 15:31:11",

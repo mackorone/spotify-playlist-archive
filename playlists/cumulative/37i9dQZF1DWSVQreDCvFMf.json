@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Action!",
+        "url": "https://open.spotify.com/album/1OaJC4PzvYhnEMVm8qmImz"
+      },
+      "artists": [
+        {
+          "name": "Jayda",
+          "url": "https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188983,
+      "name": "Action!",
+      "url": "https://open.spotify.com/track/1d28xRJzGuRKZ97VD40ztA"
+    },
+    {
+      "album": {
         "name": "Ahon",
         "url": "https://open.spotify.com/album/6TUc561cCK7NAubC7YVxKN"
       },
@@ -2904,6 +2922,24 @@
       "duration_ms": 271510,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE"
+    },
+    {
+      "album": {
+        "name": "Hindi Ako Mawawala",
+        "url": "https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283809,
+      "name": "Hindi Ako Mawawala",
+      "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
     },
     {
       "album": {

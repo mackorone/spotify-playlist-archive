@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 【全セットリスト公開】8月16日\(土\)\~17日\(日\)、SUMMER SONIC 2025 @幕張メッセにて<a href="https://spotify\-earlynoise.jp/">Spotify Stage</a>開催！セットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,362 likes - 127 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,363 likes - 127 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 126 | [Miss Luxury](https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 |
 | 127 | [What’s Poppin \(feat\. LANA\)](https://open.spotify.com/track/6BkEiNQdMlwxPMgFDLkZtV) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Hit Different](https://open.spotify.com/album/2VzcuGy9zAowlF2SAV6Mre) | 2:28 |
 
-Snapshot ID: `AAAAAIEl6mu67/ihryxY/Ez0qIDlLKbX`
+Snapshot ID: `AAAAAEXST6J996kqPq+x3IgTQVjiiQ47`

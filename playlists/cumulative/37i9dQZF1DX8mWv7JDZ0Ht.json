@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Doral",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Mariana Nolasco",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -12391,6 +12391,24 @@
     },
     {
       "album": {
+        "name": "quero te contar",
+        "url": "https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Quero Te Contar",
+      "url": "https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5"
+    },
+    {
+      "album": {
         "name": "Cora\u00e7\u00e3o/Movimento",
         "url": "https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T"
       },
@@ -14082,7 +14100,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 193949,
       "name": "S\u00f3 Mais Um Pouquinho",
       "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"

@@ -4,7 +4,7 @@
 
 > Astro in cover della playlist urban più grande in Italia 🔥
 
-850 songs - 1 day 17 hr 28 min
+851 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [COSA NOSTRA \(feat\. Paky\)](https://open.spotify.com/track/02PjSmx4OB3qsc8Qt3cV1J) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [COSA NOSTRA](https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH) | 2:53 | 2022-05-09 | 2022-05-20 |
 | [CRACOVIA PT\. 4](https://open.spotify.com/track/3NETCOu2DUiVXlR3YY91tj) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [CRACOVIA PT\. 4](https://open.spotify.com/album/7FBpQ5AQtot3Kk9svfn84t) | 3:10 | 2023-08-24 | 2023-09-08 |
 | [CREDO](https://open.spotify.com/track/4kgNWbw2hxaVkcYMb3lq0K) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [CREDO](https://open.spotify.com/album/15QWdOplSWKbjDjjNutHRf) | 2:45 | 2025-03-13 | 2025-03-21 |
-| [Credo di Esserci](https://open.spotify.com/track/5j1sRdybeDBwQA7qzcwiCG) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Credo di Esserci](https://open.spotify.com/album/5Kq1XMq8nCUjaWJLOnhvhw) | 2:10 | 2025-07-31 |  |
+| [Credo di Esserci](https://open.spotify.com/track/5j1sRdybeDBwQA7qzcwiCG) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Credo di Esserci](https://open.spotify.com/album/5Kq1XMq8nCUjaWJLOnhvhw) | 2:10 | 2025-07-31 | 2025-09-02 |
 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-07 | 2024-04-05 |
 | [CRUDELE](https://open.spotify.com/track/2WxfVrolnNhQF06pOnsyyT) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 2:42 | 2025-05-08 | 2025-05-23 |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-07-22 |
@@ -842,6 +842,7 @@
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-27 | 2023-09-09 |
 | [WEED, SOLDI, SESSO \(feat\. Gemitaiz\)](https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FAIV](https://open.spotify.com/album/4xpmdTSoa2iKkBnxrsTWzK) | 3:13 | 2022-06-02 | 2022-06-17 |
 | [WEEKEND \(feat\. Ghali, Artie 5ive\)](https://open.spotify.com/track/5cloXdISCIzEh3P9yyuyE6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC \(Deluxe\)](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 2:02 | 2024-07-11 | 2024-10-04 |
+| [WELCOME TO MYLAN](https://open.spotify.com/track/3xSGxlYreIFN5ppcQsNkGD) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [WELCOME TO MYLAN](https://open.spotify.com/album/5DgXAfHv9QyIgqDqcY4shm) | 2:59 | 2025-09-01 |  |
 | [Wet \(feat\. Glocky\)](https://open.spotify.com/track/6bzGrlf9EaFBGg9fC8Nd2H) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Wet \(feat\. Glocky\)](https://open.spotify.com/album/0Ht9x8vytfgPavdyja0HOE) | 2:18 | 2025-01-23 | 2025-03-21 |
 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 | 2023-05-18 | 2023-07-28 |
 | [WHY U MAD](https://open.spotify.com/track/7dYgUWAIXFUniq5S2OkDZC) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:05 | 2024-12-06 | 2025-05-16 |

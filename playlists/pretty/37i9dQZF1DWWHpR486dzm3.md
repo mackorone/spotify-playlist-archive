@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,045 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,050 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Ykkönen nolla](https://open.spotify.com/track/4eqQBbwVAfzisvOeqtvkoX) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC) | [Ykkönen nolla / Kyynia](https://open.spotify.com/album/3XvuIZmvvZuA8rv28Sx2OO) | 4:18 |
 | 80 | [kaupunki](https://open.spotify.com/track/1UUF01o8BzFfQB4UsDLiWl) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [kaupunki](https://open.spotify.com/album/2tcXBlbPDnJXx9dIkbFYBT) | 3:47 |
 
-Snapshot ID: `AAAAAKoObrb0R6gi9QI0dYgmv8JxVGSw`
+Snapshot ID: `AAAAAEC7iHGfzBl8HBQ/uHKAhuRNFz89`

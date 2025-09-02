@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > Lepää rauhassa Ex Tuuttiz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,187 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,198 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kultainen linna](https://open.spotify.com/track/317WlwcAFHTwTV7HXrkUwC) | [Ex Tuuttiz](https://open.spotify.com/artist/6TBeJTfilwR1QNgWuHyB6A) | [Kromihammas](https://open.spotify.com/album/6kO7EyJraQZnSFbt0gpwId) | 3:38 |
 | 2 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 |
 | 3 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 4 | [Mun Maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun Maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 |
-| 5 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
-| 6 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 |
+| 4 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 5 | [Mun Maailma](https://open.spotify.com/track/2hernaaZjnzjbXiHA9PzP8) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Mun Maailma](https://open.spotify.com/album/5p61s7dEdBRN7toCT5KBCj) | 2:38 |
+| 6 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 7 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
-| 8 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 8 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 |
 | 9 | [REBEL NRG \- Remix by Ilves](https://open.spotify.com/track/1YyklWI7ZELo1YBvQc9xZv) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Ilves](https://open.spotify.com/artist/7mc2QcHt940dMG01tnuXWa) | [REBEL NRG Remix \- EP](https://open.spotify.com/album/5g4fVHNYXM5mo2VMGvaNZC) | 2:40 |
 | 10 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 |
 | 11 | [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 50 | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/track/63jEXNkVDnPO8wzFsdryfi) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Vasen laituri \(feat\. AHTI\)](https://open.spotify.com/album/1nEKEtap5DfkayJpSlrHw0) | 3:00 |
 | 51 | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN) | 3:17 |
 
-Snapshot ID: `AAAAAN48xuw5XryZkLuvURkZBbTy9R0T`
+Snapshot ID: `AAAAAGzYJ9A4lxiUyt96MPUsjE5R2ndy`

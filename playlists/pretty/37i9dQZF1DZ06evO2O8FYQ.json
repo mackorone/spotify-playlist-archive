@@ -1,12 +1,12 @@
 {
   "description": "This is Dinosaur Pile-Up. The essential tracks, all in one playlist.",
-  "num_followers": 2430,
+  "num_followers": 2435,
   "original_name": "This Is Dinosaur Pile-Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAAAPWVI8lAqsq91v0ZZgd5Bo",
+  "snapshot_id": "aLOQgAAAAACWE7OWfTCd7I4yD5iEFNcR",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love's The Worst",
-        "url": "https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 167197,
-      "name": "Love's The Worst",
-      "url": "https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eleven Eleven",
         "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 244677,
       "name": "11:11",
       "url": "https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love's The Worst",
+        "url": "https://open.spotify.com/album/26S3PSq7r4OA47qMo9I4JC"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 167197,
+      "name": "Love's The Worst",
+      "url": "https://open.spotify.com/track/4qD9qh4FRu4wl5QevQKm0b"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 184786,
-      "name": "Grim Valentine",
-      "url": "https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y"
+      "duration_ms": 223773,
+      "name": "Nothing Personal",
+      "url": "https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Nothing Personal",
-      "url": "https://open.spotify.com/track/3lEEVEb1aJMwa9BKzPttAU"
+      "duration_ms": 184786,
+      "name": "Grim Valentine",
+      "url": "https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y"
     },
     {
       "added_at": null,

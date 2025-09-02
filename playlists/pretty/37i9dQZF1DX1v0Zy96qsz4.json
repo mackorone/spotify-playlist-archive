@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 11865,
+  "num_followers": 11872,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
         "name": "BLACK PARADE",
         "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 281272,
       "name": "BLACK PARADE",
       "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 278173,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw"
     },
     {
       "added_at": "2022-10-02 02:05:19",

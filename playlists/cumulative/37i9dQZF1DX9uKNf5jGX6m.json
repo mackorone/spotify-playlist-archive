@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Another Moon",
+        "url": "https://open.spotify.com/album/3F0TtzySvr4vmfVDU3l5Ql"
+      },
+      "artists": [
+        {
+          "name": "Luca Kerr",
+          "url": "https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171178,
+      "name": "Another Moon",
+      "url": "https://open.spotify.com/track/1NMocYIPmDhkywYKKs1TOg"
+    },
+    {
+      "album": {
         "name": "Sleep in the Future",
         "url": "https://open.spotify.com/album/6ooQ7fbSOvowpT3d5k6Fzb"
       },

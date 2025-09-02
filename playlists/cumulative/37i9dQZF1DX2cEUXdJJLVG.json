@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "ADDICTED",
+        "url": "https://open.spotify.com/album/4f2u9y24mUyUe7j3Qvnyob"
+      },
+      "artists": [
+        {
+          "name": "SYOT",
+          "url": "https://open.spotify.com/artist/6V6o5XTZuofACOywfTHsim"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236010,
+      "name": "ADDICTED",
+      "url": "https://open.spotify.com/track/2Zfc7xWv3QTPsfj7YrxiYc"
+    },
+    {
+      "album": {
         "name": "Lazarus (Adult Swim Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 262560,
       "name": "Fishes",
       "url": "https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS"
@@ -4631,6 +4649,28 @@
     },
     {
       "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/1OPzIpLvYadEQi8qXyO7j8"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132574,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/0mENsTD5d24KtZEqIprrxA"
+    },
+    {
+      "album": {
         "name": "Mama's House",
         "url": "https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9"
       },
@@ -6220,7 +6260,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 223087,
       "name": "Pyjamas feat. Remi Wolf (Chamos Remix)",
       "url": "https://open.spotify.com/track/2pKYIlPZXCbhvxL4uUDIUb"

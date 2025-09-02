@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: LiSA
 
-885 songs - 2 day 2 hr 42 min
+886 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,7 +701,7 @@
 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 | 2024-01-10 |
 | [九尾](https://open.spotify.com/track/7yzVGmzJ32IQliZSK9kyR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [九尾](https://open.spotify.com/album/6vjcdwSEBpuy8b1UQzaKlX) | 4:02 | 2025-08-21 |  |
 | [二十歳の恋](https://open.spotify.com/track/1EA40FX9aBaKIXwIp83WzL) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:13 | 2023-08-31 | 2023-12-27 |
-| [人生ゲーム](https://open.spotify.com/track/2vKQgdBc9UZ1LN7lUjeLZb) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [人生ゲーム](https://open.spotify.com/album/2Epq2aPkp64buMO6gJRiKy) | 3:18 | 2025-08-21 |  |
+| [人生ゲーム](https://open.spotify.com/track/2vKQgdBc9UZ1LN7lUjeLZb) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [人生ゲーム](https://open.spotify.com/album/2Epq2aPkp64buMO6gJRiKy) | 3:18 | 2025-08-21 | 2025-09-02 |
 | [伝言](https://open.spotify.com/track/7uUVK6nOtPPazkG8OEtnZs) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [×L×C×A×](https://open.spotify.com/album/7EJIvSY1MzWygiuQn6o02a) | 2:50 | 2025-06-05 | 2025-06-13 |
 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 | 2025-08-07 |  |
 | [偽愛とハイボール](https://open.spotify.com/track/1ETWk0RLFJBl8HEBC7DGf5) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [偽愛とハイボール](https://open.spotify.com/album/53tBNEMvkj826ec1XP2ODK) | 4:21 | 2024-04-25 | 2024-07-12 |
@@ -800,7 +800,8 @@
 | [残機](https://open.spotify.com/track/2fJbss5uUmmBqn7qFkmyWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 3:50 | 2023-06-22 | 2023-12-08 |
 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-24 |  |
 | [毎日 \- Every Day](https://open.spotify.com/track/6BBc24r3QbIP4Qt3gdUOtZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [毎日 \- Every Day](https://open.spotify.com/album/12lsaS3L0KUVHrEjJRP978) | 3:02 | 2024-05-30 | 2024-08-09 |
-| [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-24 |  |
+| [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-24 | 2025-09-02 |
+| [沈める街 \- New Yoeko ver.](https://open.spotify.com/track/20XfY7g6Knyz6B0wbslcsH) | [ヨエコ](https://open.spotify.com/artist/3x5j3G0hm2CgvLnlzda1a3) | [沈める街 \(New Yoeko ver.\)](https://open.spotify.com/album/7ok4AusVW41SGAW2DJeHWX) | 3:10 | 2025-09-01 |  |
 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 | 2023-12-19 | 2024-01-17 |
 | [泣きたい夜](https://open.spotify.com/track/3tNoq0EbzEupbiVE7JGsOx) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [\#Twenty](https://open.spotify.com/album/72oaPpyv4DVYTtHsjH4jXL) | 3:20 | 2025-06-05 | 2025-07-04 |
 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2024-08-29 | 2024-10-04 |

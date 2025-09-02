@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: ليجي\-سي
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,728 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,782 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
-| 2 | [Mosh Safilak](https://open.spotify.com/track/39lSNpu5staspRnapwoB5v) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mosh Safilak](https://open.spotify.com/album/7Cp8WhgogGatlQSzEjq3yh) | 3:30 |
-| 3 | [ثانيتين](https://open.spotify.com/track/36vkM6K9je1e7zv0xWUcAs) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [ثانيتين](https://open.spotify.com/album/0lEuBINrKloO9z5fEwwRcW) | 3:05 |
-| 4 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
-| 5 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |
-| 6 | [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 |
-| 7 | [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 |
-| 8 | [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 |
+| 2 | [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 |
+| 3 | [Mosh Safilak](https://open.spotify.com/track/39lSNpu5staspRnapwoB5v) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mosh Safilak](https://open.spotify.com/album/7Cp8WhgogGatlQSzEjq3yh) | 3:30 |
+| 4 | [ثانيتين](https://open.spotify.com/track/36vkM6K9je1e7zv0xWUcAs) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [ثانيتين](https://open.spotify.com/album/0lEuBINrKloO9z5fEwwRcW) | 3:05 |
+| 5 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
+| 6 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |
+| 7 | [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 |
+| 8 | [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 |
 | 9 | [Ana Wel Amar](https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana Wel Amar](https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA) | 4:34 |
 | 10 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 |
 | 11 | [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [El Gaw Gameel](https://open.spotify.com/track/2rdNNddezAPCt5VzKuItZ6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Gaw Gameel](https://open.spotify.com/album/5gYYICpGjP5CIYIwzLdW8L) | 3:06 |
 | 60 | [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 |
 
-Snapshot ID: `AAAAAN1NpCIALLEb3iBglg09xBBiJV/S`
+Snapshot ID: `AAAAACbKzpXPv0Mcde5KEWLRrEAFz1gl`

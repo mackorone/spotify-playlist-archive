@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from S\. Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,756,569 likes - 113 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,129 likes - 113 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Sangre X Sangre 🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,728 likes - 110 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,759 likes - 110 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

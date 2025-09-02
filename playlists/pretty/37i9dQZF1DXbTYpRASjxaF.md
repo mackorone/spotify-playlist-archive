@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > todos pro alto, cada um com o seu\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,383 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,378 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Vilão da Mídia!](https://open.spotify.com/track/5BA4HUyjhg6ock2zEjxEjw) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 4:02 |
 | 50 | [RANDANDAN](https://open.spotify.com/track/2yZdR5hDKc9jGtATdoXvUX) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Só Vilão, Aqui Não Tem Herói](https://open.spotify.com/album/2vMgIV8p4Lo4ZlaclzOyqt) | 2:40 |
 
-Snapshot ID: `AAAAAIF+QtklNrLubqwcgXaRnZuLtbc4`
+Snapshot ID: `AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR`

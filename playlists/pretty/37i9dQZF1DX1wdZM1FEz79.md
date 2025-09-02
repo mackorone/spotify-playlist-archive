@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김뭉먕\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 권순일\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,687 likes - 52 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,693 likes - 52 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Morning](https://open.spotify.com/track/3tQZVNZ8VJn9rO7sBvqZ50) | [Moong myang](https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ) | [Brrrm](https://open.spotify.com/album/78YAT6fGxY8uRo7BFCUm3T) | 3:41 |
-| 2 | [Take Me Somewhere in Your Heart](https://open.spotify.com/track/19ec8tNM0u3WEMVGoM56Bz) | [One Room Romance](https://open.spotify.com/artist/3Swx3mwoDGYx8OrKtHBkLm) | [Take Me Somewhere in Your Heart](https://open.spotify.com/album/1vjmz2RudeED7kHNYRMIuE) | 4:14 |
-| 3 | [When the World Sleeps](https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [When the World Sleeps](https://open.spotify.com/album/1asK5482jnmpbHtelSbSED) | 4:42 |
-| 4 | [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 |
-| 5 | [Coffee](https://open.spotify.com/track/5ajpJxhyVzeRuWvtAcVedH) | [나의 노래 메모장](https://open.spotify.com/artist/2j5LbdJFRLOltAs5r9QwOF) | [Coffee](https://open.spotify.com/album/4o3GYoyddGfm3AkIGugwmw) | 2:58 |
-| 6 | [Fade into you \(feat\. Akita & Gang seo\)](https://open.spotify.com/track/4gxdJJBK0IK1MaZPMUyxJd) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Akita](https://open.spotify.com/artist/4NSfMdZSdFOJqkNTeGYXZt), [Gang seo](https://open.spotify.com/artist/6Wfev8VLvvhTii382SX93k) | [Freshman](https://open.spotify.com/album/4ZmzX104lxnScp4xGYHaOW) | 2:40 |
+| 1 | [Carefree](https://open.spotify.com/track/4NXvX2fQAKXNiRCK5RPVBB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Carefree](https://open.spotify.com/album/6xItPplCilWSqziw4Rwr5E) | 3:00 |
+| 2 | [YaYaYa](https://open.spotify.com/track/3PiLrChGqJRReYYsBwGxEh) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [YaYaYa](https://open.spotify.com/album/2zmNxt0yfxyOjPvHQgpq9j) | 2:47 |
+| 3 | [Good Morning](https://open.spotify.com/track/3tQZVNZ8VJn9rO7sBvqZ50) | [Moong myang](https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ) | [Brrrm](https://open.spotify.com/album/78YAT6fGxY8uRo7BFCUm3T) | 3:41 |
+| 4 | [Take Me Somewhere in Your Heart](https://open.spotify.com/track/19ec8tNM0u3WEMVGoM56Bz) | [One Room Romance](https://open.spotify.com/artist/3Swx3mwoDGYx8OrKtHBkLm) | [Take Me Somewhere in Your Heart](https://open.spotify.com/album/1vjmz2RudeED7kHNYRMIuE) | 4:14 |
+| 5 | [Star](https://open.spotify.com/track/6wftNadxJrNC2jyVdt2Biu) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [My Girlfriend is the Man \(Original Soundtrack\) Part.5](https://open.spotify.com/album/7END3fAnSeSi907kheRqD2) | 4:27 |
+| 6 | [When the World Sleeps](https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [When the World Sleeps](https://open.spotify.com/album/1asK5482jnmpbHtelSbSED) | 4:42 |
 | 7 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 8 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 9 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 39 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 40 | [A story that will turn into a poem](https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:55 |
 | 41 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
-| 42 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
-| 43 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
-| 44 | [Star](https://open.spotify.com/track/6wftNadxJrNC2jyVdt2Biu) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [My Girlfriend is the Man \(Original Soundtrack\) Part.5](https://open.spotify.com/album/7END3fAnSeSi907kheRqD2) | 4:27 |
+| 42 | [Fade into you \(feat\. Akita & Gang seo\)](https://open.spotify.com/track/4gxdJJBK0IK1MaZPMUyxJd) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Akita](https://open.spotify.com/artist/4NSfMdZSdFOJqkNTeGYXZt), [Gang seo](https://open.spotify.com/artist/6Wfev8VLvvhTii382SX93k) | [Freshman](https://open.spotify.com/album/4ZmzX104lxnScp4xGYHaOW) | 2:40 |
+| 43 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 44 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 45 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
 | 46 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
 | 47 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 52 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
 
-Snapshot ID: `AAAAALNgczXZeEzkAhnSmKbB5MPKZFaG`
+Snapshot ID: `AAAAAANB+57SnT3X79y13770OciPgAtV`

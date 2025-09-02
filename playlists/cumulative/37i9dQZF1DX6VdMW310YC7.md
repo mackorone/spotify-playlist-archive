@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,807 songs - 5 day 2 hr 59 min
+1,808 songs - 5 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [felt like we were in heaven \- Radio Edit](https://open.spotify.com/track/0iu8qPgPIDQBW4D23vdZUJ) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [stay just a little while longer \(Instrumental Version\)](https://open.spotify.com/album/6HlCP4xd6DdJmxONC38hFe) | 3:40 | 2022-04-22 | 2022-07-25 |
 | [Felt This Good \(feat\. M\. Bronx\) \- Kap Slap VIP Edit](https://open.spotify.com/track/3c8nej0iPZSrg6P71LIua6) | [Kap Slap](https://open.spotify.com/artist/1yRxS3CXYM7s6amlkEmozI), [M.BRONX](https://open.spotify.com/artist/3jbqK4VihAncvAJWgcidZG) | [Felt This Good \(feat\. M\. Bronx\) \[Kap Slap VIP Edit\]](https://open.spotify.com/album/4roxqbGVnV9L1ve1EZtF9R) | 3:15 | 2020-05-18 | 2020-07-03 |
 | [fever](https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [fever](https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG) | 2:20 | 2024-06-21 | 2025-08-30 |
-| [Fever In My Bones](https://open.spotify.com/track/3vq0D8gv2Ga61lvcEsqXvi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Fever In My Bones](https://open.spotify.com/album/2DxlhYq3F41DrO7fwQPkTS) | 2:56 | 2025-08-29 |  |
+| [Fever In My Bones](https://open.spotify.com/track/3vq0D8gv2Ga61lvcEsqXvi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Fever In My Bones](https://open.spotify.com/album/2DxlhYq3F41DrO7fwQPkTS) | 2:56 | 2025-08-29 | 2025-09-02 |
 | [Fictionalise \- Anjunadeep 08 Mix](https://open.spotify.com/track/5CRUheuZVSxl0YxDvlLimM) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Anjunadeep 08](https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy) | 4:35 | 2020-05-18 | 2021-12-31 |
 | [Fifty Dollar Bills \- Radio Edit](https://open.spotify.com/track/3wKsVivJ3pRnJ9BLBR639L) | [Sworn Virgins](https://open.spotify.com/artist/5xA3zslV2KbUIZR5QsuNgw) | [Fifty Dollar Bills \(Radio Edit\)](https://open.spotify.com/album/5ni7bnCyY1vmg1VgTeQIPH) | 4:04 | 2020-05-18 | 2020-07-03 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2020-04-14 | 2020-10-09 |
@@ -980,6 +980,7 @@
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
+| [Loveless \- George FitzGerald Remix](https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Loveless \(George FitzGerald Remix\)](https://open.spotify.com/album/2UO2UtgxrTozLMUrKOTc2E) | 3:37 | 2025-08-29 |  |
 | [Loving Blind](https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Loving Blind](https://open.spotify.com/album/2XvypO5sCalte148ttpNPI) | 3:36 | 2023-09-08 | 2024-08-03 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2020-03-20 | 2022-04-21 |
 | [Lowkey](https://open.spotify.com/track/5hp4te9BVHl3m1ZFSj62eX) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Lowkey](https://open.spotify.com/album/4PYmijWayYaKZizK3aGfNI) | 3:13 | 2021-09-10 | 2022-10-14 |

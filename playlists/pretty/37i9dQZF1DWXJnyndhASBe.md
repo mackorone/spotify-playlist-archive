@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Avi
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,732 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,827 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [BRAND NEW SQ8](https://open.spotify.com/track/6Sn6v4Q8JrDVySRamxPXeX) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [I MISS YOU ON TOUR](https://open.spotify.com/album/1AlUYkwz3uu2EQ3OfpVqmD) | 2:25 |
 | 50 | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [Shelast](https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o), [matiorzel](https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8) | 3:06 |
 
-Snapshot ID: `AAAAANQY+I7AGDUeu7nbCSUh2qC67j3Z`
+Snapshot ID: `AAAAAK3DeZgpj6ygjVw8EmDfEr6EWPJe`

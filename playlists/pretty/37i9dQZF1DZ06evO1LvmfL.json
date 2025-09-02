@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 422953,
+  "num_followers": 423197,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAABtLUll0xRa51CB4hsGuFKC",
+  "snapshot_id": "aLOQgAAAAADnPdMZDz6byxxv6lv/ioCN",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happy People (with Teddy Swims & Jac Ross)",
         "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/1koWKapUQc4aFyOt3KoAF9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
     },
     {
       "added_at": null,

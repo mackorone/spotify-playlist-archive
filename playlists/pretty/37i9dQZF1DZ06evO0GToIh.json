@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 309186,
+  "num_followers": 309320,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAABkrllgshg09GffeGjCxRaE",
+  "snapshot_id": "aLOQgAAAAADM07A29dMqHuby2nQCKztK",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Enam\u00f3rate de M\u00ed",
+      "url": "https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coraz\u00f3n en Coma",
         "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 243503,
       "name": "Si Te Pudiera Mentir - En Vivo",
       "url": "https://open.spotify.com/track/4QmzK1fWkPU8h23ZTf5dOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vuela T\u00fa",
-        "url": "https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 155481,
-      "name": "Vuela T\u00fa",
-      "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-282 songs - 1 day 1 hr 53 min
+283 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Purple Rose](https://open.spotify.com/track/16fW4Z3Czn1XN3qc8SqstW) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:45 | 2023-11-29 | 2025-05-15 |
 | [Que Lo Que](https://open.spotify.com/track/3tsULujkCT6HRxLqyhv9Uz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Que Lo Que](https://open.spotify.com/album/7LjzvsJT0ImNudTh8SDaQE) | 3:46 | 2022-09-09 | 2023-08-29 |
 | [Raiva](https://open.spotify.com/track/7xdmcGcPLwqHnSCbeXfhGj) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY), [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Raiva](https://open.spotify.com/album/5aBIXhTdPVUCQeM6BnTQEi) | 4:30 | 2025-05-14 |  |
+| [Reason](https://open.spotify.com/track/4mK3M3Xf9hUpsKtJsw4IJx) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Reason](https://open.spotify.com/album/38jheapqHZYrpPaceQP0qH) | 4:23 | 2025-09-01 |  |
 | [Recuerdos](https://open.spotify.com/track/2gwuSWS7Yh7At0MsT2w3Fj) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Los Hermanos Del Alma EP](https://open.spotify.com/album/0BgsWj02pAVDFvTTeSsuFB) | 7:00 | 2022-08-02 | 2023-03-21 |
 | [Redlight](https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:02 | 2022-08-02 | 2023-02-18 |
 | [Reebab](https://open.spotify.com/track/6EeGyKzn07BfXwT9B9gknz) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Exorce EP](https://open.spotify.com/album/6NutlhlAx9Cu5Aci3D1qdE) | 6:56 | 2022-08-02 | 2023-03-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Aditya Rikhari, Shirley Setia and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,743 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,761 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 19 | [Ve Mundeya](https://open.spotify.com/track/0fy4chw5hmSLs9HifZjGu0) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Ve Mundeya](https://open.spotify.com/album/03op4wrOwbVjgVwgd9CmrU) | 3:15 |
 | 20 | [Saawariya](https://open.spotify.com/track/3C9OWjSbRuLL1HrWRzc4n6) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Suhit Abhyankar](https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Saawariya](https://open.spotify.com/album/0zymk7RXRxlMpTKms2Kai4) | 3:45 |
 | 21 | [Koi Koi Karda](https://open.spotify.com/track/2tPrsY7PA8JMODNnkwsTkT) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Koi Koi Karda](https://open.spotify.com/album/2t0gaEh2nupaTcQgvOhhxw) | 3:01 |
-| 22 | [Kahani Meri](https://open.spotify.com/track/2xNDg2ITRFMgdzQxb3cL8k) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kahani Meri](https://open.spotify.com/album/08e8NYxLIuMzCcd6A1BFlV) | 4:08 |
+| 22 | [Kahani Meri](https://open.spotify.com/track/2xNDg2ITRFMgdzQxb3cL8k) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz) | [Kahani Meri](https://open.spotify.com/album/08e8NYxLIuMzCcd6A1BFlV) | 4:08 |
 | 23 | [Pyaari Gallan](https://open.spotify.com/track/141TqEEQ6k0yNRKtl83kbp) | [JOON](https://open.spotify.com/artist/3s2b0NQF9jBtJs6nGkKVIR), [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB), [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Pyaari Gallan](https://open.spotify.com/album/4hnm4SXrrXYhvve91Otwqj) | 2:14 |
 | 24 | [Ae Chand](https://open.spotify.com/track/4ErZhhGxj6wauwwNU65gbu) | [Aruna Arya Gupta](https://open.spotify.com/artist/0KnkojV3Oq8fgYYdFxiUhe), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Ae Chand](https://open.spotify.com/album/5WPXUm3pI5vaxRvalWAlM4) | 3:47 |
 | 25 | [Aisi Jannat](https://open.spotify.com/track/6f2XotATKktNU7WMJ9RbCf) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Aisi Jannat](https://open.spotify.com/album/36mS5HTfJfSqvb5sbMQl1g) | 4:46 |

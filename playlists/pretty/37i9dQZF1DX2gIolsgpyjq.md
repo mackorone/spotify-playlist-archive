@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ISSA ODYSSEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,007 likes - 114 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,009 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,19 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 98 | [Cannot Get Enough](https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema Sound System](https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv) | 4:24 |
 | 99 | [Options](https://open.spotify.com/track/1X5L2zy9SYkqirZp6WkJoy) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Options](https://open.spotify.com/album/3l7eLSy1GNg3zA9MFguN2Y) | 3:32 |
 | 100 | [KNIFE](https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [KNIFE](https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q) | 2:48 |
-| 101 | [IN YOUR EYES](https://open.spotify.com/track/1Mc21a9K5YocCHBKrcqIBb) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd) | [IN YOUR EYES](https://open.spotify.com/album/64blDiGqtbN0nT3zRXDr36) | 3:19 |
-| 102 | [Prove Your Love](https://open.spotify.com/track/40KwVWdm42jgcUaOq0747Z) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Prove Your Love](https://open.spotify.com/album/2kRPxmpUpFV5zgLZLJT8CT) | 3:17 |
-| 103 | [Limitless](https://open.spotify.com/track/1DElDcDVnmNRp6wEl4R7Oh) | [Wunderkind](https://open.spotify.com/artist/4JZIqECSVa1Bry6ApgnaGu) | [Limitless](https://open.spotify.com/album/6wzk4ekf5N2AwFXbt310lR) | 2:46 |
-| 104 | [clouds blue](https://open.spotify.com/track/6ptDUda2cgDCJI6VlgMfzU) | [Binky Blaise](https://open.spotify.com/artist/6wVXRQ64TTR22g2J34DfO7) | [clouds blue](https://open.spotify.com/album/6XHjdO3iEiYvne6XY2dqXt) | 3:04 |
-| 105 | [Nothing Else Matters](https://open.spotify.com/track/6tLROzSbYFyk3S5WaiZgo9) | [Lilja Scarfi](https://open.spotify.com/artist/6vyiITrPjtQaUGvoVSYQqX) | [Nothing Else Matters](https://open.spotify.com/album/5QXTa10EruQiiPnVQCS1Ra) | 3:16 |
-| 106 | [Over and Over](https://open.spotify.com/track/1iMUHTAg8YR2WaWTOTRnuc) | [Tatia Darsalia](https://open.spotify.com/artist/2z6l6zLPpmzy9Wnl3EBxoo) | [Over and Over](https://open.spotify.com/album/1KTbMtx9CX5xue2fClRtKg) | 3:09 |
-| 107 | [Feeble](https://open.spotify.com/track/6EMlW88JI0gTI7Dv3h4VQq) | [Boy With Apple](https://open.spotify.com/artist/6cs5N6HLaTJIgJefiYLkg7) | [Feeble](https://open.spotify.com/album/4hB6QQOMLd5vgyiGHDZ45W) | 3:49 |
-| 108 | [make the night last](https://open.spotify.com/track/5OdYWoQSPU83aHM81Gfh5y) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [make the night last](https://open.spotify.com/album/4s4yXb5YuCkQYX9vpC7pev) | 3:08 |
-| 109 | [peter parker](https://open.spotify.com/track/39CU0bySxs90vd07Sp5oR6) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [peter parker](https://open.spotify.com/album/77JEjfKTRaUgZwsiTPivPE) | 2:47 |
-| 110 | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/track/2eBbYbvZhTdEnH1BcOyOnz) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Mary's Lifestyle \(pbeatgirl version\)](https://open.spotify.com/album/34mBMKQEpltIkQYDK1XkmE) | 2:54 |
-| 111 | [danish design](https://open.spotify.com/track/3oadfDVdVogritOnnuy35M) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [danish design](https://open.spotify.com/album/7xRnfUMxZ3RNbANiGKMY4J) | 2:32 |
-| 112 | [Coming Back To Me](https://open.spotify.com/track/70I6yy0nPoZSwgCoTrvBiD) | [Innocent](https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW) | [Coming Back To Me](https://open.spotify.com/album/1ztIyh338ADpqssQqGJN1M) | 3:47 |
-| 113 | [Surf Through](https://open.spotify.com/track/4eVY5xSBJlySt71uOyY2OH) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Surf Through](https://open.spotify.com/album/7ADVrbqLnzDsJ4qLsqI76B) | 2:49 |
-| 114 | [Shine](https://open.spotify.com/track/4pBsnZt1tsn87T2AFnEppc) | [Bezashet](https://open.spotify.com/artist/1zM39V1MwW9P8E6wtqzYZi) | [Shine](https://open.spotify.com/album/4OXkTdE7WShwsRtmLs7PYU) | 3:17 |
 
-Snapshot ID: `AAAAAMjDUm17OIRD4Bn/8p/tVsgn/qI9`
+Snapshot ID: `AAAAAMsMFEIPdKnWdkA3YDAAH6auNMBe`

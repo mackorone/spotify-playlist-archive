@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,280 likes - 113 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,294 likes - 113 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 |
-| 2 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
-| 3 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
+| 1 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
+| 2 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 |
+| 3 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 4 | [On One](https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [On One](https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY) | 2:43 |
 | 5 | [UPPENBART](https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [UPPENBART](https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85) | 2:21 |
 | 6 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 112 | [Ny mark](https://open.spotify.com/track/722y4ce1sQhziubL83eqlZ) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [Ny mark](https://open.spotify.com/album/7xBEz2UxKI8BYAAqKGCKGs) | 2:03 |
 | 113 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAACMRJESHp2bmDQzZi1xw8fJ551D4`
+Snapshot ID: `AAAAAAugh4GoBwpbYZJUJi6Fi+FaIUjk`

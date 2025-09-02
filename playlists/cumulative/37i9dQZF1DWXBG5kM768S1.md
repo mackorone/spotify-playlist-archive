@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-262 songs - 16 hr 43 min
+263 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 | 2021-12-16 |  |
 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 | 2022-07-14 | 2023-12-16 |
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
-| [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 |  |
+| [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 | 2025-09-02 |
 | [Heim igjen](https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK) | [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd) | [Heim igjen](https://open.spotify.com/album/1roeS2EV5XHBorIbHg6vxO) | 4:20 | 2021-12-16 | 2022-07-17 |
 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 | 2023-08-31 | 2025-01-21 |
 | [Himmelblå](https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR) | [Anne Marie Almedal](https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez) | [Blue Sky Blue](https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X) | 3:47 | 2021-12-16 | 2022-07-25 |
@@ -230,6 +230,7 @@
 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-11-06 |
 | [Så syng eg da ein song for deg](https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Så syng eg da ein song for deg](https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR) | 4:02 | 2021-12-16 | 2022-01-06 |
 | [Søtten år](https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Søtten år](https://open.spotify.com/album/0NPTQWIsR2doVbxKgmdZcz) | 4:45 | 2021-12-16 | 2022-07-28 |
+| [Ta mæ tilbake](https://open.spotify.com/track/2NciC5G8wXqlv9SxZAfppN) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Ta mæ tilbake](https://open.spotify.com/album/39qaA2S36UMbg2iIUZ3LkC) | 4:01 | 2025-08-28 |  |
 | [Takk for alt](https://open.spotify.com/track/54R6o5mqK9bNT69ZACtAFH) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Takk for alt](https://open.spotify.com/album/5HLEnWtZBEtsfXXJK8Cbhq) | 0:29 | 2021-12-16 | 2022-07-02 |
 | [Tapt Paradis](https://open.spotify.com/track/5nxWnKvhtGxvPl7tkR9jvi) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Tapt Paradis](https://open.spotify.com/album/1gXiFPsVZDEMa2supiGnjx) | 6:26 | 2021-12-16 | 2022-07-28 |
 | [Tar du i mot meg? \- en flyktning synger Händel](https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI) | [Tar du imot meg? \- en flyktning synger Händel](https://open.spotify.com/album/1SXDYfUkGECaWM5V6WVaYT) | 3:37 | 2021-12-16 | 2022-07-22 |

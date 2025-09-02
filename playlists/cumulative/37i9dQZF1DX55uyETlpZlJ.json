@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/1ptMkgO8jF6uEDZzUcYWiD"
+      },
+      "artists": [
+        {
+          "name": "Sagar Gowda",
+          "url": "https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232263,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0MwwwYZxiitdtHb2nv3QE4"
+    },
+    {
+      "album": {
         "name": "Baby 500",
         "url": "https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx"
       },

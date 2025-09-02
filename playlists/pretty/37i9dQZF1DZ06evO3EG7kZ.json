@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 49282,
+  "num_followers": 49305,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAAD7Pni+jHyQcj3V6Y69Wkse",
+  "snapshot_id": "aLOQgAAAAABRaod/NWq7OAJJIN/sdEJP",
   "tracks": [
     {
       "added_at": null,
@@ -454,11 +454,19 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Meg Washington",
+          "url": "https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ"
+        },
+        {
+          "name": "Joe Brumm",
+          "url": "https://open.spotify.com/artist/7x4QT4xcrTImKPWIICRHBZ"
         }
       ],
-      "duration_ms": 61291,
-      "name": "Lollipop Yum Yum Yum",
-      "url": "https://open.spotify.com/track/3GbQCr7UQdmrmQ195pYPHQ"
+      "duration_ms": 146646,
+      "name": "The Gnome Song (feat. Meg Washington)",
+      "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
     },
     {
       "added_at": null,

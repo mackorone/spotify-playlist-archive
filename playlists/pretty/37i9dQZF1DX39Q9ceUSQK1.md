@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Blaudzun
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,544 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,548 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,28 +13,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 3 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 | 4 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
 | 5 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
-| 6 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
-| 7 | [Tangled Wiring](https://open.spotify.com/track/2k3bnwFnaXgMTsltf0u60d) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [Tangled Wiring](https://open.spotify.com/album/0Kz2j63vSKI3AiNaUHh11T) | 2:40 |
-| 8 | [Covet](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 3:22 |
-| 9 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
-| 10 | [DESK JOB](https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [INFINITE HIGHS, END OF TIMES](https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j) | 2:23 |
-| 11 | [When You Are Around](https://open.spotify.com/track/7790DH8sb3lsz7hZgHHxsl) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [When You Are Around](https://open.spotify.com/album/6auIC2ep5rPXBj1gGabHx0) | 3:00 |
-| 12 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
-| 13 | [Daydream](https://open.spotify.com/track/5uMaNOPCFVdakFVCzWGUex) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [Daydream](https://open.spotify.com/album/1xMQzZIL2wrIIdd1u7JnSn) | 3:37 |
-| 14 | [White Horses](https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:29 |
-| 15 | [FUCK IT UP](https://open.spotify.com/track/3ufKaFKr8xbk0QJDqooHAK) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUCK IT UP](https://open.spotify.com/album/3CHrnLadhESg6r2NIit9rt) | 3:26 |
-| 16 | [Sugar High](https://open.spotify.com/track/1vhbV37re3fpEDy3wyGh9A) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Sugar High](https://open.spotify.com/album/5GmrGxcgrds5UoDsH37WYS) | 3:34 |
-| 17 | [Get Back On Your Feet](https://open.spotify.com/track/5bVVK4XXk6uO93BP8ljkqh) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Get Back On Your Feet](https://open.spotify.com/album/7qlXlASZ7ztAQTF1TRMWGa) | 3:32 |
-| 18 | [GOD SAVE THE PONY.](https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ) | 3:09 |
-| 19 | [All The Names](https://open.spotify.com/track/25VSaYS6vsaBBfw6XsbrnJ) | [a fungus](https://open.spotify.com/artist/067eX6DglgkJ7Ey7Gkl9OU) | [Field Relief](https://open.spotify.com/album/5kTU3vt2DzIXyNteROC3Hw) | 3:46 |
-| 20 | [Lucky Dimes](https://open.spotify.com/track/4s1rGbXjdZ6zF35189dxDE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Lucky Dimes](https://open.spotify.com/album/561fqDum4osHqw1EAIOvYO) | 3:28 |
-| 21 | [Street Theatre](https://open.spotify.com/track/6QHyN5Cj8qVzt5Kp3ykbw0) | [Texoprint](https://open.spotify.com/artist/3Crxw3x5GQwDrhY51BNcMi) | [Street Theatre](https://open.spotify.com/album/19qA3A3DSAS6JeLZho62Xh) | 2:21 |
-| 22 | [On Top/Inside](https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [On Top/Inside](https://open.spotify.com/album/140tThebpUHkI9UsQsTCFz) | 3:14 |
-| 23 | [Hey Hey](https://open.spotify.com/track/2puU5YMdc2ILHk2FFF80Fy) | [zZz](https://open.spotify.com/artist/1IPih6T0akbF3u4ooYrPxC) | [Hey Hey](https://open.spotify.com/album/1hOAbwopUuFPqUF0ifF3ff) | 2:40 |
-| 24 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
-| 25 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
-| 26 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
-| 27 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 |
+| 6 | [Sugar High](https://open.spotify.com/track/1vhbV37re3fpEDy3wyGh9A) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Sugar High](https://open.spotify.com/album/5GmrGxcgrds5UoDsH37WYS) | 3:34 |
+| 7 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
+| 8 | [Tangled Wiring](https://open.spotify.com/track/2k3bnwFnaXgMTsltf0u60d) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [Tangled Wiring](https://open.spotify.com/album/0Kz2j63vSKI3AiNaUHh11T) | 2:40 |
+| 9 | [Covet](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 3:22 |
+| 10 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 |
+| 11 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 |
+| 12 | [DESK JOB](https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [INFINITE HIGHS, END OF TIMES](https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j) | 2:23 |
+| 13 | [When You Are Around](https://open.spotify.com/track/7790DH8sb3lsz7hZgHHxsl) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [When You Are Around](https://open.spotify.com/album/6auIC2ep5rPXBj1gGabHx0) | 3:00 |
+| 14 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 |
+| 15 | [Daydream](https://open.spotify.com/track/5uMaNOPCFVdakFVCzWGUex) | [Claw Boys Claw](https://open.spotify.com/artist/5t378xBMytAymycG84zIPv) | [Daydream](https://open.spotify.com/album/1xMQzZIL2wrIIdd1u7JnSn) | 3:37 |
+| 16 | [White Horses](https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:29 |
+| 17 | [FUCK IT UP](https://open.spotify.com/track/3ufKaFKr8xbk0QJDqooHAK) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUCK IT UP](https://open.spotify.com/album/3CHrnLadhESg6r2NIit9rt) | 3:26 |
+| 18 | [Get Back On Your Feet](https://open.spotify.com/track/5bVVK4XXk6uO93BP8ljkqh) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Get Back On Your Feet](https://open.spotify.com/album/7qlXlASZ7ztAQTF1TRMWGa) | 3:32 |
+| 19 | [GOD SAVE THE PONY.](https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ) | 3:09 |
+| 20 | [All The Names](https://open.spotify.com/track/25VSaYS6vsaBBfw6XsbrnJ) | [a fungus](https://open.spotify.com/artist/067eX6DglgkJ7Ey7Gkl9OU) | [Field Relief](https://open.spotify.com/album/5kTU3vt2DzIXyNteROC3Hw) | 3:46 |
+| 21 | [Lucky Dimes](https://open.spotify.com/track/4s1rGbXjdZ6zF35189dxDE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Lucky Dimes](https://open.spotify.com/album/561fqDum4osHqw1EAIOvYO) | 3:28 |
+| 22 | [Street Theatre](https://open.spotify.com/track/6QHyN5Cj8qVzt5Kp3ykbw0) | [Texoprint](https://open.spotify.com/artist/3Crxw3x5GQwDrhY51BNcMi) | [Street Theatre](https://open.spotify.com/album/19qA3A3DSAS6JeLZho62Xh) | 2:21 |
+| 23 | [On Top/Inside](https://open.spotify.com/track/3aZDSOAQF5AxU7Vx9QjoW2) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [On Top/Inside](https://open.spotify.com/album/140tThebpUHkI9UsQsTCFz) | 3:14 |
+| 24 | [Hey Hey](https://open.spotify.com/track/2puU5YMdc2ILHk2FFF80Fy) | [zZz](https://open.spotify.com/artist/1IPih6T0akbF3u4ooYrPxC) | [Hey Hey](https://open.spotify.com/album/1hOAbwopUuFPqUF0ifF3ff) | 2:40 |
+| 25 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
+| 26 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
+| 27 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 28 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 |
 | 29 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 |
 | 30 | [Life Is For Living](https://open.spotify.com/track/6KdvpT7yQrLEBg2hRExgqo) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [Life Is For Living](https://open.spotify.com/album/59M2qQLmvQTPiVK8gFd9OX) | 4:08 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 71 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 |
 | 72 | [she came for a sweet time](https://open.spotify.com/track/2385kaeJicfgBSN3q7mpPR) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [she came for a sweet time](https://open.spotify.com/album/1vanujSCrZTGKwCEUOo1zY) | 4:19 |
 
-Snapshot ID: `AAAAAMD4uJCquA94VSzjlB3Q/GkD3xMa`
+Snapshot ID: `AAAAACwGaZ0mqtXsfEDy4c3nM3jC5bo/`

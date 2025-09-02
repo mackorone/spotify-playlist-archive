@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > yo no tuve herencias ni carrito regalado ✨🧿 Raúl Beltrán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,246 likes - 63 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,530 likes - 63 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 62 | [Lo Que Me Pase A Mí](https://open.spotify.com/track/1CYiVzPdMXs1dTi2y0gSOh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Osvaldo Rodriguez](https://open.spotify.com/artist/2BMaTsuqLtDUuOQHzGIgjP) | [Lo Que Me Pase A Mí](https://open.spotify.com/album/3GmvyNsEeIEI3efVQizugb) | 1:52 |
 | 63 | [La Faramalla](https://open.spotify.com/track/4yPmcwwLXoibbNu6CmrJQg) | [Nivel C](https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM) | [Falsas Amistades](https://open.spotify.com/album/1EsiciTPporCUNq9lMVPHG) | 3:20 |
 
-Snapshot ID: `AAAAAPVIT2Gs8OFykZXdpEpoBuuAPP8U`
+Snapshot ID: `AAAAACPKec5aWj/OdGtsM5IPZuDwB3CC`

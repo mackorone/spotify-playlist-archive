@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Laufey, sombr, Daði Freyr og mörgum fleiri!
 
-7,567 songs - 16 day 22 hr 49 min
+7,568 songs - 16 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3438,7 +3438,7 @@
 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 | 2025-07-11 | 2025-07-18 |
 | [Intense](https://open.spotify.com/track/1ePMoEf4mcl8FmTxpyi6qX) | [M Rosenbaum](https://open.spotify.com/artist/5p7dnAi92CdaxxbWQkjRyt) | [Intense](https://open.spotify.com/album/1cLlT9nitfVfxMVCLVtxwh) | 2:54 | 2025-02-28 | 2025-03-07 |
 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 | 2025-07-25 |
-| [Interglacial](https://open.spotify.com/track/3FOKWKIZax6EzrPUuiTXQq) | [Kuggur](https://open.spotify.com/artist/1s7Y70usQEUyYy9jwrJ4ps), [Svart Tulpan](https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u) | [Interglacial](https://open.spotify.com/album/6BEbZFCvsarPbusMvhRDZU) | 5:41 | 2025-08-29 |  |
+| [Interglacial](https://open.spotify.com/track/3FOKWKIZax6EzrPUuiTXQq) | [Kuggur](https://open.spotify.com/artist/1s7Y70usQEUyYy9jwrJ4ps), [Svart Tulpan](https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u) | [Interglacial](https://open.spotify.com/album/6BEbZFCvsarPbusMvhRDZU) | 5:41 | 2025-08-29 | 2025-09-02 |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-03 | 2024-05-10 |
 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 | 2024-11-29 | 2024-12-06 |
 | [Intertwined](https://open.spotify.com/track/0D4OsIVqjXmDgc2KZ6Ua9n) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq), [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg) | [Intertwined](https://open.spotify.com/album/1xuVt89RCdJxPUIOKkMQFh) | 2:32 | 2024-10-18 | 2024-10-25 |
@@ -7556,6 +7556,7 @@
 | [ÚT Í KVÖLD](https://open.spotify.com/track/4m90JnvaOW0DWrzwEAsqby) | [Freyr](https://open.spotify.com/artist/2hY9jP5dxbcidC4PK6iPTI), [Elvar](https://open.spotify.com/artist/4xoclhoc8kH86XPS8dbnZR) | [ÚT Í KVÖLD](https://open.spotify.com/album/7iiMTjHDPMThj3IlZGFm6Z) | 3:30 | 2024-08-02 | 2024-08-09 |
 | [Þagnir Hljóma Vel](https://open.spotify.com/track/5lLNNgXztmwg3bI5cjcpXF) | [VALDIS](https://open.spotify.com/artist/6MU17wCRHttZag8asC4TO0), [JóiPé](https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb) | [Þagnir Hljóma Vel](https://open.spotify.com/album/0VWxm37joeUatJkbeXdqZI) | 2:43 | 2024-07-19 | 2024-07-27 |
 | [Þarft að vita](https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Þarft að vita](https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD) | 2:02 | 2025-08-01 | 2025-08-09 |
+| [Það ert þú](https://open.spotify.com/track/6TWtaP28OSawumFyDSMssg) | [Einar Ágúst](https://open.spotify.com/artist/4VvkncSfFc9IA2vT7qIFo1) | [Það ert þú](https://open.spotify.com/album/70l2e26HDt0esLADBxOlCD) | 3:18 | 2025-08-29 |  |
 | [Það sem jólin snúast um](https://open.spotify.com/track/0fXXhQ3pepThCcHmUrgYPo) | [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [KK](https://open.spotify.com/artist/3rUSk3kcpl4Nseu1DqFNpJ) | [Það sem jólin snúast um](https://open.spotify.com/album/6n1uhPv3H8ujgoGLhOHM4D) | 2:56 | 2024-11-08 | 2024-11-09 |
 | [Það var komið sumar](https://open.spotify.com/track/67WzYzSOi4yz05GZzCcd29) | [Fríða Hansen](https://open.spotify.com/artist/57cgaHmWnlA5feAhfYO0Py) | [Það var komið sumar](https://open.spotify.com/album/7kd2swVyDY4InKpRP9xH7c) | 2:52 | 2024-05-10 | 2024-05-11 |
 | [Þegar eru að koma jól](https://open.spotify.com/track/56PgMawfVpZTx1Q649qhWH) | [Hr\. Eydís](https://open.spotify.com/artist/78BlfhJ7PXuuC2lKN0X97e), [Erna Hrönn](https://open.spotify.com/artist/2G66JDENMNLKPpm5ys0DQY) | [Þegar eru að koma jól](https://open.spotify.com/album/5KxqYTuojfNVupO1YqfWJG) | 4:03 | 2024-11-22 | 2024-11-29 |

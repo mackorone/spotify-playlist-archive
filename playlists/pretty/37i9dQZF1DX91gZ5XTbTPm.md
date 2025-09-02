@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Luhh Dyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,054 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,080 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 8 | [I Don't Care...](https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [I Don't Care...](https://open.spotify.com/album/1utha3BJLakow5UUB8fdYM) | 3:35 |
 | 9 | [Ex 2 \(BM\)](https://open.spotify.com/track/2R7fzNc8kgbilKueT5cne3) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Luka Troncic 2](https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp) | 5:05 |
 | 10 | [Right Key](https://open.spotify.com/track/1BbsU05g8H9v1ziA0xj41V) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:27 |
-| 11 | [So Ghetto](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
+| 11 | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1K89pXnaO9tpZtH1NTEgGO) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [So Ghetto \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3h0GPDLxvUZz0waUuUhBUO) | 2:47 |
 | 12 | [Drapetomania \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:52 |
 | 13 | [Wavy Crete](https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wavy Crete](https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW) | 2:34 |
 | 14 | [Habitat](https://open.spotify.com/track/2VQKKwIniVNl4sK2foK0x8) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [Slick SZN 2](https://open.spotify.com/album/0BRvF0Q2VNJrtyoiAIjFxe) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,500 likes - 98 songs - 5 hr 46 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,501 likes - 98 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 23 | [Blueprint](https://open.spotify.com/track/15uiTmTGlSn6GmJeQg2j4u) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Blueprint](https://open.spotify.com/album/1rwq2McXrcfxa0WTnGDV88) | 2:36 |
 | 24 | [Blisters](https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Blisters](https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu) | 3:43 |
 | 25 | [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 |
-| 26 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:28 |
+| 26 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:30 |
 | 27 | [I Imagine \(with Hope Tala\)](https://open.spotify.com/track/521vHdXums2ft3SO65psWT) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Imagine \(with Hope Tala\)](https://open.spotify.com/album/3yuP1i3UjmZUp5WXew2uQ0) | 2:23 |
 | 28 | [Inkind](https://open.spotify.com/track/1TzQp3c2yq9G0luKUW7LU7) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Inkind](https://open.spotify.com/album/2N0JEHthdM2QBm3jinQZnL) | 3:45 |
 | 29 | [Oh Well](https://open.spotify.com/track/5FYSZ0tJ8CvWOfN2Rr2Sjw) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Oh Well](https://open.spotify.com/album/0uTvwUVUNUfPK1U1WMqNVW) | 3:24 |

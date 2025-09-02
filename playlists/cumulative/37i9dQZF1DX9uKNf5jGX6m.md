@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-905 songs - 1 day 20 hr 47 min
+906 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Anirual](https://open.spotify.com/track/5X3UiiOUn1REPps2Gq4Cv2) | [Mark Davey](https://open.spotify.com/artist/5G9p1AfkWTDCfOrqwDv9L5) | [Anirual](https://open.spotify.com/album/1hR00aoNRj0k7bXa7oKzLR) | 3:28 | 2023-06-20 |  |
 | [Another Day](https://open.spotify.com/track/3H3SOIaz8Ormpyja7iVemh) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Another Day](https://open.spotify.com/album/6z17bwmYSNPuPmUTYPI7r6) | 3:16 | 2022-06-22 | 2023-01-04 |
 | [Another Galaxy](https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Another Galaxy](https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl) | 2:26 | 2022-09-01 | 2023-01-04 |
+| [Another Moon](https://open.spotify.com/track/1NMocYIPmDhkywYKKs1TOg) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Another Moon](https://open.spotify.com/album/3F0TtzySvr4vmfVDU3l5Ql) | 2:51 | 2025-09-01 |  |
 | [Antares Sleep](https://open.spotify.com/track/0XQE8wnzDGvxrDgpQNkfDF) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [Sleep in the Future](https://open.spotify.com/album/6ooQ7fbSOvowpT3d5k6Fzb) | 1:33 | 2021-12-21 | 2022-11-26 |
 | [Anthazit Plastics](https://open.spotify.com/track/0LEzTG4JEiFgNg6XbgGQh2) | [Starshine Strum](https://open.spotify.com/artist/3dmDs1HKPCEKt9jQzfRSLs) | [Anthazit Plastics](https://open.spotify.com/album/1qhzVs7AkR7CihkNpUtPFW) | 3:31 | 2024-04-04 | 2025-01-30 |
 | [Anthropic Principle](https://open.spotify.com/track/4014WgGUfia7WxPtQCj2Pl) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Anthropic Principle](https://open.spotify.com/album/4cDrolA8ya5uxDIxdSI2Bv) | 2:45 | 2025-04-09 |  |

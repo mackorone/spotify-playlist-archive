@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-107 songs - 4 hr 7 min
+108 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Message from NMIXX \- JIWOO](https://open.spotify.com/track/6sSsKdsq3WqLThVkT33f9K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 | 2023-07-03 |  |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/1fpcnt5kVcYIyYZRHCm13K) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/7mW3oragxrXeGUWT2Chid3) | 0:13 | 2022-11-24 | 2023-08-06 |
 | [Message from NMIXX \- LILY & KYUJIN](https://open.spotify.com/track/75VQXvyQQdZ5GsxpqB9CVv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Special Message : NMIXX is coming!](https://open.spotify.com/album/5s15PlkjUUIUFt0n3KMHIC) | 0:13 | 2023-07-03 |  |
+| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-01 |  |
 | [Moving On](https://open.spotify.com/track/0SnYOVoJPIH7BxSc0KumBI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:30 | 2024-10-08 |  |
 | [My Gosh](https://open.spotify.com/track/34UmtfADjmo12Jek6LpzQe) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:36 | 2023-03-24 | 2024-04-19 |
 | [My Gosh](https://open.spotify.com/track/77I6NcjXgtKX2s2qdDITYJ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx) | 3:36 | 2023-03-24 | 2023-06-08 |

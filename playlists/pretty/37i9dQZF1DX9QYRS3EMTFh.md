@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,602 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,674 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 48 | [PA AY SI MWEN](https://open.spotify.com/track/1hwoJE8mWywOkUufNSJVDy) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV), [Beat2Rue](https://open.spotify.com/artist/6lnlZl6M3uRCKjdQ5teYBZ) | [PA AY SI MWEN](https://open.spotify.com/album/0C47SPCS526EzvzP6ns43C) | 2:19 |
 | 49 | [Ukulélé](https://open.spotify.com/track/0gC4KsUL796iGvzf55pNa5) | [Keros\-N](https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc) | [Ukulélé](https://open.spotify.com/album/2RY4IXVUXYkzxSO2cb8jzA) | 2:30 |
 
-Snapshot ID: `AAAAAIoV28SCldqYiDVWd7LY9UBevjO/`
+Snapshot ID: `AAAAAJlci/wk8E2jseBp30b3eXSryLJP`

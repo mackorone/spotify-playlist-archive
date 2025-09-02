@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Enam\u00f3rate de M\u00ed",
+      "url": "https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS"
+    },
+    {
+      "album": {
         "name": "Los Prohibidos en Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-02",
       "duration_ms": 155481,
       "name": "Vuela T\u00fa",
       "url": "https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY"

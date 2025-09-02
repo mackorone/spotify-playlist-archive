@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul.  Cover- Kaushiki Chakraborty",
-  "num_followers": 80418,
+  "num_followers": 80424,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAArLgLzZu1wNc8BYdgv5zI7ZMkoT",
+  "snapshot_id": "AAAAAF5AIORnSe2LQt3ijnGAwD98vmLk",
   "tracks": [
     {
       "added_at": "2025-08-28 08:29:47",
@@ -61,24 +61,28 @@
       "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
     },
     {
-      "added_at": "2025-08-28 08:29:47",
+      "added_at": "2025-09-01 10:09:06",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+        "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+        "url": "https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa"
       },
       "artists": [
         {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
         }
       ],
-      "duration_ms": 331000,
-      "name": "Baithi Hun",
-      "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
+      "duration_ms": 395913,
+      "name": "Shringaar (From \u201cBhoomi 2025\u201d)",
+      "url": "https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa"
     },
     {
       "added_at": "2025-08-28 08:29:47",
@@ -851,6 +855,26 @@
     {
       "added_at": "2025-08-28 08:29:47",
       "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "Baithi Hun",
+      "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
+    },
+    {
+      "added_at": "2025-08-28 08:29:47",
+      "album": {
         "name": "Chal Chaliye",
         "url": "https://open.spotify.com/album/0lkJiX0MNdmSw4aSK0tvgB"
       },
@@ -1067,22 +1091,6 @@
       "duration_ms": 368026,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
-    },
-    {
-      "added_at": "2025-08-28 08:29:47",
-      "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     }
   ],
   "unique_name": "Fusion Finds",

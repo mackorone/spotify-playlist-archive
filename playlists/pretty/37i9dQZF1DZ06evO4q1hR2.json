@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 70888,
+  "num_followers": 70928,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLI/AAAAAADmKg/qbERGDu3UUEY/TsEk",
+  "snapshot_id": "aLOQgAAAAAAplhX3liV63KSyXISgr5np",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 145773,
-      "name": "El Amor No Tiene Edad",
-      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
+      "duration_ms": 205000,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 145773,
+      "name": "El Amor No Tiene Edad",
+      "url": "https://open.spotify.com/track/1YLEL2AzuL2yIxadFhgFw8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -360,25 +376,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "La Prieta Linda",
-      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "La Prieta Linda",
+      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esto Es Lo Nuestro - 20 Exitos",
         "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 193666,
       "name": "Profundamente",
       "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 319198,
+  "num_followers": 319217,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "baby's out of luck again",
         "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 149443,
       "name": "baby\u2019s out of luck again",
       "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Little While",
-      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Little While",
+      "url": "https://open.spotify.com/track/73B21p60Izq74AFwGNhzR7"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Cabin Fever Dreams",
-        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
-      },
-      "artists": [
-        {
-          "name": "RALPH TV",
-          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
-        },
-        {
-          "name": "Nice Guys",
-          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
-        }
-      ],
-      "duration_ms": 206134,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "How Can I Love? (When I Can't Get Away from You)",
         "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Cabin Fever Dreams",
+        "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
+      },
+      "artists": [
+        {
+          "name": "RALPH TV",
+          "url": "https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy"
+        },
+        {
+          "name": "Nice Guys",
+          "url": "https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN"
+        }
+      ],
+      "duration_ms": 206134,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
     },
     {
       "added_at": "2025-05-01 21:52:32",

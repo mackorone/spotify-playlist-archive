@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 539445,
+  "num_followers": 539473,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Summer Breeze - The Best Of",
         "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 314893,
       "name": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
       "url": "https://open.spotify.com/track/23chygECXqQIz7l80H87lS"
-    },
-    {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -1025,20 +1025,20 @@
       "url": "https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
+      "added_at": "2021-07-04 17:34:32",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
+        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
         }
       ],
-      "duration_ms": 231293,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
+      "duration_ms": 217320,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",
