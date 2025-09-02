@@ -1,4 +1,4 @@
-## Playlists \(8762\)
+## Playlists \(8763\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8588,6 +8588,7 @@
 - [ฮิตติดกระแส](/playlists/pretty/37i9dQZF1DWW1S2VXZ4bIj.md)
 - [ฮิปฮอป R.E.A.L.](/playlists/pretty/37i9dQZF1DX7ccGNvU862z.md)
 - [’80s Jam Session](/playlists/pretty/37i9dQZF1DX0H8hDpv38Ju.md)
+- [✮ ⋆ ˚｡𖦹 ⋆｡°✩](/playlists/pretty/1UDtZQ2RZtGRjPy7PCzuzA.md)
 - [❤️ORB💚](/playlists/pretty/2bU5VZJ0Ozt7lyi2Dbd5PW.md)
 - [【OSHI NO KO】](/playlists/pretty/37i9dQZF1DX3m0MM377d1k.md)
 - [すとぷり \-Strawberry Prince\-](/playlists/pretty/37i9dQZF1DXaMXPT7ghdqO.md)
