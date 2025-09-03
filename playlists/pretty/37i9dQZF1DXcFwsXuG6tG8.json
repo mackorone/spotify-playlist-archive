@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 20291,
+  "num_followers": 20303,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-21 18:59:24",
       "album": {
-        "name": "Green Love",
-        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Green Love",
-      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
-    },
-    {
-      "added_at": "2025-08-21 18:59:24",
-      "album": {
         "name": "Alguien M\u00e1s",
         "url": "https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 132677,
       "name": "Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV"
+    },
+    {
+      "added_at": "2025-08-21 18:59:24",
+      "album": {
+        "name": "Green Love",
+        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Green Love",
+      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
     },
     {
       "added_at": "2025-08-21 18:59:24",

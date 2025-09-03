@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 ### [EQUAL GSA ](https://open.spotify.com/playlist/37i9dQZF1DWVA5o3WHL2eG)
 
-> Women at full volume\. Cover: Blush Davis
+> Women at full volume\. Cover: Eli Preiss
 
 [Spotify](https://open.spotify.com/user/spotify) - 40,168 likes - 50 songs - 2 hr 25 min
 
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Königin von Deutschland](https://open.spotify.com/track/1LV8CBywlpM080hUT3GlsJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Königin von Deutschland](https://open.spotify.com/album/2hR4SYvRt87E2HAggT9ZQY) | 2:21 |
 | 15 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 16 | [Ich nehm die Sonne mit](https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich nehm die Sonne mit](https://open.spotify.com/album/4HBIImyViKdxKae8JzvlUQ) | 2:50 |
-| 17 | [Kopf gegen die Wand](https://open.spotify.com/track/11FgjKX6bMIKDg3lN5la0f) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Kopf gegen die Wand](https://open.spotify.com/album/2XocjA7TpKr6P2pLzU6Tz3) | 3:07 |
-| 18 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
+| 17 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
+| 18 | [Kopf gegen die Wand](https://open.spotify.com/track/11FgjKX6bMIKDg3lN5la0f) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Kopf gegen die Wand](https://open.spotify.com/album/2XocjA7TpKr6P2pLzU6Tz3) | 3:07 |
 | 19 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
 | 20 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 |
 | 21 | [Zeig mir](https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 3:25 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autopilot](https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW) | 2:27 |
 | 27 | [mkgee](https://open.spotify.com/track/4CEfrOIldUMFo9RblPpM95) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [mkgee](https://open.spotify.com/album/7DlnVM0rPlJTCA6elSbKgY) | 2:54 |
 | 28 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
-| 29 | [So nah](https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [So nah](https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg) | 3:26 |
-| 30 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
-| 31 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
+| 29 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
+| 30 | [So nah](https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [So nah](https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg) | 3:26 |
+| 31 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
 | 32 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
 | 33 | [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 |
 | 34 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Shapeshifter](https://open.spotify.com/track/66IeUXk8TlxHv9eNUFGCto) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Shapeshifter](https://open.spotify.com/album/0NALcJWGBpm4FrBVy9E5Dr) | 4:19 |
 | 50 | [Hunger](https://open.spotify.com/track/5E46RM3T8Lm9mQGC5Rf4bh) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc) | [A<R>MOR](https://open.spotify.com/album/6ML2pJsg2XXruJnDxdWgPx) | 2:53 |
 
-Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`
+Snapshot ID: `AAAAAM3dqMRkynxW3V9/mkSCu3YBxz0X`

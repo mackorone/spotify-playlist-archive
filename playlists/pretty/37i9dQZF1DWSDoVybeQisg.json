@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1230696,
+  "num_followers": 1230827,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 275840,
+      "name": "We Love You - Stereo Version",
+      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "The Best Of Ten Years After",
         "url": "https://open.spotify.com/album/23K9VQeaaFKzmyEg2Z4V0u"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 223960,
       "name": "I'd Love To Change The World",
       "url": "https://open.spotify.com/track/3s9ri7hKv6ijDn2k89veEU"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Their Satanic Majesties Request",
-        "url": "https://open.spotify.com/album/44jYRMyw4XlsW7D6cxGdzk"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Citadel",
-      "url": "https://open.spotify.com/track/1LP4ukbT3JGasxcDpesVtb"
     }
   ],
   "unique_name": "Psychedelic Rock",

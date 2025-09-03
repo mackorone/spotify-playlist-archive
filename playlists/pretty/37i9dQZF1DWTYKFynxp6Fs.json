@@ -1,13 +1,41 @@
 {
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 518961,
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Thalavara",
+  "num_followers": 519459,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJyrxxd1woKn0cfvvysDyaqr4XTq",
+  "snapshot_id": "AAAAAKPOr7XzSS4ilwiDwbIBOA2o6DGw",
   "tracks": [
+    {
+      "added_at": "2025-08-25 07:38:47",
+      "album": {
+        "name": "Ilakozhiye (From \"Thalavara\")",
+        "url": "https://open.spotify.com/album/2cPIpJZhyV7r6nKsqrpavs"
+      },
+      "artists": [
+        {
+          "name": "electronic kili",
+          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
+        },
+        {
+          "name": "Rakhooo",
+          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
+        },
+        {
+          "name": "iSai",
+          "url": "https://open.spotify.com/artist/43j2RldsisSwS11vMFLNOX"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Ilakozhiye - From \"Thalavara\"",
+      "url": "https://open.spotify.com/track/0bWSEjbLs9Byx02grLa6AX"
+    },
     {
       "added_at": "2025-05-07 08:53:45",
       "album": {
@@ -81,34 +109,6 @@
       "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
     },
     {
-      "added_at": "2025-08-25 07:38:47",
-      "album": {
-        "name": "Ilakozhiye (From \"Thalavara\")",
-        "url": "https://open.spotify.com/album/2cPIpJZhyV7r6nKsqrpavs"
-      },
-      "artists": [
-        {
-          "name": "electronic kili",
-          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
-        },
-        {
-          "name": "Rakhooo",
-          "url": "https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd"
-        },
-        {
-          "name": "iSai",
-          "url": "https://open.spotify.com/artist/43j2RldsisSwS11vMFLNOX"
-        },
-        {
-          "name": "Muthu",
-          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Ilakozhiye - From \"Thalavara\"",
-      "url": "https://open.spotify.com/track/0bWSEjbLs9Byx02grLa6AX"
-    },
-    {
       "added_at": "2025-08-25 07:32:15",
       "album": {
         "name": "GATE",
@@ -131,6 +131,22 @@
       "duration_ms": 177307,
       "name": "\u0d2e\u0d3f\u0d28\u0d4d\u0d28\u0d3f \u0d2e\u0d31\u0d1e\u0d4d\u0d1e\u0d41",
       "url": "https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs"
+    },
+    {
+      "added_at": "2025-09-02 05:50:49",
+      "album": {
+        "name": "illaathath",
+        "url": "https://open.spotify.com/album/3TXnjQbQO1aoFgCJaUsdZy"
+      },
+      "artists": [
+        {
+          "name": "Haniya Nafisa",
+          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "illaathath",
+      "url": "https://open.spotify.com/track/6JwLV8XjJg2tXawz8owSwn"
     },
     {
       "added_at": "2025-08-25 07:28:09",
@@ -573,26 +589,6 @@
       "url": "https://open.spotify.com/track/6vXFhqhAIXHGamBvqe2Ilc"
     },
     {
-      "added_at": "2025-06-10 19:29:57",
-      "album": {
-        "name": "Chotta Mumbai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1SJBHJTghlGBWSP5D4fA"
-      },
-      "artists": [
-        {
-          "name": "Rahul Raj",
-          "url": "https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 251541,
-      "name": "Thala - Male Version",
-      "url": "https://open.spotify.com/track/14TFPisWG8mgHFOkP6V0aJ"
-    },
-    {
       "added_at": "2025-02-24 05:11:09",
       "album": {
         "name": "Heart Attack (From \"Painkili\")",
@@ -831,30 +827,6 @@
       "duration_ms": 194000,
       "name": "SHUNDA MANDI",
       "url": "https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2"
-    },
-    {
-      "added_at": "2024-05-13 09:06:18",
-      "album": {
-        "name": "Aavesham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Pranavam Sasi",
-          "url": "https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Armadham",
-      "url": "https://open.spotify.com/track/18afrwnlrByAjhi3Ve0Ehn"
     },
     {
       "added_at": "2024-07-24 08:11:39",

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-414 songs - 18 hr 57 min
+415 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 | 2025-08-14 |  |
 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 | 2022-08-25 | 2023-08-07 |
 | [HAALAND](https://open.spotify.com/track/0LOCSZsi6mwN14aWHi8VCI) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X) | [HAALAND](https://open.spotify.com/album/6oBrrSkRLcvyVWe9ZwIvMl) | 1:44 | 2022-08-31 | 2022-10-14 |
+| [Haill](https://open.spotify.com/track/7LoN2tKObVtaCwYu7pk4BX) | [Maria Haukaas Mittet](https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B) | [Haill](https://open.spotify.com/album/5TaAEY29cHfSagrvmgBLnY) | 3:44 | 2025-08-28 |  |
 | [Hald deg fast](https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Hald deg fast](https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh) | 3:21 | 2023-03-03 | 2025-07-13 |
 | [Har du lyst har du lov](https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Har du lyst har du lov](https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs) | 2:27 | 2023-10-05 | 2024-10-18 |
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 | 2025-03-28 |
@@ -352,7 +353,7 @@
 | [SKÅL FOR OSS](https://open.spotify.com/track/46Z4qHlwxf1u7ReYjf7xHx) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [SKÅL FOR OSS](https://open.spotify.com/album/5zOWf6BPzBpHhOBrMKdit0) | 3:19 | 2025-02-27 | 2025-03-28 |
 | [Snakkes](https://open.spotify.com/track/3gApFQhR9CEqjkCFG1WlKM) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Snakkes](https://open.spotify.com/album/3tf842G9r8jBlGl6ZVdbDp) | 2:43 | 2021-12-16 | 2022-07-14 |
 | [Sofa fra IKEA](https://open.spotify.com/track/02YrJmoMxJEzpede9KDnu6) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Sofa fra IKEA](https://open.spotify.com/album/7HSWhHfsWZf8EbFrq3fGtG) | 2:34 | 2021-12-16 | 2022-07-24 |
-| [Sol, snaps & skandaler](https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E) | [SEDET](https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I) | [Sol, snaps & skandaler](https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI) | 3:04 | 2025-06-25 |  |
+| [Sol, snaps & skandaler](https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E) | [SEDET](https://open.spotify.com/artist/0eoCAkhtLKhh09q4DFoM4I) | [Sol, snaps & skandaler](https://open.spotify.com/album/6SEWMGvhntZlxRa4r4g2XI) | 3:04 | 2025-06-25 | 2025-09-03 |
 | [Sommar i hardangerfjord](https://open.spotify.com/track/58fywUsgOwg80CV71OrJrO) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Sommar i hardangerfjord](https://open.spotify.com/album/1xaOuqjb9QvqhM3DpOidxD) | 3:22 | 2022-01-27 | 2022-04-21 |
 | [Sova när vi dör](https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Sova när vi dör](https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo) | 3:25 | 2021-12-16 | 2022-10-16 |
 | [Splitter Pine](https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c) | [Dumdum Boys](https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv) | [Splitter Pine \(Remastered 2015\)](https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee) | 4:27 | 2022-03-24 | 2024-02-09 |

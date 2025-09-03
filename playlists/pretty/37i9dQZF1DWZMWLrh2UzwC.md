@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sabrina Carpenter, Masdo, Insomniacks, IVE, yung kai, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,877 likes - 129 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,876 likes - 129 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 104 | [Hello How's Your Day](https://open.spotify.com/track/6JK9f6TTebCS4CHRrudLbB) | [Bell 傅熙雅](https://open.spotify.com/artist/1LsBLrIZjFwXgXmhUvroDS) | [Hello How's Your Day](https://open.spotify.com/album/1lBD7AnTqPC7T57HY7bv2e) | 2:07 |
 | 105 | [Friendzone](https://open.spotify.com/track/6RJgbZA20ojw361xnfk6wO) | [Justin吴宗翰](https://open.spotify.com/artist/0pFM2LKw2VX8KrZBACOgZj) | [Friendzone](https://open.spotify.com/album/27Hn5IqomhCzXC1vj8Csxq) | 3:29 |
 | 106 | [The Dwelling](https://open.spotify.com/track/2FhxLJF7hQnnVv6jIJg5bB) | [Big Ugly](https://open.spotify.com/artist/5pquza6pUPN11gZEFEOMmU) | [Crowdpleasers](https://open.spotify.com/album/1bFxnDOJpezKgUzWFLJDfP) | 4:03 |
-| 107 | [不可能转变成奇迹](https://open.spotify.com/track/1ZRpHG6K1hRkmSohQRfzEn) | [Blessed Descendants](https://open.spotify.com/artist/38HU0PfI40KqIf1TCPkaJh) | [不可能转变成奇迹](https://open.spotify.com/album/5tWbayZgywJFbqNU4kVij5) | 5:00 |
+| 107 | [不可能轉變成奇蹟](https://open.spotify.com/track/1ZRpHG6K1hRkmSohQRfzEn) | [Blessed Descendants](https://open.spotify.com/artist/38HU0PfI40KqIf1TCPkaJh) | [不可能转变成奇迹](https://open.spotify.com/album/5tWbayZgywJFbqNU4kVij5) | 5:00 |
 | 108 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
 | 109 | [Sick](https://open.spotify.com/track/5Etg9hhgdj0mJagYrgDBrk) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Sick](https://open.spotify.com/album/2ZeYfeZosi3muztxoiu0DC) | 3:59 |
 | 110 | [Love In Reverse](https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Love In Reverse](https://open.spotify.com/album/6iF9R5VvH6RHDLrFDU1Ll4) | 3:19 |

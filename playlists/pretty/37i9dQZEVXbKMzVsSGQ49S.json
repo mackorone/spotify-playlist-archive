@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43232,
+  "num_followers": 43231,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MEkMIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MEpdoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -41,7 +41,171 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Miklu betri einn",
+        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 144775,
+      "name": "Miklu betri einn",
+      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 138430,
+      "name": "Elli Egils",
+      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Vopn",
+      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -81,39 +245,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 138430,
-      "name": "Elli Egils",
-      "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -124,12 +256,172 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Best gleymdu leyndarm\u00e1lin",
+        "url": "https://open.spotify.com/album/3bV2pLFya34JhQoDYUHir7"
+      },
+      "artists": [
+        {
+          "name": "Hipsumhaps",
+          "url": "https://open.spotify.com/artist/0Hc3yVWeBOkwf4jCW79BLh"
+        }
+      ],
+      "duration_ms": 253472,
+      "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
+      "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 88560,
+      "name": "\u0412\u0441\u0451 \u043d\u0430\u0448\u0435",
+      "url": "https://open.spotify.com/track/6UHWbIzgwrW2VRYBJrNsor"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "\u0411\u0435\u0437\u0443\u043c\u043d\u044b\u0439 \u0440\u0438\u0442\u043c",
+      "url": "https://open.spotify.com/track/586MwYPlcFNFZnGXx5TszX"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "\u041f\u0440\u043e\u0448\u043b\u0430\u044f \u043d\u043e\u0447\u044c",
+      "url": "https://open.spotify.com/track/4jHp0SasmCAM0qFl5dVhyy"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 94640,
+      "name": "\u0421\u0432\u0435\u0442 \u0432 \u043f\u0443\u0442\u0438",
+      "url": "https://open.spotify.com/track/46sP2ma70UQ1qh5XPwODy5"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "\u0421\u0432\u0435\u0442 \u0432\u043e \u0442\u044c\u043c\u0435",
+      "url": "https://open.spotify.com/track/3jPPdMkAEkVbKHkpSXEetV"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 97920,
+      "name": "\u0412\u0445\u043e\u0434-\u0432\u044b\u0445\u043e\u0434",
+      "url": "https://open.spotify.com/track/33tZzSK7nTjMSpFPRqmYnd"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 106920,
+      "name": "\u0417\u0432\u0435\u0437\u0434\u0430 \u0443\u043b\u0438\u0446",
+      "url": "https://open.spotify.com/track/2UqzTUF9FaqxYevORryZ16"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 109480,
+      "name": "\u0415\u0451 \u0442\u0435\u043d\u044c",
+      "url": "https://open.spotify.com/track/1wHfMNpDy075OKCaaO7A3S"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -138,50 +430,94 @@
         {
           "name": "Birnir",
           "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        },
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
         }
       ],
-      "duration_ms": 200106,
-      "name": "Vopn",
-      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+      "duration_ms": 292133,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
       },
       "artists": [
         {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
         }
       ],
-      "duration_ms": 176059,
-      "name": "How It\u2019s Done",
-      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+      "duration_ms": 80640,
+      "name": "\u0418\u0433\u0440\u0430 \u0431\u0435\u0437 \u043f\u0440\u0430\u0432\u0438\u043b",
+      "url": "https://open.spotify.com/track/0nIztPsqewYjThdtQDZuRg"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 100160,
+      "name": "\u041f\u043e\u0434\u043f\u043e\u043b\u044c\u043d\u044b\u0439 \u043f\u0443\u043b\u044c\u0441",
+      "url": "https://open.spotify.com/track/3XwwK5EODwn70Ppig4rXnn"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 102120,
+      "name": "\u041f\u043e \u043f\u0440\u0430\u0432\u0434\u0435",
+      "url": "https://open.spotify.com/track/7tuUFTyGqGCmEuB66qI9fS"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "\u041f\u043b\u0430\u043d Z",
+      "url": "https://open.spotify.com/track/3gxCnNafOVid3BXi7Njxji"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "\u041c\u043e\u0451 dziedzictwo",
+      "url": "https://open.spotify.com/track/5DI96Z9VNSSlUjU2Wg98AE"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -192,12 +528,188 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 76400,
+      "name": "\u0418\u0433\u0440\u0430 \u043d\u0430 \u043c\u0438\u043b\u043b\u0438\u043e\u043d",
+      "url": "https://open.spotify.com/track/7vUgX3V6iYf0bq3CbWEBKY"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 79320,
+      "name": "\u0418\u0441\u043a\u0440\u044b \u0432 \u043d\u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/7x7fZidck0N7vA0mAaNVui"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "France3c0",
+        "url": "https://open.spotify.com/album/7tflPKuDng3D2SFnT2PfI2"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 99760,
+      "name": "\u041a\u0440\u043e\u0432\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0439",
+      "url": "https://open.spotify.com/track/1MKrCGXW8lxPfgwZoImCuG"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "G\u00f3\u00f0ur Dagur",
+        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "P\u00e1ll \u00d3skar",
+          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+        }
+      ],
+      "duration_ms": 144165,
+      "name": "G\u00f3\u00f0ur Dagur",
+      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Huganum af \u00fe\u00e9r",
+        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 135463,
+      "name": "Huganum af \u00fe\u00e9r",
+      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "Lj\u00f3sin Kvikna",
+        "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
+        },
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Lj\u00f3sin Kvikna",
+      "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -237,251 +749,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "LXS",
-      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Best gleymdu leyndarm\u00e1lin",
-        "url": "https://open.spotify.com/album/3bV2pLFya34JhQoDYUHir7"
-      },
-      "artists": [
-        {
-          "name": "Hipsumhaps",
-          "url": "https://open.spotify.com/artist/0Hc3yVWeBOkwf4jCW79BLh"
-        }
-      ],
-      "duration_ms": 253472,
-      "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
-      "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 250268,
-      "name": "What It Sounds Like",
-      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "G\u00f3\u00f0ur Dagur",
-        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
-      },
-      "artists": [
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "P\u00e1ll \u00d3skar",
-          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
-        }
-      ],
-      "duration_ms": 144165,
-      "name": "G\u00f3\u00f0ur Dagur",
-      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -497,7 +765,23 @@
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -524,432 +808,12 @@
           "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 182016,
-      "name": "Takedown",
-      "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
+      "duration_ms": 176059,
+      "name": "How It\u2019s Done",
+      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Lj\u00f3sin Kvikna",
-        "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
-      },
-      "artists": [
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Lj\u00f3sin Kvikna",
-      "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Huganum af \u00fe\u00e9r",
-        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 135463,
-      "name": "Huganum af \u00fe\u00e9r",
-      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "R\u00d3A",
-        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
-      },
-      "artists": [
-        {
-          "name": "V\u00c6B",
-          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "R\u00d3A",
-      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "\u00dearft a\u00f0 vita",
-        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "\u00dearft a\u00f0 vita",
-      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Bleikur Range Rover",
-        "url": "https://open.spotify.com/album/6gg4TxENqxuKwkVSEhrOiP"
-      },
-      "artists": [
-        {
-          "name": "aronkristinn",
-          "url": "https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 187939,
-      "name": "Bleikur Range Rover",
-      "url": "https://open.spotify.com/track/0i4AOhWJqkedl62X2uxq4k"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "International Superstars",
-        "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
-      },
-      "artists": [
-        {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
-        },
-        {
-          "name": "ISSI",
-          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
-        }
-      ],
-      "duration_ms": 183937,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Gr\u00e6ni Pakkinn",
-        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
-      },
-      "artists": [
-        {
-          "name": "Saint Pete",
-          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
-        },
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 323813,
-      "name": "Tala minn sk\u00edt",
-      "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "Rumi",
-          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
-        },
-        {
-          "name": "Jinu",
-          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 187963,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "ST\u00c9TTIN",
-        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
-      },
-      "artists": [
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        },
-        {
-          "name": "Kr\u00f3li",
-          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "10 \u00de\u00daSUND",
-      "url": "https://open.spotify.com/track/64QhlrzSmL75MnvEvWzGs6"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "D\u00fdnam\u00edk",
-        "url": "https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC"
-      },
-      "artists": [
-        {
-          "name": "HelgiT",
-          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
-        }
-      ],
-      "duration_ms": 155785,
-      "name": "Eg\u00f3",
-      "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 197817,
-      "name": "My Man on Willpower",
-      "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
-    },
-    {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
         "name": "Hvar ertu n\u00fa?",
         "url": "https://open.spotify.com/album/3LZTeLY6rVURrPwHWoTzg2"
@@ -969,20 +833,92 @@
       "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
     },
     {
-      "added_at": "2025-09-01 13:42:29",
+      "added_at": "2025-09-02 13:39:41",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 227093,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "D\u00fdnam\u00edk",
+        "url": "https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC"
+      },
+      "artists": [
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        }
+      ],
+      "duration_ms": 155785,
+      "name": "Eg\u00f3",
+      "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2025-09-02 13:39:41",
+      "album": {
+        "name": "\u00dearft a\u00f0 vita",
+        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "\u00dearft a\u00f0 vita",
+      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
     }
   ],
   "unique_name": "Top 50 - Iceland",

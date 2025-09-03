@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 
 > Cuco's crafted a playlist for..\. the playlistener\. Get it? <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,290 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,311 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4Xm23Bzc6s.md) - [plain]
 | 3 | [What's His Name](https://open.spotify.com/track/5dImMTUYHlfHPyfPckpZTZ) | [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [What's His Name](https://open.spotify.com/album/06FaPKFLTJCQuIFyZvII2R) | 3:03 |
 | 4 | [Baby My Love](https://open.spotify.com/track/2DdTrnTUuROMdNyJOOx3aw) | [Fil Callendar](https://open.spotify.com/artist/149K8ZTLYta3Uk2Llqirn5) | [Roots Rock Reggae \(Expanded Version\)](https://open.spotify.com/album/0bcQ7mE3SbTw4ccYmO23Jy) | 3:42 |
 | 5 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
-| 6 | [Win Or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 |
+| 6 | [Win or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 |
 | 7 | [Memories of War](https://open.spotify.com/track/26Hkr3RxTyqAgqLOCd8wW4) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [Adrian Younge Presents: Something About April II](https://open.spotify.com/album/5UUTi6FExQQdkoEt61Cl2T) | 2:43 |
 | 8 | [Wait for Me](https://open.spotify.com/track/4V13mtFLyFXXasg2RKHuJJ) | [The Brothers Of Soul](https://open.spotify.com/artist/7EOBpvnonNT0gPAPU1hjYF) | [I Guess That Don't Make Me a Loser](https://open.spotify.com/album/5SDAtEZmXo8uRRiGAqCZtr) | 3:04 |
 | 9 | [Tangled Up in You](https://open.spotify.com/track/1GdveV7pPk2nHwFDa5LGWv) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7) | 3:39 |

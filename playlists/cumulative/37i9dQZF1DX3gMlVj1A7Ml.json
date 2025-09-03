@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Ascult\u0103 la volum maxim vocile feminine din Rom\u00e2nia \u0219i descoper\u0103 piesele lor alese de editorii no\u0219tri.  Cover: Alina Eremia ",
+  "description": "Ascult\u0103 la volum maxim vocile feminine din Rom\u00e2nia \u00eentr-un playlist realizat al\u0103turi de Alina Eremia ",
   "name": "EQUAL ROM\u00c2NIA",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 146060,
       "name": "123",
       "url": "https://open.spotify.com/track/0pCKsqEg4wmOFCVDCY9fMV"
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/4jPSODAs7BacNiMDiVruJx"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/0FOZ5aKf4AUKl2jT9nJf5j"
+    },
+    {
+      "album": {
         "name": "Arde cerul",
         "url": "https://open.spotify.com/album/3cRgSc1gEzhjTsJv4wyG7T"
       },
@@ -825,6 +843,24 @@
     },
     {
       "album": {
+        "name": "Obscentra",
+        "url": "https://open.spotify.com/album/31GBqB4Sy0ddTU6mizX4l2"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166100,
+      "name": "boy toy",
+      "url": "https://open.spotify.com/track/0a9QpSht1d4RXIIv23mB4Y"
+    },
+    {
+      "album": {
         "name": "Bug a Boo",
         "url": "https://open.spotify.com/album/60NlVLHgcMjcxjyjPLyNMx"
       },
@@ -912,6 +948,24 @@
       "duration_ms": 164210,
       "name": "Buzele tale",
       "url": "https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4"
+    },
+    {
+      "album": {
+        "name": "C'est la vie!",
+        "url": "https://open.spotify.com/album/17P9Uo4IDJ2riNBDV6A48h"
+      },
+      "artists": [
+        {
+          "name": "Thianna",
+          "url": "https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166704,
+      "name": "C'est la vie!",
+      "url": "https://open.spotify.com/track/1refMgTLrsKcnxRAcBaSQs"
     },
     {
       "album": {
@@ -1082,7 +1136,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 157363,
       "name": "Ciao Amore!",
       "url": "https://open.spotify.com/track/3KgJ6MzX3OJgFmsCsYl2rZ"
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 153000,
       "name": "Costa Rica",
       "url": "https://open.spotify.com/track/22wTpV5gXeNBbDHOWPSa6e"
@@ -1444,7 +1498,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 174429,
       "name": "Dame La Mano",
       "url": "https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx"
@@ -1506,7 +1560,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 169317,
       "name": "Dau cu soare",
       "url": "https://open.spotify.com/track/1ioXFsU6X9BA1q1PhPjHV4"
@@ -1698,7 +1752,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 167204,
       "name": "Deja Vu - Facem Cum Vrei Tu",
       "url": "https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV"
@@ -1716,7 +1770,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 171562,
       "name": "Delir\u0103m",
       "url": "https://open.spotify.com/track/7HPLQgaWre8eQr4CUqat1A"
@@ -1742,6 +1796,24 @@
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+    },
+    {
+      "album": {
+        "name": "Desc\u00e2ntec",
+        "url": "https://open.spotify.com/album/4kpzQpysxCQMBeunxUT7ZJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Gaitanovici",
+          "url": "https://open.spotify.com/artist/6LfKqnybWwDgz3cC0nH6Pv"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238139,
+      "name": "Desc\u00e2ntec",
+      "url": "https://open.spotify.com/track/5PBiSve5mkMIlMBwNZiAhp"
     },
     {
       "album": {
@@ -1799,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "DnB Moldovenesc",
+        "url": "https://open.spotify.com/album/4hV4WcDJ3R0sSwhd4s0yWl"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "DnB Moldovenesc",
+      "url": "https://open.spotify.com/track/4H6F43jrTcuWqifUiX9iO9"
+    },
+    {
+      "album": {
         "name": "Doar a ta",
         "url": "https://open.spotify.com/album/6EhfLqCHOrC9DuI1qoMYfg"
       },
@@ -1818,6 +1908,24 @@
       "duration_ms": 139034,
       "name": "Doar a ta",
       "url": "https://open.spotify.com/track/0AfoOztBxPtHPzqxomIE5W"
+    },
+    {
+      "album": {
+        "name": "Doar Noi",
+        "url": "https://open.spotify.com/album/0hRXn2DKYSFuv8FCJIZlXt"
+      },
+      "artists": [
+        {
+          "name": "Annita",
+          "url": "https://open.spotify.com/artist/3IzJAFKd0s0TAacIvfyvCX"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194977,
+      "name": "Doar Noi",
+      "url": "https://open.spotify.com/track/6TOjng8T4sWIPeXrqSL29R"
     },
     {
       "album": {
@@ -1890,7 +1998,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 183460,
       "name": "Doru' ca P\u0103durea",
       "url": "https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2"
@@ -1962,7 +2070,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 137915,
       "name": "Du-m\u0103",
       "url": "https://open.spotify.com/track/36zPpkkyTf8hikJ0R6cC7d"
@@ -2143,6 +2251,24 @@
     },
     {
       "album": {
+        "name": "Era Era",
+        "url": "https://open.spotify.com/album/1buwRQ2gDx09g4xFW4ZxEq"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150882,
+      "name": "Era Era",
+      "url": "https://open.spotify.com/track/6g6GWllSGfq78lyKJ1K4lO"
+    },
+    {
+      "album": {
         "name": "eRAI",
         "url": "https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7"
       },
@@ -2252,7 +2378,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "Fatata",
       "url": "https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah"
@@ -2270,7 +2396,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 166046,
       "name": "Favourite Type",
       "url": "https://open.spotify.com/track/42ItZdypZFPKI5HVZW1rBY"
@@ -2378,7 +2504,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 169099,
       "name": "Flori, Fete \u0219i B\u0103ie\u021bi",
       "url": "https://open.spotify.com/track/00xOfzoq4MYiFm3vWxkk4R"
@@ -2638,7 +2764,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 144444,
       "name": "hot like this",
       "url": "https://open.spotify.com/track/0cbx5o34TNsYW1HM2XtG8l"
@@ -2660,7 +2786,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 123692,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
@@ -2722,6 +2848,24 @@
       "duration_ms": 184159,
       "name": "Iart\u0103-m\u0103",
       "url": "https://open.spotify.com/track/1JqBNY2paANmDYF8gbvZW0"
+    },
+    {
+      "album": {
+        "name": "Iart\u0103-m\u0103 tu",
+        "url": "https://open.spotify.com/album/3BI64v9lDACUfRidxNPynn"
+      },
+      "artists": [
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173469,
+      "name": "Iart\u0103-m\u0103 tu",
+      "url": "https://open.spotify.com/track/0RKB0DezMhni9wvfMyd4P8"
     },
     {
       "album": {
@@ -2842,6 +2986,28 @@
       "duration_ms": 155172,
       "name": "In alta viata",
       "url": "https://open.spotify.com/track/5yyCOIiUaYXJZDITBhKoAK"
+    },
+    {
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7"
     },
     {
       "album": {
@@ -3120,7 +3286,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 167368,
       "name": "labubu",
       "url": "https://open.spotify.com/track/4zkjInntyRkcjc6TGvQhET"
@@ -3320,7 +3486,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 149760,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2Qzvu6KH3kzdvagAG3lzDg"
@@ -3632,7 +3798,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 198605,
       "name": "Miss You More",
       "url": "https://open.spotify.com/track/0w79fqXUs1QEGFBr5kdcrX"
@@ -3676,6 +3842,42 @@
       "duration_ms": 163623,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/1KEPKvUUcD6xzDjRr66zix"
+    },
+    {
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/44sbvoVwioQ78BIE9a0X4i"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Mor de dor",
+      "url": "https://open.spotify.com/track/3YdToSFUV6IBrOAoZM6fQa"
+    },
+    {
+      "album": {
+        "name": "Multe veri",
+        "url": "https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152608,
+      "name": "Multe veri",
+      "url": "https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC"
     },
     {
       "album": {
@@ -3822,7 +4024,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 175263,
       "name": "Ne place",
       "url": "https://open.spotify.com/track/21W5OAB4nk7XTIwhcUbL6L"
@@ -3898,7 +4100,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 168571,
       "name": "NiGHTCLUB",
       "url": "https://open.spotify.com/track/4LJvPrAksN6cX9neiaq3Y4"
@@ -3916,7 +4118,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Nimeni",
       "url": "https://open.spotify.com/track/7vW00drwifTzdfBkBmtFyl"
@@ -4120,7 +4322,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 142666,
       "name": "Nu sunt pentru tine",
       "url": "https://open.spotify.com/track/6avmIaZ2gUxkHDL0ZVOZXP"
@@ -4286,7 +4488,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 173905,
       "name": "Oare auzi \u0219i tu?",
       "url": "https://open.spotify.com/track/3PLHCAzuNxdlqfet8HGax1"
@@ -4308,6 +4510,42 @@
       "duration_ms": 172235,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp"
+    },
+    {
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5iHlY0zMP5t8yfUc9erWmw"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188275,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/0uVaUs3Wd9Qc824zd9R6Mc"
+    },
+    {
+      "album": {
+        "name": "Of, Leli\u021b\u0103 M\u0103rioar\u0103",
+        "url": "https://open.spotify.com/album/6aatBcuCA3aXafVyuhBlvn"
+      },
+      "artists": [
+        {
+          "name": "Simona Delegeanu",
+          "url": "https://open.spotify.com/artist/4ZVxF8q0jv8Nalh4ggvlgF"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242805,
+      "name": "Of, Leli\u021b\u0103 M\u0103rioar\u0103",
+      "url": "https://open.spotify.com/track/4cqvKhRlDybT1oQELhc01Q"
     },
     {
       "album": {
@@ -4456,7 +4694,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 173385,
       "name": "Pata de culoare",
       "url": "https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ"
@@ -4582,7 +4820,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 146646,
       "name": "Ploi de Tequila",
       "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
@@ -4883,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Rug\u0103ciune",
+        "url": "https://open.spotify.com/album/6LnL6tSlcrqJ8uohJktC8w"
+      },
+      "artists": [
+        {
+          "name": "Ukka",
+          "url": "https://open.spotify.com/artist/701tngI3uYerUvscRyAXbQ"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187714,
+      "name": "Rug\u0103ciune",
+      "url": "https://open.spotify.com/track/0Rru0FOIQzO7zmAojcrPb8"
+    },
+    {
+      "album": {
         "name": "Sah mat",
         "url": "https://open.spotify.com/album/6Tsx0rZ8HCdpTh1VrVHncn"
       },
@@ -5068,7 +5324,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 141600,
       "name": "Scris \u00een stele",
       "url": "https://open.spotify.com/track/56CKQUh86vfUceC4yiodIJ"
@@ -5108,6 +5364,24 @@
       "duration_ms": 198916,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1ob8xvG1lgSnUc2IgdgkX7"
+    },
+    {
+      "album": {
+        "name": "Sincer",
+        "url": "https://open.spotify.com/album/04V7WRWhkIE1HZq5vnlRZN"
+      },
+      "artists": [
+        {
+          "name": "ALECSA",
+          "url": "https://open.spotify.com/artist/0Sxd0dl7ArFSCa4Ay0MbuP"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235191,
+      "name": "Sincer",
+      "url": "https://open.spotify.com/track/7MY9mrHBNXObVNd5N4uFAE"
     },
     {
       "album": {
@@ -5198,7 +5472,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 145625,
       "name": "suflet",
       "url": "https://open.spotify.com/track/7fzei2maajx7WnZuMADYVo"
@@ -5466,7 +5740,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 177049,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/6vMNao4AT6D51DPE9EDfik"
@@ -5618,7 +5892,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 142776,
       "name": "Trandafiri",
       "url": "https://open.spotify.com/track/36I8NX3Isr82GZ2C01UTDI"
@@ -5788,7 +6062,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 177931,
       "name": "Una cald\u0103, una rece",
       "url": "https://open.spotify.com/track/0pp0BbE4jQMQdJpfk7SHMM"
@@ -5886,10 +6160,28 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 255550,
       "name": "Vara mea",
       "url": "https://open.spotify.com/track/0O815e6vWJw7dhrzZMMHea"
+    },
+    {
+      "album": {
+        "name": "Vara z\u00e2mbea",
+        "url": "https://open.spotify.com/album/0wTVVW8oi70k6CUswWGQ18"
+      },
+      "artists": [
+        {
+          "name": "Alexia",
+          "url": "https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Vara z\u00e2mbea",
+      "url": "https://open.spotify.com/track/4P7c0S6aajrL7m9bkqGC1n"
     },
     {
       "album": {
@@ -5996,6 +6288,24 @@
       "duration_ms": 206058,
       "name": "Via\u021ba mea",
       "url": "https://open.spotify.com/track/2yzPBoehtMicgayG95BICZ"
+    },
+    {
+      "album": {
+        "name": "Vina \u0102luia",
+        "url": "https://open.spotify.com/album/3CijRt1Ije74KR2Ws86XkI"
+      },
+      "artists": [
+        {
+          "name": "Delia Rus",
+          "url": "https://open.spotify.com/artist/1OiMIfSJKBVsrZEgXFoGyS"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163144,
+      "name": "Vina \u0102luia",
+      "url": "https://open.spotify.com/track/79j6CffmMRKv39bBk3xjoD"
     },
     {
       "album": {
@@ -6108,7 +6418,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 177165,
       "name": "Ya Halmi",
       "url": "https://open.spotify.com/track/0rwaG9tH0L5KSuV6hlAYIr"

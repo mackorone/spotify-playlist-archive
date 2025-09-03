@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,560 likes - 87 songs - 5 hr 42 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,561 likes - 88 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 85 | [Girls \- Acid Version](https://open.spotify.com/track/1kxXGSK3hMDIXIm15IilG9) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Sad Girl \(Remixes\)](https://open.spotify.com/album/47hbJg1eOZejMNF5jcJqsP) | 5:26 |
 | 86 | [RESPEK \- CESCO REMIX](https://open.spotify.com/track/18u5yyIXATQr7QPFXlX1ds) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Ezri](https://open.spotify.com/artist/4l5nRI74C0dHyddoaTKNwJ), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [3RMX82](https://open.spotify.com/album/4VbdNC815EE3P5Pa40La12) | 3:08 |
 | 87 | [NNeed U](https://open.spotify.com/track/6V7etlptf86aDDwjOKFEPG) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2) | [NNeed U](https://open.spotify.com/album/1JOFUxYXfdlvz3GfL7LFUD) | 4:44 |
+| 88 | [Eyes](https://open.spotify.com/track/66mge0rOG9i1gUCnHOHKN5) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Eyes](https://open.spotify.com/album/2ovFFMm3HNWjLwfusZOCrC) | 3:16 |
 
-Snapshot ID: `AAAQhHw9VYlvLyIysjApnfCL8AiIYtJY`
+Snapshot ID: `AAAQhQeu/hYbRxQUHTX1y32QhmnIySnz`

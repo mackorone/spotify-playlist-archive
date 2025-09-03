@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with NGHTMRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,043 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,069 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 11 | [PUSHINN](https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [PUSHINN](https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v) | 2:19 |
 | 12 | [Air \(feat\. Julia Michaels\) \- Heyz Remix](https://open.spotify.com/track/2EfKN4J58wJiRQZhNz5fHm) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(Remixes\)](https://open.spotify.com/album/2dvgvF79C1p9Lz8uJUAsCr) | 3:15 |
 | 13 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 |
-| 14 | [Power](https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Careless Castle](https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC) | [Nemesis](https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt) | 2:45 |
-| 15 | [4321](https://open.spotify.com/track/473zITg7BGjBMja6Wasa0U) | [DRINKURWATER](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [4321](https://open.spotify.com/album/3oJHQxn8FOezVTZUukCKFx) | 2:14 |
-| 16 | [Downward](https://open.spotify.com/track/43XojkisLpzfgCOlswzavC) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [Downward](https://open.spotify.com/album/5Ab6nQ9lH6UsBy3IenRuly) | 2:42 |
-| 17 | [Touch It](https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Touch It](https://open.spotify.com/album/3dqAiybrIOkmoUdsMfQ3LW) | 2:40 |
-| 18 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
+| 14 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 |
+| 15 | [Power](https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Careless Castle](https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC) | [Nemesis](https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt) | 2:45 |
+| 16 | [4321](https://open.spotify.com/track/473zITg7BGjBMja6Wasa0U) | [DRINKURWATER](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [4321](https://open.spotify.com/album/3oJHQxn8FOezVTZUukCKFx) | 2:14 |
+| 17 | [Downward](https://open.spotify.com/track/43XojkisLpzfgCOlswzavC) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [Downward](https://open.spotify.com/album/5Ab6nQ9lH6UsBy3IenRuly) | 2:42 |
+| 18 | [Touch It](https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Touch It](https://open.spotify.com/album/3dqAiybrIOkmoUdsMfQ3LW) | 2:40 |
 | 19 | [Five Hours \- CELO & MACHAKI Remix](https://open.spotify.com/track/4GAxEDlUn8bGGLJdV0HLgS) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [Five Hours \(CELO & MACHAKI Remix\)](https://open.spotify.com/album/3RSQ2S5LcTWMtmXyJAO4Uq) | 2:09 |
 | 20 | [Wackman](https://open.spotify.com/track/3Jd41F0MSozEpktfqwuUst) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Wackman](https://open.spotify.com/album/26xUxS2LbgQknaac21HRPj) | 2:12 |
 | 21 | [TYPE SH\*T](https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [TYPE SH\*T](https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 |
 | 100 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
 
-Snapshot ID: `AAAAAJ5qQW4xmsBTF709lIDpQiX2ECuU`
+Snapshot ID: `AAAAAOOuOseU7SmNMqXMtre0Op7Zwcb9`

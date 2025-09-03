@@ -4,7 +4,7 @@
 
 > unearthing music that makes us feel interesting\. greetings from chartreuse.
 
-422 songs - 1 day 2 hr 33 min
+423 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 | 2024-10-07 |
 | [Tunnel Vision](https://open.spotify.com/track/0tldm2ZKydRvESpRMOncFb) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Tunnel Vision](https://open.spotify.com/album/6QFWj6X7L5n1PuV3JRRoXQ) | 4:10 | 2025-02-21 | 2025-05-02 |
 | [Umbrella Tree](https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb) | [Dura Mater](https://open.spotify.com/artist/1cA9T4W714BiqPU1PaTz9P) | [Umbrella Tree](https://open.spotify.com/album/0tqj67OS0gdFcknGMDCjem) | 3:40 | 2024-06-14 | 2024-07-13 |
+| [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-09-02 |  |
 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 | 2024-09-26 | 2025-03-25 |
 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 | 2024-08-16 | 2025-03-25 |
 | [Unpaid Intern](https://open.spotify.com/track/574VcgcnXEFHdMsmbuHdMw) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Scream If You Wanna Go Faster](https://open.spotify.com/album/4AxGhOQv7Bql3UzBTEOwl3) | 2:44 | 2024-07-26 | 2025-01-17 |

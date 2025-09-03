@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Mansyur S
 
-260 songs - 20 hr 40 min
+262 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/track/0kZZ0MtKjVzP8yVZkcuIsc) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/album/0fpkXFjL9r30UahCEe5Din) | 6:04 | 2024-08-16 |  |
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 | 2025-06-27 |
 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 | 2023-08-03 |  |
+| [Bahtera Cinta](https://open.spotify.com/track/5iSHWeTO5NuYZTeCvIrMi5) | [Fira Cantika](https://open.spotify.com/artist/0Oj0DdWT4Yt5Dsy4woMNIz), [Irwan Krisdiyanto](https://open.spotify.com/artist/1j1B3ReSgFxZCfaEggaMAT) | [Bahtera Cinta](https://open.spotify.com/album/0f8n4WcPaO6ufONDhtDHOK) | 6:50 | 2025-09-02 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |
 | [Bapakku Dokter Cinta \- Live Ska Reggae](https://open.spotify.com/track/2Xo7dpTyR0zPdghMFMxNtt) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bapakku Dokter Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/44I1Y0Tgg5CBY9RcX3RiLH) | 4:28 | 2025-03-27 | 2025-06-27 |
 | [Benci Kusangka Sayang \- \(Live Ska Reggae\)](https://open.spotify.com/track/2VMIERDmzhzJzs85OzeE1H) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Benci Kusangka Sayang \(Live Ska Reggae\)](https://open.spotify.com/album/6ZLsFmsuXMaBeDp7PJXMHE) | 5:32 | 2024-04-18 | 2024-07-19 |
@@ -191,6 +192,7 @@
 | [Rindu Tapi Jauh \- Live Ska Reggae](https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Rindu Tapi Jauh \(Live Ska Reggae\)](https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S) | 4:47 | 2024-10-17 | 2024-12-13 |
 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-08 | 2024-03-15 |
 | [Rindu Terhalang](https://open.spotify.com/track/0ZpjsLT6wzv0JSvIGa0MhQ) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Rindu Terhalang](https://open.spotify.com/album/0biYVS1ZoGwdRF7f5ySmJd) | 5:28 | 2024-07-25 | 2025-04-18 |
+| [Rindunya Hatiku](https://open.spotify.com/track/1LIj4fVzWvknxXokqSEoGN) | [Irwan Krisdiyanto](https://open.spotify.com/artist/1j1B3ReSgFxZCfaEggaMAT), [Fira Cantika](https://open.spotify.com/artist/0Oj0DdWT4Yt5Dsy4woMNIz) | [Rindunya Hatiku](https://open.spotify.com/album/5sf25lHQaHW5wNaaOJGmIG) | 7:17 | 2025-09-02 |  |
 | [Rumit](https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo) | [Anggi Rayns](https://open.spotify.com/artist/0WzERYbfqhfsmcg6axzGvT) | [Rumit](https://open.spotify.com/album/1IrWJfXPkvTimTDo3eCMEg) | 4:28 | 2023-09-07 | 2025-02-21 |
 | [Sakit Karena Cinta](https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Sakit Karena Cinta](https://open.spotify.com/album/5keIXzGTxenH2oe3pBx26a) | 5:56 | 2025-02-28 |  |
 | [Sakur Ngimpi](https://open.spotify.com/track/0wWjSOuRhpjOcLlkxlFTh4) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Sakur Ngimpi](https://open.spotify.com/album/1fYzlUuZ8TETKCgZaeeeQI) | 5:15 | 2024-05-23 |  |

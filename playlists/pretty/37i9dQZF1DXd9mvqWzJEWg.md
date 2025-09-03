@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt?si=exvkccV6TkG5\_Gx2ucLnIA">Djknator </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,142 likes - 61 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,176 likes - 61 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

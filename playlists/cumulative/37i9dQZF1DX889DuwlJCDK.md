@@ -2,9 +2,9 @@
 
 ### [青春と一瞬](https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK)
 
-> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Mega Shinnosuke
+> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 猫は液体
 
-1,327 songs - 3 day 8 hr 3 min
+1,329 songs - 3 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [BouAi](https://open.spotify.com/track/1b3ohhtRULmRtJoSuFZGj9) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [BouAi](https://open.spotify.com/album/3wj68MHlc1QXAlp9SXZzbw) | 4:34 | 2024-01-04 | 2024-01-10 |
 | [Bouquet](https://open.spotify.com/track/2nmKXcHdicY328zAPkcSJB) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/6U8sNsAGPjgAJnBlupCq7P) | 3:58 | 2024-02-20 | 2024-03-13 |
 | [Boy](https://open.spotify.com/track/5Ki3EfcIL6RB8CtV39R8zm) | [amanojac](https://open.spotify.com/artist/4wPckOiu0CMAkhlQpAp1XM) | [Boy](https://open.spotify.com/album/74ytQl3uH1kiIMgQZA5kLp) | 4:07 | 2024-02-27 | 2024-03-06 |
+| [boys](https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [boys](https://open.spotify.com/album/5cpcO9CSyNruz8jWwrSMjD) | 4:03 | 2025-09-02 |  |
 | [Boys&Boys](https://open.spotify.com/track/7xJZ7QeXbRMEmzMiE1hepV) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [& Boys](https://open.spotify.com/album/7ggmoPLAxF87ltWZH4Lcm8) | 2:50 | 2023-08-08 | 2023-08-16 |
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 | 2023-11-29 |
 | [BREATH](https://open.spotify.com/track/41VGqls1dvtI1QEDCOIiiO) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [BREATH](https://open.spotify.com/album/0sEIKutWk8swXgruUEbN0j) | 3:25 | 2025-02-18 | 2025-02-26 |
@@ -457,6 +458,7 @@
 | [SEABISCUIT](https://open.spotify.com/track/0quHaNwVcew4kC486KPJ5z) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [SEABISCUIT](https://open.spotify.com/album/6srvGeHnLwFssSCNOW9ybU) | 3:04 | 2024-02-27 | 2024-03-13 |
 | [Seafood Wars](https://open.spotify.com/track/79Wvga2yCtKpfFKX2DvRcs) | [PAKIRUKA](https://open.spotify.com/artist/1fDexwbvN8oAsxVt1QhObd) | [Seafood Wars](https://open.spotify.com/album/3GgFElJmhwXXOiDrT4QArR) | 2:28 | 2025-01-07 | 2025-01-15 |
 | [see you again](https://open.spotify.com/track/0w4hlRc6uXXCQbX9dGGJWm) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Whisper of the heart](https://open.spotify.com/album/6Dfjxy6p9bcxmrUxXv4lwR) | 3:12 | 2023-10-17 | 2023-11-01 |
+| [Seikatsunoyouna](https://open.spotify.com/track/5lMIJV9tT679t8O1iprBO8) | [Nekowaekitai](https://open.spotify.com/artist/1KX2NNKJbcEs2tJBgnnQZ0) | [Seikatsunoyouna](https://open.spotify.com/album/4JYNg0fB1BLTgSIzJ4JrJj) | 4:30 | 2025-09-02 |  |
 | [Seishin Rock](https://open.spotify.com/track/5oeOH2PtEyy43MvchoWx34) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Seishin Rock](https://open.spotify.com/album/4HxqIkte7i4FzBusMxYykW) | 2:53 | 2023-12-12 | 2024-01-10 |
 | [Seisyun Gokko](https://open.spotify.com/track/4BiYcsI5quieKhevyDwIUy) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Seisyun Gokko](https://open.spotify.com/album/46805u2dM0cBAUt9F3Xoe7) | 3:52 | 2025-08-26 |  |
 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 | 2025-04-08 | 2025-07-06 |
@@ -500,9 +502,9 @@
 | [strattera](https://open.spotify.com/track/3cWgSMVcOuIV2cU8NthSlg) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [strattera](https://open.spotify.com/album/5PyTv0b00U4U0ymjrlcPWw) | 2:40 | 2025-07-29 |  |
 | [Strawberry](https://open.spotify.com/track/27ieHhhs1OwALnEOWCW0cg) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [Strawberry](https://open.spotify.com/album/50aR49caPYVguYU5UjpaqY) | 3:42 | 2024-11-26 | 2025-07-09 |
 | [Strawberry Moon](https://open.spotify.com/track/6KpyCUOZy5f2iJUwV4lc9i) | [Epifunnies](https://open.spotify.com/artist/740qWJg44PuvjiyaO5mhKA) | [Strawberry Moon](https://open.spotify.com/album/1k6CFbqJL3Qi06KVsa4952) | 5:11 | 2025-04-01 | 2025-04-09 |
-| [student](https://open.spotify.com/track/5EsxfVNWc9GejwzbraP8RE) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [student](https://open.spotify.com/album/1aKleMel6oSXOnGFhGzkYz) | 2:08 | 2025-08-19 |  |
+| [student](https://open.spotify.com/track/5EsxfVNWc9GejwzbraP8RE) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [student](https://open.spotify.com/album/1aKleMel6oSXOnGFhGzkYz) | 2:08 | 2025-08-19 | 2025-09-03 |
 | [sugar suicide](https://open.spotify.com/track/6MPHTXp5kSS2TfSRLr1APu) | [sunsoogirl](https://open.spotify.com/artist/3UD1gueCSnICZOuDj6ZRwl) | [sugar suicide](https://open.spotify.com/album/1joiVGTQpTkrF6xRQSAEV0) | 3:44 | 2023-08-08 | 2023-08-23 |
-| [Suiheisen](https://open.spotify.com/track/6qlssEL5jL4aODzUH3LKh2) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [Suiheisen](https://open.spotify.com/album/0stCz7G1eAAzoKbiWZBu9V) | 3:59 | 2025-08-19 |  |
+| [Suiheisen](https://open.spotify.com/track/6qlssEL5jL4aODzUH3LKh2) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [Suiheisen](https://open.spotify.com/album/0stCz7G1eAAzoKbiWZBu9V) | 3:59 | 2025-08-19 | 2025-09-03 |
 | [SUMMER PLANNING](https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ユースレスマシン](https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO) | 2:59 | 2023-08-15 | 2024-12-18 |
 | [SUNBURST](https://open.spotify.com/track/2w3zalxLtDZ79Y0rckb9LR) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SUNBURST](https://open.spotify.com/album/14DsydSdy9xFYHzQ5avdlU) | 3:15 | 2025-04-15 | 2025-04-23 |
 | [Sunny](https://open.spotify.com/track/1AwOWEOonwKelLpgUt2Xz6) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [Sunny](https://open.spotify.com/album/0WwWZiylypAxx30xKbeq9c) | 3:12 | 2025-08-12 | 2025-08-27 |

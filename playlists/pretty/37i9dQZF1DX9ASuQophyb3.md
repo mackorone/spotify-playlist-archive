@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Semicenk x Sefo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,757 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,905 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 8 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
 | 9 | [Tuttum Bırakmam](https://open.spotify.com/track/02xoSSypEzF5VFdjEiZb8s) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Tuttum Bırakmam](https://open.spotify.com/album/0FfpBYgMBioNgoQUyWkJDH) | 2:28 |
 | 10 | [Unutulmuyor](https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Unutulmuyor](https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4) | 2:52 |
-| 11 | [BİR GECE VARDIN](https://open.spotify.com/track/0zlxX5IzpBZtxhvpQgKAe5) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [BİR GECE VARDIN](https://open.spotify.com/album/4CWZ8JSxm1QLkXTAqlZYLJ) | 2:18 |
+| 11 | [BİR GECE VARDIN](https://open.spotify.com/track/0zlxX5IzpBZtxhvpQgKAe5) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn), [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [BİR GECE VARDIN](https://open.spotify.com/album/4CWZ8JSxm1QLkXTAqlZYLJ) | 2:13 |
 | 12 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
 | 13 | [Reçete](https://open.spotify.com/track/6kWvnUvyplqxz7Ixk0cnkz) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Reçete](https://open.spotify.com/album/1pFjlhR02dajc3jLwEqMLV) | 3:19 |
 | 14 | [Zor Gerçekten Zor](https://open.spotify.com/track/6msLQLxDenCEUQKKzom43l) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Zor Gerçekten Zor](https://open.spotify.com/album/3zMv7UlcQz5VEjZCxWCT43) | 2:04 |

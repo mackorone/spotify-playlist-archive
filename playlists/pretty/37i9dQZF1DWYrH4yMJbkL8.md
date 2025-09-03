@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Carsen Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,712 likes - 29 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,716 likes - 29 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

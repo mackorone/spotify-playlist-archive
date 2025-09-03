@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 
 > Versiones que andan por el camino del rey de la canción ranchera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,137 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,169 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcKoBYZbTj4.md) - [plain]
 | 32 | [Serenata Sin Luna](https://open.spotify.com/track/1CzIneLsPB5Yk5O2zpJqvY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Mis Favoritas de José Alfredo Jimenez](https://open.spotify.com/album/0NcNRHLMsmKEqxBsSNods7) | 2:24 |
 | 33 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 | 34 | [Me equivoque contigo](https://open.spotify.com/track/75cS94wlPoLbIspCPiikqo) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [20 Aniversario](https://open.spotify.com/album/6A7P0MU9mNitJRSPMMpfux) | 3:10 |
-| 35 | [El jinete \- En directo, Mexico D.F 2000](https://open.spotify.com/track/7u8IJQGhONueJTb8dDIacc) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Pequeño Cabaret Ambulante](https://open.spotify.com/album/6DKQCTjUfMPqKp46vGACTb) | 9:09 |
+| 35 | [El jinete \- En directo, Mexico D.F 2000](https://open.spotify.com/track/7u8IJQGhONueJTb8dDIacc) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Pequeño Cabaret Ambulante \(En directo, Mexico D.F 2000\)](https://open.spotify.com/album/6DKQCTjUfMPqKp46vGACTb) | 9:09 |
 | 36 | [Deja que salga la luna](https://open.spotify.com/track/2sEx671x9t5cOTB7n3nIkh) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [Brindando a José Alfredo Jiménez](https://open.spotify.com/album/4q1HkzjfUT4yVcnI4Q9Sbk) | 3:51 |
 | 37 | [La Enorme Distancia](https://open.spotify.com/track/2QzV7c0okfCHE1gwAS8xwc) | [Los Pianos Barrocos](https://open.spotify.com/artist/1ikSFHdDVIr5i0Z4px6UK1) | [Los Pianos Barrocos Interpretan a José Alfredo Jiménez](https://open.spotify.com/album/2sdmbb8bDIlH212hgogb6l) | 2:40 |
 | 38 | [Me Equivoque Contigo](https://open.spotify.com/track/0S6uhSLOiL5H0vmUVGo6tW) | [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Al Rey José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b) | 2:50 |

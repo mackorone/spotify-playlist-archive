@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Playlist oficial de TOMORROW X TOGETHER ‘The Star Chapter: TOGETHER’ POP\-UP STORE en México y Colombia\. RSVP <a href="https://campaigns.weverse.io/WS191A7763?lang=EN">AQUÍ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,260 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,226 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 11 | [What if I had been that PUMA](https://open.spotify.com/track/6pU4nUCle2kZR2k3XV86YF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:32 |
 | 12 | [Roller Coaster](https://open.spotify.com/track/569Xgt70tGY3GyqHfDDc7y) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:34 |
 | 13 | [Way Home](https://open.spotify.com/track/195eCIcjTLsOJZ1nfNHUUJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:02 |
-| 14 | [Angel Or Devil](https://open.spotify.com/track/3sVCSgIArXIhiWHvbUmauZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:52 |
-| 15 | [Poppin' Star](https://open.spotify.com/track/0Uzy6FHTYob2CbWisMz4Ap) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:13 |
+| 14 | [Poppin' Star](https://open.spotify.com/track/0Uzy6FHTYob2CbWisMz4Ap) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:13 |
+| 15 | [Angel Or Devil](https://open.spotify.com/track/3sVCSgIArXIhiWHvbUmauZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:52 |
 | 16 | [Forty One Winks](https://open.spotify.com/track/71KCbsNcVP40HbTziKyjqS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:33 |
 | 17 | [Higher Than Heaven](https://open.spotify.com/track/3Xsc6Csv8OWOwbA3H1MgGh) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:41 |
 | 18 | [Danger](https://open.spotify.com/track/1EGJkCqwJLOviThbopmtgx) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: SANCTUARY \(Expanded Edition\)](https://open.spotify.com/album/4SFhJGHrFtYqYGIe8VzM6O) | 2:15 |

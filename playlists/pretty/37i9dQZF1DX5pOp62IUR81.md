@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the Marvel worlds that you love, with music from films including The Fantastic Four: First Steps, in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,614 likes - 191 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,598 likes - 191 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

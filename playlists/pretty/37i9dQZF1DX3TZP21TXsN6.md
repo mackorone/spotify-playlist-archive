@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Nathan, Orco, Vurr Flashy & Safouu en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,603 likes - 32 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,590 likes - 32 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

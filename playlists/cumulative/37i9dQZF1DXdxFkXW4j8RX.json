@@ -1787,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "Nekiel",
+        "url": "https://open.spotify.com/album/2qTaDW73Jm49ALyCPzGVjD"
+      },
+      "artists": [
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212019,
+      "name": "Era para Mi",
+      "url": "https://open.spotify.com/track/6XOteB6hlo68QBrgJZG5mg"
+    },
+    {
+      "album": {
         "name": "Est\u00e1n de M\u00e1s",
         "url": "https://open.spotify.com/album/2TmZP5H9VEgbKTp7bAoaMq"
       },

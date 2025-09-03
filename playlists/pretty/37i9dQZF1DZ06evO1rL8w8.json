@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 229145,
+  "num_followers": 229171,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAAAMa0AvOyiN0njzFA3/3p14",
+  "snapshot_id": "aLTiAAAAAADSKX1ZkmQ7Laj3QUvCBdQf",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 163826,
       "name": "Tumbate El Rollo",
       "url": "https://open.spotify.com/track/1fM31qJbLZQNH1B0OADDqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 148093,
+      "name": "El Ejecutor (Bonus Track)",
+      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     }
   ],
   "unique_name": "This Is El Komander",

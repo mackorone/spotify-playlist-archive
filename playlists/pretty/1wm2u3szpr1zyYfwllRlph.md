@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 ### [Dance Hits ](https://open.spotify.com/playlist/1wm2u3szpr1zyYfwllRlph)
 
-> Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
+> Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Paul Kalkbrenner &amp; Stromae
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 57,369 likes - 135 songs - 6 hr 38 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 57,335 likes - 135 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 134 | [Summer](https://open.spotify.com/track/3FUbgm757qZE0pwJ9t9kQF) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Summer](https://open.spotify.com/album/0ZmOuY4FEWPZQdmJKK1Dh5) | 3:29 |
 | 135 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 
-Snapshot ID: `AAAgPXiTlRpB3hv7IqtRAYiqaNwzeZdw`
+Snapshot ID: `AAAgPh+o93CB2N8GBnkT8h+u7EWFSLBP`

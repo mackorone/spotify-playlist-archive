@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 125218,
+  "num_followers": 125229,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+      },
+      "artists": [
+        {
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
-      },
-      "artists": [
-        {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The Budos Band",
         "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 160600,
       "name": "T.I.B.W.F.",
       "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Que Gente Averigu\u00e1",
         "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D"
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
       },
       "artists": [
         {
-          "name": "Lion",
-          "url": "https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk"
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
         }
       ],
-      "duration_ms": 205920,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"
+      "duration_ms": 158400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cartola (1974)",
-        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D"
       },
       "artists": [
         {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
+      "duration_ms": 205920,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Mandrill Cuts 003",
-        "url": "https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw"
-      },
-      "artists": [
-        {
-          "name": "NFC",
-          "url": "https://open.spotify.com/artist/4hkvpHClhYuR92kbnMix4L"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Rico Coco",
-      "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Cumbia Amazonica",
         "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Mandrill Cuts 003",
+        "url": "https://open.spotify.com/album/67iRN3rCbkf99MLcgZbInw"
+      },
+      "artists": [
+        {
+          "name": "NFC",
+          "url": "https://open.spotify.com/artist/4hkvpHClhYuR92kbnMix4L"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Rico Coco",
+      "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Exporta\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
+      },
+      "artists": [
+        {
+          "name": "Os Originais Do Samba",
+          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Exporta\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/77jGZCMKllauVI0zSExKFn"
-      },
-      "artists": [
-        {
-          "name": "Os Originais Do Samba",
-          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/3KVDM9shwWEbLsRpimCuTn"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Bruca Manigu\u00e1",
-      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2HZnjbQkf0Ev5lmuLLqrvI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "Bruca Manigu\u00e1",
+      "url": "https://open.spotify.com/track/4HWwcSkeRTsqjZurFC6tMH"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1087,22 +1087,6 @@
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Introducing",
-        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
-      },
-      "artists": [
-        {
-          "name": "Ruben Gonzalez",
-          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
-        }
-      ],
-      "duration_ms": 275293,
-      "name": "Cumbanchero",
-      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 516586,
       "name": "Could Heaven Ever Be Like This",
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
+      },
+      "artists": [
+        {
+          "name": "Ruben Gonzalez",
+          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
+        }
+      ],
+      "duration_ms": 275293,
+      "name": "Cumbanchero",
+      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
+        "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        },
+        {
+          "name": "Sahra Dawo",
+          "url": "https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog"
+        }
+      ],
+      "duration_ms": 340591,
+      "name": "Gorof (Elixir)",
+      "url": "https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "La Onda de Elia y Elizabeth",
         "url": "https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX"
       },
@@ -1379,22 +1399,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "One Understanding",
-        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
-      },
-      "artists": [
-        {
-          "name": "Christy Essien Igbokwe",
-          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "You Can't Change a Man",
-      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Sketches From An Island 2",
         "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
       },
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
-        "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
+        "name": "One Understanding",
+        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
       },
       "artists": [
         {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        },
-        {
-          "name": "Sahra Dawo",
-          "url": "https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog"
+          "name": "Christy Essien Igbokwe",
+          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
         }
       ],
-      "duration_ms": 340591,
-      "name": "Gorof (Elixir)",
-      "url": "https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF"
+      "duration_ms": 241397,
+      "name": "You Can't Change a Man",
+      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Resistance",
-        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Kossa Kossa",
-      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Kossa Kossa",
+      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
     },
     {
       "added_at": "2025-03-14 13:51:12",

@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Pablo Chill\-E y Spiff TV.
 
-248 songs - 14 hr 4 min
+249 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Empezar Por Mí](https://open.spotify.com/track/4f2O5yUFilnrP5QgxfLoc9) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd), [Natalia Valdebenito](https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Hip Hope](https://open.spotify.com/album/4keg6ZuJj3Lbp9OWtpd2ld) | 3:29 | 2022-07-15 | 2024-04-19 |
 | [Empezar por Mí](https://open.spotify.com/track/3jUQ3pLvgjALEQg6vnnq1D) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd), [Natalia Valdebenito](https://open.spotify.com/artist/328NTYn9QWEgcCFXAdXMjz) | [Empezar por Mí](https://open.spotify.com/album/49IkizpO9BDlXyDmyckivo) | 3:28 | 2022-01-06 |  |
 | [En la mia](https://open.spotify.com/track/6PkBxz7ODRoblrIdXPlGxv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Dj Dacel](https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf) | [SERPIENTE DE MADERA](https://open.spotify.com/album/3kXwK1YQtEdXKCfJp7iTK1) | 2:55 | 2025-04-18 |  |
+| [Era para Mi](https://open.spotify.com/track/6XOteB6hlo68QBrgJZG5mg) | [Bubaseta](https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Nekiel](https://open.spotify.com/album/2qTaDW73Jm49ALyCPzGVjD) | 3:32 | 2025-09-02 |  |
 | [Están de Más](https://open.spotify.com/track/5VaOk4qDTEzHxO6EL3tVux) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Están de Más](https://open.spotify.com/album/2TmZP5H9VEgbKTp7bAoaMq) | 2:50 | 2022-01-06 | 2022-03-05 |
 | [Estás Acá](https://open.spotify.com/track/5S7D4nHIgs2oYIafo95xso) | [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Estás Acá](https://open.spotify.com/album/214OzPY6Hrhgafv9t4rAoY) | 2:26 | 2025-07-11 |  |
 | [Etc...](https://open.spotify.com/track/6gkgKLw8HYVsfQyHFJ62Ii) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Specta](https://open.spotify.com/artist/1UrLRK1iOAvBdZjGd50lke), [Sir Samuel](https://open.spotify.com/artist/4BFBBQTithUwyNg0XQfDw3), [Vicelow](https://open.spotify.com/artist/73IihJAuI7jJtyNV8myXct) | [Etc...](https://open.spotify.com/album/4Lvh4Nd7655KjPU0XBcJpv) | 3:03 | 2022-01-06 | 2024-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > hot people know that fall starts in august
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,767 likes - 109 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,142 likes - 109 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

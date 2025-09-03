@@ -547,20 +547,24 @@
     },
     {
       "album": {
-        "name": "Away",
+        "name": "Away (feat. Jeff Parker)",
         "url": "https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t"
       },
       "artists": [
         {
           "name": "Makaya McCraven",
           "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
         }
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199013,
-      "name": "Away",
+      "name": "Away (feat. Jeff Parker)",
       "url": "https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38"
     },
     {

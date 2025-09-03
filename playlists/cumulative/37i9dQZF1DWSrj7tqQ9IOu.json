@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Bluer than Blue",
+        "url": "https://open.spotify.com/album/2ZgeMiduh0cVx7Vxhqz1c6"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Bluer than Blue",
+      "url": "https://open.spotify.com/track/4DGTdk3mJzEfFMRtDKGR1l"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/2gFCZ1r5sA1vipWqauYWVl"
       },
@@ -7362,6 +7380,24 @@
       "duration_ms": 212066,
       "name": "MERCI",
       "url": "https://open.spotify.com/track/37mhGNcHKR9EStOcfT01j0"
+    },
+    {
+      "album": {
+        "name": "MES NUITS",
+        "url": "https://open.spotify.com/album/7MvY0AuZFpmj0KRv7ZzFs6"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "MES NUITS",
+      "url": "https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT"
     },
     {
       "album": {

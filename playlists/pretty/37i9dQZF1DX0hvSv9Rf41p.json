@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with NGHTMRE",
-  "num_followers": 987043,
+  "num_followers": 987069,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5qQW4xmsBTF709lIDpQiX2ECuU",
+  "snapshot_id": "AAAAAOOuOseU7SmNMqXMtre0Op7Zwcb9",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:46",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
+        "name": "ELECTRIC LOVE",
+        "url": "https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "ELECTRIC LOVE",
+      "url": "https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 160853,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/2LLm7ZsplIrL6nPkGC87dU"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "ELECTRIC LOVE",
-        "url": "https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG"
-      },
-      "artists": [
-        {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "ELECTRIC LOVE",
-      "url": "https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh"
     },
     {
       "added_at": "2025-06-06 04:00:30",

@@ -1,6 +1,6 @@
 {
   "description": "For lazy days and cosy nights",
-  "num_followers": 1345353,
+  "num_followers": 1345224,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Emily and Me",
-        "url": "https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Emily and Me",
-      "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 148597,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Emily and Me",
+        "url": "https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Emily and Me",
+      "url": "https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "One Door Closes (feat. Breland)",
-        "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        }
-      ],
-      "duration_ms": 187084,
-      "name": "One Door Closes (feat. Breland)",
-      "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
       },
@@ -999,26 +979,6 @@
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Even (with Cat Burns)",
-        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 151373,
-      "name": "Even (with Cat Burns)",
-      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1043,6 +1003,46 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Even (with Cat Burns)",
+        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "Even (with Cat Burns)",
+      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "One Door Closes (feat. Breland)",
+        "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "duration_ms": 187084,
+      "name": "One Door Closes (feat. Breland)",
+      "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "You Are The Morning",
         "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Heaven II",
-        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 147461,
-      "name": "Heaven II",
-      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Reach Out And Kiss Me",
         "url": "https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 210691,
       "name": "Reach Out And Kiss Me",
       "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Heaven II",
+        "url": "https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 147461,
+      "name": "Heaven II",
+      "url": "https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "The Seize",
         "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Be Still",
         "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 241531,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Don't Fall Asleep",
-        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 269280,
-      "name": "Don't Fall Asleep",
-      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "In This Room - EP",
         "url": "https://open.spotify.com/album/02nRWWSavnbiiUjRJ3M5Cr"
       },
@@ -1535,22 +1519,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Fall on Me",
-        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 216085,
-      "name": "Fall on Me",
-      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "A Wonder Day",
         "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
       },
@@ -1563,6 +1531,38 @@
       "duration_ms": 209352,
       "name": "A Wonder Day",
       "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Don't Fall Asleep",
+        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 269280,
+      "name": "Don't Fall Asleep",
+      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Fall on Me",
+        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 216085,
+      "name": "Fall on Me",
+      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
+        "name": "HEADPHONES",
+        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
       "artists": [
         {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 231011,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
+      "duration_ms": 196200,
+      "name": "HEADPHONES",
+      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
     }
   ],
   "unique_name": "Easy",

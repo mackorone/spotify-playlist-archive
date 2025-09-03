@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: No.1
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,236 likes - 49 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,234 likes - 49 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Onlar Anlamaz](https://open.spotify.com/track/5jy4DQwRy5MUYtWYoyz3m5) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Onlar Anlamaz](https://open.spotify.com/album/11du32FMs1EY9u02PkgV32) | 3:39 |
-| 2 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 |
-| 3 | [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 |
-| 4 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 |
-| 5 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
-| 6 | [AYNA](https://open.spotify.com/track/4bBCf6dzZmEuYzeI2KvR63) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [AYNA](https://open.spotify.com/album/6KgvIqj98mdFVqAwSvyNzP) | 3:32 |
-| 7 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
+| 1 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 |
+| 2 | [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 |
+| 3 | [Onlar Anlamaz](https://open.spotify.com/track/5jy4DQwRy5MUYtWYoyz3m5) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Onlar Anlamaz](https://open.spotify.com/album/11du32FMs1EY9u02PkgV32) | 3:39 |
+| 4 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
+| 5 | [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 |
+| 6 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
+| 7 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 |
 | 8 | [cennetini bana ver](https://open.spotify.com/track/7qg6BsDK1fXl5bUjRJwp4u) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [cennetini bana ver](https://open.spotify.com/album/4zOwweXLXxmgg86yEEDleq) | 2:50 |
-| 9 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 |
-| 10 | [İHTİYAÇ YOK OTELE](https://open.spotify.com/track/1pwgLmoW8nB0kunWcOgiws) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [İHTİYAÇ YOK OTELE](https://open.spotify.com/album/0qKnF3hITeGYdXT6VSY81K) | 2:36 |
+| 9 | [AYNA](https://open.spotify.com/track/4bBCf6dzZmEuYzeI2KvR63) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [AYNA](https://open.spotify.com/album/6KgvIqj98mdFVqAwSvyNzP) | 3:32 |
+| 10 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 |
 | 11 | [Sana Anlatmak İsterdim](https://open.spotify.com/track/4WZkERYSp4qMG17hyPwe51) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Sana Anlatmak İsterdim](https://open.spotify.com/album/2nNtkZTqA9kbcQp12WQF0T) | 2:18 |
 | 12 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 13 | [MAKINA](https://open.spotify.com/track/7mYakNpvYwOYGjTNrfTBqN) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [MAKINA](https://open.spotify.com/album/53vvwKlifFZdwN7ogYPinN) | 2:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 49 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
 
-Snapshot ID: `AAAAADljxn3mUf0Ku7ZdCiC8B11O4d04`
+Snapshot ID: `AAAAAHvBR+s1a7Z5If8kNwnWqN1KIa+J`

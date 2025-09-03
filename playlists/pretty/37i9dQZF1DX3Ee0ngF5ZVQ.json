@@ -1,6 +1,6 @@
 {
   "description": "Check out Band Together Texas, a livestream in support of Texas Flood Relief Efforts, airing at 7pm CT on August 17. Tune-in and donate at bandtogethertexas.com",
-  "num_followers": 407177,
+  "num_followers": 407148,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
-        "name": "American Grin",
-        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
       "artists": [
         {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 186706,
-      "name": "High Country",
-      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
+        "name": "American Grin",
+        "url": "https://open.spotify.com/album/5zPQGBpZHiUAgwVxOHH0eM"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "High Country",
+      "url": "https://open.spotify.com/track/2SMxvm2rJzbPbTjwEyuFnJ"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
         "name": "Texas Forever",
         "url": "https://open.spotify.com/album/0ChLZ9bffEOVELsyxIOCId"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 195312,
       "name": "Texas Forever",
       "url": "https://open.spotify.com/track/23fs42C3A7vOH4MMfFeSFK"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "It Won't Be Long",
-        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 197794,
-      "name": "It Won't Be Long",
-      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
-      },
-      "artists": [
-        {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     },
     {
       "added_at": "2025-08-08 16:55:37",
@@ -1423,86 +1423,6 @@
     {
       "added_at": "2025-08-08 16:55:37",
       "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "Denver to Dallas",
-        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
-      },
-      "artists": [
-        {
-          "name": "Wynn Williams",
-          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
-        }
-      ],
-      "duration_ms": 208618,
-      "name": "Denver to Dallas",
-      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
-        "name": "Clover On The Hillside",
-        "url": "https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976"
-      },
-      "artists": [
-        {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
-        }
-      ],
-      "duration_ms": 141080,
-      "name": "Clover On The Hillside",
-      "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
-    },
-    {
-      "added_at": "2025-08-08 16:55:37",
-      "album": {
         "name": "Running out of Time",
         "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
       },
@@ -1527,6 +1447,86 @@
       "duration_ms": 217899,
       "name": "Running out of Time",
       "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Denver to Dallas",
+        "url": "https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV"
+      },
+      "artists": [
+        {
+          "name": "Wynn Williams",
+          "url": "https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4"
+        }
+      ],
+      "duration_ms": 208618,
+      "name": "Denver to Dallas",
+      "url": "https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Clover On The Hillside",
+        "url": "https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976"
+      },
+      "artists": [
+        {
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+        }
+      ],
+      "duration_ms": 141080,
+      "name": "Clover On The Hillside",
+      "url": "https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03"
+    },
+    {
+      "added_at": "2025-08-08 16:55:37",
+      "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2025-08-08 16:55:37",

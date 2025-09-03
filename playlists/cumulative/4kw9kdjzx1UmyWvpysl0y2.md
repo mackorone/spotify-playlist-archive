@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,060 songs - 2 day 11 hr 23 min
+1,062 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Leave The World Behind](https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Luna Lenta](https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN) | [Leave The World Behind](https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL) | 3:37 | 2024-01-31 | 2024-04-20 |
 | [LEFT2RIGHT](https://open.spotify.com/track/6IniZB57i0kx3rmxMYU1k7) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [LEFT2RIGHT](https://open.spotify.com/album/4lDHMmcOTAHQosQSRFWHVM) | 2:59 | 2025-07-07 |  |
+| [Lessons Learned](https://open.spotify.com/track/6yRxOawu0scry70xULIJ0N) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Wassu](https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Hearts Divide](https://open.spotify.com/album/529BFbWcXc4yzonKMxzogL) | 3:30 | 2025-09-02 |  |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |
 | [Let Me Go](https://open.spotify.com/track/0pqu2PSOGfcV2CFqhHUBOL) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Let Me Go](https://open.spotify.com/album/1j8piDAV1NouzoGo3Z7S0n) | 3:44 | 2023-02-16 | 2023-05-04 |
 | [Let Me Go](https://open.spotify.com/track/6gySerfKKZpMZb1t8gz2HR) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Let Me Go](https://open.spotify.com/album/5esvwj2Syivbs8bE6j4yus) | 3:42 | 2022-11-21 | 2023-02-17 |
@@ -576,6 +577,7 @@
 | [Make You Mine](https://open.spotify.com/track/6PZDe8NpAjiUSkD3q6gCPs) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW), [Indi Starling](https://open.spotify.com/artist/7dUCSkUMN048CYGYKfjDZe) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 2:49 | 2022-10-26 | 2023-01-19 |
 | [Malibu](https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [California Sessions](https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH) | 3:44 | 2022-06-01 | 2022-08-12 |
 | [Malva](https://open.spotify.com/track/0ggSBp3T5MbFG1bggJ3GL3) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:22 | 2022-11-09 | 2023-02-04 |
+| [MANIAC](https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [MANIAC](https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM) | 3:27 | 2025-09-02 |  |
 | [Marea Turquesa](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Marea Turquesa](https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4) | 3:08 | 2023-01-23 | 2023-04-06 |
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-05-29 | 2023-08-28 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |

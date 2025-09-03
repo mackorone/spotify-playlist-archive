@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-30",
-  "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
+  "description": "Every song that's Trending NOW from Malayalam! \nCover: Thalavara",
   "name": "Trending Now Malayalam",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 173714,
       "name": "Armadham",
       "url": "https://open.spotify.com/track/18afrwnlrByAjhi3Ve0Ehn"
@@ -598,6 +598,24 @@
       "duration_ms": 228750,
       "name": "Ilakozhiye - From \"Thalavara\"",
       "url": "https://open.spotify.com/track/0bWSEjbLs9Byx02grLa6AX"
+    },
+    {
+      "album": {
+        "name": "illaathath",
+        "url": "https://open.spotify.com/album/3TXnjQbQO1aoFgCJaUsdZy"
+      },
+      "artists": [
+        {
+          "name": "Haniya Nafisa",
+          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "illaathath",
+      "url": "https://open.spotify.com/track/6JwLV8XjJg2tXawz8owSwn"
     },
     {
       "album": {
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 251541,
       "name": "Thala - Male Version",
       "url": "https://open.spotify.com/track/14TFPisWG8mgHFOkP6V0aJ"

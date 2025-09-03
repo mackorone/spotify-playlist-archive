@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
-  "num_followers": 39629,
+  "num_followers": 39632,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -887,26 +887,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
-        "name": "Lovers' Holiday",
-        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Lovers' Holiday",
-      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -951,22 +931,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
+        "name": "Lovers' Holiday",
+        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
       },
       "artists": [
         {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
         },
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 214970,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
+      "duration_ms": 205666,
+      "name": "Lovers' Holiday",
+      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -987,6 +967,26 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Isla Disco",
-        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
+        "name": "\u00daltimamente me acuerdo mucho de tu casa",
+        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        },
+        {
+          "name": "TIRAYA",
+          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
         }
       ],
-      "duration_ms": 214363,
-      "name": "Mayag\u00fcez",
-      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
+      "duration_ms": 212821,
+      "name": "Comadre",
+      "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "\u00daltimamente me acuerdo mucho de tu casa",
-        "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
+        "name": "Isla Disco",
+        "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        },
-        {
-          "name": "TIRAYA",
-          "url": "https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Comadre",
-      "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
+      "duration_ms": 214363,
+      "name": "Mayag\u00fcez",
+      "url": "https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl"
     },
     {
       "added_at": "2025-07-25 06:00:35",

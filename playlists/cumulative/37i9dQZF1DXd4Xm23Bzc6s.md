@@ -57,6 +57,6 @@
 | [We Go Together](https://open.spotify.com/track/1qZigm8gp1fQzk65Is4fBi) | [The Royal Jesters](https://open.spotify.com/artist/0VB1seSRe8CTJZAFosZZVC) | [Royal Jesters: English Oldies](https://open.spotify.com/album/1nx5ZFsVJ6uZhv3ZqKgkTS) | 2:45 | 2025-05-13 |  |
 | [What Does It Take \(To Win Your Love\)](https://open.spotify.com/track/6yfdIVZ6PtzFcv4xEG5nWu) | [Motherlode](https://open.spotify.com/artist/24uSD486ywQ4VJ2OMDXv8y) | [When I Die](https://open.spotify.com/album/7Js6zEcnNGI0kcII9Ftx8x) | 2:22 | 2025-05-13 |  |
 | [What's His Name](https://open.spotify.com/track/5dImMTUYHlfHPyfPckpZTZ) | [Joey Quinones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [What's His Name](https://open.spotify.com/album/06FaPKFLTJCQuIFyZvII2R) | 3:03 | 2025-05-13 |  |
-| [Win Or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 | 2025-05-13 |  |
+| [Win or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 | 2025-05-13 |  |
 
 \*This playlist was first scraped on 2025-05-14. Prior content cannot be recovered.

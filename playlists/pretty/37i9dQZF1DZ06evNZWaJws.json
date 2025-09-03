@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 336961,
+  "num_followers": 337023,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAABc5tLTVxUxnTDkJw3CN8lr",
+  "snapshot_id": "aLTiAAAAAABvPDlXPvP8hAb2DDYpKQEi",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rigo Campos",
+        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 227275,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pap\u00e1 De Los Pollitos",
         "url": "https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG"
       },
@@ -323,22 +343,6 @@
       "duration_ms": 199946,
       "name": "El Papa de Los Pollitos",
       "url": "https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -363,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clave Nueva",
         "url": "https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ"
       },
@@ -372,9 +392,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 178333,
-      "name": "La Pista Secreta",
-      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
+      "duration_ms": 166253,
+      "name": "Clave Nueva",
+      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
     },
     {
       "added_at": null,
@@ -444,9 +464,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 166253,
-      "name": "Clave Nueva",
-      "url": "https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt"
+      "duration_ms": 178333,
+      "name": "La Pista Secreta",
+      "url": "https://open.spotify.com/track/2COdLxvoBkZr3L6IFgKaSi"
     },
     {
       "added_at": null,
@@ -483,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rigo Campos",
-        "url": "https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb"
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
       },
       "artists": [
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 227275,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
+      "duration_ms": 242653,
+      "name": "Fiesta En La Sierra",
+      "url": "https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 169853,
       "name": "Temporada En La Sierra",
       "url": "https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Fiesta En La Sierra",
-      "url": "https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ"
     },
     {
       "added_at": null,

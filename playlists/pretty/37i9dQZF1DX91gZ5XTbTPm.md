@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Luhh Dyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,080 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,104 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 23 | [WE NOT DONE](https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [WE NOT DONE](https://open.spotify.com/album/7oBIAS28VRW3MK7WOcQtIo) | 2:55 |
 | 24 | [Cut The Block Off](https://open.spotify.com/track/2MEPErRyHxOO0xutXNpwR1) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Cut The Block Off](https://open.spotify.com/album/7kBhlzvMUSckf1HhgFaCvp) | 2:07 |
 | 25 | [Boring \(feat\. Nino Paid\)](https://open.spotify.com/track/1zgdLsKsrTenOciccB8Atl) | [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Boring \(feat\. Nino Paid\)](https://open.spotify.com/album/6cRZGEt5seC5dJdr9AacGi) | 2:19 |
-| 26 | [Traffic \(feat\. Mellow Buckzz & 2Rare\)](https://open.spotify.com/track/0rVhXYADEiHpKNxl9sdnor) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [FENDI VS FENDO \(Bonus\)](https://open.spotify.com/album/6F8XABUa4AMSdBUuJ7JwC2) | 2:48 |
+| 26 | [Traffic \(feat\. Mellow Buckzz & 2Rare\)](https://open.spotify.com/track/0rVhXYADEiHpKNxl9sdnor) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [FENDI VS FENDO](https://open.spotify.com/album/6F8XABUa4AMSdBUuJ7JwC2) | 2:48 |
 | 27 | [Tight End](https://open.spotify.com/track/4Itcb6phWzoaotNbvYv5In) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Tight End](https://open.spotify.com/album/72v4OAAG8JfOIAriyb2sfD) | 1:50 |
 | 28 | [Opiate](https://open.spotify.com/track/2vIxd21sesIFNmCR86rFtm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/3yIoR95GUrZRdQr4HujvaF) | 2:56 |
 | 29 | [Gun In Yo Purse \(feat\. Young Thug & TiaCorine\)](https://open.spotify.com/track/4yu8ksN5jqrQBDBa3pkhFa) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 99 | [Precision](https://open.spotify.com/track/4qHSpiBmwLyjbaDPENrySq) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 2:44 |
 | 100 | [Stash\-house in Dearborn](https://open.spotify.com/track/666q7QhLYIjiTziKEA0CaN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Forever My Moment](https://open.spotify.com/album/6D2Olfcbdp07vl4RwPkPRg) | 1:48 |
 
-Snapshot ID: `AAAAAI9V2NHXEjXqsorjyR3GaXTUNqxw`
+Snapshot ID: `AAAAAIlPCC279cC8BPx+enD5aaLmZjIG`

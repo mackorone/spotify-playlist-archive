@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Reality Club \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,971 likes - 101 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,970 likes - 101 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

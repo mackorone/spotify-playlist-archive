@@ -6285,6 +6285,32 @@
     },
     {
       "album": {
+        "name": "Last Love (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1UfbRnr4c8iMzCGwaYSIP3"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122340,
+      "name": "Last Love (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0RswAiyXdur2BSGSGxrUMv"
+    },
+    {
+      "album": {
         "name": "Laut Aa Na Yaar",
         "url": "https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o"
       },
@@ -9074,7 +9100,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 75045,
       "name": "Sahiba Unplugged",
       "url": "https://open.spotify.com/track/1oOYt0YDdoUkSo22NGNj8o"

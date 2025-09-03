@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Krzyk Mody
 
-564 songs - 1 day 3 hr 31 min
+565 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [dirty shirley](https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dirty shirley / no thoughts](https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk) | 2:16 | 2025-08-26 |  |
 | [Dla Ciebie](https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja IV](https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN) | 3:02 | 2024-10-11 | 2025-01-24 |
 | [dla Ciebie mógłbym zabić](https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Do rany przyłóż](https://open.spotify.com/album/4vW0hzSiDuPxgCtIE0VjlI) | 2:21 | 2024-11-21 | 2025-01-24 |
+| [Dla Ciebie, dla Ciebie](https://open.spotify.com/track/0BG0wB1CwVKgcEcyzDrAbF) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X) | [Piosenki z akademika](https://open.spotify.com/album/7ypxXIGeKYrawBRHj7CYv3) | 2:52 | 2025-08-26 |  |
 | [Dla Turystów](https://open.spotify.com/track/1xBiiCNb0YUsEftywzL6kd) | [Znowu Tony](https://open.spotify.com/artist/6QqUWGJ9uo9vA8BUSG8VGy), [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz) | [Dla Turystów](https://open.spotify.com/album/0aFnmKbMvJxPEtC9H2yUb0) | 2:45 | 2025-08-19 |  |
 | [Do widzenia](https://open.spotify.com/track/00rhQ7q9oJoVnyKCnh4XkO) | [Kingska](https://open.spotify.com/artist/4ljnkCys9QaDstkxb54Z8N) | [Do widzenia](https://open.spotify.com/album/7wJEkhd5SuRwCwRSNBkfft) | 2:32 | 2025-01-09 | 2025-01-24 |
 | [Dom](https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Dom](https://open.spotify.com/album/1VwPmTAsUEOtfJ8hUhNdKF) | 3:04 | 2024-11-07 | 2025-01-24 |
@@ -258,7 +259,7 @@
 | [Mam Cię w głowie](https://open.spotify.com/track/2P5hDAHA20zASOQTYw9WkD) | [Patricia](https://open.spotify.com/artist/4wr9FbPm6fSohp3EDNuSzO), [Pablo](https://open.spotify.com/artist/6EIcP6aMSsZ45N0hO70bAa) | [Mam Cię w głowie](https://open.spotify.com/album/6Jmv0F8J5H1mrSKQ70N70K) | 2:35 | 2024-06-28 | 2024-08-23 |
 | [mam dosyć striptiz clubów](https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [mam dosyć striptiz clubów](https://open.spotify.com/album/29WqQEVn3lINejm16UYxUx) | 3:49 | 2025-07-03 |  |
 | [Mam Gorszy Dzień](https://open.spotify.com/track/1KAE9P6fQawIUNOyrgeFAG) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Mam Gorszy Dzień](https://open.spotify.com/album/6tDYxxL22WMnRUeawRd38x) | 2:56 | 2024-06-28 | 2024-07-19 |
-| [Mam plan](https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [Mam plan](https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu) | 2:42 | 2025-08-26 |  |
+| [MAM PLAN](https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [MAM PLAN](https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu) | 2:42 | 2025-08-26 |  |
 | [Mam talent](https://open.spotify.com/track/7yRAd07H8Khf9qVZhFSyeO) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Mam talent](https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A) | 3:34 | 2025-07-03 |  |
 | [Mama](https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc) | [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Mama](https://open.spotify.com/album/51ipp3GlTVp79WutZBZeGa) | 2:58 | 2024-06-28 | 2024-08-31 |
 | [MAMY CZAS](https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh) | [NEWSKIN](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MAMY CZAS](https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH) | 3:45 | 2025-08-26 |  |
@@ -492,7 +493,7 @@
 | [TOKIO](https://open.spotify.com/track/0FUgOyAUgA9FLdYv6rHENE) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [TOKIO](https://open.spotify.com/album/1UnwAXNTPp9frqmoWkQlp1) | 2:52 | 2025-07-17 | 2025-08-07 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |
-| [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-19 |  |
+| [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-19 | 2025-09-03 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 | 2025-07-17 | 2025-07-25 |
 | [Trauma](https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Trauma](https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy) | 1:46 | 2024-12-06 | 2025-01-31 |

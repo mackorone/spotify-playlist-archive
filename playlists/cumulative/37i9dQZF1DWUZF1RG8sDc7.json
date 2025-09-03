@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 305826,
       "name": "Buscar\u00e9 Otro Amor",
       "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 309890,
       "name": "Despues del Adios",
       "url": "https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 316279,
       "name": "Dime que me quieres",
       "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 317760,
       "name": "Entregame Tu Amor",
       "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 307720,
       "name": "Las Razones Del Amor",
       "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 287426,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 310306,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Novios Cruzados",
       "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 285893,
       "name": "Quien Perdera",
       "url": "https://open.spotify.com/track/6DTJDeR4r57WPLNJz4ogIe"
@@ -3378,6 +3378,24 @@
       "duration_ms": 284586,
       "name": "Ven a Mi",
       "url": "https://open.spotify.com/track/1g2ZA7SEOEio0tiPRuKQlS"
+    },
+    {
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/1M9ZoiwvJl3Mthf5QmX9jY"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238503,
+      "name": "Ven T\u00fa",
+      "url": "https://open.spotify.com/track/70Xs8tFys12cvz8fNS2dal"
     },
     {
       "album": {

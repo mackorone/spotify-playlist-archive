@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 129338,
       "name": "Attara Shiawase",
       "url": "https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 179721,
       "name": "lonely night",
       "url": "https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp"
@@ -2365,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30aa",
+        "url": "https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183664,
+      "name": "\u30a4\u30aa",
+      "url": "https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30c3\u30c9\u30a2\u30a4",
         "url": "https://open.spotify.com/album/14OG7nNP5lSoE5Ct7fmwg5"
       },
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 202535,
       "name": "\u611b\u3068U",
       "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 255000,
       "name": "\u65c5\u306b\u51fa\u3088\u3046\u304b",
       "url": "https://open.spotify.com/track/6epM6PFCyLgiqEKigiQZVH"
@@ -3986,6 +4004,24 @@
       "duration_ms": 214764,
       "name": "\u6700\u4f4e - Acoustic ver.",
       "url": "https://open.spotify.com/track/6NF6saqKSFWWApvZIU0G2T"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f4e\u754c\u9688 - Saitei Kaiwai",
+        "url": "https://open.spotify.com/album/5KtONgHCOttcGD4Y1lsXpC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "\u6700\u4f4e\u754c\u9688 - Saitei Kaiwai",
+      "url": "https://open.spotify.com/track/6LQMfHAZYxaX2AyRDnHp4K"
     },
     {
       "album": {

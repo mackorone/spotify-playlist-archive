@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz"
+      },
+      "artists": [
+        {
+          "name": "Kaur B",
+          "url": "https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162439,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd"
+    },
+    {
+      "album": {
         "name": "Laung Laachi Title Track (From \"Laung Laachi\")",
         "url": "https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl"
       },
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 145850,
       "name": "Shak",
       "url": "https://open.spotify.com/track/2QxqjR9jxNFTAoz304jZfc"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/2NqKEeHOjzud83Vdktcp6A.md) - [plain]
 
 > An attempted algorithmic introduction to Furry based on math and listening data from the Large Genre Collider\. For even more, check out <a href="spotify:playlist:7o9a21HReswib5OcWqGNFK">The Sound of Furry</a>.
 
-[Particle Detector](https://open.spotify.com/user/particleintroductor) - 23 likes - 50 songs - 2 hr 40 min
+[Particle Detector](https://open.spotify.com/user/particleintroductor) - 24 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 |
 | 2 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 |
-| 3 | [MURDER EVERY 1 U KNOW! \- SALVIA'S VERSION](https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [MURDER EVERY 1 U KNOW! \(SALVIA'S VERSION\)](https://open.spotify.com/album/1CDHqGeMoQ4sKJWBeWwVAV) | 2:07 |
+| 3 | [MURDER EVERY 1 U KNOW! \- SALVIA'S VERSION](https://open.spotify.com/track/6iCNGXd4dIkVj7oofcRomz) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [MURDER EVERY 1 U KNOW! \(SALVIA'S VERSION\)](https://open.spotify.com/album/1CDHqGeMoQ4sKJWBeWwVAV) | 2:07 |
 | 4 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 |
 | 5 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 |
 | 6 | [My Future](https://open.spotify.com/track/2XdlvoezoK7qp94SLmIkmW) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [My Future](https://open.spotify.com/album/79mIn0EK43ln8TJ3OSbOkv) | 2:13 |

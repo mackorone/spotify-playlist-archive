@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Abdullah Maharvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,616 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,619 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 59 | [Nothing Over You](https://open.spotify.com/track/2LyfpsJ2y2HbDnTVGFnevY) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [SICKKID](https://open.spotify.com/artist/2TUSBgwoYBbYu7nc6bsOIE) | [Nothing Over You](https://open.spotify.com/album/6YBCJyHUjZq9HJCrkvI8QJ) | 2:20 |
 | 60 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 |
 
-Snapshot ID: `AAAAALGqU9AhSktBsxZJcMPN3oVykhhn`
+Snapshot ID: `AAAAABuC+Z2bqsYHilYHQwfeJwsgaUJW`

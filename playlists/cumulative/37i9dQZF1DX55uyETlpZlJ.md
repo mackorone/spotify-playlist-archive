@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-545 songs - 1 day 6 hr 59 min
+546 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Right Moves](https://open.spotify.com/track/1OvU3YjEkbfbhgnRFoThGh) | [Battalionsz](https://open.spotify.com/artist/7tEa14uRsSNHWC20EKFHra) | [PRAYANIKA](https://open.spotify.com/album/05Kv7PQi2JgSaUGdBIXjvo) | 3:12 | 2024-01-29 | 2024-06-12 |
 | [Rocky Bhai 2.0](https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Rocky Bhai 2.0](https://open.spotify.com/album/7wxwmFKgiHQQTSm6Zb9DUc) | 2:18 | 2024-01-11 | 2024-07-09 |
 | [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 | 2023-12-08 |
+| [Saagarada Anchinda](https://open.spotify.com/track/1tVjzpkVKIJiT5NXD1dAZZ) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Dandaka](https://open.spotify.com/album/4p1orys4EEZdMgGAvzV9FU) | 3:46 | 2025-09-02 |  |
 | [Saagu Nee](https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Saagu Nee](https://open.spotify.com/album/0REHSlVg6yr2q0bv1grZ4w) | 2:43 | 2022-09-19 | 2023-07-04 |
 | [Saak Maadu](https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq), [Abhishek Dev](https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ) | [Chill Madale](https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn) | 3:14 | 2025-06-30 |  |
 | [Saako Maani Odiddu](https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Saako Maani Odiddu](https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt) | 3:13 | 2023-02-15 | 2023-06-20 |

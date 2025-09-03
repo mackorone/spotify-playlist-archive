@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/2MOfDP2OU2EJHcaJVzt5kM"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1o3dGdOfetdnkJ6OUDOioO"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 232608,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"

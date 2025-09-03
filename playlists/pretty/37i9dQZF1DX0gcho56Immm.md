@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,614 likes - 138 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,748 likes - 138 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

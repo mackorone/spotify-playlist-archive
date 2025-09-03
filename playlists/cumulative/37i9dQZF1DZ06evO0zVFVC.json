@@ -571,6 +571,28 @@
     },
     {
       "album": {
+        "name": "Heaven's Gates",
+        "url": "https://open.spotify.com/album/5QBE6vKR7vLBkJAF9saCNG"
+      },
+      "artists": [
+        {
+          "name": "50 Lions",
+          "url": "https://open.spotify.com/artist/2TY2TDzMptJVfUAoV2n0hb"
+        },
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Heaven's Gates",
+      "url": "https://open.spotify.com/track/5O4pUnw88y5Md7bqS5Zi0K"
+    },
+    {
+      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },

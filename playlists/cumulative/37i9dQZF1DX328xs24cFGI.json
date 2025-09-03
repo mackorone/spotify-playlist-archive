@@ -3137,6 +3137,24 @@
     },
     {
       "album": {
+        "name": "Toki Yo Tomare",
+        "url": "https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188120,
+      "name": "Toki Yo Tomare",
+      "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
+    },
+    {
+      "album": {
         "name": "TOKIDOKI",
         "url": "https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe"
       },
@@ -4984,7 +5002,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 198014,
       "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
       "url": "https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c"
@@ -5002,7 +5020,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 277289,
       "name": "\u30cf\u30ec\u306e\u65e5\u306b - Harenohini",
       "url": "https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal"
@@ -5136,7 +5154,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 250773,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
@@ -8042,7 +8060,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 176965,
       "name": "\u83eb",
       "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
@@ -8208,6 +8226,24 @@
       "duration_ms": 334373,
       "name": "\u8cb4\u65b9\u306e\u604b\u4eba\u306b\u306a\u308a\u305f\u3044\u306e\u3067\u3059 - 2023 Acoustic Ver.",
       "url": "https://open.spotify.com/track/0BOfGbWfgG4GP3xAsVMCgL"
+    },
+    {
+      "album": {
+        "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
+        "url": "https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178162,
+      "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
+      "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"
     },
     {
       "album": {

@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "LA LLAVE",
+        "url": "https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189635,
+      "name": "once",
+      "url": "https://open.spotify.com/track/0iAg4apUUiURhe8wRARRFJ"
+    },
+    {
+      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 212053,
       "name": "Ya No Tiene Novio - Remix",
       "url": "https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x"

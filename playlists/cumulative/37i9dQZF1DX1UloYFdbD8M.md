@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-400 songs - 1 day 1 hr 2 min
+401 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Madhure](https://open.spotify.com/track/4laP9v1EYy0XNPXB801MpR) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Nazeer Minnale](https://open.spotify.com/artist/5raKbwjQso45ujdj5638gg) | [Madhure](https://open.spotify.com/album/2KoXz4gKvMogaqaqsuGvNu) | 3:09 | 2024-11-12 | 2025-03-12 |
 | [Madhuvaayi](https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL) | [Joyal Tojo](https://open.spotify.com/artist/2gCwrqrvsSzBQyZ6r5HNEM), [Jyothis Jens](https://open.spotify.com/artist/33gSTavbpTQgqHzrLZegmJ), [Alapana Bagirath](https://open.spotify.com/artist/2BWrhgob1gLJCRsvds83yI) | [Madhuvaayi](https://open.spotify.com/album/1UAvkaesQecVkIFNHULXWc) | 3:03 | 2023-07-12 | 2023-07-28 |
 | [Maharani \- From "AYAKTIHIS"](https://open.spotify.com/track/5I3WoDYvFcMZez2et3DhA5) | [The Down Troddence](https://open.spotify.com/artist/6hTZfnBN0lBS9Q5LqeMbNX), [T\. M\. Krishna](https://open.spotify.com/artist/46SVKeOGxlqIAzE0BKXQWM) | [Maharani \(From "AYAKTIHIS"\)](https://open.spotify.com/album/5V7Cqi80blyOQV1U8MZhCh) | 6:36 | 2025-02-20 | 2025-06-30 |
+| [Mahr](https://open.spotify.com/track/5IpE1kYDMHJnfH4imYe7GB) | [Urumi Band](https://open.spotify.com/artist/6G9baxLy3W0HgF3vnuGb1m), [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Shikha Prabhakaran](https://open.spotify.com/artist/2yjIbOUQHdWtBVaI4C3LqV), [Faisal Razi](https://open.spotify.com/artist/0rRhddei9JKXd5aAbCPfPN), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Mahr](https://open.spotify.com/album/6qE19y2YwfUMePagVmxaCB) | 4:57 | 2025-09-02 |  |
 | [Malayali Manka](https://open.spotify.com/track/4tUZR9YgLDzpc5u7bLgxLV) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Malayali Manka](https://open.spotify.com/album/4KfWT8emrvah96rVj9lylr) | 3:10 | 2025-08-19 | 2025-08-22 |
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 | 2023-07-28 |
 | [Malkauns](https://open.spotify.com/track/4hSOA3MAsYiqWwf121Q5yC) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Medha Ashok](https://open.spotify.com/artist/7DSF3lg512Jkqaq8IOhXNA) | [Malkauns](https://open.spotify.com/album/5PIRwMD9PPIYRmiXAV0UlX) | 1:52 | 2025-06-13 | 2025-08-09 |

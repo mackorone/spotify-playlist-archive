@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-285 songs - 1 day 4 hr 5 min
+288 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cawuso](https://open.spotify.com/track/5SufPjNEkl797EaQg6WI0y) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena EP](https://open.spotify.com/album/0RlAKqN7uzZr9kaxtPg1fR) | 5:30 | 2025-07-04 |  |
 | [Ce Moment \(Michael Mayer Remix\)](https://open.spotify.com/track/2DI8lCA4DULLopdORCcET4) | [Franz Matthews](https://open.spotify.com/artist/0BIEy45aaKCjwertpSGy4K), [Johannes Klingebiel](https://open.spotify.com/artist/08k6Cr6tJL0XpXALvDKHz3), [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Ce Moment](https://open.spotify.com/album/5DaopoDgCDt0E9A97Xwo4s) | 5:49 | 2025-04-25 |  |
 | [Celandine](https://open.spotify.com/track/0pwYATYc3iZpzLYhruC6LN) | [BufoBufo](https://open.spotify.com/artist/01ZAkObu8Vwa7Bb89hAfT1) | [Celandine](https://open.spotify.com/album/2myf2FSMj1MiyJHPUnECTJ) | 6:05 | 2025-06-06 |  |
+| [Celebration](https://open.spotify.com/track/2DFz3dWTtMylZz3RtiZOop) | [MONKYMAN](https://open.spotify.com/artist/1OZYsEHLgv8uRLvMAywgod) | [Celebration](https://open.spotify.com/album/2FvEWxZBVk0Lq5TjIFNLrN) | 7:45 | 2025-09-02 |  |
 | [Ceremony Of The Dead \(Michael Mayer Mix\)](https://open.spotify.com/track/4m7zpRbzj5jvAcAM8pFIOy) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX), [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Ceremony Of The Dead \(Michael Mayer Mix\)](https://open.spotify.com/album/4whhkg9nSC9wPWGQxADFrm) | 6:58 | 2025-04-02 |  |
 | [Children](https://open.spotify.com/track/4yaMxpixIRN5S7UrNBOCny) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 4:35 | 2024-09-18 |  |
 | [Cirkl](https://open.spotify.com/track/3TDdIjEwuicUX2Po7thqVi) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Sirius Syntoms](https://open.spotify.com/album/5gvxpXyoVJ582HZIjJmq8b) | 5:11 | 2025-06-12 |  |
@@ -105,6 +106,7 @@
 | [Forever Latino](https://open.spotify.com/track/1xc6atHRILx3L6CqNCN7Hx) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Space Drag](https://open.spotify.com/album/0IRRsRMpxLm9wkQyFtoSfx) | 7:14 | 2024-10-04 |  |
 | [Fountain](https://open.spotify.com/track/50RH49OCN87uQ0ZySUyrTj) | [GǼG](https://open.spotify.com/artist/2IS0MZpYejuJAOkYL02xhJ), [MONKEY TIMERS](https://open.spotify.com/artist/3tHaliLoFR0AscFTHDiPxE), [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Anarcho Disco Vol\. 2](https://open.spotify.com/album/7yVxHeWNC5EC1CApdMvzkd) | 5:49 | 2024-09-20 |  |
 | [Fragments](https://open.spotify.com/track/2798eOSPpXS0Ojt7ltNIlo) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [The Glow That Lingers](https://open.spotify.com/album/5uZcBfotdqDnQ9ixCOc0g9) | 6:04 | 2025-03-21 |  |
+| [Frohes Noise](https://open.spotify.com/track/5rZvo8zy35fiX2aAlm6mMR) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [salmjak](https://open.spotify.com/artist/16HcYbKksNVmqc2FTxs4ao) | [Frohes Noise](https://open.spotify.com/album/4AmNtlvWWHvhWZy2D9wy4R) | 6:40 | 2025-09-02 |  |
 | [Future Musik \(A Tribute To Closer Musik\)](https://open.spotify.com/track/2AANxeOfOLVkQWz0h4heI0) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Love Somebody Else / Future Musik](https://open.spotify.com/album/4EXXe5Rgi6jRQDsCPYxfDA) | 9:37 | 2024-11-25 |  |
 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 | 2025-06-03 |  |
 | [Gesamtklärwerk Deutschland](https://open.spotify.com/track/3TANXnwPsMzUdsxNitWswQ) | [Meese X Hell](https://open.spotify.com/artist/6bgC0hzjlWH47Sw1Wd89iW), [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C), [Jonathan Meese](https://open.spotify.com/artist/6gyyxYX54Rqeqxu7tgdket) | [Gesamtklärwerk Deutschland](https://open.spotify.com/album/20whhfirsIkXcaXJ7YJ1UD) | 4:49 | 2025-04-11 |  |
@@ -204,6 +206,7 @@
 | [Relict](https://open.spotify.com/track/65Exye7AtvkqnBtP7W96k3) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Open Catalyst](https://open.spotify.com/album/5WGYEZTVTApOj4MOunvY31) | 4:20 | 2025-03-21 |  |
 | [Remember \- Night Version](https://open.spotify.com/track/4Kf4S0AHU9s2soaQNz67bU) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Night Versions](https://open.spotify.com/album/4IswLnf0haAgObRJ0gXVFc) | 3:50 | 2024-10-04 |  |
 | [ReportDeluxe](https://open.spotify.com/track/6GMDeoBB850G2Vy9d4A0v4) | [A.Wild](https://open.spotify.com/artist/62wnm85AQkmOSBtxA77HlC) | [ReportDeluxe](https://open.spotify.com/album/2C4jIxfIn9B4zkerdRxtfl) | 6:03 | 2025-08-02 |  |
+| [Riding The Blade](https://open.spotify.com/track/7hSEicVTIkvItgIJ7ZKJge) | [Erik Luebs](https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy) | [Speicher 136](https://open.spotify.com/album/4SeJwkanohFsJhYOJKQA9B) | 8:10 | 2025-09-02 |  |
 | [RIMA](https://open.spotify.com/track/6jF1yI1LUrxXy87gnDB3Gs) | [Marco Resmann](https://open.spotify.com/artist/2fC8GMMVIAVPBX2O50Lijm), [Laatz](https://open.spotify.com/artist/2aJQxDA8xM3HW01GNxVS2V) | [Speicher 135](https://open.spotify.com/album/1SAEMKGmN5CjFaqLM2gnQc) | 5:10 | 2025-03-14 |  |
 | [Rip The Keys \- Luke Slater Reassembly](https://open.spotify.com/track/4t82hhBVYPpzKdZ0K9yncz) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60), [Luke Slater](https://open.spotify.com/artist/5BJa6TIqtoWm8QRRbfRmyt) | [Reassembled](https://open.spotify.com/album/5AFOov4YUeJuhSN9vdMNO8) | 6:11 | 2025-04-02 |  |
 | [Robson Ponte \(Jürgen Paape RP7 Remix\)](https://open.spotify.com/track/2FFlo4YWFQmileXQMmUhUX) | [Reinhard Voigt](https://open.spotify.com/artist/6ymI8iWj5p9Ezgyz3b2ICX), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [Robson Ponte Remixe 2025](https://open.spotify.com/album/5GSb1dCxWDzqNmG6c0ysbt) | 4:54 | 2025-04-25 |  |

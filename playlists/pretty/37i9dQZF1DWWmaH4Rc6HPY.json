@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Juanes en portada.",
-  "num_followers": 36239,
+  "num_followers": 36245,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
+        "name": "110",
+        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 176383,
+      "name": "110",
+      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
-        "name": "110",
-        "url": "https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "110",
-      "url": "https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -887,18 +887,22 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "A Fuego",
-        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
+        "name": "Que nadie me llore",
+        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
       },
       "artists": [
         {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
         }
       ],
-      "duration_ms": 167538,
-      "name": "A Fuego",
-      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
+      "duration_ms": 210970,
+      "name": "Que nadie me llore",
+      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -923,22 +927,18 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Que nadie me llore",
-        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
+        "name": "A Fuego",
+        "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
       "artists": [
         {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
-        },
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
         }
       ],
-      "duration_ms": 210970,
-      "name": "Que nadie me llore",
-      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
+      "duration_ms": 167538,
+      "name": "A Fuego",
+      "url": "https://open.spotify.com/track/2MNcAkHDpVqGbRsaqO7LF2"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-08-22 06:00:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-08-22 06:00:14",
       "album": {
-        "name": "llorandoenelclub_100625_v2",
-        "url": "https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 148631,
-      "name": "llorandoenelclub_100625_v2",
-      "url": "https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV"
-    },
-    {
-      "added_at": "2025-08-22 06:00:14",
-      "album": {
         "name": "Lo Que No Quieres Saber",
         "url": "https://open.spotify.com/album/0ZFq3hHFrz74Tc7V26IOIJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
+    },
+    {
+      "added_at": "2025-08-22 06:00:14",
+      "album": {
+        "name": "llorandoenelclub_100625_v2",
+        "url": "https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 148631,
+      "name": "llorandoenelclub_100625_v2",
+      "url": "https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV"
     },
     {
       "added_at": "2025-08-22 06:00:14",

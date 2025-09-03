@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "D\u00f3nde est\u00e1 el amor?",
+        "url": "https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE"
+      },
+      "artists": [
+        {
+          "name": "Jose Viera",
+          "url": "https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR"
+        },
+        {
+          "name": "Jazm\u00edn del Paraguay",
+          "url": "https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194022,
+      "name": "D\u00f3nde est\u00e1 el amor?",
+      "url": "https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu"
+    },
+    {
+      "album": {
         "name": "El Gallo Rojo",
         "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 203911,
       "name": "Viernes De Pe\u00f1a",
       "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"

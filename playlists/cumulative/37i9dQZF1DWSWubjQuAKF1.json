@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Piosenki z akademika",
+        "url": "https://open.spotify.com/album/7ypxXIGeKYrawBRHj7CYv3"
+      },
+      "artists": [
+        {
+          "name": "Krzyk Mody",
+          "url": "https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172799,
+      "name": "Dla Ciebie, dla Ciebie",
+      "url": "https://open.spotify.com/track/0BG0wB1CwVKgcEcyzDrAbF"
+    },
+    {
+      "album": {
         "name": "Dla Turyst\u00f3w",
         "url": "https://open.spotify.com/album/0aFnmKbMvJxPEtC9H2yUb0"
       },
@@ -4757,7 +4775,7 @@
     },
     {
       "album": {
-        "name": "Mam plan",
+        "name": "MAM PLAN",
         "url": "https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu"
       },
       "artists": [
@@ -4778,7 +4796,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162461,
-      "name": "Mam plan",
+      "name": "MAM PLAN",
       "url": "https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx"
     },
     {
@@ -9292,7 +9310,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 139903,
       "name": "Toskania",
       "url": "https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm"

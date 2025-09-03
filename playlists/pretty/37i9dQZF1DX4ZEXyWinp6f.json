@@ -1,6 +1,6 @@
 {
   "description": "Fold time and space through sound to reach imaginary universes.",
-  "num_followers": 264571,
+  "num_followers": 264626,
   "original_name": "Sci-Fi Scapes",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
-        "name": "The Signal",
-        "url": "https://open.spotify.com/album/6mopwrOq8X9v9xSTZ8ExlH"
-      },
-      "artists": [
-        {
-          "name": "Wojciech Golczewski",
-          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
-        }
-      ],
-      "duration_ms": 249652,
-      "name": "Childhood Dream",
-      "url": "https://open.spotify.com/track/0hjlsV7bnM7HLPuIoaMfkm"
-    },
-    {
-      "added_at": "2025-06-19 09:44:41",
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 286506,
       "name": "Tales of the Future",
       "url": "https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG"
+    },
+    {
+      "added_at": "2025-06-19 09:44:41",
+      "album": {
+        "name": "The Signal",
+        "url": "https://open.spotify.com/album/6mopwrOq8X9v9xSTZ8ExlH"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Golczewski",
+          "url": "https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0"
+        }
+      ],
+      "duration_ms": 249652,
+      "name": "Childhood Dream",
+      "url": "https://open.spotify.com/track/0hjlsV7bnM7HLPuIoaMfkm"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
-        "name": "Mandy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 278533,
-      "name": "Mandy Love Theme",
-      "url": "https://open.spotify.com/track/0sTXvRbRyjFCoUbRo7CJ6S"
-    },
-    {
-      "added_at": "2025-06-19 09:44:41",
-      "album": {
         "name": "Dream Sequence",
         "url": "https://open.spotify.com/album/7ALFR4o9ZXfqNVv9EOORn1"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 236573,
       "name": "Love On A Real Train",
       "url": "https://open.spotify.com/track/49y78l709VxMkIcq7jUJKN"
+    },
+    {
+      "added_at": "2025-06-19 09:44:41",
+      "album": {
+        "name": "Mandy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "Mandy Love Theme",
+      "url": "https://open.spotify.com/track/0sTXvRbRyjFCoUbRo7CJ6S"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -655,8 +655,8 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
-        "name": "Sleep Games",
-        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
+        "name": "Hollow Earth",
+        "url": "https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
         }
       ],
-      "duration_ms": 132834,
-      "name": "Yesterday's Entertainment",
-      "url": "https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9"
+      "duration_ms": 311836,
+      "name": "Hollow Earth",
+      "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -735,8 +735,8 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
-        "name": "Hollow Earth",
-        "url": "https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG"
+        "name": "Sleep Games",
+        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
         }
       ],
-      "duration_ms": 311836,
-      "name": "Hollow Earth",
-      "url": "https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm"
+      "duration_ms": 132834,
+      "name": "Yesterday's Entertainment",
+      "url": "https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
+        "name": "Sowiesoso",
+        "url": "https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV"
+      },
+      "artists": [
+        {
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
+        }
+      ],
+      "duration_ms": 491400,
+      "name": "Sowiesoso",
+      "url": "https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1"
+    },
+    {
+      "added_at": "2025-06-19 09:44:41",
+      "album": {
         "name": "Endling",
         "url": "https://open.spotify.com/album/3i26oAnvfsqgFFo19IVlQV"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 307573,
       "name": "The Eighth Wave",
       "url": "https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ"
-    },
-    {
-      "added_at": "2025-06-19 09:44:41",
-      "album": {
-        "name": "Sowiesoso",
-        "url": "https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 491400,
-      "name": "Sowiesoso",
-      "url": "https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
+        "name": "Stuntman",
+        "url": "https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg"
+      },
+      "artists": [
+        {
+          "name": "Edgar Froese",
+          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
+        }
+      ],
+      "duration_ms": 393066,
+      "name": "Detroit Snackbar Dreamer",
+      "url": "https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7"
+    },
+    {
+      "added_at": "2025-06-19 09:44:41",
+      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2025-06-19 09:44:41",
-      "album": {
-        "name": "Stuntman",
-        "url": "https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg"
-      },
-      "artists": [
-        {
-          "name": "Edgar Froese",
-          "url": "https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr"
-        }
-      ],
-      "duration_ms": 393066,
-      "name": "Detroit Snackbar Dreamer",
-      "url": "https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7"
     },
     {
       "added_at": "2025-06-19 09:44:41",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-06-19 09:44:41",
       "album": {
+        "name": "Synthesist",
+        "url": "https://open.spotify.com/album/5CrGQOQ2h1mchfGt4T8Qwd"
+      },
+      "artists": [
+        {
+          "name": "Harald Grosskopf",
+          "url": "https://open.spotify.com/artist/1yejR2Tszo9sGMXtmuq07K"
+        }
+      ],
+      "duration_ms": 328426,
+      "name": "So weit, so gut",
+      "url": "https://open.spotify.com/track/3FN3frDWGsI88XBPqS1c8E"
+    },
+    {
+      "added_at": "2025-06-19 09:44:41",
+      "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
         "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 192300,
       "name": "Marmo",
       "url": "https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV"
-    },
-    {
-      "added_at": "2025-06-19 09:44:41",
-      "album": {
-        "name": "Synthesist",
-        "url": "https://open.spotify.com/album/5CrGQOQ2h1mchfGt4T8Qwd"
-      },
-      "artists": [
-        {
-          "name": "Harald Grosskopf",
-          "url": "https://open.spotify.com/artist/1yejR2Tszo9sGMXtmuq07K"
-        }
-      ],
-      "duration_ms": 328426,
-      "name": "So weit, so gut",
-      "url": "https://open.spotify.com/track/3FN3frDWGsI88XBPqS1c8E"
     }
   ],
   "unique_name": "Sci-Fi Scapes",

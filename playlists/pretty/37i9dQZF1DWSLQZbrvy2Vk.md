@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,659 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,683 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 14 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:05 |
 | 15 | [After You](https://open.spotify.com/track/79HnQTLW0pwPdB3HqZciMf) | [Barbara Acklin](https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A) | [20 Greatest Hits](https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH) | 2:26 |
 | 16 | [My Sweet Baby](https://open.spotify.com/track/293EJAudKTSNP5CiYKaeHu) | [J T Rhythm](https://open.spotify.com/artist/7m87K0v2hgaBJGX9qTqwKo) | [Dave Hamilton's Detroit Soul](https://open.spotify.com/album/7DoAvyTnIUSFm4YVFgi1N2) | 2:32 |
-| 17 | [Only A Fool](https://open.spotify.com/track/49tuTHTx95R7KyNpZoxDDZ) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [The Hotlanta Soul of Loleatta Holloway](https://open.spotify.com/album/2MGscly7cCTqykmyu7Z27R) | 2:35 |
+| 17 | [Only a Fool](https://open.spotify.com/track/49tuTHTx95R7KyNpZoxDDZ) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [The Hotlanta Soul of Loleatta Holloway](https://open.spotify.com/album/2MGscly7cCTqykmyu7Z27R) | 2:35 |
 | 18 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 19 | [Bosco USA](https://open.spotify.com/track/79PSrCfvAu1eLdXt2wyTsA) | [Cookie Little](https://open.spotify.com/artist/6lHPvSDLORV3L7BzzVWIfw) | [Deep Cuts: 1970's Soul](https://open.spotify.com/album/17nHDxVtHKnTFVi5QdKV4z) | 2:45 |
 | 20 | [Show Me What You Got](https://open.spotify.com/track/4yhX08D6Qey0h9j8sublfZ) | [Frank Williams & the Rocketeers](https://open.spotify.com/artist/5vwbZqrHOTxJIpmjwLSd9G) | [Eccentric Soul: The Outskirts Of Deep City](https://open.spotify.com/album/1fOcTgQMuGvrgRETfLcoe6) | 2:32 |

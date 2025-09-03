@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,095 likes - 60 songs - 2 hr 46 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,095 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,15 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 58 | [White Noise](https://open.spotify.com/track/3IOoYGnPLIPlpRDAiQLf2v) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [White Noise](https://open.spotify.com/album/0ZQQxiHRvS6hy1N5EMn6RB) | 2:50 |
 | 59 | [Bon Appétit](https://open.spotify.com/track/1Dhpasf3IFSkWHVEKH3sas) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bon Appétit](https://open.spotify.com/album/3xNVzuYogaA4nKfHVeMHtr) | 2:18 |
 | 60 | [Wtf U Mean](https://open.spotify.com/track/7gw6N2Jnoi9eFKj8xbkvq8) | [B6](https://open.spotify.com/artist/6MVeUEtni8vBYtIs9jy2ZK), [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Leverage](https://open.spotify.com/album/1EvhGFBT6IZv3AGlCtXZHB) | 2:04 |
+| 61 | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/track/5TLjEHlPV8jpxQTVTmQYY3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/album/3N3vA5recDthv6aBGfnTEb) | 3:26 |
+| 62 | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/track/3lNhFNudb3UkGtyuNfOIr7) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/album/5oMucxeRl90JjyZbUgaDdn) | 2:30 |
+| 63 | [Raincoat](https://open.spotify.com/track/07F3O6tfMJeEjFKO0j0ZW8) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [Raincoat](https://open.spotify.com/album/2y5Q38NapwY3I8ssjG48C1) | 1:49 |
+| 64 | [Firebomber](https://open.spotify.com/track/1orZXri2IguSEjN9XjT9TZ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Firebomber](https://open.spotify.com/album/32xYgM74LVRhx5rAl2dJ5c) | 4:13 |
+| 65 | [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 |
+| 66 | [Platinum](https://open.spotify.com/track/5wq020Q9XkiOyWZB10WxiN) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [STAR BANDZ](https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM) | [Platinum](https://open.spotify.com/album/2wc59SuHQO9K54lzv6eqBN) | 1:50 |
+| 67 | [Putting Ya Dine](https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Putting Ya Dine](https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo) | 2:59 |
+| 68 | [Switch Crowd \(feat\. FattMack\)](https://open.spotify.com/track/5dCDHvLvQJM9ywKoDK3zbr) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Switch Crowd \(feat\. FattMack\)](https://open.spotify.com/album/5mPbyHEG7KSrp7iwYMMy2n) | 2:58 |
+| 69 | [London](https://open.spotify.com/track/1JBO94PcFFU28q3ApaONq0) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 2:46 |
+| 70 | [NO LOWER](https://open.spotify.com/track/2gDMzGWi8s0IWH0vKEliqV) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [NO LOWER](https://open.spotify.com/album/7cHr0RqdLSjcLk7ujU95U2) | 2:29 |
 
-Snapshot ID: `AAAlyPk4pqiayiBmisOZEuJql6YJMzyN`
+Snapshot ID: `AAAl0mosFWwFdQMOLpa7XT3N6Ownqcrw`

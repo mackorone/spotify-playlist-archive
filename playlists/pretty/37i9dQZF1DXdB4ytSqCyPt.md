@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdB4ytSqCyPt.md) - [plain]
 
 > Their show must go on\. Listen to the music from Girls5eva, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,306 likes - 33 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,305 likes - 33 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

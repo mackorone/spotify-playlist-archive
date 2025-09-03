@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,214 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,224 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 12 | [Mirándote](https://open.spotify.com/track/57YqM04oGuXV4mtXM5rmxH) | [Cintia Aldana](https://open.spotify.com/artist/2P1om2xP9Qw4adZzOZKZeP), [Ayrton Suarez](https://open.spotify.com/artist/2cii64d8N4GUst5uxlBw4v), [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR) | [Mirándote](https://open.spotify.com/album/0vxhX8zJh5ZkAG6MfxEYNL) | 2:37 |
 | 13 | [Fiesta En El Cielo](https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI) | [Yompy](https://open.spotify.com/artist/4do7ZNZPgNng5V5zyKXcqY), [David Ordoñez](https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0) | [Fiesta En El Cielo](https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6) | 3:20 |
 | 14 | [CONMIGO VA](https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [CONMIGO VA](https://open.spotify.com/album/3pjDokX4LvRA9kZwTKYJdn) | 3:31 |
-| 15 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/0oqOEucRjwA3NwSpyRTg1Z) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 |
+| 15 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 |
 | 16 | [Padre](https://open.spotify.com/track/3yTWtV2ugeyX6JirIkNfsH) | [Casa de Dios Música](https://open.spotify.com/artist/0OdkD953bIc3208eVmoweb) | [Padre](https://open.spotify.com/album/5xImPKJ1nmylemWZ2Ewk3G) | 3:03 |
 | 17 | [Gloria y Honor](https://open.spotify.com/track/2QDFfmytYpMFwzJZiY4Gin) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [Tirsa Devid](https://open.spotify.com/artist/20vAJTVOfHcAedY6VQyozo) | [Gloria y Honor](https://open.spotify.com/album/0ZcjnM5m52CvJx3TzGpaZe) | 4:50 |
 | 18 | [Soy Libre](https://open.spotify.com/track/36tNg4iIUY9mgkCIWTBTrA) | [S1 AFTER](https://open.spotify.com/artist/6Z9dBS0QmfD5fep8lh17VF), [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Storytime](https://open.spotify.com/album/43iKX5myV14erRoneU5Fas) | 3:51 |

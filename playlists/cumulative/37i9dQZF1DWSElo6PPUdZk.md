@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simran Kaur Dhadli
 
-207 songs - 10 hr 39 min
+208 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2023-03-18 | 2023-04-20 |
 | [LAAVAN](https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LAAVAN](https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah) | 3:05 | 2024-12-11 | 2025-07-30 |
 | [Lala Lala](https://open.spotify.com/track/02FQ4MmF9Q7us88QgTSQnJ) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Lala Lala](https://open.spotify.com/album/2i03NF2qSpfLiH5zeUEIW4) | 3:12 | 2023-12-11 | 2024-04-24 |
+| [Lala Lala](https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Lala Lala](https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz) | 2:42 | 2025-09-01 |  |
 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 | 2025-03-20 |  |
 | [Law Kardi](https://open.spotify.com/track/7i7p0mBZV5IQxhf5Ms3ztT) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC) | [Law Kardi](https://open.spotify.com/album/1y1IK4bIGMxcEL3IAVEE97) | 2:31 | 2024-09-16 | 2024-10-25 |
 | [License](https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [License](https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q) | 2:34 | 2023-09-15 | 2024-10-24 |
@@ -174,7 +175,7 @@
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 | 2024-09-29 |
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
-| [Shak](https://open.spotify.com/track/2QxqjR9jxNFTAoz304jZfc) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dhammi Gill](https://open.spotify.com/artist/7nznHLzR4wRBtXEJ4fxzkz) | [Still Shining](https://open.spotify.com/album/0u1xiXYdkR93Q4djzg5QO9) | 2:25 | 2025-07-25 |  |
+| [Shak](https://open.spotify.com/track/2QxqjR9jxNFTAoz304jZfc) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dhammi Gill](https://open.spotify.com/artist/7nznHLzR4wRBtXEJ4fxzkz) | [Still Shining](https://open.spotify.com/album/0u1xiXYdkR93Q4djzg5QO9) | 2:25 | 2025-07-25 | 2025-09-03 |
 | [Sheesha](https://open.spotify.com/track/72KGgCY0BIPupLNvnYDNIR) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Geet](https://open.spotify.com/artist/611iMDwmj2x1wHVq0896Zi) | [Sheesha](https://open.spotify.com/album/0R6gtv0SzfiNv8pumliPmr) | 2:46 | 2025-01-14 | 2025-03-21 |
 | [Sheesha](https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Sheesha](https://open.spotify.com/album/1cUkKKUDmycMkQhA88gyLG) | 3:15 | 2024-09-06 | 2024-10-09 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |

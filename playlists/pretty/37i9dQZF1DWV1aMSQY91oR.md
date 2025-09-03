@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,839 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,842 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 6 | [Daddy’s Little Girl](https://open.spotify.com/track/2sBVHAVBUrfeeLkDLMWobS) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: All Eyez On Key](https://open.spotify.com/album/1xilmbBVUsZj9oXCLHS81F) | 2:33 |
 | 7 | [Expensive \(feat\. Planet Giza\)](https://open.spotify.com/track/2A0puPvjP7To5dQuI84QJK) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Expensive \(feat\. Planet Giza\)](https://open.spotify.com/album/7AVWpMUm7S90epgsLLbB86) | 2:49 |
 | 8 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 |
-| 9 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
+| 9 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
 | 10 | [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 |
 | 11 | [Bikini Bottom](https://open.spotify.com/track/0MuPgMtGurEJMNpMMLVc7l) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Bikini Bottom](https://open.spotify.com/album/2kJ9nzPae4KMpxzKLsm5wx) | 3:45 |
 | 12 | [Let's Play A Game](https://open.spotify.com/track/52BLsbxRPsp3o6VdVxyqmt) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [Savv Vs Savage](https://open.spotify.com/album/2plUCPKHoC7ttVAPaidFMR) | 2:13 |

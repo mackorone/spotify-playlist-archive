@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Eminem, Key Glock, DJ Khaled and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,083 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,170 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 7 | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/track/3lNhFNudb3UkGtyuNfOIr7) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Rich in Rome \(feat\. LAZER DIM 700 & Nino Paid\)](https://open.spotify.com/album/5oMucxeRl90JjyZbUgaDdn) | 2:30 |
 | 8 | [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 |
 | 9 | [Party All Night](https://open.spotify.com/track/5X5aluniMpOpuFf06ZY6K2) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Party All Night](https://open.spotify.com/album/6ZHrqoyD0lyacbB7NlKofE) | 2:09 |
-| 10 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
-| 11 | [Recognize](https://open.spotify.com/track/0vMhUzszNsYPcUfLitNRNp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [The Elephant & The Rider \(W!LD Deluxe\)](https://open.spotify.com/album/4yfXdMJl2ckTYvEXes0aaQ) | 3:01 |
+| 10 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
+| 11 | [Recognize](https://open.spotify.com/track/0vMhUzszNsYPcUfLitNRNp) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [W!LD Deluxe: The Elephant & The Rider](https://open.spotify.com/album/4yfXdMJl2ckTYvEXes0aaQ) | 3:01 |
 | 12 | [Name My Price](https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Name My Price](https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ) | 2:12 |
 | 13 | [Putting Ya Dine](https://open.spotify.com/track/3C9H7htrTDVHrP8BiB2f2r) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Putting Ya Dine](https://open.spotify.com/album/1EfvRoD67Fh0xHvMfeFrGo) | 2:59 |
 | 14 | [Bikini Bottom](https://open.spotify.com/track/0MuPgMtGurEJMNpMMLVc7l) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Bikini Bottom](https://open.spotify.com/album/2kJ9nzPae4KMpxzKLsm5wx) | 3:45 |

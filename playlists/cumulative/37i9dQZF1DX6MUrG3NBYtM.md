@@ -2,9 +2,9 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Indie & Alternative\. Cover: Turnstile
+> De beste Indie & Alternative\. Cover: Min Taka
 
-225 songs - 13 hr 45 min
+226 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-26 | 2024-09-27 |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-11-22 | 2025-04-04 |
 | [Bonfire](https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Bonfire](https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3) | 3:49 | 2024-12-19 | 2025-04-26 |
+| [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2025-09-02 |  |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-01-13 | 2025-02-28 |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-10-03 | 2025-05-13 |
 | [Canvas Horizon](https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7) | [JB Meijers](https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75) | [Canvas Horizon](https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC) | 3:09 | 2025-07-04 | 2025-08-30 |
@@ -116,7 +117,7 @@
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-01 | 2025-01-14 |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-03-13 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-02-06 | 2025-06-03 |
-| [MASSIVE LOVE INFECTION](https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [MASSIVE LOVE INFECTION](https://open.spotify.com/album/2MQtZxMSsYKI3d1aSzXYQI) | 3:47 | 2025-02-27 |  |
+| [MASSIVE LOVE INFECTION](https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [MASSIVE LOVE INFECTION](https://open.spotify.com/album/2MQtZxMSsYKI3d1aSzXYQI) | 3:47 | 2025-02-27 | 2025-09-03 |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-01-16 | 2025-08-09 |
 | [Millennial Sadness](https://open.spotify.com/track/3wUaVyxvIaYOH9hz7ctwxD) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Millennial Sadness](https://open.spotify.com/album/2UVVudHDFhF6NbjdB4jzNy) | 3:28 | 2025-01-23 | 2025-02-28 |
 | [miss u](https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [miss u](https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl) | 3:22 | 2025-01-06 | 2025-03-14 |

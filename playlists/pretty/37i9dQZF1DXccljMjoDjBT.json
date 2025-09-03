@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 334208,
+  "num_followers": 334310,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Inside Information",
-        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 237693,
-      "name": "I Don't Want to Live Without You",
-      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Hearts In Motion",
         "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 249066,
       "name": "Lonely Is the Night",
       "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Inside Information",
+        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "I Don't Want to Live Without You",
+      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Christine McVie",
-        "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Got a Hold on Me",
-      "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "The Very Best Of Dan Fogelberg",
         "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 245293,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Christine McVie",
+        "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Got a Hold on Me",
+      "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
     },
     {
       "added_at": "2023-03-30 14:38:10",

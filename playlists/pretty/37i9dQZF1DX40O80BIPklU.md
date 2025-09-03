@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Cosculluela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,633 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,638 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 13 | [BACK TO THE 90s](https://open.spotify.com/track/4eZwTqnEhXNcbk2rqU8sZT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Big Sempa](https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf) | [LOS CHICOS DEL NORTE](https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m) | 3:21 |
 | 14 | [\[FREE\] 5202 Type Beat](https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:38 |
 | 15 | [INTOCABLE \- LIVING ROOM VERSION](https://open.spotify.com/track/79wGfIGrF41XOzW8OAZF2p) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Âme Enterprise](https://open.spotify.com/artist/4shQm7uCLEsj7fYUS8YjUR), [Dayner "El Especialista"](https://open.spotify.com/artist/4TqOR0O9lfnBxGg0lCtHm7) | [INTOCABLE \(Living Room Version\)](https://open.spotify.com/album/3X2UNMlONTyZ8CpjWmCSSV) | 2:43 |
-| 16 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
+| 16 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
 | 17 | [La Cascada](https://open.spotify.com/track/5R9xtR4mpX2OdcbqirHjUD) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [La Cascada](https://open.spotify.com/album/4F7gmDdN1ZTmplwbMRC8Hq) | 3:36 |
 | 18 | [Canción Para el Fin del Mundo](https://open.spotify.com/track/1eGObrmyfUk7KxxMFvP8AY) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Canción Para el Fin del Mundo](https://open.spotify.com/album/32S7YT4SQq1LeQ8zoGP7zd) | 3:42 |
 | 19 | [Todo Irá Bien](https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todo Irá Bien](https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP) | 3:11 |

@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Ballad for the Lost King",
+        "url": "https://open.spotify.com/album/1ZBo42MacUTP1D6rSSs9ga"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266761,
+      "name": "Ballad for the Lost King",
+      "url": "https://open.spotify.com/track/5foDzGXkv7vENW5ByV1mXF"
+    },
+    {
+      "album": {
         "name": "Bavaria",
         "url": "https://open.spotify.com/album/3bgV7saRotc51WR0hpZD5d"
       },
@@ -2040,16 +2058,16 @@
       },
       "artists": [
         {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        },
-        {
           "name": "Leon Wolf",
           "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
           "name": "Robin Kallenberger",
           "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "date_added": "2025-02-12",
@@ -5184,6 +5202,36 @@
       "duration_ms": 372666,
       "name": "Piano Trio No. 1 in D Minor, Op. 49: II. Andante con moto tranquillo",
       "url": "https://open.spotify.com/track/4C6NNiKJSjpBKw9DJ8tY3B"
+    },
+    {
+      "album": {
+        "name": "Beethoven for Three: Symphony No. 1 / Op. 70, No. 1 \"Ghost\" / Op. 11 \"Gassenhauer\"",
+        "url": "https://open.spotify.com/album/6XsOq8yWYhsgx7Z2viZut6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301480,
+      "name": "Piano Trio No. 4 in B-Flat Major, Op. 11 \"Gassenhauer\": II. Adagio",
+      "url": "https://open.spotify.com/track/6cFD0ZuIhfTAL9ofo2fMYa"
     },
     {
       "album": {

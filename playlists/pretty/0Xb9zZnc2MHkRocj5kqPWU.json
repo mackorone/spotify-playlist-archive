@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 61561,
+  "num_followers": 61554,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIFJLVbFxBDzg1PFZMjOfGbgi7zd7N",
+  "snapshot_id": "AAAIGOHejJT8V32mc2TdPooOxgZj3iDY",
   "tracks": [
+    {
+      "added_at": "2025-09-02 13:13:24",
+      "album": {
+        "name": "Ballad for the Lost King",
+        "url": "https://open.spotify.com/album/1ZBo42MacUTP1D6rSSs9ga"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 266761,
+      "name": "Ballad for the Lost King",
+      "url": "https://open.spotify.com/track/5foDzGXkv7vENW5ByV1mXF"
+    },
     {
       "added_at": "2025-07-08 13:43:41",
       "album": {
@@ -43,6 +59,34 @@
       "duration_ms": 248813,
       "name": "Bach: Cello Suite No. 5 in C Minor, BWV 1011: IV. Sarabande",
       "url": "https://open.spotify.com/track/3I9xdkTrYJWfh4S56w0IU4"
+    },
+    {
+      "added_at": "2025-09-02 13:12:53",
+      "album": {
+        "name": "Beethoven for Three: Symphony No. 1 / Op. 70, No. 1 \"Ghost\" / Op. 11 \"Gassenhauer\"",
+        "url": "https://open.spotify.com/album/6XsOq8yWYhsgx7Z2viZut6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Leonidas Kavakos",
+          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "duration_ms": 301480,
+      "name": "Piano Trio No. 4 in B-Flat Major, Op. 11 \"Gassenhauer\": II. Adagio",
+      "url": "https://open.spotify.com/track/6cFD0ZuIhfTAL9ofo2fMYa"
     },
     {
       "added_at": "2025-08-18 12:37:09",
@@ -1132,16 +1176,16 @@
       },
       "artists": [
         {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        },
-        {
           "name": "Leon Wolf",
           "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
         },
         {
           "name": "Robin Kallenberger",
           "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "duration_ms": 222960,

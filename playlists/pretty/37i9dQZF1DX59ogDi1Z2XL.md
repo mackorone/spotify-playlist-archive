@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: <br/>Savv4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,596 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,697 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 48 | [LET EM OUT](https://open.spotify.com/track/2lQtir4kucnRn8wcESAU6g) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [LET EM OUT](https://open.spotify.com/album/2eW7djVnQycwpmhiiNjiql) | 2:49 |
 | 49 | [CHROME HEARTS](https://open.spotify.com/track/4ZlaY8an3Sk87sW9m0mkil) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [Bundog](https://open.spotify.com/artist/4wL3ZswVcMUC6iNcvWklfO) | [CHROME HEARTS](https://open.spotify.com/album/24tSytQhrgseCAvSx2Gydo) | 3:16 |
 | 50 | [LIFT SERVICE](https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 2:18 |
-| 51 | [Up Close](https://open.spotify.com/track/46tRTHBQcE46tKkSfGjYNL) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Slippery Elm](https://open.spotify.com/artist/4jcD1ANurqD6PHZUpcZckI), [Bahamadia](https://open.spotify.com/artist/4aOOov3QMyY3gdGLFzgXpf) | [Up Close](https://open.spotify.com/album/2nSpeH8yrpEeJgA63xBtVc) | 3:17 |
+| 51 | [Up Close](https://open.spotify.com/track/46tRTHBQcE46tKkSfGjYNL) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Slippery Elm](https://open.spotify.com/artist/4jcD1ANurqD6PHZUpcZckI), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Up Close](https://open.spotify.com/album/2nSpeH8yrpEeJgA63xBtVc) | 3:17 |
 | 52 | [Allegedly](https://open.spotify.com/track/04LykEZhcwFU2WBz8leiGZ) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Allegedly](https://open.spotify.com/album/4SVnC6tyMHfH09V2QX7WYu) | 2:47 |
 | 53 | [PROLLY US](https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Chèlbè](https://open.spotify.com/album/4vKup5g5YoD5blHlYdvy5p) | 2:31 |
 | 54 | [Been On Uno](https://open.spotify.com/track/3283ZLNfoZE9qVp4ySDk3g) | [Lindasson](https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7) | [Been On Uno](https://open.spotify.com/album/4xDl78h1JUJugj4zwPEYsS) | 2:01 |

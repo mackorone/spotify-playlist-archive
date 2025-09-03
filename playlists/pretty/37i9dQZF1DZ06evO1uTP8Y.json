@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7741,
+  "num_followers": 7759,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAADQK9uCnyaItez3T9OGlDpF",
+  "snapshot_id": "aLTiAAAAAABp+wo5fv6UJS9ffwjuQeD4",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Maybe I\u2019m Best Alone",
-        "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 165202,
-      "name": "Twenny-Nine After Two",
-      "url": "https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passenger",
         "url": "https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC"
       },
@@ -775,22 +759,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/4m8ae2qbI8mjUAWdRaeeCi"
+        "name": "OVMBR: Maybe I\u2019m Best Alone",
+        "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
       },
       "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 197526,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/3eiHK0kBfAB8ldBTHgPtVx"
+      "duration_ms": 165202,
+      "name": "Twenny-Nine After Two",
+      "url": "https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 151176,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/4m8ae2qbI8mjUAWdRaeeCi"
       },
       "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 151176,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX"
+      "duration_ms": 197526,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/3eiHK0kBfAB8ldBTHgPtVx"
     },
     {
       "added_at": null,

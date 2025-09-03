@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,596 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,634 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 26 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 |
 | 27 | [Frame Dragging](https://open.spotify.com/track/172cPFPhhyr9YzhXCMnafi) | [Arthur Robert](https://open.spotify.com/artist/03fCnnnuTnIahIcmQ8NjM4) | [Frame Dragging](https://open.spotify.com/album/0KWxCPIZfrxBqpYsv0ik0d) | 5:08 |
 | 28 | [Dupré's Paradise](https://open.spotify.com/track/1flggdDuulgUiMsDTwFqDp) | [Patche](https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1) | [Dupré's Paradise](https://open.spotify.com/album/3cL7KhsnFPQb9qIdDhK2hj) | 5:43 |
-| 29 | [Stardew](https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Starlight Divergence](https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u) | 3:19 |
+| 29 | [Stardew](https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Starlight Divergence](https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u) | 3:17 |
 | 30 | [Circadian Rhythm \- BOP Remix](https://open.spotify.com/track/151JobcMNpyBbA47MR0z5T) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Circadian Rhythm \(BOP Remix\)](https://open.spotify.com/album/1DTFfoiB1F1DOnWQAiXea2) | 4:34 |
 | 31 | [Satellite](https://open.spotify.com/track/1ZujYf9faGjNWfb5kChIYY) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Trans Voices](https://open.spotify.com/artist/5gKkDU3PBlwJF3KXTfgplH) | [Satellite](https://open.spotify.com/album/340HOvCalhkakUkfdtZohg) | 4:24 |
 | 32 | [Tulpa](https://open.spotify.com/track/22SsFlXdJtcYKkD9Lx1osr) | [hej motti](https://open.spotify.com/artist/1sVzJA35Mk7QHp1aVh7m6Q) | [Tulpa](https://open.spotify.com/album/5oHddvq6v69uzM00VpgwYJ) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,831 likes - 203 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,853 likes - 203 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 3 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
 | 4 | [Automne](https://open.spotify.com/track/4q0kdtrDe5YiYEQCHsfDlZ) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Automne](https://open.spotify.com/album/6KWLiS8BWwwXZMtzO6Kfwv) | 2:26 |
 | 5 | [Moving](https://open.spotify.com/track/4EKiAvYFtffr5BaRk7Uf49) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Moving](https://open.spotify.com/album/5mMbhQ1Ok2Y0NEcaACeT2t) | 2:11 |
-| 6 | [Noeva](https://open.spotify.com/track/3pdMBUzqtYgPKmX93x2yXt) | [Thiago Hernan](https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv) | [Noeva](https://open.spotify.com/album/7EA9KIQvfmz9h5VRbYQaiN) | 2:40 |
-| 7 | [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 |
+| 6 | [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 |
+| 7 | [Noeva](https://open.spotify.com/track/3pdMBUzqtYgPKmX93x2yXt) | [Thiago Hernan](https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv) | [Noeva](https://open.spotify.com/album/7EA9KIQvfmz9h5VRbYQaiN) | 2:40 |
 | 8 | [Unwind Dreams](https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Unwind Dreams](https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6) | 2:52 |
-| 9 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 |
-| 10 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 |
+| 9 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 |
+| 10 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 |
 | 11 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 |
 | 12 | [Two Sides](https://open.spotify.com/track/3Anmncvo0nRfp0keODvz5b) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Two Sides](https://open.spotify.com/album/5qL9hrO0oEMIooR5vj5FOw) | 2:07 |
 | 13 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 |
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 202 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 |
 | 203 | [I Was Here](https://open.spotify.com/track/47CrKzr1UF48IUkefXrsJv) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [I Was Here](https://open.spotify.com/album/5xODkBzdjQmoXTAuA4b7l3) | 2:26 |
 
-Snapshot ID: `AAAAACvVm3Wi1v+KbMMen+hTDvesFo0M`
+Snapshot ID: `AAAAAKf+Kmrcm70MCjWSs+q2BEVgLizM`

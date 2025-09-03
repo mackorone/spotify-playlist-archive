@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 492262,
+  "num_followers": 492736,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Garota De Ipanema",
+      "url": "https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
       },
@@ -619,6 +639,22 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "Chega de Saudade (42 Original Tracks)",
+        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
       },
@@ -635,22 +671,6 @@
       "duration_ms": 139253,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "Chega de Saudade (42 Original Tracks)",
-        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
     },
     {
       "added_at": "2025-07-14 08:19:39",
@@ -683,26 +703,6 @@
       "duration_ms": 186773,
       "name": "Manha de Carnaval",
       "url": "https://open.spotify.com/track/2LFcZ1nrrMPmGOvuEwAK23"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
-      },
-      "artists": [
-        {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "Garota De Ipanema",
-      "url": "https://open.spotify.com/track/13phYi072bj5ibxBx4VhQC"
     },
     {
       "added_at": "2025-07-14 08:19:39",

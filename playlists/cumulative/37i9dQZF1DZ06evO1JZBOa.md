@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-154 songs - 11 hr 45 min
+155 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Lagos Go Slow](https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:48 | 2021-12-28 | 2024-01-06 |
 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 | 2024-02-05 |  |
 | [Lemba](https://open.spotify.com/track/5WwoxtB0mX4FtumB5bLJJF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6) | [Kirikou Et Les Bêtes Sauvages](https://open.spotify.com/album/3jPFCv3MmeFm529jkzUfIM) | 5:57 | 2022-01-20 | 2022-01-22 |
-| [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 | 2021-12-28 |  |
+| [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 | 2021-12-28 | 2025-09-03 |
 | [Lily](https://open.spotify.com/track/22tFAxQp5YRirWV8EWU7J6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/02T4tS67RI3QbqQTVnvGkt) | 4:11 | 2021-12-28 | 2022-03-30 |
 | [Lily](https://open.spotify.com/track/5cMFjZAoxCWqgUO7VQcunF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 4:11 | 2022-04-06 | 2023-08-04 |
 | [Manga Bolo](https://open.spotify.com/track/1HLgT7DvHzZ7JvEdXrgWCg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 5:43 | 2022-04-05 | 2022-04-07 |
@@ -150,6 +150,7 @@
 | [Tropical Garden](https://open.spotify.com/track/5Gl4N8qggcvLe4e7Kux3XJ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 8:21 | 2021-12-28 | 2022-04-01 |
 | [Tropical Garden](https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Home Made](https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6) | 8:22 | 2022-04-01 |  |
 | [Tu sais \- Hymne officiel de la Francophonie](https://open.spotify.com/track/2DL1IgEEJxRT88OScgQv0G) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD), [Inna MODJA](https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Tu sais \(Hymne officiel de la Francophonie\)](https://open.spotify.com/album/6GB9E89wUtFSU9HzpJacyi) | 3:00 | 2023-01-03 | 2023-03-15 |
+| [Wa\-Wa](https://open.spotify.com/track/3WXAfAWrrHDO2EBAo34DHH) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 3:03 | 2025-09-03 |  |
 | [Waka Juju](https://open.spotify.com/track/4SSbRPQrMUQZiTPyBikl1w) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:49 | 2022-01-15 | 2022-04-08 |
 | [Waka Juju Part 1](https://open.spotify.com/track/5YaPcafCexFx4CLmosjhZn) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 3:54 | 2025-04-24 | 2025-06-26 |
 | [Waka Juju Part 2](https://open.spotify.com/track/54DBhZHidY3FVayTqKN46q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 4:23 | 2025-04-25 | 2025-05-24 |

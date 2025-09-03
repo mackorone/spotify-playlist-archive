@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-481 songs - 1 day 0 hr 29 min
+482 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [3020](https://open.spotify.com/track/3BzLg09AsTC8GO8PZMALmB) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Veraz beats](https://open.spotify.com/artist/2vc5EEAoIPIYCb4UqQxQlG) | [3020](https://open.spotify.com/album/7wOT5hE8dEqyIkJ8WaC7Yp) | 3:12 | 2025-07-04 | 2025-07-12 |
 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 | 2023-06-29 | 2025-01-11 |
 | [3B2](https://open.spotify.com/track/4OKhBPMo7JzLlACGxm8gMr) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [3B2](https://open.spotify.com/album/6HWe0u8z4qbiuatajJ7n6N) | 2:44 | 2023-07-11 | 2023-08-31 |
-| [4 SEATER](https://open.spotify.com/track/71JS4jGMy3I0jbXdUtal53) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [4 SEATER](https://open.spotify.com/album/58u2VMaJlXYrMoPSVZh9pX) | 2:32 | 2025-08-19 |  |
+| [4 SEATER](https://open.spotify.com/track/71JS4jGMy3I0jbXdUtal53) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [4 SEATER](https://open.spotify.com/album/58u2VMaJlXYrMoPSVZh9pX) | 2:32 | 2025-08-19 | 2025-09-03 |
 | [4X4](https://open.spotify.com/track/4Nw9nfxHby5docS7aRMpfY) | [DIHAATI](https://open.spotify.com/artist/7EJKPx2uSd6xqtTDlpRb2b), [KB](https://open.spotify.com/artist/0kcYojab9VeXwVDSNhsDxO), [Prince Muzic](https://open.spotify.com/artist/7G8l57G7HQMlQvIFKJNGmx) | [4X4](https://open.spotify.com/album/6mERiL88oGJ4CxnBc9hYef) | 2:56 | 2023-08-14 | 2023-08-24 |
 | [51 GARH](https://open.spotify.com/track/0mjUJvap4UkCm4K6eLGmlx) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [51 GARH](https://open.spotify.com/album/7fzEw7guk8NI9GnrUdbXdd) | 2:41 | 2024-11-14 |  |
 | [9 KI 9](https://open.spotify.com/track/6yr1IcmvJJpCtEGBsxKyuq) | [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU) | [9 KI 9](https://open.spotify.com/album/7dsEdiPsMadqsZxPiXF8Hc) | 2:45 | 2025-08-08 |  |
@@ -311,6 +311,7 @@
 | [Map to Mansion](https://open.spotify.com/track/1bTMz4AwDaGp5DVnb9TBZf) | [Vasu Mahalwal](https://open.spotify.com/artist/2jR3Qkubsg3UZ6tHJ16IFP) | [Map to Mansion](https://open.spotify.com/album/66Bf2kwqp4rUn2Ke6wVIWL) | 3:12 | 2025-01-31 | 2025-02-11 |
 | [Marji](https://open.spotify.com/track/3bUWnXRP05sA2UdKkj9wha) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4iLVMVlFJJiXTgl4JX2M5B) | 3:00 | 2024-02-16 | 2024-04-19 |
 | [Marji](https://open.spotify.com/track/6UHAB3jfGj7JEBeLQdjQSq) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4Ty05e0xG0aB96ghx60w2j) | 3:00 | 2024-02-06 | 2024-02-15 |
+| [Maruti](https://open.spotify.com/track/2tPhRcPnhJ8Qh51jLP0lZ3) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Maruti](https://open.spotify.com/album/4Xxu0e68sjuXrk0DPvK8lP) | 3:33 | 2025-09-02 |  |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-09-27 | 2025-01-11 |
 | [Matha Garam](https://open.spotify.com/track/6v4dEkFs3I2ImanEVok2cP) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Matha Garam](https://open.spotify.com/album/0rUPO4MVsnME1dyAmmgHm9) | 3:25 | 2024-05-24 | 2025-01-19 |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 | 2024-08-01 |

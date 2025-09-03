@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Fidhaus, Jeryl Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,229 likes - 54 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,231 likes - 54 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

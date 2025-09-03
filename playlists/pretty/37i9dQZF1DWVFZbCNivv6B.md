@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Geassassin en la tarima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,756 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,792 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Conocimiento Prohibido](https://open.spotify.com/track/3wKL4EfrROyR26wpbOCOk5) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8), [Tocadiscos Trez](https://open.spotify.com/artist/3DM2vfPkMCsjFPvHXZgdSv) | [Lostapes 1](https://open.spotify.com/album/2j5mi7mqckyaNolqyaoVTH) | 2:52 |
 | 2 | [PLAK](https://open.spotify.com/track/1lqSiPVISxVO0MC3b4l9ce) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:50 |
-| 3 | [Round 3](https://open.spotify.com/track/40QE8XjC0BBnqguant1PED) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Round 3](https://open.spotify.com/album/33adzg5Qx6qSTXXozkHibg) | 3:33 |
+| 3 | [Round 3](https://open.spotify.com/track/40QE8XjC0BBnqguant1PED) | [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7), [dj spizike](https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm) | [Round 3](https://open.spotify.com/album/33adzg5Qx6qSTXXozkHibg) | 3:33 |
 | 4 | [GUASAVE](https://open.spotify.com/track/0CcrCbifGpD6peI0ToiaaC) | [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc), [Rafa López](https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW) | [GUASAVE](https://open.spotify.com/album/36fTBHyuvwY7Lj3JGfZR6O) | 2:08 |
 | 5 | [Beliwestcoast](https://open.spotify.com/track/6aXjypTkoCQN7CGsDCHXKM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:38 |
 | 6 | [BACK TO THE 90s](https://open.spotify.com/track/4eZwTqnEhXNcbk2rqU8sZT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Big Sempa](https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf) | [LOS CHICOS DEL NORTE](https://open.spotify.com/album/6qbPsvUX9w5CYvNT55hi8m) | 3:21 |

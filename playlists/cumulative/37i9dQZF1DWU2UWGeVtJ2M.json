@@ -2840,7 +2840,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 156729,
       "name": "Hello, I said",
       "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
@@ -5110,6 +5110,24 @@
       "duration_ms": 218666,
       "name": "Really Slo",
       "url": "https://open.spotify.com/track/5yHuaeu6RsISjzXzesbs6S"
+    },
+    {
+      "album": {
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253417,
+      "name": "Reckless Sensation",
+      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "album": {

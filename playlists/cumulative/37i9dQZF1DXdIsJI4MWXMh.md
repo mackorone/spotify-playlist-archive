@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-154 songs - 10 hr 25 min
+155 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 | 2023-03-03 | 2024-04-19 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Aquí Hay Para Llevar](https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX) | 3:10 | 2025-02-13 | 2025-07-08 |
+| [Arrogancia](https://open.spotify.com/track/0r1GMinYwx4MFqpzOSNSD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Arrogancia](https://open.spotify.com/album/7JdPbrNF0uGfRHwmygCTwT) | 4:05 | 2025-09-02 |  |
 | [Asosegando Cachorras](https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 3:58 | 2023-03-03 |  |
 | [Ay Mi Amor](https://open.spotify.com/track/0wtDWP4eK9RJVtXkxa7PJr) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 3:15 | 2023-03-03 |  |
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 | 2024-04-19 |
@@ -33,7 +34,7 @@
 | [Charros para Rato](https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:41 | 2023-03-03 |  |
 | [Chiki Chaka](https://open.spotify.com/track/1bSSnjwuxEOjHhyN0PHB6J) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [A todo corazón](https://open.spotify.com/album/37YcX6NwuExiCzUfZq25gp) | 2:16 | 2023-10-05 | 2023-12-15 |
 | [Claveles de Enero](https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Claveles de Enero](https://open.spotify.com/album/14A1gd17HW0epUcTqFu49C) | 3:32 | 2023-10-05 | 2025-04-06 |
-| [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 |  |
+| [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 | 2025-09-03 |
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |
 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 | 2023-03-03 |  |
 | [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 | 2023-03-03 |  |

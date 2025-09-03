@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,542 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,540 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

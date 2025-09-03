@@ -4,7 +4,7 @@
 
 > This is Young Noble\. The essential tracks, all in one playlist.
 
-78 songs - 5 hr 13 min
+79 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Lighters Up](https://open.spotify.com/track/3zHJLuOdJ9NtHuPCz9elpz) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 3:49 | 2025-07-08 |  |
 | [Magic \(feat\. Young Noble & Tha Chill\)](https://open.spotify.com/track/4UjPpiWFE2Pm0Hg54j4sk0) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Tha Chill](https://open.spotify.com/artist/7vPLHiyrVGx5OmaSPqJNGw) | [Lessons](https://open.spotify.com/album/5h0fW7otGpsdIGrqQjIwNw) | 4:14 | 2025-07-08 |  |
 | [Makaveli and Eazy](https://open.spotify.com/track/5RqSGlSlvjvaxDp5bBgHdu) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 4:18 | 2025-07-08 |  |
-| [Man Up](https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO) | [Layzie Bone](https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers](https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD) | 4:48 | 2025-07-11 |  |
+| [Man Up](https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO) | [Layzie Bone](https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers](https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD) | 4:48 | 2025-07-11 | 2025-09-03 |
+| [Memories](https://open.spotify.com/track/1wHB2sC7wd5PLlr5FYetrs) | [Kotrof15](https://open.spotify.com/artist/1LDtScuIIwQ1PEAp18UkbF), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [Kasinova the Don](https://open.spotify.com/artist/3Xn3zV61Ai8MoKdVHGNyYP), [Andrea](https://open.spotify.com/artist/7tUYrNIB2xJOVa2x4KGVyR) | [Memories](https://open.spotify.com/album/4ZEOPPF2kBB3epNVDW9LC5) | 3:38 | 2025-09-03 |  |
 | [Nasty New Street](https://open.spotify.com/track/1ww3wxdRpwqdpkZ8BWYhvC) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 5:16 | 2025-07-08 |  |
 | [Nothing Changed](https://open.spotify.com/track/0PU2ZeIp777roPnhWBqk8f) | [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS) | [Thug Brothers 3](https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i) | 3:24 | 2025-07-08 |  |
 | [Outlaw By Nature \(feat\. E.D.I\. Mean, Trigga Trife & Treach\)](https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ) | [Young Noble](https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS), [E.D.I\. Mean](https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m), [Trigga Trife](https://open.spotify.com/artist/6OGwueEhdWKoOjzJFo59gs), [Treach](https://open.spotify.com/artist/3b3teOkAyYfhj4xiMvqYvW) | [The Last Outlaw](https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2) | 5:04 | 2025-07-09 | 2025-08-31 |

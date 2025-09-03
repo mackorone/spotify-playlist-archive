@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Blessd, Fuera Regida, Ovy On The Drums
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,672 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,471 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 28 | [Me Dediqué a Perderte](https://open.spotify.com/track/135BaqHMht2CNnLjnHCO9s) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj), [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc) | [Me Dediqué a Perderte](https://open.spotify.com/album/7m8yoS52YbOl39SrYl58kC) | 3:27 |
 | 29 | [Celoso](https://open.spotify.com/track/5paqeMg21HvZ4iQVSg8ocg) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Celoso](https://open.spotify.com/album/1Awa1wedSA4QtfkGk4iVsp) | 2:11 |
 | 30 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 |
-| 31 | [LEGENDARIOS](https://open.spotify.com/track/7ATFG7dhmhofQZTf82bCOF) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [LEGENDARIOS](https://open.spotify.com/album/7A2ecOMfRTCa9XgKZwP7BT) | 3:07 |
+| 31 | [LEGENDARIOS](https://open.spotify.com/track/7ATFG7dhmhofQZTf82bCOF) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [LEGENDARIOS](https://open.spotify.com/album/7A2ecOMfRTCa9XgKZwP7BT) | 3:07 |
 | 32 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
 | 33 | [Rigo Campos](https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb) | 3:47 |
 | 34 | [Te va a doler](https://open.spotify.com/track/3E1iSNh6yovFIYJKhKMEqx) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:14 |

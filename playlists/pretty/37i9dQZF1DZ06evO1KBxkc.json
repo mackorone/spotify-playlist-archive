@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202161,
+  "num_followers": 202174,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAABhV9ksfq+dOPjK3fOqZ04K",
+  "snapshot_id": "aLTiAAAAAAAR0rx04KtZAZv/mn5zfCCM",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Life Krisis Vol. 3 EP",
         "url": "https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 212695,
       "name": "R&B Shit (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 196618,
-      "name": "Blood On My Denim",
-      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
     },
     {
       "added_at": null,
@@ -847,30 +847,6 @@
       "duration_ms": 254999,
       "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winter's Over",
-        "url": "https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 150002,
-      "name": "Winter's Over",
-      "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
     },
     {
       "added_at": null,
@@ -919,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winter's Over",
+        "url": "https://open.spotify.com/album/5FiAdqj0b6uDckZ1vU8Xcq"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 150002,
+      "name": "Winter's Over",
+      "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drowning (Sped Up Version)",
         "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
       },
@@ -939,6 +939,26 @@
       "duration_ms": 174517,
       "name": "Drowning - Sped Up Version",
       "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damaged Thoughts",
+        "url": "https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 191918,
+      "name": "Idk Why",
+      "url": "https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq"
     },
     {
       "added_at": null,
@@ -975,26 +995,6 @@
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damaged Thoughts",
-        "url": "https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu"
-      },
-      "artists": [
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 191918,
-      "name": "Idk Why",
-      "url": "https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq"
     },
     {
       "added_at": null,

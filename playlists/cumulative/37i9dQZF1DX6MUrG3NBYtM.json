@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De beste Indie & Alternative. Cover: Turnstile",
+  "description": "De beste Indie & Alternative. Cover: Min Taka",
   "name": "Indie XL",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 229693,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh"
+    },
+    {
+      "album": {
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
     },
     {
       "album": {
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 227986,
       "name": "MASSIVE LOVE INFECTION",
       "url": "https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Lagu\-lagu yang bakal didengarkan si Pisang FYP di Pestapora 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,295 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,282 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 | 35 | [Burden](https://open.spotify.com/track/3URO5pUAkXUaal0AVOiEcV) | [Slothkidd](https://open.spotify.com/artist/15HEMQRya0rVITJlBA1bV2), [WhyYZ](https://open.spotify.com/artist/2d9gUFkJXrgG3qv0Hn0Cgi), [Iamgreedy](https://open.spotify.com/artist/7hY6yU9V1rQCQ33uDnfQaf) | [Burden](https://open.spotify.com/album/6sdBZzhRnCQ2nBIEDdzQkL) | 3:44 |
 | 36 | [Dimulai](https://open.spotify.com/track/2iMpUz7IayDTzfyfRq1LKH) | [Monarchs](https://open.spotify.com/artist/68r9D3zE3Nh4pcoo0pFrfr), [Slothkidd](https://open.spotify.com/artist/15HEMQRya0rVITJlBA1bV2), [Wildan Shidiq](https://open.spotify.com/artist/23jy7DIk7c6ftXVdThz8a4) | [Metamorphosis, Vol\. 1](https://open.spotify.com/album/6WHduzMLrLoYlWTJxWq4hk) | 3:11 |
 | 37 | [Should I Believe](https://open.spotify.com/track/2YbDQ31uWotXp5fxVYBKfj) | [Vandra](https://open.spotify.com/artist/7Cg3uEiMccMU3cJcVpfdPC), [Lila Fairuz](https://open.spotify.com/artist/0izul346fCOdhWxuBkShwQ) | [EERSTE REIS](https://open.spotify.com/album/2G4C2E6eWdWZPqUSctON0u) | 2:46 |
-| 38 | [I Like Me More](https://open.spotify.com/track/4q7ptLhgMLLxpdMCyUtgJD) | [Vandra](https://open.spotify.com/artist/7Cg3uEiMccMU3cJcVpfdPC), [Shaffa Marceau](https://open.spotify.com/artist/7G48tv9la1Mf5VuUlmf4J8) | [EERSTE REIS](https://open.spotify.com/album/2G4C2E6eWdWZPqUSctON0u) | 2:45 |
-| 39 | [One & Only](https://open.spotify.com/track/2YZXHHuat5Le2x7dI6lyJI) | [Vandra](https://open.spotify.com/artist/7Cg3uEiMccMU3cJcVpfdPC), [NELBRA](https://open.spotify.com/artist/3RoNyOBDwsp4R3xDQt99s6), [Rendra](https://open.spotify.com/artist/0ZhREtjTJz4dPvgVINTJ8t) | [J\-TOWN](https://open.spotify.com/album/2D8DcnQiaCuTlPJxTbmGWE) | 2:39 |
+| 38 | [One & Only](https://open.spotify.com/track/2YZXHHuat5Le2x7dI6lyJI) | [Vandra](https://open.spotify.com/artist/7Cg3uEiMccMU3cJcVpfdPC), [NELBRA](https://open.spotify.com/artist/3RoNyOBDwsp4R3xDQt99s6), [Rendra](https://open.spotify.com/artist/0ZhREtjTJz4dPvgVINTJ8t) | [J\-TOWN](https://open.spotify.com/album/2D8DcnQiaCuTlPJxTbmGWE) | 2:39 |
+| 39 | [I Like Me More](https://open.spotify.com/track/4q7ptLhgMLLxpdMCyUtgJD) | [Vandra](https://open.spotify.com/artist/7Cg3uEiMccMU3cJcVpfdPC), [Shaffa Marceau](https://open.spotify.com/artist/7G48tv9la1Mf5VuUlmf4J8) | [EERSTE REIS](https://open.spotify.com/album/2G4C2E6eWdWZPqUSctON0u) | 2:45 |
 | 40 | [Phase](https://open.spotify.com/track/7BEciDAhy9vc6ownhhmvT2) | [Slothkidd](https://open.spotify.com/artist/15HEMQRya0rVITJlBA1bV2), [Wildan Shidiq](https://open.spotify.com/artist/23jy7DIk7c6ftXVdThz8a4) | [Phase](https://open.spotify.com/album/2KA8qWGSji5XI8AcSliGiO) | 3:39 |
 
 Snapshot ID: `AAAAABcAz/CssnyyqXadCwf22rh3rPGs`

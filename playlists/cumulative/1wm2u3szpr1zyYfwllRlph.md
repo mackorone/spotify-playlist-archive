@@ -2,7 +2,7 @@
 
 ### [Dance Hits ](https://open.spotify.com/playlist/1wm2u3szpr1zyYfwllRlph)
 
-> Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
+> Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Paul Kalkbrenner &amp; Stromae
 
 145 songs - 7 hr 7 min
 

@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 58 min
+73 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,11 +69,12 @@
 | [Red and Purple](https://open.spotify.com/track/6SRJtgmyjyQ5ro0LpHaPw1) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:36 | 2022-11-16 |  |
 | [Red and Purple](https://open.spotify.com/track/6lOAhWZ3oPz2Z6elA9phfc) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u) | 3:36 | 2022-09-16 | 2022-11-17 |
 | [Round The Bend](https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:14 | 2022-09-16 |  |
-| [Sick Of Being Down](https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Sick Of Being Down](https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB) | 3:24 | 2025-06-21 |  |
+| [Sick Of Being Down](https://open.spotify.com/track/2sYEp7jUnzbqPOmXOJXw2t) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:24 | 2025-09-03 |  |
+| [Sick Of Being Down](https://open.spotify.com/track/6S33PGYHXqJQY5pSrdJsUP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Sick Of Being Down](https://open.spotify.com/album/38sDUnAK5fzcaPIvxVXvyB) | 3:24 | 2025-06-21 | 2025-09-03 |
 | [Stupid Heavy Metal Broken Hearted Loser Punk](https://open.spotify.com/track/0GqdnBuiNOIqMd8R4RDWEx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 | 2022-09-16 |  |
 | [Summer Gurl](https://open.spotify.com/track/0k15e2OF6mpANBavcZ8BdB) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 2:40 | 2023-08-04 |  |
 | [Summer Gurl](https://open.spotify.com/track/3YmTu9LqqLpY9O3fUBawPo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/0LZvv6bq8m9jMOR5lUZmbW) | 2:40 | 2022-09-22 | 2022-10-07 |
-| [Sunflower](https://open.spotify.com/track/4OXABTM6RzUskXSohHSWTN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:59 | 2025-08-24 |  |
+| [Sunflower](https://open.spotify.com/track/4OXABTM6RzUskXSohHSWTN) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:59 | 2025-08-24 | 2025-09-03 |
 | [Thrash Metal Cassette](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:39 | 2022-09-16 |  |
 | [Traynor](https://open.spotify.com/track/2z8DJ7BUVx7byP7bhclh5b) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:01 | 2025-04-01 | 2025-04-03 |
 | [Unfamiliar](https://open.spotify.com/track/5IVCIj0GOutGS1VJxsfrMh) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [I’ve Felt Better](https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z) | 3:33 | 2025-08-24 |  |

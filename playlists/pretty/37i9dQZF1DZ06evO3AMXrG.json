@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 244069,
+  "num_followers": 244102,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAABRRmVH1DxTCzLkovZ25/qn",
+  "snapshot_id": "aLTiAAAAAABof6GR3zEBhExOlVPwXTYl",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "La Noche Vibra",
+      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "Me Faltabas T\u00fa",
+      "url": "https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -355,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
       },
       "artists": [
         {
@@ -364,9 +396,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 171536,
-      "name": "Me Faltabas T\u00fa",
-      "url": "https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu"
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
     },
     {
       "added_at": null,
@@ -380,25 +412,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 248533,
-      "name": "La Noche Vibra",
-      "url": "https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
+      "duration_ms": 332533,
+      "name": "Nadie Se Atreve",
+      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/0rTsf701vQZJ45qhWyFde9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Nadie Se Atreve",
-      "url": "https://open.spotify.com/track/5I2SkxIYjfRQ1PhqQLqP6F"
     },
     {
       "added_at": null,
@@ -731,22 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Codigos Del Alma",
-        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN"
       },
       "artists": [
         {
-          "name": "Rastrillos",
-          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 307720,
-      "name": "La Musica",
-      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
+      "duration_ms": 316720,
+      "name": "Te Me Puedo Escapar",
+      "url": "https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN"
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
         },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 316720,
-      "name": "Te Me Puedo Escapar",
-      "url": "https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct"
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
       "added_at": null,

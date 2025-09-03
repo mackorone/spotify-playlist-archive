@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 胡凱兒 \(Who Cares\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,447 likes - 81 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,449 likes - 81 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 66 | [Things I Couldn't Tell You](https://open.spotify.com/track/2cjunNbje3GCkkgbAfYfzB) | [Blueburn](https://open.spotify.com/artist/3njOo5lp2DWZ4M5FRMl1td) | [Type The Way You Talk](https://open.spotify.com/album/5RUkdLUrlGWZcFfpAi8ItT) | 3:16 |
 | 67 | [偏見](https://open.spotify.com/track/7wlocnIB0q2PJNPnXuSAyI) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [偏見](https://open.spotify.com/album/4FFAAiLfmOlYcoyEMRUcyL) | 5:28 |
 | 68 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
-| 69 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:42 |
+| 69 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:44 |
 | 70 | [愛呀愛呀愛](https://open.spotify.com/track/1wmydhrXWfHZYP8PMIcpRW) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [愛呀愛呀愛](https://open.spotify.com/album/0JsNtfDNv6bjDo4iJdfN4E) | 4:04 |
 | 71 | [等待的未來](https://open.spotify.com/track/4fOwrH8o2oFX6XhLf6XRC6) | [Dist.Ant](https://open.spotify.com/artist/4Dg0HMSA0d36DrExqORSzy) | [等待的未來](https://open.spotify.com/album/3BlGnI9EOLntKcByzYwTBU) | 4:55 |
 | 72 | [與水](https://open.spotify.com/track/1yhraZ2PfK38D1vfckoiXS) | [工口紳士](https://open.spotify.com/artist/2fLLbY6QK6IhUejfsdaJ5g) | [與水](https://open.spotify.com/album/2atrdqKLfD8Xdl9Ashxlbm) | 3:43 |

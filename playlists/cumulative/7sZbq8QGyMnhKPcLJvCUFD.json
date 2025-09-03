@@ -3459,6 +3459,32 @@
     },
     {
       "album": {
+        "name": "Do It All",
+        "url": "https://open.spotify.com/album/5e845KIU0VS6cuEpTGaKdX"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Southby",
+          "url": "https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA"
+        },
+        {
+          "name": "Wigal",
+          "url": "https://open.spotify.com/artist/5l68BzURNTuTAUWlV2lkMQ"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208275,
+      "name": "Do It All",
+      "url": "https://open.spotify.com/track/3cATZreergibNpJVEpWcjO"
+    },
+    {
+      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/5H2icnX0IBaEd2mp3B3w4E"
       },

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,847 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,880 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 |
-| 2 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 |
-| 3 | [1000 Tons](https://open.spotify.com/track/0naGnDg0TAf08RptWY9F1Q) | [Chained Saint](https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd) | [1000 Tons](https://open.spotify.com/album/5TrOsdUOjhRluNLFkiOygo) | 2:59 |
-| 4 | [Aquila](https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 4:05 |
-| 5 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 |
-| 6 | [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 |
-| 7 | [Evil Eyes](https://open.spotify.com/track/2vVKwYChQpBxmabokUSbke) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Evil Eyes](https://open.spotify.com/album/4U84qpT79s2wa4OH5C6RDw) | 2:46 |
-| 8 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
-| 9 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
-| 10 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
-| 11 | [Impeccable](https://open.spotify.com/track/65qyyKqxQZ41tQ0VRj1RYA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Impeccable](https://open.spotify.com/album/0UKU5bU3U1O1Vin4SkRhse) | 4:42 |
+| 2 | [Aquila](https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 4:05 |
+| 3 | [Frozen](https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK) | [Bridges Ablaze](https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP) | [Frozen](https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY) | 3:49 |
+| 4 | [Impeccable](https://open.spotify.com/track/65qyyKqxQZ41tQ0VRj1RYA) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Impeccable](https://open.spotify.com/album/0UKU5bU3U1O1Vin4SkRhse) | 4:42 |
+| 5 | [devotion](https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [devotion](https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB) | 3:29 |
+| 6 | [1000 Tons](https://open.spotify.com/track/0naGnDg0TAf08RptWY9F1Q) | [Chained Saint](https://open.spotify.com/artist/6JChzL9HQEspINhiTqSURd) | [1000 Tons](https://open.spotify.com/album/5TrOsdUOjhRluNLFkiOygo) | 2:59 |
+| 7 | [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 |
+| 8 | [Evil Eyes](https://open.spotify.com/track/2vVKwYChQpBxmabokUSbke) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Evil Eyes](https://open.spotify.com/album/4U84qpT79s2wa4OH5C6RDw) | 2:46 |
+| 9 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 |
+| 10 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
+| 11 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
 | 12 | [Arch Enemy](https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN), [VS / U](https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC) | [Arch Enemy](https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV) | 3:21 |
 | 13 | [When Does It End](https://open.spotify.com/track/3StP9aHUSmy6GE0h7sxYJN) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Medusa's Home](https://open.spotify.com/album/0bfzr4j6SEVremjsrEQo42) | 3:19 |
 | 14 | [Stay](https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Stay](https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu) | 2:27 |

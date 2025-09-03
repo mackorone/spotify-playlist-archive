@@ -2,7 +2,7 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 乃紫
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Mrs\. GREEN APPLE
 
 1,602 songs - 4 day 3 hr 19 min
 

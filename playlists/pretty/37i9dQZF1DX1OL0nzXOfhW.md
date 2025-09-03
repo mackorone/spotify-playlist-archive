@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover:  宇宙幽靈 Uchu Yurei
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,555 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,561 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 6 | [戀愛BB班](https://open.spotify.com/track/1vV0CAFs85GStDGwSL08MC) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [戀愛BB班](https://open.spotify.com/album/6VPYnffOUibcBFAbDyIwIU) | 2:49 |
 | 7 | [做好戀愛的覺悟](https://open.spotify.com/track/6Yu7H37OlomGNei9IyY9qN) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [做好戀愛的覺悟](https://open.spotify.com/album/2ZGwyUtV2Z6AOZWMMEsi50) | 3:33 |
 | 8 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 |
-| 9 | [黑犬默語 \(feat\. Cy Leo\) \(feat\. Cy Leo 何卓彥\)](https://open.spotify.com/track/5Q4RhzwGO8faajJKgnat4i) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1), [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG) | [黑犬默語 \(feat\. Cy Leo\) \(feat\. Cy Leo 何卓彥\)](https://open.spotify.com/album/4I6tp9KlgyjDqBTp9wnvAc) | 3:09 |
+| 9 | [黑犬默語 \(feat\. Cy Leo\)](https://open.spotify.com/track/5Q4RhzwGO8faajJKgnat4i) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1), [Cy Leo 何卓彥](https://open.spotify.com/artist/6kFHVgW2mWtYxdPLVscKyG) | [黑犬默語 \(feat\. Cy Leo\)](https://open.spotify.com/album/4I6tp9KlgyjDqBTp9wnvAc) | 3:09 |
 | 10 | [愚公](https://open.spotify.com/track/1TDSH2KWVEz9vH1WVPG1oZ) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [愚公](https://open.spotify.com/album/7pe44sSuFZQsuHB2M4EWiC) | 3:47 |
 | 11 | [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 |
 | 12 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 |

@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -6102,6 +6102,24 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "album": {
+        "name": "Bandera de la FES",
+        "url": "https://open.spotify.com/album/2KG2Om6aVGocyftnlVTSwO"
+      },
+      "artists": [
+        {
+          "name": "Ramos",
+          "url": "https://open.spotify.com/artist/3gV40JviKwtqNKVJkG7glJ"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74977,
+      "name": "Bandera de la FES",
+      "url": "https://open.spotify.com/track/29oWm0adCx97jWLau5BrTp"
     },
     {
       "album": {
@@ -8823,6 +8841,28 @@
     },
     {
       "album": {
+        "name": "C D N",
+        "url": "https://open.spotify.com/album/3PB8wREnItm71e9iXGMO2S"
+      },
+      "artists": [
+        {
+          "name": "WICKED OUTSIDE",
+          "url": "https://open.spotify.com/artist/5y99Kj1YF1UWDNd5HryTkV"
+        },
+        {
+          "name": "7EVEN STARS",
+          "url": "https://open.spotify.com/artist/3ajnDvWXLGNVmRy3I7M6m7"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189862,
+      "name": "C D N",
+      "url": "https://open.spotify.com/track/7IPPuxTrVaeNVBm2oF3ICO"
+    },
+    {
+      "album": {
         "name": "Antics",
         "url": "https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz"
       },
@@ -9392,6 +9432,24 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "album": {
+        "name": "Campo De Fuerza",
+        "url": "https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278456,
+      "name": "Campo De Fuerza",
+      "url": "https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP"
     },
     {
       "album": {
@@ -12922,7 +12980,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
@@ -14584,7 +14642,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 194444,
       "name": "DE LA CLASE",
       "url": "https://open.spotify.com/track/2zOdxVBE1wnhE1iOOgnx6D"
@@ -14938,6 +14996,32 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5gW5r5BW4CnNUJsQFFwQM0"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257214,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0Pxq5AOtS05oaygoyG0S0Z"
     },
     {
       "album": {
@@ -16783,6 +16867,40 @@
     },
     {
       "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Azul Botticher",
+          "url": "https://open.spotify.com/artist/24kxuyk9GrzdLsfOPVh9eh"
+        },
+        {
+          "name": "Karin Zavala",
+          "url": "https://open.spotify.com/artist/67afWZ5rzDaG2uetK538yB"
+        },
+        {
+          "name": "Tatul Bernodat",
+          "url": "https://open.spotify.com/artist/1piD21CWhxmg3uk1tFuO1p"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Dorada - Golden - versi\u00f3n en espa\u00f1ol",
+      "url": "https://open.spotify.com/track/03x2Hzommc7gHp1rqh0xBC"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -16962,6 +17080,24 @@
       "duration_ms": 208487,
       "name": "Drugs You Should Try It",
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+    },
+    {
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
     },
     {
       "album": {
@@ -19426,7 +19562,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 135024,
       "name": "Elecciones Victor M",
       "url": "https://open.spotify.com/track/5K9ujU6oMzV5UxyHKhaWok"
@@ -23144,7 +23280,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 198809,
       "name": "Gabriela (with Young Miko) - Young Miko Remix",
       "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
@@ -28502,7 +28638,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 147789,
       "name": "King of Watches",
       "url": "https://open.spotify.com/track/3QJXJACwdZ3EaIqdF5ZiXh"
@@ -33992,7 +34128,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -34172,6 +34308,24 @@
       "duration_ms": 196760,
       "name": "Man Areas",
       "url": "https://open.spotify.com/track/3AN5LEspFZQdQUFUUqsDct"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "album": {
@@ -41694,7 +41848,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
@@ -41712,7 +41866,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 186000,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/35dfKQxGu54W4ZwQGnCFrB"
@@ -43754,7 +43908,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 194858,
       "name": "Pasta",
       "url": "https://open.spotify.com/track/5m6bsa7qhZXjSDDqwRRfTD"
@@ -44824,7 +44978,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 170571,
       "name": "PLAK",
       "url": "https://open.spotify.com/track/1lqSiPVISxVO0MC3b4l9ce"
@@ -48378,7 +48532,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 151500,
       "name": "Recu\u00e9rdalo Bien",
       "url": "https://open.spotify.com/track/3VL3qwCur1nSbfL9YExPR2"
@@ -49828,6 +49982,24 @@
       "duration_ms": 173005,
       "name": "S91",
       "url": "https://open.spotify.com/track/0BFQC00Y58JtjMyTXOJazO"
+    },
+    {
+      "album": {
+        "name": "Sabado",
+        "url": "https://open.spotify.com/album/5Z97FpVRiVLgQrqZ3gQtWK"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127984,
+      "name": "Sabado",
+      "url": "https://open.spotify.com/track/4UzaREEr4USyqShcm7Fem4"
     },
     {
       "album": {
@@ -55816,7 +55988,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/2yUOwF7IMhOrFt7agXwgXD"
@@ -57964,6 +58136,32 @@
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+    },
+    {
+      "album": {
+        "name": "TODO KE VER",
+        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "TODO KE VER",
+      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
     },
     {
       "album": {

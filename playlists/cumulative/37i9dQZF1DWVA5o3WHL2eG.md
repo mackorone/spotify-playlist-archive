@@ -2,7 +2,7 @@
 
 ### [EQUAL GSA ](https://open.spotify.com/playlist/37i9dQZF1DWVA5o3WHL2eG)
 
-> Women at full volume\. Cover: Blush Davis
+> Women at full volume\. Cover: Eli Preiss
 
 2,147 songs - 4 day 13 hr 15 min
 

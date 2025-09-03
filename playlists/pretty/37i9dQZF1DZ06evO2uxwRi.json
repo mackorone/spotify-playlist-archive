@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAABbldazxCJ4WAwVhZzsCUEl",
+  "snapshot_id": "aLTiAAAAAABCDhrtgX40XjB4hH9MxNhx",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+      "duration_ms": 37198,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3NFRQ6pyhVbTMY7KveXnD6"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 37198,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/3NFRQ6pyhVbTMY7KveXnD6"
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
       "duration_ms": 199706,
       "name": "Listen To Your Friends",
       "url": "https://open.spotify.com/track/6WO21QtEl9GbQDx7vrpzWL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Without A Fight",
         "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radiosurgery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 192599,
-      "name": "Anthem for the Unwanted",
-      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Makes Me Sick",
         "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radiosurgery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 192599,
+      "name": "Anthem for the Unwanted",
+      "url": "https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -687,38 +687,6 @@
       "duration_ms": 177037,
       "name": "Greatest Of All Time",
       "url": "https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radiosurgery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 122582,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
     },
     {
       "added_at": null,
@@ -755,6 +723,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radiosurgery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 122582,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever And Ever x Infinity",
         "url": "https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 204470,
       "name": "Stay Awhile",
       "url": "https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make The Most Of It",
+        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 261058,
+      "name": "Dream Born Again",
+      "url": "https://open.spotify.com/track/6tJtl8IY3N7dBJ80PSeswu"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 164426,
       "name": "Second To Last",
       "url": "https://open.spotify.com/track/0MgztMkyVpMbgrlMfj5ToE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make The Most Of It",
-        "url": "https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 261058,
-      "name": "Dream Born Again",
-      "url": "https://open.spotify.com/track/6tJtl8IY3N7dBJ80PSeswu"
     }
   ],
   "unique_name": "This Is New Found Glory",

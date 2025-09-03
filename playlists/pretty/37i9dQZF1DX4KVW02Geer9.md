@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 常田大希
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,125 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,127 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 12 | [Josh’s Tune](https://open.spotify.com/track/190iJqbTyMlJOOZoTcSkg5) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Joshua Crumbly](https://open.spotify.com/artist/4SSEcx8fIWKSSYSmvHJSC4) | [Josh's Tune](https://open.spotify.com/album/3hkBepv9YfYCyuRTEEzXjt) | 3:54 |
 | 13 | [Steam Train](https://open.spotify.com/track/4T1bg27zOYqe3tNhObzdKn) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [More Chaos](https://open.spotify.com/album/0kUv0WevtizDaXNZe3gBzj) | 6:22 |
 | 14 | [Arena](https://open.spotify.com/track/5RSjhkfVwH1nlPHloPbg7M) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN), [Bembe Segue](https://open.spotify.com/artist/2ox6AU0eHDMkXfbcvmOQA4) | [Arena](https://open.spotify.com/album/2zeMrBaZmMT8iqSM6EPI9Y) | 4:06 |
-| 15 | [Away](https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Away](https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t) | 3:19 |
+| 15 | [Away \(feat\. Jeff Parker\)](https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Away \(feat\. Jeff Parker\)](https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t) | 3:19 |
 | 16 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
 | 17 | [And We Go Gentle](https://open.spotify.com/track/5e7ZCWH5cXrGcm8QmpqgIH) | [Tres Leches](https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd), [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [The Smooth Sounds of Tres Leches, LHCC Mart Vol\. 1](https://open.spotify.com/album/2Dn0m6g80esmI4HJ9URGOR) | 4:10 |
 | 18 | [Taito City Hideout](https://open.spotify.com/track/4XjaJ35W8w9Fj404LgUvA8) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taito City Hideout](https://open.spotify.com/album/1lD9DPOwFEOWjRhwEsEvRK) | 2:38 |

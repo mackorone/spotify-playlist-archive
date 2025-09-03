@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: JENNIE",
-  "num_followers": 90290,
+  "num_followers": 90309,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
         "name": "THE GRATITUDE PROJECT",
         "url": "https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2025-05-01 04:00:07",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-05-01 04:00:07",
       "album": {
+        "name": "EAT / DIRT",
+        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
+      },
+      "artists": [
+        {
+          "name": "Zoe Ko",
+          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "EAT",
+      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
+    },
+    {
+      "added_at": "2025-05-01 04:00:07",
+      "album": {
         "name": "Whatchu Gonna...?",
         "url": "https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 228560,
       "name": "Whatchu Gonna...?",
       "url": "https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV"
-    },
-    {
-      "added_at": "2025-05-01 04:00:07",
-      "album": {
-        "name": "EAT / DIRT",
-        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "EAT",
-      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
     }
   ],
   "unique_name": "Dope AF",

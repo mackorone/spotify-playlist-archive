@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Mega Shinnosuke",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u732b\u306f\u6db2\u4f53",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -1518,6 +1518,24 @@
       "duration_ms": 247164,
       "name": "Boy",
       "url": "https://open.spotify.com/track/5Ki3EfcIL6RB8CtV39R8zm"
+    },
+    {
+      "album": {
+        "name": "boys",
+        "url": "https://open.spotify.com/album/5cpcO9CSyNruz8jWwrSMjD"
+      },
+      "artists": [
+        {
+          "name": "\u3067\u304b\u304f\u3066\u307e\u308b\u3044\u3002",
+          "url": "https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243931,
+      "name": "boys",
+      "url": "https://open.spotify.com/track/6TwhwafJt69U9ExhjbdbcW"
     },
     {
       "album": {
@@ -8107,6 +8125,24 @@
     },
     {
       "album": {
+        "name": "Seikatsunoyouna",
+        "url": "https://open.spotify.com/album/4JYNg0fB1BLTgSIzJ4JrJj"
+      },
+      "artists": [
+        {
+          "name": "Nekowaekitai",
+          "url": "https://open.spotify.com/artist/1KX2NNKJbcEs2tJBgnnQZ0"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270454,
+      "name": "Seikatsunoyouna",
+      "url": "https://open.spotify.com/track/5lMIJV9tT679t8O1iprBO8"
+    },
+    {
+      "album": {
         "name": "Seishin Rock",
         "url": "https://open.spotify.com/album/4HxqIkte7i4FzBusMxYykW"
       },
@@ -8892,7 +8928,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 128682,
       "name": "student",
       "url": "https://open.spotify.com/track/5EsxfVNWc9GejwzbraP8RE"
@@ -8928,7 +8964,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 239666,
       "name": "Suiheisen",
       "url": "https://open.spotify.com/track/6qlssEL5jL4aODzUH3LKh2"

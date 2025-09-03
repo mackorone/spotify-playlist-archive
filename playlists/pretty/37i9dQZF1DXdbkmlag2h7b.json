@@ -1,6 +1,6 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 669276,
+  "num_followers": 669283,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
+        "name": "Bother To Care",
+        "url": "https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Bother To Care",
+      "url": "https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
         "name": "Within Light",
         "url": "https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 200000,
       "name": "Alya",
       "url": "https://open.spotify.com/track/6lcAqMJXbjrCFwOJV5V1Gy"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
-        "name": "Bother To Care",
-        "url": "https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo"
-      },
-      "artists": [
-        {
-          "name": "Waves Of Sine",
-          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Bother To Care",
-      "url": "https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Calm Retreat",
-        "url": "https://open.spotify.com/album/6quDXt0rHWUURagbWIKIAK"
-      },
-      "artists": [
-        {
-          "name": "Diphthong",
-          "url": "https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Calm Retreat",
-      "url": "https://open.spotify.com/track/0b0xU3Qgi88KHTduT89d6N"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "hidden in the heather",
         "url": "https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 135125,
       "name": "hidden in the heather",
       "url": "https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "Calm Retreat",
+        "url": "https://open.spotify.com/album/6quDXt0rHWUURagbWIKIAK"
+      },
+      "artists": [
+        {
+          "name": "Diphthong",
+          "url": "https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Calm Retreat",
+      "url": "https://open.spotify.com/track/0b0xU3Qgi88KHTduT89d6N"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Dreamcatcher",
-        "url": "https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o"
-      },
-      "artists": [
-        {
-          "name": "Rikkas",
-          "url": "https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us"
-        }
-      ],
-      "duration_ms": 179509,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Free of Charge",
         "url": "https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 138000,
       "name": "Free of Charge",
       "url": "https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o"
+      },
+      "artists": [
+        {
+          "name": "Rikkas",
+          "url": "https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us"
+        }
+      ],
+      "duration_ms": 179509,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "South Winds",
-        "url": "https://open.spotify.com/album/75AdVWU0pDFPrWMHgvRkjW"
-      },
-      "artists": [
-        {
-          "name": "Medtones",
-          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
-        }
-      ],
-      "duration_ms": 129899,
-      "name": "South Winds",
-      "url": "https://open.spotify.com/track/1WuHbK7rH9xKLAtpAYm3gY"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/7dt3AXpHUjGmYpBrbCPVVj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 186857,
       "name": "Willow",
       "url": "https://open.spotify.com/track/6qPbMb9YrB4gYwzvHnbndK"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "South Winds",
+        "url": "https://open.spotify.com/album/75AdVWU0pDFPrWMHgvRkjW"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "duration_ms": 129899,
+      "name": "South Winds",
+      "url": "https://open.spotify.com/track/1WuHbK7rH9xKLAtpAYm3gY"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "The Deep Dive In",
-        "url": "https://open.spotify.com/album/0LZ62ayPdeMg6evhUoi9F4"
-      },
-      "artists": [
-        {
-          "name": "Medtones",
-          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "The Deep Dive In",
-      "url": "https://open.spotify.com/track/1GApISdY1RIPkkIkRrFgNa"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Sunhaven",
         "url": "https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170750,
       "name": "Sunhaven",
       "url": "https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "The Deep Dive In",
+        "url": "https://open.spotify.com/album/0LZ62ayPdeMg6evhUoi9F4"
+      },
+      "artists": [
+        {
+          "name": "Medtones",
+          "url": "https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "The Deep Dive In",
+      "url": "https://open.spotify.com/track/1GApISdY1RIPkkIkRrFgNa"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "S\u00f3lestur",
-        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
+        "name": "6 Figures",
+        "url": "https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW"
       },
       "artists": [
         {
-          "name": "Elsa Gudmundsdottir",
-          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
         }
       ],
-      "duration_ms": 129103,
-      "name": "S\u00f3lestur",
-      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
+      "duration_ms": 185538,
+      "name": "6 Figures",
+      "url": "https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "6 Figures",
-        "url": "https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW"
+        "name": "S\u00f3lestur",
+        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
       },
       "artists": [
         {
-          "name": "Dylan Charbeneau",
-          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+          "name": "Elsa Gudmundsdottir",
+          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
         }
       ],
-      "duration_ms": 185538,
-      "name": "6 Figures",
-      "url": "https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9"
+      "duration_ms": 129103,
+      "name": "S\u00f3lestur",
+      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Deep Thoughts",
-        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
-      },
-      "artists": [
-        {
-          "name": "Danny Shamoun",
-          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Deep Thoughts",
-      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Downing",
         "url": "https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 189090,
       "name": "Downing",
       "url": "https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3deB4HKjUokWqBYtNVsfgV"
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk"
       },
       "artists": [
         {
-          "name": "dream index",
-          "url": "https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN"
+          "name": "Harbours & Oceans",
+          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
         }
       ],
-      "duration_ms": 201210,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/42lbNxt4QZtzjKiizNIVnT"
+      "duration_ms": 151427,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk"
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3deB4HKjUokWqBYtNVsfgV"
       },
       "artists": [
         {
-          "name": "Harbours & Oceans",
-          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
+          "name": "dream index",
+          "url": "https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN"
         }
       ],
-      "duration_ms": 151427,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle"
+      "duration_ms": 201210,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/42lbNxt4QZtzjKiizNIVnT"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "From Another View",
-        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
-      },
-      "artists": [
-        {
-          "name": "Salvation Hildersham",
-          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
-        }
-      ],
-      "duration_ms": 178636,
-      "name": "From Another View",
-      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Evanescenza",
         "url": "https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 186601,
       "name": "Libero",
       "url": "https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "From Another View",
+        "url": "https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi"
+      },
+      "artists": [
+        {
+          "name": "Salvation Hildersham",
+          "url": "https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN"
+        }
+      ],
+      "duration_ms": 178636,
+      "name": "From Another View",
+      "url": "https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
-      },
-      "artists": [
-        {
-          "name": "Bayesian",
-          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Nebulae",
-      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Kadunud Taevasse",
         "url": "https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "Nebulae",
+        "url": "https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Nebulae",
+      "url": "https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "flora",
-        "url": "https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo"
-      },
-      "artists": [
-        {
-          "name": "frogi",
-          "url": "https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen"
-        }
-      ],
-      "duration_ms": 157514,
-      "name": "a light that never goes out",
-      "url": "https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Sleepy",
         "url": "https://open.spotify.com/album/4wj0Nn9K2EsQaqkDvk5054"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 178909,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/149Xy5MvcQDcjojG58dks2"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "flora",
+        "url": "https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo"
+      },
+      "artists": [
+        {
+          "name": "frogi",
+          "url": "https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen"
+        }
+      ],
+      "duration_ms": 157514,
+      "name": "a light that never goes out",
+      "url": "https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD"
     },
     {
       "added_at": "2025-07-09 12:56:50",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-07-09 12:56:50",
       "album": {
-        "name": "A brand new day",
-        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Rise",
-          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
-        }
-      ],
-      "duration_ms": 175713,
-      "name": "A brand new day",
-      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
-    },
-    {
-      "added_at": "2025-07-09 12:56:50",
-      "album": {
         "name": "Luminous Dusk",
         "url": "https://open.spotify.com/album/2YIWnBvu9TXVRbyl2yJtPI"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 137440,
       "name": "Luminous Dusk",
       "url": "https://open.spotify.com/track/1npHOLMRCqO4PURfTgked3"
+    },
+    {
+      "added_at": "2025-07-09 12:56:50",
+      "album": {
+        "name": "A brand new day",
+        "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+        }
+      ],
+      "duration_ms": 175713,
+      "name": "A brand new day",
+      "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
     },
     {
       "added_at": "2025-07-09 12:56:50",

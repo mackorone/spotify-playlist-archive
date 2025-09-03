@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sabrina Carpenter, The Beaches, Bryan Adams, Patrick Watson,  ThxSoMuch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,047 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,054 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 71 | [Sentimental](https://open.spotify.com/track/472KJ3fIqwRoedNWFR1fF1) | [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja) | [THYMIA](https://open.spotify.com/album/13CXO3S9bxCHCIfyWOEF12) | 4:04 |
 | 72 | [Full Moon](https://open.spotify.com/track/3wjgHCEZobKb0A2hE9mcvf) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Full Moon](https://open.spotify.com/album/0FPQrFfvzrzs9lmFBUzu9D) | 4:22 |
 | 73 | [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 |
-| 74 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
+| 74 | [POWER HOUSE HOBBS](https://open.spotify.com/track/1I1RJ84D8vThYvUTRPQM0W) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 4:31 |
 | 75 | [Let's Play A Game](https://open.spotify.com/track/52BLsbxRPsp3o6VdVxyqmt) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [Savv Vs Savage](https://open.spotify.com/album/2plUCPKHoC7ttVAPaidFMR) | 2:13 |
 | 76 | [Reservations](https://open.spotify.com/track/108yZd1xm9BwvtZBYP0v91) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Reservations](https://open.spotify.com/album/6psCg2U9RtLeXavTIaK7Pr) | 3:42 |
 | 77 | [Lost In You](https://open.spotify.com/track/6mjAfjlIvfn21hYhwP4Inl) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [DB](https://open.spotify.com/album/1qDR2PRt1HHWWHDrLW4r1j) | 4:00 |

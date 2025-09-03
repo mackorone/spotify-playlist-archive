@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 39952,
+  "num_followers": 39957,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLOQgAAAAADRLnVARFvRKHZeieXgLoPO",
+  "snapshot_id": "aLTiAAAAAADWZrDpcVXiQjC2KkGUDIFp",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 233866,
-      "name": "One-Eighty By Summer",
-      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
+      "duration_ms": 229533,
+      "name": "Number Five With A Bullet",
+      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 229533,
-      "name": "Number Five With A Bullet",
-      "url": "https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr"
+      "duration_ms": 233866,
+      "name": "One-Eighty By Summer",
+      "url": "https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tony Hawk's American Wasteland Soundtrack",
         "url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 116053,
       "name": "Suburban Home / I Like Food",
       "url": "https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
     },
     {
       "added_at": null,

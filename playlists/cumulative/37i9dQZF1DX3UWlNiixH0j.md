@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: バイレファンキかけ子 BAILEFUNK KAKEKO
 
-2,633 songs - 6 day 20 hr 22 min
+2,636 songs - 6 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,11 +636,12 @@
 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-29 |  |
 | [I'm crazy about you](https://open.spotify.com/track/4pYbG8qYXru9a4y2vzsKlr) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [I'm crazy about you](https://open.spotify.com/album/5XHJf95RhazX1ph1wcSWVm) | 4:22 | 2023-02-14 | 2023-02-16 |
 | [I'm crazy about you](https://open.spotify.com/track/5qD51GXQmCoUy9OT2MRasz) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [I'm crazy about you](https://open.spotify.com/album/31sZqJvfiwzeUkiBULryld) | 4:22 | 2023-02-14 | 2023-03-08 |
+| [I'm Gone \(feat\. levi & valknee\)](https://open.spotify.com/track/2VnjNzbfiGOtWSUQUi343K) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [levi](https://open.spotify.com/artist/2LiZYqwro1gPzBYTYZsbVB), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DESVIO FULL THROTTLE](https://open.spotify.com/album/5PSb2ZnlElQ0CESLQDh8M5) | 2:30 | 2025-09-02 |  |
 | [I'm In Love](https://open.spotify.com/track/2yesgnppAnmeuSp6MX4Hhv) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [I'm In Love](https://open.spotify.com/album/2aaROtxEkfr1wj0XoWeSzu) | 3:10 | 2023-04-04 | 2023-04-06 |
 | [I'm In Love](https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [I'm In Love](https://open.spotify.com/album/79kiFZwsTsMA0R3GvMIiw0) | 3:10 | 2023-04-04 | 2023-04-12 |
 | [I'm Prince](https://open.spotify.com/track/5OiEfsEEm8nFxKDB5ijySR) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [I'm Prince](https://open.spotify.com/album/0wIUrMzreRprpPCXx0D8lY) | 3:10 | 2024-01-02 | 2024-01-10 |
 | [i'm so sorry](https://open.spotify.com/track/7LakhtiGYa0thW2DSIacWk) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [i'm so sorry](https://open.spotify.com/album/2cPb4K6c3M6WdxlkYDiJCc) | 4:02 | 2025-03-11 | 2025-03-19 |
-| [I'm waiting for](https://open.spotify.com/track/4WjzitRqRm0SNDmvCBgaNO) | [國](https://open.spotify.com/artist/29Isswx8RJVYgG41vPsfAb) | [silver / I'm waiting for](https://open.spotify.com/album/7q8buixPBQLWvcxCngOuuR) | 6:04 | 2025-08-19 |  |
+| [I'm waiting for](https://open.spotify.com/track/4WjzitRqRm0SNDmvCBgaNO) | [國](https://open.spotify.com/artist/29Isswx8RJVYgG41vPsfAb) | [silver / I'm waiting for](https://open.spotify.com/album/7q8buixPBQLWvcxCngOuuR) | 6:04 | 2025-08-19 | 2025-09-03 |
 | [I'm Your…](https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm Your…](https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn) | 2:12 | 2025-04-08 | 2025-05-29 |
 | [i.e.](https://open.spotify.com/track/56D1XjLDRNIl2J6MDxBBHe) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [i.e.](https://open.spotify.com/album/56m3Rh00xKiMl6gOowxBV5) | 4:52 | 2023-05-10 | 2023-05-27 |
 | [I.K.T.W](https://open.spotify.com/track/2QmWMM0XYxHfIkOvlj4LH7) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [I.K.T.W](https://open.spotify.com/album/127ujdqH3qg0Gg6016dtPa) | 3:21 | 2025-06-24 | 2025-08-04 |
@@ -802,7 +803,7 @@
 | [Live On \- Minami\-Aoyama Samba MIX](https://open.spotify.com/track/7psPyOry3ZqLnFzdkUo1Ck) | [End Must Be](https://open.spotify.com/artist/4CxLpjaaR43KdGIS7nEeI8) | [Live On \(Minami\-Aoyama Samba MIX\)](https://open.spotify.com/album/7gZysicndCOUnzJOmxyRTt) | 3:17 | 2025-05-27 | 2025-06-04 |
 | [Living](https://open.spotify.com/track/2EUYGxVru6mS6LU1m0WDJL) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [Living](https://open.spotify.com/album/1WyapMq4J43VfuR5Mh7X4J) | 3:51 | 2025-01-23 | 2025-01-29 |
 | [Living Fool](https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Living Fool](https://open.spotify.com/album/0Vaq53yG0l4tjNP2AmIj7v) | 3:01 | 2024-06-25 | 2024-08-19 |
-| [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 | 2025-06-03 |  |
+| [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 | 2025-06-03 | 2025-09-03 |
 | [LONELINESS WILL SHINE](https://open.spotify.com/track/4Ieq7cQhnpdvxkRIALTT1D) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [NOW I SEE THE LIGHT](https://open.spotify.com/album/1AgU32hdZ8BOx6cWVB7Ucv) | 5:56 | 2024-07-09 | 2024-09-18 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-23 |
@@ -1376,7 +1377,7 @@
 | [Staying](https://open.spotify.com/track/0p1deKNxo8x5pb1Nkzy67d) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Staying](https://open.spotify.com/album/4HwyiWSpgYUPy6mjXnZQeE) | 3:47 | 2023-08-30 | 2023-09-06 |
 | [Stellar](https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Unspoiled](https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t) | 5:35 | 2024-06-18 | 2024-09-18 |
 | [Step By Step](https://open.spotify.com/track/2yOWhJp10UqSiW5WuE1pJF) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Step By Step](https://open.spotify.com/album/6hjTU7HdnWBk41VUnymI2m) | 3:54 | 2024-06-18 | 2024-08-09 |
-| [steps](https://open.spotify.com/track/45wHOAYUzXOC730MzIfr7F) | [KLEPTO](https://open.spotify.com/artist/07H9uLG0M04L6lnXuWYa9V) | [STEPS](https://open.spotify.com/album/608QifiiBk8qp01XkUWegB) | 3:02 | 2025-08-19 |  |
+| [steps](https://open.spotify.com/track/45wHOAYUzXOC730MzIfr7F) | [KLEPTO](https://open.spotify.com/artist/07H9uLG0M04L6lnXuWYa9V) | [STEPS](https://open.spotify.com/album/608QifiiBk8qp01XkUWegB) | 3:02 | 2025-08-19 | 2025-09-03 |
 | [Still Dreaming](https://open.spotify.com/track/6I22fRk15SGhKaLTaqo2hp) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP2](https://open.spotify.com/album/3l4Os3DBXtlGCWLWRoJbft) | 4:28 | 2024-10-15 | 2024-11-24 |
 | [Still Remember](https://open.spotify.com/track/09LIZF2fpKHNTmAwokmj6O) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 4:41 | 2024-09-03 | 2024-10-18 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
@@ -1977,6 +1978,7 @@
 | [ステラ](https://open.spotify.com/track/3P2s80yVnpaABmMVbq1KPJ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [ステラ](https://open.spotify.com/album/5Re5sssjx93JkNfYADiLCE) | 3:07 | 2025-01-14 | 2025-06-12 |
 | [ステンドの夜](https://open.spotify.com/track/0m0KEWllO59oDfHdYAiyV3) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:04 | 2023-01-12 | 2023-02-01 |
 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2024-04-23 | 2024-09-18 |
+| [スノードーム](https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [スノードーム](https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS) | 5:27 | 2025-09-02 |  |
 | [スパンコールの女](https://open.spotify.com/track/1LGqKRFZOEXobQcfk5d2Ue) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:30 | 2024-03-26 | 2024-04-19 |
 | [スパンコールの女](https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [愛が一層メロウ \- Single](https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV) | 3:38 | 2024-01-11 | 2024-03-23 |
 | [スピリチュアルボーイ](https://open.spotify.com/track/5KhJYMNpaMu5YHuzehmGre) | [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [EXTRA](https://open.spotify.com/album/3f2ONu5aS32qXwTZbLEgp1) | 3:43 | 2024-07-30 | 2024-08-07 |
@@ -2247,6 +2249,7 @@
 | [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-09-01 | 2024-12-25 |
 | [夜間飛行 \- HALFBY Night Breaks Re\-Work](https://open.spotify.com/track/5tPSW4rBE7PLT5MS6Tioqw) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [夜間飛行 \(HALFBY Night Breaks Re\-Work\)](https://open.spotify.com/album/2YvRimW8jLp1EtOA6rsKa3) | 3:57 | 2024-06-18 | 2024-07-03 |
 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 | 2023-06-13 | 2023-07-20 |
+| [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 | 2025-09-02 |  |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 | 2024-04-03 |
 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 | 2024-11-27 | 2025-02-08 |
 | [夢のつづき](https://open.spotify.com/track/20U1op9PVwTKL9hZl8P2Dn) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [Do you believe in magic?](https://open.spotify.com/album/33va3vJDqYbyzIwHV5aOmR) | 3:43 | 2025-04-01 | 2025-04-09 |

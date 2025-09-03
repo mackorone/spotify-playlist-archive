@@ -215,22 +215,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Million Miles",
-        "url": "https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229980,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Desert Wine",
         "url": "https://open.spotify.com/album/2mone0g6ZIiO9OH3WSvUU6"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "God Knows Why",
-        "url": "https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt"
+        "name": "Million Miles",
+        "url": "https://open.spotify.com/album/3zHgggm4WYyFje6OYrszEB"
       },
       "artists": [
         {
-          "name": "Jenny O.",
-          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 181754,
-      "name": "God Knows Why",
-      "url": "https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2"
+      "duration_ms": 229980,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/3g9NYzvCKYtBUOCPrn1bHG"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F"
+        "name": "God Knows Why",
+        "url": "https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97"
+      "duration_ms": 181754,
+      "name": "God Knows Why",
+      "url": "https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/1SoHLS2A8xPeRgnpKxxp7F"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+      "duration_ms": 229560,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/6F4wx2Y4ynjbaOF3wspy97"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 236733,
       "name": "Love Gone Wrong",
       "url": "https://open.spotify.com/track/66tPKJsQrztXP44JJitoOZ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "The Woods (Acoustic)",
         "url": "https://open.spotify.com/album/1YkP0hYlF5E4il2VPTFFGZ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",

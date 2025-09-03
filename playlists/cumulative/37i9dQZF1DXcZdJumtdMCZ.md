@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-217 songs - 12 hr 6 min
+218 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Vaadi Pulla Vaadi \- From "Meesaya Murukku"](https://open.spotify.com/track/5gBa7yfdEUKrpJbhAygKRs) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi \(From "Meesaya Murukku"\)](https://open.spotify.com/album/6o279wwm5geGXjI6NnTCMl) | 4:06 | 2022-02-08 | 2025-01-10 |
 | [Vaanga Vaada](https://open.spotify.com/track/4MG9uBrLjWD68WTXpuc3uV) | [Dinesh Rajendran](https://open.spotify.com/artist/2iug7kxvE5gghENPriuotP) | [Japan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4COrVfMzSxgK56ZDWCuetU) | 2:39 | 2023-11-28 | 2023-12-14 |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2022-02-08 | 2025-01-10 |
+| [Vanakkam Madras](https://open.spotify.com/track/3habgrnSxHyyxbg5lkziBC) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vanakkam Madras](https://open.spotify.com/album/4SzAiM2ix064kXH6YjU5xn) | 2:02 | 2025-09-02 |  |
 | [Varlaam Varlaam Vaa](https://open.spotify.com/track/4FRQWmFWX7ABRXHl4reyHn) | [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Bairavaa](https://open.spotify.com/album/0DCUShS8mPudHRV6GGQGsx) | 3:55 | 2022-02-08 | 2023-12-14 |
 | [Veedhikor Jaadhi \- From "Natpe Thunai"](https://open.spotify.com/track/1nupIUIFv3cJmZloaWX9rO) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sollisai Selvandhar](https://open.spotify.com/artist/3HWueXpw8CKWo62I1C7HDB) | [Veedhikor Jaadhi \(From "Natpe Thunai"\)](https://open.spotify.com/album/40mnu36jraziDXUVeAM7DR) | 2:41 | 2022-02-08 | 2023-05-13 |
 | [Veera Thurandhara](https://open.spotify.com/track/09WgwgVEQa7X76FG7VapUE) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Lawrence R](https://open.spotify.com/artist/0t5cyU3mZ0SYVzt7vD4Xrq), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Kabali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mEvf2kdNHrtGQu5AJixQc) | 3:17 | 2022-02-08 | 2023-05-13 |

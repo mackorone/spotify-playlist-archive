@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:31xNxPD0tnYKr7Krg8dyPB">BunnaB</a>
 
-2,483 songs - 4 day 14 hr 8 min
+2,484 songs - 4 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 | 2023-11-17 | 2024-01-27 |
 | [LUXURY](https://open.spotify.com/track/15sNOix5jm0pQ3tyGABCyr) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [RENT DUE](https://open.spotify.com/album/0dBvFFw0BJf90rDVvXY7cv) | 2:06 | 2024-02-23 | 2024-03-10 |
 | [LUXURY](https://open.spotify.com/track/36mO2Bb1nz4Oq5BhZKniJE) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [RENT DUE](https://open.spotify.com/album/1IoERGFV3rFT4CQVSI17Qr) | 2:06 | 2024-03-08 | 2024-04-06 |
+| [LV Sandals](https://open.spotify.com/track/4z0dljYoJIG4lBNrSX4Zue) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [LV Sandals](https://open.spotify.com/album/0fr6Tn2dEE98h8qxrKRHXH) | 1:51 | 2025-09-02 |  |
 | [Mad At Her](https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Mad At Her](https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH) | 3:00 | 2022-07-08 | 2022-08-20 |
 | [Mad Man](https://open.spotify.com/track/5n5TvuwopZlAiyIn8Bai4O) | [Rundown Spaz](https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK), [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Mad Man](https://open.spotify.com/album/3k0FLJ1pOWgC8XckfN3rjg) | 2:26 | 2024-03-08 | 2024-06-15 |
 | [Made Me \(feat\. NoCap\)](https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Street Poetry](https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy) | 3:00 | 2022-03-04 | 2022-04-16 |

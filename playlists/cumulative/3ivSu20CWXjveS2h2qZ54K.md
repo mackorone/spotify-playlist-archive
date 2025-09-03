@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,145 songs - 11 day 20 hr 32 min
+5,147 songs - 11 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2147,6 +2147,7 @@
 | [I Never Dream About Trains](https://open.spotify.com/track/4u8JZMG1h659W4DIFz9PQB) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [I Never Dream About Trains](https://open.spotify.com/album/0S0QvMi2Kiu33RfIayLnsW) | 5:31 | 2025-08-07 | 2025-08-16 |
 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-07-19 | 2024-07-27 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-11 | 2024-10-19 |
+| [I Pray](https://open.spotify.com/track/52o21vlpbMhNEGfH8pZFL5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [I Pray](https://open.spotify.com/album/0sEHxMrtx2R2fPXvUTrQcD) | 3:37 | 2025-09-02 |  |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 | 2024-11-09 |
 | [I Said What I Said](https://open.spotify.com/track/3b4imlC1vc2v90NnpH2JsF) | [The Softies](https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG) | [I Said What I Said](https://open.spotify.com/album/10sMK7y2QZiUr2MYKCOnUn) | 2:23 | 2024-06-19 | 2024-06-29 |
 | [I Saw Another Bird](https://open.spotify.com/track/1IsTcFwWyQb722glDD1G9s) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [I Saw Another Bird](https://open.spotify.com/album/4tUU0iNooKi0yWHvKoxG4X) | 2:12 | 2024-10-03 | 2024-10-12 |
@@ -3583,6 +3584,7 @@
 | [POR TU SILENCIO LLORO](https://open.spotify.com/track/5sw92JihF6LFO9itzpLCwe) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [LA GUITARRA FLAMENCA DE YERAI CORTÉS](https://open.spotify.com/album/55iqOmWvLftEZUGdMWzG43) | 3:19 | 2024-12-20 | 2025-01-11 |
 | [Por Vos](https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Por Vos](https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n) | 3:05 | 2025-03-21 | 2025-03-29 |
 | [Porcelain](https://open.spotify.com/track/0EBgf7rDE0RXJhMKF12z92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Porcelain](https://open.spotify.com/album/4X1TXs71LSQtlLQeL4uPNR) | 2:30 | 2024-10-03 | 2024-10-12 |
+| [Porcupine](https://open.spotify.com/track/0FFuYtS0Ij5gTZ0OwkfRsT) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Porcupine](https://open.spotify.com/album/2sSucThJxjW2B6h6w9Aorn) | 3:44 | 2025-09-02 |  |
 | [portal](https://open.spotify.com/track/5EYcr2yId0dRplZgZ8AlM8) | [kindapatri](https://open.spotify.com/artist/1EvQDWh3meaem5xYnP9WPo) | [noctaria](https://open.spotify.com/album/1qaw8sZ2bSHSvegSXKY9wY) | 2:49 | 2025-06-06 | 2025-06-28 |
 | [Portrait of My Heart](https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Portrait of My Heart](https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC) | 4:42 | 2025-01-08 | 2025-01-18 |
 | [Possession](https://open.spotify.com/track/1Izk4abuGJ6cFtJgKBl21z) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Possession](https://open.spotify.com/album/1PvIegH0b1BhcyekL5igmK) | 4:11 | 2025-04-29 | 2025-05-10 |

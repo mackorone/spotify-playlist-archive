@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Abbie Gamboa & Aodhán King
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,942 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,959 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 72 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 |
 | 73 | [BUILD](https://open.spotify.com/track/264acerFnlAL2kJArjHUvR) | [Yourboywonder](https://open.spotify.com/artist/1oL00CcMtIfyR8MqrPv8L0) | [FOMO](https://open.spotify.com/album/3r6MClXqv2VJJIvyhCE3lW) | 2:41 |
 | 74 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 |
-| 75 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/0oqOEucRjwA3NwSpyRTg1Z) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 |
+| 75 | [RAPHA](https://open.spotify.com/track/26LoFnjsiN1NmWSGxVT19g) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [RAPHA](https://open.spotify.com/album/5VJsKDNPnKmtZCjRh1t7S0) | 2:47 |
 | 76 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 |
 | 77 | [DA HEAT](https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [DA HEAT](https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO) | 2:02 |
 | 78 | [GTA 6](https://open.spotify.com/track/2pTIbtODPQ9dtQuD3rPaTp) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Wordsplayed](https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO), [Magic & Bird](https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x) | [GTA 6](https://open.spotify.com/album/0ugJnZKfTyqaZYXPScO2Yy) | 2:47 |

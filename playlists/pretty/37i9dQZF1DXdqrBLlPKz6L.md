@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,880 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,911 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 14 | [Parche Tranqui](https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Parche Tranqui](https://open.spotify.com/album/62pPVP5bcY133KxtFPw8zx) | 3:41 |
 | 15 | [369](https://open.spotify.com/track/66Y8VogvBzn2AAZkk5qHFJ) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [369](https://open.spotify.com/album/0b0ke1kcFlyDu9xTsDOCxe) | 3:02 |
 | 16 | [LA MAYBACH](https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA MAYBACH](https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff) | 4:00 |
-| 17 | [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 |
+| 17 | [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Sjoy on the beat](https://open.spotify.com/artist/2JpD7COyH3RDoFJ1vneHOw) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 |
 | 18 | [MUÑECA DE URBA](https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:02 |
 | 19 | [Hello Kitty](https://open.spotify.com/track/0rhOEMRH8K7OVe4wjLlstl) | [OH!DULCEARi](https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [Hello Kitty](https://open.spotify.com/album/1zE1QaUY29I0LZASdVAarT) | 1:39 |
 | 20 | [Doris](https://open.spotify.com/track/4AbYMhCSQ6pFD0rNQNWGYk) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2) | [Doris](https://open.spotify.com/album/434W3UFGHaAltUecUUY3S7) | 2:38 |

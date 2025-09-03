@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,882 likes - 151 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,944 likes - 151 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,27 +13,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 3 | [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 |
 | 4 | [Across A Meadow](https://open.spotify.com/track/3RpkQpRRqEXeMGjrEUcBtd) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Across A Meadow](https://open.spotify.com/album/6PI4DxEtl5CokXt2ytYrHv) | 2:32 |
 | 5 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 |
-| 6 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 |
-| 7 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
+| 6 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 |
+| 7 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 |
 | 8 | [Incensus](https://open.spotify.com/track/51y4pJlBEv74r3Yi6p7Hc4) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Incensus](https://open.spotify.com/album/1OygAES8T7LGyfO8RW1sxU) | 2:29 |
-| 9 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
-| 10 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
+| 9 | [Renascer](https://open.spotify.com/track/52G5BtKvxEZ7DdfgiOdQTz) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Renascer](https://open.spotify.com/album/7k5IGzWriBule5D6Guze1h) | 3:33 |
+| 10 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 |
 | 11 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 |
-| 12 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
-| 13 | [Fields](https://open.spotify.com/track/6iXzzfVie4I5FvTU2XYRij) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Fields](https://open.spotify.com/album/6eRatVkktAPBJPEZJHGRC6) | 2:25 |
-| 14 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 |
-| 15 | [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 |
-| 16 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
-| 17 | [Question to Answer](https://open.spotify.com/track/62KO5To5TYAmJu6PRFRuJd) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Question to Answer](https://open.spotify.com/album/2s24dE6W3E2yKSVtRvRYiy) | 2:36 |
-| 18 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
-| 19 | [Hold That Thought](https://open.spotify.com/track/0scTOazaMpMEgSkrZFKYtH) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Hold That Thought](https://open.spotify.com/album/2yMZCc5zdd98Z4E4Iz56zp) | 2:46 |
-| 20 | [Meeting and Passing](https://open.spotify.com/track/1V6MaIG0Ad0WTXIFYJJHmw) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Meeting and Passing](https://open.spotify.com/album/5jwABaertIL4wbwvMDGlfu) | 2:41 |
-| 21 | [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 |
-| 22 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 |
-| 23 | [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 |
-| 24 | [Fireflies](https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Fireflies](https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe) | 2:25 |
-| 25 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 |
-| 26 | [Between Us](https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Between Us](https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T) | 2:40 |
+| 12 | [Fields](https://open.spotify.com/track/6iXzzfVie4I5FvTU2XYRij) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Fields](https://open.spotify.com/album/6eRatVkktAPBJPEZJHGRC6) | 2:25 |
+| 13 | [South Side](https://open.spotify.com/track/0SajjB6LU6j4sLCFc4dGgP) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [South Side](https://open.spotify.com/album/0WOlYMDfxVZrV4tnjnwCIb) | 2:51 |
+| 14 | [Albufeira](https://open.spotify.com/track/2QImm2wZ3TqJIeIbVep6sr) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Albufeira](https://open.spotify.com/album/0XhNEzxemDBZfzRIvsFYU6) | 2:24 |
+| 15 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 |
+| 16 | [A While Ago](https://open.spotify.com/track/13K4xmriBBK1oYv7CpSZF1) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [A While Ago](https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj) | 2:55 |
+| 17 | [Hold That Thought](https://open.spotify.com/track/0scTOazaMpMEgSkrZFKYtH) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Hold That Thought](https://open.spotify.com/album/2yMZCc5zdd98Z4E4Iz56zp) | 2:46 |
+| 18 | [Question to Answer](https://open.spotify.com/track/62KO5To5TYAmJu6PRFRuJd) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Question to Answer](https://open.spotify.com/album/2s24dE6W3E2yKSVtRvRYiy) | 2:36 |
+| 19 | [Meeting and Passing](https://open.spotify.com/track/1V6MaIG0Ad0WTXIFYJJHmw) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Meeting and Passing](https://open.spotify.com/album/5jwABaertIL4wbwvMDGlfu) | 2:41 |
+| 20 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 |
+| 21 | [Stonehaven](https://open.spotify.com/track/3vt0Y1KJwaEzaDOF4shO2i) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Stonehaven](https://open.spotify.com/album/0yasqdzEzBoL89mK1NnyVw) | 2:27 |
+| 22 | [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 |
+| 23 | [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 |
+| 24 | [Between Us](https://open.spotify.com/track/0JGz1xrm1yj88x4Y6qdG0U) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Between Us](https://open.spotify.com/album/0SPgzK9Kg76KbZvzQyQX0T) | 2:40 |
+| 25 | [Fireflies](https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Fireflies](https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe) | 2:25 |
+| 26 | [Blurring Lines](https://open.spotify.com/track/33CVcdWsRzp4E8CQoGlAJy) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Blurring Lines](https://open.spotify.com/album/0OJ6PKcMpAFSFL2usHm1v4) | 2:06 |
 | 27 | [Just Like That](https://open.spotify.com/track/2prEnOZFMwIYsflV3ORDbQ) | [Nico Harper](https://open.spotify.com/artist/5zzzEMIjmteJXzfAnBOLJB) | [Just Like That](https://open.spotify.com/album/0KEk3eyTKNMZY2i2qA2Foa) | 2:44 |
 | 28 | [The Lightkeeper](https://open.spotify.com/track/38XWOlV96eIYhww3A1f7I8) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [The Lightkeeper](https://open.spotify.com/album/3DZemnOhS2gzVyogZmGD15) | 2:17 |
 | 29 | [Highway](https://open.spotify.com/track/7md0GcPGQmZscsglwm7GIA) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Highway](https://open.spotify.com/album/5IPedTrS1EwAWrOXh26WYO) | 2:19 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 150 | [Better Here](https://open.spotify.com/track/2xMK2XVpe7mOFMjaI1ZPGh) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [Better Here](https://open.spotify.com/album/6PJhbCAzc2w4edtE6ay57F) | 2:23 |
 | 151 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 
-Snapshot ID: `AAAAALXJPxwdph8qA56yFL1W0/VQLTOm`
+Snapshot ID: `AAAAAHkRzUpW0r2/aEFLkhrLTdpOLTmu`

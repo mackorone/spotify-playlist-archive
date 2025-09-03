@@ -2,7 +2,7 @@
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=285Ht1DnQXWii\_db2gYLig">Amaarae</a>
+> Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=KTGzE8E0Sg\-5XZ47hxMWaA">Gyakie</a>
 
 514 songs - 1 day 4 hr 50 min
 

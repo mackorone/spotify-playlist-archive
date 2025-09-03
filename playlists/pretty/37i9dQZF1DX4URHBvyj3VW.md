@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4URHBvyj3VW.md) - [plain]
 
 > The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, in theaters now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,504 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,614 likes - 39 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4URHBvyj3VW.md) - [plain]
 | 38 | [Mistakes](https://open.spotify.com/track/7lnxwEr4yVE01y2FBU2WKh) | [Hudson Rubin](https://open.spotify.com/artist/2f7aIRlfed0HxGOXVkPt4W) | [Mistakes](https://open.spotify.com/album/5YEjQG6DpXrBgU93peTRvP) | 3:57 |
 | 39 | [Happy Place](https://open.spotify.com/track/7wERAnmSZfhizei772o8QL) | [Shelly Sony](https://open.spotify.com/artist/1V8oWdnA5lcwov8ehgy7n7), [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt) | [Happy Place](https://open.spotify.com/album/2Iim7OuyPZJAa85mHhGD9M) | 2:03 |
 
-Snapshot ID: `AAAAAHHUDNVlMt90KHrDNpJCxtFVr8aJ`
+Snapshot ID: `AAAAAKJNlQ61Vjg/M/YEZlN3cAICegBX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,511 likes - 68 songs - 3 hr 46 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,511 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,8 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 66 | [Love That I Love You](https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 2:43 |
 | 67 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
 | 68 | [she broke up with the boy](https://open.spotify.com/track/3LutNfuBjGJXLHHCem7JjB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [MaRynn](https://open.spotify.com/album/6hzqUtFEkgtH3f7L7vudUc) | 2:50 |
+| 69 | [Best of all Time](https://open.spotify.com/track/2lQ4DhnocikyEhBJ5JJTKp) | [Dylan Ault](https://open.spotify.com/artist/11cNMNyPrGHQ1dlE7Bk4vR) | [The Thicket](https://open.spotify.com/album/3CWbB6PplDoTKaRG8JAXGp) | 2:37 |
+| 70 | [Hurt Like Hell](https://open.spotify.com/track/2xKhJEyaVHteQSvY2DC6LD) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Hurt Like Hell](https://open.spotify.com/album/7tYdOXQYqw7kcVU2WMl5Ab) | 3:37 |
+| 71 | [Space](https://open.spotify.com/track/3Y5JcHHwKF0G7Clh8Rptbp) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Space](https://open.spotify.com/album/4FnK8TM1LUx1XDN2ovElWM) | 2:43 |
 
-Snapshot ID: `AAANFZuztM5/FFW9eW3z9MSjMaHZ/pO/`
+Snapshot ID: `AAANGIyGyUI7JVDnFyWHxbbFbxduOxLa`

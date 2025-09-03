@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-920 songs - 2 day 12 hr 36 min
+921 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [OTSUKARE](https://open.spotify.com/track/5D7cpfBzFfsipwXmpThyle) | [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [OTSUKARE](https://open.spotify.com/album/6exMtoSnYWu0YGuHYqDJF1) | 3:15 | 2023-03-28 | 2023-04-05 |
 | [Outsider](https://open.spotify.com/track/3nrUk5haVUeTEhmczsCN5I) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [Outsider](https://open.spotify.com/album/0RaF0nzY9WklPv8AdyHonE) | 2:05 | 2022-05-24 | 2022-07-22 |
 | [Outsider](https://open.spotify.com/track/41JNAl5ZylGTIRWtm7dkv5) | [アツキタケトモ](https://open.spotify.com/artist/3heMyf2JzG0BDI5KGMNF1f) | [Outsider](https://open.spotify.com/album/1kZUCuLSXTnkjyk87yv6ZF) | 4:28 | 2022-07-12 | 2022-07-15 |
+| [Over You](https://open.spotify.com/track/6pTZvecesfiQU9SeygSLv9) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [Over You](https://open.spotify.com/album/3o9n8SBtyXzVvNvrA2KUNV) | 3:48 | 2025-09-02 |  |
 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 | 2023-03-18 | 2024-06-10 |
 | [PALE MOON](https://open.spotify.com/track/2VGhq0SfQJG8Ei4HoUE2od) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [PALE MOON](https://open.spotify.com/album/1XkeR4XzRHf2xv0YvWJ1fy) | 6:22 | 2022-09-27 | 2022-09-29 |
 | [PALE MOON](https://open.spotify.com/track/7KX3RiFmF4fbs5r3rcIsj6) | [paris match](https://open.spotify.com/artist/6K3kyiIIxgi9TZzp2v6eof) | [PALE MOON](https://open.spotify.com/album/0V2HGG32RosZNMfjMXi5Lz) | 6:22 | 2022-09-27 | 2022-10-05 |
@@ -489,7 +490,7 @@
 | [SQUALL](https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [SQUALL](https://open.spotify.com/album/665nMWjjVtin2BIuiy61SW) | 4:06 | 2022-08-02 | 2022-08-17 |
 | [Stardust](https://open.spotify.com/track/0BvOFRB4G7QCwChRG8skCq) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Stardust](https://open.spotify.com/album/0lNpnhKSPpNL5PLtV24J28) | 4:26 | 2022-11-22 | 2022-11-30 |
 | [Starlight](https://open.spotify.com/track/4cFvCgEDtwk19uovENRpsG) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Starlight](https://open.spotify.com/album/6sdeBlNidcSdtZbp7sLEpn) | 3:07 | 2025-08-05 | 2025-08-15 |
-| [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 |  |
+| [STARLIGHT](https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd) | 3:07 | 2022-06-28 | 2025-09-03 |
 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 | 2022-07-27 | 2023-05-13 |
 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2023-05-16 | 2024-03-24 |
 | [Stay Here](https://open.spotify.com/track/08vLS0rSzEDZvnIb24PTzj) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7a8HyqmcdL2LuScqOxGu45) | 3:33 | 2023-08-22 | 2023-08-24 |

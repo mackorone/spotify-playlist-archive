@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Pinkshift
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,885 likes - 151 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,874 likes - 151 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

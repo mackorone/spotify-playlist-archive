@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 呂允 \(Lu Yun\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,603 likes - 148 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,605 likes - 148 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 104 | [NO!](https://open.spotify.com/track/4COln7rdSjGMEGk0Ns8uH8) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [唱片公司 Dropout](https://open.spotify.com/album/3BUkCWHSSauc8XnPIOlE8a) | 2:12 |
 | 105 | [下輩子再跟你談戀愛](https://open.spotify.com/track/4rAk4PJG50nUQoRzkYIMnJ) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [下輩子再跟你談戀愛](https://open.spotify.com/album/2k7Dq176jD7MigrMlzNab0) | 4:05 |
 | 106 | [以爲和因爲 \(feat\. 牛奶白\)](https://open.spotify.com/track/062WNxqtuGYtxlu72nDXsU) | [王美蓮](https://open.spotify.com/artist/7aAxpHEKyv5LMkhSLBUlJN), [牛奶白](https://open.spotify.com/artist/7oiYU5piZs5UFgTsz97N61) | [以爲和因爲 \(feat\. 牛奶白\)](https://open.spotify.com/album/38zEJd0iQZx5vyFRH492p9) | 4:06 |
-| 107 | [瑪格莉塔](https://open.spotify.com/track/0iKCf2vmxEkB52BnuEa0Fy) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [瑪格莉塔](https://open.spotify.com/album/7oVV6dqUslJNP0WDFnI22J) | 3:57 |
+| 107 | [瑪格莉塔 Margarita](https://open.spotify.com/track/0iKCf2vmxEkB52BnuEa0Fy) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [瑪格莉塔 Margarita](https://open.spotify.com/album/7oVV6dqUslJNP0WDFnI22J) | 3:57 |
 | 108 | [She’s Gone,Kiss Me More](https://open.spotify.com/track/7CqOOGCBJSvZeOAmjzREXD) | [Wadewei](https://open.spotify.com/artist/3NO1uEvxv7DM2ZIeSHTQG0) | [She’s Gone,Kiss Me More](https://open.spotify.com/album/73Hpjcu2E1YH9cy4RFP5zu) | 3:44 |
 | 109 | [cold.](https://open.spotify.com/track/1q0J313GngZkIUlI47e8iU) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [cold.](https://open.spotify.com/album/0QUc88IhquEmqzhEoAncKH) | 2:19 |
 | 110 | [Solstice Full Moon](https://open.spotify.com/track/4V8ZQpvDhJUcvjrIQLWOYY) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Solstice Full Moon](https://open.spotify.com/album/4HC9YwokvUCZ8CTCuVLbiu) | 4:04 |
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 143 | [輝煌旅行社 \(feat\. 李炳輝\)](https://open.spotify.com/track/67r70wQhYUAKnmtmtxBc9k) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [李炳輝](https://open.spotify.com/artist/7gMPvoGwlG78NPqN5FjQ5T) | [輝煌旅行社 \(feat\. 李炳輝\)](https://open.spotify.com/album/4jDuy5tUSSQj265vzz87wl) | 4:19 |
 | 144 | [Carmen 2025](https://open.spotify.com/track/4EPM8Q4vSTcFuNJNN6vnnM) | [Adai Song](https://open.spotify.com/artist/3qYbpNdU8ahCjy2d8is30I) | [Carmen 2025](https://open.spotify.com/album/14vFAWZmhOEXXPqVRekFKd) | 3:12 |
 | 145 | [Motion \- 流光](https://open.spotify.com/track/52tivYgA7mKMjBH41SQAgh) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO) | [Motion \(流光\)](https://open.spotify.com/album/4JrwVwixA46qrq5ORA8Qao) | 2:26 |
-| 146 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:42 |
+| 146 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:44 |
 | 147 | [我是Daddy](https://open.spotify.com/track/3BGGbPF8yYjAm9zQpBuWzT) | [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [我是Daddy](https://open.spotify.com/album/73Sy6P8vOgW0Q8UMS5WBGv) | 2:48 |
 | 148 | [我們不要躲雨了](https://open.spotify.com/track/482IhYjl37yV1v9jnLKovu) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [我們不要躲雨了](https://open.spotify.com/album/74HRnLP5sZRNdd7N8nbidx) | 4:20 |
 

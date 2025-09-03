@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Droomsindroom, Chris Steyn, Spoegwolf,  Wikus Botma, Robbie Wessels en meer!
 
-1,973 songs - 4 day 13 hr 44 min
+1,974 songs - 4 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,6 +1800,7 @@
 | [Verf My Rooi](https://open.spotify.com/track/5Pk46zq6cbJ4w2fJfgDDqV) | [HERLEEF.](https://open.spotify.com/artist/77sMW0E3pXDL81YZm4TeGQ), [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW) | [Verf My Rooi](https://open.spotify.com/album/2el8qiBx6K7GZob2AweFG2) | 3:31 | 2025-03-27 | 2025-04-11 |
 | [Vergaan](https://open.spotify.com/track/0grmeujEDEfmnsJGUhhlku) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:50 | 2024-04-25 | 2024-09-13 |
 | [Vergeet My Hier](https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds), [Henri Alant](https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4) | [Vergeet My Hier](https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN) | 3:17 | 2023-04-20 | 2023-07-14 |
+| [Vergeet Van My](https://open.spotify.com/track/38C3xeCVR97GjCAlvmXQ0h) | [Marleé Van Der Merwe](https://open.spotify.com/artist/04G1BXvUeKqX4t2xckq4gn) | [Vergeet Van My](https://open.spotify.com/album/5JFmzY0B4NG2J8BgItQ7jt) | 3:46 | 2025-09-02 |  |
 | [Verkleur Verskeur](https://open.spotify.com/track/2RvhMJ3XsWwIHdOWKTpWBW) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Verkleur Verskeur](https://open.spotify.com/album/1SJBUlBMdeF1cUhYWpLB8u) | 3:27 | 2024-04-04 | 2024-04-19 |
 | [Verkleur Verskeur \- Jemma's Version](https://open.spotify.com/track/0maSl2bIaCLNTmS08Zx2bq) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [VERKLEUR VERSKEUR](https://open.spotify.com/album/4t7dw4FiuYDgHLALHmutvF) | 3:25 | 2024-04-18 | 2024-04-26 |
 | [Verlief](https://open.spotify.com/track/00y4vxbDuviPFwiVa1Zxbe) | [Marnus](https://open.spotify.com/artist/1h9sfLegWvJvRb6k5rXSEe) | [Verlief](https://open.spotify.com/album/5wg40Lw69uxraD7x2trUPS) | 2:37 | 2024-02-01 | 2024-02-23 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Pirlo en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,929 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,924 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
+| 1 | [POWER](https://open.spotify.com/track/1gNJLNT3AhQS9oFUVNM8d0) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [POWER](https://open.spotify.com/album/1ndqyd0VW38leZ7XMoIH66) | 2:46 |
 | 2 | [Wells Fargo](https://open.spotify.com/track/2tXx1UWEjtZNOak94m7R8g) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sr\. Santos II Sueños de Grandeza](https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9) | 4:53 |
 | 3 | [200 pistolas 300 soldados](https://open.spotify.com/track/0YATmnfzmTsKLxinbaTRGh) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [200 pistolas 300 soldados](https://open.spotify.com/album/011MzVwLv6590MHDbxCDMS) | 3:20 |
 | 4 | [Fuck U](https://open.spotify.com/track/6oSE6LeThmMXKC0ddjeU3C) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Fuck U](https://open.spotify.com/album/4WtBpXT3Dg3IKalKnIqFbH) | 2:41 |

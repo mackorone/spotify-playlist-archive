@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 146228,
       "name": "Come On",
       "url": "https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN"
@@ -2833,6 +2833,28 @@
     },
     {
       "album": {
+        "name": "Lonestar (VIP)",
+        "url": "https://open.spotify.com/album/1RIhyZKU9wTTF6Lacm1OpO"
+      },
+      "artists": [
+        {
+          "name": "Mia Kirkland",
+          "url": "https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD"
+        },
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227137,
+      "name": "Lonestar - VIP",
+      "url": "https://open.spotify.com/track/6dlYv7FOAYyxTT0yCvbs9M"
+    },
+    {
+      "album": {
         "name": "Long Way Down (feat. Badlook)",
         "url": "https://open.spotify.com/album/1jBMug2yq6r4F4IpLEAL9W"
       },
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 203258,
       "name": "Sleep Alone (feat. Justin Jesso)",
       "url": "https://open.spotify.com/track/1BERBcU107hAf2keGtZDCr"
@@ -4754,6 +4776,32 @@
       "duration_ms": 274302,
       "name": "SPACE INVADER",
       "url": "https://open.spotify.com/track/3CKQVlGKHfhhXnSkwir99e"
+    },
+    {
+      "album": {
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/4GzuVetV8hd2PThv3yMY1M"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        },
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/55Ym4P3I3W7zteIu6DBl9N"
     },
     {
       "album": {

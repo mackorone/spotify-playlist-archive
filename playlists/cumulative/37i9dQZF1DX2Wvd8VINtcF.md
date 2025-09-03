@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Hannes & waterbaby✨
 
-2,010 songs - 4 day 12 hr 35 min
+2,012 songs - 4 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 | 2023-01-26 | 2023-02-17 |
 | [Blue Eyed Buck](https://open.spotify.com/track/3ywpJWfy6OA2DIZVYDqVt5) | [Jon Santana](https://open.spotify.com/artist/05XxXeBmy0Kge0WdgDfj05), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Blue Eyed Buck](https://open.spotify.com/album/2KeXE0UPTzV7zoEMfg344N) | 2:22 | 2025-06-19 |  |
 | [Blue Light](https://open.spotify.com/track/6ZCmA6579h7urbIMiWwVkB) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Blue Light](https://open.spotify.com/album/2iZgDZXtuAcx2O0MKoF3Pa) | 3:56 | 2022-12-15 | 2023-01-27 |
+| [Blue Velvet](https://open.spotify.com/track/2NdWTPbuCCUGGH1JL01nEL) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Blue Velvet](https://open.spotify.com/album/3RhHlCANvlcdVpHqLVYcik) | 4:06 | 2025-08-29 |  |
 | [blueprints of us](https://open.spotify.com/track/165ZtkfUdMu36Wqw7YiyGW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [blueprints of us](https://open.spotify.com/album/3Z4RwK6UvR99QdiDlA3zuF) | 3:18 | 2023-11-30 | 2023-12-08 |
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-02-02 | 2023-04-07 |
 | [Blush Cut](https://open.spotify.com/track/3HaUAMFIw5iZfpO5yOpw2P) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [BABYLON IX](https://open.spotify.com/album/18RD7fs0sVlhy13O8VwN7J) | 3:52 | 2023-04-27 | 2023-05-19 |
@@ -1664,6 +1665,7 @@
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 |  |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2023-06-15 | 2023-08-04 |
 | [Suckerpunch](https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Suckerpunch](https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03) | 3:01 | 2024-03-14 | 2024-03-29 |
+| [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-02 |  |
 | [sugarcoat](https://open.spotify.com/track/1eOxQrohc4LaExjM64hYpJ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [sugarcoat](https://open.spotify.com/album/0fUNxwzyslKxKzVfw96hss) | 3:11 | 2024-03-28 | 2024-07-27 |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-11 | 2023-06-16 |
 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-06 | 2024-09-13 |

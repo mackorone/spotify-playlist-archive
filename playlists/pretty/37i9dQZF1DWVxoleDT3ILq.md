@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Spiral Vortex
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,963 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,946 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Tarde](https://open.spotify.com/track/6LT5JZMANQtvgCOQg4f4kj) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Tarde](https://open.spotify.com/album/2ZGIEe4Y2NHLzz76CFWCAM) | 4:38 |
 | 100 | [Las cosas van a salir bien](https://open.spotify.com/track/1i4fMZwOFD6vbkilo0AOyK) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Las cosas van a salir bien](https://open.spotify.com/album/6ra3Qy3YdVwooWD5zeqIzM) | 3:33 |
 
-Snapshot ID: `AAAAANxk5l0g863/6CA1pWr3bgtQN167`
+Snapshot ID: `AAAAAB8ODv521WxClJBxdRok+HNcnDSC`

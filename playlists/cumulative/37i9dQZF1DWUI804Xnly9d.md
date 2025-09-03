@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-584 songs - 1 day 8 hr 38 min
+585 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Lamha Ye](https://open.spotify.com/track/6DXeCwgEuE5rf5cgbU0mQ1) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Lamha Ye](https://open.spotify.com/album/4taFbFCbTnAlujGwi92UVN) | 3:46 | 2024-01-09 | 2025-04-15 |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [LAPATA](https://open.spotify.com/track/6e6wQ0vfFLqyMKs9GAdEfX) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [LAPATA](https://open.spotify.com/album/3P6JsgJlXQ3yZDVo8OtXVr) | 2:46 | 2024-08-01 | 2024-10-10 |
+| [Last Love \(Acoustic Version\)](https://open.spotify.com/track/0RswAiyXdur2BSGSGxrUMv) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Last Love \(Acoustic Version\)](https://open.spotify.com/album/1UfbRnr4c8iMzCGwaYSIP3) | 2:02 | 2025-09-02 |  |
 | [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 | 2023-10-17 | 2023-11-30 |
 | [Laykin](https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Laykin](https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ) | 2:51 | 2024-11-20 | 2024-11-28 |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 | 2023-07-01 |  |
@@ -447,7 +448,7 @@
 | [Sadgi](https://open.spotify.com/track/0w891ljZDidc50QRARZxL6) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Sadgi](https://open.spotify.com/album/0DfVYUSlcjLDa2eAgJd6RR) | 4:09 | 2023-06-22 | 2023-08-10 |
 | [safar](https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [dastaan](https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22) | 3:16 | 2024-08-22 | 2025-04-17 |
 | [Safar](https://open.spotify.com/track/0uAOcZmwkIg5LHDhbuBKYN) | [Nikita Ahuja](https://open.spotify.com/artist/1N9scLdWZukQAQ0p4ZeUUx), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Safar](https://open.spotify.com/album/06yYVu3F7bVRFo6xksZeZX) | 3:19 | 2024-05-24 | 2024-07-16 |
-| [Sahiba Unplugged](https://open.spotify.com/track/1oOYt0YDdoUkSo22NGNj8o) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Sahiba Unplugged](https://open.spotify.com/album/3kZvEoMvxad8D3HudeayxB) | 1:15 | 2025-07-18 |  |
+| [Sahiba Unplugged](https://open.spotify.com/track/1oOYt0YDdoUkSo22NGNj8o) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Sahiba Unplugged](https://open.spotify.com/album/3kZvEoMvxad8D3HudeayxB) | 1:15 | 2025-07-18 | 2025-09-03 |
 | [Sajna Ve \- Unplugged](https://open.spotify.com/track/6hM2yqGm61jGjgxJdfKw9w) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Sajna Ve \(Unplugged\)](https://open.spotify.com/album/5ffdP0dt1juD6S2JwtDC4C) | 1:09 | 2025-03-20 |  |
 | [Samjho Na](https://open.spotify.com/track/7vHo5K0SeLhkX3TFYW0JSg) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Samjho Na](https://open.spotify.com/album/2jELVyAMRZtGCfDM2nqHue) | 0:58 | 2024-10-01 | 2024-10-08 |
 | [Samjhoge Kya \(Unplugged\)](https://open.spotify.com/track/204psey1KcOZnNW1wLUe91) | [Himanshu Hansraj](https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi) | [Samjhoge Kya \(Unplugged\)](https://open.spotify.com/album/4AatAKnowV8MFIwqxMeX5n) | 2:58 | 2025-05-29 | 2025-08-09 |

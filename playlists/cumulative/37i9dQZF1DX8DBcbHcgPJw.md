@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-665 songs - 1 day 8 hr 52 min
+666 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [NO SE RUEGA](https://open.spotify.com/track/5AzxnSCfSDWLlGyN83rNJR) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [NO SE RUEGA](https://open.spotify.com/album/4ZPidXILviEhxTqp5lyroW) | 1:58 | 2022-02-25 | 2022-05-20 |
 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 | 2021-12-23 | 2024-12-21 |
 | [No Te Confundas](https://open.spotify.com/track/5ZOLvkyS5xkkfzLe9ytDmQ) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [No Te Confundas](https://open.spotify.com/album/1of5ndRyyQ4LjADe7wlO9U) | 3:20 | 2022-12-16 | 2023-06-02 |
-| [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 | 2021-12-23 |  |
+| [No Te Contaron Mal](https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [No Te Contaron Mal](https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl) | 2:56 | 2021-12-23 | 2025-09-03 |
 | [No Te Extraño](https://open.spotify.com/track/7L6jqdb3t04uzyw115lkGG) | [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF), [Sasha Ferro](https://open.spotify.com/artist/110fKmlvjYiE9odd9LeBiH) | [No Te Extraño](https://open.spotify.com/album/3D6mIHSxuPQIMwtEsiON7J) | 2:11 | 2024-03-08 | 2024-03-30 |
 | [No Te Vas a Olvidar](https://open.spotify.com/track/6RwAPBAOhvyS3BTK5JaSq2) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Jorgito Barrionuevo](https://open.spotify.com/artist/192E8ptSuYPT0rgJRyImNH) | [No Te Vas a Olvidar](https://open.spotify.com/album/5HNIgxDU0zkg1VyuHGDUQB) | 2:20 | 2024-02-02 | 2024-05-05 |
 | [No Te Vayas \- Remix](https://open.spotify.com/track/1owmQGMgruRHTIQLGFCoEz) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [No Te Vayas \(Remix\)](https://open.spotify.com/album/78XsJ5qvHNxyvXGUm18FPm) | 2:52 | 2024-06-07 | 2025-07-09 |
@@ -609,6 +609,7 @@
 | [Tus Besitos](https://open.spotify.com/track/26w0r1saKNizpnbEWnvavg) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Tus Besitos](https://open.spotify.com/album/41Lqxg6ERawfC2nhii2QAa) | 3:03 | 2022-03-25 | 2022-06-17 |
 | [Tusa](https://open.spotify.com/track/5BMaLGInRPhdskYN7jPm4e) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np) | [Tusa](https://open.spotify.com/album/7s6JReSxW4a4Cm6qcyJUTA) | 2:12 | 2022-01-03 | 2022-07-13 |
 | [Tuve Que Archivar Tu Chat](https://open.spotify.com/track/0k6oaTU8zkKezHCVcvwwHs) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Nehuen Arias](https://open.spotify.com/artist/5xrxw1uqWrbk8FzgR8g68c) | [Tuve Que Archivar Tu Chat](https://open.spotify.com/album/4Dpd7JuhW5pW6BdqkrZhiC) | 2:42 | 2024-01-26 | 2024-02-17 |
+| [Típica Argentina](https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Chofer](https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL), [El Lobo](https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK) | [Típica Argentina](https://open.spotify.com/album/3HBd40il87H552v0UdXkUv) | 2:36 | 2025-09-02 |  |
 | [Típico \(Tu Histeriqueo\)](https://open.spotify.com/track/4UwDVzYbGMTBLUGIB6B48T) | [Mano Arriba](https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp) | [Típico \(Tu Histeriqueo\)](https://open.spotify.com/album/67X3TLwyIELvJZqqBDRxHl) | 2:49 | 2022-01-03 | 2022-07-12 |
 | [Tú y Yo](https://open.spotify.com/track/2pOyGffUJGMYMOwBMuGp9A) | [Dezä](https://open.spotify.com/artist/33xFSM46z4vpFiOCtaSct6), [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Tú y Yo](https://open.spotify.com/album/1nCBjPmIMOl44buXxgJovD) | 2:44 | 2022-07-01 | 2022-07-13 |
 | [UH](https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Ivan Fitt](https://open.spotify.com/artist/1uYtYzLtitQ4nbh9pMOBcS) | [UH](https://open.spotify.com/album/2InVnsWW1i8gpWbOU3n0Ga) | 2:37 | 2022-01-03 | 2022-07-29 |

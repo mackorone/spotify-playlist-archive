@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Geniet van de zon met hits van KAROL G, Chappell Roan, Sabrina Carpenter en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 132,739 likes - 95 songs - 4 hr 53 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 132,680 likes - 95 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

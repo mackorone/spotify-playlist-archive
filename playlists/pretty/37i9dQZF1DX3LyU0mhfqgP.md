@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Ambré
+> Songs from LGBTQIA+ artists\. Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,705 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,076,626 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [band practice](https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Pulp](https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK) | 3:56 |
-| 2 | [Amor](https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Amor](https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm) | 3:19 |
-| 3 | [ใจเย็น](https://open.spotify.com/track/1Vihq046JcJUgmCOaK0TzG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ใจเย็น](https://open.spotify.com/album/14ROL0loQGnRLgf6xmInWd) | 4:11 |
-| 4 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 |
+| 1 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 |
+| 2 | [band practice](https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Pulp](https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK) | 3:56 |
+| 3 | [Amor](https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Amor](https://open.spotify.com/album/3lZKqd1Z1r8vg3PqtNvaTm) | 3:19 |
+| 4 | [ใจเย็น](https://open.spotify.com/track/1Vihq046JcJUgmCOaK0TzG) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ใจเย็น](https://open.spotify.com/album/14ROL0loQGnRLgf6xmInWd) | 4:11 |
 | 5 | [QUEIMANDO ICE](https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:54 |
 | 6 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 7 | [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/2GXT5unTnuzQ7wYAm28Y4s) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Control](https://open.spotify.com/album/5BL10vhOovuT7w7HzgxCH1) | 2:18 |
 | 50 | [Wody odeszły](https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wody odeszły](https://open.spotify.com/album/1MfHtnGP5xjQ6GemJLvKIK) | 4:28 |
 
-Snapshot ID: `AAAAAMX9CjLjQ6gFsFzlwOOz/xgeK8tu`
+Snapshot ID: `AAAAAJjRS3PlcoIcVjRPD+1b/95Wep+m`

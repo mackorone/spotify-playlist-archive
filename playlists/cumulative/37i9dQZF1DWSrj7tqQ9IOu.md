@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-684 songs - 1 day 12 hr 54 min
+686 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [Blue Left Hand](https://open.spotify.com/track/3AHX4K5PPO81j4VF0uWe7n) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Blue Left Hand](https://open.spotify.com/album/1q4CM3Kxe4VcCNP1TSX5lP) | 3:45 | 2025-01-16 | 2025-04-18 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
+| [Bluer than Blue](https://open.spotify.com/track/4DGTdk3mJzEfFMRtDKGR1l) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Bluer than Blue](https://open.spotify.com/album/2ZgeMiduh0cVx7Vxhqz1c6) | 3:19 | 2025-08-28 |  |
 | [Bon Voyage](https://open.spotify.com/track/0erFMrDuaEjyzLcZWeJ7FU) | [Alastair Lane](https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo), [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU) | [Bon Voyage](https://open.spotify.com/album/2gFCZ1r5sA1vipWqauYWVl) | 2:10 | 2025-03-20 | 2025-04-11 |
 | [BONHEUR SAMPLER](https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [BONHEUR SAMPLER](https://open.spotify.com/album/3yKbtw4VszA2OhHpbRsRLV) | 2:57 | 2025-04-03 |  |
 | [Bonifacio](https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Bonifacio](https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA) | 2:15 | 2024-09-12 | 2024-10-25 |
@@ -394,6 +395,7 @@
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [Memories \(with Olivia Merilahti\)](https://open.spotify.com/track/6yAjRkafLkS95M2HeM2Y0O) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR) | [PrimaDonna vol\. 2](https://open.spotify.com/album/3SQpwXGk9dcI22c0jJsoQv) | 3:25 | 2023-04-06 | 2023-10-06 |
 | [MERCI](https://open.spotify.com/track/37mhGNcHKR9EStOcfT01j0) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [VOLTIGE](https://open.spotify.com/album/0mMqOjEJehHs6XR3FkGDAQ) | 3:32 | 2025-04-24 | 2025-05-09 |
+| [MES NUITS](https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [MES NUITS](https://open.spotify.com/album/7MvY0AuZFpmj0KRv7ZzFs6) | 2:56 | 2025-08-28 |  |
 | [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 | 2025-02-13 |  |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-04 | 2025-02-21 |
 | [MIEL](https://open.spotify.com/track/0ZEf0aUGqB1HFKMdy2OLdp) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [L'autre moi](https://open.spotify.com/album/3t1YXwlIa0caYvSG6Yk6h5) | 2:55 | 2025-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Camille Yembe
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,171 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,164 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 23 | [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 |
 | 24 | [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 |
 | 25 | [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 |
-| 26 | [A Dog in a Manger](https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [A Dog in a Manger](https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje) | 3:12 |
+| 26 | [A Dog in a Manger](https://open.spotify.com/track/7smNXOvuCLjEG3qeOQdqVH) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [A Dog in a Manger](https://open.spotify.com/album/38TmYJoFrS4La3bDZKmIje) | 3:21 |
 | 27 | [Kleenex](https://open.spotify.com/track/6sHRH7ZFzoJD7zSemf45Mc) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude\(s\)](https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58) | 3:03 |
 | 28 | [SUNSEX](https://open.spotify.com/track/5JAOBNOn0V52985ppE2NjZ) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUNSEX](https://open.spotify.com/album/04HV3ScswwtR0MM8g0UTs4) | 2:24 |
 | 29 | [Bend Your Back](https://open.spotify.com/track/5UWTTey8whhTjzPQWHgz3a) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Bend Your Back](https://open.spotify.com/album/06B5WFP2DwoxJpUWBEXxg4) | 2:31 |

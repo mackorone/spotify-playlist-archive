@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,454 likes - 99 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,472 likes - 99 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 13 | [Somnambulista](https://open.spotify.com/track/7wS7nAElI8Ju0MKrphRI9W) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [That Wasn't A Dream](https://open.spotify.com/album/5pDATa5kjuLPlh1zALzCrl) | 3:49 |
 | 14 | [Humble Magic \(feat\. Trombone Shorty\)](https://open.spotify.com/track/4DVZ3uXWQwaJcTnnfGoNVf) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Humble Magic, Vol\. 1](https://open.spotify.com/album/6bM1rkXosXS8eTskGnonY0) | 5:28 |
 | 15 | [Wear and Tear](https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Wear and Tear](https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT) | 3:09 |
-| 16 | [Away](https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Away](https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t) | 3:19 |
+| 16 | [Away \(feat\. Jeff Parker\)](https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Away \(feat\. Jeff Parker\)](https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t) | 3:19 |
 | 17 | [Stair 1](https://open.spotify.com/track/4jl4G2EWBLxIVKeT03oAe9) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z) | [Diamond Staircase](https://open.spotify.com/album/7ndB2mztr8DG60MZnz93he) | 1:55 |
 | 18 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
 | 19 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,501 likes - 181 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,476 likes - 181 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 2 | [Gamma \(need the <3\)](https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:00 |
 | 3 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 4 | [LOVE & POP](https://open.spotify.com/track/657y4ybpQX9jyGLRKgNalz) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Lick The Lens – Pt.1](https://open.spotify.com/album/6MLL5vClk79Yhned782Crg) | 3:47 |
-| 5 | [I WANT YOU](https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [I WANT YOU](https://open.spotify.com/album/69t9cbydMUueDewAi2em9C) | 3:37 |
-| 6 | [Fineshyt](https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:40 |
-| 7 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 |
-| 8 | [Automatic Love](https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:02 |
-| 9 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
-| 10 | [Afraid](https://open.spotify.com/track/7JWB5SERTCpz9IJCau2C9R) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Afraid](https://open.spotify.com/album/7FOKBbAwlPCIwsSz6EKwIR) | 3:41 |
-| 11 | [SPACE INVADER](https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 4:34 |
-| 12 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 |
+| 4 | [I WANT YOU](https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [I WANT YOU](https://open.spotify.com/album/69t9cbydMUueDewAi2em9C) | 3:37 |
+| 5 | [Fineshyt](https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:40 |
+| 6 | [Rock A Bye Baby](https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby](https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy) | 2:50 |
+| 7 | [Automatic Love](https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:02 |
+| 8 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
+| 9 | [Afraid](https://open.spotify.com/track/7JWB5SERTCpz9IJCau2C9R) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Afraid](https://open.spotify.com/album/7FOKBbAwlPCIwsSz6EKwIR) | 3:41 |
+| 10 | [SPACE INVADER](https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 4:34 |
+| 11 | [LOVE & POP](https://open.spotify.com/track/657y4ybpQX9jyGLRKgNalz) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Lick The Lens – Pt.1](https://open.spotify.com/album/6MLL5vClk79Yhned782Crg) | 3:47 |
+| 12 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 |
 | 13 | [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 |
 | 14 | [USA Baby](https://open.spotify.com/track/29hQhpxNbzf4IDjODEZKko) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [USA Baby](https://open.spotify.com/album/78IlsjAG2OP6vpEBJB5ti1) | 1:55 |
 | 15 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 180 | [<<<<3333](https://open.spotify.com/track/0B6m0N0hRcBbQUtOcfsJh7) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [<<<<3333](https://open.spotify.com/album/47K9wfu3icsZOGwqJa6LPW) | 2:58 |
 | 181 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `AAAAAOZ4H2VTic2kLrtDL4HxId6LAUOc`
+Snapshot ID: `AAAAACBOhsHfQPkrZbxl3QBk/dkpEOrs`

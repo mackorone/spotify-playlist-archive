@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,977 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,981 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 42 | [Preach \(feat\. Jim Jones\)](https://open.spotify.com/track/4c1ziBFAuQKKeJE6NXjuuG) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [POISON](https://open.spotify.com/album/7wQWfHMlE9OVghvW74yfz3) | 2:18 |
 | 43 | [Middle Finger](https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b) | [Baby Cham](https://open.spotify.com/artist/1lIuiMR0YIpNeg3GMVsm3b) | [Reggae Gold 2002](https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv) | 4:16 |
 | 44 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |
-| 45 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/57kfxVQc7siqF6CkqYKI6z) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
+| 45 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
 | 46 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
 | 47 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
 | 48 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |

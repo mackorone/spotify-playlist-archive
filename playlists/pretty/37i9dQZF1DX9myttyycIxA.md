@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,201 likes - 146 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,217 likes - 146 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

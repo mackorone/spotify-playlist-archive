@@ -3169,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Haill",
+        "url": "https://open.spotify.com/album/5TaAEY29cHfSagrvmgBLnY"
+      },
+      "artists": [
+        {
+          "name": "Maria Haukaas Mittet",
+          "url": "https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Haill",
+      "url": "https://open.spotify.com/track/7LoN2tKObVtaCwYu7pk4BX"
+    },
+    {
+      "album": {
         "name": "Hald deg fast",
         "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
@@ -6904,7 +6922,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-03",
       "duration_ms": 184199,
       "name": "Sol, snaps & skandaler",
       "url": "https://open.spotify.com/track/17pKdphlthkMsnSzOOBX9E"

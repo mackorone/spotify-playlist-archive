@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: scumie
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,829 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,857 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 71 | [TESTED](https://open.spotify.com/track/44A6e3wpYNKo1o27FSUnmB) | [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [NOT FAMOUS](https://open.spotify.com/album/5ore2SrHcfsRpCsUA1PtLa) | 1:45 |
 | 72 | [iBele](https://open.spotify.com/track/5PFySNngHbLkh3ZcRqLHBQ) | [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [iBele](https://open.spotify.com/album/2OSRprAYUpIGswv4MqaIHQ) | 4:06 |
 | 73 | [BAKA](https://open.spotify.com/track/4Ey6JfzdRD87vZgkThfWQG) | [Tshego Santana](https://open.spotify.com/artist/3PrUYgxlKgT2RfX4WkeKw1), [Rillo Beats](https://open.spotify.com/artist/4Rnx0ttYPXU0OQph1I66MO) | [BAKA](https://open.spotify.com/album/1OgSc5KWQn8jhd0um2LkU2) | 3:57 |
-| 74 | [NGALA \(feat\. Dusse Wavy & Risky\-T\)](https://open.spotify.com/track/0IG2c60PVOQQgYsIXNdeA1) | [Nelz](https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb), [Dusse wavy](https://open.spotify.com/artist/2RE980wJCfjFzi4G31x4WZ), [Risky\-T](https://open.spotify.com/artist/55iuJKVn2LzJuoJ1WaTKk3) | [NGALA \(feat\. Dusse Wavy & Risky\-T\)](https://open.spotify.com/album/5qHhlrJVVWUxcvWZW1FzkW) | 3:46 |
+| 74 | [NGALA \(feat\. Dusse Wavy & Risky T RSA\)](https://open.spotify.com/track/0IG2c60PVOQQgYsIXNdeA1) | [Nelz](https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb), [Dusse wavy](https://open.spotify.com/artist/2RE980wJCfjFzi4G31x4WZ), [Risky T RSA](https://open.spotify.com/artist/45dXsoPKgfmTNwm0YJRKut) | [NGALA \(feat\. Dusse Wavy & Risky T RSA\)](https://open.spotify.com/album/5qHhlrJVVWUxcvWZW1FzkW) | 3:46 |
 | 75 | [80s Baby](https://open.spotify.com/track/3mxXNygvZs5bqllnVHbaqg) | [saveHXPE](https://open.spotify.com/artist/1WkniaxGgj7PkhhA45z6fp), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [80s Baby](https://open.spotify.com/album/4iEltpFUDhyfwcVBz60J5D) | 3:22 |
 | 76 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
 | 77 | [Skuta Baba \- Pitori Remix](https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2) | [WOODBLOCK DJS](https://open.spotify.com/artist/4U1nhrvg5AujdFVNDYdxnQ), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg) | [Skuta Baba \(Remix Pack\)](https://open.spotify.com/album/05xMiDYYKjQ6jt8AYgyCGr) | 4:20 |

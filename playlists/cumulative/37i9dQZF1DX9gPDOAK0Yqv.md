@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-786 songs - 2 day 11 hr 33 min
+787 songs - 2 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Often](https://open.spotify.com/track/6PM3F8LZFqlyncdYxfQJXC) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Often](https://open.spotify.com/album/2y6xOjhYIa6RPIopelsGnu) | 2:46 | 2025-01-16 | 2025-03-28 |
 | [Olympus](https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Olympus](https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus) | 2:57 | 2024-02-23 | 2024-05-28 |
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-12-28 | 2023-01-06 |
+| [On My Mind](https://open.spotify.com/track/37kpEfqDWJnyDDqYRj63km) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [ELAKTO](https://open.spotify.com/artist/1gkYnpnX46vMIbO3iulN7q) | [On My Mind](https://open.spotify.com/album/0J2zPbp0xDXvIJBX9lt0Ij) | 2:19 | 2025-08-29 |  |
 | [One](https://open.spotify.com/track/7iOicmTfgUU7nx05MdwjNc) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Reverse Affection](https://open.spotify.com/album/1qEHygPuXMc1JsjXWHGo1F) | 7:29 | 2023-04-07 | 2023-04-29 |
 | [One More Fluorescent Rush](https://open.spotify.com/track/0oHp0oW3RhkwBuNSDFY1Jq) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 013](https://open.spotify.com/album/34ARyooCzTJw3YydlcqBiW) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Only Human](https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Only Human](https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp) | 3:25 | 2025-02-20 |  |
@@ -549,7 +550,7 @@
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 | 2024-06-14 |
 | [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-07-12 | 2024-07-19 |
-| [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-11 |  |
+| [Remission](https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Remission](https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2) | 4:06 | 2024-04-11 | 2025-09-03 |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
 | [Renegade Master](https://open.spotify.com/track/1oiOtbJMjP1b9bw3zMhYKY) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [A.D.O.R.](https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM) | [Renegade Master](https://open.spotify.com/album/14ppBTqm5S6PKwIfNEB2yj) | 3:36 | 2025-06-26 |  |
 | [Requiem for a Dream \- 2024 Edit](https://open.spotify.com/track/6cq0wIPixlevfTh0fkL8TV) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Requiem for a Dream \(2024 Remake\)](https://open.spotify.com/album/1GtJHDGbaDG74zoNWHi3fF) | 3:54 | 2023-12-15 | 2024-05-25 |

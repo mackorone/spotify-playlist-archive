@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,345 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,508 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 99 | [Le Mauvais Rêve](https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Le Mauvais Rêve](https://open.spotify.com/album/07n3EfDsuC5RbNrKVisVEZ) | 2:11 |
 | 100 | [L'amour est bleu](https://open.spotify.com/track/7Bb0mYUZIkeNqkMwXMHmAK) | [Trio Musette](https://open.spotify.com/artist/2ePIFH8jgBe6Cqe2uc8s6A) | [L'amour est bleu](https://open.spotify.com/album/38ykcbUhDpC4h020SF900Y) | 2:58 |
 
-Snapshot ID: `AAAAAOgw082GZHGZugPc8RRcXHAKJut2`
+Snapshot ID: `AAAAABBJ/sjhmR0S6okliUGYYk3s8NgJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Alexander Stewart
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,372 likes - 96 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,315 likes - 96 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

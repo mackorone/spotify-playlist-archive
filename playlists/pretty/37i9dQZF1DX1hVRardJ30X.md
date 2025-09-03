@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hamilton, Blessd, Carín León & Kacey Musgraves and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,503 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,513 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [Domingo \(Se Acabo\)](https://open.spotify.com/track/4ScslBfrfYNknSUPmsvXpV) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Domingo \(Se Acabo\)](https://open.spotify.com/album/69dA624gWeHvJqQrMSdnF0) | 2:50 |
 | 21 | [DRINKS](https://open.spotify.com/track/3x2UEWj7M3zQ4r47shqkd7) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [DRINKS](https://open.spotify.com/album/2Lp5yCAdBxX3MH7QlZGCCY) | 2:26 |
 | 22 | [Borracho Y Loco](https://open.spotify.com/track/6JbJ5vPFWyeB3WvolAXFoP) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 2:44 |
-| 23 | [LEGENDARIOS](https://open.spotify.com/track/7ATFG7dhmhofQZTf82bCOF) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [LEGENDARIOS](https://open.spotify.com/album/7A2ecOMfRTCa9XgKZwP7BT) | 3:07 |
+| 23 | [LEGENDARIOS](https://open.spotify.com/track/7ATFG7dhmhofQZTf82bCOF) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [LEGENDARIOS](https://open.spotify.com/album/7A2ecOMfRTCa9XgKZwP7BT) | 3:07 |
 | 24 | [BELLAKEO SUCIO](https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [BELLAKEO SUCIO](https://open.spotify.com/album/5rHqjm7ik12qcInXa7uVRN) | 3:01 |
 | 25 | [Que Emoción](https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 3:36 |
 | 26 | [Mojaí](https://open.spotify.com/track/21E4aAKNO9SkEPtew5xDfw) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Mojaí](https://open.spotify.com/album/0pHSGAAtMzbSQvg1slohw4) | 3:10 |

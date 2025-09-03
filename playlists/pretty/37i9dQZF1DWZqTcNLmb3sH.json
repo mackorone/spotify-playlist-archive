@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : I Am God",
-  "num_followers": 64075,
+  "num_followers": 64083,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPgJFODauxvl1APftD9XBKg1w//",
+  "snapshot_id": "AAAAACp0OfYBNkVjiR8Js6fZA+mtW2fI",
   "tracks": [
     {
       "added_at": "2025-08-27 04:34:29",
@@ -75,6 +75,50 @@
       "duration_ms": 198000,
       "name": "Prasada Song",
       "url": "https://open.spotify.com/track/4RDCflArQLUEfITRc2WlEW"
+    },
+    {
+      "added_at": "2025-09-02 09:20:21",
+      "album": {
+        "name": "Laali (From \"Fragments\")",
+        "url": "https://open.spotify.com/album/4CdyVh6apj87Fs2eyrP9OG"
+      },
+      "artists": [
+        {
+          "name": "Nachiketa Sharma Miganakallu",
+          "url": "https://open.spotify.com/artist/10u3I5e6QGvudWNU1wRUzC"
+        },
+        {
+          "name": "Praveen Jappinamogaru",
+          "url": "https://open.spotify.com/artist/0CRhq3hkBM1khCTdG1k9wt"
+        }
+      ],
+      "duration_ms": 74466,
+      "name": "Laali (From \"Fragments\")",
+      "url": "https://open.spotify.com/track/3FX7z0PXlLEQwKvvemQaTG"
+    },
+    {
+      "added_at": "2025-09-02 09:19:11",
+      "album": {
+        "name": "Kettingo (From \"Vadakkan\" - Kannada)",
+        "url": "https://open.spotify.com/album/2PIt47IKfQtV2012b08Vqz"
+      },
+      "artists": [
+        {
+          "name": "Chaitra J Aachar",
+          "url": "https://open.spotify.com/artist/021kq4PhsfLCAngnMpodpE"
+        },
+        {
+          "name": "Karthik Vidya Hebbar",
+          "url": "https://open.spotify.com/artist/2Xlbeho7J6U9i6IVmIOmx8"
+        },
+        {
+          "name": "Bijibal",
+          "url": "https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Kettingo - From \"Vadakkan\" - Kannada",
+      "url": "https://open.spotify.com/track/22bsUyRWtpK8ixbsksXFPP"
     },
     {
       "added_at": "2025-08-29 11:01:10",
@@ -1143,54 +1187,6 @@
       "duration_ms": 264004,
       "name": "Bangle Bangari (From \"Ekka\")",
       "url": "https://open.spotify.com/track/5pev9XrM5pNdpgSa1gTkGc"
-    },
-    {
-      "added_at": "2025-08-04 14:33:13",
-      "album": {
-        "name": "Haalaada Preethi (From \"Bandook\")",
-        "url": "https://open.spotify.com/album/7rBrlRcoN6rWQ4fbbKNyva"
-      },
-      "artists": [
-        {
-          "name": "Jogila Siddaraju",
-          "url": "https://open.spotify.com/artist/4sQji195GLuaoJau57EHWG"
-        },
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
-        },
-        {
-          "name": "Mahesh Ravikumar",
-          "url": "https://open.spotify.com/artist/1Uq9gLsq21bsDj8412hYbD"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Haalaada Preethi (From \"Bandook\")",
-      "url": "https://open.spotify.com/track/0dXJARBkfAW4E4kL7RL5Ma"
-    },
-    {
-      "added_at": "2025-07-25 11:00:27",
-      "album": {
-        "name": "Junior (Kannada)",
-        "url": "https://open.spotify.com/album/1pKtSUvh6YKN1rOTLoozqU"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Pavan Bhat",
-          "url": "https://open.spotify.com/artist/5LrMAdiDw5Z1vv0J8Ik42T"
-        }
-      ],
-      "duration_ms": 246553,
-      "name": "Let's Live This Moment (Kannada)",
-      "url": "https://open.spotify.com/track/3H8mKTN55L5wwnVft5gKuy"
     }
   ],
   "unique_name": "Latest Kannada",
