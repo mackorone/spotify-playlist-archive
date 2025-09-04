@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,509 songs - 3 day 9 hr 59 min
+1,510 songs - 3 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Dálmatas](https://open.spotify.com/track/2LTg447RMDqOyWlu94wwZ4) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [TRES CREUS](https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s) | 2:11 | 2024-12-19 | 2024-12-21 |
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-07-24 | 2024-07-29 |
 | [Déjame Entrar](https://open.spotify.com/track/5tZgkV8FTe3rtl8OcSeQAb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:14 | 2024-11-16 | 2024-11-24 |
+| [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 | 2025-09-03 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2021-12-05 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-05-07 | 2022-11-06 |
@@ -436,7 +437,7 @@
 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin Urrutia](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 | 2024-10-05 | 2024-10-07 |
 | [El Efecto \- Remix](https://open.spotify.com/track/74j34STf8L6uADnTN69ohv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [El Efecto \(Remix\)](https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo) | 4:49 | 2025-02-28 | 2025-05-20 |
 | [EL ESTRIBILLO](https://open.spotify.com/track/23iK2aTjEEG30dx1uuSXc9) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:41 | 2024-11-23 | 2024-12-01 |
-| [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 | 2022-02-22 |  |
+| [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 | 2022-02-22 | 2025-09-04 |
 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 | 2023-03-18 | 2023-03-25 |
 | [El Incomprendido](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:27 | 2021-10-03 | 2022-01-15 |
 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-01-03 | 2025-05-21 |

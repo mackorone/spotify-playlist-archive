@@ -1,12 +1,12 @@
 {
   "description": "Den b\u00e4sta och st\u00f6rsta rocklistan i Sverige!  ",
-  "num_followers": 137445,
+  "num_followers": 137448,
   "original_name": "VOLUME SWEDEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAF8abV075qmhEukeF0X7kK6SUev",
+  "snapshot_id": "AAAAAPqAA03VFS0yzns23AggYGghydxX",
   "tracks": [
     {
       "added_at": "2025-09-01 06:34:05",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-09-01 06:34:05",
       "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw"
-    },
-    {
-      "added_at": "2025-09-01 06:34:05",
-      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
+    },
+    {
+      "added_at": "2025-09-01 06:34:05",
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw"
     },
     {
       "added_at": "2025-09-01 06:34:05",

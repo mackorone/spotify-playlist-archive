@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,417 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,458 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 27 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 |
 | 28 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 29 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
-| 30 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
-| 31 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
+| 30 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
+| 31 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
 | 32 | [Why?](https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q) | [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W) | [Millonaria](https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A) | 3:40 |
 | 33 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 |
 | 34 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 43 | [Miente](https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 3:07 |
 | 44 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 45 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
-| 46 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
-| 47 | [Exilio](https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:34 |
+| 46 | [Exilio](https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ) | [LeBaron](https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1) | [LeBaron](https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb) | 3:34 |
+| 47 | [Aló](https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 4:04 |
 | 48 | [Kiosko](https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Kiosko](https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY) | 4:13 |
 | 49 | [Sastre Del Diablo](https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo) | [Nortec Collective](https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK) | [Border Revolver](https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN) | 2:50 |
 | 50 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 97 | [Won't Say Anything](https://open.spotify.com/track/36VnkzPXKbrqCgbF0avbpp) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Hoy A Las Ocho](https://open.spotify.com/album/6cc1X2dYcd8yTutYZsPAv1) | 4:09 |
 | 98 | [Voltage Is O.K.](https://open.spotify.com/track/55ZfCuNYNWYW4l9dLOVfVD) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Menonita Rock](https://open.spotify.com/album/6djkx8A7bD2sf7LsF42onV) | 3:40 |
 | 99 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
-| 100 | [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 |
+| 100 | [Psicomagia](https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx) | [Timothy The Master](https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ) | [Buffalo Beat EP](https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56) | 5:15 |
 
 Snapshot ID: `AAAAAAtfZpeS+//5KiVrjwqjkkDsnJA/`

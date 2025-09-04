@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Zion Garcia
 
-4,224 songs - 9 day 16 hr 35 min
+4,224 songs - 9 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1360,6 +1360,7 @@
 | [Freeway](https://open.spotify.com/track/4fdYx2x1WP3GAuXPGQRAoM) | [Elliott Willis](https://open.spotify.com/artist/6sE7HxNkJK8gqm3HLXLq55) | [Freeway](https://open.spotify.com/album/6bldQI3wKQF2ixn4vA9oxx) | 2:27 | 2022-02-23 | 2022-03-16 |
 | [FRENEMIES](https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0) | [PUBLIC ENEMY](https://open.spotify.com/album/55SIX2DV1xWxf5Qn3lPmrN) | 3:01 | 2022-04-20 | 2022-05-05 |
 | [fresh figure](https://open.spotify.com/track/4M7eIalDccTknOndeDRfOq) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [fresh figure](https://open.spotify.com/album/1OAJBuKzbZ45dyoHAYIejU) | 2:35 | 2024-05-21 | 2024-06-26 |
+| [friend](https://open.spotify.com/track/6c8yFaWeByFrIQXqNSEKJi) | [Ella Gilbert](https://open.spotify.com/artist/4TL6olllWTntZbNvdRFsmA) | [everything's gotta go bad](https://open.spotify.com/album/4oVLBXVtoMgBx0yC1EWBkG) | 3:48 | 2025-09-02 |  |
 | [Friend of Mine](https://open.spotify.com/track/7FnqStSkKif50tTyzda9EZ) | [Ellen Soffe](https://open.spotify.com/artist/1KDYQMYVy6xnb6WvMhsYbn) | [Friend of Mine](https://open.spotify.com/album/2xR1FDVyZfAnZrYlP0bmJu) | 2:49 | 2023-04-19 | 2023-05-11 |
 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 | 2024-09-03 | 2024-10-23 |
 | [From April to June](https://open.spotify.com/track/6QUSx47MOKYSWl64XGql7i) | [Junk Harmony](https://open.spotify.com/artist/2VtVDxnNSqR4S1e93MBIqG) | [From April to June](https://open.spotify.com/album/5qVfBAzSlzpZNknqU7KKvQ) | 3:19 | 2025-02-25 | 2025-04-02 |
@@ -3813,7 +3814,6 @@
 | [TOUR PARTY FREESTYLE](https://open.spotify.com/track/5hdwwOakF2q2EnEgZ7SBAS) | [Jupiter Project](https://open.spotify.com/artist/1wH5LoIgKQmq8VhaoP8FZO) | [TOUR PARTY FREESTYLE](https://open.spotify.com/album/6zz5U6dT3IH2mDmTbwxHS5) | 2:24 | 2023-04-19 | 2023-05-11 |
 | [Toxic Traits](https://open.spotify.com/track/1x3U1l5mI0KK0nrRAmXJlC) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/3ZRC25c6zcwz3RDCWlcpf6) | 3:39 | 2022-03-09 | 2022-03-31 |
 | [Toyfriend](https://open.spotify.com/track/3QFTTRFU90EHB5B4tmMebo) | [sunbleached](https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP) | [Toyfriend](https://open.spotify.com/album/15vX7MZz8RKLcGh9Puwpcm) | 3:12 | 2022-11-23 | 2022-12-01 |
-| [Track 4](https://open.spotify.com/track/6c8yFaWeByFrIQXqNSEKJi) | [Ella Gilbert](https://open.spotify.com/artist/4TL6olllWTntZbNvdRFsmA) | [everything's gotta go bad](https://open.spotify.com/album/4oVLBXVtoMgBx0yC1EWBkG) | 0:00 | 2025-09-02 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-16 | 2022-09-09 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-08 | 2023-03-02 |
 | [Trainspotting](https://open.spotify.com/track/3DM05JaGLdsyusPp4ThbtG) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4) | [Trainspotting](https://open.spotify.com/album/3qjMBkAwYu7cg8Owarm6Ac) | 2:18 | 2022-02-16 | 2022-03-02 |

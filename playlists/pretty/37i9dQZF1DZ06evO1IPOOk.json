@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1897310,
+  "num_followers": 1897440,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADu/s/hI2Lbz67x5emMa3gd",
+  "snapshot_id": "aLYzgAAAAADNtB9MJDUNvxhWpPnE82PA",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1989 (Taylor's Version) [Deluxe]",
+        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 190053,
       "name": "BACKD00R (feat. Kendrick Lamar & Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989 (Taylor's Version) [Deluxe]",
-        "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
-      "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,896 likes - 106 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,899 likes - 106 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 2 | [What Am I Fighting For（電影《96分鐘》宣傳曲）](https://open.spotify.com/track/3sOI1WueGlYX2IrLUccbzi) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [Fran](https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO) | [What Am I Fighting For](https://open.spotify.com/album/3fAHUVLe6Sp3x812Y6omjX) | 3:30 |
 | 3 | [別說再見](https://open.spotify.com/track/1sm6Ex4fKOUsP1xVVaunN9) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [別說再見](https://open.spotify.com/album/1tKinDyHUHG2cwLB2tQWEA) | 3:52 |
-| 4 | [相生](https://open.spotify.com/track/7H5ljMly5tH2yFR8pTLBUr) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [Karen Mok 莫文蔚 & The Masters](https://open.spotify.com/album/0OX6ekKi7wNQ2tffdzGdIl) | 4:33 |
+| 4 | [相生](https://open.spotify.com/track/7H5ljMly5tH2yFR8pTLBUr) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [Karen Mok & The Masters](https://open.spotify.com/album/0OX6ekKi7wNQ2tffdzGdIl) | 4:33 |
 | 5 | [相對靜止](https://open.spotify.com/track/4k0PAr9OXz2HeovpvizZwc) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [距。離](https://open.spotify.com/album/055dlF1w94FTtS9Svcddgj) | 4:28 |
 | 6 | [be the 1](https://open.spotify.com/track/4u5YsHMdaAhtF1rf3Hm7D2) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [be the 1](https://open.spotify.com/album/3WpzpmVQbtFu8tol6pL3M8) | 3:39 |
 | 7 | [换我爱你（《明月入卿怀》影视剧插曲）](https://open.spotify.com/track/4CJOZT77FuMUbpzLfjcUNU) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [《明月入卿怀》影视原声带](https://open.spotify.com/album/6qN5JPUbgPQiFKFfUdgtzu) | 4:00 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 19 | [靠近一点！](https://open.spotify.com/track/4hHWrmEHvE1eRpwCvcumdC) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [靠近一点！](https://open.spotify.com/album/0EAYFu1kD503xowhb2BIi4) | 2:45 |
 | 20 | [He's Just A Friend](https://open.spotify.com/track/2te3HPruiRqJ0QLfjvdAMB) | [JEANTONIC](https://open.spotify.com/artist/7qCy3fmej0SUb1DJ5wOsXp) | [He's Just A Friend](https://open.spotify.com/album/1IezxbeFR80wBBjBFvDcWY) | 3:29 |
 | 21 | [新肝寶貝](https://open.spotify.com/track/4p22c1aLdDPlZz9PrZnUzv) | [HARI 哈利](https://open.spotify.com/artist/4FN4DZz3IU4JWyilg2C3mT), [9reenSoul](https://open.spotify.com/artist/4SyKnjLLoQNqrAvuRzbPfq), [Psycho2417](https://open.spotify.com/artist/23snfedxbp3JDBZKsleHhR) | [新肝寶貝](https://open.spotify.com/album/3CWXEXu2DHz5fs3SLwv6EK) | 3:49 |
-| 22 | [Look at You!](https://open.spotify.com/track/1kaeHMXecV13Be0GFzubUi) | [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [Look at You!](https://open.spotify.com/album/4VeP5YkeDJ5AzLkUZmioAQ) | 3:36 |
+| 22 | [Look at You!](https://open.spotify.com/track/1kaeHMXecV13Be0GFzubUi) | [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [Look at You!](https://open.spotify.com/album/4VeP5YkeDJ5AzLkUZmioAQ) | 3:34 |
 | 23 | [愛情訊號](https://open.spotify.com/track/6IHWyp73QtPQ2zKbzlniMG) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [愛情訊號](https://open.spotify.com/album/6FPuEWkynIIDuQKzwSQC3X) | 3:28 |
 | 24 | [你還在（Back to December）](https://open.spotify.com/track/64rxkm225enYGb8hAPXsbi) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [你還在（Back to December）](https://open.spotify.com/album/6Ha5JYiUzSrrdaZeEADw9W) | 3:30 |
 | 25 | [視而不見](https://open.spotify.com/track/6MPQ58wPGXqsrIjGcFxwCv) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [視而不見](https://open.spotify.com/album/1GMyHzlbHOOQAWlReY6gOf) | 3:47 |

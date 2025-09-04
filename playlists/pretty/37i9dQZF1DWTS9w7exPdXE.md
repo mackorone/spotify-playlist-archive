@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,136 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,188 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 33 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
 | 34 | [Geef Mij Je Angst](https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Live In Het Philips Stadion](https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt) | 3:44 |
 | 35 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 |
-| 36 | [Ik Ga Zwemmen](https://open.spotify.com/track/1f9X68h6QGh01bD0r4g9DF) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/65DiFaOKycQjpuAFpKTOfG) | 2:59 |
-| 37 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 |
+| 36 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 |
+| 37 | [Ik Ga Zwemmen](https://open.spotify.com/track/1f9X68h6QGh01bD0r4g9DF) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Ga Zwemmen](https://open.spotify.com/album/65DiFaOKycQjpuAFpKTOfG) | 2:59 |
 | 38 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 |
 | 39 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 |
 | 40 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 85 | [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 |
 | 86 | [Haal Alles Uit Het Leven](https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Haal Alles Uit Het Leven](https://open.spotify.com/album/74shNk1WuIu1sTqfNcUx7a) | 2:58 |
 | 87 | [Koning Van De Nacht](https://open.spotify.com/track/45GtO4MNJ7ZhTMnGqswDq2) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Koning Van De Nacht](https://open.spotify.com/album/5LYS3smWVyxcWYPus1mbuk) | 2:44 |
-| 88 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
-| 89 | [Mijn Loterij](https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Mijn Loterij](https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb) | 3:09 |
+| 88 | [Mijn Loterij](https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Mijn Loterij](https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb) | 3:09 |
+| 89 | [Smoorverliefd](https://open.spotify.com/track/6bXaoRO085rjafV7Qfkgcm) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 3:15 |
 | 90 | [Helena 2.0](https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Helena 2.0](https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf) | 3:20 |
 | 91 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 |
 | 92 | [Echte Mannen](https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Echte Mannen](https://open.spotify.com/album/7j19gpFj0fFgofGpzKBxIA) | 2:31 |

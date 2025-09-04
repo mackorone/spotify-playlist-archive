@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-602 songs - 1 day 2 hr 53 min
+603 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Growing Season](https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Growing Season](https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1) | 2:51 | 2025-03-03 |  |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Hand](https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Hand / Kanji](https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj) | 2:13 | 2025-07-11 |  |
-| [Hasta Siempre](https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Hasta Siempre](https://open.spotify.com/album/4wvIW65Wlt4odSfZJZeIfZ) | 2:50 | 2025-05-16 |  |
+| [Hasta Siempre](https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Hasta Siempre](https://open.spotify.com/album/4wvIW65Wlt4odSfZJZeIfZ) | 2:50 | 2025-05-16 | 2025-09-04 |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
 | [Headlights](https://open.spotify.com/track/0E4XPubqUlPIihiYi4pgRb) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Cozy](https://open.spotify.com/album/3RsSbsa04lZcRND0tWG1IC) | 2:06 | 2025-07-25 |  |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 | 2024-10-03 |
@@ -399,6 +399,7 @@
 | [Pink Rose](https://open.spotify.com/track/39uCLDvjy0KgJ3FHYmwkxt) | [Liphe](https://open.spotify.com/artist/371UxxrkcjjvlQUJxDKjfq) | [Pink Rose](https://open.spotify.com/album/3xdJ0Gki3cyN10NN6uflp0) | 2:35 | 2025-06-13 |  |
 | [Pipe Dream](https://open.spotify.com/track/2j55REbJcq6dgZ5FxWDaxE) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [David Lavoie](https://open.spotify.com/artist/6GEHfwj42nnWXXmfKZMPsa), [Javier Martinez Vallejos](https://open.spotify.com/artist/7A0Hqf5PHDLbxCDmYaz1xI) | [Trans Pacific](https://open.spotify.com/album/3gqv8ICfij6deG7ZpBWQXU) | 3:06 | 2023-08-22 | 2025-03-26 |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2023-08-22 | 2025-04-12 |
+| [Playground](https://open.spotify.com/track/7H0SDCXhNavoDM9EIcrozN) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Steve Chops](https://open.spotify.com/artist/0anIwg0PUTpK8s89GX2rH5) | [Playground](https://open.spotify.com/album/7q234e9D1WgRln97XPBE3N) | 2:00 | 2025-08-29 |  |
 | [Please](https://open.spotify.com/track/1hM5EdvlMXmBI6VbWZSC4T) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Please](https://open.spotify.com/album/60quyzuZ0KjFbbYj7e6h33) | 2:42 | 2024-11-08 |  |
 | [Pogo Fantasy](https://open.spotify.com/track/7x1BENpHPhOJBzOh9PAeHo) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Ghetto Blastah](https://open.spotify.com/album/45P29pXRImfdck98ar0hgR) | 2:27 | 2024-11-08 |  |
 | [polaroid](https://open.spotify.com/track/03di7csbRG2jUJEraAST3J) | [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx), [IN.ri](https://open.spotify.com/artist/6yaTO19o1wvnu91uZoYUCZ) | [polaroid](https://open.spotify.com/album/7L4ACKP98B3SxcaWNRo3e9) | 1:52 | 2025-02-14 |  |

@@ -4,13 +4,14 @@
 
 > The best in current indie rock\. Cover: Gretel
 
-784 songs - 1 day 20 hr 30 min
+785 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:20 | 2023-02-10 | 2023-04-04 |
 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-03-17 | 2024-04-19 |
 | [$20](https://open.spotify.com/track/6KHYVC9avWQMH40pidRtcG) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:20 | 2023-01-19 | 2023-03-04 |
+| [\(I Wanna\) Be Your Girl](https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [\(I Wanna\) Be Your Girl](https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx) | 3:36 | 2025-09-01 |  |
 | [\(You're Better\) Than Ever](https://open.spotify.com/track/4oZbuLXzaXBHKLrMJQq3Ie) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Kiss Yr Frenemies](https://open.spotify.com/album/7MBEDhV5OFYhCq6fkmQNUT) | 2:21 | 2021-03-09 | 2022-01-17 |
 | [1/500](https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [YOU’LL HAVE TO LOSE SOMETHING](https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM) | 2:42 | 2024-08-23 | 2025-07-29 |
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-01 |  |
@@ -222,7 +223,7 @@
 | [Entertainer](https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Safe](https://open.spotify.com/album/3642b765vQWRQXzDyoPItp) | 3:23 | 2025-05-01 |  |
 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 | 2022-11-18 | 2023-02-10 |
 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 | 2023-07-16 |
-| [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-05-01 |  |
+| [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-05-01 | 2025-09-04 |
 | [Everything](https://open.spotify.com/track/6SXnYD0f96UJAtLTRWwSbK) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Everything at Once](https://open.spotify.com/album/38WlVvrvwOSJURYOKvAILE) | 4:25 | 2021-03-09 | 2022-01-17 |
 | [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:10 | 2025-03-27 |  |
 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 | 2021-10-29 | 2022-08-19 |

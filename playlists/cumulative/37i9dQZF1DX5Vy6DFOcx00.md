@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,710 songs - 3 day 19 hr 54 min
+1,711 songs - 3 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,7 +475,7 @@
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2022-01-25 | 2022-07-29 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-04-20 | 2022-12-01 |
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-08-14 | 2024-01-13 |
-| [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 | 2025-08-15 |  |
+| [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 | 2025-08-15 | 2025-09-04 |
 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 | 2025-06-09 | 2025-07-30 |
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-06-30 | 2022-07-27 |
 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 | 2024-10-08 | 2024-11-14 |
@@ -715,6 +715,7 @@
 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 | 2022-11-30 | 2022-12-19 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-08-23 | 2022-10-26 |
 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 | 2022-10-10 | 2022-10-26 |
+| [I'm Still Fine](https://open.spotify.com/track/1s0B0dkZHfynScpLO0UzJX) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:52 | 2025-09-02 |  |
 | [I'm Tired \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:37 | 2022-02-03 | 2022-02-08 |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2022-10-28 | 2023-05-03 |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-12 | 2024-08-20 |

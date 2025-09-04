@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 42943,
+  "num_followers": 42973,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
+        "name": "Punjabi Lok Rang",
+        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Latthe Di Chadar - Mahiya",
+      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
         "name": "Laung Gawacha",
         "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 180000,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
-        "name": "Punjabi Lok Rang",
-        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
-      },
-      "artists": [
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Latthe Di Chadar - Mahiya",
-      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -919,18 +919,26 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Tere Jeya Hor Disda",
-        "url": "https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc"
+        "name": "Suhe Ve Cheere Waliya Chill Flip",
+        "url": "https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY"
       },
       "artists": [
         {
-          "name": "Siddharth Slathia",
-          "url": "https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7"
+          "name": "Mann Taneja",
+          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
+        },
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        },
+        {
+          "name": "Prakash Kaur",
+          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
         }
       ],
-      "duration_ms": 275368,
-      "name": "Tere Jeya Hor Disda",
-      "url": "https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj"
+      "duration_ms": 147500,
+      "name": "Suhe Ve Cheere Waliya Chill Flip",
+      "url": "https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU"
     }
   ],
   "unique_name": "Folk Punjabi",

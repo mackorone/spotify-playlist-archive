@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYtGe2CfPeBI>Sia</a>, <a href=spotify:playlist:37i9dQZF1EIXeWo5hh0vQ3>Mariah Carey</a>, <a href=spotify:playlist:37i9dQZF1EIXYu6KmbQ0u3>Bishop Briggs</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIVUfx6SAqyJz>Agnes Monica</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 188286,
       "name": "Anything",
       "url": "https://open.spotify.com/track/6SBft75urQ5L2oyqlGbEVe"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Tiembla la tierra",
+        "url": "https://open.spotify.com/album/2uDAGE4oRnDO76MDnTs32M"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Cuando me siento bien",
+      "url": "https://open.spotify.com/track/2xUl8Bp6eLddk5mdv8I2Wo"
+    },
+    {
+      "album": {
         "name": "Dance Again...The Hits",
         "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
@@ -1342,6 +1360,24 @@
       "duration_ms": 222933,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG"
+    },
+    {
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249426,
+      "name": "Fuimos Amor",
+      "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
     },
     {
       "album": {
@@ -1740,7 +1776,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 203360,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su"
@@ -3498,7 +3534,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 242253,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB"
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -3642,7 +3678,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -4006,6 +4042,24 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "album": {

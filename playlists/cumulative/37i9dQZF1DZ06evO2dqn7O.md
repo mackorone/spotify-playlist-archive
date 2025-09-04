@@ -4,7 +4,7 @@
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 8 min
+103 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Fear](https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 2:41 | 2022-10-26 | 2025-03-12 |
 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 | 2024-03-30 | 2024-05-11 |
 | [Follow the Sound of My Voice](https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 5:50 | 2024-05-11 | 2025-03-31 |
-| [Follow the Sound of My Voice \(OurVinyl Sessions\)](https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 5:38 | 2025-04-20 |  |
+| [Follow the Sound of My Voice \(OurVinyl Sessions\)](https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [X Ambassadors \| OurVinyl Sessions](https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O) | 5:38 | 2025-04-20 | 2025-09-04 |
 | [forever, now](https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [forever, now](https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw) | 4:48 | 2023-02-03 | 2024-01-21 |
 | [forever, now](https://open.spotify.com/track/3Nm9x3Y218pXYz0a0hKGn2) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 4:48 | 2024-01-28 | 2024-02-18 |
 | [Fragile](https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townies](https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg) | 3:03 | 2024-10-20 | 2025-03-13 |
@@ -52,6 +52,7 @@
 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 | 2024-04-24 |  |
 | [Half\-Life](https://open.spotify.com/track/4e8nrSuEiqVYEFzs6eY8Ow) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/45M2A6qlpeR1vhm7JxAnF5) | 3:13 | 2024-04-13 | 2024-04-24 |
 | [Half\-Life](https://open.spotify.com/track/6zeS5EGBJcD1G6PyGy2UkZ) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Half\-Life](https://open.spotify.com/album/12SzcBgC5YfI0hPxOAiQ8r) | 3:13 | 2024-03-16 | 2024-04-13 |
+| [Hang On](https://open.spotify.com/track/3UMdiQfcG4nNJSMDyUDYpx) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS\(X\) \(Rerecorded\)](https://open.spotify.com/album/3c2Te0BpRT0lqhPQ3fDWov) | 3:32 | 2025-09-04 |  |
 | [Happy Home](https://open.spotify.com/track/1jvn8lZb2sfFQccN76MnV3) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Belong EP](https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP) | 3:23 | 2022-10-26 | 2023-02-25 |
 | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Happy People \(with Teddy Swims & Jac Ross\)](https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw) | 4:55 | 2023-05-26 |  |
 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 | 2025-05-25 |  |

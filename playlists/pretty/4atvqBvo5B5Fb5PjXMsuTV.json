@@ -1,13 +1,93 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Sep 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUa5C52IEZvFbiXcsmj6A/HOeLaseW",
+  "snapshot_id": "AAAUddD+uOb+B6ltDmjQVDPAyT+mXWS7",
   "tracks": [
+    {
+      "added_at": "2025-09-03 18:05:36",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2025-09-03 22:04:47",
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2025-09-04 03:04:05",
+      "album": {
+        "name": "Nerve",
+        "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 352500,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "added_at": "2025-09-03 18:05:36",
+      "album": {
+        "name": "Lose It Again",
+        "url": "https://open.spotify.com/album/4xFVcQc8UCUCVzJvBMTPLf"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "Lose It Again",
+      "url": "https://open.spotify.com/track/7uQlIPk7eQuEgURhpOP7u3"
+    },
+    {
+      "added_at": "2025-09-03 08:06:05",
+      "album": {
+        "name": "Hattrick",
+        "url": "https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn"
+      },
+      "artists": [
+        {
+          "name": "The Orchestra (For Now)",
+          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
+        }
+      ],
+      "duration_ms": 340066,
+      "name": "Hattrick",
+      "url": "https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw"
+    },
     {
       "added_at": "2025-09-02 13:05:19",
       "album": {
@@ -39,6 +119,22 @@
       "duration_ms": 155533,
       "name": "ANNIE.",
       "url": "https://open.spotify.com/track/73vcLsWOQkvhXvhqYFVgvE"
+    },
+    {
+      "added_at": "2025-09-03 22:04:47",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/52JJXThZbhXC4Ufy1tNhun"
+      },
+      "artists": [
+        {
+          "name": "BAGARDI",
+          "url": "https://open.spotify.com/artist/4ViGhJKDjIjwanItcs3j44"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2Mu6a5EFqsV3ZwaVS8uG10"
     },
     {
       "added_at": "2025-09-02 18:06:00",
@@ -453,6 +549,22 @@
       "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
     },
     {
+      "added_at": "2025-09-03 13:04:34",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess"
+    },
+    {
       "added_at": "2025-09-01 08:06:26",
       "album": {
         "name": "Like a Girl",
@@ -727,122 +839,6 @@
       "duration_ms": 247493,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
-    },
-    {
-      "added_at": "2025-08-22 13:05:12",
-      "album": {
-        "name": "Sunscreen",
-        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
-      },
-      "artists": [
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "Sunscreen",
-      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
-    },
-    {
-      "added_at": "2025-08-23 22:05:20",
-      "album": {
-        "name": "Xcavator.03",
-        "url": "https://open.spotify.com/album/1KmUOJqhRLy94L5rBXtudv"
-      },
-      "artists": [
-        {
-          "name": "Iglooghost",
-          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
-        }
-      ],
-      "duration_ms": 179174,
-      "name": "Xcavator.03",
-      "url": "https://open.spotify.com/track/6029lLCaP8bhhadEKtk1tK"
-    },
-    {
-      "added_at": "2025-08-22 22:05:02",
-      "album": {
-        "name": "Hey Curtis",
-        "url": "https://open.spotify.com/album/0T2ayU1U6GN9CyIR3ynckY"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 251142,
-      "name": "Hey Curtis",
-      "url": "https://open.spotify.com/track/34ycZDbSn54bj7woHHsbct"
-    },
-    {
-      "added_at": "2025-08-25 08:07:30",
-      "album": {
-        "name": "undone by fate",
-        "url": "https://open.spotify.com/album/2MEa1VAnklDAvxvu2CjUTC"
-      },
-      "artists": [
-        {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
-        }
-      ],
-      "duration_ms": 312456,
-      "name": "undone by fate",
-      "url": "https://open.spotify.com/track/3DTWvFHmvgeJ2k6jisAxbX"
-    },
-    {
-      "added_at": "2025-08-24 13:05:43",
-      "album": {
-        "name": "Document 79",
-        "url": "https://open.spotify.com/album/6LOLjaaXL720X9YqkUfjH3"
-      },
-      "artists": [
-        {
-          "name": "Scru Face Jean",
-          "url": "https://open.spotify.com/artist/0zspuZLm1rglTb82ZVaU7p"
-        }
-      ],
-      "duration_ms": 300373,
-      "name": "Document 79",
-      "url": "https://open.spotify.com/track/4V1IQCfnH3GtkRokM3jDAZ"
-    },
-    {
-      "added_at": "2025-08-22 03:04:44",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
-      "added_at": "2025-08-22 18:06:05",
-      "album": {
-        "name": "Free As A Bird (2025 Mix)",
-        "url": "https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Free As A Bird (2025 Mix)",
-      "url": "https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m"
     }
   ],
   "unique_name": "New Singles Now",

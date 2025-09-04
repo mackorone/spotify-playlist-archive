@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > WHO'S MY SALLY TONIGHT?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,923 likes - 92 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,754 likes - 92 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

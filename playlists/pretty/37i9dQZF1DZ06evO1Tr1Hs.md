@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,357 likes - 46 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,376 likes - 46 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 12 | [i need u](https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:28 |
 | 13 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
 | 14 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 |
-| 15 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 |
+| 15 | [loading](https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:06 |
 | 16 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 |
 | 17 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
-| 18 | [loading](https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:06 |
+| 18 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 |
 | 19 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 |
 | 20 | [Green Room](https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:08 |
 | 21 | [Lord Of Chaos](https://open.spotify.com/track/2Tif3Rjua8qfTCUFP6lFrV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:01 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 45 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 |
 | 46 | [Fashion Habits](https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:21 |
 
-Snapshot ID: `aLTiAAAAAAD8CwrqffDJ1NVXOvRcMEsq`
+Snapshot ID: `aLYzgAAAAACIVZuRnMKq734cviv7UM3q`

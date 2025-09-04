@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ジェニーハイ
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,249 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,251 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 28 | [君に聞きたいひとつのこと](https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君に聞きたいひとつのこと](https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J) | 5:26 |
 | 29 | [eye](https://open.spotify.com/track/5j42jJbmKzkBdyw46SeSMO) | [深夜枠](https://open.spotify.com/artist/6RdcU4lC987g4qquPd3KyT) | [eye](https://open.spotify.com/album/6SLyN1ITOOx6Y2cfLNTOa7) | 3:53 |
 | 30 | [プレゼント交換](https://open.spotify.com/track/3PjBMxtYRxIhedUgkVONuw) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:58 |
-| 31 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
+| 31 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
 | 32 | [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 |
 | 33 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
-| 34 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
+| 34 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 35 | [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 |
 | 36 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 37 | [残像](https://open.spotify.com/track/2idJf2gVMxTy4DSvxc8UdB) | [終日柄](https://open.spotify.com/artist/6GB4djlOOFXCLvTgVeBIG9) | [残像](https://open.spotify.com/album/67L2CJGdo4xzHt5i2txeZa) | 4:54 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 66 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
 | 67 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
 | 68 | [フラジャイル・ナイト](https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [フラジャイル・ナイト](https://open.spotify.com/album/1SzXBjLNyxHy73c04lYrVC) | 3:08 |
-| 69 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
-| 70 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
+| 69 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
+| 70 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 |
 | 71 | [馬鹿の一つ覚え](https://open.spotify.com/track/6qXaLEEgVGhA3cQGfwAZa9) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [馬鹿の一つ覚え](https://open.spotify.com/album/642fgL8oxHNZtNOsB2ZRBK) | 4:03 |
 | 72 | [奥二重で見る](https://open.spotify.com/track/5OT7zL5hxwq9K0nGEYKS05) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [Catch](https://open.spotify.com/album/5BDVlDH6vXjXNTAvMropw6) | 3:31 |
 | 73 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 |

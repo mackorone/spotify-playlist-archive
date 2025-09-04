@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Dijon",
-  "num_followers": 180375,
+  "num_followers": 180372,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "wASH U AWAY",
+      "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
         "name": "Wifey Riddim",
         "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 148054,
       "name": "Wifey Riddim",
       "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "wASH U AWAY",
-      "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -907,30 +907,6 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "PERFECT FANTASY",
-        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "U GOTTA (feat. Pharrell)",
-      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
@@ -975,18 +951,26 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX"
+        "name": "PERFECT FANTASY",
+        "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
       "artists": [
         {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 217732,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ"
+      "duration_ms": 180014,
+      "name": "U GOTTA (feat. Pharrell)",
+      "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -1003,6 +987,38 @@
       "duration_ms": 126956,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/60wRcrZ9ik7RQK9qk2DhKR"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/7eYtfshBnYVsoDe6KcbQwX"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 217732,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/6vLRu22jXN9E6xFWEoYCcJ"
+    },
+    {
+      "added_at": "2025-09-02 09:16:14",
+      "album": {
+        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
+        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "duration_ms": 169228,
+      "name": "vinland",
+      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-09-02 09:16:14",
       "album": {
-        "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
-        "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
+        "name": "Take Me Down",
+        "url": "https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib"
       },
       "artists": [
         {
-          "name": "Bricknasty",
-          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+          "name": "Troy Javelona",
+          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
         }
       ],
-      "duration_ms": 169228,
-      "name": "vinland",
-      "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+      "duration_ms": 126568,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
     },
     {
       "added_at": "2025-09-02 09:16:14",
@@ -1055,22 +1071,6 @@
       "duration_ms": 102631,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS"
-    },
-    {
-      "added_at": "2025-09-02 09:16:14",
-      "album": {
-        "name": "Take Me Down",
-        "url": "https://open.spotify.com/album/4FgapaNLNfZNgmLi56UYib"
-      },
-      "artists": [
-        {
-          "name": "Troy Javelona",
-          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
-        }
-      ],
-      "duration_ms": 126568,
-      "name": "Take Me Down",
-      "url": "https://open.spotify.com/track/4kNM7KttOXiMykZbYJasQo"
     },
     {
       "added_at": "2025-09-02 09:16:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,996 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,966 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 32 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 |
 | 33 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 34 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 35 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 |
-| 36 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 35 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 36 | [oh my love](https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:45 |
 | 37 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 38 | [Biking \(Solo\)](https://open.spotify.com/track/6gtNiLJNLBcV0P6Juenstp) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Biking \(Solo\)](https://open.spotify.com/album/46H4UzFHMLnGgpyrj9HpKr) | 3:32 |
 | 39 | [intro](https://open.spotify.com/track/6HSTJbYzJCK5jKz7hrsvQh) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:00 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 57 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 58 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 | 59 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
-| 60 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
-| 61 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
+| 60 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
+| 61 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
 | 62 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
 | 63 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 |
 | 64 | [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 83 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
 | 84 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 | 85 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
-| 86 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
-| 87 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 86 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 87 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
 | 88 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
 | 89 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 90 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |

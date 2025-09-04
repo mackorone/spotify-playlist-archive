@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6076,
+  "num_followers": 6081,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAOj1fyMZ6HMn+2BmAkpsKJ",
+  "snapshot_id": "aLYzgAAAAABUBUbhijLXiOS1y8Ad5Qty",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,
@@ -319,34 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
-      },
-      "artists": [
-        {
-          "name": "Kellylivinglarge",
-          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Brainyboi",
-          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
-        }
-      ],
-      "duration_ms": 176183,
-      "name": "Living Life",
-      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -411,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Let There Be Light",
-      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grind (Remix)",
         "url": "https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51"
       },
@@ -451,6 +403,26 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Let There Be Light",
+      "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
     },
     {
       "added_at": null,
@@ -479,6 +451,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Help Is On The Way",
+        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
+      },
+      "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
+        }
+      ],
+      "duration_ms": 176183,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Life {Freestyle}",
+        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 92589,
+      "name": "Good Life {Freestyle}",
+      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Life {Freestyle}",
-        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 92589,
-      "name": "Good Life {Freestyle}",
-      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
     },
     {
       "added_at": null,
@@ -1003,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOMBING",
-        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
-      },
-      "artists": [
-        {
-          "name": "DJ 808",
-          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
-        },
-        {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "BOMBING",
-      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marleba The EP",
         "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 144993,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOMBING",
+        "url": "https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g"
+      },
+      "artists": [
+        {
+          "name": "DJ 808",
+          "url": "https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "BOMBING",
+      "url": "https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC"
     },
     {
       "added_at": null,

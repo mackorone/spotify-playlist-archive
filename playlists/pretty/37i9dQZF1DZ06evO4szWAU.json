@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 84003,
+  "num_followers": 84026,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAlhpwrqUe0wMAc6qqRB2FB",
+  "snapshot_id": "aLYzgAAAAACpDmn12PlasAqNS1GTSS9k",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida Mas Simple",
+        "url": "https://open.spotify.com/album/4XjOzImqR39IvSHrapxoRv"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4jSg7gqa54hxILz9urk7R4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -643,26 +659,6 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Fight",
-        "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 513320,
-      "name": "Yo Puedo Vivir Del Amor",
-      "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Mas Simple",
-        "url": "https://open.spotify.com/album/4XjOzImqR39IvSHrapxoRv"
+        "name": "The Last Fight",
+        "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
       "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Estar Lejos",
-      "url": "https://open.spotify.com/track/4jSg7gqa54hxILz9urk7R4"
+      "duration_ms": 513320,
+      "name": "Yo Puedo Vivir Del Amor",
+      "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OG: Original Gangster",
-        "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 336120,
-      "name": "Barrunto",
-      "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OG: Original Gangster",
+        "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Sabrina Carpenter, Masdo, Insomniacks, IVE, yung kai, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,876 likes - 129 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,879 likes - 129 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 36 | [1 TYPE](https://open.spotify.com/track/6Lm1G96Ek6nkmxbsIZAKgY) | [WoShiJay](https://open.spotify.com/artist/6vP3KIUMGPKFDDsVLy38n0), [Txhanxn](https://open.spotify.com/artist/6AjCRHtgEuH5cNnhBuedSD), [Arvind Raj](https://open.spotify.com/artist/26CNPypOLdqMPbT7qyVskl), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [1 TYPE](https://open.spotify.com/album/2CqnMPyThfVEifUSswkYlZ) | 3:00 |
 | 37 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 |
 | 38 | [相對靜止](https://open.spotify.com/track/4k0PAr9OXz2HeovpvizZwc) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ), [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [距。離](https://open.spotify.com/album/055dlF1w94FTtS9Svcddgj) | 4:28 |
-| 39 | [相生](https://open.spotify.com/track/7H5ljMly5tH2yFR8pTLBUr) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [Karen Mok 莫文蔚 & The Masters](https://open.spotify.com/album/0OX6ekKi7wNQ2tffdzGdIl) | 4:33 |
+| 39 | [相生](https://open.spotify.com/track/7H5ljMly5tH2yFR8pTLBUr) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [Karen Mok & The Masters](https://open.spotify.com/album/0OX6ekKi7wNQ2tffdzGdIl) | 4:33 |
 | 40 | [7C \(feat\. 葉秉桓\) \- Friends Ver](https://open.spotify.com/track/7737S3WKejsyMciHoP9zDK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [葉秉桓](https://open.spotify.com/artist/7x8FMmtil03ZC6oIEPz8xs) | [7C \(feat\. 葉秉桓\) \[Friends Ver\]](https://open.spotify.com/album/0LYbcRTnf6jX9PbfiCrfgR) | 3:36 |
 | 41 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 |
 | 42 | [靠近一点！](https://open.spotify.com/track/4hHWrmEHvE1eRpwCvcumdC) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [靠近一点！](https://open.spotify.com/album/0EAYFu1kD503xowhb2BIi4) | 2:45 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 62 | [Pemilik Jiwa](https://open.spotify.com/track/5ltP4C8ixGPtbZU2r1WS8V) | [Aniq Muhai](https://open.spotify.com/artist/0EZ3dYNn7GYJVd7yaF1Far) | [Pemilik Jiwa](https://open.spotify.com/album/62QeppscqydijrGYWsslNU) | 4:05 |
 | 63 | [Cinta Pakai Hati](https://open.spotify.com/track/0Oxk3u3FpjmArahLl8j4Fw) | [KitShafiq](https://open.spotify.com/artist/0l4GmDW7PPF4jiOXD16dFB) | [Cinta Pakai Hati](https://open.spotify.com/album/6xBLNlE0On1aLWcxmRbhW8) | 4:15 |
 | 64 | [Problematik](https://open.spotify.com/track/12XgWb1Td7tfZxgk8WqefQ) | [Madykit](https://open.spotify.com/artist/0zuKRROcpAteEUIuIa71B1) | [Problematik](https://open.spotify.com/album/7xOxGNHr7y3DwwySOkpAuz) | 2:55 |
-| 65 | [Bagaimana](https://open.spotify.com/track/13ceVF0fCdiY4LIyRaw6Oc) | [Feka](https://open.spotify.com/artist/7fH05hfASEzTqT83sSbyNb) | [Bagaimana](https://open.spotify.com/album/4XuSXGvga3I355cEHIWksq) | 3:28 |
+| 65 | [Bagaimana](https://open.spotify.com/track/13ceVF0fCdiY4LIyRaw6Oc) | [Feka](https://open.spotify.com/artist/2xtFalS0eQjxeyJjcIgwxJ) | [Bagaimana](https://open.spotify.com/album/4XuSXGvga3I355cEHIWksq) | 3:28 |
 | 66 | [He's Just A Friend](https://open.spotify.com/track/2te3HPruiRqJ0QLfjvdAMB) | [JEANTONIC](https://open.spotify.com/artist/7qCy3fmej0SUb1DJ5wOsXp) | [He's Just A Friend](https://open.spotify.com/album/1IezxbeFR80wBBjBFvDcWY) | 3:29 |
 | 67 | [AXN DRAMA](https://open.spotify.com/track/0cL2LB1MJXQxsppQrFGsaz) | [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq) | [ORKIDS](https://open.spotify.com/album/4kw2SGhfhPrap6SjeDj7J3) | 3:46 |
 | 68 | [RACKS & COLOURS](https://open.spotify.com/track/6OR1CcNwGXNElwkHgwGyYX) | [DKyoumadethis](https://open.spotify.com/artist/76A3LioaRCJyquWbYLoWfv), [JEKNORTH](https://open.spotify.com/artist/4OuDY8q1FXqNtB2WlUb8vx) | [RACKS & COLOURS](https://open.spotify.com/album/5pTo6Be4lMNKzpXBkqSSwx) | 3:56 |

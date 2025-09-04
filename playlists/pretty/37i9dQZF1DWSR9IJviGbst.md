@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,331 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,403 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 21 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
 | 22 | [Watching a Stream](https://open.spotify.com/track/5i1szf4HOvoa8O0nNAdrzS) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
 | 23 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
-| 24 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
-| 25 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
-| 26 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
-| 27 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
+| 24 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
+| 25 | [Flood Of Dreams](https://open.spotify.com/track/2abDqcxNlX6FtkpZ2VJ00Z) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Porthgain Wave](https://open.spotify.com/album/640iYvnQKp9oL17PkcHI6t) | 2:07 |
+| 26 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
+| 27 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 28 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Sollay](https://open.spotify.com/artist/1qXg0buEWygWqO6DM1m4mq) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |
 | 29 | [Gentle Brook](https://open.spotify.com/track/0LmZCiJJm2g4ZPiN3B7hgB) | [Natural Symphony](https://open.spotify.com/artist/2FKH7GMHSHNoUNnQNWwSeF) | [Calming Nature Sounds](https://open.spotify.com/album/68zHKb2TfQN0NnUXotpZNM) | 3:16 |
 | 30 | [Brown Noise Inner Peace](https://open.spotify.com/track/0glhSisKxAKCjF4z4Hv3Yd) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Brown Noise Inner Peace](https://open.spotify.com/album/2nXBaaO1BQ2ucogV2REqCS) | 3:26 |
-| 31 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
-| 32 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
+| 31 | [Water Under a One\-Lane Bridge](https://open.spotify.com/track/358516P2aKvwSwQ82SZMGy) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
+| 32 | [Dalälven](https://open.spotify.com/track/6JA24CJig6oYX2A0Hkl9OT) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 33 | [The River In Me](https://open.spotify.com/track/0pN6GLYsTjaMlXCkpsWq8h) | [Rivulet](https://open.spotify.com/artist/3GZncWDyd61QW6I6bYw4u8) | [Sleep On The Ocean](https://open.spotify.com/album/3tUgq5TQwhQHdvYIlRHEr8) | 3:14 |
 | 34 | [Stream Three](https://open.spotify.com/track/48qRXWcmClJrIyaQ0TSXNU) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Part II](https://open.spotify.com/album/75UIRk0PxOfWNFJRupK4TD) | 3:09 |
 | 35 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |

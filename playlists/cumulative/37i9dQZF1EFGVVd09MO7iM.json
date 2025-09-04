@@ -8928,7 +8928,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 233426,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/103aMgvw7rTqqoJSQ10uul"
@@ -15088,6 +15088,24 @@
     {
       "album": {
         "name": "Scream",
+        "url": "https://open.spotify.com/album/4YZNEE7JvTrw3uQVU02HRS"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/6EgmgdYdATIH86v4GSZBJE"
+    },
+    {
+      "album": {
+        "name": "Scream",
         "url": "https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT"
       },
       "artists": [
@@ -15098,7 +15116,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 197786,
       "name": "Scream",
       "url": "https://open.spotify.com/track/2REhZHblqiamM67F3Bzu4t"
@@ -16254,6 +16272,32 @@
       "duration_ms": 289800,
       "name": "Stare (feat. Pharrell Williams & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/41HF1rru9LtZCXTOBGFlk4"
+    },
+    {
+      "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        },
+        {
+          "name": "Starkillers",
+          "url": "https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Starkilla (with Bree Runway & Starkillers)",
+      "url": "https://open.spotify.com/track/3S1fiHR7CUe9Nqa8h4H0u4"
     },
     {
       "album": {

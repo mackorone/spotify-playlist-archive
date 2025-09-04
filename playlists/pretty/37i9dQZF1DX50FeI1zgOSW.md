@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,008 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,020 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 4 | [Oru Murai Nokkinal](https://open.spotify.com/track/5ehjc7hFuqi73E9GmQEz1U) | [Vinesh dharan](https://open.spotify.com/artist/3HhORWLWExRuQ9ucBVIO11), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W), [K Anandharaj](https://open.spotify.com/artist/3gHA9kFFrYKUrmoRhu6spK) | [Oru Murai Nokkinal](https://open.spotify.com/album/3N8GHJTEk7RVZI0fRoDrs6) | 4:32 |
 | 5 | [Uyire Kanave](https://open.spotify.com/track/5tgiuroKKlTNXFmvv52Ukb) | [Jibu Sivanandan](https://open.spotify.com/artist/2FoiKiPZJLr4cSg3QfXsCN), [Anjali Sanoop](https://open.spotify.com/artist/0aBgor04maMjOncVdj07Hw), [Remin Jose](https://open.spotify.com/artist/3UeIajQQj2uaUU25WFEWRy), [Dr\. Meera Kasiraman](https://open.spotify.com/artist/3xHVmZK1ejhu5iR8v9A58v) | [Uyire Kanave](https://open.spotify.com/album/68CPQ87s5oBLsWg9JPdbtA) | 3:30 |
 | 6 | [Puluvaandi](https://open.spotify.com/track/5w9CvE8N9nnFuogvFt03tR) | [Aru](https://open.spotify.com/artist/5ycfMLA4GJhf0qjdXoLSJb) | [Puluvaandi](https://open.spotify.com/album/0jew9CAyMFa19yLOq56MNW) | 3:15 |
-| 7 | [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 |
+| 7 | [Adam Eval](https://open.spotify.com/track/71SDiDFntykPWQx6N5MS2K) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Swetha](https://open.spotify.com/artist/2joP0Ctx0GWUJZvn1c5Jwq) | [Adam Eval](https://open.spotify.com/album/0pB5ro7PqwXNQjK1XJ10cP) | 4:03 |
 | 8 | [Paravaye](https://open.spotify.com/track/5ZL592j6IRUW6di57xQEb5) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Paravaye](https://open.spotify.com/album/1zIo9w3rHWM6qxVjyESpH0) | 3:41 |
 | 9 | [Kaaramani](https://open.spotify.com/track/0DuYWSG3Lq1EWeZrhyCmr9) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Kaaramani](https://open.spotify.com/album/3K3lR6LkauOyFlcBdl2gpk) | 2:12 |
 | 10 | [ENNA KADHA JO](https://open.spotify.com/track/3XVVleTtSOJCAzdjYzWVeq) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [CloverChild](https://open.spotify.com/artist/6GBYIRq7K50ODuTAXyxHwx), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt), [Ev](https://open.spotify.com/artist/0NVQbptRGqD8jdbkFprkqb) | [ENNA KADHA JO](https://open.spotify.com/album/7EPiMmSbRdxr0On2dYv5Th) | 2:42 |

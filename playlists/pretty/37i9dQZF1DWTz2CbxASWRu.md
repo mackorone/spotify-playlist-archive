@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Manu Chao y Santa Fe Klan en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,492 likes - 86 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,469 likes - 86 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 85 | [Yesterday's Love](https://open.spotify.com/track/5p7I44YEHMCoDIxSg8lxER) | [Aura](https://open.spotify.com/artist/73HQJyInqakFDIW0GVdxRA) | [Aloha Got Soul](https://open.spotify.com/album/2AvrkER9t7BzJYCsUmkSHx) | 4:54 |
 | 86 | [Cucu](https://open.spotify.com/track/4Cq6PuDHlTF7pV9cLfAYU3) | [Sonora Marta La Reina](https://open.spotify.com/artist/2aAkfIriw47pc8JfPeCgQS) | [El Viaje de la Cumbia](https://open.spotify.com/album/0NFv4JwO7Ld1sBGSrcc8Pn) | 3:25 |
 
-Snapshot ID: `AAAAAPJVyh5dwvGLEerNYaNtz/uiAKON`
+Snapshot ID: `AAAAAMIZXHasHT5cBD6E1iQm5+Cact8Z`

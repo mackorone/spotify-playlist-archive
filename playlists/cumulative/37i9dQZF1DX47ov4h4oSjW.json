@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Akl\u0131mda Kalanlar",
+        "url": "https://open.spotify.com/album/5BPJsaYFUmU0MgpyXOs7gu"
+      },
+      "artists": [
+        {
+          "name": "Erdem G\u00fcven",
+          "url": "https://open.spotify.com/artist/0HjqCpfBft3kl9Gx0rqyZR"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238679,
+      "name": "Akl\u0131mda Kalanlar",
+      "url": "https://open.spotify.com/track/4PmFxg56g07xe5CprXrG1i"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 134706,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC"

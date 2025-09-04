@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/01WM8T4nZ8V34x6bled3la">Julio Reyes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-229 songs - 13 hr 23 min
+230 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Colores](https://open.spotify.com/track/4onCCBwcomISGPFLfOPxdb) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/7gPKRle8uAPmhdKAcwlj60) | 4:15 | 2025-05-29 |  |
 | [Colores](https://open.spotify.com/track/5T742t8RYXAETzzhn7LwW4) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 4:15 | 2022-06-04 | 2025-05-30 |
 | [Conexión](https://open.spotify.com/track/2DHtwzLB1pkil1NVwDtM4p) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [+Conexión](https://open.spotify.com/album/6okmlu5xWIKQiRWukN8YYp) | 3:51 | 2022-06-04 |  |
+| [Contar Hasta 3 \(O Hasta 10\) \[Bonus Track\]](https://open.spotify.com/track/3T3Lcpa5kqBKVPtY6SQznY) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Trenes, Aviones y Viajes Interplanetarios](https://open.spotify.com/album/1gZE7Bdz6To2QqhrvQzAKc) | 3:41 | 2025-09-03 |  |
 | [Contradicción](https://open.spotify.com/track/3R2FaLjO7IUkAgmXRwYRMa) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 2:55 | 2022-06-04 |  |
 | [Crazy 4.10.14](https://open.spotify.com/track/2xHivLSyLmj5LdztKQlQ7D) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 2:02 | 2022-10-18 |  |
 | [Crazy 4.10.14](https://open.spotify.com/track/6XdOucBLdN0JAd2fRuUDq1) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/34cYYDpM7MRfa8h2svgWpJ) | 2:02 | 2022-06-04 | 2022-10-19 |

@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "2 pa 1",
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 192142,
       "name": "Bar La Perla",
       "url": "https://open.spotify.com/track/6E2aBV4Kb5OTduEsi5gfwb"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 172772,
       "name": "Cai de Perna Aberta 2",
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
@@ -6916,7 +6916,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 131253,
       "name": "Confess Your Love",
       "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
@@ -16426,7 +16426,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "La revancha",
       "url": "https://open.spotify.com/track/3SMBMGIjc5OrasdvWtcNLD"
@@ -20004,7 +20004,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 182626,
       "name": "Milkshake",
       "url": "https://open.spotify.com/track/26wpcLqBHEfOL00i1rdbun"
@@ -20022,7 +20022,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 182626,
       "name": "Milkshake - Radio Mix",
       "url": "https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd"
@@ -20546,7 +20546,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 73480,
       "name": "MONTAGEM COMA",
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
@@ -23158,7 +23158,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -32848,7 +32848,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 112483,
       "name": "TUNG SAHUR \u2013 BZRT Session (Todos Quieren Tung!)",
       "url": "https://open.spotify.com/track/1rG7NGFQBn6znMMCIDCEEN"
@@ -32866,7 +32866,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 133147,
       "name": "Tung Tung Tung Sahur",
       "url": "https://open.spotify.com/track/7N0hlz8sQ1wPI4iH5Fh2L1"
@@ -34890,6 +34890,24 @@
       "duration_ms": 190153,
       "name": "Wacuka",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285653,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
       "album": {

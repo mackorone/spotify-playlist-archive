@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,664 likes - 309 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,666 likes - 309 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 128 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 129 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
 | 130 | [Better Not Together](https://open.spotify.com/track/1jAma2op1mdGxvqxkBK5So) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:08 |
-| 131 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
-| 132 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
+| 131 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 |
+| 132 | [Change](https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:12 |
 | 133 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
 | 134 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
 | 135 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 150 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
 | 151 | [We the Generation \(feat\. Mahalia\)](https://open.spotify.com/track/64EfarV8Dhq9fT8GBXVKoN) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [We the Generation](https://open.spotify.com/album/68s1AYwi1JtoTOD0ggqr2j) | 3:41 |
 | 152 | [Kingdom](https://open.spotify.com/track/0LHjotMicZfqH5qTuB0k8P) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Escape](https://open.spotify.com/album/5fTQCKSHr5hpGHEo51n4e7) | 3:52 |
-| 153 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
-| 154 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
+| 153 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
+| 154 | [Children](https://open.spotify.com/track/6Y9DgDlgMjads2M34Q7Pnt) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:41 |
 | 155 | [Fingertips](https://open.spotify.com/track/7JZBTSbpVzSJwRUgHxvUIG) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Fingertips](https://open.spotify.com/album/5GeJw5dsJDahd3DLjPT3MJ) | 4:15 |
 | 156 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 157 | [Impressionable](https://open.spotify.com/track/3QAgFsUgFfRNk8UFfB0f89) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:01 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 254 | [Diamond Life](https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Diamond Life](https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G) | 3:07 |
 | 255 | [Get Mine](https://open.spotify.com/track/1Tfzd8jY2q4OQR9Bmrxpbx) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [Get Mine](https://open.spotify.com/album/3KsLy1tfJwAA9dAeDLnno1) | 2:55 |
 | 256 | [BRB](https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [BRB](https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4) | 3:01 |
-| 257 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
-| 258 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
+| 257 | [Freeze](https://open.spotify.com/track/5iA9WS2OFIMZX1fAVM0a7N) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g) | [The Ride](https://open.spotify.com/album/0EaXFlLzwqBwzseDuAUobQ) | 3:34 |
+| 258 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
 | 259 | [Free](https://open.spotify.com/track/5Aqm5mngMoGTU8fIvNJYbT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:45 |
 | 260 | [No Contest](https://open.spotify.com/track/0Q4SE81n0qaLUiugNbTFeZ) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Finally Free Mixtape](https://open.spotify.com/album/4Tymq2ZejRFdboyq4ab41E) | 2:53 |
 | 261 | [Play Me](https://open.spotify.com/track/5qO1826lRIvkgC5O4ySIe5) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:21 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 308 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 309 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `Ab7LiAAAAACFc2mSZ/dOdCL1PvvpLMES`
+Snapshot ID: `Ab7RAAAAAABzNjgf1LmDczUgSliASnG2`

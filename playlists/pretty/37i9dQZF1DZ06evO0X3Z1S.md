@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,679 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,682 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 16 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 |
 | 17 | [Let's Ride Away \- Jonas Blue Remix](https://open.spotify.com/track/2oN9Y8nY83OJ6euCOxiVNb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Let's Ride Away \(Jonas Blue Remix\)](https://open.spotify.com/album/05IR0uSEjd7nu4ZgQnIMiA) | 3:03 |
 | 18 | [By Your Side](https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:21 |
-| 19 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
-| 20 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
+| 19 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
+| 20 | [Alien](https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Alien](https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u) | 2:54 |
 | 21 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
 | 22 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
 | 23 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Billboard](https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [Billboard](https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr) | 2:52 |
 | 50 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
 
-Snapshot ID: `aLTiAAAAAACtupft6bsNnmNyh16i0hol`
+Snapshot ID: `aLYzgAAAAABXB+PKvFCxDDH4BVBDvOMq`

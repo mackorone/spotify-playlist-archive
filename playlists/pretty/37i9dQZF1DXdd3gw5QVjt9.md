@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,754 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,397 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 43 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 44 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 45 | [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 |
-| 46 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 47 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
-| 48 | [Bittersweet](https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Bittersweet](https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME) | 3:46 |
-| 49 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
+| 46 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
+| 47 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
+| 48 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
+| 49 | [Bittersweet](https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Bittersweet](https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME) | 3:46 |
 | 50 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
 | 51 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
 | 52 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 68 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 |
 | 69 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |
 | 70 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
-| 71 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 3:56 |
-| 72 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
+| 71 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
+| 72 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 3:56 |
 | 73 | [The Next Good Time](https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:30 |
 | 74 | [Oh Mama Won't You Write Me](https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Oh Mama Won't You Write Me](https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja) | 3:01 |
 | 75 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |

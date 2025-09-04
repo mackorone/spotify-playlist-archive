@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 286914,
+  "num_followers": 286993,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABfeRTlUvrTWVOIdwlXhA/3",
+  "snapshot_id": "aLYzgAAAAADSvHcUVoQmNXWACherne9m",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is It a Crime",
+        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+      "duration_ms": 222383,
+      "name": "quiero sentirme bien",
+      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 222383,
-      "name": "quiero sentirme bien",
-      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": null,

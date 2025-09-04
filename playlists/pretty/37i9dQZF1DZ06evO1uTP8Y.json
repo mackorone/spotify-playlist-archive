@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7759,
+  "num_followers": 7778,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABp+wo5fv6UJS9ffwjuQeD4",
+  "snapshot_id": "aLYzgAAAAACAJ0B//pN0Mov96BedCpa1",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 107223,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "HBTS (Haven't Been The Same)",
+      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fall In Love [Remix] (feat. JayO & Odeal)",
         "url": "https://open.spotify.com/album/244Z5c1N9pxNszkKkNWcyQ"
       },
@@ -619,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+        "name": "Kainji Dam",
+        "url": "https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF"
       },
       "artists": [
         {
@@ -628,25 +660,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 183703,
-      "name": "HBTS (Haven't Been The Same)",
-      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 107223,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c"
+      "duration_ms": 174010,
+      "name": "Kainji Dam",
+      "url": "https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
       "duration_ms": 161211,
       "name": "24/48",
       "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kainji Dam",
-        "url": "https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 174010,
-      "name": "Kainji Dam",
-      "url": "https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OVMBR: Maybe I\u2019m Best Alone",
+        "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 165202,
+      "name": "Twenny-Nine After Two",
+      "url": "https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OVMBR: Roses",
         "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Maybe I\u2019m Best Alone",
-        "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 165202,
-      "name": "Twenny-Nine After Two",
-      "url": "https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/1LKp2QTO5E0oEAj6Y5FkcG"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 151176,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7v7YYdxFBodag2pewkvBkX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 186725,
-      "name": "Benzimma",
-      "url": "https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 197526,
       "name": "On & On",
       "url": "https://open.spotify.com/track/3eiHK0kBfAB8ldBTHgPtVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 186725,
+      "name": "Benzimma",
+      "url": "https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx"
     },
     {
       "added_at": null,

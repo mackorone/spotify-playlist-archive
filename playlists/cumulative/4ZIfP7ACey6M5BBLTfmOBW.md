@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-732 songs - 1 day 10 hr 19 min
+736 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Baddies](https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Baddies](https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1) | 2:53 | 2024-04-19 | 2024-07-03 |
 | [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 | 2025-05-02 | 2025-06-14 |
 | [Balcony](https://open.spotify.com/track/7cUPAbH6B8h0iSyxZ1B1zS) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Balcony](https://open.spotify.com/album/6SOaIyj4IOM9ZlmIdTuKCC) | 2:43 | 2025-03-21 | 2025-05-03 |
+| [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 | 2025-09-03 |  |
 | [BALLIN \(feat\. Buddy\)](https://open.spotify.com/track/3SmuanwoOV07tQgo9Dgsxm) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [APT 6E](https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF) | 3:11 | 2024-05-31 | 2024-08-10 |
 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 | 2023-12-08 | 2024-03-02 |
 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 | 2024-07-12 | 2024-08-24 |
@@ -403,6 +404,7 @@
 | [Make Sure You're Loved \(feat\. Hopium\)](https://open.spotify.com/track/1vbRFws1QnEhIFKcp07X6Y) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF) | [SADDEST TRUTH](https://open.spotify.com/album/0N1Q6nIiSUE5UWISRuLJfW) | 4:17 | 2025-04-11 | 2025-06-07 |
 | [Make U Rain](https://open.spotify.com/track/4pA6ntYrnklWGbtnsDuVV5) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Make U Rain](https://open.spotify.com/album/3tn2G0phZYmENZNRRwoK3b) | 2:44 | 2025-07-11 | 2025-08-16 |
 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 | 2024-10-18 | 2024-11-30 |
+| [Many Men](https://open.spotify.com/track/40UX2wLDFaBuM5i6udrVID) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6), [Prodbywizrd](https://open.spotify.com/artist/0ZmMkBzd5XM8fJBFZrJU0W), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [AROUND THE CORNER](https://open.spotify.com/album/4nF4eqnpi3O8R2P7iQfjtB) | 3:42 | 2025-09-03 |  |
 | [MARGARET](https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [MARGARET](https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz) | 2:39 | 2025-02-14 | 2025-04-05 |
 | [Margot](https://open.spotify.com/track/5ayoVaHGG3lq6yCbKnyx5y) | [Civ](https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT) | [Margot](https://open.spotify.com/album/5YdKxLvmgDmwnasQDDAQ3q) | 3:04 | 2025-05-09 | 2025-06-14 |
 | [Mary K](https://open.spotify.com/track/3CkOs1JEjcnxqqzoGlLX5I) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Mary K](https://open.spotify.com/album/1LAhblhfNHwVSC7Y1nvDaQ) | 1:42 | 2025-03-28 | 2025-05-03 |
@@ -622,6 +624,8 @@
 | [Suki Suki](https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Suki Suki](https://open.spotify.com/album/0PboUdl2xp7PebjNhLTITI) | 2:08 | 2024-07-26 | 2024-09-07 |
 | [Sunday Service](https://open.spotify.com/track/1ytVc8fTgA7hAOOR0n4EH7) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sunday Service](https://open.spotify.com/album/5ayh7q1xq1jFa3QsmE3M7n) | 2:46 | 2024-02-09 | 2024-05-04 |
 | [Sunset](https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sunset](https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01) | 3:13 | 2023-12-08 | 2024-01-20 |
+| [Sunshine.](https://open.spotify.com/track/2ErztdSxaFFDRt6VaHNcRS) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [Sunshine.](https://open.spotify.com/album/6nlOfybYMHAcpb0kfceFY3) | 3:15 | 2025-09-03 |  |
+| [Super Car](https://open.spotify.com/track/6FpCLiY3LY74jh78VzGUHs) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Super Car](https://open.spotify.com/album/1VWzZvX58cM7jKSFNKS5tz) | 2:48 | 2025-09-03 |  |
 | [Super P](https://open.spotify.com/track/7h1vyu38eNzLsqq4u9bBRa) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Hollyhood](https://open.spotify.com/album/4wAO8YhcscTjmhOdFR6mQy) | 2:06 | 2025-07-04 | 2025-08-16 |
 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 | 2025-04-21 | 2025-06-21 |
 | [Switch Crowd \(feat\. FattMack\)](https://open.spotify.com/track/5dCDHvLvQJM9ywKoDK3zbr) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Switch Crowd \(feat\. FattMack\)](https://open.spotify.com/album/5mPbyHEG7KSrp7iwYMMy2n) | 2:58 | 2025-09-02 |  |

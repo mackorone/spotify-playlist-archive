@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Les Plus Grands Success De Chic - Chic's Greatest Hits",
+        "url": "https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Le Freak - Edit",
+      "url": "https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa"
+    },
+    {
+      "album": {
         "name": "R.E.D. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4HPdvrPf9RGfJ2hNYrODpC"
       },
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"

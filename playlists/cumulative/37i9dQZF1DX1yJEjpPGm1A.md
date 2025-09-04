@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-77 songs - 5 hr 4 min
+79 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Meaning of you](https://open.spotify.com/track/3ucfniv4fLB3RPA6N9iLM2) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:15 | 2024-12-19 |  |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2024-12-19 |  |
 | [My Romance](https://open.spotify.com/track/5Rys2WgRdbvQNdeezDvUql) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Hometown Cha\-Cha\-Cha, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7lLdUzOlYRwdmsaYw0kpiv) | 2:53 | 2024-12-19 |  |
+| [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 | 2025-09-03 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2024-12-19 |  |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 |  |
 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 | 2025-02-14 |  |
@@ -64,6 +65,7 @@
 | [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3dQxjLOKLUUpZOwHYYdvyo) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/54P1MSGvQt3Hq1UpsijMgA) | 4:32 | 2024-12-19 |  |
 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2025-04-15 |  |
+| [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2025-09-03 |  |
 | [Wedding day](https://open.spotify.com/track/3jdOfGISSsleBymbijTW8n) | [Lee Jun Ho](https://open.spotify.com/artist/6MHVkCZuNc7JpMExfxOE8Z) | [Destiny](https://open.spotify.com/album/2Dh0t1z6hTA5Ym96GxfQWt) | 4:01 | 2024-12-19 |  |
 | [Wedding Song \(feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/3V04nXHMTLytI0hV1Rjwps) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wedding\_Song](https://open.spotify.com/album/5911ACOYBruDs2gOVp0Tvi) | 3:52 | 2024-12-19 |  |
 | [Will You Marry Me](https://open.spotify.com/track/20XkFteMFP8g32KhsZpug7) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [My First](https://open.spotify.com/album/7toPg2DmQRsGqPTlzdt99A) | 3:48 | 2024-12-19 |  |

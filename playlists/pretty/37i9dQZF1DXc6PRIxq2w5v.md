@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,693 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,726 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 33 | [Irrisório](https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Irrisório](https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO) | 2:26 |
 | 34 | [Tranquilo](https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Tranquilo](https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ) | 3:19 |
 | 35 | [Seu Poder](https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Seu Poder](https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW) | 3:42 |
-| 36 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
-| 37 | [Flame](https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Flame](https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4) | 3:17 |
+| 36 | [Flame](https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Flame](https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4) | 3:17 |
+| 37 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 |
 | 38 | [Renuncio o Meu Eu](https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Renuncio o Meu Eu](https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D) | 3:10 |
 | 39 | [O Apocalipse É Real](https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Apocalipse É Real](https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq) | 2:35 |
 | 40 | [Trindade Acústico 1](https://open.spotify.com/track/5s4nzKjZMJqchuZypeLuuE) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP) | [Trindade Acústico 1](https://open.spotify.com/album/41e3rvy3lc0jq7HYXcik9w) | 4:10 |

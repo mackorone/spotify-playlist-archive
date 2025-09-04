@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,212 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,260 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 10 | [Iz da](https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Baba aller Babas](https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3) | 3:33 |
 | 11 | [Chabos wissen wer der Babo ist](https://open.spotify.com/track/6kjBafSuYC8gClzfYu7T1t) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Chabos wissen wer der Babo ist](https://open.spotify.com/album/3qUVVgfr2GzcDukgYVr10T) | 2:19 |
 | 12 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
-| 13 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
-| 14 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
+| 13 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
+| 14 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
 | 15 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
 | 16 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
 | 17 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |

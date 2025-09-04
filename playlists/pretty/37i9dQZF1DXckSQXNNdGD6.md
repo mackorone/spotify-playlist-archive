@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  Alice Wonder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,907 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,930 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 35 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 36 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 37 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
-| 38 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
-| 39 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
-| 40 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
+| 38 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
+| 39 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 40 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 41 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 42 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 43 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 46 | [si nunca encuentro el amor](https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [si nunca encuentro el amor](https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI) | 3:50 |
 | 47 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
-| 48 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
-| 49 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
-| 50 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
+| 48 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
+| 49 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
+| 50 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
 
 Snapshot ID: `AAAAAN7A1a7tdtqvAKfHu8m+54FPtDNE`

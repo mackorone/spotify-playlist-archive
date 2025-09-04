@@ -1,6 +1,6 @@
 {
   "description": "the summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 1890377,
+  "num_followers": 1890802,
   "original_name": "Summer Dance Hits 2025",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "WACUKA",
         "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 190153,
       "name": "WACUKA",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1043,30 +1067,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
-      },
-      "artists": [
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "Stephanie (HNTR Remix)",
         "url": "https://open.spotify.com/album/2bOMvfR44jh4eIeUB230ES"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/3flWoQdYrWyqUsHbURIJby"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "Dreamin (feat. Daya)",
+        "url": "https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 171526,
+      "name": "Dreamin (feat. Daya)",
+      "url": "https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 121417,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
       },
       "artists": [
         {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
         }
       ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+      "duration_ms": 159120,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1863,18 +1859,22 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq"
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
       "artists": [
         {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
         }
       ],
-      "duration_ms": 159120,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 220838,
-      "name": "Assumptions",
-      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "Lioness",
         "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 172515,
       "name": "Lioness",
       "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -2007,22 +1991,18 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -2039,6 +2019,26 @@
       "duration_ms": 200787,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2025-08-29 04:00:38",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2025-08-29 04:00:38",
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-08-29 04:00:38",

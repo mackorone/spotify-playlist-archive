@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 137575,
+  "num_followers": 137939,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAA9kzs0iS1e7K56e3nXsOMa",
+  "snapshot_id": "aLYzgAAAAADLPnQPiwwRPksLX8V3WPKp",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "SELAH",
+        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 202602,
+      "name": "SELAH",
+      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
     },
     {
       "added_at": null,
@@ -403,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SELAH",
-        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 202602,
-      "name": "SELAH",
-      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
+      "duration_ms": 181374,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
     },
     {
       "added_at": null,

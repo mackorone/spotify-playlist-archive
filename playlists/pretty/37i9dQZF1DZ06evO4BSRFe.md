@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,431 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,444 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,24 +22,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 12 | [Leña de pirul](https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:47 |
 | 13 | [La más bonita de todas](https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:40 |
 | 14 | [Si la miro mañana](https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:05 |
-| 15 | [Cumbia torera](https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:57 |
-| 16 | [La secretaria](https://open.spotify.com/track/2T9QzIh3CekfE1HyG8R8Qa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:53 |
+| 15 | [La secretaria](https://open.spotify.com/track/2T9QzIh3CekfE1HyG8R8Qa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:53 |
+| 16 | [Cumbia torera](https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:57 |
 | 17 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 |
 | 18 | [Mi chica ideal](https://open.spotify.com/track/34JErr9kKYsVRoqNlXDqVT) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 2:34 |
-| 19 | [Cuatro Meses \(Que Se Te Quite Ese Orgullo\)](https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A Pesar de Todo](https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9) | 3:02 |
-| 20 | [Sangre de indio](https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:03 |
+| 19 | [Sangre de indio](https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:03 |
+| 20 | [Cuatro Meses \(Que Se Te Quite Ese Orgullo\)](https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A Pesar de Todo](https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9) | 3:02 |
 | 21 | [Motivos](https://open.spotify.com/track/65lfzguWycfHortBjpZAwr) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:08 |
 | 22 | [El viejo joven](https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:38 |
-| 23 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 |
-| 24 | [Escuadras del sur](https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:10 |
+| 23 | [Escuadras del sur](https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:10 |
+| 24 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 |
 | 25 | [Te lo debo a ti](https://open.spotify.com/track/24RmszriFqvujOsycO1NID) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:35 |
 | 26 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
-| 27 | [La suegra](https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf) | 3:17 |
-| 28 | [Y la quiere Paco](https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:35 |
+| 27 | [Y la quiere Paco](https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:35 |
+| 28 | [La suegra](https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf) | 3:17 |
 | 29 | [Esclavo y amo](https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:36 |
 | 30 | [Tu abandono](https://open.spotify.com/track/7IIB1aFag7RDTEPZW0z00Q) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:09 |
-| 31 | [El puchoncito](https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las movidas de los machos](https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu) | 2:38 |
-| 32 | [Mi tesoro](https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:33 |
+| 31 | [Mi tesoro](https://open.spotify.com/track/6iYmSqPRZbd51RD5pPfTa0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 2:33 |
+| 32 | [El puchoncito](https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Las movidas de los machos](https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu) | 2:38 |
 | 33 | [Usted](https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:52 |
 | 34 | [Ando Pisteando Por Ella](https://open.spotify.com/track/2ViQb4MB0Fa80dvgjOATc7) | [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw), [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Ando Pisteando Por Ella](https://open.spotify.com/album/4PY6Vx6pcfAzzRpllPYltZ) | 2:27 |
 | 35 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSRFe.md) - [plain]
 | 47 | [La Novia Coja](https://open.spotify.com/track/27PkP7nu6jxF0mJ0SxRYXR) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [El Próximo Tonto](https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF) | 3:09 |
 | 48 | [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 |
 | 49 | [Qué te costaba decírmelo](https://open.spotify.com/track/3WP5vkPc1gnagKLBrsR5m7) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 2:56 |
-| 50 | [El mandilon](https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Pura pasión](https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG) | 3:10 |
+| 50 | [A prueba de balas](https://open.spotify.com/track/2KoqK3sE07EAA8OfC9NvsI) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [A prueba de balas](https://open.spotify.com/album/0dXYdDDNYFOdR0fLzMnlVx) | 3:21 |
 
-Snapshot ID: `aLTiAAAAAADIcntJm/pwfmd8XAb2x6xK`
+Snapshot ID: `aLYzgAAAAADgPRG1IjpUaIAsyFZ5Tufr`

@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-184 songs - 12 hr 27 min
+185 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 | 2021-12-16 |  |
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2021-12-16 | 2025-05-28 |
-| [Cookin’ In The Couve](https://open.spotify.com/track/5dddRMF9qbdzxj1ROnhIaa) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Cookin' In The Couve](https://open.spotify.com/album/4UGLeoR6vG9Z70LRaSzgxH) | 4:12 | 2025-01-17 |  |
+| [Cookin’ In The Couve](https://open.spotify.com/track/5dddRMF9qbdzxj1ROnhIaa) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Cookin' In The Couve](https://open.spotify.com/album/4UGLeoR6vG9Z70LRaSzgxH) | 4:12 | 2025-01-17 | 2025-09-04 |
 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 | 2021-12-16 |  |
 | [Days Like This](https://open.spotify.com/track/5aspFFWrnfeQznONFnVwSs) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [What It Means](https://open.spotify.com/album/402n12WlvkNWlGmIKoY9qg) | 3:23 | 2024-08-09 | 2024-08-24 |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 | 2022-05-25 |  |
@@ -112,6 +112,7 @@
 | [Little Lulu](https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 3:51 | 2021-12-16 |  |
 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 | 2021-12-16 |  |
 | [Love for Sale](https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [Love for Sale](https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe) | 5:31 | 2024-09-06 |  |
+| [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 | 2025-08-29 |  |
 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 | 2021-12-16 | 2023-01-12 |
 | [Morning Song](https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3) | 4:09 | 2022-10-11 | 2022-10-26 |
 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 | 2021-12-16 |  |

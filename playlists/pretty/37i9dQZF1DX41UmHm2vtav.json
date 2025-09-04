@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 489912,
+  "num_followers": 489959,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -167,30 +167,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Cante por N\u00f3s",
-        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Cante por N\u00f3s",
-      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 142439,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Cante por N\u00f3s",
+        "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Cante por N\u00f3s",
+      "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -675,30 +675,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Morar No Mar",
-        "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Tato",
-          "url": "https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e"
-        },
-        {
-          "name": "soa",
-          "url": "https://open.spotify.com/artist/1Po9h1Y9gpv8SHdoGRxsBw"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Morar No Mar",
-      "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Morar No Mar",
+        "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Tato",
+          "url": "https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e"
+        },
+        {
+          "name": "soa",
+          "url": "https://open.spotify.com/artist/1Po9h1Y9gpv8SHdoGRxsBw"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Morar No Mar",
+      "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -879,6 +879,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Youngr",
         "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
         "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
         "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 300432,
       "name": "Tudo Que Ela Gosta De Escutar - Lion Remix",
       "url": "https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1307,6 +1307,34 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Calma, Senta, Relaxa",
+        "url": "https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq"
+      },
+      "artists": [
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ Jap\u00e3o",
+          "url": "https://open.spotify.com/artist/3xoA3XlugnMbcIurjFJp93"
+        },
+        {
+          "name": "Kamoto",
+          "url": "https://open.spotify.com/artist/024MAhdqfNuVvJbpOvkZA9"
+        }
+      ],
+      "duration_ms": 124111,
+      "name": "Calma, Senta, Relaxa",
+      "url": "https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1395,6 +1423,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+    },
+    {
+      "added_at": "2025-08-29 03:01:04",
+      "album": {
         "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
         "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
@@ -1419,22 +1467,26 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
       "artists": [
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
         },
         {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
         }
       ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2025-08-29 03:01:04",
@@ -1467,70 +1519,22 @@
     {
       "added_at": "2025-08-29 03:01:04",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
       },
       "artists": [
         {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
         },
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
         }
       ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Novo Movimento (Tu-Tum)",
-        "url": "https://open.spotify.com/album/1e60jrAWhMZFFdFdg58P5L"
-      },
-      "artists": [
-        {
-          "name": "Don Dali",
-          "url": "https://open.spotify.com/artist/5bX9aZQtBSyca4E8iO08TH"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 146975,
-      "name": "Novo Movimento (Tu-Tum)",
-      "url": "https://open.spotify.com/track/3Ymy0gjO9ZG6l2a5OvoMYe"
-    },
-    {
-      "added_at": "2025-08-29 03:01:04",
-      "album": {
-        "name": "Purple Hat (Adam Sellouk & Doriann Remix)",
-        "url": "https://open.spotify.com/album/6IQ5cZ5HzasMrfmyYPCN6A"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "Doriann",
-          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Purple Hat - Adam Sellouk & Doriann Remix",
-      "url": "https://open.spotify.com/track/22cKiNgK6V3nenOrBxRhr6"
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
     }
   ],
   "unique_name": "Festa na Praia",

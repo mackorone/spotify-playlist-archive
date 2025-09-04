@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,979 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,984 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 26 | [Opinion Base](https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:26 |
 | 27 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/4cJx4c5R3ZpegG6fq1pFPC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 |
 | 28 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 |
-| 29 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 |
+| 29 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
 | 30 | [30 Boppa](https://open.spotify.com/track/3JF5uKi0M1RPLnji4QAQMO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:32 |
 | 31 | [GEESKI mode 11am FINISHED](https://open.spotify.com/track/1fp4xsU0LSDh57s4RYeOPv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:31 |
-| 32 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
+| 32 | [Plug Motivation](https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:08 |
 | 33 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
 | 34 | [Young Shiners](https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:35 |
 | 35 | [Above the Rim 0529](https://open.spotify.com/track/3RL7cbvac0rJrbilVXs9OK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 49 | [Since When \(feat\. EST Gee\)](https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 3:02 |
 | 50 | [RIP LU MIKE](https://open.spotify.com/track/2fTtulLDfS5WnNiZmcumit) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:48 |
 
-Snapshot ID: `aLTiAAAAAAAKDVYLcIfVbjg+1w62g8kP`
+Snapshot ID: `aLYzgAAAAACJaA3Xfz6w4bqbNMJbXvvA`

@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 259545,
+  "num_followers": 259601,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
         "name": "Shine a Light",
         "url": "https://open.spotify.com/album/0J3vMnW6cDhihkSmASC0iw"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 127200,
       "name": "Shine a Light",
       "url": "https://open.spotify.com/track/2Y61neJqFlIhIlToV1HVZK"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-08-27 11:10:29",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-08-27 11:10:29",
       "album": {
-        "name": "Cold nights and city bike rides.",
-        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
-      },
-      "artists": [
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        },
-        {
-          "name": "Oliver Rees",
-          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Cold nights and city bike rides.",
-      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
-    },
-    {
-      "added_at": "2025-08-27 11:10:29",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 254346,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
+    },
+    {
+      "added_at": "2025-08-27 11:10:29",
+      "album": {
+        "name": "Cold nights and city bike rides.",
+        "url": "https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        },
+        {
+          "name": "Oliver Rees",
+          "url": "https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Cold nights and city bike rides.",
+      "url": "https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR"
     }
   ],
   "unique_name": "Melantronic",

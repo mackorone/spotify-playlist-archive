@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: SIRUP \*👉 <a href="https://spice.eplus.jp/articles/340284">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: SIRUP \*👉 <a href="https://spice.eplus.jp/articles/340515">連動記事</a>をSPICEでチェック!
 
 11,827 songs - 30 day 21 hr 45 min
 

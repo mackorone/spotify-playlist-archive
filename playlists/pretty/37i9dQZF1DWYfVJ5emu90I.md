@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,714 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,726 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 16 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 |
 | 17 | [Assassin \- Remix](https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [S.J.soldier](https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Assassin \(feat\. S.J.soldier & Carz\) \[Remix\]](https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B) | 3:24 |
 | 18 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |
-| 19 | [ヘビー \(feat\. DADA & Watson\)](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
-| 20 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
+| 19 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
+| 20 | [ヘビー \(feat\. DADA & Watson\)](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
 | 21 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 22 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
 | 23 | [Kick Up \(feat\. ralph\)](https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Kick Up \(feat\. ralph\)](https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT) | 3:07 |

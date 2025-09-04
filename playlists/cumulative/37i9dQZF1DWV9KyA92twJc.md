@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אקו ואנה זק
 
-209 songs - 11 hr 8 min
+210 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2024-06-20 | 2025-08-30 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-20 | 2025-08-30 |
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-15 |  |
-| [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-17 |  |
+| [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-17 | 2025-09-04 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-06-20 | 2025-08-30 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-20 |  |
@@ -132,6 +132,7 @@
 | [אחותי כבר לא סובלת אותך](https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [אחותי כבר לא סובלת אותך](https://open.spotify.com/album/50V1UPWQyk6uGVdIm8WgC5) | 3:01 | 2024-06-20 | 2024-07-19 |
 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 | 2025-07-04 |  |
 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 | 2024-06-20 | 2025-04-25 |
+| [אין לנו סוף](https://open.spotify.com/track/2eS1TH7IsLKMuG29fejmp4) | [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [אין לנו סוף](https://open.spotify.com/album/4VhPNYhoWuTWcQ9BA40ZQV) | 3:10 | 2025-08-29 |  |
 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 | 2025-07-04 |  |
 | [אל תפחד](https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 4:11 | 2024-10-17 |  |
 | [אליס](https://open.spotify.com/track/1bow5OcK19mmexxgIYQlJu) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אליס](https://open.spotify.com/album/0RnvCGmGjKhn1ya43HKC9V) | 3:00 | 2025-07-25 |  |

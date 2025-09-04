@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1210467,
+  "num_followers": 1210490,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABghN5CAp0qCFKgdfhEmzRK",
+  "snapshot_id": "aLYzgAAAAAA8O9oa5VMtgUvApa46Jkax",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
+        "name": "WOMAN\u2019S WORLD",
+        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
       },
       "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
         {
           "name": "Katy Perry",
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 181899,
-      "name": "365",
-      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
+      "duration_ms": 163000,
+      "name": "WOMAN\u2019S WORLD",
+      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
       "added_at": null,
@@ -475,6 +471,26 @@
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 181899,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 202666,
       "name": "STARSTRUKK (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/1hBM2D1ULT3aeKuddSwPsK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
     },
     {
       "added_at": null,

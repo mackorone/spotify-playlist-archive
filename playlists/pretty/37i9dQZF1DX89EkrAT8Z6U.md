@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,494 likes - 75 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,717 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 35 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 36 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 37 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX), [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
-| 38 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
-| 39 | [COWBELL WARRIORS!](https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS!](https://open.spotify.com/album/46FHwDwhiaKjZQnquBcMff) | 2:29 |
+| 38 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
+| 39 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
 | 40 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
-| 41 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
+| 41 | [COWBELL WARRIORS!](https://open.spotify.com/track/21N4kygnrmdLUmQ27DE9Lu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS!](https://open.spotify.com/album/46FHwDwhiaKjZQnquBcMff) | 2:29 |
 | 42 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
 | 43 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
-| 44 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
+| 44 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 |
 | 45 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
 | 46 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 47 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |

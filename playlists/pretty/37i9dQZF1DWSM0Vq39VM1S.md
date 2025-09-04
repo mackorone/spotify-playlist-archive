@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,696 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,663 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 49 | [Small Mercies](https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 3:41 |
 | 50 | [Borrow mine](https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Flower of the soul \(full bloom\)](https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE) | 2:23 |
 | 51 | [It..\. What or Why?](https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ) | [Gypsy Mitchell](https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD) | [Love Is..\. Infinite](https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds) | 6:40 |
-| 52 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
-| 53 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
-| 54 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
+| 52 | [Within a Heartbeat](https://open.spotify.com/track/3wjwHr3gAFWjqadEi5Kii4) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Within a Heartbeat](https://open.spotify.com/album/2Ph2OneHmuqiVtzwr6qfor) | 3:41 |
+| 53 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
+| 54 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
 | 55 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 |
 | 56 | [The Eyes Of Cécilia](https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [The Eyes Of Cécilia](https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt) | 3:25 |
 | 57 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 58 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
-| 59 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
+| 58 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
+| 59 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
 | 60 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 
 Snapshot ID: `AAAAANfW27F682qt1lC9qbc32RDSZ+R/`

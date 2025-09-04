@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4058296,
+  "num_followers": 4058620,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACNFyo5YHPwuCdaxCnrJf7i",
+  "snapshot_id": "aLYzgAAAAABBm9bBMGI1dqDZSAk12153",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STANS (The Official Soundtrack)",
+        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 294357,
+      "name": "Everybody\u2019s Looking At Me",
+      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Slim Shady LP",
         "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STANS (The Official Soundtrack)",
-        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 294357,
-      "name": "Everybody\u2019s Looking At Me",
-      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
     },
     {
       "added_at": null,

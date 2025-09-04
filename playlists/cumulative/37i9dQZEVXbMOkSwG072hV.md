@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,706 songs - 8 day 3 hr 41 min
+3,707 songs - 8 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,7 +1594,7 @@
 | [Jeito Que Te Faco Poderosa](https://open.spotify.com/track/3aJ3EmS2Zje2GhIQqWjZry) | [Omcig4m](https://open.spotify.com/artist/3y2NAhEyi3HgbSp2EtXOI9) | [Jeito Que Te Faco Poderosa](https://open.spotify.com/album/4ZtcXcO0SHulUH4o2uU812) | 4:09 | 2023-10-24 | 2023-11-03 |
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-25 | 2023-05-31 |
 | [Jerusalém](https://open.spotify.com/track/0USR11FolAFzcQQPqN50LT) | [Seresta do Rasta](https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj) | [Olha a Pedra](https://open.spotify.com/album/28Y08vhOR8bChJuWo0AT8A) | 2:24 | 2024-12-08 | 2024-12-11 |
-| [Jesus Ta Lá](https://open.spotify.com/track/0kYontwbPjjKTqGSmu0bGU) | [lisa\_wuffwuff](https://open.spotify.com/artist/6xTIARNgZ5cddFUW8uUf82), [awp](https://open.spotify.com/artist/3TjaZwEw2aHgqvhaAlVe2g), [MPPO](https://open.spotify.com/artist/4CbfgqGHB8H5nFQs4ja7j6) | [Jesus Ta Lá](https://open.spotify.com/album/407DmevFUVaPJfolR7tUMx) | 5:00 | 2025-08-29 |  |
+| [Jesus Ta Lá](https://open.spotify.com/track/0kYontwbPjjKTqGSmu0bGU) | [lisa\_wuffwuff](https://open.spotify.com/artist/6xTIARNgZ5cddFUW8uUf82), [awp](https://open.spotify.com/artist/3TjaZwEw2aHgqvhaAlVe2g), [MPPO](https://open.spotify.com/artist/4CbfgqGHB8H5nFQs4ja7j6) | [Jesus Ta Lá](https://open.spotify.com/album/407DmevFUVaPJfolR7tUMx) | 5:00 | 2025-08-29 | 2025-09-04 |
 | [Jesus Ta Lá](https://open.spotify.com/track/7wSPaZVUps9HudUq5RGSKa) | [Nair Nany](https://open.spotify.com/artist/0wYlKdMvMH4nFILoV9cxhq), [Rivaldo Gruta](https://open.spotify.com/artist/02vJoFUonM1VjchghFc6cw) | [Jesus Ta Lá](https://open.spotify.com/album/6IJJNSLxcRoGKVKSZK251P) | 5:00 | 2025-08-19 | 2025-08-29 |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-06-07 | 2022-06-16 |
 | [Joga Essa Rabeta](https://open.spotify.com/track/2UXbsA8Q2tg90kjEn2gV7j) | [MC Teuzin PV](https://open.spotify.com/artist/147EV9TBf4KgDU75GHwZgJ), [MC Skcot](https://open.spotify.com/artist/66y9wEcA9aucJ69FTYYbGb) | [Joga Essa Rabeta](https://open.spotify.com/album/3ZM2MFfKHGJsgHFop9Lo0A) | 2:35 | 2022-05-16 | 2022-06-29 |
@@ -3579,6 +3579,7 @@
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-25 | 2022-02-23 |
 | [Wait a Minute!](https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ARDIPITHECUS](https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h) | 3:16 | 2022-04-19 | 2022-05-03 |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 | 2022-11-25 | 2022-12-03 |
+| [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 | 2025-09-03 |  |
 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 | 2024-10-20 | 2024-10-26 |
 | [Want U](https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux) | [noevdv](https://open.spotify.com/artist/3CL4nOf23RqGQJjcAOzork) | [Want U](https://open.spotify.com/album/3HfeRupKZBZ4VoBTaD52ek) | 1:41 | 2024-03-28 | 2024-04-16 |
 | [War Pigs \- 2009 Remaster](https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 7:55 | 2025-07-26 | 2025-07-31 |

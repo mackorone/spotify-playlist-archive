@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,905 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,912 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 16 | [The Whole Town's Laughing at Me](https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:27 |
 | 17 | [It Don't Hurt Now](https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 6:00 |
 | 18 | [This Is the Last Time](https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 6:28 |
-| 19 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
-| 20 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
+| 19 | [It Should've Been You](https://open.spotify.com/track/7lwrsQrFq5fRvzlL9uJ00I) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:04 |
+| 20 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
 | 21 | [In My Time](https://open.spotify.com/track/4IB3mrQpsbQiJ8tOId1rlm) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [BILL SCHNEE](https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq) | [Love Language](https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg) | 3:51 |
 | 22 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 23 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [You Can't Hide from Yourself](https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:05 |
 | 50 | [Two Hearts](https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Stephanie](https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6) | 4:43 |
 
-Snapshot ID: `aLTiAAAAAAAdFyT6kAPXRc+STrVDYjCA`
+Snapshot ID: `aLYzgAAAAACTJYr5lUbfA/vSgryENbiU`

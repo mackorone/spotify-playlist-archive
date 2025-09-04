@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 976963,
+  "num_followers": 977121,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABh6ROG4Tb/BfwnRCYOXMRG",
+  "snapshot_id": "aLYzgAAAAACeRlZsWtxTiJ2BDmMPEFMZ",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
     },
     {
       "added_at": null,

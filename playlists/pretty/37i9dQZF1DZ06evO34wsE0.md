@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,894 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,906 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 12 | [Whose Bed Have Your Boots Been Under? \- Radio Edit / Remastered 2023](https://open.spotify.com/track/5mf2zOGnK1fr54nezMPYnU) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 4:01 |
 | 13 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
 | 14 | [You've Got A Way](https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 |
-| 15 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
-| 16 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
+| 15 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
+| 16 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 17 | [You Win My Love](https://open.spotify.com/track/2lKA9bNdd4kAoeHiufa0aK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:25 |
 | 18 | [Honey, I'm Home](https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
 | 19 | [Up!](https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 2:52 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 34 | [Life's About To Get Good](https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:40 |
 | 35 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
 | 36 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
-| 37 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
+| 37 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 |
 | 38 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
 | 39 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
 | 40 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 |
-| 41 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 |
+| 41 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
 | 42 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 | 43 | [Whatever You Do! Don't!](https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:48 |
 | 44 | [I Ain't No Quitter \- Greatest Hits Version](https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Rock This Country](https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 |
 | 50 | [Best Friend](https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 
-Snapshot ID: `aLTiAAAAAAAiH3HybAkMn/ysuV55k8kd`
+Snapshot ID: `aLYzgAAAAACPf++NGqVdJzoVkJTN4o4C`

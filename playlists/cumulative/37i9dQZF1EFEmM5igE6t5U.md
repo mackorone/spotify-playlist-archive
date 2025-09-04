@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-234 songs - 15 hr 1 min
+236 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Only You \(Originals\)](https://open.spotify.com/track/05TNqUXgomBnqbzKKC8y6Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Only You \(Originals\) \[Official Video\]](https://open.spotify.com/album/46nHlpD9FGlG9bf09L1Fkr) | 2:51 | 2023-12-15 | 2024-01-31 |
 | [Only You \(Originals\)](https://open.spotify.com/track/4CN5QwsYFty7KkcVguSBXr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:15 | 2023-03-09 |  |
 | [Only You \(Unlocked\)](https://open.spotify.com/track/1cE8372XYLlNlerewl1ZTE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:11 | 2023-03-09 |  |
+| [Other Side Of Love \(Remix\) \[feat\. Alicia Keys\]](https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:12 | 2025-09-03 |  |
 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 | 2023-03-09 |  |
 | [Pawn It All](https://open.spotify.com/track/1jFFhbn3IZLP5buAertmU6) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:10 | 2023-03-09 |  |
 | [Perfect Way To Die](https://open.spotify.com/track/4rxetbgJZra2oJKBIF8vr5) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:31 | 2023-03-09 |  |
@@ -185,8 +186,9 @@
 | [So Done](https://open.spotify.com/track/3CHdCeXVBB5U7PYxjilNuT) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [So Done \(Official Video\)](https://open.spotify.com/album/0r246iElWRuBrQvfvquMvx) | 4:10 | 2023-12-14 | 2024-01-31 |
 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 | 2023-03-09 |  |
 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 | 2023-03-09 |  |
-| [Stay](https://open.spotify.com/track/1xqjLdtB558KjSo7zvOXua) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO) | [Stay](https://open.spotify.com/album/2iG2hm1tShCRFKoYljppI4) | 6:27 | 2023-12-13 |  |
+| [Stay](https://open.spotify.com/track/1xqjLdtB558KjSo7zvOXua) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO) | [Stay](https://open.spotify.com/album/2iG2hm1tShCRFKoYljppI4) | 6:27 | 2023-12-13 | 2025-09-04 |
 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2023-03-09 |  |
+| [Stay \- Justin Martin Remix](https://open.spotify.com/track/4hLYzmObqNcO0YBUXCI41c) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO), [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Stay \(Justin Martin Remix\)](https://open.spotify.com/album/1O7dsTLj0WtzNOF0BfuaLP) | 6:46 | 2025-09-03 |  |
 | [Stay \- Original Mix](https://open.spotify.com/track/1MOqCUqmESc1lJIkXxRrGV) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO) | [Stay](https://open.spotify.com/album/7FRRf4AlG6dD11dGcHSnPl) | 6:27 | 2023-03-09 | 2023-12-14 |
 | [Stolen Moments \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/78hbE62MIMLm5QTzkqTILh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 5:14 | 2023-03-09 |  |
 | [Superwoman](https://open.spotify.com/track/18kkEfe5r9c1TqoWpmjlKR) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Superwoman \(Official Video\)](https://open.spotify.com/album/5wfC6dduP3qmO9unZ9HcPc) | 4:13 | 2023-12-21 | 2024-02-02 |

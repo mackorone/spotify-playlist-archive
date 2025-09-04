@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,441 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,455 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 52 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
 | 53 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
 | 54 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
-| 55 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
+| 55 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 |
 | 56 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |
-| 57 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 |
+| 57 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
 | 58 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 59 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
 | 60 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
 | 61 | [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 |
-| 62 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
-| 63 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
+| 62 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
+| 63 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 | 64 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 65 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
 | 66 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |

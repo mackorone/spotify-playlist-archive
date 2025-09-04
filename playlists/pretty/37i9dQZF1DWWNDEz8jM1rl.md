@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,191 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,285 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 2 | [Eres Mi Bendicion \(feat\. Alex Zurdo\)](https://open.spotify.com/track/3lMZAnQgm5Sjr6KDR0uZNw) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 4:00 |
 | 3 | [TIEMPOS BUENOS](https://open.spotify.com/track/290xEFjIStrnGFQAe4xnVR) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 3:10 |
 | 4 | [Alabaré](https://open.spotify.com/track/5NZurbKSdSrGdfSsx9Q25t) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Alabaré](https://open.spotify.com/album/4pWVrEzaIEMdaMLBiZ6mc2) | 2:58 |
-| 5 | [Santa Cruz](https://open.spotify.com/track/1WHdA1glBCsd6pbiOMn6u5) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Santa Cruz](https://open.spotify.com/album/5m7jFN3MlulVIxAHTJaC7m) | 3:56 |
+| 5 | [Santa Cruz](https://open.spotify.com/track/1WHdA1glBCsd6pbiOMn6u5) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Santa Cruz](https://open.spotify.com/album/5m7jFN3MlulVIxAHTJaC7m) | 3:55 |
 | 6 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |
 | 7 | [Novus](https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [NOVUS](https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY) | 3:38 |
 | 8 | [Gracias](https://open.spotify.com/track/5cbf3IJBVg92YU85Asl6p2) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Cuando Todo Se Detiene](https://open.spotify.com/album/2a15XHOtyoDeGkjtvnyohq) | 3:03 |

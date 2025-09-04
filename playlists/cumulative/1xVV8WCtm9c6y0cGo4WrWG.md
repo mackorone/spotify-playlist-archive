@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-424 songs - 21 hr 35 min
+425 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Close The Door](https://open.spotify.com/track/7iUb5lNWRXFqtEiDTSr1ac) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Close The Door](https://open.spotify.com/album/5Ta38p3f2tyLLL4X0Jqe04) | 2:11 | 2025-03-21 |  |
 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 | 2025-02-25 |  |
 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 | 2023-11-03 | 2024-01-20 |
+| [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-09-03 |  |
 | [Crazy](https://open.spotify.com/track/73f5rpLgydSRIvHzRLcJFF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:12 | 2023-12-19 | 2025-07-12 |
 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 | 2024-04-05 | 2024-09-10 |
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-05-26 |  |

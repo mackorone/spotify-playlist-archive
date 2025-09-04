@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 10981,
+  "num_followers": 10982,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Gangsta (Remix)",
-        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "One Acen",
-          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Gangsta (Remix)",
+        "url": "https://open.spotify.com/album/3fS7lzVW6uISgYnvroy4xD"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/0yoXHeL4gJg0DNheK4xqJB"
     },
     {
       "added_at": "2022-10-01 16:43:03",

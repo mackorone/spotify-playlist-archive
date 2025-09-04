@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, Justin Bieber, Calvin Harris and more",
+  "description": "With Bruno Mars, Mark Ronson, Dua Lipa and more",
   "name": "24K Magic Radio",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 218826,
       "name": "6 Am (feat. Bruno Mars) - Remix",
       "url": "https://open.spotify.com/track/5dgF9BQYF1AVOk3YvyUzLD"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 187866,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jSlcXdUGLWOV2pSfYYiBs"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2021-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 200106,
       "name": "Best Song Ever",
       "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
@@ -6034,6 +6034,28 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
       "album": {
@@ -7238,7 +7260,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
@@ -7708,7 +7730,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
@@ -10034,7 +10056,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 217306,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
@@ -11230,7 +11252,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -12832,7 +12854,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
@@ -14116,7 +14138,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 217733,
       "name": "Let's Get It Started - Spike Mix",
       "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
@@ -17198,7 +17220,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 107702,
       "name": "Nothing on You",
       "url": "https://open.spotify.com/track/2A5YAFeEwGi7KlGMYRf5dX"
@@ -19720,7 +19742,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 148448,
       "name": "Runaway Baby",
       "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq"
@@ -21066,7 +21088,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 192586,
       "name": "Single Ladies (Put a Ring on It)",
       "url": "https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw"
@@ -25148,7 +25170,7 @@
       ],
       "date_added": "2021-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"

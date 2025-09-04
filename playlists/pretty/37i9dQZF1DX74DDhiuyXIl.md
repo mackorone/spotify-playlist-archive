@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,871 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,904 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 47 | [我想念](https://open.spotify.com/track/6nO5UyAtYeK2M8QuCB8bay) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [我想念](https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs) | 3:44 |
 | 48 | [空荡荡](https://open.spotify.com/track/6D7hDhCq07RCcdFGKHgI61) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [空荡荡](https://open.spotify.com/album/0BdQiX1nyvrJ9sbfEOL6vb) | 3:28 |
 | 49 | [結局很瘦](https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [結局很瘦](https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq) | 3:32 |
-| 50 | [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 |
-| 51 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
-| 52 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
-| 53 | [不該](https://open.spotify.com/track/3mf3pzDv9DCO0QDVh7bUL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/0ByfRfYXHHhGjsXEabfDmf) | 4:51 |
-| 54 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
+| 50 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
+| 51 | [喜歡你比說喜歡你更容易](https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [喜歡你比說喜歡你更容易](https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc) | 4:13 |
+| 52 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
+| 53 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 |
+| 54 | [不該](https://open.spotify.com/track/3mf3pzDv9DCO0QDVh7bUL4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [周杰倫的床邊故事](https://open.spotify.com/album/0ByfRfYXHHhGjsXEabfDmf) | 4:51 |
 | 55 | [我們到底算什麼](https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:47 |
-| 56 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
-| 57 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
-| 58 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
+| 56 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |
+| 57 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
+| 58 | [你不會一輩子的愛上我](https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [你不會一輩子的愛上我](https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif) | 3:17 |
 | 59 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 |
 | 60 | [天黑請閉眼](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
 | 61 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 70 | [沒有寫下的永遠 \(feat\. 林佳辰\)](https://open.spotify.com/track/7KTyRry7MEl3VI3BmDNDYo) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss), [林佳辰](https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg) | [沒有寫下的永遠 \(feat\. 林佳辰\)](https://open.spotify.com/album/0n3OZidzOVH3HJlCOvzrM2) | 3:48 |
 | 71 | [一直都在 \- 《我的麻吉4個鬼》電影主題曲](https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [一直都在 \(《我的麻吉4個鬼》電影主題曲\)](https://open.spotify.com/album/4QhjNVOF6Fjbmmr7ujQv7a) | 3:41 |
 | 72 | [九彎十八拐](https://open.spotify.com/track/6d1URgz5bJSIsCPsVyvItQ) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [玫瑰憑證2](https://open.spotify.com/album/017iTtfHd9gyexhcifiahe) | 3:46 |
-| 73 | [撕裂傷](https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [撕裂傷](https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox) | 3:28 |
-| 74 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
+| 73 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
+| 74 | [撕裂傷](https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [撕裂傷](https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox) | 3:28 |
 | 75 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
 
 Snapshot ID: `AAAAAPeZ9voNPilkucedKv++U4sAh/kW`

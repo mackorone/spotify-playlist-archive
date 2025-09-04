@@ -4,7 +4,7 @@
 
 > Beautifully dark, dramatic tracks.
 
-241 songs - 16 hr 14 min
+242 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,11 +49,12 @@
 | [Coward](https://open.spotify.com/track/1Ozlx95hUxwgUyToLlJK5o) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Oh, Hunter](https://open.spotify.com/album/5Qf3UWT1nUNaHi5zdiA0hd) | 4:12 | 2021-10-22 | 2022-07-24 |
 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 | 2022-07-11 | 2024-04-19 |
 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 | 2021-10-22 | 2025-06-10 |
-| [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 | 2021-10-22 |  |
+| [Dark](https://open.spotify.com/track/4wP7eUgKyufHkps0BuqcTc) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/3JEkU3iACus81448Un3ew4) | 5:07 | 2021-10-22 | 2025-09-04 |
 | [Dark](https://open.spotify.com/track/61KJrjXrNooCvc65CkSuTk) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Old Flint](https://open.spotify.com/album/35ydoAPPXGrPv88ho8teqo) | 5:07 | 2023-05-26 | 2024-03-13 |
 | [Dark Matter](https://open.spotify.com/track/7nqwfaHXFFcyK0EmbhfqLJ) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Dark Matter](https://open.spotify.com/album/1aecP3l50sQjJXdnjx08zO) | 4:36 | 2021-11-22 | 2025-07-24 |
 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 | 2021-10-22 |  |
 | [Deliverance](https://open.spotify.com/track/0lTmVz7A8YJM2fI9k1iMcV) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 3:50 | 2022-07-11 | 2024-02-08 |
+| [Deliverance](https://open.spotify.com/track/5ADqP9XM6BSIqgSka1sGyt) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Deliverance](https://open.spotify.com/album/1Hk5Phd1AMnsPJ9yuFOkPj) | 3:50 | 2024-07-05 |  |
 | [Depraved](https://open.spotify.com/track/0V1YLLguekkTID9Jd89ww2) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/7E90fKPdXwRGjvaiEQU6m2) | 3:53 | 2022-07-11 | 2024-04-19 |
 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 | 2021-10-22 | 2025-08-27 |
 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 | 2021-10-22 |  |

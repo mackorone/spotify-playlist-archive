@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🔥 Kannessa jambo.
 
-1,558 songs - 3 day 5 hr 45 min
+1,559 songs - 3 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,7 +548,7 @@
 | [ICH KOMME \- ROOS+BERG REMIX](https://open.spotify.com/track/7M2GyQTojcWBwrxnzjKF2Z) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [ROOS+BERG](https://open.spotify.com/artist/1zVFUjbWQLjADJsMUGV5Ao) | [ICH KOMME \(ROOS+BERG REMIX\)](https://open.spotify.com/album/23JHCY7HMBICNP4Whus87L) | 3:54 | 2025-04-17 | 2025-04-25 |
 | [Iconic](https://open.spotify.com/track/1w6TIY2vLkpGI9pXwfIfAd) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Baddie Issues](https://open.spotify.com/album/63dzT5CQsbVPk3uHgudT5z) | 1:58 | 2025-06-05 | 2025-08-01 |
 | [Idiootti](https://open.spotify.com/track/3FTvcYnaXNbnw9EtiFW5Zw) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Idiootti](https://open.spotify.com/album/1f0FEEfv06nH3MYO6kYzeI) | 3:13 | 2024-08-22 | 2024-09-13 |
-| [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 | 2025-08-14 |  |
+| [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 | 2025-08-14 | 2025-09-04 |
 | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/track/7cAH8MvS4629IUVVdcMAbB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [IF KARMA DOESN’T GET YOU \(I WILL\)](https://open.spotify.com/album/4X3Qq0xjXGarrm8gdKOc49) | 2:59 | 2025-04-24 | 2025-08-22 |
 | [If She Says Yes](https://open.spotify.com/track/4HBFLZHtKQ77TB9dpdY6IP) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [If She Says Yes](https://open.spotify.com/album/0SJIt1CupcgPPDgZT6kRxx) | 3:41 | 2024-10-24 | 2024-11-08 |
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-09-19 | 2024-09-27 |
@@ -1332,6 +1332,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-02-07 |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-07-02 | 2024-08-30 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-25 | 2024-08-23 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2025-04-04 |
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-06 | 2025-04-04 |

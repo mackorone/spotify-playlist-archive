@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,763 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,853 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Junior's Eyes \- 2009 Remaster](https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 6:41 |
 | 50 | [The Sign of the Southern Cross](https://open.spotify.com/track/778byl7ugZPdNhASJv9o6b) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 7:47 |
 
-Snapshot ID: `aLTiAAAAAAAlD46fK3Pvb3QLHL7vovdm`
+Snapshot ID: `aLYzgAAAAADht74wAYaWi223mqL49t5z`

@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 36 min
+118 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AWAKE](https://open.spotify.com/track/4gSCA9MWYMEiSnmuB0r2DY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:03 | 2022-06-09 | 2022-12-13 |
 | [Break it down](https://open.spotify.com/track/6cpmyYg4hrBOGDqmgblo8N) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [音色 / Break it down](https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm) | 4:09 | 2023-07-02 | 2023-07-06 |
 | [BURN](https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:04 | 2022-06-09 |  |
+| [Butter\-Fly \- From THE FIRST TAKE](https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL), [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [奥井雅美](https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU), [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Butter\-Fly \- From THE FIRST TAKE](https://open.spotify.com/album/3vmlgAoH6zQfcwEZRyKNfM) | 5:18 | 2025-09-04 |  |
 | [CALLING](https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:34 | 2022-06-09 |  |
 | [CHA\-LA HEAD\-CHA\-LA](https://open.spotify.com/track/55OTFD2MPHvPZrHYxGrjbg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:21 | 2022-06-09 |  |
 | [CHA\-LA HEAD\-CHA\-LA \-Official English Ver.\-](https://open.spotify.com/track/63anoIC8smdJE2BTPZv8q6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [HERO 〜希望の歌〜/CHA\-LA HEAD\-CHA\-LA](https://open.spotify.com/album/3rR3ZwTQCoVHqOO71IIweu) | 3:25 | 2022-09-24 | 2022-10-02 |
@@ -51,7 +52,7 @@
 | [Howling \-TV Size\-](https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL) | 1:31 | 2022-12-12 |  |
 | [I Don't Wanna Die in the Paradise](https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [I Don't Wanna Die in the Paradise](https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h) | 3:37 | 2022-12-15 |  |
 | [INNOSENSE](https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [INNOSENSE Special Edition](https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV) | 4:02 | 2022-06-09 |  |
-| [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-05-19 |  |
+| [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-05-19 | 2025-09-04 |
 | [LOUDER](https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [LOUDER](https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9) | 4:29 | 2024-08-19 |  |
 | [LOVE & JUSTICE](https://open.spotify.com/track/3iSiMTPBp6GTRURf73OIH8) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/CHOJIN](https://open.spotify.com/album/3s7ABr2FsbtrnrP27g7T1J) | 4:27 | 2024-09-01 | 2024-12-17 |
 | [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 | 2024-08-07 |  |

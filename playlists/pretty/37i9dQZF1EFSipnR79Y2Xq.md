@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 87 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 88 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,20 +80,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 70 | [Ya La Veo Dificil](https://open.spotify.com/track/6sugv8lSlcNzR8bHTkwcH5) | [Conjunto Azabache](https://open.spotify.com/artist/6DW1NmhrCCFdZbao86wchK) | [Ya La Veo Dificil](https://open.spotify.com/album/5877O9By2tixY4SVA2vS7T) | 2:50 |
 | 71 | [Igual O Más Que Yo](https://open.spotify.com/track/451JagrXN2O33jJZIJiIuE) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 3:26 |
 | 72 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
-| 73 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
-| 74 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
+| 73 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
+| 74 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 75 | [¿Quién Me Manda?](https://open.spotify.com/track/2GM4yoIPUCghVhCJZ9blmk) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Gracias Por Seguir Mis Pasos \(Deluxe\)](https://open.spotify.com/album/3f92Qny9CpoMlV7PWxeh1I) | 2:55 |
-| 76 | [Qué Caray](https://open.spotify.com/track/4jhxOkCsnIkJJd7KhYWzA7) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:59 |
-| 77 | [Malo Del Cuento](https://open.spotify.com/track/5zbJLpkPsonCIC4zJqlBg1) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:57 |
-| 78 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
-| 79 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
-| 80 | [TERCIA DE REINAS](https://open.spotify.com/track/5hplZBdE6niMvT5Ltlag1m) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:09 |
-| 81 | [PENDIENTE DE TU VIDA](https://open.spotify.com/track/13Qo7fL3VF0hlUy6Fetwu6) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Catarsis](https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v) | 3:18 |
-| 82 | [Me Gusta Pensar](https://open.spotify.com/track/3XCb0L1jsLbPgNg9WaCcxB) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:35 |
-| 83 | [EL PROFESOR](https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [EL PROFESOR](https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8) | 3:14 |
-| 84 | [Por Pensar](https://open.spotify.com/track/2qSgF60p3PSqv7JO8o9h54) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 |
-| 85 | [No Eras Tú, Era Yo](https://open.spotify.com/track/3UyMfum9jrotsNdhRSGcEF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 3:04 |
-| 86 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
-| 87 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
+| 76 | [Soldado Caído](https://open.spotify.com/track/4ZD37ImYkgFW7HkyjbdqjV) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 |
+| 77 | [Qué Caray](https://open.spotify.com/track/4jhxOkCsnIkJJd7KhYWzA7) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:59 |
+| 78 | [Malo Del Cuento](https://open.spotify.com/track/5zbJLpkPsonCIC4zJqlBg1) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:57 |
+| 79 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
+| 80 | [ESTÁN VIENDO](https://open.spotify.com/track/7A4iJgkr15ijTbjLKv0l82) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:43 |
+| 81 | [TERCIA DE REINAS](https://open.spotify.com/track/5hplZBdE6niMvT5Ltlag1m) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 3:09 |
+| 82 | [PENDIENTE DE TU VIDA](https://open.spotify.com/track/13Qo7fL3VF0hlUy6Fetwu6) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Catarsis](https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v) | 3:18 |
+| 83 | [Me Gusta Pensar](https://open.spotify.com/track/3XCb0L1jsLbPgNg9WaCcxB) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:35 |
+| 84 | [EL PROFESOR](https://open.spotify.com/track/0hWudpmS1MdReXWrNKZXGb) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [EL PROFESOR](https://open.spotify.com/album/7D4tzXeK5a2ITIXmSUdPL8) | 3:14 |
+| 85 | [Por Pensar](https://open.spotify.com/track/2qSgF60p3PSqv7JO8o9h54) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 |
+| 86 | [No Eras Tú, Era Yo](https://open.spotify.com/track/3UyMfum9jrotsNdhRSGcEF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 3:04 |
+| 87 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
+| 88 | [Modo Incognito](https://open.spotify.com/track/3Wbb2nniFlZ7Ve7F3G8jsk) | [Conjunto Luz Oficial](https://open.spotify.com/artist/7qddpEEqfSmLgGxpPjwXEs) | [Modo Incognito](https://open.spotify.com/album/0nyOIjBG8V9jZMdTCLtV0j) | 4:02 |
 
-Snapshot ID: `Ab7LiAAAAADx9FrrSO0xaGN13FNh0oYq`
+Snapshot ID: `Ab7RFAAAAAAzooQGna0ZusZD4pNniPp4`

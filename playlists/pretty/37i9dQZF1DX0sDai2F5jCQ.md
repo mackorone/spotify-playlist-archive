@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Lithe
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,536 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,545 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 5 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/1LVRE2ZRLNGdjCFmOa9kJa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/1e9jeC1QsETxbuVLJh9Iad) | 2:49 |
 | 6 | [Daddy’s Little Girl](https://open.spotify.com/track/2sBVHAVBUrfeeLkDLMWobS) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: All Eyez On Key](https://open.spotify.com/album/1xilmbBVUsZj9oXCLHS81F) | 2:33 |
 | 7 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
-| 8 | [SINCERELY YOURS \(feat KayCyy JIREH\)](https://open.spotify.com/track/2ldd9TlVZF8QxrJz0yfYjC) | [212 Angel](https://open.spotify.com/artist/6776xG5UejzJgpkg1V1Egw), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [JIREH](https://open.spotify.com/artist/1ZOsYbi6rT88iFgJx6qwTR) | [SINCERELY YOURS \(feat KayCyy JIREH\)](https://open.spotify.com/album/1JKGDUlgm0v92gS8nuEqIo) | 4:15 |
+| 8 | [SINCERELY YOURS](https://open.spotify.com/track/2ldd9TlVZF8QxrJz0yfYjC) | [212 Angel](https://open.spotify.com/artist/6776xG5UejzJgpkg1V1Egw), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [JIREH](https://open.spotify.com/artist/1ZOsYbi6rT88iFgJx6qwTR) | [SINCERELY YOURS](https://open.spotify.com/album/1JKGDUlgm0v92gS8nuEqIo) | 4:15 |
 | 9 | [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 |
 | 10 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 11 | [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 |

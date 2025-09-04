@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39286,
+  "num_followers": 39290,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAmkZCO4aI78xgYEgZd4SLM",
+  "snapshot_id": "aLYzgAAAAACD6TQ8TWOtZrzSQdQ42faz",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Fuck The D To The A",
+      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throw Fits (feat. City Girls & Juvenile)",
         "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 203930,
       "name": "Throw Fits (feat. City Girls & Juvenile)",
       "url": "https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Fuck The D To The A",
-      "url": "https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "Pi\u00f1ata",
-      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 165517,
       "name": "Flashy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
     },
     {
       "added_at": null,

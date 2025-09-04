@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,682 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,685 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 21 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 |
 | 22 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 |
 | 23 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
-| 24 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
-| 25 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 24 | [Steeeam](https://open.spotify.com/track/09RamrocZneYcLYLRIxYha) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:50 |
+| 25 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 26 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 |
 | 27 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 28 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 47 | [Savage Daughter](https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx) | [Sarah Hester Ross](https://open.spotify.com/artist/3G5WkIXbDxdNoGWHZbXDjI) | [Savage Daughter](https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi) | 2:58 |
 | 48 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
 | 49 | [Saw You in a Dream](https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You in a Dream](https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h) | 3:28 |
-| 50 | [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 |
-| 51 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
+| 50 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
+| 51 | [Matador](https://open.spotify.com/track/6idR1ncIgw5X6Nj2DUR6tC) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Matador](https://open.spotify.com/album/7375mSEJBe8UKKzwMDzbQd) | 3:47 |
 | 52 | [House of the Rising Sun](https://open.spotify.com/track/2tB5sTm4Lb8e6U0dNGuqtz) | [Lauren O'Connell](https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns) | [Covers](https://open.spotify.com/album/0ZuL0j8jVfNydM5P4Zzxix) | 3:05 |
 | 53 | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/track/2sVzTKVEy6zDcizmtFOjtg) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [The Rider \(from "The Lord of the Rings: The War of the Rohirrim"\)](https://open.spotify.com/album/0FZzoS6y3uDXa0H51E6ehn) | 3:53 |
 | 54 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
 | 55 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
 | 56 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
-| 57 | [Ringleader](https://open.spotify.com/track/61KapusHaUgQ7Zhv3GxoZO) | [Public Memory](https://open.spotify.com/artist/1v9FPBHwuI4FjR7ewOifmJ) | [Wuthering Drum](https://open.spotify.com/album/035KrNkVSdgjUkIBIZkeT9) | 3:14 |
-| 58 | [Practical Magic](https://open.spotify.com/track/356poNyArJ68eErTR07Xqq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 3:57 |
+| 57 | [Practical Magic](https://open.spotify.com/track/356poNyArJ68eErTR07Xqq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 3:57 |
+| 58 | [Ringleader](https://open.spotify.com/track/61KapusHaUgQ7Zhv3GxoZO) | [Public Memory](https://open.spotify.com/artist/1v9FPBHwuI4FjR7ewOifmJ) | [Wuthering Drum](https://open.spotify.com/album/035KrNkVSdgjUkIBIZkeT9) | 3:14 |
 | 59 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
 | 60 | [Some things Cosmic](https://open.spotify.com/track/4TD6fj03dGwfDDrb6UWmy8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Strange Cacti](https://open.spotify.com/album/3aKb3OOjVyEUHda8q7futV) | 2:54 |
 | 61 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |

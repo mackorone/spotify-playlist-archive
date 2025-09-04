@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1346234,
+  "num_followers": 1346592,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 139226,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 229360,
       "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
       "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Most of the Animals",
-        "url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA"
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 269906,
-      "name": "House of the Rising Sun",
-      "url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1399,6 +1383,22 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Most of the Animals",
+        "url": "https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Greatest Hits / Tequila",
-        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 135240,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1483,18 +1483,34 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+        "name": "Greatest Hits / Tequila",
+        "url": "https://open.spotify.com/album/7dcrUMOet5HIHYiDaVk89R"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
         }
       ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+      "duration_ms": 135240,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5gJKsGij5oGt5H5RSFYXPa"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "That'll Be The Day",
+        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "That'll Be The Day",
+      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1559,22 +1575,6 @@
       "duration_ms": 159853,
       "name": "Twistin' the Night Away",
       "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Best of Sam Cooke",
         "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 158013,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5Iev69m1Jnf7oc79VvPjpd"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sweet Soul Music",
-        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 157173,
       "name": "Up on the Roof",
       "url": "https://open.spotify.com/track/7cNRqg0lbiqBaGeOlA4AEU"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sweet Soul Music",
+        "url": "https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Da Doo Ron Ron: The Very Best of The Crystals",
         "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Hey, Brother Pour The Wine",
         "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
-      },
-      "artists": [
-        {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of The Surfaris",
-        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
-      },
-      "artists": [
-        {
-          "name": "The Surfaris",
-          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Wipe Out - Hit Version / Extended Ending",
-      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 140533,
       "name": "Tears on My Pillow",
       "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of The Surfaris",
+        "url": "https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Wipe Out - Hit Version / Extended Ending",
+      "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
     },
     {
       "added_at": "2024-07-12 06:11:58",

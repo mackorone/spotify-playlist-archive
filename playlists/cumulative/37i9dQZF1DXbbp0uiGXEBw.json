@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Juky San",
+  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Olew",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -1120,6 +1120,24 @@
       "duration_ms": 272864,
       "name": "C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/0dxfg8dLCL3ox7qj8QmFaK"
+    },
+    {
+      "album": {
+        "name": "C\u00f4 \u0110\u01a1n Nh\u01b0 Em",
+        "url": "https://open.spotify.com/album/3oPsqQJB8nUXulCrTFvKYp"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239966,
+      "name": "C\u00f4 \u0110\u01a1n Nh\u01b0 Em",
+      "url": "https://open.spotify.com/track/6koUxplkqtTXwXIftSEqny"
     },
     {
       "album": {
@@ -3065,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "L\u00f9i L\u1ea1i L\u1ea5y \u0110\u00e0",
+        "url": "https://open.spotify.com/album/1iuTmrPqOZxbeY6u3dCLP0"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        },
+        {
+          "name": "Th\u1ed1ng",
+          "url": "https://open.spotify.com/artist/4XbvXU1QZ22KHcaDNy3XYX"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "L\u00f9i L\u1ea1i L\u1ea5y \u0110\u00e0",
+      "url": "https://open.spotify.com/track/7uEDYqrHJ6Ab5tPz5pNhxy"
+    },
+    {
+      "album": {
         "name": "V\u0169 Tr\u1ee5 C\u00f2 Bay (Deluxe Version)",
         "url": "https://open.spotify.com/album/626xyudaD4ySeXlaelOujb"
       },
@@ -3912,7 +3952,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 235744,
       "name": "Ng\u1ecf L\u1eddi",
       "url": "https://open.spotify.com/track/59O63MgRx1zhKVPmxrFdY9"
@@ -5082,7 +5122,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 176111,
       "name": "Tan ra \u878d",
       "url": "https://open.spotify.com/track/3cGNLGsGBflA9AbMjAVwZ1"

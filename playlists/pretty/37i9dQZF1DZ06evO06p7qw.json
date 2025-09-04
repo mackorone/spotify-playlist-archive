@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 183323,
+  "num_followers": 183386,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAVaMaJKNC7rIah6ifn8zH4",
+  "snapshot_id": "aLYzgAAAAAC/u0pYIPp3Rn/RgzESmWUW",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 195970,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOGOT\u00c1",
         "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 228562,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2E9vDIebWLFDADVkNfXYU4"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 195970,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5lLArVpMg2z8l3qggp7zmD"
     },
     {
       "added_at": null,

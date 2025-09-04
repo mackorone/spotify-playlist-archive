@@ -977,6 +977,36 @@
     },
     {
       "album": {
+        "name": "Calma, Senta, Relaxa",
+        "url": "https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq"
+      },
+      "artists": [
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ Jap\u00e3o",
+          "url": "https://open.spotify.com/artist/3xoA3XlugnMbcIurjFJp93"
+        },
+        {
+          "name": "Kamoto",
+          "url": "https://open.spotify.com/artist/024MAhdqfNuVvJbpOvkZA9"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124111,
+      "name": "Calma, Senta, Relaxa",
+      "url": "https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh"
+    },
+    {
+      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
       },
@@ -3158,7 +3188,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 146975,
       "name": "Novo Movimento (Tu-Tum)",
       "url": "https://open.spotify.com/track/3Ymy0gjO9ZG6l2a5OvoMYe"
@@ -3920,7 +3950,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 225600,
       "name": "Purple Hat - Adam Sellouk & Doriann Remix",
       "url": "https://open.spotify.com/track/22cKiNgK6V3nenOrBxRhr6"
@@ -3964,7 +3994,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 175546,
       "name": "Que Dia",
       "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADzma9R6I8CIEzSASERM5LE",
+  "snapshot_id": "aLYzgAAAAACwPFA80aKX9LmFAtQSC1CL",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polar: Dusk",
+        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 120418,
+      "name": "Monolith at Dusk",
+      "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 173927,
       "name": "Coda",
       "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Polar: Dusk",
-        "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 120418,
-      "name": "Monolith at Dusk",
-      "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 183240,
-      "name": "V\u00edsa",
-      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
+      "duration_ms": 173730,
+      "name": "S\u00e1lmur",
+      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 173730,
-      "name": "S\u00e1lmur",
-      "url": "https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf"
+      "duration_ms": 183240,
+      "name": "V\u00edsa",
+      "url": "https://open.spotify.com/track/3gTPuppNx1qfT0q8GcG6sC"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 171564,
-      "name": "Fantas\u00eda Variation",
-      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 171564,
+      "name": "Fantas\u00eda Variation",
+      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polar: Dusk",
         "url": "https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td"
       },
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 98000,
-      "name": "Hind - Voiceless - Harpa Sessions",
-      "url": "https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

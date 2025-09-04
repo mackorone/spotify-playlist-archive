@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,105 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,125 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 35 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
 | 36 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
 | 37 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
-| 38 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
-| 39 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
-| 40 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
+| 38 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
+| 39 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
+| 40 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 41 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
 | 42 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
 | 43 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
 | 44 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
-| 45 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 |
-| 46 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
+| 45 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
+| 46 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 |
 | 47 | [Man in the Mirror \- 2012 Remaster](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 5:18 |
 | 48 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 |
 | 49 | [The Reflex \- Single Version; 2010 Remaster](https://open.spotify.com/track/4sz1Ng2Cgidfqqiy0pNL6R) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Seven and the Ragged Tiger \(Deluxe Edition\)](https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1) | 4:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 57 | [A Good Heart](https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX) | [Feargal Sharkey](https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T) | [Feargal Sharkey](https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N) | 4:41 |
 | 58 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 3:51 |
 | 59 | [Jump \- 2004 Remaster](https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Very Best of Van Halen \(UK Release\)](https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o) | 4:04 |
-| 60 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
-| 61 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
+| 60 | [Live Is Life \- Live](https://open.spotify.com/track/5AUByBgSqf3a9Sgtp142D2) | [Opus](https://open.spotify.com/artist/5pf1217gT8zcjOFc7oMi47) | [Millennium Edition](https://open.spotify.com/album/4y5NvuKT134WXPTQBdCRLG) | 4:17 |
+| 61 | [Why Tell Me Why](https://open.spotify.com/track/06c2L1gFGjdtqIDZ9lleH5) | [Anita Meyer](https://open.spotify.com/artist/7xxVm0cM4x7TUBadZQuz3S) | [Best Of Anita Meyer](https://open.spotify.com/album/5MY0wd1GZZxMSMZ9hRzTVV) | 3:33 |
 | 62 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 63 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
 | 64 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |

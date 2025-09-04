@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 193,518 likes - 204 songs - 11 hr 3 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 193,487 likes - 204 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

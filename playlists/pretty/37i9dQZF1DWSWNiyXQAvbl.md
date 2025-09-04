@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 
 > Ease back in time with the help of these seventies classics...
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,481 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,506 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWNiyXQAvbl.md) - [plain]
 | 66 | [Wonderful Tonight](https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5L3heXJfh1liiYsZyFZ22G) | 3:45 |
 | 67 | [Stumblin' In](https://open.spotify.com/track/2NKZe36oAGEpBx26OoBFLj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ), [Chris Norman](https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc) | [The Very Best of Suzi Quatro](https://open.spotify.com/album/3NsZev3pxengJeEoTeuzGb) | 3:59 |
 | 68 | [Take A Chance On Me](https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5rHIYv9tgmZjvvMOMhho2x) | 4:03 |
-| 69 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
-| 70 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
+| 69 | [Jamming](https://open.spotify.com/track/6gOirCUz62z0mFhCJ6P5KC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG) | 3:31 |
+| 70 | [Solsbury Hill](https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Vanilla Sky \(Music from the Motion Picture\)](https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7) | 4:22 |
 | 71 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 72 | [Golden Years](https://open.spotify.com/track/0gOx4r5a1KkRTZ4uZDilrb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Station To Station \(US Version\)](https://open.spotify.com/album/53VB3DfAESTKLaflLk58Jo) | 4:02 |
 | 73 | [Easy](https://open.spotify.com/track/1DnSZ9M8uvX0UebR3dmBNI) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/0TcKS5p50aNE2c0Zuhs3Zl) | 4:16 |

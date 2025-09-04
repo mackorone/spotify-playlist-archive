@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 210177,
+  "num_followers": 210234,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Appleby",
+          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Free Room (feat. Appleby)",
+      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2025-08-29 09:29:07",
+      "album": {
         "name": "Easier Done Than Said",
         "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
       },
@@ -487,26 +507,6 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Appleby",
-          "url": "https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Free Room (feat. Appleby)",
-      "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
-    },
-    {
-      "added_at": "2025-08-29 09:29:07",
-      "album": {
         "name": "Orenjii",
         "url": "https://open.spotify.com/album/02fMlx2G9yykagmpDGzYRW"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 228842,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
-    },
-    {
-      "added_at": "2025-08-29 09:29:07",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 229477,
       "name": "There Will Be No Crying",
       "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
+    },
+    {
+      "added_at": "2025-08-29 09:29:07",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 228842,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
     },
     {
       "added_at": "2025-08-29 09:29:07",
@@ -751,18 +751,26 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
-        "name": "Fade Blue (11pm)",
-        "url": "https://open.spotify.com/album/6WjNXKqWiFExl1vtgLnH2j"
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
         }
       ],
-      "duration_ms": 159753,
-      "name": "Fade Blue (11pm)",
-      "url": "https://open.spotify.com/track/6MqbcgkeYKBqWxgQkEVtoN"
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     },
     {
       "added_at": "2025-08-29 09:29:07",
@@ -799,30 +807,6 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
-        "name": "Good Care",
-        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "asiatic.wav",
-          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Good Care",
-      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
-    },
-    {
-      "added_at": "2025-08-29 09:29:07",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+    },
+    {
+      "added_at": "2025-08-29 09:29:07",
+      "album": {
+        "name": "Fade Blue (11pm)",
+        "url": "https://open.spotify.com/album/6WjNXKqWiFExl1vtgLnH2j"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Fade Blue (11pm)",
+      "url": "https://open.spotify.com/track/6MqbcgkeYKBqWxgQkEVtoN"
     },
     {
       "added_at": "2025-08-29 09:29:07",
@@ -883,30 +883,6 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
-        "name": "Djesse Vol. 3",
-        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "All I Need (with Mahalia & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
-    },
-    {
-      "added_at": "2025-08-29 09:29:07",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -939,6 +915,30 @@
     {
       "added_at": "2025-08-29 09:29:07",
       "album": {
+        "name": "Djesse Vol. 3",
+        "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "All I Need (with Mahalia & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
+    },
+    {
+      "added_at": "2025-08-29 09:29:07",
+      "album": {
         "name": "Enchant\u00e9",
         "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 166279,
       "name": "All In",
       "url": "https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq"
+    },
+    {
+      "added_at": "2025-08-29 09:29:07",
+      "album": {
+        "name": "Found A Light (Beale Street)",
+        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        }
+      ],
+      "duration_ms": 436130,
+      "name": "Found A Light (Beale Street)",
+      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
     },
     {
       "added_at": "2025-08-29 09:29:07",
@@ -1007,26 +1027,6 @@
       "duration_ms": 181714,
       "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
       "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
-    },
-    {
-      "added_at": "2025-08-29 09:29:07",
-      "album": {
-        "name": "Found A Light (Beale Street)",
-        "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "V.C.R",
-          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
-        }
-      ],
-      "duration_ms": 436130,
-      "name": "Found A Light (Beale Street)",
-      "url": "https://open.spotify.com/track/09Btkoj4YIm36KVJqomiCE"
     },
     {
       "added_at": "2025-08-29 09:29:07",

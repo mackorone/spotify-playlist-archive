@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,576 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,580 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 |
 | 50 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Feels So Good](https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA) | 2:23 |
 
-Snapshot ID: `aLTiAAAAAAAugePXs9mSxGzLwxw8DEd0`
+Snapshot ID: `aLYzgAAAAABAoXVujSG+HXzUHrkxkeob`

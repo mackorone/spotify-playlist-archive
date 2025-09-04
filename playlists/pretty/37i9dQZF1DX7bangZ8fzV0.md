@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Chris Steyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,619 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,679 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 56 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 |
 | 57 | [Lag](https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Lag](https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k) | 3:03 |
 | 58 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 |
-| 59 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 |
-| 60 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
+| 59 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
+| 60 | [Die Afrikaner Maak So](https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Die Afrikaner Maak So](https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS) | 2:59 |
 | 61 | [Lek My Lippe Af](https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Lek My Lippe Af](https://open.spotify.com/album/4U2E0tpYsGCAMYn9dy7lPn) | 3:13 |
 | 62 | [Net Myne](https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Net Myne](https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0) | 3:02 |
 | 63 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 77 | [Vlam In Die Wind](https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Vlam In Die Wind](https://open.spotify.com/album/31Wha9yTzzC6xpxqmGfYY8) | 3:25 |
 | 78 | [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 |
 | 79 | [Flippentjop](https://open.spotify.com/track/7gwPHDihtywaO2MdQTHhzB) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Flippentjop](https://open.spotify.com/album/6p68yOlPMmVanerB1QOHUn) | 3:13 |
-| 80 | [Stof Skop](https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx) | [Jan\-Mattys](https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8) | [Stof Skop](https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx) | 3:15 |
+| 80 | [Ouens Soos Ek](https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0) | [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Ouens Soos Ek](https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab) | 2:43 |
 
 Snapshot ID: `AAAAAGN+uudpL+oR8PaXzs650jkEfSrF`

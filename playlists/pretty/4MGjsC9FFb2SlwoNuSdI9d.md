@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 36,300 likes - 128 songs - 6 hr 54 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 36,297 likes - 129 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/4MGjsC9FFb2SlwoNuSdI9d.md) - [plain]
 | 126 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 |
 | 127 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 |
 | 128 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 |
+| 129 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 
-Snapshot ID: `AAARiY47nMIm/vKckbpHBdk029vHQB42`
+Snapshot ID: `AAARisz3iaDvI9fhTGHFXaxalzy7Scza`

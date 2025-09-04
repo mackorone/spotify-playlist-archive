@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: AURORA
 
-567 songs - 1 day 10 hr 27 min
+568 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2022-03-08 |  |
 | [Crazy](https://open.spotify.com/track/4P5tPq60W4LLYcoXLgWlYx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Crazy](https://open.spotify.com/album/4aGTpjVc03JPP4phPm3e90) | 4:19 | 2021-09-03 | 2022-04-17 |
 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 | 2022-03-08 | 2022-07-25 |
-| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-26 |  |
+| [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-26 | 2025-09-04 |
 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 | 2022-03-08 | 2022-04-17 |
 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 | 2025-06-26 |  |
 | [Dance, Dance, Dance](https://open.spotify.com/track/2HV5u6sbU4YelVFiqyowYJ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/0XJvgOnbhbOf4PDjwy6u1x) | 3:41 | 2022-03-08 | 2022-04-14 |
@@ -145,6 +145,7 @@
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2023-03-02 |  |
 | [Disappear](https://open.spotify.com/track/7IAC8d1MpiYgNqIdkVNnPo) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 2:59 | 2021-09-03 | 2022-07-28 |
 | [Doesn't Matter](https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Doesn't Matter](https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV) | 3:23 | 2022-02-11 | 2022-07-29 |
+| [Doing Now](https://open.spotify.com/track/208Oy9pWhaTlCIcSEtpRAL) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Doing Now](https://open.spotify.com/album/4GUAIskDayvcKmp5VKAIxH) | 3:11 | 2025-09-02 |  |
 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 | 2024-07-24 | 2025-05-03 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-13 |  |
 | [Don't Judge Me](https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Don't Judge Me](https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm) | 3:33 | 2021-09-03 | 2022-02-12 |

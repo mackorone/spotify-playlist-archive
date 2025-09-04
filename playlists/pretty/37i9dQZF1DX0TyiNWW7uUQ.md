@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,377 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,739 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

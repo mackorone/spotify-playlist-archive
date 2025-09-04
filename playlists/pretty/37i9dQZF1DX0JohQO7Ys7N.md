@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,300 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,326 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
+| 1 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
 | 2 | [Rudia](https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Rudia](https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk) | 3:20 |
 | 3 | [Hale](https://open.spotify.com/track/3eGBctTtCpO4qr7SxCJPdW) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Hale](https://open.spotify.com/album/60dvHw4f6N9YnMocVWY1Cx) | 3:35 |
 | 4 | [Niangalie](https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Niangalie](https://open.spotify.com/album/6gNGKlPgPNgxnqeF8An26m) | 3:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 429366,
+  "num_followers": 429443,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,38 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
+      },
+      "artists": [
+        {
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
+        }
+      ],
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
+      },
+      "artists": [
+        {
+          "name": "New Fossils",
+          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
         "name": "The Lion Turtle",
         "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W"
-      },
-      "artists": [
-        {
-          "name": "New Fossils",
-          "url": "https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
-        "name": "Came and Went",
-        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
-      },
-      "artists": [
-        {
-          "name": "Geoffrey Dean",
-          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
-        }
-      ],
-      "duration_ms": 335196,
-      "name": "Came and Went",
-      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
         "name": "Going Home",
         "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 204733,
       "name": "Abiyoyo",
       "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
+        "name": "Came and Went",
+        "url": "https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Dean",
+          "url": "https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE"
+        }
+      ],
+      "duration_ms": 335196,
+      "name": "Came and Went",
+      "url": "https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
-        }
-      ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 280011,
       "name": "Blues Arabesque",
       "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 422506,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
     },
     {
       "added_at": "2025-08-22 13:28:43",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2025-08-22 13:28:43",
       "album": {
-        "name": "Some Gospel According to Matthew",
-        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "Some Gospel According to Matthew - Live",
-      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
-    },
-    {
-      "added_at": "2025-08-22 13:28:43",
-      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 482693,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+    },
+    {
+      "added_at": "2025-08-22 13:28:43",
+      "album": {
+        "name": "Some Gospel According to Matthew",
+        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 323426,
+      "name": "Some Gospel According to Matthew - Live",
+      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
     },
     {
       "added_at": "2025-08-22 13:28:43",

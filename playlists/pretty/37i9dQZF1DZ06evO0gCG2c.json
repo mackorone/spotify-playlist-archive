@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 326187,
+  "num_followers": 326220,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACskcbHaa3z+HZNw+OlczAE",
+  "snapshot_id": "aLYzgAAAAADmrYowC/2eh1XGrCNWBiRo",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Right Now (Na Na Na)",
-      "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw"
     },
     {
       "added_at": null,

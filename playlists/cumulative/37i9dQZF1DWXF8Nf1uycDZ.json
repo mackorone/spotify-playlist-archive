@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-08",
-  "description": "This week: can you guess this weeks theme? Cover: Black Eyed Peas",
+  "description": "This week: business as usual. Cover: Fifth Harmony",
   "name": "Throwback Thursday (2)",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 190866,
       "name": "(Is This The Way To) Amarillo",
       "url": "https://open.spotify.com/track/3FJ3wfXtlXhY4a11OnwXHf"
@@ -38,10 +38,28 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 224440,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+    },
+    {
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "album": {
@@ -60,6 +78,42 @@
       "duration_ms": 281453,
       "name": "99 Red Balloons (Club Mix)",
       "url": "https://open.spotify.com/track/0aEgfx6Ar5IZG6TrWeGH0Q"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "A Hard Day's Night - Remastered 2015",
+      "url": "https://open.spotify.com/track/1pctwlBtIcKIjQMzsVcGHB"
+    },
+    {
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
     },
     {
       "album": {
@@ -110,7 +164,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 213800,
       "name": "Are You Gonna Be My Girl",
       "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
@@ -128,7 +182,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
@@ -146,7 +200,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 210500,
       "name": "Are You Ready For Love - '79 Version Radio Edit",
       "url": "https://open.spotify.com/track/3YdJzolD4HFvWGioELW2pC"
@@ -186,6 +240,24 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313360,
+      "name": "Back in Business",
+      "url": "https://open.spotify.com/track/00akbmcZrMFuZ15AzIyC5T"
     },
     {
       "album": {
@@ -294,6 +366,64 @@
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "album": {
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
+    },
+    {
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "album": {
@@ -503,6 +633,60 @@
     },
     {
       "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/6VLEVV3KmHCiGHrY9qlXqB"
+    },
+    {
+      "album": {
+        "name": "Moog For Love",
+        "url": "https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285147,
+      "name": "BOSS - Radio Edit",
+      "url": "https://open.spotify.com/track/3M6GAqPB1SCfzS4CUbo13p"
+    },
+    {
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -579,6 +763,42 @@
     },
     {
       "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221775,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/4WcS64YPVtL5pvUwxqdnKV"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251720,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+    },
+    {
+      "album": {
         "name": "The Essential Michael Jackson",
         "url": "https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO"
       },
@@ -590,7 +810,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 230306,
       "name": "Can You Feel It - Single Version",
       "url": "https://open.spotify.com/track/6PZDXTlPfO7nBN1Cd7c3zv"
@@ -644,7 +864,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 210293,
       "name": "Could It Be Magic - Rapino Radio Mix",
       "url": "https://open.spotify.com/track/7rdrTM31qw9cmlM9XyxriK"
@@ -680,10 +900,28 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
+    },
+    {
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
+      },
+      "artists": [
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
       "album": {
@@ -698,7 +936,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 219533,
       "name": "Do You Know? (The Ping Pong Song)",
       "url": "https://open.spotify.com/track/5Utz5NBlQnUTpiy56fUHfh"
@@ -716,7 +954,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 217120,
       "name": "Do You Really Like It? - Radio Edit",
       "url": "https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp"
@@ -734,7 +972,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 215000,
       "name": "Do You Want To",
       "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
@@ -756,7 +994,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/4o3cq2szX7THGyZDsWtp59"
@@ -1019,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "album": {
         "name": "Sing to the Moon",
         "url": "https://open.spotify.com/album/6sWQlfb6ju6jG0z4oFPgVn"
       },
@@ -1102,7 +1362,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 202133,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/4JnoRnq3D9SJJ0y5u8U4ZM"
@@ -1138,7 +1398,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 245066,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4Oo9lMrbGnTKuEvztT5ibG"
@@ -1160,7 +1420,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 287760,
       "name": "How Do U Want It",
       "url": "https://open.spotify.com/track/4YOIBXTXMNF8Qxz2dzTwjU"
@@ -1178,7 +1438,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 269696,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
@@ -1200,6 +1460,42 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5D2CHiTlb8MXWJsZWXjkZf"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237613,
+      "name": "Hustler's Ambition",
+      "url": "https://open.spotify.com/track/7t67S1XHT4jU0GCkruG34R"
+    },
+    {
+      "album": {
+        "name": "Port Of Miami",
+        "url": "https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "Hustlin'",
+      "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
     },
     {
       "album": {
@@ -1348,7 +1644,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 185813,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/64rOSkztPrTECtWTB0F2OD"
@@ -1366,7 +1662,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 231546,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh"
@@ -1384,7 +1680,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 199080,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6kvptOSCblGW40hRpT0Yvj"
@@ -1507,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Different Light",
+        "url": "https://open.spotify.com/album/2ta5ItEJ00a6xgQ601xgSd"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Manic Monday",
+      "url": "https://open.spotify.com/track/7Di7t9yGoxdZRLAt5a4pi0"
+    },
+    {
+      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -1540,6 +1854,176 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/61PSy6UJB26jzBvnLOgLzI"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/5dAauIxGC3TyZRGIsOwWDu"
+    },
+    {
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+    },
+    {
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382834,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Money Honey",
+      "url": "https://open.spotify.com/track/6gknJVkbQb8jkAXbXx0SYA"
+    },
+    {
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192670,
+      "name": "Money On My Mind",
+      "url": "https://open.spotify.com/track/5XX9oGZfgKMXdHnEp4t2JB"
+    },
+    {
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270680,
+      "name": "Money Power Glory",
+      "url": "https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink"
+    },
+    {
+      "album": {
+        "name": "ABBA Gold",
+        "url": "https://open.spotify.com/album/2cKZfaz7GiGtZEeQNj1RyR"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/29FNeqjOV2kPWGS55qhtGB"
     },
     {
       "album": {
@@ -1637,6 +2121,28 @@
     },
     {
       "album": {
+        "name": "Magic 2",
+        "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232017,
+      "name": "Office Hours (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
+    },
+    {
+      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -1670,6 +2176,24 @@
       "duration_ms": 270760,
       "name": "One In A Million",
       "url": "https://open.spotify.com/track/3j64qSBGg8zPn4zRa9Wok1"
+    },
+    {
+      "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Opportunities (Let's Make Lots of Money)",
+      "url": "https://open.spotify.com/track/5Tjl3JKE16Wysns0mpfkZT"
     },
     {
       "album": {
@@ -1742,6 +2266,64 @@
       "duration_ms": 238106,
       "name": "Pretty in Pink",
       "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
+    },
+    {
+      "album": {
+        "name": "Kiss Land",
+        "url": "https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368720,
+      "name": "Professional",
+      "url": "https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp"
+    },
+    {
+      "album": {
+        "name": "A Tori Amos Collection: Tales of a Librarian",
+        "url": "https://open.spotify.com/album/5vxM3v3hgNTQUmSu3LFxTa"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227240,
+      "name": "Professional Widow - Armand's Star Trunk Funk Mix",
+      "url": "https://open.spotify.com/track/7pRDFBYPmUWBFnpwDhzqGm"
+    },
+    {
+      "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327400,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6gJdDnF2TzfA1WPMXuCa3x"
     },
     {
       "album": {
@@ -1853,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/04g654gY6TmfogGWQLxR4a"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0ALV8l7nqbjwSZ2w9hS2CI"
+    },
+    {
+      "album": {
         "name": "T. Rex (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1CLOmveNnxd6UiamPvY8GI"
       },
@@ -1911,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "She Works Hard For The Money",
+        "url": "https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320840,
+      "name": "She Works Hard For The Money",
+      "url": "https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy"
+    },
+    {
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -1922,7 +2544,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 188986,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
@@ -2019,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "Started From the Bottom",
+      "url": "https://open.spotify.com/track/3dgQqOiQ9fCKVhNOedd2lf"
+    },
+    {
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -2034,6 +2674,24 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "album": {
@@ -2070,6 +2728,42 @@
       "duration_ms": 265106,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
+    },
+    {
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "album": {
@@ -2178,7 +2872,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 309853,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/2NmpePwcU5msK7cYZBWiBt"
@@ -2200,7 +2894,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 220682,
       "name": "What About Us",
       "url": "https://open.spotify.com/track/6mV1VU6WeVi7IqFrAi2D2e"
@@ -2218,7 +2912,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 175490,
       "name": "What Becomes of the Brokenhearted",
       "url": "https://open.spotify.com/track/4yi0B3N2Av50GNuqbwAIU6"
@@ -2236,7 +2930,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 270373,
       "name": "What Is Love - 7\" Mix",
       "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
@@ -2254,7 +2948,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 175399,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1JeRFLoIpWHUgYogZCNUPY"
@@ -2272,7 +2966,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 221226,
       "name": "What You Waiting For?",
       "url": "https://open.spotify.com/track/0oEFdKyCW7zMSIHazc8Yit"
@@ -2290,7 +2984,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 232600,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/7av4raprzW2bWdjyAaH3hz"
@@ -2308,7 +3002,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 226880,
       "name": "What's Love Got to Do with It",
       "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
@@ -2334,7 +3028,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 267093,
       "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
       "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
@@ -2352,7 +3046,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 149413,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/55YCBz4tXI6IXvkTtNIzJL"
@@ -2374,7 +3068,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 263173,
       "name": "What's My Name?",
       "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
@@ -2392,7 +3086,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 124040,
       "name": "What's New Pussycat?",
       "url": "https://open.spotify.com/track/65xu7NBwFJJUXmAEeRs1U0"
@@ -2410,7 +3104,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 221253,
       "name": "Whatcha Say",
       "url": "https://open.spotify.com/track/7xkQdy0cy5ymoWT7nedvLz"
@@ -2428,7 +3122,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 151440,
       "name": "Where Did Our Love Go - Stereo Version",
       "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
@@ -2446,7 +3140,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR"
@@ -2464,7 +3158,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 283533,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/25ys1lEf3z6lvkDEE5mG0R"
@@ -2500,7 +3194,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 246320,
       "name": "Who Am I (What's My Name)?",
       "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
@@ -2518,7 +3212,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 378706,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/3x2bXiU0o4WbsPkawXlfDA"
@@ -2536,7 +3230,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
@@ -2554,7 +3248,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 208493,
       "name": "Who Knew",
       "url": "https://open.spotify.com/track/7uYl7xgDeAOHP98obvrJvB"
@@ -2572,7 +3266,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 198400,
       "name": "Who Let The Dogs Out",
       "url": "https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo"
@@ -2594,7 +3288,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 201040,
       "name": "Who's That Chick? (feat. Rihanna)",
       "url": "https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa"
@@ -2612,7 +3306,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 282066,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/5hALSggfcyvBNLUHY8pvZd"
@@ -2630,7 +3324,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 265000,
       "name": "Why Does It Always Rain on Me?",
       "url": "https://open.spotify.com/track/2ESrrtLRj1omqqsnGiyafo"
@@ -2648,7 +3342,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 264826,
       "name": "Why Does My Heart Feel So Bad?",
       "url": "https://open.spotify.com/track/3MZQF2Qv9ehvgT3Uxm61jo"
@@ -2666,7 +3360,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 217506,
       "name": "Why Don't You Love Me",
       "url": "https://open.spotify.com/track/6UyOsmNg7H1YfR1NYuVvBu"
@@ -2684,7 +3378,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -2702,7 +3396,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 200906,
       "name": "Why?",
       "url": "https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU"
@@ -2720,7 +3414,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 162760,
       "name": "Will You Still Love Me Tomorrow",
       "url": "https://open.spotify.com/track/33AeObqTI5RW6IhHmIyxVT"
@@ -2745,6 +3439,248 @@
     },
     {
       "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
+    },
+    {
+      "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223196,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/7F5Mmc4DlX6x5tW3u5zxwt"
+    },
+    {
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "album": {
+        "name": "Ms. Kelly: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6mwFFBME5LCvDKyD9B0jZt"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191693,
+      "name": "Work - Freemasons Radio Edit",
+      "url": "https://open.spotify.com/track/4h9TZLHS7AZ30pt5c1o5Em"
+    },
+    {
+      "album": {
+        "name": "Britney Jean (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247960,
+      "name": "Work Bitch",
+      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
+    },
+    {
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216575,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH"
+    },
+    {
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246066,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/412bK8XW5X5Wvy3UzqNcHq"
+    },
+    {
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
+    },
+    {
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229715,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6"
+    },
+    {
+      "album": {
+        "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
+        "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158640,
+      "name": "Workin' for a Livin'",
+      "url": "https://open.spotify.com/track/1GbqmRw9pqTVxA1GgIFX7e"
+    },
+    {
+      "album": {
+        "name": "Hi, It's Me",
+        "url": "https://open.spotify.com/album/5eKuModdAdZRmc51241r4D"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Working Bitch",
+      "url": "https://open.spotify.com/track/7g7w2WUpLcqsqH2M9XR7ZF"
+    },
+    {
+      "album": {
+        "name": "The Monument Singles Collection",
+        "url": "https://open.spotify.com/album/39L39Zc1OmLrQOY4P0xhhG"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145960,
+      "name": "Working for the Man",
+      "url": "https://open.spotify.com/track/5ujgNkobXV5z6cX3ZERDm6"
+    },
+    {
+      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -2756,7 +3692,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"

@@ -2,7 +2,7 @@
 
 ### [Women of Rock](https://open.spotify.com/playlist/37i9dQZF1DXd0ZFXhY0CRF)
 
-> The women whose music and influence rock our world\. Cover: The Warning
+> The women whose music and influence rock our world\. Cover: Nova Twins
 
 348 songs - 20 hr 12 min
 

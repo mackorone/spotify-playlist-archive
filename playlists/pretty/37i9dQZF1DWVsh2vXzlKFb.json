@@ -1,12 +1,12 @@
 {
   "description": "Songs for the warm pavement, cracked windows, and falling in love with music in the sun.",
-  "num_followers": 772181,
+  "num_followers": 772173,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGithpA1h9cuO8zZVi44e6KhVXs",
+  "snapshot_id": "AAAAABvWlxqAmGGU8V/iTLAgfy693G88",
   "tracks": [
     {
       "added_at": "2025-08-11 14:40:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "3 Nights",
-      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
-    },
-    {
-      "added_at": "2025-08-11 14:40:09",
-      "album": {
         "name": "Summer Pack",
         "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 297404,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2025-08-11 14:40:09",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "3 Nights",
+      "url": "https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
-    },
-    {
-      "added_at": "2025-08-11 14:40:09",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -799,6 +783,22 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "added_at": "2025-08-11 14:40:09",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Canop\u00e9e",
-      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
-    },
-    {
-      "added_at": "2025-08-11 14:40:09",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 183440,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+    },
+    {
+      "added_at": "2025-08-11 14:40:09",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Canop\u00e9e",
+      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "How Will You Know If You Never Try",
-        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
-    },
-    {
-      "added_at": "2025-08-11 14:40:09",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": "2025-08-11 14:40:09",
+      "album": {
+        "name": "How Will You Know If You Never Try",
+        "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
-    },
-    {
-      "added_at": "2025-08-11 14:40:09",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 215546,
       "name": "Don't Take The Money",
       "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
+    },
+    {
+      "added_at": "2025-08-11 14:40:09",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2025-08-11 14:40:09",
@@ -1639,8 +1639,8 @@
     {
       "added_at": "2025-08-11 14:40:09",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2025-08-11 14:40:09",

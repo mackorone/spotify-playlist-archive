@@ -7021,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "Lune d'argent",
+        "url": "https://open.spotify.com/album/2OVJMxl2fzzqDb4cCZI3WE"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Lune d'argent",
+      "url": "https://open.spotify.com/track/003QE5r4yCHEvFh6pOVea7"
+    },
+    {
+      "album": {
         "name": "Ma plus belle aventure",
         "url": "https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO"
       },

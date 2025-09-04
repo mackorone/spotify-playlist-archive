@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > Congratulations to all the winners and nominees of the 40th <a href="https://www.thestellarawards.com/index.html">Stellar Awards!</a> Cover & Host: <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,255 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,266 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 79 | [Give Love On Christmas Day](https://open.spotify.com/track/6vUkozvOWEo5cLTnrZbdCw) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [The Gift \(Deluxe\)](https://open.spotify.com/album/6Fje9Demk4ilgV604I717S) | 3:00 |
 | 80 | [Forever Mistletoe](https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2) | 3:55 |
 
-Snapshot ID: `AAAAAHiyKlbq/waK+Ip0a6UXuSxpmlxp`
+Snapshot ID: `AAAAAOEnnlX8Hl48+GJIuSB9sr/RsK4n`

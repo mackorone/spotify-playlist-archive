@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,991 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,996 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 43 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
 | 44 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 45 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
-| 46 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
-| 47 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
+| 46 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
+| 47 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
 | 48 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
 | 49 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
 | 50 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 58 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 |
 | 59 | [Sunsetter](https://open.spotify.com/track/34Gex6ugcOGNoHPZF2rofH) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [ORDER chaos ORDER](https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f) | 3:59 |
 | 60 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
-| 61 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
+| 61 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 62 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 |
-| 63 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 63 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 |
 | 64 | [Left In Your Love](https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Left In Your Love](https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt) | 3:03 |
 | 65 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 66 | [Kissing In Swimming Pools](https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 4:47 |

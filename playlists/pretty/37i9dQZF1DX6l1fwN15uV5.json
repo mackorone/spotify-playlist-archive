@@ -1,6 +1,6 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1500914,
+  "num_followers": 1501025,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Hungry Heart",
-      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 227600,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -725,7 +725,7 @@
         }
       ],
       "duration_ms": 336666,
-      "name": "Father Figure - Remastered - featured in 'Babygirl'",
+      "name": "Father Figure - Remastered",
       "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
     },
     {
@@ -743,22 +743,6 @@
       "duration_ms": 223733,
       "name": "Big Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
-      },
-      "artists": [
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -795,6 +779,22 @@
       "duration_ms": 238026,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Inside Information",
-        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 237693,
-      "name": "I Don't Want to Live Without You",
-      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 256840,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Inside Information",
+        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 237693,
+      "name": "I Don't Want to Live Without You",
+      "url": "https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
+        "name": "Another Page",
+        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Think of Laura",
+      "url": "https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
         "name": "Bad English",
         "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Another Page",
-        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Think of Laura",
-      "url": "https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Power Of Love: The Best Of Jennifer Rush",
         "url": "https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 268200,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "added_at": "2024-06-03 14:38:56",

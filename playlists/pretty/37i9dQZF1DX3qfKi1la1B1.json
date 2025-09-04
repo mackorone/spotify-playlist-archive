@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127081,
+  "num_followers": 127087,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 264372,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -399,38 +399,6 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
-      },
-      "artists": [
-        {
-          "name": "ziproom",
-          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
       },
@@ -455,6 +423,38 @@
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "Before & After You",
-        "url": "https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 228960,
-      "name": "Before & After You",
-      "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -731,6 +715,22 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
+        "name": "Before & After You",
+        "url": "https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "Before & After You",
+      "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
         "name": "Looking Back",
         "url": "https://open.spotify.com/album/5phyDbVHyJHbh8X5iRtL6h"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 235015,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/2mn34vDv40WpobWZzajy5q"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "ceilings - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -771,18 +787,18 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+        "name": "Fix It to Break It",
+        "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 164586,
-      "name": "ceilings - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
+      "duration_ms": 198798,
+      "name": "Fix It to Break It",
+      "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -807,22 +823,6 @@
       "duration_ms": 181172,
       "name": "Air Maxes",
       "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
-        "name": "Fix It to Break It",
-        "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Fix It to Break It",
-      "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "IS THIS LOVE (Piano Ver.)",
-      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
         "name": "Black Radio III",
         "url": "https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 295746,
       "name": "Over [Feat. Yebba]",
       "url": "https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "IS THIS LOVE (Piano Ver.)",
+      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
     },
     {
       "added_at": "2025-08-29 09:14:53",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-08-29 09:14:53",
       "album": {
-        "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
-        "url": "https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        },
-        {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
-      "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
-    },
-    {
-      "added_at": "2025-08-29 09:14:53",
-      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 276214,
       "name": "No Love (with SZA & Cardi B) - Extended Version",
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+    },
+    {
+      "added_at": "2025-08-29 09:14:53",
+      "album": {
+        "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
+        "url": "https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
+      "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
     }
   ],
   "unique_name": "Midnight Chill",

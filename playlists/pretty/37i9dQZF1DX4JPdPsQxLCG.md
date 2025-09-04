@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,637 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,635 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 33 | [You’re Gonna Go Far \(with Brandi Carlile\)](https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:46 |
 | 34 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 | 35 | [Ride](https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:49 |
-| 36 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
-| 37 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
+| 36 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
+| 37 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 38 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
 | 39 | [Something In The Way](https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Something In The Way](https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy) | 5:02 |
 | 40 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 43 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 | 44 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 |
 | 45 | [Too Late Now](https://open.spotify.com/track/0k8v4D655QaAyuRNvQ9d7K) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:29 |
-| 46 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 |
-| 47 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
+| 46 | [Come With Me Now](https://open.spotify.com/track/6FCmFo5oqhPerHy187op7H) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:39 |
+| 47 | [Wildfire](https://open.spotify.com/track/2GQomOm5bdbNnUooS3HEuF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:31 |
 | 48 | [Goldie Montana](https://open.spotify.com/track/5vKml30abCjY2IAlborIm2) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Goldie Montana](https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk) | 4:05 |
 | 49 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 50 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 51 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 | 52 | [Sandpaper \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/3JzVK0f8gqAAjyEDyXAys4) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:36 |
-| 53 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
-| 54 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
+| 53 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
+| 54 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 |
 | 55 | [Young](https://open.spotify.com/track/2rtVUuN6Mwujm9YcJ03ITe) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [When I Cross the River](https://open.spotify.com/album/7qAEtvITWy5ZhUK4Gdl1Zi) | 2:40 |
 | 56 | [Ordinary Games](https://open.spotify.com/track/5sZihfPufHxsamleuyUvWz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Ordinary Games](https://open.spotify.com/album/4ogWcadWV2rjQPADcQbgvc) | 5:04 |
 | 57 | [Maybe It's Me](https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Maybe It's Me](https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB) | 3:17 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 65 | [Must Be a Cop](https://open.spotify.com/track/6RVPJhj0AamUoSa5faaufH) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Full\-On Monet](https://open.spotify.com/album/44E4Mfi5mRLWkG263l4mX5) | 3:49 |
 | 66 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
 | 67 | [Road Warrior](https://open.spotify.com/track/0sx9zhSNZ0jHGNI1BGgYW4) | [Allan Rayman](https://open.spotify.com/artist/6Yv6OBXD6ZQakEljaGaDAk) | [Christian](https://open.spotify.com/album/6oUgwvZ2iktgyRulCUogjJ) | 3:12 |
-| 68 | [Hard Lines](https://open.spotify.com/track/2MmVtejhstTIqHLMhRsv8i) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hard Lines](https://open.spotify.com/album/444N7dy2PWMg8I7uI6PM2x) | 3:08 |
-| 69 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
+| 68 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
+| 69 | [Hard Lines](https://open.spotify.com/track/2MmVtejhstTIqHLMhRsv8i) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hard Lines](https://open.spotify.com/album/444N7dy2PWMg8I7uI6PM2x) | 3:08 |
 | 70 | [Crush](https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush](https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D) | 3:15 |
 | 71 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 |
 | 72 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/6dRl26fre0x2OcUCtObfmP) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SHELL \( OF A MAN \)](https://open.spotify.com/album/7LDJQ920ux5U1bOZvexKX3) | 3:39 |

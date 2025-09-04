@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125002,
+  "num_followers": 124997,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUiV62X8JN0ZEZy9kj/rjk8KBLR3Fb",
+  "snapshot_id": "AAAUisbpRbD5WqhYVtW9kHmRGruiA+rn",
   "tracks": [
+    {
+      "added_at": "2025-09-03 14:33:46",
+      "album": {
+        "name": "Move Yo Feet",
+        "url": "https://open.spotify.com/album/0VSlnw9OR0rAYLGJTEhyl8"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Move Yo Feet",
+      "url": "https://open.spotify.com/track/1QGl7VLbqHDdBK81ccUflR"
+    },
     {
       "added_at": "2025-09-02 14:24:00",
       "album": {

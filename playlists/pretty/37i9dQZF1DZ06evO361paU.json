@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 287358,
+  "num_followers": 287408,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADWB+b+1PQulw+JFzElfehC",
+  "snapshot_id": "aLYzgAAAAADYYPneIUD08Zrt9XFyriMo",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Eleutheria",
-      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Electric Light",
         "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 379513,
       "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
       "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
     },
     {
       "added_at": null,

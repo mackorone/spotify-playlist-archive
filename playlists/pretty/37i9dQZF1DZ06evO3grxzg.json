@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235383,
+  "num_followers": 235378,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACV/uKXJTc+lZHL7JKsSLHy",
+  "snapshot_id": "aLYzgAAAAAAXelNl1Bjf7wAQwlU7lC9V",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
         }
       ],
-      "duration_ms": 234413,
-      "name": "El Primer Dia Sin Ti",
-      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
+      "duration_ms": 225240,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
       },
       "artists": [
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
         }
       ],
-      "duration_ms": 225240,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
+      "duration_ms": 234413,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Ag\u00fcita",
-      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 148546,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/2uBvWhlfPmQAC025aD3Aas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
     },
     {
       "added_at": null,

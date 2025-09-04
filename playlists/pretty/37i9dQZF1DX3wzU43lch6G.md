@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,112 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,108 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kumralım](https://open.spotify.com/track/3tCCD2qQLdC99YkRwGPSsx) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:30 |
 | 2 | [Uzunlar \- V1](https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Uzunlar](https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo) | 4:42 |
 | 3 | [Tac Mahal](https://open.spotify.com/track/26uHtSrQXUad9uCqxPiIXJ) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kehanet](https://open.spotify.com/album/54fUFXduCOTJEksa3bUU89) | 3:59 |
-| 4 | [Bodrum](https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 3:55 |
+| 4 | [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 3:16 |
 | 5 | [Yara Yara](https://open.spotify.com/track/47UZytbAKaZ31LaBFEAbqJ) | [Brek](https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk) | [Yara Yara](https://open.spotify.com/album/2pyeQCg733sZvTZ10CMSsM) | 4:11 |
 | 6 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 |
-| 7 | [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 3:16 |
+| 7 | [Bodrum](https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 3:55 |
 | 8 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 |
 | 9 | [Sevmek Yüzünden](https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL) | 3:39 |
 | 10 | [Gül Döktüm Yollarına](https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Aacayipsin](https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e) | 4:09 |

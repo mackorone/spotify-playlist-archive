@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,029 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,278 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 17 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 | 18 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
 | 19 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 |
-| 20 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 |
-| 21 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
+| 20 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 |
+| 21 | [¿Qué Te Parece?](https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [¿Qué Te Parece?](https://open.spotify.com/album/4wJ3OuXAYBT7KgZpQoMMG8) | 3:02 |
 | 22 | [Mutuo](https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mutuo](https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa) | 2:57 |
 | 23 | [EN ALTAVOZ](https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 |
 | 24 | [Di Que Sí](https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:10 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 38 | [No Se Parece A Ti](https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:20 |
 | 39 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 |
 | 40 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 |
-| 41 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
+| 41 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
 | 42 | [¿Qué Haces Por Acá?](https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:08 |
-| 43 | [La Buena Eras Tú](https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Buena Eras Tú](https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX) | 3:22 |
-| 44 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
+| 43 | [0 SENTIMIENTOS](https://open.spotify.com/track/1Q4IBp6DOLrLiakvcuobnT) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:37 |
+| 44 | [La Buena Eras Tú](https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Buena Eras Tú](https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX) | 3:22 |
 | 45 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
 | 46 | [Ya No](https://open.spotify.com/track/3tnHHGRiBLwIyOh9p5eqbf) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya No](https://open.spotify.com/album/6n8M3o4E94OA9hTDUTWlkv) | 2:48 |
 | 47 | [NO SÉ QUÉ PASÓ](https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Mi Corazón](https://open.spotify.com/track/02EckzshsKodeAfZQF3cDP) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Mi Corazón](https://open.spotify.com/album/5iFkzGv5idTW7deC3hdnoJ) | 2:06 |
 | 50 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 |
 
-Snapshot ID: `aLTiAAAAAADLA092JgPJTQeYYelHmcV2`
+Snapshot ID: `aLYzgAAAAABBm2kf+ZBJFvusADqSJZyZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,639 likes - 124 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,631 likes - 124 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 71 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 72 | [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz) | 4:17 |
 | 73 | [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 |
-| 74 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
+| 74 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 75 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 | 76 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 |
 | 77 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 |

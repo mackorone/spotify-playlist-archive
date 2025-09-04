@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 
 > Enjoy the JANNABI CONCERT \[All the Boys and Girls\] LIVE SET including the voices of them on stage! \(잔나비의 무대 멘트와 목소리가 포함된 \[모든소년소녀들\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbAc2Ds17DB.md) - [plain]
 | 43 | [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 |
 | 44 | [See Your Eyes](https://open.spotify.com/track/7q6zlvcrtjcMCTw1LyMNd1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [See Your Eyes](https://open.spotify.com/album/0JiSyYfI7RRVBvjRjbl5hW) | 3:12 |
 
-Snapshot ID: `AAAAANMretNCukgJtNqK2rLvX+yOqsi+`
+Snapshot ID: `AAAAAF2HokY0ud+VQ3j+iSeyjrHOC2+o`

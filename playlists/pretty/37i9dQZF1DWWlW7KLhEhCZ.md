@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Cassin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,452 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,443 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 8 | [VVS](https://open.spotify.com/track/6u1w63xMr4Egs4qK0ckYUy) | [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3) | [SONHOS](https://open.spotify.com/album/1vU7zOjkP2M0PDfh5oZrZX) | 2:46 |
 | 9 | [Voltímetro](https://open.spotify.com/track/5GVM4tdYTOrx4lfksd4ytv) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [C H A V E $](https://open.spotify.com/artist/14LF5503ePPjHSvirOqNO5) | [Voltímetro](https://open.spotify.com/album/2MCcU5QYIlsPwQTH9cRgum) | 3:12 |
 | 10 | [Um Milhão De Problemas](https://open.spotify.com/track/7jydDNDIsmYwFIsadmtZYt) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Um Milhão De Problemas](https://open.spotify.com/album/2R7boPP5W8vYpMIpCGkSOO) | 1:36 |
-| 11 | [OQCSENTE](https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [BeatByDrey](https://open.spotify.com/artist/368y69JDrGHLlxFv2MLdBT) | [OQCSENTE](https://open.spotify.com/album/0p8NSwHbqbW7f0eHNF97ka) | 2:21 |
+| 11 | [OQCSENTE](https://open.spotify.com/track/46J5muHM6imLvOUuncOj8q) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [BeatByDrey](https://open.spotify.com/artist/368y69JDrGHLlxFv2MLdBT), [Prod Lozer](https://open.spotify.com/artist/3yPsnusA1pzK25GXw4oasY) | [OQCSENTE](https://open.spotify.com/album/0p8NSwHbqbW7f0eHNF97ka) | 2:21 |
 | 12 | [NOITE PERFEITA](https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [ISSO É TRAP](https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC) | 2:48 |
 | 13 | [Cara Fechada](https://open.spotify.com/track/2sgajBu5Xx9VBPEERCY8JE) | [Badazz](https://open.spotify.com/artist/6Z7gyYX48yvQJeoD6YvwqH), [Thisc](https://open.spotify.com/artist/4HLKeS9sCaroBapSqTbVFf), [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq), [Prod.Chipzz](https://open.spotify.com/artist/034hICE3RKwd6hmV7N383u) | [Cara Fechada](https://open.spotify.com/album/30OhLLuz5LQaq8Dq6layQ9) | 4:30 |
 | 14 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,453 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,622 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 11 | [Se Vienen Días Tristes](https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:39 |
 | 12 | [El Inicio Del final](https://open.spotify.com/track/0RBC4WwqMriC9UbbPVe1no) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 4:17 |
 | 13 | [El Problema \- Versión Banda](https://open.spotify.com/track/30pKCtnq9axMXlyLat7Rnu) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:15 |
-| 14 | [El Sillón](https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:19 |
-| 15 | [Hoy Te Pierdo](https://open.spotify.com/track/1uNo4WxrVKwGnSzyexALea) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:54 |
+| 14 | [Hoy Te Pierdo](https://open.spotify.com/track/1uNo4WxrVKwGnSzyexALea) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:54 |
+| 15 | [El Sillón](https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:19 |
 | 16 | [Tus Lágrimas \- Versión Mariachi](https://open.spotify.com/track/6DUBnfX0nZByQc2Ne4Qj4E) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:32 |
 | 17 | [Seguramente](https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:16 |
 | 18 | [Eres](https://open.spotify.com/track/253kzvmfGV23VwD4MAK2Uu) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Eres](https://open.spotify.com/album/22EaoHJJLF2IBnuOxk80Gr) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 49 | [Tres Tiros](https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:29 |
 | 50 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 
-Snapshot ID: `aLTiAAAAAABMsWrkDlQ1Cz3M2AiA8Eez`
+Snapshot ID: `aLYzgAAAAAARyFLM8jhTww5eDAxT1ZAG`

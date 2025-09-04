@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,554 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,556 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

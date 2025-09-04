@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Aczino con el hat\-trick: campeón internacional 2022\. Descubre las mejores batallas, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,934 likes - 70 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,939 likes - 70 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

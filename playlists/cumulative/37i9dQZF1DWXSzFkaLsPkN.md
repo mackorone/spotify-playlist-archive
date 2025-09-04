@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Madhur Sharma & Aanchal Tyagi
 
-283 songs - 15 hr 33 min
+284 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Feel You Now](https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Feel You Now](https://open.spotify.com/album/1QjVRLJLQ3wM1RY9AznBlC) | 2:14 | 2023-05-02 | 2024-01-18 |
 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 | 2023-07-20 | 2023-12-30 |
 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 | 2025-02-07 |  |
+| [Finding Her \(Female Version\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 | 2025-09-03 |  |
 | [Galti \(feat\. MxRZI\)](https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [MxRZI](https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E) | [Galti \(feat\. MxRZI\)](https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs) | 3:31 | 2024-04-05 | 2024-07-27 |
 | [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-30 | 2024-09-21 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-21 | 2024-05-11 |
@@ -137,7 +138,7 @@
 | [Kho Gaye](https://open.spotify.com/track/2QophXhN2Ls2URfoPmiviC) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 3:17 | 2023-05-02 |  |
 | [Kho Ja](https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Kho Ja](https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp) | 3:04 | 2023-05-16 | 2023-08-01 |
 | [Khone Do](https://open.spotify.com/track/0eei3Q3RLKtA9HkvYCQC7t) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:59 | 2024-04-05 | 2024-06-18 |
-| [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 |  |
+| [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-06-06 | 2025-09-04 |
 | [Khoya Rahun](https://open.spotify.com/track/2BCBGmOidYgttheDXc7yWh) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Khoya Rahun](https://open.spotify.com/album/4zWd9cFZ7YPmYY4IDjmK5b) | 4:04 | 2023-12-15 | 2024-02-16 |
 | [KHU](https://open.spotify.com/track/08SW2nDqYzv6UOOtaoJdTE) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [KHU](https://open.spotify.com/album/3BOrCKOWf5DZklELAV6fnc) | 3:54 | 2023-08-11 | 2023-11-11 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-05-02 |  |

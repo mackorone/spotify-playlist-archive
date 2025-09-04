@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,275 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,279 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 21 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
 | 22 | [Meant For Good](https://open.spotify.com/track/3HzNYPLR7TB2PkDak8kVEN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [HELP!](https://open.spotify.com/album/6GH2Oi7zWgZsVKLz9IRLH6) | 3:34 |
 | 23 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 |
-| 24 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
-| 25 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
+| 24 | [SAY SO](https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [SAY SO](https://open.spotify.com/album/3fA62shc2rOStugUYC47HG) | 2:15 |
+| 25 | [Be Glad](https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Be Glad](https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx) | 4:59 |
 | 26 | [STRENGTH AND SONG](https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [STRENGTH AND SONG](https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw) | 3:33 |
 | 27 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 28 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 43 | [Into The Wild](https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:48 |
 | 44 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 |
 | 45 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
-| 46 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
-| 47 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
+| 46 | [This Love](https://open.spotify.com/track/39cGy6I9NUwSPPluuUPz6b) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [This Love](https://open.spotify.com/album/4Pifj4Xa7S26ipKXAucJYC) | 3:17 |
+| 47 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 48 | [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 |
 | 49 | [Grace](https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Grace](https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v) | 3:15 |
 | 50 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 53 | [Drives](https://open.spotify.com/track/3olQqumBrebhLCjZXtpE3D) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Drives](https://open.spotify.com/album/2PtkfjPzEs5UevBQYztU0b) | 3:03 |
 | 54 | [Hold On Me](https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Hold On Me](https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6) | 2:52 |
 | 55 | [Joyful Melody](https://open.spotify.com/track/69yAwdmV8VngYAYXNgbWrZ) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR) | [Joyful Melody](https://open.spotify.com/album/5VtWw50s1DqtIMzBR9kMeH) | 2:50 |
-| 56 | [A Little Light](https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [A Little Light](https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC) | 3:39 |
-| 57 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
+| 56 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
+| 57 | [A Little Light](https://open.spotify.com/track/74LJN9lVkbpVRXnZOLKttx) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [A Little Light](https://open.spotify.com/album/2qlhs0qXQ3PMWzsPHpPwhC) | 3:39 |
 | 58 | [SUNSHINE](https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4) | [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [SUNSHINE](https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR) | 3:07 |
 | 59 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
 | 60 | [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 |

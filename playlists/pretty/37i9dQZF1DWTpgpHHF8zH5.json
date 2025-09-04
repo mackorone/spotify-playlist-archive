@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata \u2728",
-  "num_followers": 331807,
+  "num_followers": 331818,
   "original_name": "Operazione Buonumore",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,18 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -787,18 +783,22 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Take You Dancing",
-        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Take You Dancing",
-      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
-    },
-    {
-      "added_at": "2025-07-15 09:42:45",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "added_at": "2025-07-15 09:42:45",
+      "album": {
+        "name": "Take You Dancing",
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Take You Dancing",
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2025-07-15 09:42:45",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2025-07-15 09:42:45",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
+    },
+    {
+      "added_at": "2025-07-15 09:42:45",
+      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2025-07-15 09:42:45",
-      "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2025-07-15 09:42:45",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1727,18 +1711,18 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
         }
       ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     },
     {
       "added_at": "2025-07-15 09:42:45",
@@ -1763,18 +1747,34 @@
     {
       "added_at": "2025-07-15 09:42:45",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "added_at": "2025-07-15 09:42:45",
+      "album": {
+        "name": "Little Bit of Love",
+        "url": "https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 226268,
+      "name": "Little Bit of Love",
+      "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
     }
   ],
   "unique_name": "Operazione Buonumore",

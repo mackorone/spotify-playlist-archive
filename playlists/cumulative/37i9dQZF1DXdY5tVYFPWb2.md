@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-921 songs - 2 day 12 hr 40 min
+922 songs - 2 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [DND](https://open.spotify.com/track/4dmyhFotHSwyVsKCbvekEU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Lonely Paradox](https://open.spotify.com/album/6Qlte9o32U238sw3gElTtF) | 3:25 | 2023-12-12 | 2024-01-10 |
 | [Do you remember](https://open.spotify.com/track/3CPSBqZ58PQVzKnbwHBzsn) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Do you remember](https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW) | 5:08 | 2022-06-21 | 2022-07-18 |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-11-10 | 2024-04-19 |
-| [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 | 2024-09-25 |  |
+| [Document](https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs) | 4:35 | 2024-09-25 | 2025-09-04 |
 | [Document](https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/0klLVAweT1Pxea8gSFxvW2) | 4:35 | 2023-03-28 | 2023-04-19 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 | 2023-08-07 |
 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:45 | 2022-05-24 |  |
@@ -467,6 +467,7 @@
 | [Skyline](https://open.spotify.com/track/7u5wxfkU6ubjvqS1DxLxAP) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Skyline](https://open.spotify.com/album/4mIF1JqEOSRbWISwDR1Ud9) | 4:52 | 2022-08-11 | 2022-08-17 |
 | [Skyscraper](https://open.spotify.com/track/0eXUe6lbJxknb0LNqHWyQ0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Skyscraper](https://open.spotify.com/album/68MxsfqnDi9PKriaURsaS8) | 3:47 | 2022-10-18 | 2022-11-18 |
 | [slowdance](https://open.spotify.com/track/1UGZqkkwnI7Suxsk2MnmQ3) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [slowdance](https://open.spotify.com/album/3p2hTZIJrx0azJd5mEDZn4) | 3:10 | 2022-10-25 | 2022-12-13 |
+| [SMILE IN YOUR FACE](https://open.spotify.com/track/5fsyRKVwn9orelKrreg5TE) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [SMILE IN YOUR FACE](https://open.spotify.com/album/3VldLs3P0Zs1QLCWonbpUu) | 4:51 | 2025-09-02 |  |
 | [Smile in your face](https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI) | [松本千夏](https://open.spotify.com/artist/5W4RiZjfjBOgj4MYmU2tYS), [LITTLE](https://open.spotify.com/artist/2SRqvmecLdCKakgzT3DDks) | [Smile in your face](https://open.spotify.com/album/0g6ZrbO9pJI5ZgU02qAGNK) | 4:34 | 2023-01-17 | 2023-07-19 |
 | [Smile In Your Face \- CUNIMONDO Remix](https://open.spotify.com/track/00iEiaBARvaEaiI7mY6VJx) | [矢舟テツロー](https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO), [さとうらら](https://open.spotify.com/artist/6YnQ8Xgg8UgixHoIhpslxx), [クニモンド瀧口](https://open.spotify.com/artist/37Ep9wXsW6DPD1rEYPnPRj) | [Smile In Your Face \(CUNIMONDO Remix\)](https://open.spotify.com/album/0izorA2Rs232bpzsnsoKhi) | 4:20 | 2023-02-28 | 2023-03-08 |
 | [Smoke](https://open.spotify.com/track/4TaQ2FrgZ8cjjqHyXtdnrn) | [Benlou](https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj) | [Smoke EP](https://open.spotify.com/album/11G0nq5QtWDxjsd8L7u8m3) | 3:34 | 2023-01-31 | 2023-02-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1650353,
+  "num_followers": 1650427,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADUx0EXA7B8II6vbMouIigj",
+  "snapshot_id": "aLYzgAAAAADkDaa49yhTDdyJJtkY7zOy",
   "tracks": [
     {
       "added_at": null,
@@ -771,42 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 187211,
-      "name": "From My Window",
-      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -831,6 +795,42 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 187211,
+      "name": "From My Window",
+      "url": "https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "added_at": null,

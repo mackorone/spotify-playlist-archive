@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-115 songs - 5 hr 44 min
+116 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [La Gente Del Toro](https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 2:29 | 2022-06-04 |  |
 | [La Gente Nueva](https://open.spotify.com/track/3nsj36Pio46eXURlJdDRz5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:37 | 2022-07-30 | 2022-08-11 |
 | [La Gente Nueva](https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:37 | 2022-08-11 | 2023-10-06 |
+| [La Gwag](https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Gwag](https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z) | 2:26 | 2025-09-04 |  |
 | [La Internacional](https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Internacional](https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs) | 2:39 | 2022-12-25 |  |
 | [La Moneda Vueltas Dio](https://open.spotify.com/track/0HdwsDCUpvVm0f9mPvGaRk) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 3:29 | 2022-07-26 | 2022-08-10 |
 | [La Moneda Vueltas Dio](https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 3:29 | 2022-08-09 | 2023-09-26 |
@@ -102,7 +103,7 @@
 | [Salvame](https://open.spotify.com/track/7q32Q7n5p2DeVQ3lClXfl8) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Salvame](https://open.spotify.com/album/2qeh4FNql0C7JKzDNpdBSK) | 3:37 | 2023-03-21 | 2023-05-20 |
 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 | 2024-11-17 |  |
 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 | 2022-06-01 |  |
-| [Señor 80](https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Señor 80](https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf) | 2:23 | 2025-02-02 |  |
+| [Señor 80](https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Señor 80](https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf) | 2:23 | 2025-02-02 | 2025-09-04 |
 | [Sigo y Sigo](https://open.spotify.com/track/18ex1QePwFr4kevw448OlG) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:54 | 2022-07-21 | 2022-07-23 |
 | [Sky Blue](https://open.spotify.com/track/1WV4xGKK8nspiCXhJRxTAK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sky Blue](https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB) | 2:42 | 2025-07-19 |  |
 | [Somos Humildes](https://open.spotify.com/track/0TtHb0peNWzLRcln4DSXHb) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:19 | 2023-10-10 | 2023-11-11 |

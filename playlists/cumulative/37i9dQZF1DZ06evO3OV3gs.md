@@ -4,11 +4,12 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 52 min
+99 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 | 2023-07-28 |  |
+| [4 Minutes \(feat\. Justin Timberlake and Timbaland\)](https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:05 | 2025-09-04 |  |
 | [A Cinema in Buenos Aires, 26 July 1952](https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:18 | 2024-09-03 | 2025-08-25 |
 | [Act of Contrition](https://open.spotify.com/track/6iUHLXwW5ru72sAA6MBybQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 2:19 | 2024-08-10 | 2024-08-21 |
 | [American Life](https://open.spotify.com/track/1YhiWWFrbdd3kAVhSYDhZ7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:57 | 2025-03-30 | 2025-04-11 |
@@ -57,7 +58,7 @@
 | [Hung Up on Tokischa](https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Hung Up on Tokischa](https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ) | 3:26 | 2023-07-28 | 2024-07-08 |
 | [I'll Remember \(Theme from the Motion Picture With Honors\)](https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:23 | 2023-07-28 |  |
 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 | 2023-07-28 |  |
-| [Into the Groove \- Edit](https://open.spotify.com/track/5CxiVaZ6VzP8XVJ8vcBY40) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 4:09 | 2025-08-31 |  |
+| [Into the Groove \- Edit](https://open.spotify.com/track/5CxiVaZ6VzP8XVJ8vcBY40) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 4:09 | 2025-08-31 | 2025-09-04 |
 | [Intro \- Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12\-23/2020](https://open.spotify.com/track/1ZipQfxercPLpiocNlMUpR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \- Music From The Theater Xperience \(Live\)](https://open.spotify.com/album/5NLO9sMI3xznCGrRWhsPN3) | 1:38 | 2024-11-05 | 2024-11-13 |
 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 | 2023-07-28 |  |
 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 | 2023-07-28 |  |

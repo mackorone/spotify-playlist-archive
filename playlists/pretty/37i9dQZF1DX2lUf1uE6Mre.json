@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Aymen",
-  "num_followers": 917653,
+  "num_followers": 917695,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Love all night",
-        "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
-      },
-      "artists": [
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Love all night",
-      "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Aymen",
         "url": "https://open.spotify.com/album/5AJ9eYWrmaGXZ11jhAfWk5"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 151181,
       "name": "30 mal am Tag",
       "url": "https://open.spotify.com/track/0ypQOwWWnjYx9ZOIjZXNCP"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Love all night",
+        "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Love all night",
+      "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -123,26 +123,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "PARFUM",
-        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 160863,
-      "name": "PARFUM",
-      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Capri Sun",
         "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 119244,
       "name": "Capri Sun",
       "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "PARFUM",
+        "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 160863,
+      "name": "PARFUM",
+      "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -211,26 +211,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Buscape",
-        "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
-      },
-      "artists": [
-        {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
-        },
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 151755,
-      "name": "Buscape",
-      "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "CC&MO",
         "url": "https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge"
       },
@@ -255,6 +235,42 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "Buscape",
+        "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 151755,
+      "name": "Buscape",
+      "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "WHINE (BADALADA)",
+        "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 129749,
+      "name": "WHINE (BADALADA)",
+      "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Antalya",
         "url": "https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "WHINE (BADALADA)",
-        "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
+        "name": "Schmerz",
+        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
       },
       "artists": [
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         }
       ],
-      "duration_ms": 129749,
-      "name": "WHINE (BADALADA)",
-      "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"
+      "duration_ms": 163946,
+      "name": "Schmerz",
+      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -311,22 +327,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Schmerz",
-        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Schmerz",
-      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "CUT",
         "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 151399,
       "name": "CUT",
       "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -359,22 +375,6 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Sexy Lady",
-        "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "Sexy Lady",
-      "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "ZOE",
+        "url": "https://open.spotify.com/album/0LcczDP99Tz2qWoEQFtNrQ"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "ZOE",
+      "url": "https://open.spotify.com/track/6ilShkVwoV3360sb3JIJWd"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "ME GUSTA",
         "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 158000,
       "name": "ME GUSTA",
       "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "ZOE",
-        "url": "https://open.spotify.com/album/0LcczDP99Tz2qWoEQFtNrQ"
-      },
-      "artists": [
-        {
-          "name": "Pajel",
-          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "ZOE",
-      "url": "https://open.spotify.com/track/6ilShkVwoV3360sb3JIJWd"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -587,22 +587,18 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ"
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
       "artists": [
         {
-          "name": "Dafina Zeqiri",
-          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         }
       ],
-      "duration_ms": 183076,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u"
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -623,6 +619,26 @@
       "duration_ms": 164937,
       "name": "Alors (feat. CAPO)",
       "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ"
+      },
+      "artists": [
+        {
+          "name": "Dafina Zeqiri",
+          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 183076,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -667,22 +683,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Wir sind Stars",
         "url": "https://open.spotify.com/album/3wy0zUVAsK4PfipnHuibUJ"
       },
@@ -715,26 +715,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 163819,
-      "name": "REWIND",
-      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "District",
         "url": "https://open.spotify.com/album/4nxzO65DR0aB8Fjba9Rhrb"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "Ma Baby",
-        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
       },
       "artists": [
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Ma Baby",
-      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
+      "duration_ms": 163819,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -791,6 +775,22 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
+        "name": "Ma Baby",
+        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Ma Baby",
+      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
         "name": "Yummy",
         "url": "https://open.spotify.com/album/1Bzce6pArJYiAJJBuMVDMf"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 153490,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 169872,
+      "name": "7er",
+      "url": "https://open.spotify.com/track/4z19vywjpPdfmcX6Ks5j3b"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -855,22 +871,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 169872,
-      "name": "7er",
-      "url": "https://open.spotify.com/track/4z19vywjpPdfmcX6Ks5j3b"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "SSJ",
         "url": "https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj"
       },
@@ -947,6 +931,58 @@
       "duration_ms": 204266,
       "name": "Anders",
       "url": "https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Drunter & Dr\u00fcber",
+        "url": "https://open.spotify.com/album/5V9VFQx4mx6W76UldPyA2z"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "duration_ms": 177956,
+      "name": "Bonzeneltern",
+      "url": "https://open.spotify.com/track/4BRkbxuNB4k2uEcafRxSWR"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "Wie beim ersten Mal",
+        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Wie beim ersten Mal",
+      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -971,42 +1007,6 @@
       "duration_ms": 178018,
       "name": "Padapapa",
       "url": "https://open.spotify.com/track/76tcXNRe8JRHYsYg8zmMff"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Wie beim ersten Mal",
-        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
-      },
-      "artists": [
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Wie beim ersten Mal",
-      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
-        "name": "Drunter & Dr\u00fcber",
-        "url": "https://open.spotify.com/album/5V9VFQx4mx6W76UldPyA2z"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
-        }
-      ],
-      "duration_ms": 177956,
-      "name": "Bonzeneltern",
-      "url": "https://open.spotify.com/track/4BRkbxuNB4k2uEcafRxSWR"
     },
     {
       "added_at": "2025-08-28 22:00:07",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-08-28 22:00:07",
       "album": {
-        "name": "LOVE & DRAMA",
-        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
-      },
-      "artists": [
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "LOVE & DRAMA",
-      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
-    },
-    {
-      "added_at": "2025-08-28 22:00:07",
-      "album": {
         "name": "Coco Chanel",
         "url": "https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 143963,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/33w8uhoFjr7Y9FkzHDf94f"
+    },
+    {
+      "added_at": "2025-08-28 22:00:07",
+      "album": {
+        "name": "LOVE & DRAMA",
+        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "LOVE & DRAMA",
+      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
     },
     {
       "added_at": "2025-08-28 22:00:07",

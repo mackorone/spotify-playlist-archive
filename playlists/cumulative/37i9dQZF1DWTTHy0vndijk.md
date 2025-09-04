@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: AtHeart\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 미연\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-499 songs - 1 day 3 hr 19 min
+500 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Darling](https://open.spotify.com/track/5v35YFI9cvLXgFaaVBrNzK) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/3Q6QsqW3WWq6DLphXbXWkL) | 3:13 | 2021-11-29 | 2022-07-28 |
 | [DAZZLE DAZZLE](https://open.spotify.com/track/3cGOBTvkKS4aCsWRR2VPke) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki Digital Single \[DAZZLE DAZZLE\]](https://open.spotify.com/album/3fvHSeFSXnAwyatl4pMjxq) | 3:09 | 2021-11-29 | 2022-07-28 |
 | [Dear](https://open.spotify.com/track/5OgzQckeoXfsTT38zFlaGx) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Dear](https://open.spotify.com/album/7IT4gHNLHRSJAB1KhtAb7W) | 3:19 | 2024-11-26 | 2024-12-11 |
-| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 |  |
+| [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-10 | 2025-09-04 |
 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 | 2025-07-02 | 2025-08-29 |
 | [DEJAVU](https://open.spotify.com/track/2LbmsUiuWVx8r1XxZNqnHt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:16 | 2022-04-04 | 2022-04-19 |
 | [Destiny](https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [A New Trilogy](https://open.spotify.com/album/1sgM8hFTIWtCjO7ap5O3US) | 3:33 | 2021-11-29 | 2022-07-25 |
@@ -375,6 +375,7 @@
 | [Silly](https://open.spotify.com/track/2a2u3rXdvwjkZUV4K3jepq) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 4:00 | 2022-03-29 | 2022-04-12 |
 | [Single Heart](https://open.spotify.com/track/3WwP3uqSBOUdL35ICAW2Zs) | [Bella](https://open.spotify.com/artist/35zGq5770Sla7X3qweK9yo), [Hyeseong](https://open.spotify.com/artist/3EVONoZnP970K2Y3k0HzLj) | [RICHMAN OST Part.4](https://open.spotify.com/album/6rAd1PzPDbfEg70cNQ7gLG) | 3:16 | 2022-03-29 | 2022-04-21 |
 | [Sixteen](https://open.spotify.com/track/3hNdg4iWnhnjj1kP14sRKC) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:21 | 2022-01-04 | 2022-04-21 |
+| [Sky Walking](https://open.spotify.com/track/537GKqf0UdlbI2aYOglmct) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/4fVtHcVAgLbRV3YphyyZBz) | 4:12 | 2025-09-03 |  |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-04-04 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 | 2025-05-31 |

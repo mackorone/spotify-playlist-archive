@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 > This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,519 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,568 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 11 | [Contrabando Y Traición](https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:26 |
 | 12 | [Cuestión Olvidada](https://open.spotify.com/track/4U7N4o4EHZnsJSkH0qrmat) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:28 |
 | 13 | [Mi Fantasía](https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Uniendo Fronteras](https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C) | 3:25 |
-| 14 | [Pedro Y Pablo](https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 3:13 |
-| 15 | [Golpes En El Corazón](https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:41 |
+| 14 | [Golpes En El Corazón](https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:41 |
+| 15 | [Pedro Y Pablo](https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Jaula De Oro](https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO) | 3:13 |
 | 16 | [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 |
 | 17 | [El Ejemplo](https://open.spotify.com/track/5ccRYB0YtW768SGsAThK0T) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 2:55 |
 | 18 | [El Avión De La Muerte](https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 4:02 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 33 | [Mi Sangre Prisionera](https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:01 |
 | 34 | [Lágrimas \(Lágrimas Del Corazón\)](https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia De Familia](https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV) | 4:00 |
 | 35 | [Tres Veces Mojado](https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Idolos Del Pueblo](https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG) | 2:51 |
-| 36 | [La Reina Del Sur](https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 4:03 |
-| 37 | [José Pérez León](https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 3:53 |
+| 36 | [José Pérez León](https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pacto De Sangre](https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn) | 3:53 |
+| 37 | [La Reina Del Sur](https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reina Del Sur](https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC) | 4:03 |
 | 38 | [Los Dos Plebes](https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:30 |
 | 39 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
 | 40 | [Como Aceite Y Como El Agua](https://open.spotify.com/track/13WH6BpofgaFuK0dpuJQcI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [El Ejemplo](https://open.spotify.com/album/1P96z53SwJ2Q0298WPBdUB) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [La Mesera](https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Contrabando Y Traicion](https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3) | 3:41 |
 | 50 | [Tu Cárcel](https://open.spotify.com/track/0WkrZsdHp8vkYvYzaytgNF) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desde El Azteca \(En Vivo\)](https://open.spotify.com/album/1HxDN8Ws2vMplMUiYu6Kxb) | 3:38 |
 
-Snapshot ID: `aLTiAAAAAAC00Pl/g3jUAP+JKwtRcxzs`
+Snapshot ID: `aLYzgAAAAAAIgDx3cv0o3v0tqvjmb4+f`

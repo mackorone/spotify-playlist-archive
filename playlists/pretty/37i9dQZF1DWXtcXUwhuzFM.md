@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat Sabrina Carpenter, Evelina, SHRTY & Turisti, Senya, Tupe\. ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,797 likes - 118 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,796 likes - 118 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

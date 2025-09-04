@@ -201,8 +201,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 191 | [Imunidade Baixa \- Ao Vivo](https://open.spotify.com/track/77vUhk306lufu1uFaVOV5V) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Duas Vidas E Um Sonho \(Ao Vivo\)](https://open.spotify.com/album/4ns0ND3iEHNlmXSawzsSgz) | 2:54 |
 | 192 | [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 |
 | 193 | [Orgulho Não É Orgulhoso \- Ao Vivo](https://open.spotify.com/track/3i2HMcgmwjQj20UUgRrHxl) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:54 |
-| 194 | [Espera Aí](https://open.spotify.com/track/4FAOK8cHHx57Dfjns4l9A5) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:16 |
-| 195 | [Temperatura](https://open.spotify.com/track/6sUcv0hrmhYyNsdAlxHHee) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:00 |
+| 194 | [Temperatura](https://open.spotify.com/track/6sUcv0hrmhYyNsdAlxHHee) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 3:00 |
+| 195 | [Espera Aí](https://open.spotify.com/track/4FAOK8cHHx57Dfjns4l9A5) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:16 |
 | 196 | [Planejei Reticências](https://open.spotify.com/track/7oH0VEV5i19AgMp8rwKedf) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:56 |
 | 197 | [Figurinha Repetida](https://open.spotify.com/track/5ifs1cyYzDzAEsZdKARXD9) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:46 |
 | 198 | [Um Brigadeiro e um Amor](https://open.spotify.com/track/0DLCNHCRY4cVGnEuinSTJ3) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/66GJKi3ULprjZB9rBlqnBN) | 2:37 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 300 | [Ciúme Doido](https://open.spotify.com/track/02ci6a7onTK8CT6NEn6XoY) | [Caúzzo](https://open.spotify.com/artist/7ITxrki6AXPCK5mnUSTs1O) | [Ciúme Doido](https://open.spotify.com/album/3fA6Nv5mzfzGc9hcESbkh6) | 2:57 |
 | 301 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `Ab7LiAAAAADmxsubs69/QB1tsaQNzXrT`
+Snapshot ID: `Ab7RFAAAAACco2t4yZc821nyH/HF1l7i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Chino Pacas en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,108,548 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,108,722 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

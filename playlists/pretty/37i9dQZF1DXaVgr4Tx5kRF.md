@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,101 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,100 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 46 | [No Surprises](https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 3:49 |
 | 47 | [The Only One I Know](https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj) | 3:58 |
 | 48 | [Disco 2000](https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class / Deluxe Edition](https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw) | 4:33 |
-| 49 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
-| 50 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 4:49 |
+| 49 | [Cigarettes & Alcohol \- Remastered](https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\) \[Deluxe Edition Remastered\]](https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg) | 4:49 |
+| 50 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
 | 51 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 |
 | 52 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
 | 53 | [Girl From Mars](https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [The Best Of Ash \(Remastered Version\)](https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib) | 3:33 |

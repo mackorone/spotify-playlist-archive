@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [a.m.3:21](https://open.spotify.com/track/3oZ1DkKe2ZcvPh5Ffv6L0c) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/3oALJhgiL5WSZWMRwlMxoV) | 3:28 | 2024-09-01 | 2024-09-16 |
-| [a.m.3:21](https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/5On6HjEIrUWLJhvsWQ7Xpv) | 3:28 | 2023-12-26 |  |
+| [a.m.3:21](https://open.spotify.com/track/3oZ1DkKe2ZcvPh5Ffv6L0c) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/3oALJhgiL5WSZWMRwlMxoV) | 3:28 | 2024-09-01 |  |
+| [a.m.3:21](https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [a.m.3:21](https://open.spotify.com/album/5On6HjEIrUWLJhvsWQ7Xpv) | 3:28 | 2023-12-26 | 2025-09-04 |
 | [a.m.3:21 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/7tdW9EEgXjfhA4b7G7p2LR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:31 | 2023-12-26 | 2024-02-14 |
 | [a.m.3:21（safmusic Remix）](https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 3:07 | 2025-08-23 |  |
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-01-11 |  |

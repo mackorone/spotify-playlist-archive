@@ -4,13 +4,14 @@
 
 > soms moet het er even uit
 
-50 songs - 2 hr 47 min
+51 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-07-17 |  |
 | [Adore You](https://open.spotify.com/track/1F7m10RKlI7ddbkJtAEnNs) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Adore You](https://open.spotify.com/album/6BbHN6wg5U9BbwYMYdINLk) | 2:54 | 2025-07-17 |  |
 | [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2025-07-17 |  |
+| [Before & After You](https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Before & After You](https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc) | 3:48 | 2025-09-03 |  |
 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 | 2025-07-17 |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 | 2025-07-17 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2025-07-17 |  |
@@ -23,7 +24,7 @@
 | [do i ever cross your mind](https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [do i ever cross your mind](https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp) | 2:48 | 2025-07-17 |  |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2025-07-17 |  |
 | [Empty Bench](https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Empty Bench](https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk) | 3:06 | 2025-07-17 |  |
-| [Fix Myself \- Acoustic](https://open.spotify.com/track/5mI7wEjkvkxR0psliNwAZx) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fix Myself \(Acoustic\)](https://open.spotify.com/album/4Nya8CNpJz45jQtLP0HBrO) | 3:19 | 2025-07-17 |  |
+| [Fix Myself \- Acoustic](https://open.spotify.com/track/5mI7wEjkvkxR0psliNwAZx) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fix Myself \(Acoustic\)](https://open.spotify.com/album/4Nya8CNpJz45jQtLP0HBrO) | 3:19 | 2025-07-17 | 2025-09-04 |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-07-17 |  |
 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 | 2025-07-17 |  |
 | [Holy Grail](https://open.spotify.com/track/6Gotxbh6LfoD7ttFHsp4Ni) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:54 | 2025-07-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: Don West
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,929 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,983 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 53 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
 | 54 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 55 | [Magnolia](https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 3:23 |
-| 56 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
-| 57 | [Music & Me](https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Music and Me](https://open.spotify.com/album/1MCA50GzswxscAouRWnrES) | 4:00 |
-| 58 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
+| 56 | [Music & Me](https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Music and Me](https://open.spotify.com/album/1MCA50GzswxscAouRWnrES) | 4:00 |
+| 57 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 |
+| 58 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
 | 59 | [Remember Me \- Original Mix](https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Remember Me](https://open.spotify.com/album/15ejkGAzLKHl2S1jvXWb1u) | 7:03 |
 | 60 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
 | 61 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |

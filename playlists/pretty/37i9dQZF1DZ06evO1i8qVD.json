@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37098,
+  "num_followers": 37100,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAMP3i1FAxuqXH+ZIgyyJXa",
+  "snapshot_id": "aLYzgAAAAAA01eGQusOW+xuCWzUCXPyk",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+      "duration_ms": 219240,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -931,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
     }
   ],
   "unique_name": "This Is Buddy Guy",

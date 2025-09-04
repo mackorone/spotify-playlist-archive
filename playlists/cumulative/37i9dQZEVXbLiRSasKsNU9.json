@@ -19286,7 +19286,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 158840,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"
@@ -31268,10 +31268,32 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 179240,
       "name": "Hell At Night (feat. Ella Langley)",
       "url": "https://open.spotify.com/track/3pAVk6Ydn0dcGpG8gDyxSJ"
+    },
+    {
+      "album": {
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Hell At Night (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/6r1lboTadi5swMquaAWDzh"
     },
     {
       "album": {
@@ -56512,7 +56534,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 231739,
       "name": "Pardesiya - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"

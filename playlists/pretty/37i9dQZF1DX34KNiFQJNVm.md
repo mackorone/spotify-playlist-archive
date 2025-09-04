@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe e Rodrigo, Sabrina Carpenter, Natanzinho Lima com Wesley Safadão e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,147,903 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148,027 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 28 | [Revoada de SP](https://open.spotify.com/track/4RG9JTLxjFW0XZu3IjRl4U) | [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv) | [Revoada de SP](https://open.spotify.com/album/0trSYMp49ZIiXNYosStXqc) | 2:43 |
 | 29 | [Oque Adianta](https://open.spotify.com/track/6jygHvn372m1aWOuyzm9wW) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [ANONIMA VB](https://open.spotify.com/artist/5mn2yhKybYdi5rq9fzLGic), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Histórias em Loop](https://open.spotify.com/album/3YGKlrZcFOoO1UKrIpsHvw) | 2:44 |
 | 30 | [Não Custa Nada tentar \- Ao Vivo](https://open.spotify.com/track/4EPnWGwKyUpohB3PtV7kHO) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Não Custa Nada tentar \(Ao Vivo\)](https://open.spotify.com/album/6uh2YZOOy3fP8nuzEN3gU7) | 2:57 |
-| 31 | [Amores Vêm e Vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Amores Vêm e Vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
+| 31 | [amores vêm e vão](https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [amores vêm e vão](https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf) | 3:56 |
 | 32 | [Quero Te Contar](https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [quero te contar](https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD) | 2:45 |
 | 33 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
 | 34 | [Não Tenha Dó](https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Não Tenha Dó](https://open.spotify.com/album/0Kt5Bw99SaYI5O1ddptqFZ) | 5:15 |

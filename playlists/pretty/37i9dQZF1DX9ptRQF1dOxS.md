@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 ### [EQUAL UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Alessi Rose<br/>💚
+> Listen to women at full volume\. Cover: Girls Don't Sync<br/>💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,682 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,681 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

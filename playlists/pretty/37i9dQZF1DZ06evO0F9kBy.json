@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27231,
+  "num_followers": 27232,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAC3OJys40Vg9PqbnNGRo8aW",
+  "snapshot_id": "aLYzgAAAAADfUpKbpkVI4DHXRGYA4CX3",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Jesus Is",
-        "url": "https://open.spotify.com/album/4wt596v2krOTyXqy1s1hcJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Alpha USA Music",
-          "url": "https://open.spotify.com/artist/6WCk6Dy4YXvEAncWcalS9M"
-        }
-      ],
-      "duration_ms": 259924,
-      "name": "Who Jesus Is",
-      "url": "https://open.spotify.com/track/4a6svF18UULlGpBB2m0WVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Jesus Is",
+        "url": "https://open.spotify.com/album/4wt596v2krOTyXqy1s1hcJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Alpha USA Music",
+          "url": "https://open.spotify.com/artist/6WCk6Dy4YXvEAncWcalS9M"
+        }
+      ],
+      "duration_ms": 259924,
+      "name": "Who Jesus Is",
+      "url": "https://open.spotify.com/track/4a6svF18UULlGpBB2m0WVt"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Creation",
+        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Baptized",
+      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 931610,
       "name": "Son Of Heaven",
       "url": "https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Creation",
-        "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
-      },
-      "artists": [
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Baptized",
-      "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Deliverer",
-      "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
+      "duration_ms": 205933,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0"
     },
     {
       "added_at": null,

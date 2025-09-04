@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/64VkTU8Vxprgi0mMMrVBm9"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314320,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4mqVUkv3epcKid8O9tlgtl"
+    },
+    {
+      "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },

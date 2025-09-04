@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 271466,
       "name": "Mala",
       "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 223268,
       "name": "Mar - Original mix",
       "url": "https://open.spotify.com/track/2F2QRvfawvvAHBAm5ZRu7E"
@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Ana Barbara",
+        "url": "https://open.spotify.com/album/5mc5YQDRvnlquuDzUXcaEa"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/0xxsijDv4imuTCWKHeDQxV"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 211240,
       "name": "Nada",
       "url": "https://open.spotify.com/track/09oFND2pC7tobyRfNVYzjQ"

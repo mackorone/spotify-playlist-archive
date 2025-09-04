@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 180452,
+  "num_followers": 180563,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACc/0Q08t22gv/sjxKE28QS",
+  "snapshot_id": "aLYzgAAAAADfRvIn3LP9OZHSV3Rvx6Gl",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "him all along",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "him all along",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "him all along",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "him all along",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "MET GALA",
-      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204386,
       "name": "blackjack",
       "url": "https://open.spotify.com/track/7wFNZdZ0PaUTjmWv6cU5jx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "MET GALA",
+      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
     }
   ],
   "unique_name": "This Is Gunna",

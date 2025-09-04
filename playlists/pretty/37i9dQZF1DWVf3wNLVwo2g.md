@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,259 likes - 195 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,273 likes - 195 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 178 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/39fzx9j370ejpus9l3OiYw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 2:33 |
 | 179 | [Spoonful \- Spotify Singles](https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:25 |
 | 180 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 |
-| 181 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 |
-| 182 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 |
+| 181 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 |
+| 182 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 |
 | 183 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
 | 184 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 |
 | 185 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 189 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 |
 | 190 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
 | 191 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
-| 192 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
-| 193 | [Summer Rain \- Spotify Singles](https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:35 |
+| 192 | [Summer Rain \- Spotify Singles](https://open.spotify.com/track/6ZMkdGMAYK326Xhxq5yZ6v) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Spotify Singles](https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX) | 3:35 |
+| 193 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 | 194 | [The Great Pretender \- Spotify Singles](https://open.spotify.com/track/23pT5oehBgjEfysUkwWouv) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 3:26 |
 | 195 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 |
 

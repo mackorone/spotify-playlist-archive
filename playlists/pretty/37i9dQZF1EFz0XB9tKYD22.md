@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 337 songs - 20 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 337 songs - 20 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 30 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 31 | [Closer To You](https://open.spotify.com/track/6biq5BjD7UAXpefEgDVbp5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:07 |
 | 32 | [Little Toy Guns](https://open.spotify.com/track/51BWN2aIhyUgcXMAYSohdS) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/3Zuipf1PBcdnfKFyj6asOo) | 3:30 |
-| 33 | [Hide The Wine](https://open.spotify.com/track/4iThW5yeI2ExwwG0zte69c) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:29 |
-| 34 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 33 | [Baggage](https://open.spotify.com/track/0YC7DEF6UKaFVXIV9EMiG5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 2:32 |
+| 34 | [Hide The Wine](https://open.spotify.com/track/4iThW5yeI2ExwwG0zte69c) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:29 |
 | 35 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:18 |
 | 36 | [Grave](https://open.spotify.com/track/0rpwb2kLgS6KAZsostOj1O) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:13 |
 | 37 | [Need A Boat](https://open.spotify.com/track/0Lt04pLGDo0EnmguFgpv5C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:05 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 86 | [Spotlight](https://open.spotify.com/track/1CGn6PCvMZDeruZZg13BoR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:23 |
 | 87 | [Spinning Bottles](https://open.spotify.com/track/2tVrRlYUJMFUyIG0sJBgiA) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:16 |
 | 88 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
-| 89 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
-| 90 | [SO CLOSE \(feat\. Ashland Craft\)](https://open.spotify.com/track/3VNbQeU5THaYyB6Ayh7vIX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:45 |
+| 89 | [SO CLOSE \(feat\. Ashland Craft\)](https://open.spotify.com/track/3VNbQeU5THaYyB6Ayh7vIX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:45 |
+| 90 | [Denim & Rhinestones](https://open.spotify.com/track/3gC7D3VOB6zIeMG6lVNuTY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 2:48 |
 | 91 | [WildHorse](https://open.spotify.com/track/3jA2ZjqyX7JuQ0Z8IwVxEw) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:20 |
 | 92 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 |
 | 93 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 174 | [Throw Your Love Away](https://open.spotify.com/track/6TLBxHeVST12v07Ea9gUrK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:44 |
 | 175 | [His Hands](https://open.spotify.com/track/7LdV3FGsMhxBOsbS4lf4ma) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 4:15 |
 | 176 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
-| 177 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
-| 178 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 177 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
+| 178 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
 | 179 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
 | 180 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
 | 181 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 336 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 337 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `Ab7LYAAAAABGpSWRay/ZxD+Qn8hpKM1Y`
+Snapshot ID: `Ab7Q9gAAAADOKH5jSnCaywvlVxwzuGaX`

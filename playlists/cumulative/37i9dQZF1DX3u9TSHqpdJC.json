@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music from new, independent artists.  Cover: Chelsea Jordan. Artwork by Paola Saliby",
+  "description": "The best new pop music from new, independent artists.  Cover: Nina Caroline. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1923,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "AFK",
+        "url": "https://open.spotify.com/album/6cgBnUNM7dp84k3dK4GAWr"
+      },
+      "artists": [
+        {
+          "name": "zekke",
+          "url": "https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "AFK",
+      "url": "https://open.spotify.com/track/6vekI43cI8953FTf82Ys1p"
+    },
+    {
+      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/3RuiPgutHfZVX1jlld9wi7"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 168002,
       "name": "Allegedly",
       "url": "https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4"
@@ -4757,6 +4775,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be"
+      },
+      "artists": [
+        {
+          "name": "Rachel Harlow",
+          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207758,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H"
+    },
+    {
+      "album": {
         "name": "Ave Mar\u00eda",
         "url": "https://open.spotify.com/album/0u8grY1vLnusOmAck30qn6"
       },
@@ -6104,7 +6140,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 193324,
       "name": "Beaucoup",
       "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
@@ -9314,6 +9350,24 @@
       "duration_ms": 167661,
       "name": "brand new girl, brand new machine",
       "url": "https://open.spotify.com/track/1dkv7Wet7tohrkQTPXzdvw"
+    },
+    {
+      "album": {
+        "name": "brand new me!",
+        "url": "https://open.spotify.com/album/25lmBwKaUhxe5lt3LYrBTg"
+      },
+      "artists": [
+        {
+          "name": "homepage",
+          "url": "https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172271,
+      "name": "brand new me!",
+      "url": "https://open.spotify.com/track/00oIgUaZ98Kv1IzJlMLR8i"
     },
     {
       "album": {
@@ -17724,7 +17778,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 172195,
       "name": "Doe Eyes",
       "url": "https://open.spotify.com/track/09KUPjidRMH7GTEM4Kdwmb"
@@ -18344,7 +18398,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 194466,
       "name": "Don't Wanna Take It Slow",
       "url": "https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A"
@@ -19656,6 +19710,24 @@
       "duration_ms": 159946,
       "name": "eat me alive",
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
+    },
+    {
+      "album": {
+        "name": "Eating Me Alive",
+        "url": "https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192252,
+      "name": "Eating Me Alive",
+      "url": "https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw"
     },
     {
       "album": {
@@ -24898,7 +24970,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 154322,
       "name": "FUTARI",
       "url": "https://open.spotify.com/track/0do8OHVq9DdPf28rYUmFzP"
@@ -32237,6 +32309,24 @@
     },
     {
       "album": {
+        "name": "I Could Just Come Round",
+        "url": "https://open.spotify.com/album/0z7f1xzg37iSmBlQYbDwMN"
+      },
+      "artists": [
+        {
+          "name": "Darcey Hope",
+          "url": "https://open.spotify.com/artist/1gPRLniiXX1EccSgPJnLgg"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133409,
+      "name": "I Could Just Come Round",
+      "url": "https://open.spotify.com/track/1THBNjKehg3o3qBKADv9ft"
+    },
+    {
+      "album": {
         "name": "I Could Love U",
         "url": "https://open.spotify.com/album/74pxu890q1Fi8cChdbBXSx"
       },
@@ -37680,7 +37770,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 168825,
       "name": "KNIFE",
       "url": "https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT"
@@ -42984,7 +43074,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 188012,
       "name": "make the night last",
       "url": "https://open.spotify.com/track/5OdYWoQSPU83aHM81Gfh5y"
@@ -45112,7 +45202,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 224488,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/74Z1PVVlYjCHbG537ZujCV"
@@ -50506,6 +50596,24 @@
     {
       "album": {
         "name": "Outsider",
+        "url": "https://open.spotify.com/album/4esLeLHcxcSlz5qlP3ZBQN"
+      },
+      "artists": [
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/3jLI5m1MHwitYBCth0scsK"
+    },
+    {
+      "album": {
+        "name": "Outsider",
         "url": "https://open.spotify.com/album/7g64SpWAZMEuSfWo0T8Szw"
       },
       "artists": [
@@ -53363,6 +53471,24 @@
     },
     {
       "album": {
+        "name": "Pretend We're Fine",
+        "url": "https://open.spotify.com/album/5PWdJkREQr023nUYzz92cK"
+      },
+      "artists": [
+        {
+          "name": "notyourwife",
+          "url": "https://open.spotify.com/artist/6hd9tFRIzVJ5nuZwrosbNL"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Pretend We're Fine",
+      "url": "https://open.spotify.com/track/38vOPZSOEisbsuQXMMxxsD"
+    },
+    {
+      "album": {
         "name": "Prettiest Bitch",
         "url": "https://open.spotify.com/album/0JJLIOAjG35L0gePSTWtYK"
       },
@@ -53630,6 +53756,24 @@
       "duration_ms": 194659,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/1od6V9SncKppU9jZRoQxsF"
+    },
+    {
+      "album": {
+        "name": "Pretty Poison",
+        "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
+      },
+      "artists": [
+        {
+          "name": "Summer Davis",
+          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Pretty Poison",
+      "url": "https://open.spotify.com/track/4Vf2kHjHvLPqSJ02H3IFrN"
     },
     {
       "album": {
@@ -54416,7 +54560,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 151200,
       "name": "Radio Silent",
       "url": "https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ"
@@ -57354,6 +57498,24 @@
       "duration_ms": 92750,
       "name": "Safe Mode",
       "url": "https://open.spotify.com/track/2M9hxjASSb3sK15wGGQ6m0"
+    },
+    {
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193260,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75"
     },
     {
       "album": {
@@ -64136,6 +64298,24 @@
       "duration_ms": 166058,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3i1aStQRrIiJDRmQQi1uBZ"
+    },
+    {
+      "album": {
+        "name": "Sunny in London",
+        "url": "https://open.spotify.com/album/1NV9aMqgGmqLdbVEdUewLI"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189653,
+      "name": "Sunny in London",
+      "url": "https://open.spotify.com/track/3fNUY2bjHvsddPdOt5iV6A"
     },
     {
       "album": {
@@ -76438,7 +76618,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 203756,
       "name": "You Were Supposed To Fall In Love With Me",
       "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"

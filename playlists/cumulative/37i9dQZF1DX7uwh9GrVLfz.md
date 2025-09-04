@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: でかくてまるい。
 
-848 songs - 1 day 20 hr 56 min
+849 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [ならば青春よ](https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ロックンロール](https://open.spotify.com/album/4nxJ8v0MRVSAdBWtlWYOuk) | 3:29 | 2022-05-19 | 2022-07-28 |
 | [ひとつの曲ができるまで](https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [輝くもの天より堕ち](https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK) | 2:24 | 2024-07-30 | 2024-11-16 |
 | [ふざけてナイト](https://open.spotify.com/track/7zuAxJE5oNaGLdxcJfThZB) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ふざけてナイト](https://open.spotify.com/album/1REZLVcg3jVMBW2xj1yt4W) | 1:38 | 2024-03-05 | 2024-03-07 |
+| [ほっこりニュース大集合](https://open.spotify.com/track/0vJo23qMLSdOGgTKW1BELt) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ほっこりニュース大集合](https://open.spotify.com/album/6NaLLVi2lgMqnlBMqIsOXN) | 1:42 | 2025-09-02 |  |
 | [ぼーんず・あんど・おーる](https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ぼーんず・あんど・おーる](https://open.spotify.com/album/5hNo3JFjY8ViYmxNIEu0fd) | 3:19 | 2024-02-27 | 2024-02-29 |
 | [まくれ](https://open.spotify.com/track/40qPqGR1Lwf8YfApoeQ7yh) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [まくれ](https://open.spotify.com/album/0Mf93Ot20G7jXn1dzLYSLm) | 4:18 | 2022-05-24 | 2022-07-29 |
 | [もういい](https://open.spotify.com/track/3nnNpU81vjbflYXsmuf23R) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [もういい](https://open.spotify.com/album/7LdT35U05IlLByMoo9NJ8q) | 3:22 | 2022-05-12 | 2022-07-21 |
@@ -690,7 +691,7 @@
 | [スピード](https://open.spotify.com/track/2TbBvejxOk5c9NIqrNVS4M) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [スピード](https://open.spotify.com/album/14ApXQjoFkwRnlR50UExDt) | 2:53 | 2022-05-12 | 2022-07-23 |
 | [スモーキン・ビリー](https://open.spotify.com/track/6pjCT2TfxXdoNSMmWIkBA8) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [GEAR BLUES](https://open.spotify.com/album/7gUem4NLZn4NKR0d5IVeOJ) | 3:27 | 2022-05-12 | 2025-08-01 |
 | [スモールワールド](https://open.spotify.com/track/5JQo1K1OYDpGLTw3dmVNvG) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [エレクとリック](https://open.spotify.com/album/7sevoP2cNy9VoTZ8gmGIWl) | 3:30 | 2022-06-07 | 2022-07-27 |
-| [タイムセール逃してくれ \- 2024 ver.](https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:56 | 2024-03-07 |  |
+| [タイムセール逃してくれ \- 2024 ver.](https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:56 | 2024-03-07 | 2025-09-04 |
 | [タイムマシンブルース](https://open.spotify.com/track/1LVRTR2DyzAduRKqHwoqP7) | [youth](https://open.spotify.com/artist/1bMM01sPcDXTHfAxLKjK9z) | [タイムマシンブルース](https://open.spotify.com/album/4lLGuQHC4rkI5vCipANl9u) | 3:48 | 2024-01-23 | 2024-01-31 |
 | [タイムリミット](https://open.spotify.com/track/2chhBg7aGSGfxcmUjsAaKz) | [The Homesicks](https://open.spotify.com/artist/0U4GtZUDLZUvZdBWreoniH) | [タイムリミット](https://open.spotify.com/album/5yzKKgiw46sDS7uXqa0a8Q) | 3:49 | 2022-05-12 | 2022-07-29 |
 | [ティーンエイジじゃいられない](https://open.spotify.com/track/0qKNyKMNO8yPOENW7OZojB) | [ザ・暴動チャイルズ](https://open.spotify.com/artist/1rAfll9jPLKIllRhvevUMM) | [ティーンエイジじゃいられない](https://open.spotify.com/album/412bWzSB7KxVdzx8LZEqlO) | 3:56 | 2022-07-19 | 2022-08-10 |

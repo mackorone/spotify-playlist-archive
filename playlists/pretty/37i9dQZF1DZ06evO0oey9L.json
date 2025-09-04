@@ -1,13 +1,29 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 95048,
+  "num_followers": 95053,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADjS2WF+2o95mO3W3c2uvNp",
+  "snapshot_id": "aLYzgAAAAAB9wtcgrhQEE57N5mPhWm+K",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gwag",
+        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 146590,
+      "name": "La Gwag",
+      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
+    },
     {
       "added_at": null,
       "album": {
@@ -451,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dime x Que",
-        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
+        "name": "Ni\u00f1as De Revista",
+        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 173854,
-      "name": "Dime x Que",
-      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
+      "duration_ms": 147480,
+      "name": "Ni\u00f1as De Revista",
+      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,
@@ -483,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dime x Que",
+        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "Dime x Que",
+      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
         "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
       },
@@ -495,22 +527,6 @@
       "duration_ms": 184751,
       "name": "Cuartitos De Libra",
       "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni\u00f1as De Revista",
-        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 147480,
-      "name": "Ni\u00f1as De Revista",
-      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Miran La Apariencia",
-      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 186261,
       "name": "Se Oyen Recio Los Disparos",
       "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Miran La Apariencia",
+      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
-        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 197247,
-      "name": "WAX",
-      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Va Por Todos",
         "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Quiero Agarrar El Rollo",
-        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 121209,
-      "name": "No Quiero Agarrar El Rollo",
-      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sangre De Rancho",
         "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or 80",
-        "url": "https://open.spotify.com/album/5xWFLe8Tlnhe6HVmqHQsrf"
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 143357,
-      "name": "Se\u00f1or 80",
-      "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!\. Cover: Midnight Fusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,447 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,448 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 25 | [mejikuhibiniu](https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [mejikuhibiniu](https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK) | 3:16 |
 | 26 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
 | 27 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
-| 28 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
-| 29 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
+| 28 | [Bunga Maaf](https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Bunga Maaf](https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0) | 4:12 |
+| 29 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 |
 | 30 | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/track/1hlHeIZ36Idpr57xPI8OCD) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [Garam & Madu \(Sakit Dadaku\)](https://open.spotify.com/album/6moZrTqV9B8xfqXALVgaAZ) | 3:04 |
 | 31 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
 | 32 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 |
-| 33 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
-| 34 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
+| 33 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
+| 34 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
 | 35 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 |
 | 36 | [Tanpa Cinta](https://open.spotify.com/track/3CSFXGhoR8C9kBF90xhIXG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tanpa Cinta](https://open.spotify.com/album/5FZVotW2jvhK31tvGSCKHz) | 4:15 |
 | 37 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 |
 | 38 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
-| 39 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 |
-| 40 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
+| 39 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
+| 40 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 |
 | 41 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 42 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 |
 | 43 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 47 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 |
 | 48 | [Malapetaka](https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Malapetaka](https://open.spotify.com/album/5XFwxKmkc0RmrncnPKnejB) | 3:47 |
 | 49 | [Sebatas Mimpi](https://open.spotify.com/track/66bAuBggOmZ4YDgqlWk8Fo) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sebatas Mimpi](https://open.spotify.com/album/7i0hFkyqprLGxZu5uVGEnY) | 3:38 |
-| 50 | [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 |
+| 50 | [Berakhir di Aku \- Original Soundtrack From "Home Sweet Loan"](https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Berakhir di Aku \(Original Soundtrack From "Home Sweet Loan"\)](https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd) | 3:56 |
 
 Snapshot ID: `AAAAAJsIaWK9EzpmhFXFiQ2yq24MBjFu`

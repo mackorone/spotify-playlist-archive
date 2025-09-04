@@ -37052,7 +37052,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 54845,
       "name": "Message 1",
       "url": "https://open.spotify.com/track/1Ax55SEHx4toTKFEM3z7T5"
@@ -57869,6 +57869,24 @@
     },
     {
       "album": {
+        "name": "Theorem",
+        "url": "https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Theorem",
+      "url": "https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt"
+    },
+    {
+      "album": {
         "name": "There Goes My Baby",
         "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
       },
@@ -59976,7 +59994,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 184238,
       "name": "U R MINE - Porches Remix",
       "url": "https://open.spotify.com/track/65WvwhavpXjK5XXnLZtK36"

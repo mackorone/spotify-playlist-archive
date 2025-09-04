@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Superman
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,298 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,328 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 31 | [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 |
 | 32 | [Like a Rolling Stone](https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Music From The Motion Picture\)](https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4) | 3:22 |
 | 33 | [Ultimate](https://open.spotify.com/track/0WeaOSRwr944nlMVoOXPC4) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 2:53 |
-| 34 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 |
+| 34 | [Father Figure \- Remastered](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 |
 | 35 | [I Like Me Better](https://open.spotify.com/track/4MagTPnkPiDuIa4P8GtW1b) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:17 |
 | 36 | [Your Man](https://open.spotify.com/track/4J2HQow52pFt9olOHnYTbk) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE) | 2:43 |
 | 37 | [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,595 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,609 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 34 | [S.O.S\. \[Share One Sorrow\] \- feat.Tokyo Tanaka & Jean\-Ken Johnny](https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Tokyo Tanaka](https://open.spotify.com/artist/1CCYrklxWCwWnOEm2mn4zC), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [S.O.S\. \[Share One Sorrow\] \(feat.Tokyo Tanaka & Jean\-Ken Johnny\)](https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr) | 4:02 |
 | 35 | [まだ、諦めてないだろ？](https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [まだ、諦めてないだろ？](https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD) | 3:02 |
 | 36 | [ルパン三世のテーマ'78](https://open.spotify.com/track/4YjQTyYjB5aGITR36Dmatx) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last〜Live〜](https://open.spotify.com/album/62wUvIqZFqkjSPfOemXRWh) | 2:41 |
-| 37 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
-| 38 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
-| 39 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
+| 37 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
+| 38 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
+| 39 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 40 | [君にサチアレ](https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:10 |
 | 41 | [Diamond In Your Heart](https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Diamond In Your Heart](https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC) | 5:37 |
 | 42 | [Glorious](https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 2:48 |
-| 43 | [The Liar](https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp) | 3:29 |
-| 44 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
+| 43 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
+| 44 | [The Liar](https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp) | 3:29 |
 | 45 | [快哉を叫ぶとき](https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [君にサチアレ](https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ) | 4:27 |
 | 46 | [カルぺ・ディエム～今日がその日さ](https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:56 |
 | 47 | [トイトイ \- feat.ムロツヨシ](https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ムロツヨシ](https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr) | [トイトイ \(feat.ムロツヨシ\)](https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA) | 3:44 |
-| 48 | [追い越してく星](https://open.spotify.com/track/7BTcLsV4NDFwqWEX9BJyFG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:45 |
-| 49 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
+| 48 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
+| 49 | [追い越してく星](https://open.spotify.com/track/7BTcLsV4NDFwqWEX9BJyFG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:45 |
 | 50 | [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 |
 
-Snapshot ID: `aLTiAAAAAAAkhJv+gMV8wdVyi957y+Zx`
+Snapshot ID: `aLYzgAAAAAA+jV6QObOMke9ScmYxw8qH`

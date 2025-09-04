@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 237066,
+  "num_followers": 237127,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Blessing",
         "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 187560,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Long Live Soca",
-        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
       },
       "artists": [
         {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+          "name": "David Rudder",
+          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
         }
       ],
-      "duration_ms": 225251,
-      "name": "Long Live Soca",
-      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
+      "duration_ms": 295106,
+      "name": "Trini 2 De Bone",
+      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna"
+        "name": "Long Live Soca",
+        "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
       "artists": [
         {
-          "name": "David Rudder",
-          "url": "https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq"
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Trini 2 De Bone",
-      "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+      "duration_ms": 225251,
+      "name": "Long Live Soca",
+      "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Jab Supremacy",
-        "url": "https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH"
-      },
-      "artists": [
-        {
-          "name": "Terra D Governor",
-          "url": "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Jab Supremacy",
-      "url": "https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "The Carnival Jumbies Experiment",
         "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 158917,
       "name": "Carnival Jumbie",
       "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Jab Supremacy",
+        "url": "https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH"
+      },
+      "artists": [
+        {
+          "name": "Terra D Governor",
+          "url": "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Jab Supremacy",
+      "url": "https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 196557,
       "name": "Blind",
       "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1499,34 +1499,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Fou Le Bordel",
-        "url": "https://open.spotify.com/album/0uxpr8jsQoXlHK6KUc6vxP"
-      },
-      "artists": [
-        {
-          "name": "Scory Kovitch",
-          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
-        },
-        {
-          "name": "Alyssa",
-          "url": "https://open.spotify.com/artist/56CuEF8lZebCc0uzFQrGLD"
-        },
-        {
-          "name": "Noelia",
-          "url": "https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i"
-        },
-        {
-          "name": "K-Rosif",
-          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
-        }
-      ],
-      "duration_ms": 138034,
-      "name": "Fou Le Bordel",
-      "url": "https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "How ah Livin",
         "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
       },
@@ -1599,6 +1571,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Search Party",
+        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 206609,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1615,18 +1603,30 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Search Party",
-        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+        "name": "Fou Le Bordel",
+        "url": "https://open.spotify.com/album/0uxpr8jsQoXlHK6KUc6vxP"
       },
       "artists": [
         {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+          "name": "Scory Kovitch",
+          "url": "https://open.spotify.com/artist/2nzTQ304dMho2rPgMhPXq8"
+        },
+        {
+          "name": "Alyssa",
+          "url": "https://open.spotify.com/artist/56CuEF8lZebCc0uzFQrGLD"
+        },
+        {
+          "name": "Noelia",
+          "url": "https://open.spotify.com/artist/1wdVL1PASa1NzPexn8iN6i"
+        },
+        {
+          "name": "K-Rosif",
+          "url": "https://open.spotify.com/artist/5gFPNO9iQl6MI5vUawFGcV"
         }
       ],
-      "duration_ms": 206609,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+      "duration_ms": 138034,
+      "name": "Fou Le Bordel",
+      "url": "https://open.spotify.com/track/5O5wQzUnWQt5xAoO6It04e"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1683,38 +1683,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Big Links Riddim",
-        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK"
       },
       "artists": [
         {
           "name": "Yung Bredda",
           "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
         }
       ],
       "duration_ms": 170769,
-      "name": "The Greatest Bend Over",
-      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "ESKIMO",
-        "url": "https://open.spotify.com/album/59d6YjsvxMfIYOlRP1OEHW"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Killa",
-          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
-        }
-      ],
-      "duration_ms": 216343,
-      "name": "ESKIMO",
-      "url": "https://open.spotify.com/track/4dcDJ2zxbrO6CBgpZ3lxPz"
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1731,6 +1711,22 @@
       "duration_ms": 188842,
       "name": "Spoil You",
       "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "ESKIMO",
+        "url": "https://open.spotify.com/album/59d6YjsvxMfIYOlRP1OEHW"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Killa",
+          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+        }
+      ],
+      "duration_ms": 216343,
+      "name": "ESKIMO",
+      "url": "https://open.spotify.com/track/4dcDJ2zxbrO6CBgpZ3lxPz"
     },
     {
       "added_at": "2025-08-29 14:56:22",

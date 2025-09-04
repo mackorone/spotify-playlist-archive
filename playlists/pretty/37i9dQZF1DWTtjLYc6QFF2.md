@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: Maryna Krut
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,261 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

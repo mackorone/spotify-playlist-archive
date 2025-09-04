@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Sabrina Carpenter, Olly e Juli, Irama e Elodie, Neffa, Gaia, Rondodasosa, Steve Aoki e Gabry Ponte e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,927 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,931 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

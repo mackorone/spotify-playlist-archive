@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,098 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,100 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 29 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
 | 30 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 31 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
-| 32 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 |
+| 32 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 33 | [One Day Away \(feat\. Keith Urban\)](https://open.spotify.com/track/15e3leRc1c26oStnjjiex6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:44 |
-| 34 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
+| 34 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 |
 | 35 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 |
 | 36 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 37 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 47 | [Good Morning Schoolgirl](https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 3:56 |
 | 48 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 |
 | 49 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
-| 50 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
+| 50 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 |
 
-Snapshot ID: `aLTiAAAAAAAMP3i1FAxuqXH+ZIgyyJXa`
+Snapshot ID: `aLYzgAAAAAA01eGQusOW+xuCWzUCXPyk`

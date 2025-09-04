@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 猫は液体
 
-1,329 songs - 3 day 8 hr 12 min
+1,330 songs - 3 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [reunion](https://open.spotify.com/track/390xMVQm5vd0GmSv6uaSb3) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [reunion](https://open.spotify.com/album/7AtkFDr4GN95deyKuZmSk7) | 4:56 | 2025-03-25 | 2025-04-02 |
 | [revenge](https://open.spotify.com/track/2lwHHCBquik2hf0k4gp6AO) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [Stand up](https://open.spotify.com/album/1Mv2KO4XWpqSgtWej7xAJb) | 1:53 | 2024-04-30 | 2024-07-03 |
 | [Revodes](https://open.spotify.com/track/1XEsonSLs1MBNnBhdNRaYt) | [Manatsu](https://open.spotify.com/artist/0QsmAtCC9Z5uS53sg6QkfS) | [Revodes](https://open.spotify.com/album/1XHKR962WKZPcKFjgVEkDD) | 2:04 | 2023-11-14 | 2023-11-22 |
-| [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 | 2025-08-05 |  |
+| [rip\-off](https://open.spotify.com/track/0RPZPRlxpBvZkvgkwlhwU2) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [rip\-off](https://open.spotify.com/album/04KGhwvshqelIYZVFjNP4Y) | 3:51 | 2025-08-05 | 2025-09-04 |
 | [Riverside Night](https://open.spotify.com/track/3qVnXeoFw4WBxQjrywmrn7) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:01 | 2024-03-07 | 2024-04-19 |
 | [rock band syndrome](https://open.spotify.com/track/1eGGs9yNtw8Pbjei0btDBk) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [rock band syndrome](https://open.spotify.com/album/4TsOu6k1mnadl5lpfosAzW) | 3:13 | 2025-07-15 | 2025-07-30 |
 | [ROCK ROCK 36](https://open.spotify.com/track/6Ks1niTVpZeRpVfbb3Sbky) | [Baby Canta](https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww) | [SHYBOY \- EP](https://open.spotify.com/album/1tm0gNM4UC5MgIbAS6nrlB) | 3:02 | 2025-06-03 | 2025-06-18 |
@@ -1123,6 +1123,7 @@
 | [感傷謳歌](https://open.spotify.com/track/3TLvVHq7a7fKlerM0SLnFd) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [浪漫](https://open.spotify.com/album/0KEpY0QseuNMCJSvOrSaoZ) | 4:33 | 2023-07-27 | 2023-11-16 |
 | [憧憬](https://open.spotify.com/track/6OyykjNsb8JEjYtqC493I5) | [Akarisaki](https://open.spotify.com/artist/1fF3JJMAIIVmwPAkalthvH) | [憧憬](https://open.spotify.com/album/2zPCT60qnpqL5Bi6geaHkW) | 4:50 | 2024-11-05 | 2024-11-13 |
 | [抱きしめて！青春](https://open.spotify.com/track/5vQStAgelrzSmiDdr0jcPV) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [抱きしめて！青春](https://open.spotify.com/album/1ATq91yhDZAop2cyQqPyOE) | 3:34 | 2025-02-18 | 2025-03-26 |
+| [拝啓、僕へ](https://open.spotify.com/track/6x6HIzOrkncQw94uAMnFhO) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [拝啓、僕へ](https://open.spotify.com/album/0wdDz04Ln00YsTwKGMKXjt) | 3:24 | 2025-09-02 |  |
 | [指環](https://open.spotify.com/track/4avbiuhM2H0BizkBFMNs8h) | [Lovebuff](https://open.spotify.com/artist/59cHyhype0Lk7MLNKGP2TD) | [指環](https://open.spotify.com/album/0oMfthrhIWwY5tuulVBkJj) | 4:59 | 2024-04-02 | 2024-04-24 |
 | [指髪](https://open.spotify.com/track/47BjDn6H6ytNPJCfgLV3U5) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [指髪](https://open.spotify.com/album/7yXq1sXy8KksAunxrVAGWr) | 2:46 | 2025-05-21 |  |
 | [挿入歌](https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [挿入歌](https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2) | 2:57 | 2025-03-25 | 2025-07-09 |

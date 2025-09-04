@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,589 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,590 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 35 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
 | 36 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
 | 37 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 38 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
-| 39 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
+| 38 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
+| 39 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 |
 | 40 | [The Auction](https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [The Auction](https://open.spotify.com/album/7KskZmiLjIUjWFijCmoZDw) | 2:56 |
 | 41 | [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 |
 | 42 | [The Bed I Made](https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [The Bed I Made](https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a) | 3:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 52 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 53 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 54 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
-| 55 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
-| 56 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
+| 55 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
+| 56 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 57 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 |
 | 58 | [Came Thru](https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Thinking With My Ears](https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk) | 2:37 |
 | 59 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |

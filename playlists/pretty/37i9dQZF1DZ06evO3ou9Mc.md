@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,695 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,774 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 12 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 |
 | 13 | [Staring At The Sun](https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:13 |
 | 14 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
-| 15 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 |
-| 16 | [\(Can't Get My\) Head Around You](https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:14 |
+| 15 | [\(Can't Get My\) Head Around You](https://open.spotify.com/track/1qYcHo4wiesUC2VIRch45G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:14 |
+| 16 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 |
 | 17 | [Coming For You](https://open.spotify.com/track/0FLmCEO4OccwwiHxveEpt1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:48 |
 | 18 | [Slim Pickens Does The Right Thing And Rides The Bomb To Hell](https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:36 |
 | 19 | [Bad Habit](https://open.spotify.com/track/5tFzUj1jV09bo4wBQWSbDl) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:43 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 35 | [Defy You](https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:48 |
 | 36 | [Make It All Right](https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:34 |
 | 37 | [Come Out Swinging](https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:47 |
-| 38 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
-| 39 | [Secrets From The Underground](https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 3:09 |
-| 40 | [Amazed](https://open.spotify.com/track/7HSUUinWJIBQDdydU2zP0B) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Running & Cycling with The Offspring](https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G) | 4:25 |
-| 41 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
-| 42 | [The Fall Guy](https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:34 |
-| 43 | [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 |
+| 38 | [Secrets From The Underground](https://open.spotify.com/track/1KblaMkte0ZEyk9k6kLW92) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 3:09 |
+| 39 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
+| 40 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
+| 41 | [Amazed](https://open.spotify.com/track/7HSUUinWJIBQDdydU2zP0B) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Running & Cycling with The Offspring](https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G) | 4:25 |
+| 42 | [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 |
+| 43 | [The Fall Guy](https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 2:34 |
 | 44 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 |
 | 45 | [You Can't Get There From Here](https://open.spotify.com/track/6OnXz4uiAzraGdAJb5z3KQ) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Running & Cycling with The Offspring](https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G) | 3:54 |
 | 46 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [I Wanna Secret Family \(With You\)](https://open.spotify.com/track/54swtHzNdIhNhCdEZD4hVY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Running & Cycling with The Offspring](https://open.spotify.com/album/0nn7FHlAjD0xVNSPFisB2G) | 3:01 |
 | 50 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
 
-Snapshot ID: `aLTiAAAAAADJ8SvR1Hr4cUukZDsk1rUY`
+Snapshot ID: `aLYzgAAAAABOStUv64UF/A2X1eLzTxKb`

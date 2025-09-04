@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2650290,
+  "num_followers": 2650186,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,22 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -107,22 +111,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1416,7 +1416,7 @@
       "added_at": "2025-01-07 16:46:50",
       "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
+        "url": "https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 225506,
-      "name": "Operator - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
+      "duration_ms": 165440,
+      "name": "You Don't Mess Around With Jim - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1496,7 +1496,7 @@
       "added_at": "2025-01-07 16:46:50",
       "album": {
         "name": "Demo Tapes (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk"
+        "url": "https://open.spotify.com/album/3jLng533M56YEr2abSeEoW"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 165440,
-      "name": "You Don't Mess Around With Jim - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ"
+      "duration_ms": 225506,
+      "name": "Operator - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB"
     },
     {
       "added_at": "2025-01-07 16:46:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-01-07 16:46:50",
       "album": {
-        "name": "Led Zeppelin IV",
-        "url": "https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb"
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Going to California - 1990 Remaster",
-      "url": "https://open.spotify.com/track/55sjCMeQM26VxbNHhMtj2b"
+      "duration_ms": 124693,
+      "name": "Norwegian Wood (This Bird Has Flown) - Remastered",
+      "url": "https://open.spotify.com/track/4DE42oDol0KHxympBsaiYu"
     }
   ],
   "unique_name": "Classic Acoustic",

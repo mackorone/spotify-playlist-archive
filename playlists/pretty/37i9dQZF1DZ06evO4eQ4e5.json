@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84843,
+  "num_followers": 84850,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAA6A6gUnWVdpkaGa6SN5QYb",
+  "snapshot_id": "aLYzgAAAAABH/PQMfrO4OiSJS9w3QCet",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 203560,
-      "name": "No Te Preocupes por M\u00ed",
-      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
+      "duration_ms": 249000,
+      "name": "Ese Beso",
+      "url": "https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Ese Beso",
-      "url": "https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0"
+      "duration_ms": 203560,
+      "name": "No Te Preocupes por M\u00ed",
+      "url": "https://open.spotify.com/track/5G3hFb8E9rMlKbdyDY4Vzh"
     },
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Nos Dieron Las Diez",
-        "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
         }
       ],
-      "duration_ms": 314947,
-      "name": "Y Nos Dieron Las Diez",
-      "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
+      "duration_ms": 220133,
+      "name": "Por hablarle de ti",
+      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Y Nos Dieron Las Diez",
+        "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Por hablarle de ti",
-      "url": "https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs"
+      "duration_ms": 314947,
+      "name": "Y Nos Dieron Las Diez",
+      "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memorias Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 249586,
       "name": "No Renunciar\u00e9",
       "url": "https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,442 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,439 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 28 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
 | 29 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 |
 | 30 | [Quiéreme](https://open.spotify.com/track/1g6fJbLPAZgk1Hrl1EVzK5) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:02 |
-| 31 | [Modo Romántico](https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Modo Romántico](https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE) | 3:03 |
-| 32 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
+| 31 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
+| 32 | [Modo Romántico](https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy) | [DeMasters](https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Modo Romántico](https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE) | 3:03 |
 | 33 | [Corazón](https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:28 |
 | 34 | [Ay Amor](https://open.spotify.com/track/0FEy5me9ZbbCVPMdPITNhi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:29 |
 | 35 | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \- Versión Reggaeton](https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \[Versión Reggaeton\]](https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 49 | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA) | 3:02 |
 | 50 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 |
 
-Snapshot ID: `aLTiAAAAAAAJcT4Os0QV7JNNrcGOqUKZ`
+Snapshot ID: `aLYzgAAAAAD+s1Utznr/VY6JpXsv4RQ8`

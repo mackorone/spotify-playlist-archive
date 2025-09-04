@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,579 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,577 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/0fmoN2m4nuA4qGShcg3TuK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:54 |
 | 50 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\) \- Ao Vivo](https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:38 |
 
-Snapshot ID: `aLTiAAAAAAD3D4kQMrHhzh+5M0tI2BOa`
+Snapshot ID: `aLYzgAAAAACx42inWaaxQEqI5tywdEO0`

@@ -2583,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "Flurry",
+        "url": "https://open.spotify.com/album/3tSC8QPwJUIQgqCm1xJnkK"
+      },
+      "artists": [
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2025-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1268427,
+      "name": "Flurry",
+      "url": "https://open.spotify.com/track/6rNhG4YREPMyD3gQMx9G6O"
+    },
+    {
+      "album": {
         "name": "Sights & Sounds",
         "url": "https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ"
       },
@@ -8498,7 +8516,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 126000,
       "name": "While We Wait",
       "url": "https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Sabrina Carpenter, Stromae, Sylvie Kreusch and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,283 likes - 83 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,291 likes - 83 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

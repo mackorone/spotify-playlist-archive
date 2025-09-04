@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: CORTIS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,639 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,677 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 3 | [N the Front](https://open.spotify.com/track/7cVVkfA2Bk6fpWu2wbievO) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/3BUEab50RO1tf709W4EMcL) | 3:00 |
 | 4 | [ICONIK](https://open.spotify.com/track/7srZ5Feiz5S4R4O9jL1Dx4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I) | 3:13 |
 | 5 | [PARADISE](https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:50 |
-| 6 | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
+| 6 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
 | 7 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 |
 | 8 | [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 |
 | 9 | [STUPID](https://open.spotify.com/track/73zoJOtMEpGqWLGIOCChSz) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [UPSIDE DOWN](https://open.spotify.com/album/7F4KP5n3EcXCWlaphhV5fq) | 3:19 |

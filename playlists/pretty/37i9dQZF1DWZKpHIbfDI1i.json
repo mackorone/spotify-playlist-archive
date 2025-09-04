@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Eden Mu\u00f1oz en portada ",
-  "num_followers": 789853,
+  "num_followers": 790161,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Supreme",
-      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 233306,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 169317,
+      "name": "Supreme",
+      "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 211250,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Campo De Fuerza",
         "url": "https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Aqu\u00ed Hay Para Llevar",
-        "url": "https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E"
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 179026,
-      "name": "Aqu\u00ed Hay Para Llevar",
-      "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
+      "duration_ms": 211250,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1067,6 +1051,22 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "Aqu\u00ed Hay Para Llevar",
+        "url": "https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Aqu\u00ed Hay Para Llevar",
+      "url": "https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "Aplauso",
-        "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 232153,
-      "name": "Aplauso",
-      "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 169640,
       "name": "Una Nada M\u00e1s",
       "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "Aplauso",
+        "url": "https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 232153,
+      "name": "Aplauso",
+      "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1207,42 +1207,6 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "MONTHS",
-        "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 169988,
-      "name": "MONTHS",
-      "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
-        "name": "VIBRA PERFECTA",
-        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 148273,
-      "name": "VIBRA PERFECTA",
-      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -1263,6 +1227,42 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
+        "name": "VIBRA PERFECTA",
+        "url": "https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 148273,
+      "name": "VIBRA PERFECTA",
+      "url": "https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "MONTHS",
+        "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 169988,
+      "name": "MONTHS",
+      "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
         "name": "Mexicano Soy",
         "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 152562,
       "name": "Mexicano Soy",
       "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
-    },
-    {
-      "added_at": "2025-08-29 06:00:08",
-      "album": {
-        "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
-        "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
-      },
-      "artists": [
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 122624,
-      "name": "sue\u00f1a lindo, coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1315,6 +1299,22 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
+    },
+    {
+      "added_at": "2025-08-29 06:00:08",
+      "album": {
+        "name": "sue\u00f1a lindo, coraz\u00f3n / nuestra casa en el mar",
+        "url": "https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 122624,
+      "name": "sue\u00f1a lindo, coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
     },
     {
       "added_at": "2025-08-29 06:00:08",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2025-08-29 06:00:08",
       "album": {
-        "name": "La Bestia",
-        "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
+        "name": "Lowrider",
+        "url": "https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 186368,
-      "name": "La Bestia",
-      "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
+      "duration_ms": 195851,
+      "name": "Lowrider",
+      "url": "https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b"
     }
   ],
   "unique_name": "Top M\u00e9xico",

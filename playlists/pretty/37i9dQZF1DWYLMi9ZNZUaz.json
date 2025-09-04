@@ -1,6 +1,6 @@
 {
   "description": "Nguy\u00ean team h\u1ec7<a href=\"https://open.spotify.com/presents/vietspirit\"> chi\u1ebfn binh</a> \nnh\u01b0 RHYDER  \u0111i v\u00e0o \u0111\u00e2y h\u1ebft!",
-  "num_followers": 112049,
+  "num_followers": 112085,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
         "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
         "url": "https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        }
-      ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -534,11 +534,15 @@
         {
           "name": "RPT MCK",
           "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 194005,
-      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
-      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -654,15 +658,11 @@
         {
           "name": "RPT MCK",
           "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+      "duration_ms": 194005,
+      "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
+      "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -771,22 +771,38 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
+        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
       },
       "artists": [
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "REX",
-          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        },
+        {
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+        },
+        {
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
+      "duration_ms": 252428,
+      "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
+      "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -851,38 +867,22 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
-        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
+        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
       },
       "artists": [
         {
-          "name": "ANH TRAI \"SAY HI\"",
-          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
         },
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        },
-        {
-          "name": "ERIK",
-          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
-        },
-        {
-          "name": "Anh T\u00fa Atus",
-          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
-        },
-        {
-          "name": "JSOL",
-          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
-        },
-        {
-          "name": "Orange",
-          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
         }
       ],
-      "duration_ms": 252428,
-      "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
-      "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
+      "duration_ms": 192631,
+      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
     },
     {
       "added_at": "2025-08-28 23:57:02",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
+        "name": "ANH TRAI \"SAY HI\", Chung K\u1ebft 1",
+        "url": "https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 210491,
+      "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
+      "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+    },
+    {
+      "added_at": "2025-08-28 23:57:02",
+      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN"
       },
@@ -1055,46 +1075,18 @@
     {
       "added_at": "2025-08-28 23:57:02",
       "album": {
-        "name": "M\u1eaft \u0110en",
-        "url": "https://open.spotify.com/album/44b2aJUO67wMPTMBi7QvZa"
-      },
-      "artists": [
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 223860,
-      "name": "M\u1eaft \u0110en",
-      "url": "https://open.spotify.com/track/6ulLa3bIKLZ652YINbKH71"
-    },
-    {
-      "added_at": "2025-08-28 23:57:02",
-      "album": {
-        "name": "TETVOVEN",
-        "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
       "artists": [
         {
           "name": "Wxrdie",
           "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        },
-        {
-          "name": "Machiot",
-          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
         }
       ],
-      "duration_ms": 197230,
-      "name": "TETVOVEN",
-      "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+      "duration_ms": 190343,
+      "name": "L\u1ed1i S\u1ed1ng",
+      "url": "https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

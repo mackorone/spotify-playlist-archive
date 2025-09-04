@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,146,212 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,146,390 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 90 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |
 | 91 | [Tenement Yard](https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE) | [Jacob Miller](https://open.spotify.com/artist/6zJjuLyqniz4ilDlYIjiio) | [Song Book: Chapter a Day](https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP) | 2:34 |
 | 92 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 93 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 94 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
-| 95 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
-| 96 | [Skinhead Moonstomp](https://open.spotify.com/track/5xY9cBSbw8AqfjET2v2wmK) | [Symarip](https://open.spotify.com/artist/62WqEN59Hl7Q1K8Vlt33Mo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:00 |
-| 97 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
-| 98 | [Girlie Girlie](https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 |
-| 99 | [Rivers of Babylon](https://open.spotify.com/track/3t3ef0BO5oPbaeYUJsxGWW) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:25 |
-| 100 | [Mellow Mood](https://open.spotify.com/track/0OKMUpT5jHO3g5MePDoDXr) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/5rM5qPO90wib9kRdESozAt) | 3:51 |
+| 93 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
+| 94 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 95 | [Mellow Mood](https://open.spotify.com/track/0OKMUpT5jHO3g5MePDoDXr) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Bunny Wailer Sings The Wailers](https://open.spotify.com/album/5rM5qPO90wib9kRdESozAt) | 3:51 |
+| 96 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
+| 97 | [Skinhead Moonstomp](https://open.spotify.com/track/5xY9cBSbw8AqfjET2v2wmK) | [Symarip](https://open.spotify.com/artist/62WqEN59Hl7Q1K8Vlt33Mo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:00 |
+| 98 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 99 | [Girlie Girlie](https://open.spotify.com/track/1BIXp9KalUDVgsN9xqfcNe) | [Sophia George](https://open.spotify.com/artist/30cz8YgBZbMVQ5XT8xIPDI) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:03 |
+| 100 | [Wonderful World, Beautiful People](https://open.spotify.com/track/3JvaxYLkDFudjoHYIW8FvC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:11 |
 
 Snapshot ID: `AAAAABu+XjFQroHtiuGSSTSBelDADKoy`

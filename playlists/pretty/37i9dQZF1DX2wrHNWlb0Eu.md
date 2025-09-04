@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,578 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,591 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 96 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 |
 | 97 | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น](https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8) | 4:14 |
 | 98 | [ยิ่งรู้จักยิ่งรักเธอ](https://open.spotify.com/track/5a7QupGpMLTyaq3EvXIOhi) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [Thai Music Top Download](https://open.spotify.com/album/2FAAa8DzjRwUhM9hH7pwfQ) | 4:20 |
-| 99 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 |
-| 100 | [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 |
+| 99 | [คนในฝัน \(เพลงประกอบละคร ฝันเฟื่อง\)](https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON) | [Mr.Team](https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH) | [Best of MR.TEAM](https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl) | 4:03 |
+| 100 | [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 |
 
-Snapshot ID: `AAAAAA3HU1573bFGG4bgMjmvKVD3JJG1`
+Snapshot ID: `AAAAAF6Bl28ebTyXUSq0VXn748cM2muB`

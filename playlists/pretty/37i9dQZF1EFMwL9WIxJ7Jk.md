@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,402 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,403 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 45 | [Mama Wanna Mambo \(feat\. NATTI NATASHA & Arturo Sandoval\)](https://open.spotify.com/track/5Vv6zKTsWWyZvbYUmkcEOf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:56 |
 | 46 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1Q9Y26MeSfVjGgFr9zHBu9) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:17 |
 | 47 | [Marry Me](https://open.spotify.com/track/6NrWdxWR0sj4gPAOU2w2tu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:35 |
-| 48 | [Sensitive \(feat\. Scott Hoying\)](https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:58 |
-| 49 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 |
+| 48 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W) | 2:31 |
+| 49 | [Sensitive \(feat\. Scott Hoying\)](https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:58 |
 | 50 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 |
 | 51 | [Your Turn](https://open.spotify.com/track/4aG41nJ7tfC1Z4yuVyhjRr) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:21 |
 | 52 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 98 | [You Got Me](https://open.spotify.com/track/516haWbwpSQqCxeuxaZekF) | [Son Of A Bad Man](https://open.spotify.com/artist/1y4UTy6pUNkbc3q0TIlRVI) | [Son Of A Bad Man](https://open.spotify.com/album/3eggSLy0wpQpvDdPkd5YEI) | 3:18 |
 | 99 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 
-Snapshot ID: `Ab7LagAAAACM/K66chuDtCxZUtWVk5US`
+Snapshot ID: `Ab7RHgAAAABdXYR/HWtXXwe8wJUKNnc5`

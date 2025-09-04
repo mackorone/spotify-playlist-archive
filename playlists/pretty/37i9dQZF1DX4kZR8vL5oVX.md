@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,580 likes - 46 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,694 likes - 46 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

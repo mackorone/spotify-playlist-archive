@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,600 likes - 35 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,734 likes - 35 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 29 | [Undertow](https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 5:22 |
 | 30 | [Culling Voices](https://open.spotify.com/track/3gPxMQWDMSEyPXMtzbcDdQ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 10:05 |
 | 31 | [Sweat](https://open.spotify.com/track/3vjHuVFZGC0Bm2Ud0wNpgs) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:47 |
-| 32 | [Intolerance](https://open.spotify.com/track/2cF1W1G0sERJu0Y49tGjnx) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 4:54 |
+| 32 | [Bottom](https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 7:13 |
 | 33 | [Part Of Me](https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:17 |
-| 34 | [Bottom](https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 7:13 |
+| 34 | [Intolerance](https://open.spotify.com/track/2cF1W1G0sERJu0Y49tGjnx) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 4:54 |
 | 35 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 |
 
-Snapshot ID: `aLTiAAAAAAAbVWZGICtycmABMpyfZ2dO`
+Snapshot ID: `aLYzgAAAAAAXZtGkEfNHZT4o+Xs7w1bA`

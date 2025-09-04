@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,870 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,945 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 41 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 42 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 43 | [Gaminart](https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un) | [Crack Family](https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [La Familia, Cap\. 1](https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ) | 5:09 |
-| 44 | [C.R.O 24/Siempre](https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [24/Siempre, Vol\. 1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 1:50 |
+| 44 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
 | 45 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 |
-| 46 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
+| 46 | [C.R.O 24/Siempre](https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [24/Siempre, Vol\. 1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 1:50 |
 | 47 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 | 48 | [Abarajame](https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH) | 4:18 |
 | 49 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |

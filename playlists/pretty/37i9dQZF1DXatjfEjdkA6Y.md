@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,287 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,291 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 46 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
 | 47 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
 | 48 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
-| 49 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
-| 50 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
+| 49 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
+| 50 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
 | 51 | [Non ho l'età \- Remastered](https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk) | [Gigliola Cinquetti](https://open.spotify.com/artist/6QxfNzuPwvVnH5n1U24Cmh) | [Non ho l´eta \(Remastered\)](https://open.spotify.com/album/48phIpjpaG5tev1dUQgUYl) | 3:16 |
 | 52 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
 | 53 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 138902,
+  "num_followers": 138915,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACQj2EPGUGZ55n0DkF2IlKp",
+  "snapshot_id": "aLYzgAAAAAApH8E5yH5mdgYhlXDd3d4D",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Curse of Blondie",
-        "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "End to End",
-      "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+        "name": "The Curse of Blondie",
+        "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+      "duration_ms": 239040,
+      "name": "End to End",
+      "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
     },
     {
       "added_at": null,
@@ -767,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart of Glass",
-        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
       },
       "artists": [
-        {
-          "name": "Kingston Sound System",
-          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 185716,
-      "name": "Heart of Glass",
-      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 249666,
       "name": "Live It Up - Remastered 2001",
       "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart of Glass",
+        "url": "https://open.spotify.com/album/3vVl8EtdZcex2ubfCM0QFa"
+      },
+      "artists": [
+        {
+          "name": "Kingston Sound System",
+          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
+        },
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 185716,
+      "name": "Heart of Glass",
+      "url": "https://open.spotify.com/track/6ZhKL3eyP0KxatLmtR56G9"
     },
     {
       "added_at": null,

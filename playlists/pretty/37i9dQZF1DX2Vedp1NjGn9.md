@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > The Indie highlights of 2011\. Cover: AWOLNATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,440 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,466 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 47 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 48 | [Itchin' on a Photograph](https://open.spotify.com/track/01nkjRsgpYwtbH94l7y4cg) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 4:19 |
 | 49 | [Come Closer](https://open.spotify.com/track/20uVZbYFKshjrdDHcVy9w9) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Colour Of The Trap](https://open.spotify.com/album/671vYDTGlzYQfsibwLHxNB) | 2:59 |
-| 50 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6DDoFN7yNQmL2YXojqAk8S) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/5Pv6HiwxzhI8NDeSsn7n6N) | 3:46 |
+| 50 | [It's Real](https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 2:48 |
 | 51 | [Two Against One \(feat\. Jack White\)](https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Rome](https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A) | 2:20 |
-| 52 | [It's Real](https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Days](https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb) | 2:48 |
+| 52 | [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6DDoFN7yNQmL2YXojqAk8S) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/5Pv6HiwxzhI8NDeSsn7n6N) | 3:46 |
 | 53 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
 | 54 | [Reunion](https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 3:55 |
 | 55 | [You Know What I Mean](https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:30 |
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 79 | [Don't Move](https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9) | 4:18 |
 | 80 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
 | 81 | [New Beat](https://open.spotify.com/track/7jWIolCo1nHYaAmOvFH0Lo) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Underneath The Pine](https://open.spotify.com/album/00wmVs9BwWaSjLXBAzwUPq) | 4:04 |
-| 82 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
-| 83 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
-| 84 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
+| 82 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
+| 83 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
+| 84 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
 | 85 | [Towers](https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:08 |
-| 86 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
-| 87 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
-| 88 | [Do You Remember](https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One](https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo) | 3:12 |
-| 89 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |
-| 90 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
-| 91 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
-| 92 | [Need You Now](https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Zonoscope](https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu) | 6:09 |
-| 93 | [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 |
-| 94 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
-| 95 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
-| 96 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
-| 97 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
-| 98 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
-| 99 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
+| 86 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
+| 87 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
+| 88 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
+| 89 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
+| 90 | [Do You Remember](https://open.spotify.com/track/78tJyvCFFvl3b0jqdj2EUO) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [It All Starts With One](https://open.spotify.com/album/4AuXrnTPEQheuq7r9WJHjo) | 3:12 |
+| 91 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
+| 92 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |
+| 93 | [Amor Fati](https://open.spotify.com/track/60KqmTYKZzSElJidL2U2o1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/6GUrNxKQG0pUt9umzAPdLv) | 4:26 |
+| 94 | [Need You Now](https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Zonoscope](https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu) | 6:09 |
+| 95 | [Hello My Old Heart](https://open.spotify.com/track/5wLBkpEwHIlNZJaeh0s7bR) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hello's](https://open.spotify.com/album/6AOSZgozxbKKHlpvmtoxV5) | 4:16 |
+| 96 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
+| 97 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
+| 98 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 |
+| 99 | [Shake, Shake, Shake](https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1) | 2:43 |
 | 100 | [Ten\-Twenty\-Ten](https://open.spotify.com/track/2dU1YAowJQIg42Aqj3xbjT) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Actor\-Caster](https://open.spotify.com/album/0DC9Zvz2cpb0cBGrZGFmig) | 3:22 |
 
 Snapshot ID: `AAAAAI0gdjzmpLEM/xroOROfwxqYofFB`

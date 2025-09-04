@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 180572,
+  "num_followers": 180594,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "The Fantastic Sound Of",
         "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Summerinlove",
         "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
       },
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 240043,
       "name": "How To Live",
       "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Warhaus",
-        "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
       "artists": [
         {
-          "name": "Warhaus",
-          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 206685,
-      "name": "Love's a Stranger",
-      "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "Warhaus",
+        "url": "https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "duration_ms": 206685,
+      "name": "Love's a Stranger",
+      "url": "https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "The Express",
         "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202480,
       "name": "Anything You Want - Not That",
       "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Sorry I'm Late, I Didn't Want To Come (Roosevelt Remix)",
-        "url": "https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        },
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 287445,
-      "name": "Sorry I'm Late, I Didn't Want To Come - Roosevelt Remix",
-      "url": "https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Sorry I'm Late, I Didn't Want To Come (Roosevelt Remix)",
+        "url": "https://open.spotify.com/album/40kYWTnePUZyDB8K59cAiW"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 287445,
+      "name": "Sorry I'm Late, I Didn't Want To Come - Roosevelt Remix",
+      "url": "https://open.spotify.com/track/5oekWmarT1bxmufDNPRQcV"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "Yours & Mine",
         "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 213545,
       "name": "Yours & Mine",
       "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Manga",
+        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Manga",
-        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
       "artists": [
         {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
         }
       ],
-      "duration_ms": 170413,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
-      },
-      "artists": [
-        {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Tourist (Remastered)",
         "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 385677,
       "name": "Montego Bay Spleen",
       "url": "https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "La prima estate",
-        "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
-      },
-      "artists": [
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 240435,
-      "name": "La prima estate",
-      "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1259,6 +1243,22 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "La prima estate",
+        "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
+      },
+      "artists": [
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 240435,
+      "name": "La prima estate",
+      "url": "https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Metal",
-        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 283253,
-      "name": "Metal",
-      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "In My Pocket",
         "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
         "name": "Ar\u00f3n Piper",
         "url": "https://open.spotify.com/album/4arvfKg3L3IP6hAeGX4XoM"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 200361,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3G5QIGMaNyOR07cD0O5Htk"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
-        "name": "Livin Alright",
-        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 176543,
-      "name": "Livin Alright",
-      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1427,6 +1407,26 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Livin Alright",
+        "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 176543,
+      "name": "Livin Alright",
+      "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2025-08-28 22:00:13",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-08-28 22:00:13",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2025-08-28 22:00:13",
-      "album": {
         "name": "Disco Reggae",
         "url": "https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 292571,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS"
+    },
+    {
+      "added_at": "2025-08-28 22:00:13",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2025-08-28 22:00:13",

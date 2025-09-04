@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck"
+      },
+      "artists": [
+        {
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4"
+    },
+    {
+      "album": {
         "name": "The Silence",
         "url": "https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR"
       },

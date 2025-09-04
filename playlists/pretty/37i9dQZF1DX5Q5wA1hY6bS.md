@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,222 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,778 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 44 | [Boardwalks \- Sonny Alven Remix](https://open.spotify.com/track/5z16txnOAgiPxxV2Qb8YlO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH), [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [Boardwalks \(Sonny Alven Remix\)](https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY) | 4:24 |
 | 45 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 |
 | 46 | [Still](https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Still](https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6) | 3:23 |
-| 47 | [Heavy](https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 4:24 |
-| 48 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 47 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 48 | [Heavy](https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 4:24 |
 | 49 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 |
 | 50 | [Get Up](https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Reckless Skyline](https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK) | 3:44 |
 | 51 | [Punta Cometa \- Dancing For The Answers Alt Version](https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Dancing For The Answers \- EP](https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg) | 3:36 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 66 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
 | 67 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 68 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
-| 69 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
-| 70 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
+| 69 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
+| 70 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
 | 71 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 72 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 73 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [A Random Act Of Kindness](https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:14 |
 | 83 | [Love Gone Wrong](https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 3:56 |
 | 84 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
-| 85 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
-| 86 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 |
+| 85 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 |
+| 86 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
 | 87 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 88 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
 | 89 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |

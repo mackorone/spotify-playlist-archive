@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,300 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,332 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
 | 50 | [La Madrugada](https://open.spotify.com/track/1YjkB7y1ab01bX0e7YtE9Q) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [La Madrugada](https://open.spotify.com/album/6bcJJPXLOd0mpMc3eV6NYv) | 2:57 |
 
-Snapshot ID: `aLTiAAAAAABiAlzqMf/sWwbMma3/uP7C`
+Snapshot ID: `aLYzgAAAAABu9UZOUN8hVl+9nIPkEc2p`

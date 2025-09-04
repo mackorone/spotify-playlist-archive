@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 
 > Classical tunes to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,331 likes - 64 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,431 likes - 64 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

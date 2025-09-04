@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,856 likes - 36 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,917 likes - 41 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 30 | [16](https://open.spotify.com/track/0ZBtfhxBAw8EbtfSD4wkG2) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [ファンファーレと熱狂](https://open.spotify.com/album/1v03PTLDIOEWgZiKZHT3sa) | 3:46 |
 | 31 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 |
 | 32 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
-| 33 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 |
+| 33 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
 | 34 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 35 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 |
 | 36 | [Crazy Dancer](https://open.spotify.com/track/2iM4ZRQaL44nDu3nQe3irq) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [DANCEABLE](https://open.spotify.com/album/0o3RQWikYCF9w9wtUdV6bO) | 3:10 |
+| 37 | [海と山椒魚](https://open.spotify.com/track/0nysLgmTTWe6PNIjlxC8gH) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 5:13 |
+| 38 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
+| 39 | [四角革命](https://open.spotify.com/track/2qqwX1esCghITEJrp6AvqI) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [ハイファイ新書](https://open.spotify.com/album/5AKZPhATko2cAkwQIryPVh) | 3:39 |
+| 40 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 |
+| 41 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
 
-Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`
+Snapshot ID: `AAAAAKSEeeAP3sLSWHv/4U76eRfdbx1l`

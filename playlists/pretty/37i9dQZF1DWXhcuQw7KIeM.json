@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 552719,
+  "num_followers": 552870,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,18 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "\u00d3tta",
-        "url": "https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv"
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
       },
       "artists": [
         {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         }
       ],
-      "duration_ms": 578000,
-      "name": "\u00d3tta",
-      "url": "https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG"
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -339,18 +339,18 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "Black Thunder",
-        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+        "name": "\u00d3tta",
+        "url": "https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv"
       },
       "artists": [
         {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Black Thunder",
-      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+      "duration_ms": 578000,
+      "name": "\u00d3tta",
+      "url": "https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
+        "name": "Atoms Aligned, Coming Undone",
+        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
+      },
+      "artists": [
+        {
+          "name": "Sylvaine",
+          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "L'appel Du Vide",
+      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
+    },
+    {
+      "added_at": "2025-09-02 07:09:01",
+      "album": {
         "name": "Shieldmaiden",
         "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
-    },
-    {
-      "added_at": "2025-09-02 07:09:01",
-      "album": {
-        "name": "Atoms Aligned, Coming Undone",
-        "url": "https://open.spotify.com/album/6UWmG28sc4akOQcOEQGJ1e"
-      },
-      "artists": [
-        {
-          "name": "Sylvaine",
-          "url": "https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "L'appel Du Vide",
-      "url": "https://open.spotify.com/track/2VUxvWxmUJXp2neuoOq1zx"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "The Great Feast Underground",
-        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
-      },
-      "artists": [
-        {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
-        }
-      ],
-      "duration_ms": 284018,
-      "name": "The Great Feast Underground",
-      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
-    },
-    {
-      "added_at": "2025-09-02 07:09:01",
-      "album": {
         "name": "Gnosis",
         "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 275133,
       "name": "Gnosis",
       "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
+    },
+    {
+      "added_at": "2025-09-02 07:09:01",
+      "album": {
+        "name": "The Great Feast Underground",
+        "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
+      },
+      "artists": [
+        {
+          "name": "Wind Rose",
+          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+        }
+      ],
+      "duration_ms": 284018,
+      "name": "The Great Feast Underground",
+      "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "The Loom",
-        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
-      },
-      "artists": [
-        {
-          "name": "Anilah",
-          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
-        }
-      ],
-      "duration_ms": 433858,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
-    },
-    {
-      "added_at": "2025-09-02 07:09:01",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 279147,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5"
+    },
+    {
+      "added_at": "2025-09-02 07:09:01",
+      "album": {
+        "name": "The Loom",
+        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
+      },
+      "artists": [
+        {
+          "name": "Anilah",
+          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
+        }
+      ],
+      "duration_ms": 433858,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "Caravans to the Outer Worlds",
-        "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
+        "name": "Ethel",
+        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
       },
       "artists": [
         {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
         }
       ],
-      "duration_ms": 337133,
-      "name": "Ruun II - The Epitaph",
-      "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
+      "duration_ms": 219306,
+      "name": "Ethel",
+      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "Ethel",
-        "url": "https://open.spotify.com/album/4IbI4W9JAiPWXUMFmkXjVG"
+        "name": "Caravans to the Outer Worlds",
+        "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Ethel",
-      "url": "https://open.spotify.com/track/2kDFEgMbmQ0rmt1mAeI7fp"
+      "duration_ms": 337133,
+      "name": "Ruun II - The Epitaph",
+      "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
     },
     {
       "added_at": "2025-09-02 07:09:01",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-09-02 07:09:01",
       "album": {
-        "name": "Volch'ya Yagoda",
-        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
-      },
-      "artists": [
-        {
-          "name": "Theodor Bastard",
-          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
-        }
-      ],
-      "duration_ms": 249370,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
-    },
-    {
-      "added_at": "2025-09-02 07:09:01",
-      "album": {
         "name": "Set the Sails",
         "url": "https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 196066,
       "name": "Set the Sails",
       "url": "https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA"
+    },
+    {
+      "added_at": "2025-09-02 07:09:01",
+      "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
     },
     {
       "added_at": "2025-09-02 07:09:01",

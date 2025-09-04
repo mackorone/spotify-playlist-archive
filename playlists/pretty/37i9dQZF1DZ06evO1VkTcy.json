@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22232,
+  "num_followers": 22231,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACWi/KZSnbvjRCd1tGEG4+j",
+  "snapshot_id": "aLYzgAAAAABvb0aFtLtJnXelyQ8JmDPI",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 16",
         "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
       },
@@ -175,30 +199,6 @@
       "duration_ms": 757611,
       "name": "Poesia Ac\u00fastica 16",
       "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
       },
@@ -983,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin"
       },
       "artists": [
         {
@@ -996,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07"
     },
     {
       "added_at": null,
@@ -1031,26 +1051,6 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07"
     },
     {
       "added_at": null,
@@ -1191,30 +1191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 174797,
-      "name": "F\u00e9 no caminho",
-      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Vai Mudar",
         "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
@@ -1259,30 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosso Relacionamento",
-        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
-      },
-      "artists": [
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Nosso Relacionamento",
-      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1296,13 +1248,13 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 179310,
-      "name": "Ressentimento",
-      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
+      "duration_ms": 174797,
+      "name": "F\u00e9 no caminho",
+      "url": "https://open.spotify.com/track/6zVcsaPAIqzS6ykbxCHFb6"
     },
     {
       "added_at": null,
@@ -1327,6 +1279,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nosso Relacionamento",
+        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
+      },
+      "artists": [
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Nosso Relacionamento",
+      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo Parou",
         "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 223354,
       "name": "O Mundo Parou",
       "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Ressentimento",
+      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
     },
     {
       "added_at": null,

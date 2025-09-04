@@ -1,32 +1,44 @@
 {
   "description": "the best cuts from the underground \ud83d\udc8e \ud83d\udc8e at the heart of club culture ",
-  "num_followers": 50997,
+  "num_followers": 51028,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkykyJ/1ZAF8PeLFwFVvGpDrBeN",
+  "snapshot_id": "AAAAAEV0gSwzwYaKBItLDccRNsw8NJOh",
   "tracks": [
     {
-      "added_at": "2025-08-29 04:00:46",
+      "added_at": "2025-08-08 04:01:30",
       "album": {
-        "name": "What's a Girl to Do (Remixes)",
-        "url": "https://open.spotify.com/album/1jAnJGzXUY4JOuF9vnTAC8"
+        "name": "Big Smile",
+        "url": "https://open.spotify.com/album/7wS8p5oNtKCuK8KemOzDqK"
       },
       "artists": [
         {
-          "name": "Fatima Yamaha",
-          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
-        },
-        {
-          "name": "Indentified Patient",
-          "url": "https://open.spotify.com/artist/4MfCxaEsLJ0BbFMTSjBczH"
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
         }
       ],
-      "duration_ms": 285292,
-      "name": "What's a Girl to Do (Identified Patient Remix)",
-      "url": "https://open.spotify.com/track/2tcX2kbHb1cz0AeG6HjxaE"
+      "duration_ms": 269314,
+      "name": "Big Smile",
+      "url": "https://open.spotify.com/track/5NgLGzwFhOymJe9jicoYYA"
+    },
+    {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "I SAID",
+        "url": "https://open.spotify.com/album/6fJw8lxhQjFBtlo9mtyvwJ"
+      },
+      "artists": [
+        {
+          "name": "Paurro",
+          "url": "https://open.spotify.com/artist/62WpDRamiYldQRtu9sUWSO"
+        }
+      ],
+      "duration_ms": 390762,
+      "name": "I SAID",
+      "url": "https://open.spotify.com/track/2SK9jMkla2AgRxT9uOdFvQ"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -49,20 +61,76 @@
       "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
     },
     {
-      "added_at": "2025-08-29 04:00:46",
+      "added_at": "2025-09-04 02:02:00",
       "album": {
-        "name": "Pressure EP",
-        "url": "https://open.spotify.com/album/3ri0nHfxkBVATeAwmK9i1r"
+        "name": "What's a Girl to Do (Remixes)",
+        "url": "https://open.spotify.com/album/26LJvYIerM9YwofhhNNg7p"
       },
       "artists": [
         {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+          "name": "Fatima Yamaha",
+          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
+        },
+        {
+          "name": "Ineffekt",
+          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Midnite",
-      "url": "https://open.spotify.com/track/6gKVatLwVfMu8mnXVHau9C"
+      "duration_ms": 227897,
+      "name": "What's a Girl to Do (Ineffekt's Glow Mix)",
+      "url": "https://open.spotify.com/track/3RnutgOQBOWMyK7ySRgI3r"
+    },
+    {
+      "added_at": "2025-08-08 04:01:30",
+      "album": {
+        "name": "Corrupta",
+        "url": "https://open.spotify.com/album/5DWIaXU1nwu56hsJbfyatV"
+      },
+      "artists": [
+        {
+          "name": "Bodhi",
+          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "Silian Rail",
+      "url": "https://open.spotify.com/track/3ew3JOL0NSiu71vVCqJ2U4"
+    },
+    {
+      "added_at": "2025-08-15 04:00:19",
+      "album": {
+        "name": "WRITING WRONGS",
+        "url": "https://open.spotify.com/album/1LTZqJGD1v36iqwIGRHL6g"
+      },
+      "artists": [
+        {
+          "name": "PLUS ONE",
+          "url": "https://open.spotify.com/artist/3mKAVq1GsEjcDLrvGKZKxP"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "ONE EYE SHUT",
+      "url": "https://open.spotify.com/track/318rPEgLcvzmdK3nzJpRf2"
+    },
+    {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "FreaQE",
+        "url": "https://open.spotify.com/album/65i5wbzb8PNV1xY67Ris3T"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        },
+        {
+          "name": "NIGELTHREETIMES",
+          "url": "https://open.spotify.com/artist/2idYU20N0SmiDmd3KLhcsK"
+        }
+      ],
+      "duration_ms": 362393,
+      "name": "FreaQE - NIGELTHREETIMES' HORNY OPERATOR REMIX",
+      "url": "https://open.spotify.com/track/4PR43i2QWzv6wOiMUwPpTK"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -79,6 +147,26 @@
       "duration_ms": 275690,
       "name": "CUNTY",
       "url": "https://open.spotify.com/track/6AKm7mdC27HWaHomhoKGS9"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "If We Ever",
+        "url": "https://open.spotify.com/album/3s4UEFmRloMlo251IVJN1e"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "duration_ms": 209850,
+      "name": "If We Ever",
+      "url": "https://open.spotify.com/track/1IgGwEIQkA7wEo1ewvxVsN"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -101,22 +189,6 @@
       "url": "https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE"
     },
     {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6nwQ6i56ZCONngRkrrPjS8"
-      },
-      "artists": [
-        {
-          "name": "Wanderist",
-          "url": "https://open.spotify.com/artist/1qmwD3ibawPGHDpOT6lxAQ"
-        }
-      ],
-      "duration_ms": 271833,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/3EMWEf9pNkpORgCbPItkOR"
-    },
-    {
       "added_at": "2025-08-22 04:00:30",
       "album": {
         "name": "POSE 48",
@@ -133,76 +205,52 @@
       "url": "https://open.spotify.com/track/5juxFko0cyZbCF0bY3980M"
     },
     {
-      "added_at": "2025-08-08 04:01:30",
+      "added_at": "2025-09-04 01:19:02",
       "album": {
-        "name": "Corrupta",
-        "url": "https://open.spotify.com/album/5DWIaXU1nwu56hsJbfyatV"
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo"
       },
       "artists": [
         {
-          "name": "Bodhi",
-          "url": "https://open.spotify.com/artist/1C545778m57qWQwISWGAHD"
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
         }
       ],
-      "duration_ms": 287349,
-      "name": "Silian Rail",
-      "url": "https://open.spotify.com/track/3ew3JOL0NSiu71vVCqJ2U4"
+      "duration_ms": 212000,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/0GvCFasUqd63QhmvMUiWqN"
     },
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Persian Choir Girls",
-        "url": "https://open.spotify.com/album/4WLf0hvw33KnKBHFrBDD0T"
+        "name": "Pressure EP",
+        "url": "https://open.spotify.com/album/3ri0nHfxkBVATeAwmK9i1r"
       },
       "artists": [
         {
-          "name": "Athena",
-          "url": "https://open.spotify.com/artist/5Zl0UW1ZDL9QOzvxWisG6C"
-        },
-        {
-          "name": "Nick AM",
-          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
         }
       ],
-      "duration_ms": 204965,
-      "name": "Persian Choir Girls",
-      "url": "https://open.spotify.com/track/6KlLz8Fm2XTQdxTy6rAjS4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "WRITING WRONGS",
-        "url": "https://open.spotify.com/album/1LTZqJGD1v36iqwIGRHL6g"
-      },
-      "artists": [
-        {
-          "name": "PLUS ONE",
-          "url": "https://open.spotify.com/artist/3mKAVq1GsEjcDLrvGKZKxP"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "ONE EYE SHUT",
-      "url": "https://open.spotify.com/track/318rPEgLcvzmdK3nzJpRf2"
+      "duration_ms": 280000,
+      "name": "Midnite",
+      "url": "https://open.spotify.com/track/6gKVatLwVfMu8mnXVHau9C"
     },
     {
       "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "If We Ever",
-        "url": "https://open.spotify.com/album/3s4UEFmRloMlo251IVJN1e"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6nwQ6i56ZCONngRkrrPjS8"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+          "name": "Wanderist",
+          "url": "https://open.spotify.com/artist/1qmwD3ibawPGHDpOT6lxAQ"
         }
       ],
-      "duration_ms": 209850,
-      "name": "If We Ever",
-      "url": "https://open.spotify.com/track/1IgGwEIQkA7wEo1ewvxVsN"
+      "duration_ms": 271833,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/3EMWEf9pNkpORgCbPItkOR"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -257,20 +305,60 @@
       "url": "https://open.spotify.com/track/6SoGNA049NWKibywRsYEfz"
     },
     {
-      "added_at": "2025-08-08 04:01:30",
+      "added_at": "2025-08-29 04:00:46",
       "album": {
-        "name": "Big Smile",
-        "url": "https://open.spotify.com/album/7wS8p5oNtKCuK8KemOzDqK"
+        "name": "Vespers (Verraco Remix)",
+        "url": "https://open.spotify.com/album/5DghTugQI6XyO3mWRH8QU9"
       },
       "artists": [
         {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        },
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
         }
       ],
-      "duration_ms": 269314,
-      "name": "Big Smile",
-      "url": "https://open.spotify.com/track/5NgLGzwFhOymJe9jicoYYA"
+      "duration_ms": 306243,
+      "name": "Vespers (Verraco Remix)",
+      "url": "https://open.spotify.com/track/0j80EBluVZfwiKdCiPEaif"
+    },
+    {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "In Control",
+        "url": "https://open.spotify.com/album/2wC7LyUAEUNGkrCfYTFLpf"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        }
+      ],
+      "duration_ms": 260174,
+      "name": "In Control",
+      "url": "https://open.spotify.com/track/6kgpOdVMkB6z7zf0a9oPyB"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "Persian Choir Girls",
+        "url": "https://open.spotify.com/album/4WLf0hvw33KnKBHFrBDD0T"
+      },
+      "artists": [
+        {
+          "name": "Athena",
+          "url": "https://open.spotify.com/artist/5Zl0UW1ZDL9QOzvxWisG6C"
+        },
+        {
+          "name": "Nick AM",
+          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+        }
+      ],
+      "duration_ms": 204965,
+      "name": "Persian Choir Girls",
+      "url": "https://open.spotify.com/track/6KlLz8Fm2XTQdxTy6rAjS4"
     },
     {
       "added_at": "2025-08-29 04:00:46",
@@ -287,6 +375,46 @@
       "duration_ms": 227294,
       "name": "Elated",
       "url": "https://open.spotify.com/track/5G3FLf4Ez5tnUWmsSLfg1V"
+    },
+    {
+      "added_at": "2025-08-15 04:00:19",
+      "album": {
+        "name": "E After Next",
+        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 239179,
+      "name": "E After Next",
+      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
+    },
+    {
+      "added_at": "2025-08-29 04:00:46",
+      "album": {
+        "name": "What's a Girl to Do (Remixes)",
+        "url": "https://open.spotify.com/album/1jAnJGzXUY4JOuF9vnTAC8"
+      },
+      "artists": [
+        {
+          "name": "Fatima Yamaha",
+          "url": "https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP"
+        },
+        {
+          "name": "Indentified Patient",
+          "url": "https://open.spotify.com/artist/4MfCxaEsLJ0BbFMTSjBczH"
+        }
+      ],
+      "duration_ms": 285292,
+      "name": "What's a Girl to Do (Identified Patient Remix)",
+      "url": "https://open.spotify.com/track/2tcX2kbHb1cz0AeG6HjxaE"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -319,6 +447,22 @@
       "duration_ms": 354645,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4LCImuntfrgyAsUxMWeNtU"
+    },
+    {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/5JUbWPdS2WO32JqLME7g32"
+      },
+      "artists": [
+        {
+          "name": "Slinki",
+          "url": "https://open.spotify.com/artist/1gVtySGCOWkHDsKoGBAPxd"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/3CYt1IWUJ4LRQxNSB00nNc"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -357,6 +501,26 @@
       "url": "https://open.spotify.com/track/1GPZH0EFf3ZSKEWBDYdrbH"
     },
     {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "leaf / outside",
+        "url": "https://open.spotify.com/album/7Lceok5TzyjdMEeFIsAkro"
+      },
+      "artists": [
+        {
+          "name": "JD. REID",
+          "url": "https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ"
+        },
+        {
+          "name": "Hagan",
+          "url": "https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "leaf",
+      "url": "https://open.spotify.com/track/7nvZPJo6982p3D5PNObvwX"
+    },
+    {
       "added_at": "2025-08-22 04:00:30",
       "album": {
         "name": "Jeremiah Asiamah Carnival EP",
@@ -375,26 +539,6 @@
       "duration_ms": 180909,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3EEptVzM4uHi9p4RuBMElo"
-    },
-    {
-      "added_at": "2025-08-29 04:00:46",
-      "album": {
-        "name": "Vespers (Verraco Remix)",
-        "url": "https://open.spotify.com/album/5DghTugQI6XyO3mWRH8QU9"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        },
-        {
-          "name": "Verraco",
-          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
-        }
-      ],
-      "duration_ms": 306243,
-      "name": "Vespers (Verraco Remix)",
-      "url": "https://open.spotify.com/track/0j80EBluVZfwiKdCiPEaif"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -427,26 +571,6 @@
       "duration_ms": 249596,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "E After Next",
-        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 239179,
-      "name": "E After Next",
-      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -483,6 +607,22 @@
       "duration_ms": 238364,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/42hmqDkNINRRburk6Mej1i"
+    },
+    {
+      "added_at": "2025-09-04 01:19:02",
+      "album": {
+        "name": "Sleazy",
+        "url": "https://open.spotify.com/album/4cF938Qm270hJg30XOrO75"
+      },
+      "artists": [
+        {
+          "name": "Tracey",
+          "url": "https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb"
+        }
+      ],
+      "duration_ms": 217278,
+      "name": "Sleazy",
+      "url": "https://open.spotify.com/track/0xH0sFCdbn4LshJBcCAa28"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -1127,22 +1267,6 @@
     {
       "added_at": "2025-08-08 04:01:30",
       "album": {
-        "name": "Fena EP",
-        "url": "https://open.spotify.com/album/0RlAKqN7uzZr9kaxtPg1fR"
-      },
-      "artists": [
-        {
-          "name": "Imp\u00e9rieux",
-          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Fena",
-      "url": "https://open.spotify.com/track/6TtLKXKZp7jXsDVSGUj6LZ"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
         "name": "Millennium Freak",
         "url": "https://open.spotify.com/album/1XHhDKKIepZjnGfSTxhB6m"
       },
@@ -1255,22 +1379,6 @@
     {
       "added_at": "2025-08-08 04:01:30",
       "album": {
-        "name": "House FM",
-        "url": "https://open.spotify.com/album/4RLvCg8LRSrEuxCyYBEESO"
-      },
-      "artists": [
-        {
-          "name": "Hitty",
-          "url": "https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "CSWS",
-      "url": "https://open.spotify.com/track/5mjrxjeKIJEmZN2sIJFKHO"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
         "name": "Esto",
         "url": "https://open.spotify.com/album/30u37htVaC8vOAA3rLPqH8"
       },
@@ -1299,22 +1407,6 @@
       "duration_ms": 384412,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/0TKWj0GR4vgJrFxvAy9X2c"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Temporal Drift",
-        "url": "https://open.spotify.com/album/7MmPlJ6Dgo6602IrRLxCZY"
-      },
-      "artists": [
-        {
-          "name": "Sonia Calico",
-          "url": "https://open.spotify.com/artist/7yZgyvPwZiP9D6ZvGrH1oB"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Temporal Drift",
-      "url": "https://open.spotify.com/track/3bYsGrC0XUiln8CW1i0Eot"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -1427,38 +1519,6 @@
     {
       "added_at": "2025-08-08 04:01:30",
       "album": {
-        "name": "Drone",
-        "url": "https://open.spotify.com/album/6SRvJyQclnvVJx1ngKQ5py"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196204,
-      "name": "Drone",
-      "url": "https://open.spotify.com/track/7rrYlcWCKWqf2FvgoD3InD"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Circuit Bug",
-        "url": "https://open.spotify.com/album/6zoWMRNZbWc6XRAdDPoLFL"
-      },
-      "artists": [
-        {
-          "name": "biased",
-          "url": "https://open.spotify.com/artist/5IcKb8EjHON0CVHtrP6Us5"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Circuit Bug",
-      "url": "https://open.spotify.com/track/6ECaKwryXP3AlnlKopV4el"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
         "name": "She Was A Dancer/THC",
         "url": "https://open.spotify.com/album/3wyJo8PggOINZ9EF0poX9O"
       },
@@ -1503,54 +1563,6 @@
       "duration_ms": 276531,
       "name": "BDB",
       "url": "https://open.spotify.com/track/4mPwJPJpm7M0JVrAIUquI0"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Magic Bells",
-        "url": "https://open.spotify.com/album/6dMRwpF5Ica44KtBKCrx3u"
-      },
-      "artists": [
-        {
-          "name": "Tsepo",
-          "url": "https://open.spotify.com/artist/2gH0kSs7X35Iigni2wpxeB"
-        }
-      ],
-      "duration_ms": 311624,
-      "name": "Magic Bells",
-      "url": "https://open.spotify.com/track/5RZEp3Dx5lRAhXBFhu7WSK"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Virgo Space Acid",
-        "url": "https://open.spotify.com/album/5etlGMN7KVUDqSqpCJLFse"
-      },
-      "artists": [
-        {
-          "name": "GiGi FM",
-          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
-        }
-      ],
-      "duration_ms": 313043,
-      "name": "Floresta",
-      "url": "https://open.spotify.com/track/09UwJVgX4blBGYb8T2YOS4"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "Do Not Eat",
-        "url": "https://open.spotify.com/album/344Dp3O6pTeGsO5CJuYhpp"
-      },
-      "artists": [
-        {
-          "name": "Will Hofbauer",
-          "url": "https://open.spotify.com/artist/5ph5qdAJXZPWas7Ch9f6Uf"
-        }
-      ],
-      "duration_ms": 294523,
-      "name": "Squito",
-      "url": "https://open.spotify.com/track/6Qk8KNWPs4Sb45UZOgQ6q8"
     },
     {
       "added_at": "2025-08-08 04:01:30",

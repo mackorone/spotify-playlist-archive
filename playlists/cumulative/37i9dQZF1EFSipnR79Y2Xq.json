@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "El Malo Del Cuento",
+        "url": "https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Navarro",
+          "url": "https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "Soldado Ca\u00eddo",
+      "url": "https://open.spotify.com/track/4ZD37ImYkgFW7HkyjbdqjV"
+    },
+    {
+      "album": {
         "name": "Soy Sagitario",
         "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
       },

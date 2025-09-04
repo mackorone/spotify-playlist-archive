@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 6566,
+  "num_followers": 6574,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADSjGS0PU9++x4IE5w6rUTk",
+  "snapshot_id": "aLYzgAAAAADqhtzU+tUXhHiXBZATAoCS",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Babe",
-        "url": "https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ"
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 169830,
-      "name": "Oh Babe",
-      "url": "https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9"
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+        "name": "Oh Babe",
+        "url": "https://open.spotify.com/album/0gO51tYSNKHZk6zjv0dglZ"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 215708,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
+      "duration_ms": 169830,
+      "name": "Oh Babe",
+      "url": "https://open.spotify.com/track/3baxT5h8rJ3j5RPVpanOz9"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+      "duration_ms": 174260,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 188190,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/2yVH1P2sIObsFVopVqClhR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 174260,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
     },
     {
       "added_at": null,
@@ -683,28 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money Zone",
-        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
       },
       "artists": [
         {
@@ -712,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 171502,
-      "name": "Money Zone",
-      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
       "added_at": null,
@@ -731,26 +711,6 @@
       "duration_ms": 186750,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
-        }
-      ],
-      "duration_ms": 219344,
-      "name": "U Know It",
-      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
       "added_at": null,
@@ -799,8 +759,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
       "artists": [
         {
@@ -808,9 +788,29 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
+        }
+      ],
+      "duration_ms": 219344,
+      "name": "U Know It",
+      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 188857,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
+      "duration_ms": 187263,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
     },
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
+      "duration_ms": 188857,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
     },
     {
       "added_at": null,

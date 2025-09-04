@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 193425,
+  "num_followers": 193433,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACCWuJGEG8q6Jza0yk/Jk1c",
+  "snapshot_id": "aLYzgAAAAABeKfdrkc78y0+tJNIZurkc",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Keep It Light",
+      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moana",
         "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Keep It Light",
-      "url": "https://open.spotify.com/track/2BUP8KOWDlCsdEV8DJPQQn"
     },
     {
       "added_at": null,

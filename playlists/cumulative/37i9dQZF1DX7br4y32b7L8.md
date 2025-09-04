@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-764 songs - 1 day 14 hr 38 min
+765 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-18 | 2024-08-02 |
 | [Verliefd Op Je Moeder](https://open.spotify.com/track/7i23TTo8rtoPiEDeMzn7Af) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Joelito Cortes](https://open.spotify.com/artist/7dFAnqjYvsqYLixFroWPYw) | [Verliefd Op Je Moeder](https://open.spotify.com/album/18cFTTLVDDjtgWDVqJ3oPd) | 3:21 | 2024-03-16 | 2024-04-09 |
 | [Vette Boeren](https://open.spotify.com/track/0p0uLrS81UnuaMdkUQVlON) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Vette Boeren](https://open.spotify.com/album/5nUNYfDWJsK7Gy5MDMPkBE) | 3:00 | 2025-02-10 | 2025-02-28 |
+| [Viano](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Encore / Viano](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-09-03 |  |
 | [Viraal](https://open.spotify.com/track/1oDGSDSB1WMKOJ9Uan2xhK) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Francis \(Deluxe\)](https://open.spotify.com/album/7grJqgWAfkay4AI7XubQYc) | 3:04 | 2025-02-23 |  |
 | [Viraal](https://open.spotify.com/track/2P4ywspztlDq513vHHXN99) | [Straatorgel](https://open.spotify.com/artist/77ig0wiX3HDRBzHlM1xU9M) | [Viraal](https://open.spotify.com/album/1XUoGpopyjrDTJTkCSRHAw) | 2:08 | 2025-04-26 |  |
 | [Viva Hollandia \- Oranje Versie](https://open.spotify.com/track/04rYjvkkgtZk4i6D6TOVnY) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Viva Hollandia](https://open.spotify.com/album/4YltuZhK8fLiEs22ysMVI4) | 2:52 | 2024-07-10 | 2024-07-12 |

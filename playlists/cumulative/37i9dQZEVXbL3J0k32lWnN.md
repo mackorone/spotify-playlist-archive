@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,112 songs - 4 day 13 hr 0 min
+2,113 songs - 4 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Baby Boo](https://open.spotify.com/track/1UrIsBtFnNzWh3ENHMsKqm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Baby Boo](https://open.spotify.com/album/4Ef4mh3T7OVtIiFw30VwMv) | 2:39 | 2021-09-19 | 2021-10-10 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-19 | 2023-05-06 |
 | [Back 2 Front](https://open.spotify.com/track/3GSdYoWnrEFwWeiO8ediDe) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 2:20 | 2022-07-31 | 2022-08-03 |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-09-03 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-16 |
 | [BACK TO ME](https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:55 | 2024-02-15 | 2024-02-25 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-12 |
@@ -700,7 +701,7 @@
 | [Før Du Går \(feat\. Sira Jovina & Noah Carter\)](https://open.spotify.com/track/4XB1UFXGF8fpk4EWtQnqBB) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Godaften](https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4) | 2:42 | 2025-05-24 | 2025-05-31 |
 | [Først & Fremmest](https://open.spotify.com/track/12stdvIkmElRYsdsNwhiEi) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:51 | 2024-09-21 | 2024-09-27 |
 | [Første dag](https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Jeg vil bare gerne være et godt menneske, men det er ikke let.](https://open.spotify.com/album/2bnnrhhq45z8MEfLbW04zo) | 3:13 | 2025-02-01 | 2025-09-01 |
-| [Første dag](https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Jeg vil bare gerne være et godt menneske, men det er ikke let.](https://open.spotify.com/album/4oaV9slOWKL10WdBb8C7Oc) | 3:13 | 2025-02-04 |  |
+| [Første dag](https://open.spotify.com/track/7sUvmhKZF9VVZLKXqTIp0x) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Jeg vil bare gerne være et godt menneske, men det er ikke let.](https://open.spotify.com/album/4oaV9slOWKL10WdBb8C7Oc) | 3:13 | 2025-02-04 | 2025-09-04 |
 | [Første dag](https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Første dag](https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo) | 3:13 | 2023-10-27 | 2025-02-04 |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
 | [Gangen](https://open.spotify.com/track/1b4EXBzooRSOuQFGJaZOe8) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Hvis Du Tør At Drømme](https://open.spotify.com/album/5Hra4hU5wEPdkGhrG6dfKO) | 3:13 | 2024-02-10 | 2024-02-12 |

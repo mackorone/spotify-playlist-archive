@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 
 > This is Kenny G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,051 likes - 44 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,085 likes - 44 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XRXXy.md) - [plain]
 | 43 | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [More Than Anybody \(feat\. Izzy Bizu, Kenny G\)](https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1) | 2:57 |
 | 44 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/3dszUBBQ0KE3upy6AR8WBv) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Innocence](https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x) | 2:26 |
 
-Snapshot ID: `aLTiAAAAAACp3UU7WaTGI+L/sIOVXXSs`
+Snapshot ID: `aLYzgAAAAADLxGtVU+s7fuTa9mAvl7GY`

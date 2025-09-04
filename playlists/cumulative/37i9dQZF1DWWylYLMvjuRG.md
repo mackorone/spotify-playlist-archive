@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 2010s.
 
-469 songs - 1 day 3 hr 36 min
+470 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2021-03-22 | 2025-06-16 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:47 | 2022-07-02 | 2024-04-19 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/4qABfS1RaGVXdBhj2BQyhO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Runaway \(U & I\)](https://open.spotify.com/album/4AvWWrL9TB38MwVUuB2tTO) | 3:47 | 2021-09-08 | 2022-06-11 |
-| [S&M](https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:03 | 2021-03-22 |  |
+| [S&M](https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:03 | 2021-03-22 | 2025-09-04 |
 | [S&M](https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:03 | 2022-07-02 | 2024-04-19 |
 | [Safe And Sound](https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [In A Tidal Wave Of Mystery \- Deluxe Edition](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:12 | 2021-09-08 | 2024-10-09 |
 | [Say My Name \(feat\. Bebe Rexha & J Balvin\) \- Lucas & Steve Remix](https://open.spotify.com/track/3TjLsDgL0bTbSQIF6M5Ki8) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Say My Name \(feat\. Bebe Rexha & J Balvin\) \[Lucas & Steve Remix\]](https://open.spotify.com/album/19z3vpbBT09lZ54neDfuFL) | 3:09 | 2021-09-08 | 2022-02-14 |
@@ -355,6 +355,7 @@
 | [Shot Me Down \(feat\. Skylar Grey\) \- Radio Edit](https://open.spotify.com/track/7qfwcqfGOkQYtzjF4UzJHM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Shot Me Down \(feat\. Skylar Grey\)](https://open.spotify.com/album/4i9yM8JoAgeh6ekZjk08U1) | 3:11 | 2021-09-08 | 2022-04-21 |
 | [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/5up5uXChMJLKyuop9HwtCb) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Shotgun \(The Wild Remix\)](https://open.spotify.com/album/3pjsiMldUHVmgQCPVyVXAY) | 3:11 | 2021-03-22 | 2022-07-29 |
 | [Shots \- Broiler Remix](https://open.spotify.com/track/0fsEFwLSJTSHSawhe864Cp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW) | 3:11 | 2022-07-02 | 2024-05-27 |
+| [Show Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My Own Lane \(Expanded Edition\)](https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11) | 3:37 | 2025-06-25 |  |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2024-05-26 |  |
 | [Sick Boy \- Trobi Remix](https://open.spotify.com/track/5wY5vXuojS9V4e9Nh9yrwS) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Sick Boy \(Remixes\)](https://open.spotify.com/album/5dqbDJW50I4Uk8OrQ3asO2) | 2:49 | 2021-09-08 | 2022-04-21 |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 | 2021-09-27 | 2022-04-21 |

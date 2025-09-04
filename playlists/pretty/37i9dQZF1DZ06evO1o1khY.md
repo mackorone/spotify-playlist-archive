@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,964 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,982 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 9 | [She Got It \(feat\. Coco Jones & GloRilla\)](https://open.spotify.com/track/68TlifACKo87EevLEQd1HV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:11 |
 | 10 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
 | 11 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
-| 12 | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R) | 2:13 |
-| 13 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
+| 12 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 |
+| 13 | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R) | 2:13 |
 | 14 | [Shake Dat Ass \(Twerk Song\) \(feat\. GloRilla\)](https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 3:49 |
 | 15 | [I LUV HER \(feat\. T\-Pain\)](https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:56 |
 | 16 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Nut Quick](https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:38 |
 | 50 | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf) | [Internet Trolls \(feat\. Hitkidd\)](https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3) | 2:20 |
 
-Snapshot ID: `aLTiAAAAAADD4+1nHCIMCdyAb6LePQOu`
+Snapshot ID: `aLYzgAAAAADqeKzgpJIzn/pZ05fsiLRS`

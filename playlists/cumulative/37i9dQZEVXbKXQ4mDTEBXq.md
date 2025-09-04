@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-638 songs - 1 day 15 hr 1 min
+639 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Carrying Happiness \- Tokyo Disney Resort Version](https://open.spotify.com/track/6aeEYLO194bhR0hN4qCes9) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Carrying Happiness \(Tokyo Disney Resort Version\)](https://open.spotify.com/album/5pPiOnfYNFdyiOv6TdoofX) | 1:29 | 2025-07-02 | 2025-07-20 |
 | [Celebrate](https://open.spotify.com/track/4Y0chGCyYIRpdUqHJjndF7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:08 | 2022-07-28 | 2022-10-12 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-24 | 2022-07-29 |
+| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-09-03 |  |
 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 | 2022-10-13 | 2023-02-21 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-10-29 | 2024-11-18 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-08-09 | 2024-08-11 |
@@ -407,7 +408,7 @@
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-19 | 2024-07-12 |
 | [カナタハルカ](https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 5:55 | 2022-11-13 | 2023-02-16 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-03-01 | 2024-02-20 |
-| [カリスマックス \-CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \-CHARISMAX](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 | 2025-08-26 | 2025-09-03 |
+| [カリスマックス \-CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \-CHARISMAX](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 | 2025-08-26 |  |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-27 | 2025-01-17 |
 | [キンモクセイ](https://open.spotify.com/track/7p8JJm7CT2F4k11f1DtNUa) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [イラつくときはいつだって](https://open.spotify.com/album/0KmXPL9gMri4vKUST5ohiY) | 3:51 | 2021-03-27\* | 2021-04-03 |
 | [キンモクセイ](https://open.spotify.com/track/2yXTuH22VMVjFME060zJRv) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [イラつくときはいつだって](https://open.spotify.com/album/3OlWxxWdp7T8Q6wHC34evE) | 3:51 | 2021-04-03 | 2021-04-07 |
@@ -419,7 +420,7 @@
 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2023-07-05 |  |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-04-28 | 2023-07-06 |
 | [コロンブス](https://open.spotify.com/track/3ECvJ97WjbbaTsCZ64pwgI) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [コロンブス](https://open.spotify.com/album/1u9fvlFVKcjhhin274qEAp) | 3:47 | 2024-06-13 | 2025-05-29 |
-| [コロンブス](https://open.spotify.com/track/6TijPbRQPU86xEiN8Dh3YF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:48 | 2025-07-08 |  |
+| [コロンブス](https://open.spotify.com/track/6TijPbRQPU86xEiN8Dh3YF) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:48 | 2025-07-08 | 2025-09-04 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-04-18 | 2024-05-02 |
 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 | 2023-08-23 | 2023-11-05 |
 | [シャッター](https://open.spotify.com/track/6VwpOZpqx8IqoF201VGAp8) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [シャッター](https://open.spotify.com/album/25dyJV4gL5abAB8GqCdH1C) | 4:07 | 2021-07-28 | 2022-01-14 |
@@ -522,7 +523,7 @@
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-06-05 | 2024-08-30 |
 | [大正浪漫](https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [大正浪漫](https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl) | 2:48 | 2021-09-17 | 2021-11-28 |
 | [天国](https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [天国](https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3) | 5:23 | 2025-05-02 | 2025-07-09 |
-| [天国](https://open.spotify.com/track/7sO2NML7SulscK8RR27uUf) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 5:23 | 2025-07-08 |  |
+| [天国](https://open.spotify.com/track/7sO2NML7SulscK8RR27uUf) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 5:23 | 2025-07-08 | 2025-09-04 |
 | [奏\(かなで\)](https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夏雲ノイズ](https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR) | 5:28 | 2025-03-19 |  |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2021-11-25 | 2022-10-14 |
 | [幾億光年](https://open.spotify.com/track/5Ak1F5nGzM4KRhE0H1Q3CP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Pieces](https://open.spotify.com/album/12oRFHOYrtXpgdjGtUa5NM) | 4:36 | 2025-01-30 |  |

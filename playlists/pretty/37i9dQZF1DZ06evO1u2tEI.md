@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,419 likes - 46 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,439 likes - 46 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 20 | [Baby Britain](https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:13 |
 | 21 | [Alameda](https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 3:43 |
 | 22 | [L.A.](https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:14 |
-| 23 | [Roman Candle](https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:36 |
-| 24 | [A Fond Farewell](https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 3:58 |
+| 23 | [A Fond Farewell](https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From a Basement on the Hill](https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl) | 3:58 |
+| 24 | [Roman Candle](https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:36 |
 | 25 | [I Didn't Understand](https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 2:17 |
 | 26 | [Junk Bond Trader](https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:49 |
 | 27 | [Rose Parade](https://open.spotify.com/track/6x4gmilRgCyOkPQU3TZXQo) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw) | 3:28 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 45 | [Untitled Guitar Finger Picking \- Demo](https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Heaven Adores You Soundtrack](https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M) | 1:24 |
 | 46 | [Thirteen](https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 2:43 |
 
-Snapshot ID: `aLTiAAAAAAAZC+Ul6QGhAijHyYu6eKmp`
+Snapshot ID: `aLYzgAAAAABNaQII9fZ5Ism8cJsEt0fc`

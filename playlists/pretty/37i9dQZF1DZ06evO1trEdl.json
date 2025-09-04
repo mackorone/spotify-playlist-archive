@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6446,
+  "num_followers": 6447,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACUvx1PQaEhX4lOjJS/lC3b",
+  "snapshot_id": "aLYzgAAAAACcRpbN+43R/qd373fQCcE5",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -343,18 +335,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 235693,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Lonelier Are Fools",
-      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
+      "duration_ms": 244160,
+      "name": "La chanson poupulaire",
+      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+      "duration_ms": 235693,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 244160,
-      "name": "La chanson poupulaire",
-      "url": "https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ"
+      "duration_ms": 244866,
+      "name": "Lonelier Are Fools",
+      "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "70's Deep Funk",
         "url": "https://open.spotify.com/album/7nlO16jDzNDHVfxUt8vPAY"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 197040,
       "name": "Who Is She and What Is She to You",
       "url": "https://open.spotify.com/track/64ZPcaZ4LrUht1wGJS62AL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "I Turn to You (Mono)",
-      "url": "https://open.spotify.com/track/3Sjpa8CyvgIgrR40rajeGS"
     },
     {
       "added_at": null,

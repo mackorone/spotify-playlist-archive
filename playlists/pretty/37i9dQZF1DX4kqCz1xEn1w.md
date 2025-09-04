@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,044 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,041 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 17 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 |
 | 18 | [Hosanna](https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [All Of The Above](https://open.spotify.com/album/0nJ35Byhm8jzBS3QzjSv4D) | 5:30 |
 | 19 | [Set A Fire \- Live](https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 5:15 |
-| 20 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
+| 20 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
 | 21 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 |
 | 22 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 |
 | 23 | [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 |

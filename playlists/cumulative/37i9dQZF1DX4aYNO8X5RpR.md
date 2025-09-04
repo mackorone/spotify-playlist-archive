@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-322 songs - 14 hr 21 min
+322 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Breeze, Light Rain, Thunder](https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj) | [In The Noise](https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY) | [Bad Day Weather](https://open.spotify.com/album/5xGfczFFUpJ71WmFJvorEI) | 2:18 | 2021-11-10 |  |
 | [By The Window](https://open.spotify.com/track/6m4mgGH5VSiKwoAO6dym5k) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:01 | 2023-02-13 |  |
 | [Call the Thunder](https://open.spotify.com/track/2a15jqyv9Sqm6hEPYZYFPz) | [Regendans](https://open.spotify.com/artist/1E2RM3DEqGzR4ZX6cyHVY3) | [Call the Thunder](https://open.spotify.com/album/1Gnp8qSNJaOFC1emAF0z92) | 2:18 | 2023-02-13 |  |
-| [Calm Deluge Sounds](https://open.spotify.com/track/28WIaeozgN7ff4JoXlOywG) | [Wilderness Recorders](https://open.spotify.com/artist/7yWuFubtaAy9QImLX4oZsY) | [Afternoon Rain Sounds](https://open.spotify.com/album/5AQPFFr9p2fKvcnzK8B6TZ) | 2:44 | 2023-02-13 |  |
+| [Calm Deluge Sounds](https://open.spotify.com/track/28WIaeozgN7ff4JoXlOywG) | [Wilderness Recorders](https://open.spotify.com/artist/7yWuFubtaAy9QImLX4oZsY) | [Afternoon Rain Sounds](https://open.spotify.com/album/5AQPFFr9p2fKvcnzK8B6TZ) | 2:44 | 2023-02-13 | 2025-09-04 |
 | [Calm Rain & Thunder](https://open.spotify.com/track/5fkUSLLclp3LdXiMw3zTgR) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Rain & Thunder](https://open.spotify.com/album/06gtdmD7olwgoeFyiGjTeI) | 3:20 | 2021-11-10 | 2023-02-14 |
 | [Calm Rain and Distant Thunder](https://open.spotify.com/track/44h6z1eReBUJaTl0cY8pof) | [Aquaplasm](https://open.spotify.com/artist/54uoUg5UaYhb1MFVz3Q5Jq) | [Waterscapes](https://open.spotify.com/album/2XIwjSDOK23s1B9JgdxOE8) | 2:06 | 2021-11-10 | 2022-03-05 |
 | [Calm Thunder](https://open.spotify.com/track/03gfve0EKLdBoQCGZDkbet) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Downdraft](https://open.spotify.com/album/1vPNqcrlnVNnI9D589Xn5c) | 2:39 | 2021-11-10 |  |
@@ -191,6 +191,7 @@
 | [Rain Downpour](https://open.spotify.com/track/56PGNYfo42PMGLxkHEDnzE) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Splish Splash](https://open.spotify.com/album/3UClfFG16yFathNCoSGroo) | 3:02 | 2021-11-10 |  |
 | [rain in stavanger](https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in stavanger](https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m) | 3:28 | 2023-06-15 |  |
 | [Rain Morning](https://open.spotify.com/track/400VRhKLp9MZhyJgeAN6OA) | [Natural Dream Makers](https://open.spotify.com/artist/3VRTISkFHIAjmTLl2DQAGz) | [Rain Morning](https://open.spotify.com/album/0a7mH4O1NsujRNY35geOTs) | 2:41 | 2021-11-10 |  |
+| [Rain on Roof, Thunder](https://open.spotify.com/track/2ZNecLM1gZtPoCIUHNq3CF) | [Coquins](https://open.spotify.com/artist/2CQkYpYeaZujTc9QnB2Hc3) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:22 | 2021-11-10 |  |
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2021-11-10 |  |
 | [Rain Puddles](https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Rain Retreat](https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl) | 2:50 | 2023-06-15 |  |
 | [Rain Shower & Thunder](https://open.spotify.com/track/6xIPSPcP6gbIDlqQeWI8dO) | [Meteorologist](https://open.spotify.com/artist/7syFj0lLEE6rl1UI9IKK70) | [Meteorologist](https://open.spotify.com/album/1cdzMNsEEWmGFSBJAv7nhe) | 1:58 | 2021-11-10 | 2023-06-16 |
@@ -226,7 +227,6 @@
 | [Soft Clappering Rain With Distant Storm](https://open.spotify.com/track/54gd3cuzXOLPgmj1BLIHmB) | [Livia Michaels](https://open.spotify.com/artist/3WH5Te2JfIJd5yOOkchwZE) | [Meditation Morning Rain](https://open.spotify.com/album/7Il9UcVgVjIHBHJRN8oScd) | 2:25 | 2021-11-10 |  |
 | [Soft Forest Clappering](https://open.spotify.com/track/5bcHiKNME9lrvd6rUJ5zxT) | [Birds & Bees etc.](https://open.spotify.com/artist/4eS0pNLDVquopuOenfqX3U) | [Soft Forest Clappering](https://open.spotify.com/album/5aPiqjkiZtlotd4egGRpxv) | 1:59 | 2021-11-10 | 2023-06-16 |
 | [Soft Rain Carrying Strong Lightnings](https://open.spotify.com/track/0qTxu9veqYjT7qCJJtaMQr) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 2:16 | 2023-02-13 |  |
-| [Soft Rain, Thunder](https://open.spotify.com/track/2ZNecLM1gZtPoCIUHNq3CF) | [Climate Hive](https://open.spotify.com/artist/3mSx3nlKy6R4HHqeRVFLxx) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:37 | 2021-11-10 | 2025-08-06 |
 | [Soft Rain, Thunder](https://open.spotify.com/track/3Gp2W5Po1dSh0oMTxA8LGX) | [Coquins](https://open.spotify.com/artist/2CQkYpYeaZujTc9QnB2Hc3) | [Climate Hive](https://open.spotify.com/album/5hzGqR8lmwzh3bnz21ZO8K) | 2:37 | 2021-11-10 |  |
 | [Soft Thunder](https://open.spotify.com/track/4cRYFKTQaFg95xiMF0izlG) | [Tellus Recordings](https://open.spotify.com/artist/3EwfrJRom0WYp9unSsooUg) | [Nature Vol.1](https://open.spotify.com/album/0MgM1Kx0bJmPPKTR6Yrikr) | 3:01 | 2021-11-10 |  |
 | [Soft Thunders](https://open.spotify.com/track/0ru1Q1p2CUz9fuc0yNLpHw) | [Oceanica](https://open.spotify.com/artist/5XecShujxcNg7fz68DP8nD) | [By The Window](https://open.spotify.com/album/2pwFiAHfav6jV6aKOI7ruL) | 2:05 | 2023-02-13 |  |

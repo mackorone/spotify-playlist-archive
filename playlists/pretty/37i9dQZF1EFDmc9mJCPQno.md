@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 37 | [Galileo](https://open.spotify.com/track/42uG8N0XDtGr9ZvkI0hlW4) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/15ChmYf9eLTv9hIYLvRVFZ) | 3:08 |
 | 38 | [Carefully](https://open.spotify.com/track/01kkh9HwRkRGWVrq7cjwue) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:11 |
 | 39 | [Gucci On My Body](https://open.spotify.com/track/0RjdWLIdAp0KhUgJVjjH3G) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Gucci On My Body](https://open.spotify.com/album/0uAvPwbqfMtuYYGj1TyKV1) | 2:52 |
-| 40 | [Beautiful & Brutal](https://open.spotify.com/track/0WYwcvThvdlJl3xLN7mj4E) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Beautiful & Brutal](https://open.spotify.com/album/7DhbvBKxZl4yi6h4JW5tAL) | 3:31 |
-| 41 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 |
-| 42 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 40 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 41 | [Beautiful & Brutal](https://open.spotify.com/track/0WYwcvThvdlJl3xLN7mj4E) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Beautiful & Brutal](https://open.spotify.com/album/7DhbvBKxZl4yi6h4JW5tAL) | 3:31 |
+| 42 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 |
 | 43 | [Like You Say You Do](https://open.spotify.com/track/5pIsEiH4En2YirEFr5aY2Y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Dear Happy](https://open.spotify.com/album/4PBnAeUH2eta7CqLeCVzYK) | 3:07 |
 | 44 | [Your Age](https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:54 |
 | 45 | [California Sober](https://open.spotify.com/track/2s3sP2qBIm1w9e4wce7BE8) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:05 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 116 | [It's Mean When You Don't Mean It](https://open.spotify.com/track/06qDeXAlTAspztapKBCQXs) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:09 |
 | 117 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `Ab7LTAAAAAAtHvqLIJXK6ds27wQ3H6xq`
+Snapshot ID: `Ab7RFAAAAADmdpDGm+D9lFZ7sG4dQWQm`

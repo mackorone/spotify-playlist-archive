@@ -2,9 +2,9 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> Three time zones from my face!!!
+> Rosaline Rotwood has landed!
 
-2,297 songs - 4 day 23 hr 27 min
+2,299 songs - 4 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1972,6 +1972,7 @@
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-24 | 2024-06-22 |
 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 | 2022-03-18 | 2025-04-05 |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-09-23 | 2025-02-15 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-10-31 | 2024-12-07 |
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-06-05 | 2024-06-22 |
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2022-02-04 | 2022-02-15 |
@@ -2197,6 +2198,7 @@
 | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX) | 3:14 | 2025-08-22 |  |
 | [What's Left Of Me](https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [What's Left Of Me](https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG) | 3:15 | 2024-09-20 | 2025-02-08 |
 | [What's My Name \(Red Version\) \- From "Descendants: The Rise of Red"/Soundtrack Version](https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [What's My Name \(Red Version\) \[From "Descendants: The Rise of Red"/Soundtrack Version\]](https://open.spotify.com/album/2UGytdqtYVoyPeBa5UTP7u) | 2:26 | 2024-04-26 | 2024-05-18 |
+| [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-03 |  |
 | [When Emma Falls in Love \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:12 | 2023-07-07 | 2023-07-15 |
 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2022-03-01 | 2022-06-09 |
 | [When I'm Gone](https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [When I'm Gone](https://open.spotify.com/album/2G6TE8tQJBuQdzK05gY9W2) | 2:20 | 2023-05-26 | 2023-06-10 |

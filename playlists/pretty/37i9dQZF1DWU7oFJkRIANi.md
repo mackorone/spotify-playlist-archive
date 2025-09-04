@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7oFJkRIANi.md) - [plain]
 
 > \#1 hits from the top of the Australian charts, featuring current \#1 HUNTR/X
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,766 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,749 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7oFJkRIANi.md) - [plain]
 | 64 | [Blinding Lights](https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Blinding Lights](https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz) | 3:21 |
 | 65 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 |
 
-Snapshot ID: `AAAAANq/eF90aP8Dgw7uUtu6c+aOOEFk`
+Snapshot ID: `AAAAALqnCVAAik818Lkydg8ToVzM+HzN`

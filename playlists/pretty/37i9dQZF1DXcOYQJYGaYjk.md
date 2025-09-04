@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,879 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,878 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 63 | [Immortalized](https://open.spotify.com/track/2BqDbaNNOMdxKc6jfJ8O0e) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:17 |
 | 64 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 |
 | 65 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
-| 66 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 |
+| 66 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
 | 67 | [Shine On](https://open.spotify.com/track/5jmyQBmDeNwGbL9iC9nWsQ) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Shine On](https://open.spotify.com/album/1muoiM2DToE92Bz0N2nObF) | 3:45 |
-| 68 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
+| 68 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 |
 | 69 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 |
 | 70 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 71 | [Continuum](https://open.spotify.com/track/4g4byRNvlCBXrycixNFNcx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY) | 4:20 |

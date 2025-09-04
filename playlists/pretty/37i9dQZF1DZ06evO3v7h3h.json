@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46086,
+  "num_followers": 46088,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABTCpFIGJJC73PILV7xdb12",
+  "snapshot_id": "aLYzgAAAAACX+d9jVXfEmv077MUKtSlj",
   "tracks": [
     {
       "added_at": null,
@@ -719,50 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Sol",
-        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 206643,
-      "name": "Meu Sol",
-      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 280864,
-      "name": "Castelos de Papel",
-      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Drill",
         "url": "https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0"
       },
@@ -787,6 +743,50 @@
       "duration_ms": 251418,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 280864,
+      "name": "Castelos de Papel",
+      "url": "https://open.spotify.com/track/6mKlfMjTfgYdXZ2EuiXdqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Sol",
+        "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 206643,
+      "name": "Meu Sol",
+      "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
     },
     {
       "added_at": null,

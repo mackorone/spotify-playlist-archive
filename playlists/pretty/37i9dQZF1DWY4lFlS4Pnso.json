@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest playlist. Cover: Olivia Dean",
-  "num_followers": 3072022,
+  "num_followers": 3071795,
   "original_name": "Hot Hits UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZtMWZ6mnfMnC7g7expxdD2cnhv",
+  "snapshot_id": "AAAAAAme/O2g5cNCOt7XiacStzSOGQJE",
   "tracks": [
     {
       "added_at": "2025-09-01 11:00:21",
@@ -23,22 +23,6 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-09-01 11:00:21",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
     },
     {
       "added_at": "2025-09-01 11:00:21",
@@ -63,22 +47,6 @@
     {
       "added_at": "2025-09-01 11:00:21",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-09-01 11:00:21",
-      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -91,6 +59,38 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "added_at": "2025-09-01 11:00:21",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
+    },
+    {
+      "added_at": "2025-09-01 11:00:21",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2025-09-01 11:00:21",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-09-01 11:00:21",
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": "2025-09-01 11:00:21",
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2025-09-01 11:00:21",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": "2025-09-01 11:00:21",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-09-01 11:00:21",
       "album": {
+        "name": "If He Wanted To He Would",
+        "url": "https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 197875,
+      "name": "If He Wanted To He Would",
+      "url": "https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7"
+    },
+    {
+      "added_at": "2025-09-01 11:00:21",
+      "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
-    },
-    {
-      "added_at": "2025-09-01 11:00:21",
-      "album": {
-        "name": "If He Wanted To He Would",
-        "url": "https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 197875,
-      "name": "If He Wanted To He Would",
-      "url": "https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7"
     },
     {
       "added_at": "2025-09-01 11:00:21",

@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 140792,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/5Y6GmjixoGCrcGv9Y63txZ"
@@ -31275,6 +31275,28 @@
     },
     {
       "album": {
+        "name": "Schweinsteiger",
+        "url": "https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282362,
+      "name": "Schweinsteiger",
+      "url": "https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk"
+    },
+    {
+      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -37806,10 +37828,28 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/246MSbcmuI8gaJtmb77K7C"
+    },
+    {
+      "album": {
+        "name": "Valet",
+        "url": "https://open.spotify.com/album/4SAi4EhLNuxJ8yifE3NTIO"
+      },
+      "artists": [
+        {
+          "name": "DeeOrSlim",
+          "url": "https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111342,
+      "name": "Valet",
+      "url": "https://open.spotify.com/track/44DVF1XRGvekMLB0CTzyLF"
     },
     {
       "album": {
@@ -38450,7 +38490,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"

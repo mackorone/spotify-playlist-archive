@@ -1,15 +1,31 @@
 {
   "description": "Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.",
-  "num_followers": 458151,
+  "num_followers": 466507,
   "original_name": "Wednesday Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGcPszu3aEhu+JefyDqwdEapN3BE",
+  "snapshot_id": "AAAAAPTffC80moG+wIfYqE75cZNisB53",
   "tracks": [
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF"
@@ -25,7 +41,307 @@
       "url": "https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Hot (Remastered / 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Nut Zippers",
+          "url": "https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Hell - Remastered 2016",
+      "url": "https://open.spotify.com/track/4efAv86uRxR4yQBcb3Vczq"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 240793,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54Ysqf2ZZkmOX51zta0y7m"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Jacob Braun",
+          "url": "https://open.spotify.com/artist/4kFBJ84mI0ey3dDGdR0jW3"
+        }
+      ],
+      "duration_ms": 42538,
+      "name": "Don't Fear The Reaper - (Soundtrack Version) from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/6zvgsAoG0tw33tNtKYStcY"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Radio & Recording Rarities, Volume 5",
+        "url": "https://open.spotify.com/album/00YQUcER2Ds7vNZwbWncDV"
+      },
+      "artists": [
+        {
+          "name": "Sue Thompson",
+          "url": "https://open.spotify.com/artist/4KCnuZQWRl9FEwAcduZhP9"
+        }
+      ],
+      "duration_ms": 124320,
+      "name": "Gee, But I Hate to Go Home Alone",
+      "url": "https://open.spotify.com/track/6D9ht58pD68IsguvPBOnbI"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5alfx3b9ud76oYc09zVk1H"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "duration_ms": 147524,
+      "name": "Wednesday Mixes Potion - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/39V92bQ1RPPi3XkD5CTbJ2"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Essential Baroque",
+        "url": "https://open.spotify.com/album/2ptb27zRmcc2Iu9NlG5URO"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "Abdelazer: Rondeau",
+      "url": "https://open.spotify.com/track/2Pjkku2SZrbCTygKVBxUM3"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5alfx3b9ud76oYc09zVk1H"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "duration_ms": 124251,
+      "name": "Unexpected Twist of Fate - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/489fvIMtIrYmQXtwLaZYA0"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "German Operatic Choruses",
+        "url": "https://open.spotify.com/album/1QMDjB2xo9iJeY6rzdRPk6"
+      },
+      "artists": [
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "C. F. Bretzner",
+          "url": "https://open.spotify.com/artist/0ioYJP99i5nZZ9rwqe72uU"
+        }
+      ],
+      "duration_ms": 86026,
+      "name": "Die Entfuhrung Aus Dem Serail (Abduction From The Seraglio), K. 384: Final Chorus",
+      "url": "https://open.spotify.com/track/44YhmkfgdZf8DbiDbjDxm0"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "In The Grace Of Your Love",
+        "url": "https://open.spotify.com/album/4hAIvHYvfv3euwKp94v2Nd"
+      },
+      "artists": [
+        {
+          "name": "The Rapture",
+          "url": "https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/5xDFubawPe7KxfNTAgu3YR"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5alfx3b9ud76oYc09zVk1H"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "duration_ms": 155206,
+      "name": "Skull Tree Rescue - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/76cia1qvihjXNJI6fIosvb"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wipe Out",
+        "url": "https://open.spotify.com/album/6D2OBtb3KN9ESKzK6OpE63"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 132466,
+      "name": "Walk Don't Run",
+      "url": "https://open.spotify.com/track/1kb8soif4NLKgUPEXEiHqe"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Take No Prisoners",
+        "url": "https://open.spotify.com/album/1P5EHnwDFWD1dH1cl5JxI1"
+      },
+      "artists": [
+        {
+          "name": "The Hampton String Quartet",
+          "url": "https://open.spotify.com/artist/6znv7r79kszSnESrTp05nc"
+        }
+      ],
+      "duration_ms": 246804,
+      "name": "Sweet Dream are Made of This",
+      "url": "https://open.spotify.com/track/3IoqMnXkCRPWcEGr0C5S9e"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5alfx3b9ud76oYc09zVk1H"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "duration_ms": 145207,
+      "name": "A Family Thing - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/0AYz9WSlzzHBv0BCKuaEBB"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/0ehxQe2HGgrknpaKKfEdVs"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 186835,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/1DkXxZaSwztWeyPQlntsEB"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/54Ysqf2ZZkmOX51zta0y7m"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Don't Fear The Reaper",
+      "url": "https://open.spotify.com/track/7asnovTkmiN8mf09WeSW2A"
+    },
+    {
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Best Loved Melodies",
         "url": "https://open.spotify.com/album/2P1yIVMnwTLyVcVTlphNod"
@@ -41,7 +357,7 @@
       "url": "https://open.spotify.com/track/7BZZUAOGqScBb9wciuBHa7"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Mi Mundo Raro",
         "url": "https://open.spotify.com/album/1UqVcJTezlukIQHuYPGuNu"
@@ -57,7 +373,7 @@
       "url": "https://open.spotify.com/track/3iBfze0P2wwMZxSbvi2Mr7"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Sixpence None The Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
@@ -73,7 +389,7 @@
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
         "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
@@ -97,7 +413,7 @@
       "url": "https://open.spotify.com/track/1HF04uqv5vSe8drRMO83TT"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Pink Funky",
         "url": "https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f"
@@ -113,7 +429,7 @@
       "url": "https://open.spotify.com/track/0icGgAiUx5b0amQLycmGUr"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
@@ -137,7 +453,7 @@
       "url": "https://open.spotify.com/track/1qi26sCtEUCpfc0BqbFXPZ"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "First and Last and Always",
         "url": "https://open.spotify.com/album/2wOuYERNvxVipFb2JlwvwA"
@@ -153,7 +469,7 @@
       "url": "https://open.spotify.com/track/6t4CUeOPf6Ys5Adxnq1LaR"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
@@ -181,7 +497,7 @@
       "url": "https://open.spotify.com/track/4I8u89gSwA1MQGdgoaI7V6"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
         "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
@@ -205,7 +521,7 @@
       "url": "https://open.spotify.com/track/7ue9yrTvWLlJnT1G5S9fYU"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -221,7 +537,7 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
         "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
@@ -245,7 +561,7 @@
       "url": "https://open.spotify.com/track/2fpd6JFXFdP2b4cxpG9z43"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
         "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
@@ -269,7 +585,7 @@
       "url": "https://open.spotify.com/track/2w1iPITQJQfdzK1mr4ZO2W"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Kinks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
@@ -285,7 +601,7 @@
       "url": "https://open.spotify.com/track/6tZdL3Zp8JgrfDbsSeSV1S"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Pasi\u00f3n",
         "url": "https://open.spotify.com/album/54Yw9d8evQ0dalTZzuOjH7"
@@ -313,7 +629,7 @@
       "url": "https://open.spotify.com/track/0uY9Y3eWgwZWrRueIVzaEg"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "The Evil One",
         "url": "https://open.spotify.com/album/3fptm5vPoS16Lrtoego6So"
@@ -329,7 +645,7 @@
       "url": "https://open.spotify.com/track/7ANKoVHVdkIsDEKMMMEys9"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
@@ -361,7 +677,7 @@
       "url": "https://open.spotify.com/track/3osgFGQCpFrT7FEdxMVPfq"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Pedro Vargas En El Carnegie Hall",
         "url": "https://open.spotify.com/album/5jvBrYHrtUggTCPNMdtvnt"
@@ -377,7 +693,7 @@
       "url": "https://open.spotify.com/track/2neFW5nfgUrRxonX7oW8Fr"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Losing My Religion (For Cello and Piano)",
         "url": "https://open.spotify.com/album/33p27AUxcySo7Wo4bTf5jX"
@@ -393,7 +709,7 @@
       "url": "https://open.spotify.com/track/1rYYOms7d4BXXWG9cKnJD0"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
@@ -409,7 +725,7 @@
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
@@ -425,7 +741,7 @@
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "The Dream Weaver",
         "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
@@ -441,7 +757,7 @@
       "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Eric Carmen",
         "url": "https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO"
@@ -457,7 +773,7 @@
       "url": "https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
@@ -481,7 +797,7 @@
       "url": "https://open.spotify.com/track/066b8lHH03cSlTFES2jMre"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Vertigo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1TbuwdZdsSuvfrL6YKozgU"
@@ -497,7 +813,7 @@
       "url": "https://open.spotify.com/track/2Yr3ZqmT6Au2SrUZyLEw8i"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
@@ -513,7 +829,7 @@
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
@@ -529,7 +845,7 @@
       "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Eternelle",
         "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
@@ -545,7 +861,7 @@
       "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/1Mur3hTEWtYHqGku4d9ySm"
@@ -561,7 +877,7 @@
       "url": "https://open.spotify.com/track/5YsyqcewwE0c1ukzHVciS3"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
@@ -577,7 +893,7 @@
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Aftermath",
         "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
@@ -593,7 +909,7 @@
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
@@ -609,7 +925,7 @@
       "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Inquisition Symphony",
         "url": "https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ"
@@ -625,7 +941,7 @@
       "url": "https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
@@ -641,7 +957,7 @@
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
@@ -657,7 +973,7 @@
       "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Vivaldi: The Four Seasons \u2022 Concertos for Bassoon & Violin 'in tromba marina'",
         "url": "https://open.spotify.com/album/1mSVDEox7b18dnZ4Iblnkb"
@@ -681,7 +997,7 @@
       "url": "https://open.spotify.com/track/0ROMalDdNg3L2HoZP4qFyJ"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Carmita Jim\u00e9nez",
         "url": "https://open.spotify.com/album/4PnMS4kDYJ9clQTIcEF2p6"
@@ -697,7 +1013,7 @@
       "url": "https://open.spotify.com/track/67loy4ECyK5Wg0ZPl2P67k"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "EGO",
         "url": "https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34"
@@ -717,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Mercurial World",
         "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
@@ -733,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Let Go Of Love",
         "url": "https://open.spotify.com/album/0DaecKdiL80ncdQhhUYtpq"
@@ -749,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1DI9n01NfIKnl5b90zhI2l"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
@@ -765,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Cinema Classics, Vol. 11",
         "url": "https://open.spotify.com/album/6hafDvy6SyNMm0c3STcVLF"
@@ -793,7 +1109,7 @@
       "url": "https://open.spotify.com/track/3P4e1dv3d6YKza0Oizok6r"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Shoo Fly Pop Rock & Folk from the Bayou Vol. 2",
         "url": "https://open.spotify.com/album/6ltSt6HeiPjcyapn9lVUbg"
@@ -809,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1VS1KRKgRlMkavRrJb5DTb"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Blonde Redhead",
         "url": "https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp"
@@ -825,7 +1141,7 @@
       "url": "https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Elgar",
         "url": "https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg"
@@ -853,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Jinx",
         "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
@@ -869,7 +1185,7 @@
       "url": "https://open.spotify.com/track/3t5htCiGucfhAQjm88U3K9"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Quiet at the Kitchen Door",
         "url": "https://open.spotify.com/album/6qDC8upBCUkyV0Fw2N5qVE"
@@ -885,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Treat Her Strangely",
         "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
@@ -901,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G"
     },
     {
-      "added_at": "2025-08-06 07:00:07",
+      "added_at": "2025-09-03 07:00:31",
       "album": {
         "name": "Legally Blonde",
         "url": "https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE"

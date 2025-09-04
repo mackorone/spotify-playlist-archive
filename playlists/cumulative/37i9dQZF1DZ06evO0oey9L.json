@@ -1099,6 +1099,24 @@
     },
     {
       "album": {
+        "name": "La Gwag",
+        "url": "https://open.spotify.com/album/58ktIwAuPXNByw51ZCaf6z"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146590,
+      "name": "La Gwag",
+      "url": "https://open.spotify.com/track/0t71UEfYnne64Yj6IgaSg5"
+    },
+    {
+      "album": {
         "name": "La Internacional",
         "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 143357,
       "name": "Se\u00f1or 80",
       "url": "https://open.spotify.com/track/2sMftXn8VzkVO2KdduINnd"

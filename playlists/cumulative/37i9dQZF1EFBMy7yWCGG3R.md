@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-372 songs - 20 hr 31 min
+373 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Waitin for You](https://open.spotify.com/track/5JrPpMfdfeDLrGV2Zgeun5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Waitin for You \(Official Video\)](https://open.spotify.com/album/0qJlmAn9y4XMM1Y8qEvpKI) | 3:24 | 2023-12-30 | 2024-01-29 |
 | [Walk My Way \- The Voice Performance](https://open.spotify.com/track/3PepA0VP8gOn10KJyXL7A9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [The Complete Season 14 Collection \(The Voice Performance\)](https://open.spotify.com/album/2GzNWOKPQPQgWd3AibCZsk) | 3:39 | 2023-12-30 |  |
 | [Wanna Know Love \- Piano Version](https://open.spotify.com/track/6gdMHSmw3BzqPx4zHwhJ3J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wanna Know Love \(Piano Version\)](https://open.spotify.com/album/5z7248FxCPEAkQ4Xz57UB6) | 3:11 | 2023-12-30 |  |
+| [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2025-09-03 |  |
 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 | 2023-12-30 |  |
 | [Way Too Long](https://open.spotify.com/track/4GTC9O0btnjO7rQJO6Fxdu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:15 | 2023-12-30 |  |
 | [Welcome To The End](https://open.spotify.com/track/1ww6Ta6idUZH2sYgsZkYeA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Welcome To The End](https://open.spotify.com/album/45vKJFTv0dlITdxk1aN4q7) | 2:15 | 2025-08-13 |  |

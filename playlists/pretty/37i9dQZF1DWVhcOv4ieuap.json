@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1039871,
+  "num_followers": 1039883,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
         "name": "OHNANA",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 156577,
       "name": "OHNANA",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -827,42 +827,6 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -895,18 +859,38 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -931,6 +915,22 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
         "name": "Low Key (feat. Humby)",
         "url": "https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
       },
       "artists": [
         {
           "name": "Sebastian Yatra",
           "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -1711,38 +1707,6 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "BESITOS DULCES",
-        "url": "https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 142960,
-      "name": "BESITOS DULCES",
-      "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
-        "name": "Te Imaginaba",
-        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Te Imaginaba",
-      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
-    },
-    {
-      "added_at": "2025-08-21 18:56:04",
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1771,6 +1735,38 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
+    },
+    {
+      "added_at": "2025-08-21 18:56:04",
+      "album": {
+        "name": "BESITOS DULCES",
+        "url": "https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 142960,
+      "name": "BESITOS DULCES",
+      "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
     },
     {
       "added_at": "2025-08-21 18:56:04",
@@ -1871,18 +1867,18 @@
     {
       "added_at": "2025-08-21 18:56:04",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

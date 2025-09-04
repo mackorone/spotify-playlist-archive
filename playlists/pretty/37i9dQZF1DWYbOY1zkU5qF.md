@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,932 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,068 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 18 | [Que No Quede Huella](https://open.spotify.com/track/4ixhvZuDzaohfHppwOAYiL) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Que No Quede Huella](https://open.spotify.com/album/0PFjnChN1bPeIiOABMezNb) | 2:51 |
 | 19 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/6Bil4aEIKago0aFAkSrfFt) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 |
 | 20 | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cuando Sale la Luna \(Deja Que Salga la Luna\) \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs) | 4:51 |
-| 21 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
-| 22 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
+| 21 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 |
+| 22 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 23 | [LA CANCIÓN](https://open.spotify.com/track/1omu6hXw4JO0g4iiGnsX8q) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [LA CANCIÓN](https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw) | 2:57 |
 | 24 | [Si Veo a Tu Mamá](https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Si Veo a Tu Mamá](https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh) | 2:40 |
 | 25 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 42 | [Escápate Conmigo](https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Covers, Vol\. 2](https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5) | 2:29 |
 | 43 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
 | 44 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
-| 45 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
-| 46 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 45 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 46 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 47 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
 | 48 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
 | 49 | [Solamente una Vez](https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Extrañándote en Cuarentena](https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO) | 2:11 |
-| 50 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
-| 51 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 50 | [Caramelo](https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s) | [Caramelo](https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK) | 3:09 |
+| 51 | [Andar Conmigo](https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Andar Conmigo](https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn) | 3:58 |
 | 52 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
 | 53 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
 | 54 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 75 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/7x6WmmLi750YvutUqhwrs4) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Ahora Te Puedes Marchar](https://open.spotify.com/album/5p1mQTOb5eZf9bXZIqGhxv) | 3:43 |
 | 76 | [Duele el Corazón](https://open.spotify.com/track/7f2gcdeYTCYbGvoljwzdCl) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [Duele el Corazón](https://open.spotify.com/album/0LML5tHNZSGzSEbaXKzlbY) | 2:15 |
 | 77 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
-| 78 | [Amor de Mis Amores](https://open.spotify.com/track/37XhyUITsqjbDHYPRKW1IV) | [Arturo Chacón](https://open.spotify.com/artist/7gMYCjQzaud2cHaGuQWq51) | [De Mi Casa a Tu Casa](https://open.spotify.com/album/0uj0B6KT8EQXyIoH56vdfI) | 3:03 |
-| 79 | [Con El Tiempo \- Acústica](https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Con El Tiempo \(Acústica\)](https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb) | 2:52 |
-| 80 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 |
+| 78 | [Con El Tiempo \- Acústica](https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Con El Tiempo \(Acústica\)](https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb) | 2:52 |
+| 79 | [Amor de Mis Amores](https://open.spotify.com/track/37XhyUITsqjbDHYPRKW1IV) | [Arturo Chacón](https://open.spotify.com/artist/7gMYCjQzaud2cHaGuQWq51) | [De Mi Casa a Tu Casa](https://open.spotify.com/album/0uj0B6KT8EQXyIoH56vdfI) | 3:03 |
+| 80 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 
 Snapshot ID: `AAAAAPJqHMOg/q4Hh6mldxmX21wY5/9x`

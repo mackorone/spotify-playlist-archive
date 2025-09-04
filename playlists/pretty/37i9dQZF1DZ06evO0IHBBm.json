@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31078,
+  "num_followers": 31088,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABjPQVecEghI/i90N0TmDwd",
+  "snapshot_id": "aLYzgAAAAADBRzIKzB8ajIThAl7DMo6D",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mega Hits - Damares",
         "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 333746,
       "name": "Alto Pre\u00e7o",
       "url": "https://open.spotify.com/track/2azG5cPK5k6p7BMJalX9ow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 315930,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
+      "duration_ms": 316159,
+      "name": "O Processo",
+      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
     },
     {
       "added_at": null,
@@ -739,6 +739,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Davi ou Mical",
+      "url": "https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 315930,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/7ctEwNQ442ScQp273q3KiG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acelera e Pisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
       },
@@ -759,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
       },
       "artists": [
         {
@@ -768,25 +800,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 316159,
-      "name": "O Processo",
-      "url": "https://open.spotify.com/track/2aQxomfu4HA5aHikGvgCjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Davi ou Mical",
-      "url": "https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR"
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 334840,
       "name": "Obra Prima",
       "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,

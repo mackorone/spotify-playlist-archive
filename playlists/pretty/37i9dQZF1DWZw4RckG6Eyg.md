@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,242 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,257 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 52 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
 | 53 | [Birdseye](https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Water's Here In You](https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri) | 2:31 |
 | 54 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 55 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
-| 56 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
+| 55 | [Starburned and Unkissed](https://open.spotify.com/track/3ha9yXEYY9lBZEVXD3sYzG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [I Saw The TV Glow \(Original Soundtrack\)](https://open.spotify.com/album/4QtWb6EEnq9EvtI9FVocUY) | 3:40 |
+| 56 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 |
 | 57 | [Lejos De Más](https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Lejos De Más](https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf) | 4:06 |
 | 58 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
 | 59 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |

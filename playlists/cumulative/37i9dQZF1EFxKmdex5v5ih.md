@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-528 songs - 1 day 5 hr 4 min
+529 songs - 1 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Get Out Of My Head](https://open.spotify.com/track/4HeMLD2QxHLf5NFq6oRmFw) | [Kin Crew](https://open.spotify.com/artist/5U2bKwyGTsdlkYQtKLETRA) | [Get Out Of My Head](https://open.spotify.com/album/3rykHBjW6lyquYjnl0jS0D) | 2:08 | 2022-12-15 | 2023-04-29 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-27 |  |
 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 | 2023-12-13 | 2025-06-28 |
+| [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 | 2025-09-03 |  |
 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 | 2025-07-16 |  |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-04-21 |  |
 | [Good News](https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:19 | 2025-04-27 | 2025-05-04 |

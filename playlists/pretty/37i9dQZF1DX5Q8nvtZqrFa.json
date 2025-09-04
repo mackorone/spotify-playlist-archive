@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22047,
+  "num_followers": 22050,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-09-02 15:00:28",
       "album": {
-        "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
-        "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
-      },
-      "artists": [
-        {
-          "name": "Kocchi no Kento",
-          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
-        }
-      ],
-      "duration_ms": 172550,
-      "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
-      "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
-    },
-    {
-      "added_at": "2025-09-02 15:00:28",
-      "album": {
         "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
         "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "added_at": "2025-09-02 15:00:28",
+      "album": {
+        "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
+        "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "duration_ms": 172550,
+      "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
+      "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
     },
     {
       "added_at": "2025-09-02 15:00:28",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-09-02 15:00:28",
       "album": {
-        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
-        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
-      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
-    },
-    {
-      "added_at": "2025-09-02 15:00:28",
-      "album": {
         "name": "\u30c6\u30a4\u30af\u30df\u30fc",
         "url": "https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 249600,
       "name": "\u4eca\u66f4\u3060\u3063\u3066\u50d5\u306f\u8a00\u3046\u304b\u306a",
       "url": "https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v"
+    },
+    {
+      "added_at": "2025-09-02 15:00:28",
+      "album": {
+        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "\u5206\u304b\u3063\u3066\u306a\u3044\u3088",
+      "url": "https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG"
     },
     {
       "added_at": "2025-09-02 15:00:28",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-02 15:00:28",
       "album": {
-        "name": "19.5",
-        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 151483,
-      "name": "For bbys",
-      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
-    },
-    {
-      "added_at": "2025-09-02 15:00:28",
-      "album": {
         "name": "\u30c1\u30f3\u30c1\u30ed\u30ea\u30ba\u30e0",
         "url": "https://open.spotify.com/album/4rpktLSw3eBxnEwbic3oql"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 203987,
       "name": "\u30c1\u30f3\u30c1\u30ed\u30ea\u30ba\u30e0",
       "url": "https://open.spotify.com/track/2hKK5pNejF3vDtB4k7c8Dd"
+    },
+    {
+      "added_at": "2025-09-02 15:00:28",
+      "album": {
+        "name": "19.5",
+        "url": "https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 151483,
+      "name": "For bbys",
+      "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
     },
     {
       "added_at": "2025-09-02 15:00:28",

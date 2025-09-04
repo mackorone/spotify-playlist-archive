@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51023,
+  "num_followers": 51034,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADR4tWaPFAsLsgWzV5Puxuq",
+  "snapshot_id": "aLYzgAAAAAAsJOJ7XnbOPd1fkzhI787B",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
         "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 388826,
       "name": "Back to the Chicken Shack - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,

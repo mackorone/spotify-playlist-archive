@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 252496,
+  "num_followers": 252560,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACHsOFLHEsLXZSHU7Lb/avU",
+  "snapshot_id": "aLYzgAAAAACsGCP5ZfgoWlfuDqOtjoVR",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 180361,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ti Estoy Bien",
-        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 221696,
-      "name": "Sin Ti Estoy Bien",
-      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ti Estoy Bien",
+        "url": "https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 221696,
+      "name": "Sin Ti Estoy Bien",
+      "url": "https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183033,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seg\u00fan Nosotros",
         "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233642,
       "name": "Poeta",
       "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pienses Que Me Fui",
         "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,

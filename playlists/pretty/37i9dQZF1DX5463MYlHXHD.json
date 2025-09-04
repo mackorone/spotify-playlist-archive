@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 577647,
+  "num_followers": 577670,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -791,18 +791,22 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "La Repandilla",
-        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
+        "name": "Sencillo",
+        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
       "artists": [
         {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
         }
       ],
-      "duration_ms": 208631,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
+      "duration_ms": 230243,
+      "name": "El Amor Se Fue",
+      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -823,22 +827,18 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Sencillo",
-        "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
+        "name": "La Repandilla",
+        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
         }
       ],
-      "duration_ms": 230243,
-      "name": "El Amor Se Fue",
-      "url": "https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3"
+      "duration_ms": 208631,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 180662,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1047,38 +1063,18 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
       },
       "artists": [
         {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
         }
       ],
-      "duration_ms": 180662,
-      "name": "Hasta Que Salga el Sol",
-      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
-        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
+      "duration_ms": 215640,
+      "name": "Carta A Un Amigo",
+      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1099,34 +1095,22 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
       "artists": [
         {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Carta A Un Amigo",
-      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
         }
       ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+      "duration_ms": 165605,
+      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1191,6 +1175,22 @@
       "duration_ms": 202360,
       "name": "Ma\u00f1ana Qu\u00e9 Haremos",
       "url": "https://open.spotify.com/track/3cimZHGwkt26PPWTj5Hvi7"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 230448,
-      "name": "Sigue bailando mi amor",
-      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
+      "duration_ms": 230448,
+      "name": "Sigue bailando mi amor",
+      "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1383,6 +1367,22 @@
       "duration_ms": 161410,
       "name": "Te Escapas De Mis Brazos",
       "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Por la V\u00eda R\u00e1pida",
-        "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Los Chicos de la V\u00eda",
-          "url": "https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Te Llev\u00e1s Todo",
-      "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1479,6 +1463,22 @@
       "duration_ms": 237586,
       "name": "Porque te vas",
       "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "Por la V\u00eda R\u00e1pida",
+        "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
+      },
+      "artists": [
+        {
+          "name": "Los Chicos de la V\u00eda",
+          "url": "https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Te Llev\u00e1s Todo",
+      "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1527,6 +1527,22 @@
       "duration_ms": 176973,
       "name": "Berretines de Verduga",
       "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
         "name": "Ya No Se Enamora",
         "url": "https://open.spotify.com/album/15ri7uHGSxGVcLPv1zqB99"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
-      },
-      "artists": [
-        {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "La pata sucia",
-      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
         "name": "Mata",
         "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
+      },
+      "artists": [
+        {
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "La pata sucia",
+      "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
         "name": "M\u00e1s Solida",
         "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
@@ -1683,30 +1683,6 @@
       "duration_ms": 201053,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
-        "name": "YO SOY TU MAESTRO (Remix)",
-        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "YO SOY TU MAESTRO - Remix",
-      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1731,6 +1707,30 @@
       "duration_ms": 212210,
       "name": "Saveiro",
       "url": "https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "YO SOY TU MAESTRO (Remix)",
+        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "YO SOY TU MAESTRO - Remix",
+      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
     },
     {
       "added_at": "2025-08-29 21:23:29",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-08-29 21:23:29",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 185782,
-      "name": "Una Seca por Vos",
-      "url": "https://open.spotify.com/track/3rndN8aGPfaBmBr3dS0xhV"
-    },
-    {
-      "added_at": "2025-08-29 21:23:29",
-      "album": {
         "name": "LOGI",
         "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
       },
@@ -1819,6 +1803,26 @@
       "duration_ms": 234000,
       "name": "LOGI",
       "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
+    },
+    {
+      "added_at": "2025-08-29 21:23:29",
+      "album": {
+        "name": "DJ ALEX, EL NOBA - TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "DJ ALEX, EL NOBA - TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     }
   ],
   "unique_name": "Cumbia villera",

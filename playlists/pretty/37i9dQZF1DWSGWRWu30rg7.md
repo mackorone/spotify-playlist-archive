@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: The Popstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,263 likes - 117 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,264 likes - 117 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

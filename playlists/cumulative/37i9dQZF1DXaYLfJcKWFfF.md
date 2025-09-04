@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WÁ
 
-296 songs - 17 hr 22 min
+297 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 | 2025-08-28 |  |
 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 | 2025-06-26 |  |
 | [Feel Something](https://open.spotify.com/track/0EozgtHJL578iobhVcodiS) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Feel Something](https://open.spotify.com/album/6Zs16k742zGTAsJMrFww6C) | 2:02 | 2025-05-16 | 2025-06-20 |
-| [Final Hour](https://open.spotify.com/track/6kfcbZSCZWEM0tbQp665fA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:16 | 2025-07-18 |  |
+| [Final Hour](https://open.spotify.com/track/6kfcbZSCZWEM0tbQp665fA) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:16 | 2025-07-18 | 2025-09-04 |
 | [Fire Everywhere](https://open.spotify.com/track/4BGv3EsfJL6wLbQ56BaY5X) | [NATAB](https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF) | [There's A Fire On The Mountain](https://open.spotify.com/album/7AHm7GvOwa5PY8Q22tMuHl) | 4:59 | 2024-10-04 | 2025-08-29 |
 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 | 2023-04-27 | 2024-01-19 |
 | [For You](https://open.spotify.com/track/3225yFOItlcXiJOl2hURor) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [For You](https://open.spotify.com/album/2a6u7lATbFmzWrDvW1g8mt) | 3:45 | 2024-03-01 | 2024-05-10 |
@@ -183,6 +183,7 @@
 | [NWANNE](https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [TV DREAMS](https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD) | 4:09 | 2025-08-15 |  |
 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 | 2024-02-23 |  |
 | [Ocean Blue](https://open.spotify.com/track/2X6pF8CDfXxYmgzPJqqOLY) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Ocean Blue](https://open.spotify.com/album/3AVr9YPktzwJVjTFoBJpVL) | 3:05 | 2025-08-28 |  |
+| [Oceans](https://open.spotify.com/track/37vs2EU2zGb0EhLmgZ2VC6) | [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Oceans](https://open.spotify.com/album/4JJFDNnWjyAmTJ1jO2ltmq) | 3:19 | 2025-08-28 |  |
 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 | 2024-02-02 |  |
 | [Oh No I'm in Love](https://open.spotify.com/track/3V64DXodINEWxCUylLhlK5) | [Leoné Murphy](https://open.spotify.com/artist/0ScxP19sE2M47pvrhLy3fU) | [Oh No I'm in Love](https://open.spotify.com/album/1zgKL2sH0z2GM92EIAjgpg) | 3:29 | 2025-08-28 |  |
 | [Oh Shoot](https://open.spotify.com/track/4kHKic91jzEObqoLgYzROV) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Oh Shoot](https://open.spotify.com/album/5Hq2dnXCD2b5HVhy8wwP9U) | 2:49 | 2023-03-30 | 2023-04-28 |

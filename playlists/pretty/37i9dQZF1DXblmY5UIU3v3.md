@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,990 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,065 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 3 | [badboysound](https://open.spotify.com/track/3m1bWZZblIpYjQzrOSl0Oe) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Sanjin](https://open.spotify.com/artist/4eubQnUM4b5sGZoi3fSRV3) | [badboysound](https://open.spotify.com/album/2Yfz4UEkDcgrsvUFkHHUVS) | 2:49 |
 | 4 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
 | 5 | [Cursed Midnight \- Radio Edit](https://open.spotify.com/track/0narfFv6R0EDNbwZecDtEQ) | [GLWKMOD](https://open.spotify.com/artist/49WTsslK1g6frRdr895unr) | [Cursed Midnight \(Radio Edit\)](https://open.spotify.com/album/1pLG8WdonN508rhKLfQyaa) | 1:28 |
-| 6 | [Dope Track](https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Beat Tape 3](https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT) | 2:30 |
-| 7 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
+| 6 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
+| 7 | [Dope Track](https://open.spotify.com/track/4Z38jEv7REm9di26vAAO6A) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Beat Tape 3](https://open.spotify.com/album/15DkAowq0NYedaw8ieeepT) | 2:30 |
 | 8 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
 | 9 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
 | 10 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |

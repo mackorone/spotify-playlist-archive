@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 444597,
+  "num_followers": 444611,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACZ1eBx5i3CRkVq4WCe4ldY",
+  "snapshot_id": "aLYzgAAAAAAejTblujd+/YVxUvA9s5NW",
   "tracks": [
     {
       "added_at": null,
@@ -231,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Nac\u00ed Pa' Ser Jefe",
-        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 168553,
-      "name": "Yo Nac\u00ed Pa' Ser Jefe",
-      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolor y Amor",
         "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Nac\u00ed Pa' Ser Jefe",
+        "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Yo Nac\u00ed Pa' Ser Jefe",
+      "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 183057,
-      "name": "De Mi Viejo",
-      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 183057,
+      "name": "De Mi Viejo",
+      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Caguama en la Banqueta",
-        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
-        }
-      ],
-      "duration_ms": 166232,
-      "name": "Una Caguama en la Banqueta",
-      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengo a Aclarar (En Vivo)",
         "url": "https://open.spotify.com/album/1OJEkIPywlcNiuCzmXE9Lj"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 150990,
       "name": "Las Verdades - En Vivo",
       "url": "https://open.spotify.com/track/7qdsBTWEGQLeY927NgmqsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Caguama en la Banqueta",
+        "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        }
+      ],
+      "duration_ms": 166232,
+      "name": "Una Caguama en la Banqueta",
+      "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Regreso de Chico",
-        "url": "https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG"
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
       },
       "artists": [
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 261140,
-      "name": "El Regreso de Chico",
-      "url": "https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota"
+      "duration_ms": 173874,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
     },
     {
       "added_at": null,
@@ -891,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
+        "name": "El Regreso de Chico",
+        "url": "https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG"
       },
       "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 173874,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
+      "duration_ms": 261140,
+      "name": "El Regreso de Chico",
+      "url": "https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota"
     },
     {
       "added_at": null,

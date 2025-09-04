@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,260 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,256 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 29 | [L'assassinat de Carala \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 |
 | 30 | [Venus De Milo](https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:12 |
 | 31 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
-| 32 | [The Doo\-Bop Song](https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 4:57 |
-| 33 | [Doxy \- Remastered 2009](https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:53 |
+| 32 | [Doxy \- Remastered 2009](https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:53 |
+| 33 | [The Doo\-Bop Song](https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 4:57 |
 | 34 | [Move](https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:34 |
 | 35 | [Violets \(feat\. Phonte\)](https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:23 |
 | 36 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [Studio Discussion \- One](https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 0:30 |
 | 50 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Only One and Fantastic..\. Miles Davis \(Remastered\)](https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6) | 5:57 |
 
-Snapshot ID: `aLTiAAAAAADR54gIxaErgrrML4XoFGEm`
+Snapshot ID: `aLYzgAAAAACCtQ+0Aso4X7GT+deecmUK`

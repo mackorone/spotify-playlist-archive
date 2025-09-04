@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 205494,
+  "num_followers": 205503,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADqmWv2tHpy/fJg9eqwFFAP",
+  "snapshot_id": "aLYzgAAAAAAY2Yy110k/PjEvhJIcqDcL",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 415079,
-      "name": "Jesus We Love You",
-      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 312254,
       "name": "The Blood (Live)",
       "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 415079,
+      "name": "Jesus We Love You",
+      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 297533,
       "name": "Peace",
       "url": "https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 347566,
       "name": "Reign Above It All (Live)",
       "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
       "artists": [
         {
@@ -804,13 +804,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 382600,
-      "name": "Egypt (Live)",
-      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
       "artists": [
         {
@@ -844,13 +844,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+      "duration_ms": 382600,
+      "name": "Egypt (Live)",
+      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 415059,
-      "name": "We Praise You (Live)",
-      "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 293377,
       "name": "Tend",
       "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 415059,
+      "name": "We Praise You (Live)",
+      "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
       "duration_ms": 260260,
       "name": "You're Gonna Be Ok",
       "url": "https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart (Live)",
+      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
     },
     {
       "added_at": null,
@@ -1019,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch of Heaven / Alabaster Heart (Live)",
-        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
       "artists": [
         {
@@ -1028,33 +1048,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 630228,
-      "name": "Touch of Heaven / Alabaster Heart (Live)",
-      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 339870,
-      "name": "Pieces (Live)",
-      "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+      "duration_ms": 437655,
+      "name": "Even Though I Walk - Live",
+      "url": "https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl"
     }
   ],
   "unique_name": "This Is Bethel Music",

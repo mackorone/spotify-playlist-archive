@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194553,
+  "num_followers": 194577,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACmddq23rmJhHFWP+uP5LL1",
+  "snapshot_id": "aLYzgAAAAADl20UWkSEj6OOBn1AkWF8Z",
   "tracks": [
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Under The Stars",
-        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 256026,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
+      "duration_ms": 297640,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+        "name": "Louis Under The Stars",
+        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/3dtBmo7lvR8FVeWybUX7su"
+      "duration_ms": 256026,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1935-1946",
-        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
+        "name": "Essence of Armstrong",
+        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 190976,
-      "name": "The Frim Fram Sauce",
-      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
+      "duration_ms": 199893,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essence of Armstrong",
-        "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 199893,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
+      "duration_ms": 190976,
+      "name": "The Frim Fram Sauce",
+      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
     },
     {
       "added_at": null,

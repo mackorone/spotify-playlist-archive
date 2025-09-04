@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
+    },
+    {
+      "album": {
         "name": "CHAINSAW BLOOD",
         "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
       },
@@ -7370,7 +7388,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 177433,
       "name": "\u30ab\u30ea\u30b9\u30de\u30c3\u30af\u30b9 -CHARISMAX",
       "url": "https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy"
@@ -7586,7 +7604,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 228426,
       "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
       "url": "https://open.spotify.com/track/6TijPbRQPU86xEiN8Dh3YF"
@@ -9476,7 +9494,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 323826,
       "name": "\u5929\u56fd",
       "url": "https://open.spotify.com/track/7sO2NML7SulscK8RR27uUf"

@@ -4,7 +4,7 @@
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-557 songs - 1 day 5 hr 25 min
+559 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-27 | 2025-05-29 |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-27 | 2024-07-27 |
 | [i shouldn’t call you \(w/ Nightly\)](https://open.spotify.com/track/7LYBMhke7RVEEpO88z3T5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [i shouldn’t call you \(w/ Nightly\)](https://open.spotify.com/album/2iaPZAC0JXKjD0YrKQY16f) | 3:09 | 2025-01-31 | 2025-05-24 |
+| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-03 |  |
 | [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 | 2023-12-08 | 2024-03-23 |
 | [I'm A Mess \(feat\. Sam James\)](https://open.spotify.com/track/3kR6aEQRgJUcBOIqwiTAsw) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Sam James](https://open.spotify.com/artist/22PU1TSXSiqGGk4mSVMxYj) | [I'm A Mess \(feat\. Sam James\)](https://open.spotify.com/album/4v38EBBLyjjTMnbs7fJj0v) | 2:40 | 2025-04-04 | 2025-06-10 |
 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 | 2023-11-06 | 2023-11-25 |
@@ -486,6 +487,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-18 |  |
 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 | 2023-11-06 | 2024-02-17 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-03-08 |  |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [The Dumb Song](https://open.spotify.com/track/2ESlmhPjSCLTAZZYez769X) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/5PAZSB5DNZn4STsK35z5JW) | 3:45 | 2023-11-06 | 2023-11-25 |
 | [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-24 | 2024-07-10 |
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-09 | 2024-07-27 |

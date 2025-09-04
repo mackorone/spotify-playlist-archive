@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22386,
+  "num_followers": 22390,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACGLVbus7fIn/+kKcS30KA5",
+  "snapshot_id": "aLYzgAAAAACeTjFX+VJD6MBEQrfrMgji",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 410801,
+      "name": "Opium (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 410801,
-      "name": "Opium (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Fear No More (Remix)",
         "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 174682,
       "name": "No Fear No More (Remix)",
       "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Proud Of U (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
       "duration_ms": 333328,
       "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
       "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Proud Of U (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4u8xrKWeF7xBO9kGwIk6u7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,193 likes - 39 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,197 likes - 39 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 17 | [I Couldn't Keep It To Myself](https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:18 |
 | 18 | [Rifle Love](https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:18 |
 | 19 | [Own Thang \(feat\. Tony! Toni! Toné!\)](https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Own Thang \(feat\. Tony! Toni! Toné!\)](https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d) | 3:56 |
-| 20 | [Holy Smokes & Gee Whiz](https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:01 |
+| 20 | [I Care](https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:56 |
 | 21 | [My Ex\-Girlfriend](https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:52 |
-| 22 | [I Care](https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:56 |
+| 22 | [Holy Smokes & Gee Whiz](https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:01 |
 | 23 | [For The Love Of You](https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:37 |
-| 24 | [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 |
+| 24 | [House Party II \(I Don't Know What You Come To Do\) \- Single Version](https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 4:15 |
 | 25 | [Leavin'](https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:15 |
-| 26 | [House Party II \(I Don't Know What You Come To Do\) \- Single Version](https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 4:15 |
+| 26 | [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 |
 | 27 | [Baby Doll](https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:42 |
 | 28 | [Sky's The Limit](https://open.spotify.com/track/5QxNSef6QOAmBTTwdgTtiV) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:38 |
-| 29 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
-| 30 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
+| 29 | [House Party II \(I Don't Know What You Come To Do\) \- Radio Edit](https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Party II \(I Don't Know What You Come To Do\)](https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI) | 5:21 |
+| 30 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
 | 31 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 |
 | 32 | [More than Flowers](https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [More than Flowers](https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9) | 3:07 |
 | 33 | [It's a Beautiful Thing \- Sly Mix](https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [It's a Beautiful Thing](https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m) | 4:17 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 |
 | 39 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 
-Snapshot ID: `aLTiAAAAAABKwlKtOxU/QsjKJhux6gxS`
+Snapshot ID: `aLYzgAAAAACHh7VfB++/6obIzitoDNqm`

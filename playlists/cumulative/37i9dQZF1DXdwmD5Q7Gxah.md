@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: After
 
-3,515 songs - 8 day 0 hr 3 min
+3,516 songs - 8 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,7 +1990,7 @@
 | [Mercury](https://open.spotify.com/track/0koaXm11b7sizUYJ67ebyn) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Mercury](https://open.spotify.com/album/1JgvMVfhrX7t3p2oAzO3aw) | 4:23 | 2025-08-01 |  |
 | [Merry Mary Marry Me](https://open.spotify.com/track/46eFhc076SX9jsJZ23tMjN) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 3:08 | 2024-05-03 | 2024-10-26 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-28 | 2022-06-03 |
-| [Message 1](https://open.spotify.com/track/1Ax55SEHx4toTKFEM3z7T5) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Message 1](https://open.spotify.com/album/6pgixwiySWx8NVXDLnplbI) | 0:54 | 2025-08-20 |  |
+| [Message 1](https://open.spotify.com/track/1Ax55SEHx4toTKFEM3z7T5) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Message 1](https://open.spotify.com/album/6pgixwiySWx8NVXDLnplbI) | 0:54 | 2025-08-20 | 2025-09-04 |
 | [Messed Up](https://open.spotify.com/track/4WHmafrJ0ANeLFf7UlXjiM) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Messed Up](https://open.spotify.com/album/5Bzq6KT7Xvqv6qsMDJpyi5) | 3:53 | 2020-10-24 | 2021-01-12 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 | 2025-01-18 |
 | [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 1:56 | 2025-04-04 | 2025-08-02 |
@@ -3106,6 +3106,7 @@
 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 | 2023-08-18 | 2024-03-30 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-13 | 2022-02-26 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 | 2022-09-03 |
+| [Theorem](https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Theorem](https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk) | 2:12 | 2025-09-03 |  |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 | 2024-10-05 |
 | [There You Are](https://open.spotify.com/track/5CBmrG7GQMMzRZ8zzbziy1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [There You Are](https://open.spotify.com/album/5SEiDpe5r8WIUxm3nVAYNJ) | 3:51 | 2022-09-28 | 2022-10-29 |
 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-07-07 | 2024-01-11 |
@@ -3218,7 +3219,7 @@
 | [two weeks \(and i miss you\)](https://open.spotify.com/track/2cqfTDvCy4v6DIF0wDoWeG) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [i only remember the good parts](https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI) | 1:36 | 2024-05-17 | 2024-06-08 |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-08 | 2024-02-22 |
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-18 | 2022-06-22 |
-| [U R MINE \- Porches Remix](https://open.spotify.com/track/65WvwhavpXjK5XXnLZtK36) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [U R MINE \(Porches Remix\)](https://open.spotify.com/album/3s8LRlbbJ7QEIE1oROU6tt) | 3:04 | 2025-04-11 |  |
+| [U R MINE \- Porches Remix](https://open.spotify.com/track/65WvwhavpXjK5XXnLZtK36) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [U R MINE \(Porches Remix\)](https://open.spotify.com/album/3s8LRlbbJ7QEIE1oROU6tt) | 3:04 | 2025-04-11 | 2025-09-04 |
 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-19 | 2023-10-03 |
 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 | 2023-08-08 | 2023-08-16 |
 | [Uh](https://open.spotify.com/track/0DJd8Pq5ojAIQvcz66zVIs) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:31 | 2023-11-29 | 2024-04-27 |

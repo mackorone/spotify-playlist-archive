@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,403 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,427 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

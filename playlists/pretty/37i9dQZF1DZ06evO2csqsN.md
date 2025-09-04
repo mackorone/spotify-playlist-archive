@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,473 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,489 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 21 | [Look What You Did \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:58 |
 | 22 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj) | 3:37 |
 | 23 | [FreakyT \- Remix](https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(Remix\)](https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H) | 2:29 |
-| 24 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
+| 24 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
 | 25 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 |
-| 26 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
+| 26 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
 | 27 | [B\*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B\*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 |
 | 28 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 |
 | 29 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Don't Wanna Leave \(feat\. Mulatto\)](https://open.spotify.com/track/3BO6Gl62sn2d9IAnh1QqnY) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [C3](https://open.spotify.com/album/43dGPsOTtISEn742j6BEqH) | 3:07 |
 | 50 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 
-Snapshot ID: `aLTiAAAAAABGVIzZHlKRcq0867sWWsKS`
+Snapshot ID: `aLYzgAAAAAAdj5l5Pw3zcavD/szxYs8L`

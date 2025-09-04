@@ -1595,6 +1595,32 @@
     },
     {
       "album": {
+        "name": "A Guevo A Guevo",
+        "url": "https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj"
+      },
+      "artists": [
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        },
+        {
+          "name": "La Grimita",
+          "url": "https://open.spotify.com/artist/08XZwESYiRiL4oIQMIsnQA"
+        },
+        {
+          "name": "TOLO DESAPARECELO",
+          "url": "https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108054,
+      "name": "A Guevo A Guevo",
+      "url": "https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt"
+    },
+    {
+      "album": {
         "name": "A I O",
         "url": "https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3"
       },
@@ -19134,6 +19160,36 @@
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "album": {
+        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        },
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Dream Come True",
+      "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
       "album": {
@@ -45346,7 +45402,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -45448,7 +45504,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 222545,
       "name": "No digas nada",
       "url": "https://open.spotify.com/track/4wtWL0UV8tCPv9VbUMLXYP"
@@ -47404,7 +47460,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 180361,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC"
@@ -50092,7 +50148,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
@@ -50650,7 +50706,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
@@ -60058,7 +60114,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
@@ -68998,7 +69054,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 200045,
       "name": "Una Copa",
       "url": "https://open.spotify.com/track/0Rx5r7hQaSb2yMHBWpncQq"
@@ -71522,7 +71578,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,219 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 9 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
 | 10 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 11 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
-| 12 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 |
-| 13 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
+| 12 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
+| 13 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 |
 | 14 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 |
 | 15 | [Jaded](https://open.spotify.com/track/0LbZLBBZI1NfaDgb4dx0UD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:05 |
 | 16 | [Younger](https://open.spotify.com/track/2qXicQG06oT0ijKBznpgQv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Younger](https://open.spotify.com/album/4rTW2Lgkp1nwYw0jNIK2sI) | 3:42 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 103 | [Thunderdome \[W.T.A.\] \(feat\. Black Thought & Natalia Lafourcade\)](https://open.spotify.com/track/6jW0scPonEHW9zjPspVHrn) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:54 |
 | 104 | [Like I Do](https://open.spotify.com/track/1roF7kFDaf9dE1TWBpSzAD) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 2:54 |
 | 105 | [Good Mood](https://open.spotify.com/track/6ZsnUckT0Akf3dMypNLcBy) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [SODA](https://open.spotify.com/album/35YO8fr159vkhfppudG2Wj) | 2:59 |
-| 106 | [Unforgettable \(Tommy's Song\)](https://open.spotify.com/track/5q9aNxf8BtiYQoz0wq0K81) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unforgettable \(Tommy’s Song\)](https://open.spotify.com/album/0Paier1KMpw7C5LI7R35Dj) | 3:53 |
-| 107 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
+| 106 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
+| 107 | [Unforgettable \(Tommy's Song\)](https://open.spotify.com/track/5q9aNxf8BtiYQoz0wq0K81) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unforgettable \(Tommy’s Song\)](https://open.spotify.com/album/0Paier1KMpw7C5LI7R35Dj) | 3:53 |
 | 108 | [Picture Myself](https://open.spotify.com/track/03HGNL5EWaUYzBy7sq0oH0) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Picture Myself](https://open.spotify.com/album/4hjA4aJ4IlMup1r2WoFAqO) | 3:31 |
 | 109 | [Intro](https://open.spotify.com/track/7i7zpyMc9rHYi7YaPkB0an) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 0:31 |
 | 110 | [Crimes](https://open.spotify.com/track/1MNvYaJUwUBogmmw6yllQd) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 2:55 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 149 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 150 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `Ab7LiAAAAAA2z+U3k8T56kbfxMZ5H5Dr`
+Snapshot ID: `Ab7RFAAAAACji5J2SQuZ+Knst+ujUrAs`

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,083 songs - 2 day 7 hr 8 min
+1,084 songs - 2 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-01-10 |
 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-06-27 | 2024-07-19 |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-06-20 |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-07-25 | 2024-09-06 |
 | [The Dream Is Over](https://open.spotify.com/track/14TaOx6s12JuJ3DhJCrj8P) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Shades of Blue](https://open.spotify.com/album/7IzlLkqdAibLpnesmvwknW) | 3:22 | 2025-05-29 | 2025-07-04 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-10-04 | 2024-11-01 |

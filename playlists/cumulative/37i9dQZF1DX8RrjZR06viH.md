@@ -4,7 +4,7 @@
 
 > Sommeren er snart over!🍹
 
-242 songs - 12 hr 31 min
+243 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 | 2025-05-03 |
 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 | 2025-05-08 |  |
 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 | 2025-03-27 | 2025-04-11 |
+| [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-08-28 |  |
 | [All I have to do is dream](https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [All I have to do is dream](https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd) | 2:10 | 2025-04-10 | 2025-09-01 |
 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-05-29 |  |
 | [Alt jeg har drømt om](https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Alt jeg har drømt om](https://open.spotify.com/album/78baGAYAw809s68WP75BXX) | 2:26 | 2024-06-27 | 2024-10-12 |
@@ -171,7 +172,7 @@
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 | 2025-05-03 |
 | [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 | 2025-08-28 |
-| [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 |  |
+| [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 | 2025-09-04 |
 | [Over deg](https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Over deg](https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR) | 2:27 | 2024-06-27 | 2025-08-30 |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 | 2024-09-12 | 2024-10-07 |

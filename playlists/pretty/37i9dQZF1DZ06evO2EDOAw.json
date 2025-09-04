@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAJvKS8n0YdSYadoYgIlfoM",
+  "snapshot_id": "aLYzgAAAAAAVPQNGlcH7APy6r34i/enf",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Things Work Together",
+        "url": "https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Jawan Harris",
+          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
+        }
+      ],
+      "duration_ms": 294888,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 660343,
       "name": "Costly (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/04hwtpBc4Ku1UVAWPCfdlD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things Work Together",
-        "url": "https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Jawan Harris",
-          "url": "https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA"
-        }
-      ],
-      "duration_ms": 294888,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 247825,
+      "name": "I Choose You (Live)",
+      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 189392,
       "name": "Better Than I Found It (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 247825,
-      "name": "I Choose You (Live)",
-      "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Anthony Brown",
-          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
-        }
-      ],
-      "duration_ms": 425334,
-      "name": "All Yours (feat. Anthony Brown)",
-      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 217911,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Anthony Brown",
+          "url": "https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb"
+        }
+      ],
+      "duration_ms": 425334,
+      "name": "All Yours (feat. Anthony Brown)",
+      "url": "https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE"
     },
     {
       "added_at": null,
@@ -851,42 +851,6 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 335816,
-      "name": "Making A Way (feat. Adia)",
-      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
     },
     {
       "added_at": null,
@@ -931,6 +895,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 335816,
+      "name": "Making A Way (feat. Adia)",
+      "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heavens Are Telling",
         "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 547048,
+      "name": "You Must Break - Live",
+      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
     },
     {
       "added_at": null,
@@ -1055,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 547048,
-      "name": "You Must Break - Live",
-      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Owe You",
         "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 172693,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
     },
     {
       "added_at": null,
@@ -1127,22 +1111,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
       "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND (Deluxe)",
+        "url": "https://open.spotify.com/album/6nm8tTmroGHi4nxsqcAmPQ"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 334640,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/54IEqN27jsWFRIKstqk9Fg"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

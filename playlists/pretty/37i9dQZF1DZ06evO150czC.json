@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22201,
+  "num_followers": 22202,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAC56byeaPSa4ciF4Jb+WP3a",
+  "snapshot_id": "aLYzgAAAAACpi17/0yuKSG70Y1gqA/A1",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sou Teu Deus",
+        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 290481,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasci Pra Voar",
         "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 309001,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sou Teu Deus",
-        "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 290481,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307803,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 289598,
       "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307803,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq"
     },
     {
       "added_at": null,
@@ -495,42 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abra a Sua Boca e Profetiza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4KkiqiRH7fg9HMjmrBDWuy"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 407122,
-      "name": "Abra a Sua Boca e Profetiza - Ao Vivo",
-      "url": "https://open.spotify.com/track/6nP1B60FjOLkx02WyxpLRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY"
       },
@@ -559,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
@@ -575,38 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+        "name": "Abra a Sua Boca e Profetiza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4KkiqiRH7fg9HMjmrBDWuy"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         },
         {
-          "name": "Rayssa Barros",
-          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
-        }
-      ],
-      "duration_ms": 332416,
-      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 300234,
-      "name": "Um Novo Tempo",
-      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
+      "duration_ms": 407122,
+      "name": "Abra a Sua Boca e Profetiza - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nP1B60FjOLkx02WyxpLRw"
     },
     {
       "added_at": null,
@@ -631,6 +595,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 300234,
+      "name": "Um Novo Tempo",
+      "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Rayssa Barros",
+          "url": "https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce"
+        }
+      ],
+      "duration_ms": 332416,
+      "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/7ATgvDv9nBNW2Y0jTi9pEC"
       },
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Em Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
       "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 272697,
-      "name": "Prossiga (feat. Midian Lima)",
-      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+        "name": "Em Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
       "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+      "duration_ms": 272697,
+      "name": "Prossiga (feat. Midian Lima)",
+      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Deus dos Pequeninos",
         "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 324893,
       "name": "Job",
       "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,

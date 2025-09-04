@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,006 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,009 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 | 20 | [Hello, Lonely](https://open.spotify.com/track/3SPUJNWAZh1kHVHfIRMXWf) | [ADG7](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 3:57 |
 | 21 | [청춘가](https://open.spotify.com/track/0uxxTV4eEUHh6AUvWmIQsD) | [SsingSsing](https://open.spotify.com/artist/5F2YenfQusRVzdHq6RWpw9) | [SSINGSSING](https://open.spotify.com/album/50Dd5fqlWB9YDZ1WdAJW8o) | 4:07 |
 | 22 | [Ritual Dance](https://open.spotify.com/track/5hdIAY7Vnb2w2NPOAocWsQ) | [CHUDAHYE CHAGIS](https://open.spotify.com/artist/3ttQR1taRsySrYIc2U3iAA) | [Underneath the Dangsan Tree Tonight](https://open.spotify.com/album/4SkfT9eMrYvk41vRVRXwX0) | 5:22 |
-| 23 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 |
+| 23 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [OBSG](https://open.spotify.com/artist/4OYZ6Ff9O3tXXzH3SFkvDe) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 |
 | 24 | [AcDaJi\-歌](https://open.spotify.com/track/4ms3ziNYCXCh6hXXcpNEs2) | [SamSan](https://open.spotify.com/artist/0Mqb4ZExEqQNOkEFSyZiql), [Han Woong Won](https://open.spotify.com/artist/6gYgsMseEMY6iYkUsL662N) | [AcDaJi\-歌](https://open.spotify.com/album/4zEPfoiIle9t6UAIN9u8sV) | 3:15 |
 | 25 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 |
 | 26 | [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 |

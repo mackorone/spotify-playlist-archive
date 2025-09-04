@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 170282,
       "name": "Choose",
       "url": "https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 195587,
       "name": "Clown",
       "url": "https://open.spotify.com/track/0Hh0SRM2MUVEtMWLyI7irO"
@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Mother (Deluxe)",
+        "url": "https://open.spotify.com/album/04KpcMLmydYqdD9g968PYg"
+      },
+      "artists": [
+        {
+          "name": "Renata Louisa",
+          "url": "https://open.spotify.com/artist/0cUWBPuAswbnFpYvzNAGfE"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285733,
+      "name": "Day By Day - Acoustic",
+      "url": "https://open.spotify.com/track/2qwcxaFGbhJ2J2a8YK4SAz"
+    },
+    {
+      "album": {
         "name": "De Echte Vent",
         "url": "https://open.spotify.com/album/2r2rQrvSsr9iyZvTLuMUcJ"
       },
@@ -994,6 +1012,42 @@
       "duration_ms": 261986,
       "name": "Defenseless",
       "url": "https://open.spotify.com/track/7lJRWdXp88DJecgWmEiGAR"
+    },
+    {
+      "album": {
+        "name": "Die Light (Acoustic)",
+        "url": "https://open.spotify.com/album/5FxtmkIyEUWthSSULz6umw"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Die Light - Acoustic",
+      "url": "https://open.spotify.com/track/35klmfeIMgSpDQ1v7Z3dyy"
+    },
+    {
+      "album": {
+        "name": "Die With a Smile",
+        "url": "https://open.spotify.com/album/6T6FbAM8LlklhUWNUnA12q"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172049,
+      "name": "Die With a Smile",
+      "url": "https://open.spotify.com/track/1egia0kDbYM3PH1E4le41D"
     },
     {
       "album": {
@@ -1160,6 +1214,24 @@
       "duration_ms": 159500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
+    },
+    {
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
     },
     {
       "album": {
@@ -1982,7 +2054,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 230400,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/79Za9mlMRAm8PQOkAoZ2FP"
@@ -2849,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "album": {
         "name": "Open Hearts",
         "url": "https://open.spotify.com/album/6h2sXjfVdBakT2T3w0R7Vv"
       },
@@ -3347,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Sounds Of An Early Morning",
+        "url": "https://open.spotify.com/album/6yeVsvCmUKoc967n5mzkVD"
+      },
+      "artists": [
+        {
+          "name": "Romy Liz Rose",
+          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "Sounds Of An Early Morning",
+      "url": "https://open.spotify.com/track/3JZqG72YPLiIChom7dGCau"
+    },
+    {
+      "album": {
         "name": "Standing On The Edge (Acoustic)",
         "url": "https://open.spotify.com/album/4H0brVQx6svIimL2T368KW"
       },
@@ -3398,7 +3506,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 206165,
       "name": "Stayed Up Late - Sunrise Version",
       "url": "https://open.spotify.com/track/7utiiIHn9CNo9vVVBH0lss"
@@ -3564,7 +3672,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
@@ -3828,7 +3936,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/1m0dj0cMQRDKEZ2d68SbDU"
@@ -4486,7 +4594,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
@@ -4598,6 +4706,24 @@
       "duration_ms": 207000,
       "name": "You Don't Even Know Me",
       "url": "https://open.spotify.com/track/25ySqlmqGYbg7EH687XaVR"
+    },
+    {
+      "album": {
+        "name": "You Got Me Hurt (Acoustic)",
+        "url": "https://open.spotify.com/album/6K8sqso55MSlz26PYW7yI3"
+      },
+      "artists": [
+        {
+          "name": "Marnix Emanuel",
+          "url": "https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214052,
+      "name": "You Got Me Hurt - Acoustic",
+      "url": "https://open.spotify.com/track/4AU7JPfolYuSGHpmCMyD3D"
     },
     {
       "album": {

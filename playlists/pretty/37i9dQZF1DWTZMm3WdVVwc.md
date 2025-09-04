@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,922 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,921 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 16 | [WINTER WITHOUT YOU](https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WINTER WITHOUT YOU](https://open.spotify.com/album/19mxFJfGlthz0Gmg9AiguM) | 4:03 |
 | 17 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
 | 18 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
-| 19 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
-| 20 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
+| 19 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 |
+| 20 | [AlwayS](https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [AlwayS](https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH) | 4:20 |
 | 21 | [悪夢のような \- Acoustic](https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \(NightTime Version\)](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:12 |
 | 22 | [IS THIS LOVE \(Piano Ver.\)](https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:36 |
 | 23 | [独白](https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [独白](https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf) | 3:52 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZMm3WdVVwc.md) - [plain]
 | 70 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 |
 | 71 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 |
 | 72 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 |
-| 73 | [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 |
-| 74 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 |
+| 73 | [ブービー・プライズ](https://open.spotify.com/track/3Erbx18R75nXl4bqkxANVs) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブービー・プライズ](https://open.spotify.com/album/6vNDaVTLu42GKUYedheSXT) | 4:01 |
+| 74 | [愛のうた](https://open.spotify.com/track/40PwfmGSm07ALNzBtM8lvg) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [HOME EP](https://open.spotify.com/album/3MiwejGJX9udOFHpOHOWsF) | 4:32 |
 | 75 | [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 |
-| 76 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
-| 77 | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq) | 3:34 |
+| 76 | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq) | 3:34 |
+| 77 | [Winter Wish](https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [beyond the GENERATIONS](https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X) | 4:28 |
 | 78 | [FAREWELL](https://open.spotify.com/track/3ce6LGqKRakOk6SsZthMdO) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [cocomi](https://open.spotify.com/artist/2bHwzeISpKCS9xQKqaKAaD) | [FAREWELL](https://open.spotify.com/album/2I1wPlx5OuoM0m4sRwP7Rw) | 3:31 |
 | 79 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 |
 | 80 | [Frozen](https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L), [Hiromi](https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j) | [Frozen](https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv) | 4:37 |

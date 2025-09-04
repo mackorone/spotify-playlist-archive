@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,919 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,931 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 20 | [Simu Yangu](https://open.spotify.com/track/6Ro93g64VXVn4KKVog8zDn) | [Cadabra](https://open.spotify.com/artist/4pUPUy339G2GIylkMXXBVP), [MRT SOUND](https://open.spotify.com/artist/7nUTBe8P4gKaIP8QqQ8657), [Jefe Entertainment Records](https://open.spotify.com/artist/3ab3UjOFwmqaMp8G9YYhrW) | [Simu Yangu](https://open.spotify.com/album/0mZCFdHM7dpKsjMTMWEUe3) | 3:28 |
 | 21 | [Madanga Ya Mke Wangu](https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Madanga Ya Mke Wangu](https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD) | 5:37 |
 | 22 | [Gharama](https://open.spotify.com/track/6cn01Swy0waWynPq386WBp) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Gharama](https://open.spotify.com/album/29sb0w3N8Ai0DwCK7aOlhz) | 3:31 |
-| 23 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 |
+| 23 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 |
 | 24 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 |
-| 25 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 |
+| 25 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 |
 | 26 | [Jina](https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jina](https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8) | 3:47 |
 | 27 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 |
 | 28 | [Maokoto](https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Maokoto](https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG) | 2:34 |

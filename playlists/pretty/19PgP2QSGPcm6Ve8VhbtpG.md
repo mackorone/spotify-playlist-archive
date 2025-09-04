@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 > The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more\. Stranger Things, Top Gun, Back to the Future.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,732,278 likes - 145 songs - 10 hr 20 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,732,501 likes - 145 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 30 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 31 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 | 32 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
-| 33 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
+| 33 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 34 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:01 |
 | 35 | [Cult of Personality \(2023 Remaster\)](https://open.spotify.com/track/4WG7Z3bNM3iE4vCYcXsxNx) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Vivid \(2023 Remaster\)](https://open.spotify.com/album/0Itv01cUzRusmyNcEgEmOA) | 4:54 |
 | 36 | [Everything She Wants](https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 5:02 |

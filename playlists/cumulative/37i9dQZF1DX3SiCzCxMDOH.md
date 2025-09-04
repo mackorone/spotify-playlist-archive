@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-963 songs - 2 day 8 hr 27 min
+965 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Early Spring](https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Early Spring](https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk) | 2:49 | 2024-03-08 | 2025-06-06 |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 | 2024-12-04 |
 | [Ease Up](https://open.spotify.com/track/5ncuMqqLJnYhmXrN49ok5z) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Ease Up](https://open.spotify.com/album/58UwGsqrnKFQChzau97DOS) | 2:50 | 2025-02-20 |  |
-| [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-17 |  |
+| [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-17 | 2025-09-04 |
 | [Easy](https://open.spotify.com/track/6IP328KWUVyrLfKLtx6kA0) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Easy](https://open.spotify.com/album/6GbLOzfl3k3hHOhOsm42m9) | 2:19 | 2022-04-11 | 2023-04-28 |
 | [Easy Steps](https://open.spotify.com/track/6FDOGTNldVdI1HbzFqScfo) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Easy Steps](https://open.spotify.com/album/7Jq4tXrgF6jggioxyaCNiB) | 3:45 | 2025-02-03 |  |
 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 | 2022-09-06 | 2023-03-03 |
@@ -446,6 +446,7 @@
 | [Lament of the Heart](https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Lament of the Heart](https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG) | 3:23 | 2024-09-03 |  |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 | 2024-04-19 |
 | [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-01 | 2024-04-03 |
+| [Last Call](https://open.spotify.com/track/0h18e2XB4kamKRD7Mlo2Fk) | [Nighthawks Revisited](https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1) | [Last Call](https://open.spotify.com/album/7apIu7m0hBq59gnjWCuSuZ) | 3:21 | 2025-09-03 |  |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 | 2025-07-24 |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 | 2025-07-02 |
 | [Late At Night](https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Late At Night](https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m) | 3:50 | 2023-08-10 |  |
@@ -667,7 +668,7 @@
 | [Rhapsody in Raindrops](https://open.spotify.com/track/3ezuMYDq4bDEjG0wl1a18b) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Rhapsody in Raindrops](https://open.spotify.com/album/15MNDdWdIfPW4i3tJgR5Gl) | 3:20 | 2024-04-23 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2025-08-20 |
 | [Rings](https://open.spotify.com/track/37ikivEOR5mMYes9Lx7X6y) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Rings](https://open.spotify.com/album/0ppGENHJJybWJm8AauZlL6) | 3:35 | 2024-10-08 | 2025-02-11 |
-| [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-10 |  |
+| [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-10 | 2025-09-04 |
 | [River's Flow](https://open.spotify.com/track/0GWobcodIxfoH0Lo1dKLVQ) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [River's Flow](https://open.spotify.com/album/0ueRnRuXWlOtwJ7k0OYnZL) | 4:41 | 2025-03-10 |  |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 | 2025-03-11 |
 | [Roses](https://open.spotify.com/track/3rHZHXHKsjvJJPgBiQMmQR) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Roses](https://open.spotify.com/album/0UeANj4WzvJQmhb509bqmL) | 4:11 | 2022-04-11 | 2022-08-31 |
@@ -955,6 +956,7 @@
 | [You Oughta Say](https://open.spotify.com/track/5h1UdBkeES2AZvo8ni3LqS) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [You Oughta Say](https://open.spotify.com/album/25CTsTMKp0VqqCyC8EvoL3) | 3:21 | 2024-06-11 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-17 | 2025-08-20 |
 | [You were saying...](https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [You were saying...](https://open.spotify.com/album/4kHDcMXLPqwmagwgaSiMsT) | 4:08 | 2023-12-08 | 2024-07-23 |
+| [You'll Be Here?](https://open.spotify.com/track/6FYX8lUjyZwK4SOrspGKxD) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [You'll Be Here?](https://open.spotify.com/album/0fLgLZWerWSpZ2nU17wovF) | 4:16 | 2025-09-03 |  |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-02 | 2025-07-24 |
 | [You're All I Can Think Of](https://open.spotify.com/track/5rBnsa0pkuIndZ3vGW95vq) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You're All I Can Think Of](https://open.spotify.com/album/4WF6TZcn0v9RfEFyFVe2qB) | 4:58 | 2023-08-17 | 2025-07-24 |
 | [You're Good to Me](https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [The End is the Beginning](https://open.spotify.com/album/4DlVzBCQqPnLGCyqCPmx7m) | 3:14 | 2022-04-26 | 2025-08-20 |

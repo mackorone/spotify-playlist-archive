@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,460 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,462 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 |
-| 2 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
-| 3 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
+| 2 | [Purple Horizon](https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:41 |
+| 3 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
 | 4 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 |
 | 5 | [Probably Wizards](https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Probably Wizards](https://open.spotify.com/album/6JChYhnQ9v2tfEf1BaqguZ) | 4:51 |
 | 6 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 8 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
 | 9 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 10 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 |
-| 11 | [Chicken Garaage](https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Chicken Garaage](https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa) | 6:41 |
-| 12 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
+| 11 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
+| 12 | [Chicken Garaage](https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Chicken Garaage](https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa) | 6:41 |
 | 13 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
 | 14 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 15 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 45 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer) | 3:26 |
 | 46 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 47 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
-| 48 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
-| 49 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
+| 48 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
+| 49 | [The Precision Of Infinity](https://open.spotify.com/track/3nG6mPXI1FXtdtXfNQGdPD) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision of Infinity](https://open.spotify.com/album/0hHU32niIoAZ5zu8IceapV) | 4:40 |
 | 50 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 |
 
 Snapshot ID: `AAAAAM+Fbx8SdcY0q9kbRv680nAnF6wl`

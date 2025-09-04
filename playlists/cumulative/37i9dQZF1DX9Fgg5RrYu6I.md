@@ -50,7 +50,7 @@
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2024-05-07 |  |
 | [대나무숲](https://open.spotify.com/track/07yp5YDZU6Zch6cJrXs6wo) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [대나무숲](https://open.spotify.com/album/7DZc8YfP20qeueCVQnPFRg) | 4:14 | 2024-05-07 |  |
 | [사철가](https://open.spotify.com/track/5MKmYrqG7AKgUrJDBePMOR) | [juri kim](https://open.spotify.com/artist/32xsx3uhWocPe8QkffUMen) | [사철가](https://open.spotify.com/album/0zMo671mzJyTYutazaJ3Kn) | 6:12 | 2024-05-07 |  |
-| [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2024-05-07 |  |
+| [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [OBSG](https://open.spotify.com/artist/4OYZ6Ff9O3tXXzH3SFkvDe) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2024-05-07 |  |
 | [청춘가](https://open.spotify.com/track/0uxxTV4eEUHh6AUvWmIQsD) | [SsingSsing](https://open.spotify.com/artist/5F2YenfQusRVzdHq6RWpw9) | [SSINGSSING](https://open.spotify.com/album/50Dd5fqlWB9YDZ1WdAJW8o) | 4:07 | 2024-05-07 |  |
 
 \*This playlist was first scraped on 2024-05-09. Prior content cannot be recovered.

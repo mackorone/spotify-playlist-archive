@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 22 min
+128 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Según Mi Reloj](https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:31 | 2025-06-14 |  |
 | [Si Tuviera Sombrero](https://open.spotify.com/track/5OKEpX0t6hePxRTdcSxiDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:01 | 2023-04-23 |  |
 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 | 2022-09-16 |  |
+| [Soldado Caído](https://open.spotify.com/track/4ZD37ImYkgFW7HkyjbdqjV) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:32 | 2025-09-03 |  |
 | [Soy Sagitario](https://open.spotify.com/track/2G9ZvxtsQF3hiL40ZsJXOz) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:23 | 2024-03-17 |  |
 | [Soy Sagitario](https://open.spotify.com/track/1Fegef4ZMoi0Vp8q8NiIjl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/6mcT8OQnyLnD3dfoDO3khI) | 2:23 | 2023-06-18 | 2024-03-18 |
 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 | 2025-08-26 |  |

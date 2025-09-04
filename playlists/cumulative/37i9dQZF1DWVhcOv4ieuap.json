@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 196426,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 147720,
       "name": "Energ\u00eda Bacana",
       "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
@@ -5514,7 +5514,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 157007,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
@@ -8816,6 +8816,24 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     },
     {
       "album": {

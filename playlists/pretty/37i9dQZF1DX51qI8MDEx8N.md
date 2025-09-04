@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 
 > Soft piano music to accompany your reading
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,628 likes - 105 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,629 likes - 105 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51qI8MDEx8N.md) - [plain]
 | 104 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 |
 | 105 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 |
 
-Snapshot ID: `AAAAACBb8trz2InKnVbirZdQHhJGoUlS`
+Snapshot ID: `AAAAAG+Ep9rK2cYLbRDj36zoW2OzoVJN`

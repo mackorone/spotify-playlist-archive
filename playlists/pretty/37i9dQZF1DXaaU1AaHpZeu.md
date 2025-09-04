@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Plastical People en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,025 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,957 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 33 | [Al llegar el verano](https://open.spotify.com/track/0P0Q91Glg2yreJVyijauMq) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Lo que el verano se llevó](https://open.spotify.com/album/6oGlvfhobiVGxy59OpqJNJ) | 4:18 |
 | 34 | [Entretenimiento](https://open.spotify.com/track/7rA6edTCfSvnXWyr0fy1Ff) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Entretenimiento](https://open.spotify.com/album/6bSw6oJnecVO8AOxk23Ndr) | 3:48 |
 | 35 | [Compañía](https://open.spotify.com/track/5pgeiQXLeTeBmXDfHoGfeZ) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Compañía](https://open.spotify.com/album/4WceGOBbE5zwYYVKelT6rn) | 3:31 |
-| 36 | [Una Vez Ví Al Viento](https://open.spotify.com/track/5Z9jZ8TJOjIhbs2zsuY6kZ) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Una Vez Ví Al Viento](https://open.spotify.com/album/0n59GPiJXrZAKpmM8ALYrq) | 3:14 |
+| 36 | [Una Vez Vi Al Viento](https://open.spotify.com/track/5Z9jZ8TJOjIhbs2zsuY6kZ) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Una Vez Vi Al Viento](https://open.spotify.com/album/0n59GPiJXrZAKpmM8ALYrq) | 3:14 |
 | 37 | [La manzana](https://open.spotify.com/track/2T5wugsCXC7MLzcYlikj7q) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [La manzana](https://open.spotify.com/album/6SxNuYtWMAHckzXGFnLjU9) | 3:24 |
 | 38 | [AMIGAS](https://open.spotify.com/track/3bbCKDYwNtGAqiukrEtVz5) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [AMIGAS](https://open.spotify.com/album/0mxi9LsPo9dksd4nTVJLX6) | 4:01 |
 | 39 | [D\. D\. D\. \(Días de Distorsión\)](https://open.spotify.com/track/2rasSxSrND56TOP3Yy675d) | [Nikki Garden](https://open.spotify.com/artist/3PYYWPjHtsRyIZpOEzWMSZ), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Abreviaciones](https://open.spotify.com/album/5TYCNx3auDtnXzqAxfLPNF) | 3:00 |

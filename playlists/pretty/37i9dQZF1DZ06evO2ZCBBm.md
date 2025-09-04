@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,214 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,223 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 38 | [Before I Leave](https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:17 |
 | 39 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 40 | [I Hate Everybody](https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:48 |
-| 41 | [River Stay](https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:04 |
+| 41 | [Kissing You Goodbye](https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:08 |
 | 42 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
-| 43 | [Kissing You Goodbye](https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:08 |
+| 43 | [River Stay](https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:04 |
 | 44 | [Numb](https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:54 |
-| 45 | [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 |
+| 45 | [Sold My Soul](https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:12 |
 | 46 | [Bloody Nose](https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
-| 47 | [Sold My Soul](https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 4:12 |
+| 47 | [Slit Your Own Throat](https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 3:04 |
 | 48 | [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 |
 | 49 | [I Come Alive](https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:16 |
 | 50 | [Blow Me](https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:20 |
 
-Snapshot ID: `aLTiAAAAAABa9K0UydLA19xBPfAgH4lA`
+Snapshot ID: `aLYzgAAAAADZKSC9xBbjeZJ3o/82lNhZ`

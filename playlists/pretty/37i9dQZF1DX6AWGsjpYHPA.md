@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,933 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,975 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 30 | [Nterini \- A COLORS SHOW](https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Nterini \- A COLORS SHOW](https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq) | 3:51 |
 | 31 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
 | 32 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
-| 33 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
-| 34 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
+| 33 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
+| 34 | [Garden](https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 4:35 |
 | 35 | [Harm](https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Along the Lethe](https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP) | 4:26 |
 | 36 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 37 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
 | 38 | [Deceptacon \(DFA Rmx\) By Tim Goldsworthy & James Murphy for the Dfa](https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Remix](https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6) | 6:24 |
-| 39 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
-| 40 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 39 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 40 | [London\. Paris\. Berlin.](https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK) | [Shire T](https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe) | [London\. Paris\. Berlin.](https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v) | 4:05 |
 | 41 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 42 | [Constant Surprises](https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Little Dragon](https://open.spotify.com/album/34AtsFexhxnKPVJFtLIN1I) | 4:33 |
 | 43 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 62 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
 | 63 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
 | 64 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
-| 65 | [19\-6 Paris](https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [19\-6 Paris](https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK) | 4:32 |
-| 66 | [Try Repeat](https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Try Repeat](https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc) | 3:57 |
+| 65 | [Try Repeat](https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Try Repeat](https://open.spotify.com/album/1iY0JUvqD7aDzc6x0VXEqc) | 3:57 |
+| 66 | [19\-6 Paris](https://open.spotify.com/track/1gCf5UhZ7J5Ca4raMR9kE3) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [19\-6 Paris](https://open.spotify.com/album/4joXEYLxWU6CDTjPBWmNbK) | 4:32 |
 | 67 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 68 | [God Knows We Tried](https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Metamorphosis](https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n) | 6:13 |
 | 69 | [Age Of Ascent](https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Age Of Ascent](https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud) | 4:58 |

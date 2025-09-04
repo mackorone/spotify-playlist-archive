@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Luciano Pereyra & David Bisbal",
-  "num_followers": 66777,
+  "num_followers": 66808,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Hola Mundo",
-        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
-      },
-      "artists": [
-        {
-          "name": "Tan Bionica",
-          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Tus Horas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
         "name": "Conociendo Rusia",
         "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 257176,
       "name": "Loco en el Desierto",
       "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
+        "name": "Hola Mundo",
+        "url": "https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Tus Horas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
         "name": "Un T\u00e9 De Tilo Por Favor",
         "url": "https://open.spotify.com/album/4qYkS2ENsUzeIc2DpUJVjT"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 184080,
       "name": "Algo Tiene",
       "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/46UCMDfZuMnarjJigaK9Jk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/0JxrKS6RFWd1Q5mJZzcu9M"
     },
     {
       "added_at": "2025-08-26 14:03:23",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-08-26 14:03:23",
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
+    },
+    {
+      "added_at": "2025-08-26 14:03:23",
+      "album": {
         "name": "La Cobra",
         "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 151912,
       "name": "Disco Rayado",
       "url": "https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7"
-    },
-    {
-      "added_at": "2025-08-26 14:03:23",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     }
   ],
   "unique_name": "Esto es Pop",

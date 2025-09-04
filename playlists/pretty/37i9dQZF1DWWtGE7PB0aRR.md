@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,946 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,001 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 13 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
 | 14 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
 | 15 | [I'm A Mover](https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 2:58 |
-| 16 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 |
+| 16 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
 | 17 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
-| 18 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
+| 18 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 |
 | 19 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
 | 20 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 |
 | 21 | [I Ain't Superstitious](https://open.spotify.com/track/1Hm9E70VKLq37oTLESiP6o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 4:51 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 25 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 |
 | 26 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Paul Raymond](https://open.spotify.com/artist/67bQw5L8lA3vR1dELskESp), [Kim Simmonds](https://open.spotify.com/artist/4sma2sfozeiZbmxSTWJBMz), [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
 | 27 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 |
-| 28 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
-| 29 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
+| 28 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 |
+| 29 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
 | 30 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
 | 31 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
 | 32 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 |

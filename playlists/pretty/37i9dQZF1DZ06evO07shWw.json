@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADRffdq5oWYxhVIFEejb/o0",
+  "snapshot_id": "aLYzgAAAAACdoOBjCCyALAkTTrKiWYW4",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Runnin (with JP Saxe)",
-      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 213000,
       "name": "On Fire (Ingrid Andress Version)",
       "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Runnin (with JP Saxe)",
+      "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
     },
     {
       "added_at": null,

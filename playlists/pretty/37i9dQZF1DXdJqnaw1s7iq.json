@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 61242,
+  "num_followers": 61280,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Elder Island",
-        "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
-      },
-      "artists": [
-        {
-          "name": "Elder Island",
-          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
-        }
-      ],
-      "duration_ms": 303571,
-      "name": "The Big Unknown",
-      "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Mirror Maru - EP",
         "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 242133,
       "name": "Mirror Maru",
       "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Elder Island",
+        "url": "https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ"
+      },
+      "artists": [
+        {
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+        }
+      ],
+      "duration_ms": 303571,
+      "name": "The Big Unknown",
+      "url": "https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
         }
       ],
-      "duration_ms": 195293,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
+      "duration_ms": 251356,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Micachu",
-          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 251356,
-      "name": "Marilyn",
-      "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+      "duration_ms": 195293,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1107,6 +1107,22 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1139,22 +1155,6 @@
       "duration_ms": 300266,
       "name": "Body Language - Interpretation",
       "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Yore",
         "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Worlds",
-        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1283,6 +1267,22 @@
       "duration_ms": 433388,
       "name": "H\u00e9misph\u00e8re",
       "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Worlds",
+        "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+        }
+      ],
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Why Make Sense? (Definitive Version)",
         "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 218146,
       "name": "Pharaohs",
       "url": "https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        },
-        {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
-        }
-      ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Meditations on Afrocentrism",
+        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 254698,
+      "name": "Down the Line - It Takes a Number",
+      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 299000,
       "name": "BULLETS",
       "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Meditations on Afrocentrism",
-        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 254698,
-      "name": "Down the Line - It Takes a Number",
-      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 344158,
       "name": "Hours",
       "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Electric Lines (Bonus Edition)",
+        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "Truth Is Light",
+      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Get Free",
         "url": "https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 289694,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Electric Lines (Bonus Edition)",
-        "url": "https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "Truth Is Light",
-      "url": "https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF"
     },
     {
       "added_at": "2025-08-22 17:54:07",

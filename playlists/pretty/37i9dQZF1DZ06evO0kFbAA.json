@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACpcvd+kxKSuWN9DgcmjRmI",
+  "snapshot_id": "aLYzgAAAAAAQiKpE7BuMuv3a+2W+Vo7H",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Melinda",
-      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Melinda",
+      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz With Cal Tjader",
         "url": "https://open.spotify.com/album/2JoYII1dEoiwkRSNexKo3J"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 236960,
       "name": "I've Grown Accustomed To Her Face",
       "url": "https://open.spotify.com/track/2p14371u2TyoND8KyyyN0T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Manha De Carnaval",
-      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
     },
     {
       "added_at": null,

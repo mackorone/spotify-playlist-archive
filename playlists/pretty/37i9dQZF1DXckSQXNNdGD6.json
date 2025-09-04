@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  Alice Wonder.",
-  "num_followers": 20907,
+  "num_followers": 20930,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 169356,
       "name": "A PLENO PULM\u00d3N",
       "url": "https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
+        "name": "GORGONA",
+        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
         "name": "LL\u00c1MAME",
         "url": "https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 173793,
       "name": "Full Lace y el Tuck",
       "url": "https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
-        "name": "GORGONA",
-        "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

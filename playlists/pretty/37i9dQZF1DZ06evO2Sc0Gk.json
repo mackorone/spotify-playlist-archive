@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20417,
+  "num_followers": 20426,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADBMax4GhX36oOQmWPitefv",
+  "snapshot_id": "aLYzgAAAAADNXvEop9j9586zFAJLizS/",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
       "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
     },
     {
       "added_at": null,
@@ -215,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+        "name": "F1 The Album",
+        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
       },
       "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
+      "duration_ms": 173149,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "KEYS TO THE KINGDOM",
-      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 260702,
       "name": "Hollup",
       "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "KEYS TO THE KINGDOM",
+      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
     },
     {
       "added_at": null,
@@ -700,17 +700,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
         }
       ],
-      "duration_ms": 178106,
-      "name": "Dabebi",
-      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -780,13 +776,17 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+      "duration_ms": 178106,
+      "name": "Dabebi",
+      "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
     },
     {
       "added_at": null,
@@ -831,6 +831,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        }
+      ],
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 195789,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
     },
     {
       "added_at": null,

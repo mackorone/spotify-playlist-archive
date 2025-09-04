@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,490 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,499 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:15 |
 | 50 | [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 |
 
-Snapshot ID: `MEpdoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MEuvIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

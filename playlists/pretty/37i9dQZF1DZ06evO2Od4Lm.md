@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,587 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,604 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 12 | [Back To Oz](https://open.spotify.com/track/6s0F09N7jp4wSqN8vVgMQR) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 4:12 |
 | 13 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
 | 14 | [Concerning the UFO sighting near Highland, Illinois](https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 2:08 |
-| 15 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 |
-| 16 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 |
+| 15 | [Will Anybody Ever Love Me?](https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:09 |
+| 16 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 |
 | 17 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
 | 18 | [The Predatory Wasp of the Palisades Is Out to Get Us!](https://open.spotify.com/track/4wFBbeR03fah9nwy0isyO8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:23 |
 | 19 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Flint \(For the Unemployed and Underpaid\)](https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:43 |
 | 50 | [Lady Macbeth In Chains](https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:42 |
 
-Snapshot ID: `aLTiAAAAAAB2bKvPQqgAft6mEjgN5FF5`
+Snapshot ID: `aLYzgAAAAADAmajtNgRGe+xaYf+ZpGid`

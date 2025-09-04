@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,540 likes - 40 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,604 likes - 40 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 36 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 |
 | 37 | [I Want Her](https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [The Best of Keith Sweat: Make You Sweat](https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8) | 3:41 |
 | 38 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
-| 39 | [Don't Disturb This Groove](https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Don't Disturb This Groove](https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ) | 5:17 |
-| 40 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
+| 39 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
+| 40 | [Don't Disturb This Groove](https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Don't Disturb This Groove](https://open.spotify.com/album/0Kwk6arYrNHMXkC3wR3gGJ) | 5:17 |
 
 Snapshot ID: `AAAAAO65Krii3Z3g5aKk4Q2ZXyayXft/`

@@ -2,7 +2,7 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: The Cards I Play
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Survive Said The Prophet
 
 425 songs - 1 day 0 hr 28 min
 
@@ -156,7 +156,7 @@
 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 | 2023-09-26 |  |
 | [Japanese Cherry](https://open.spotify.com/track/0rtQpVwfZW6ESBMc3XX5Gg) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Candy Cruise EP](https://open.spotify.com/album/7f9rnDJTOsfDAn7FWGOlWN) | 1:55 | 2023-11-21 | 2024-07-02 |
 | [JUNGLE BUN DEM](https://open.spotify.com/track/3wWMqIeTZcC6eLmR0G5dcG) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/24eIv5TgqoGWZNocPZsa5E) | 3:13 | 2023-10-03 | 2023-10-18 |
-| [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 | 2025-09-03 |
+| [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 | 2023-10-03 |  |
 | [Jupiter](https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 3:20 | 2023-07-20 | 2023-11-16 |
 | [Kanzen kankaku Dreamer](https://open.spotify.com/track/1XT0cpl9g0GuRQJao2nqXd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Niche Syndrome](https://open.spotify.com/album/4OKBuE9F8MTCV7nnsBRcsK) | 4:12 | 2023-07-20 | 2024-04-19 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2023-07-20 |  |
@@ -362,7 +362,7 @@
 | [You're already dead](https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [You're already dead](https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG) | 3:19 | 2025-07-08 |  |
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 | 2024-04-19 |
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-15 | 2024-10-16 |
-| [「変身」](https://open.spotify.com/track/2b7Y188esHzmfCyFtLi7Km) | [DEZERT](https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl) | [yourself: ATTITUDE](https://open.spotify.com/album/2kfzcbhu3Rn2Km2T3lovx4) | 3:10 | 2025-06-10 |  |
+| [「変身」](https://open.spotify.com/track/2b7Y188esHzmfCyFtLi7Km) | [DEZERT](https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl) | [yourself: ATTITUDE](https://open.spotify.com/album/2kfzcbhu3Rn2Km2T3lovx4) | 3:10 | 2025-06-10 | 2025-09-04 |
 | [あつまれ！パーティーピーポー](https://open.spotify.com/track/1dIvfhOBd3UpHfuaQnFlhr) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:14 | 2023-11-14 | 2023-11-22 |
 | [あと１０秒で](https://open.spotify.com/track/0ZVEogjFQfEojgzv2wIUOX) | [MO'SOME TONEBENDER](https://open.spotify.com/artist/3iDF6ORuOohmzWA3PhzYB2) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:24 | 2025-08-19 |  |
 | [あばく](https://open.spotify.com/track/5ucixkROvLTWu0LeJMt32M) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [あばく](https://open.spotify.com/album/2qtIGkBUz6IRZyJxH46z5s) | 2:53 | 2024-08-13 | 2025-02-05 |

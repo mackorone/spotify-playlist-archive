@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 329040,
       "name": "Chuyen Tinh Khong Di Vang",
       "url": "https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V"
@@ -1142,6 +1142,24 @@
       "duration_ms": 290996,
       "name": "Giao Th\u1eeba Xa X\u1ee9",
       "url": "https://open.spotify.com/track/0FVFsDKMKNdR7KQz8pKOwM"
+    },
+    {
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 6",
+        "url": "https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288336,
+      "name": "Gi\u00e3 T\u1eeb",
+      "url": "https://open.spotify.com/track/5ps2FABlkO1aYnVHTtcN09"
     },
     {
       "album": {
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 306853,
       "name": "Li\u00ean kh\u00fac S\u1ea7u l\u1ebb b\u00f3ng - \u0110\u1ed5i b\u00f3ng - L\u1ebb b\u00f3ng",
       "url": "https://open.spotify.com/track/0b2J6uNBZWzD6VtSS02wHU"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 282721,
       "name": "S\u1ea7u T\u00edm Thi\u1ec7p H\u1ed3ng",
       "url": "https://open.spotify.com/track/6p2VRU6XOQ9caoStaN446h"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,555 likes - 178 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,538 likes - 178 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 2 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
 | 3 | [Avion](https://open.spotify.com/track/01H1v89jEAJtVloJdv467P) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Avion](https://open.spotify.com/album/5vE8RLUy1kyQklTWDIssKq) | 2:20 |
 | 4 | [Two birds](https://open.spotify.com/track/66s4fv5w7UUF3mF78bsxTX) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Two birds](https://open.spotify.com/album/2wE6gH2DFlaP0mEEUZcU4M) | 2:33 |
-| 5 | [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 |
-| 6 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
-| 7 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
-| 8 | [Stele Cazatoare](https://open.spotify.com/track/5LFakQ9K0IdZMRrBUYNBgz) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Stele Cazatoare](https://open.spotify.com/album/0qh07muc5Iq2IomJcsbwUJ) | 2:48 |
-| 9 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
-| 10 | [Musing](https://open.spotify.com/track/6xvOQhCh8vlfRZwR6IUQAO) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [Musing](https://open.spotify.com/album/3BwV9f0cfCDqj42CzHhaUn) | 2:18 |
-| 11 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
-| 12 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
-| 13 | [A Clear Mind](https://open.spotify.com/track/5CPZ6bTq6DNZyuaAH3BteC) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [A Clear Mind](https://open.spotify.com/album/4iLrnJeBbGSJOHmmFudmmX) | 2:11 |
-| 14 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 |
-| 15 | [Light as Silk](https://open.spotify.com/track/4iI8IJzjds4PqdgV1uTcIT) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Light as Silk](https://open.spotify.com/album/5O2gOX2GsYduepBmORG4Rl) | 3:04 |
-| 16 | [Trapped](https://open.spotify.com/track/0URuOMi37vIV6AydbBRluv) | [Jean Dalmont](https://open.spotify.com/artist/0wUsHCiEBi5gnLotxgzJvX) | [Trapped](https://open.spotify.com/album/6YL4dgtGbwCzEbfxMrHNDA) | 2:09 |
-| 17 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
-| 18 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
+| 5 | [Stele Cazatoare](https://open.spotify.com/track/5LFakQ9K0IdZMRrBUYNBgz) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Stele Cazatoare](https://open.spotify.com/album/0qh07muc5Iq2IomJcsbwUJ) | 2:48 |
+| 6 | [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 |
+| 7 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
+| 8 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 |
+| 9 | [Layer by layer](https://open.spotify.com/track/02oxF7V7v7PpAvxvOEyUZ8) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Layer by layer](https://open.spotify.com/album/2WFYogo7pZ2GzoXwgmhQts) | 2:28 |
+| 10 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
+| 11 | [Musing](https://open.spotify.com/track/6xvOQhCh8vlfRZwR6IUQAO) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [Musing](https://open.spotify.com/album/3BwV9f0cfCDqj42CzHhaUn) | 2:18 |
+| 12 | [Light as Silk](https://open.spotify.com/track/4iI8IJzjds4PqdgV1uTcIT) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Light as Silk](https://open.spotify.com/album/5O2gOX2GsYduepBmORG4Rl) | 3:04 |
+| 13 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
+| 14 | [A Clear Mind](https://open.spotify.com/track/5CPZ6bTq6DNZyuaAH3BteC) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [A Clear Mind](https://open.spotify.com/album/4iLrnJeBbGSJOHmmFudmmX) | 2:11 |
+| 15 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
+| 16 | [Elegia](https://open.spotify.com/track/0s0b3XQ1SOLfxbIjnpLA8o) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Elegia](https://open.spotify.com/album/3HWAXCYEqTZxTt3zZjW4dB) | 2:06 |
+| 17 | [Trapped](https://open.spotify.com/track/0URuOMi37vIV6AydbBRluv) | [Jean Dalmont](https://open.spotify.com/artist/0wUsHCiEBi5gnLotxgzJvX) | [Trapped](https://open.spotify.com/album/6YL4dgtGbwCzEbfxMrHNDA) | 2:09 |
+| 18 | [Akureyri](https://open.spotify.com/track/1Z30fkmYHv71uarv6JEfHI) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Akureyri](https://open.spotify.com/album/0Hp1R6S2Bis2IBKv5N5xXi) | 2:57 |
 | 19 | [A Forest Tale](https://open.spotify.com/track/0aOHjlTg0HE2n3R8VBsxik) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [A Forest Tale](https://open.spotify.com/album/57Db6TlvbRj77MzvdR0lWY) | 2:24 |
 | 20 | [Lost in your light](https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Lost in your light](https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa) | 2:30 |
 | 21 | [Unspoken](https://open.spotify.com/track/77u4Ha6yYizl6Zs5m7znHJ) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Unspoken](https://open.spotify.com/album/7fMhaKQBMxUjaRXwgms7fx) | 2:12 |

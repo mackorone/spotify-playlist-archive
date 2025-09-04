@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 31 min
+57 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Promises](https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 5:27 | 2025-03-08 |  |
 | [Reason](https://open.spotify.com/track/33pQD4Uj57np7exb4ETJLq) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 2:01 | 2025-03-08 |  |
 | [Ridiculous Thoughts](https://open.spotify.com/track/4qeRLhbW4CszknXMSUYrS4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 4:31 | 2025-03-08 |  |
-| [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 | 2025-03-08 |  |
+| [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 | 2025-03-08 | 2025-09-04 |
 | [Salvation](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 2:22 | 2025-03-08 |  |
 | [Schizophrenic Playboy](https://open.spotify.com/track/6FdVdYNgEbbWbtIyQh8fPL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 3:39 | 2025-03-08 |  |
 | [Shattered](https://open.spotify.com/track/155I1ffphVdq7fCeMH597u) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:42 | 2025-03-08 |  |
@@ -59,6 +59,7 @@
 | [What's On My Mind](https://open.spotify.com/track/3SQN0ve67YrlWeRSQL2Qaw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Dreaming My Dreams With You](https://open.spotify.com/album/4ftBEHJfbJz1awnWnhztdl) | 3:12 | 2025-03-08 |  |
 | [When You're Gone](https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:52 | 2025-03-08 |  |
 | [When You're Gone](https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:56 | 2025-03-08 |  |
+| [Yeats' Grave \- 2025 Remastered](https://open.spotify.com/track/5fiiSF02DqfoyixcTTc2x0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:59 | 2025-09-04 |  |
 | [You And Me](https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:35 | 2025-03-08 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2025-03-08 |  |
 | [Zombie \- Acoustic Version](https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:01 | 2025-03-08 |  |

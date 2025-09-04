@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5287,
+  "num_followers": 5291,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "En un Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Todos sus Exitos: Nicola di Bari",
         "url": "https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 186813,
       "name": "Il giorni dell 'arcobaleno",
       "url": "https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "En un Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy"
     },
     {
       "added_at": "2025-03-14 16:55:23",

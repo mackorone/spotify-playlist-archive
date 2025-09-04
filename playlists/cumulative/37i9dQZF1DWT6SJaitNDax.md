@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: SPINALL
 
-878 songs - 1 day 21 hr 7 min
+879 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [For One Night](https://open.spotify.com/track/7DPuQniEsizFyjtngWwR0s) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:29 | 2025-08-29 |  |
 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 | 2021-09-10 | 2022-07-17 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 | 2025-06-28 |
-| [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-08 |  |
+| [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-08 | 2025-09-04 |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-10-18 | 2024-10-26 |
 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 | 2024-07-19 | 2024-08-17 |
 | [FORWARD](https://open.spotify.com/track/4ZAbuBPil114GUR8bzANI8) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 2:19 | 2025-08-29 |  |
@@ -388,6 +388,7 @@
 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-21 |  |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-18 | 2025-07-26 |
 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 | 2025-05-13 | 2025-06-28 |
+| [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats\]](https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Isaka II \(6am\) \[with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats\]](https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ) | 4:45 | 2025-09-03 |  |
 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 | 2024-08-30 |  |
 | [It Go Bad](https://open.spotify.com/track/1f6lfO0v0bQ6AW3f39hNAm) | [Nnabu](https://open.spotify.com/artist/6W24KTDAMemd7TvIxZnsqT) | [It Go Bad](https://open.spotify.com/album/0ZLoFYvmYKAWtPsKOsXDzP) | 3:15 | 2021-09-10 | 2022-07-29 |
 | [JA ARA E](https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:10 | 2021-09-10 | 2022-11-13 |

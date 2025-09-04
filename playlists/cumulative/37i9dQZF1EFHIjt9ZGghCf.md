@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 18 hr 15 min
+177 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [just me](https://open.spotify.com/track/6QOiI0kvrtaAVSaqppv73q) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:04 | 2024-07-12 |  |
 | [keep going](https://open.spotify.com/track/4YwCyPMelfD7BRiUyU1jki) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:11 | 2024-07-12 |  |
 | [keep going](https://open.spotify.com/track/6G4ktJZNqIgvZ44QyBHjnx) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 3:11 | 2024-06-11 | 2024-07-13 |
+| [Kid Again \- Live](https://open.spotify.com/track/6cXtuwdMH2aEcWgtwIfNZV) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:26 | 2025-09-03 |  |
 | [Kingdom Come](https://open.spotify.com/track/64IfRuYoTpZULxi84hdefh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb) | 3:58 | 2024-06-11 | 2024-07-13 |
 | [Kingdom Come](https://open.spotify.com/track/6kAJO5PP3yWPSlCzQFoFuU) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/5ykKSgDylWBcNrzMSj4C5u) | 3:58 | 2024-07-12 |  |
 | [Let It Fall \- Live](https://open.spotify.com/track/0Ek4F4tQB91pf5ybGQkBn0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Intercession \(Live\)](https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62) | 5:48 | 2024-06-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Alex Warren & Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,986 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,015 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

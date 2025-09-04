@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABogLFdK6cMf+dzLF1HP8FU",
+  "snapshot_id": "aLYzgAAAAAAXzy3EiQTnDzfMIQ5yIIqw",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Medo de Ser Feliz",
-        "url": "https://open.spotify.com/album/34gaFhH0gYCtxxbXjff6RT"
+        "name": "O EIXO CATIA O CERRADO",
+        "url": "https://open.spotify.com/album/6zKhje6g0UfD3fZDrDgGfZ"
       },
       "artists": [
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        },
+        {
+          "name": "Fehlix",
+          "url": "https://open.spotify.com/artist/6LmzY32ZqarMetNDkzUmo0"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         }
       ],
-      "duration_ms": 131184,
-      "name": "Sem Medo de Ser Feliz",
-      "url": "https://open.spotify.com/track/55KiMLHoFTzwmZ8USFMtRf"
+      "duration_ms": 131200,
+      "name": "novo feudalismo",
+      "url": "https://open.spotify.com/track/3VBrkwBPoE1rQC2x7b0aDS"
     },
     {
       "added_at": null,
@@ -503,26 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O EIXO CATIA O CERRADO",
-        "url": "https://open.spotify.com/album/6zKhje6g0UfD3fZDrDgGfZ"
+        "name": "Sem Medo de Ser Feliz",
+        "url": "https://open.spotify.com/album/34gaFhH0gYCtxxbXjff6RT"
       },
       "artists": [
-        {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
-        },
-        {
-          "name": "Fehlix",
-          "url": "https://open.spotify.com/artist/6LmzY32ZqarMetNDkzUmo0"
-        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         }
       ],
-      "duration_ms": 131200,
-      "name": "novo feudalismo",
-      "url": "https://open.spotify.com/track/3VBrkwBPoE1rQC2x7b0aDS"
+      "duration_ms": 131184,
+      "name": "Sem Medo de Ser Feliz",
+      "url": "https://open.spotify.com/track/55KiMLHoFTzwmZ8USFMtRf"
     },
     {
       "added_at": null,
@@ -592,13 +592,17 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Marab\u00e1",
-          "url": "https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
         }
       ],
-      "duration_ms": 98899,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/6x9A2UGJpBPBP0lJSFyLoU"
+      "duration_ms": 129917,
+      "name": "Praticando a F\u00e9",
+      "url": "https://open.spotify.com/track/7eG936RFAaKNyubCAFbqx9"
     },
     {
       "added_at": null,
@@ -680,17 +684,13 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "DJ Cost",
-          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+          "name": "Marab\u00e1",
+          "url": "https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB"
         }
       ],
-      "duration_ms": 129917,
-      "name": "Praticando a F\u00e9",
-      "url": "https://open.spotify.com/track/7eG936RFAaKNyubCAFbqx9"
+      "duration_ms": 98899,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/6x9A2UGJpBPBP0lJSFyLoU"
     },
     {
       "added_at": null,
@@ -779,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Sem Pressa",
+      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dias Mulheres Vir\u00e3o, Pt. 2",
         "url": "https://open.spotify.com/album/4I6BlMBEi4XoSGqoOFYOWY"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 217142,
       "name": "Filhas do Improv\u00e1vel",
       "url": "https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/4eUgqY4dye3VLv1WPvx1U5"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Sem Pressa",
-      "url": "https://open.spotify.com/track/2OXDQSebDxwzT7hdIwvnA2"
     },
     {
       "added_at": null,
@@ -955,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Sei Falar de Amor",
+        "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/6pwlaxeaQsSGbZv5OTDs13"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Veio De Gra\u00e7a",
         "url": "https://open.spotify.com/album/6SDiWRDW6DMZUvXlVMoY1Q"
       },
@@ -999,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Sei Falar de Amor",
-        "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/6pwlaxeaQsSGbZv5OTDs13"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Favela Ou No Asfalto",
         "url": "https://open.spotify.com/album/4vjaQuRwYKNsAuDANmKPYB"
       },
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 205923,
-      "name": "Talvez Bem Mais",
-      "url": "https://open.spotify.com/track/6VKcdqumtvLbTf7t3X3pmS"
+      "duration_ms": 181115,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/2fUYYayjAyFk3JzihIS6f5"
     },
     {
       "added_at": null,
@@ -1079,6 +1079,26 @@
       "duration_ms": 182666,
       "name": "6Ballas",
       "url": "https://open.spotify.com/track/3KyLB6cbfcAtGS5S3ixfSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Culture BR",
+        "url": "https://open.spotify.com/album/454i8Ke6gUYIdWOS4V9vKF"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "RealLamak",
+          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Jersey Culture BR",
+      "url": "https://open.spotify.com/track/2ZVjFWO5fzNhboCzVifIYb"
     },
     {
       "added_at": null,
@@ -1107,26 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey Culture BR",
-        "url": "https://open.spotify.com/album/454i8Ke6gUYIdWOS4V9vKF"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "RealLamak",
-          "url": "https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Jersey Culture BR",
-      "url": "https://open.spotify.com/track/2ZVjFWO5fzNhboCzVifIYb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SELFIE",
         "url": "https://open.spotify.com/album/047tLugURWhdI0iuJ6by70"
       },
@@ -1140,41 +1140,9 @@
           "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 181115,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/2fUYYayjAyFk3JzihIS6f5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cypher Sello BH",
-        "url": "https://open.spotify.com/album/3MYYzA0wCokIEfSBMpO6M1"
-      },
-      "artists": [
-        {
-          "name": "Zarastruta",
-          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Maskote",
-          "url": "https://open.spotify.com/artist/4cvw1yPOaIiszTz3hEUKRp"
-        },
-        {
-          "name": "Dogtown Rap",
-          "url": "https://open.spotify.com/artist/3OlxVlxvIQByE2opV64Ja5"
-        },
-        {
-          "name": "Gotcha",
-          "url": "https://open.spotify.com/artist/6DjB33o9yNWUGZSBkYfTvP"
-        }
-      ],
-      "duration_ms": 260245,
-      "name": "Cypher Sello BH",
-      "url": "https://open.spotify.com/track/32Ddc1EYOLtvo4IR2Evg68"
+      "duration_ms": 205923,
+      "name": "Talvez Bem Mais",
+      "url": "https://open.spotify.com/track/6VKcdqumtvLbTf7t3X3pmS"
     },
     {
       "added_at": null,
@@ -1224,65 +1192,45 @@
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
         }
       ],
-      "duration_ms": 177928,
-      "name": "Pra Lembrar",
-      "url": "https://open.spotify.com/track/15QSPZxdtFbHKzF9U8UiPO"
+      "duration_ms": 192098,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6vcZDuXKzhABEmKM1pFTFr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Sei Falar de Amor",
-        "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
+        "name": "Cypher Sello BH",
+        "url": "https://open.spotify.com/album/3MYYzA0wCokIEfSBMpO6M1"
       },
       "artists": [
+        {
+          "name": "Zarastruta",
+          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+        },
         {
           "name": "Clara Lima",
           "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
         },
         {
-          "name": "Donces\u00e3o",
-          "url": "https://open.spotify.com/artist/7D5NN6IlLcm4Mo2QPqAQFx"
+          "name": "Maskote",
+          "url": "https://open.spotify.com/artist/4cvw1yPOaIiszTz3hEUKRp"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "Dogtown Rap",
+          "url": "https://open.spotify.com/artist/3OlxVlxvIQByE2opV64Ja5"
+        },
+        {
+          "name": "Gotcha",
+          "url": "https://open.spotify.com/artist/6DjB33o9yNWUGZSBkYfTvP"
         }
       ],
-      "duration_ms": 193043,
-      "name": "S\u00f3 por uma Noite",
-      "url": "https://open.spotify.com/track/0XUEkVd54GrWUDISzGo1tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuva de Nota",
-        "url": "https://open.spotify.com/album/6nplA4sH6JpPYe4KphvKcH"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Billy Billy",
-          "url": "https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "White Monkey Recordings",
-          "url": "https://open.spotify.com/artist/4aOhi7PfTjBW439bBhH0J4"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Chuva de Nota",
-      "url": "https://open.spotify.com/track/11euuoFdZH0DipnWBrBXri"
+      "duration_ms": 260245,
+      "name": "Cypher Sello BH",
+      "url": "https://open.spotify.com/track/32Ddc1EYOLtvo4IR2Evg68"
     },
     {
       "added_at": null,
@@ -1307,6 +1255,62 @@
       "duration_ms": 112494,
       "name": "Filha do Sol",
       "url": "https://open.spotify.com/track/5lKw7lje9mmax3ohPIKPsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confort\u00e1vel",
+        "url": "https://open.spotify.com/album/1xFQyDmc8fFkkrHwjlVDdp"
+      },
+      "artists": [
+        {
+          "name": "Salaga",
+          "url": "https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Jay OQ",
+          "url": "https://open.spotify.com/artist/1zkhOAFrj0VxkvpLD0CqGw"
+        },
+        {
+          "name": "Toepper",
+          "url": "https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Pe\u00e7a na Cintura",
+      "url": "https://open.spotify.com/track/3GqvAQfTgJHUKvYGr4wU5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Transgress\u00e3o",
+        "url": "https://open.spotify.com/album/35FcgAKlBZl6sgChnxzv8n"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 177928,
+      "name": "Pra Lembrar",
+      "url": "https://open.spotify.com/track/15QSPZxdtFbHKzF9U8UiPO"
     }
   ],
   "unique_name": "This Is Clara Lima",

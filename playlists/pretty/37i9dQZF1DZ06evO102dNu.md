@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,321 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,352 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 39 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
 | 40 | [Summer Wind](https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 2:33 |
 | 41 | [Autumn Leaves \- Remastered 1999](https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 2:52 |
-| 42 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
-| 43 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
-| 44 | [Chicago \- Remastered](https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 2:14 |
-| 45 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
-| 46 | [It Had To Be You](https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:54 |
+| 42 | [Chicago \- Remastered](https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Expanded Edition\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 2:14 |
+| 43 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
+| 44 | [Let Me Try Again \(Laisse Moi le Temps\)](https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ol' Blue Eyes Is Back](https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu) | 3:31 |
+| 45 | [It Had To Be You](https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 3:54 |
+| 46 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
 | 47 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 |
 | 48 | [One Note Samba \(Samba de Uma Nota So\)](https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:20 |
 | 49 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 | 50 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra with the Tommy Dorsey Orchestra \(with Frank Sinatra\)](https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g) | 3:19 |
 
-Snapshot ID: `aLTiAAAAAABdQS0eoQU7dNRy7fdnSdyi`
+Snapshot ID: `aLYzgAAAAACcjt1Zgh6lzis1BlNzCArf`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "This One Is Personal",
+        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169314,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+    },
+    {
+      "album": {
         "name": "KAUTION",
         "url": "https://open.spotify.com/album/5pCpOoJ3fVv0FkPfaIl8SW"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 170062,
       "name": "A Little Thing Called Love",
       "url": "https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb"
+    },
+    {
+      "album": {
+        "name": "Abazali",
+        "url": "https://open.spotify.com/album/2JBdrMf9aP33faZjfBMkzG"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175781,
+      "name": "Abazali",
+      "url": "https://open.spotify.com/track/6J0jX6MuObIpZkP1Ob9V3C"
     },
     {
       "album": {
@@ -328,7 +364,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 175187,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
@@ -1727,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177015,
+      "name": "damn u",
+      "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/6rhM9Jy1HrlyALJY1TP8kj"
       },
@@ -2474,7 +2532,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
@@ -2584,7 +2642,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 233207,
       "name": "Fool Me Once",
       "url": "https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi"
@@ -2960,6 +3018,24 @@
       "duration_ms": 123950,
       "name": "Girlie-Pop!",
       "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
+    },
+    {
+      "album": {
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce"
+      },
+      "artists": [
+        {
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
     },
     {
       "album": {
@@ -3498,6 +3574,24 @@
       "duration_ms": 162800,
       "name": "Hopeless Place",
       "url": "https://open.spotify.com/track/6bMnInhzH6gpqY0tOdI2cP"
+    },
+    {
+      "album": {
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "album": {
@@ -7096,7 +7190,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -10444,7 +10538,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 156600,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"

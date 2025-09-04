@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 여러분의 인생 BGM은 무엇인가요?<a href="https://open.spotify.com/site/mylifebgm"> 링크</a>를 통해 확인해 보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,480 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,477 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 49 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 |
 | 50 | [Keep Your Head Up](https://open.spotify.com/track/2kebNtlS7DqWE54Z66FZIt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ) | 3:10 |
 
-Snapshot ID: `AAAAAK2h7E06xfIkvtOFBuJVZ6QMnBRw`
+Snapshot ID: `AAAAAKtbnouYwZUYHJPc/op6EUl3nRRP`

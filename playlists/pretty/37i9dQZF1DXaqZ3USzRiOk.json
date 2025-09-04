@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 232739,
+  "num_followers": 232870,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 155144,
+      "name": "En La Barra",
+      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "El Cadete",
-      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "El Cadete",
+      "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 155144,
-      "name": "En La Barra",
-      "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
-        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Pena Tras Pena",
-      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Puros \u00c9xitos",
         "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 172466,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
+        "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Pena Tras Pena",
+      "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 147280,
       "name": "Esta situaci\u00f3n",
       "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia de Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "15 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 183193,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/5OwRXO2hPA3uHAd5ZiXIaC"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia de Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 131066,
-      "name": "Cama de Piedra",
-      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "15 \u00c9xitos 15",
         "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 205635,
       "name": "La Tercera Carta",
       "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 131066,
+      "name": "Cama de Piedra",
+      "url": "https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Boh\u00e9mio De Afici\u00f3n",
-        "url": "https://open.spotify.com/album/46eHKj2sjHO6Gxmq1ywzI6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "Bohemio de Afici\u00f3n",
-      "url": "https://open.spotify.com/track/64CGijDJon1P1LVZPQhN2l"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 187037,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Boh\u00e9mio De Afici\u00f3n",
+        "url": "https://open.spotify.com/album/46eHKj2sjHO6Gxmq1ywzI6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 196186,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/64CGijDJon1P1LVZPQhN2l"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "T\u00fa y las Nubes",
-      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "15 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 220612,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6WDlfXdCGYAIo6bWKZosNP"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "T\u00fa y las Nubes",
+      "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
-      },
-      "artists": [
-        {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
-        }
-      ],
-      "duration_ms": 165866,
-      "name": "Zenaida Ingrata",
-      "url": "https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 201560,
       "name": "Desde Hoy - Con Mariachi",
       "url": "https://open.spotify.com/track/3xpcxYUs20mA2qAh0tsx48"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
+      },
+      "artists": [
+        {
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
+        }
+      ],
+      "duration_ms": 165866,
+      "name": "Zenaida Ingrata",
+      "url": "https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Mi Historia - Pepe Aguilar",
+        "url": "https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 261131,
+      "name": "Por Mujeres Como Tu",
+      "url": "https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -2279,18 +2295,18 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Mi Historia - Pepe Aguilar",
-        "url": "https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn"
+        "name": "15 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 261131,
-      "name": "Por Mujeres Como Tu",
-      "url": "https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB"
+      "duration_ms": 165405,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2327,38 +2343,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/5F97yxlWDURcyfLJJfDplk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 165405,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/1y8Ha4gflL877QQ1MViILD"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/0JzcrTNUXP82pS5SnfimyA"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -2379,6 +2363,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/1y8Ha4gflL877QQ1MViILD"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/0JzcrTNUXP82pS5SnfimyA"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 232663,
-      "name": "Mi Enemigo El Amor",
-      "url": "https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Pr\u00e9stame a Mi Padre",
         "url": "https://open.spotify.com/album/3QCWlcrpyAfOeqACcBBc5Y"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 177000,
       "name": "Pr\u00e9stame a Mi Padre",
       "url": "https://open.spotify.com/track/38PoI8PKloxPJ02oGZgS6E"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 232663,
+      "name": "Mi Enemigo El Amor",
+      "url": "https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z"
     }
   ],
   "unique_name": "Las Rancheras de Pap\u00e1",

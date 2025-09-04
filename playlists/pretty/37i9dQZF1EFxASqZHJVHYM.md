@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,402 likes - 118 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,403 likes - 118 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 64 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
 | 65 | [Me Likey](https://open.spotify.com/track/37jZYQS8JGJGacgO5bKAYa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Me Likey](https://open.spotify.com/album/1ppOr1I16YBkpE2LIs3nUn) | 2:41 |
 | 66 | [Rules](https://open.spotify.com/track/6HmWy7ttkeZGG2KEtt8AqX) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 3:31 |
-| 67 | [All Facts \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7F8HytQB1qAku7ZXTIhcYe) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B\-Sides](https://open.spotify.com/album/2C6M7W3XuPMko8hacm8Ibo) | 3:00 |
-| 68 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 |
+| 67 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 |
+| 68 | [All Facts \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7F8HytQB1qAku7ZXTIhcYe) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [B\-Sides](https://open.spotify.com/album/2C6M7W3XuPMko8hacm8Ibo) | 3:00 |
 | 69 | [Gore](https://open.spotify.com/track/6Xb2iLlSfxsvOjM3J5y0dD) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:42 |
 | 70 | [INSIDE \(FEAT\. TRAVIS SCOTT\)](https://open.spotify.com/track/24p1C9WueGBQLURpKc3oO8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 4:10 |
 | 71 | [Wicked](https://open.spotify.com/track/5mFnYgPkEpr2eoMqvSOXQe) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:18 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 117 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 118 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `Ab7LYAAAAAA/FMRoXkxzXVLuFD57IF35`
+Snapshot ID: `Ab7RAAAAAAANvNgoruGmlIKbTFeg9ucj`

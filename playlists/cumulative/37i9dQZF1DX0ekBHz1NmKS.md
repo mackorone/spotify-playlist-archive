@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,974 songs - 4 day 6 hr 15 min
+1,976 songs - 4 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 | 2024-06-01 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 | 2025-02-27 | 2025-06-20 |
+| [Hateless](https://open.spotify.com/track/26qUR3n6e4qFIDJUgTdTjw) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [Hateless](https://open.spotify.com/album/6OzjCWx2IHhVH9Rg6gJoem) | 3:05 | 2025-09-01 |  |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
@@ -1131,7 +1132,7 @@
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |
-| [Min Ibland](https://open.spotify.com/track/3PRtA83KfWcKzgEspcxtKq) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Min Ibland](https://open.spotify.com/album/0X98hKynTxswzzXrHIKp3R) | 2:19 | 2025-07-10 |  |
+| [Min Ibland](https://open.spotify.com/track/3PRtA83KfWcKzgEspcxtKq) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Min Ibland](https://open.spotify.com/album/0X98hKynTxswzzXrHIKp3R) | 2:19 | 2025-07-10 | 2025-09-04 |
 | [MIN MARIE](https://open.spotify.com/track/5ZyZnWoQiMk2qoNt2HyDdN) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN MARIE](https://open.spotify.com/album/1R0rgizcdTQsGbWTMokGa0) | 2:33 | 2024-02-22 | 2024-04-12 |
 | [Min Vän](https://open.spotify.com/track/7tpQYavfKzFq1RkEmOarw1) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Min Vän](https://open.spotify.com/album/38EYyBabFipzV9LPr1nmcD) | 2:32 | 2024-05-02 | 2024-06-01 |
 | [Minimum](https://open.spotify.com/track/4JkY9nv1oRlj9OYfOlOVna) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Minimum](https://open.spotify.com/album/7ntbKzzrRi4jgxNoPCKMjb) | 2:13 | 2024-01-04 | 2024-02-23 |
@@ -1336,6 +1337,7 @@
 | [Plåster](https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Plåster](https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y) | 4:59 | 2024-08-15 | 2024-09-27 |
 | [Plåstret](https://open.spotify.com/track/6Byvrc6ct2PIIQKEhmcVhF) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Plåstret](https://open.spotify.com/album/68mz74xN3EE3nUKVvYevUq) | 3:22 | 2024-05-30 | 2024-06-28 |
 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 | 2022-06-02 | 2023-04-23 |
+| [Poolside](https://open.spotify.com/track/36SB93STWxQEifbBNCSJcR) | [Maybe](https://open.spotify.com/artist/03N63H9bvlxWJUunz5Vc32) | [Poolside](https://open.spotify.com/album/7qaHXEIC7dsRNLfDvx4VIP) | 2:48 | 2025-09-01 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-05-17 |
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-27 | 2023-04-25 |
 | [Poppis Visa](https://open.spotify.com/track/1TV02N2DgCdHMFCkES06m1) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 3:15 | 2022-05-20 | 2022-11-11 |
@@ -1911,7 +1913,7 @@
 | [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 | 2024-10-20 |
 | [Weekend](https://open.spotify.com/track/6L6Me26P5PGKzqmA3vVrsb) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Weekend](https://open.spotify.com/album/6cW67CJz9ZfyUX3Z1oDUQI) | 2:23 | 2024-06-06 | 2024-08-09 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |
-| [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 |  |
+| [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 | 2025-09-04 |
 | [What You Were Made For](https://open.spotify.com/track/0Xxgu48tWiWkUd5Kxdxuqt) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [What You Were Made For](https://open.spotify.com/album/2tp55z03GJL1CexjXcEfBw) | 3:14 | 2022-05-26 | 2023-03-08 |
 | [What's On Your Mind](https://open.spotify.com/track/3JHgXCFXvwmhF87cpPzwxz) | [Nadine Randle](https://open.spotify.com/artist/5axuNl3MPux2y2GuCmuitJ) | [What's On Your Mind](https://open.spotify.com/album/2lI8SAEemZOYeCaYDiyE8x) | 2:57 | 2024-03-21 | 2024-05-03 |
 | [When Are You Coming My Way](https://open.spotify.com/track/4sg8aFruIdNLAGPKAuiNEc) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [When Are You Coming My Way](https://open.spotify.com/album/7MFBaUUdFFKjjygOeQLzwj) | 2:19 | 2024-08-29 | 2024-09-21 |

@@ -1,4 +1,4 @@
-## Playlists \(8763\)
+## Playlists \(8765\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3768,6 +3768,7 @@
 - [Magical Mantras](/playlists/pretty/37i9dQZF1DX6o0zIiTnhmq.md)
 - [Mahlzeit!](/playlists/pretty/7i3B1C2tQh92HbABZwzHVm.md)
 - [Main Stage](/playlists/pretty/37i9dQZF1DX7ZUug1ANKRP.md)
+- [Make Moves](/playlists/pretty/37i9dQZF1DX9VqxLqwPHz2.md)
 - [Make Out Jams](/playlists/pretty/37i9dQZF1DXbEm2sKzgoJ8.md)
 - [Mal de Amores](/playlists/pretty/37i9dQZF1DX68aCfKW9xMy.md)
 - [Malaa Selection](/playlists/pretty/7gP3QDumGRrHqoy9iWtDyw.md)
@@ -6143,6 +6144,7 @@
 - [This Is Biffy Clyro](/playlists/pretty/37i9dQZF1DX7yNDQ30MDO6.md)
 - [This Is Big Daddy Weave](/playlists/pretty/37i9dQZF1DZ06evO2Rwe2O.md)
 - [This Is Big Mama Thornton](/playlists/pretty/37i9dQZF1DZ06evO3EuBHZ.md)
+- [This Is BigXthaPlug](/playlists/pretty/37i9dQZF1DZ06evO3NkkHT.md)
 - [This Is Bill Withers](/playlists/pretty/37i9dQZF1DX5MwHlrzAPLQ.md)
 - [This Is Billie Eilish](/playlists/pretty/37i9dQZF1DX6cg4h2PoN9y.md)
 - [This Is Billie Holiday](/playlists/pretty/37i9dQZF1DZ06evO17hgFa.md)

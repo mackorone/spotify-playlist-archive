@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Beton.Hofi
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,214 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,268 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

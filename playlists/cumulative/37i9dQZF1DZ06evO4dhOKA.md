@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-124 songs - 6 hr 18 min
+125 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aguanta Corazón \(En Vivo Desde El Domo Care\)](https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [PALOMAZO NORTEÑO \(En Vivo Desde El Domo Care\)](https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX) | 2:37 | 2024-08-03 |  |
 | [Amigo Mío \- Dueto Con Lalo Mora](https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 4:00 | 2024-01-27 |  |
 | [Amor A La Ligera](https://open.spotify.com/track/6lWhsgbZr8P2zKkucWWqGH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:19 | 2022-06-01 | 2024-02-22 |
-| [Amor Profundo](https://open.spotify.com/track/3uYz7qTKvNUkxaHIJqz6mO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 2:56 | 2025-09-03 |  |
+| [Amor Profundo](https://open.spotify.com/track/3uYz7qTKvNUkxaHIJqz6mO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 2:56 | 2025-09-03 | 2025-09-04 |
 | [Aviéntame \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [PALOMAZO NORTEÑO VOL\. 2 \(EN VIVO DESDE EL DOMO CARE\)](https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3) | 3:21 | 2024-08-10 |  |
 | [Bajo Mil Llaves](https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Bajo Mil Llaves](https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe) | 2:29 | 2023-03-07 | 2024-08-03 |
 | [Bajo Mil Llaves \- En Vivo](https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [En Vivo \(En Vivo \- México / 2005\)](https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s) | 2:48 | 2022-06-01 |  |
@@ -100,6 +100,7 @@
 | [Ojitos a Mi Gusto](https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:40 | 2022-06-01 |  |
 | [Para Ti Mi Amor](https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:49 | 2022-07-22 | 2023-08-31 |
 | [Pcrct](https://open.spotify.com/track/2NFxWx1OMaZzpGKYumJRqs) | [Flans](https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [Pcrct](https://open.spotify.com/album/5n4ScMcE5IpqkskLHGpTpE) | 3:00 | 2022-10-12 | 2022-10-14 |
+| [Pero Aprendí](https://open.spotify.com/track/35C1fOhRp44fgU8GhixoDf) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Desilucionado](https://open.spotify.com/album/5enzZnUz32i62BGj5HwjNF) | 3:05 | 2025-09-04 |  |
 | [Pero María](https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 3:07 | 2023-04-02 |  |
 | [Perro Viejo](https://open.spotify.com/track/683mVjXRj66upXCE2s9tgj) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:29 | 2022-07-27 | 2022-08-17 |
 | [Playa Sola](https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:48 | 2022-06-01 |  |

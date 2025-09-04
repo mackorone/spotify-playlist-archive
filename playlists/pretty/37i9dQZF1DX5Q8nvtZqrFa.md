@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,047 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,050 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 8 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 9 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 |
 | 10 | [ラストハンチ](https://open.spotify.com/track/4KtMd7F50HwIseHuJpbFt4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ラストハンチ](https://open.spotify.com/album/4DLVL2qXMTDgBheakg1Yid) | 4:10 |
-| 11 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 |
-| 12 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
+| 11 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
+| 12 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 |
 | 13 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
 | 14 | [ANTENNA](https://open.spotify.com/track/4ER5mnbHqsvggEcoVMdFSk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:30 |
 | 15 | [Moonian](https://open.spotify.com/track/4vJYvvpQKltU57dOZAnEwm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Blood in the Void](https://open.spotify.com/album/1SA0qxLIkSK0vFfWCFvUmy) | 3:49 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 26 | [トラップ](https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN), [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [トラップ](https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x) | 2:51 |
 | 27 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 |
 | 28 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 |
-| 29 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
-| 30 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 |
+| 29 | [今更だって僕は言うかな](https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:09 |
+| 30 | [分かってないよ](https://open.spotify.com/track/6MrJYU78mz1Vth83LDFRlG) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 3:28 |
 | 31 | [春](https://open.spotify.com/track/0s2r51oFxs7nQHMfQhGkXj) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 3:16 |
 | 32 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
 | 33 | [瞳に吸い込まれて](https://open.spotify.com/track/0Bmr9iqfrDHkSPxjBFcSC8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [音の雨、言葉は傘、今から君と会う。](https://open.spotify.com/album/2DUCu6cZa6rtLvigSD6ouy) | 3:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 39 | [僕らまた](https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [僕らまた](https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE) | 3:17 |
 | 40 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白 \- Confession](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
 | 41 | [しわあわせ](https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:33 |
-| 42 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
-| 43 | [チンチロリズム](https://open.spotify.com/track/2hKK5pNejF3vDtB4k7c8Dd) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [チンチロリズム](https://open.spotify.com/album/4rpktLSw3eBxnEwbic3oql) | 3:23 |
+| 42 | [チンチロリズム](https://open.spotify.com/track/2hKK5pNejF3vDtB4k7c8Dd) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [チンチロリズム](https://open.spotify.com/album/4rpktLSw3eBxnEwbic3oql) | 3:23 |
+| 43 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 |
 | 44 | [Mouiiyo](https://open.spotify.com/track/4TSjU0UG6ZKbQhOJ4Ma7vE) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Mouiiyo](https://open.spotify.com/album/2FEjhVr2wSkbbehMrSOSEV) | 2:57 |
 | 45 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 |
 | 46 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |

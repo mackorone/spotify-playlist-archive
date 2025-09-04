@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,310 likes - 252 songs - 17 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,312 likes - 252 songs - 17 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 95 | [Cruise Control](https://open.spotify.com/track/6bjMyqdNxOr6ZSYZdqYMIF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:32 |
 | 96 | [Babydoll](https://open.spotify.com/track/2Me3nF2ee0DCQ0MXuMxaGj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 5:06 |
 | 97 | [Honey \(feat\. Mase & The Lox\) \- Bad Boy Remix](https://open.spotify.com/track/4fT89rIpn1BOJh6hvdp3n7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:33 |
-| 98 | [Boy \(I Need You\)](https://open.spotify.com/track/4vAfVTBWBZ2AP8avoLV0n1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:14 |
-| 99 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
+| 98 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 |
+| 99 | [Boy \(I Need You\)](https://open.spotify.com/track/4vAfVTBWBZ2AP8avoLV0n1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 5:14 |
 | 100 | [Crybaby \(feat\. Snoop Dogg\)](https://open.spotify.com/track/5DkHYNiEqDnyKHW5r1Esj6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 5:19 |
 | 101 | [Stay Long Love You \(feat\. Gunna\)](https://open.spotify.com/track/397AkOxBC7w8j5J6fVsGk0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:01 |
 | 102 | [One Mo' Gen](https://open.spotify.com/track/7pwAOy7WJBeSBPbH9lXvI8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:25 |
@@ -130,9 +130,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 120 | [Bliss](https://open.spotify.com/track/4CO8s7CeEwoFkQ6zWGC520) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 5:43 |
 | 121 | [Looking In](https://open.spotify.com/track/1bnzK1Vva8X0hmXy6RRz1G) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:35 |
 | 122 | [I'm That Chick](https://open.spotify.com/track/5VGkXUGvKoE83aNzknNtXK) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:31 |
-| 123 | [If It's Over](https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:37 |
-| 124 | [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 |
-| 125 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
+| 123 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
+| 124 | [If It's Over](https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:37 |
+| 125 | [Interlude](https://open.spotify.com/track/7sONSf4ZUebcs3BVe8GknG) | [TM Juke](https://open.spotify.com/artist/4awnjjqiUnSBA4ucPVbF8R) | [Maps from the Wilderness](https://open.spotify.com/album/7sdJYxemYdWUNldKeFJcKI) | 1:03 |
 | 126 | [Candy Bling](https://open.spotify.com/track/4Ahcld58IdttCXdyhdWLEq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:03 |
 | 127 | [Long Ago](https://open.spotify.com/track/3gc1gXQN7HcKJrzkQwEYc0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:31 |
 | 128 | [Dedicated](https://open.spotify.com/track/2ZCF6xZTjtwImIFPdZaN6j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Me\. I Am Mariah…The Elusive Chanteuse \(Deluxe\)](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 4:13 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 251 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 252 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `Ab7LYAAAAADYIT5A4l8Qx9x3j+aUohAm`
+Snapshot ID: `Ab7RHgAAAACriSWtzHwv6S+dsay9K5vX`

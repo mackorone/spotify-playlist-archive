@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17960,
+  "num_followers": 17975,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADD/0GomXPLfxX6P1MGo7KF",
+  "snapshot_id": "aLYzgAAAAAALcRRLdHzzQsDn4qfM+Nmj",
   "tracks": [
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 186880,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 150384,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 207072,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 184000,
       "name": "No Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Vivir",
-        "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

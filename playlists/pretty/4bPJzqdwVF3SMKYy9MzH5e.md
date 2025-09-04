@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,221 songs - 4 day 23 hr 3 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,222 songs - 4 day 23 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2229,5 +2229,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2219 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 |
 | 2220 | [Wonderwall](https://open.spotify.com/track/0UkThDG1AWTyAAKjBjLWuW) | [DJ Warlord](https://open.spotify.com/artist/4DecnizgPMOFv9O949zNov) | [Mystery Leopard Spins Tracks At Local Nightclub](https://open.spotify.com/album/11zlSqz72GCeEZicj2LRID) | 4:03 |
 | 2221 | [Time](https://open.spotify.com/track/4KfZSdlJ2YYZA4Q1p9WzUK) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT) | 2:01 |
+| 2222 | [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 |
 
-Snapshot ID: `AAAEnaNcM5i7Uj/AWYQkRseIseL+Eev7`
+Snapshot ID: `AAAEnkJUC1yQr++uC5nH5+iNQ37rrgLb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Pallaso
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,427 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,433 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

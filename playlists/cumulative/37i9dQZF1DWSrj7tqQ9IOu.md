@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Emma Hoet
 
-686 songs - 1 day 13 hr 0 min
+687 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Love! love! love!](https://open.spotify.com/track/0VUrBTBFYX8tkGUbWJ5wkD) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [BLOWSOM & friends](https://open.spotify.com/album/3ixRxq63i9d7drvJJf8UGs) | 3:22 | 2023-01-05 | 2023-04-14 |
 | [Loving Soft](https://open.spotify.com/track/59ZKmw2qa1w0IWcYZxk25s) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Loving Soft](https://open.spotify.com/album/6cS7DGBdv2IRcTOF4Ed7e3) | 3:54 | 2023-01-26 | 2023-03-10 |
 | [Lundi matin](https://open.spotify.com/track/3PIvaEDxw6bhK9s4wtI24a) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Lundi matin](https://open.spotify.com/album/5XrPeI44a1fjkWW69na6d9) | 3:14 | 2025-05-08 | 2025-06-06 |
+| [Lune d'argent](https://open.spotify.com/track/003QE5r4yCHEvFh6pOVea7) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Lune d'argent](https://open.spotify.com/album/2OVJMxl2fzzqDb4cCZI3WE) | 3:24 | 2025-08-28 |  |
 | [Ma plus belle aventure](https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Ma plus belle aventure](https://open.spotify.com/album/3pHIOSWVoT7vaYswR0rLQO) | 3:17 | 2022-02-03 | 2022-09-16 |
 | [Macondo](https://open.spotify.com/track/1oOTr5BciioYUpnj2hCtDR) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [VEGETAL DIGITAL](https://open.spotify.com/album/3Krl6CyMlkfAVnVhSyCmiO) | 3:55 | 2025-02-27 | 2025-03-07 |
 | [Mademoiselle](https://open.spotify.com/track/07yFYf562vEHlWVBaGXhCz) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Charlotte Casiraghi](https://open.spotify.com/artist/5h8kHvSPcreeL9fErOCEUi) | [EXTATIC](https://open.spotify.com/album/68dFckjqN3mRFHZtU0UrkM) | 2:55 | 2022-07-14 | 2022-08-26 |

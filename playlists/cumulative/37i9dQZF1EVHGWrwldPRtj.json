@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ5mHHOgL3mu>Tony Boy</a>, <a href=spotify:playlist:37i9dQZF1EIYS14ng0OKCl>Kings of Leon</a>, <a href=spotify:playlist:37i9dQZF1EIYHFshWZMhwm>Siddhartha</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXJ18peKvF9W>Toby Fox</a>, <a href=spotify:playlist:37i9dQZF1EIW2L2bk41KSz>Gordon Lightfoot</a>, <a href=spotify:playlist:37i9dQZF1EIUFijavg7UI6>Drew Holcomb & The Neighbors</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
+    },
+    {
+      "album": {
         "name": "Always Love featuring Hyunjin (Stray Kids)",
         "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
       },
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 309920,
       "name": "Beautiful War",
       "url": "https://open.spotify.com/track/3iKmdCDZK4XmqxIA9fVVGs"
@@ -1593,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 241370,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 169294,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 203076,
       "name": "Come mi guardi",
       "url": "https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM"
@@ -6694,7 +6730,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
@@ -7978,6 +8014,24 @@
       "duration_ms": 215702,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/7f7d6FJ0LOAFzFaaEIa3s8"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "album": {
@@ -9331,6 +9385,24 @@
     },
     {
       "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ"
+    },
+    {
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -9364,7 +9436,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -9856,7 +9928,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
@@ -10402,7 +10474,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -10796,7 +10868,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
@@ -11120,7 +11192,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"

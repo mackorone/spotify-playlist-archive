@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,509 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,520 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 25 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
 | 26 | [We Must Groove \(feat\. Burna Boy\)](https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:45 |
 | 27 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 |
-| 28 | [Azaman](https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw) | [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Azaman](https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY) | 3:44 |
-| 29 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
+| 28 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
+| 29 | [Azaman](https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw) | [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Azaman](https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY) | 3:44 |
 | 30 | [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 |
 | 31 | [Target You \(feat\. Syemca\)](https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Syemca](https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:04 |
 | 32 | [See God](https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Realness Over Hype](https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 49 | [Nwa Baby](https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 3:30 |
 | 50 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
 
-Snapshot ID: `aLTiAAAAAABQTrJcLJwhztNxgbhXrcXl`
+Snapshot ID: `aLYzgAAAAAAGzBLsU0V3c3fAqh2mIpAH`

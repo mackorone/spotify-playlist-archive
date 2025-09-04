@@ -2,9 +2,9 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> An eclectic mix of past & current indie favourites\. Cover: Oklou
+> An eclectic mix of past & current indie favourites\. Cover: Saya Gray
 
-779 songs - 1 day 22 hr 59 min
+780 songs - 1 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 | 2021-08-16 | 2022-04-14 |
 | [Down](https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:26 | 2021-08-23 | 2022-07-28 |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-11-11 | 2023-03-16 |
+| [Dreaming](https://open.spotify.com/track/7k8ZZNWw5Uf1hqYGOUOmf7) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Rendering Feelings](https://open.spotify.com/album/1jNM2tS1InKernhB1sAgF3) | 3:45 | 2025-09-03 |  |
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2024-01-08 | 2024-02-03 |
 | [Echo Park](https://open.spotify.com/track/7v00rNsndKTYUoeA4E2mob) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Echo Park](https://open.spotify.com/album/2XTrGSLr2bgbmF5gM7ArlQ) | 3:58 | 2021-01-16 | 2022-04-14 |
 | [Eckhaus Latta](https://open.spotify.com/track/6eREarnGP0ESQPQAtzx66p) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Eckhaus Latta](https://open.spotify.com/album/581K715k3W1jz1LqgmOKKz) | 2:49 | 2024-05-10 | 2024-08-17 |
@@ -614,7 +615,7 @@
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-02-22 |  |
 | [Soft](https://open.spotify.com/track/191X37k2bLxVRY1A3M5uHg) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Soft](https://open.spotify.com/album/1tW5yA596wvQW76oKhtQaO) | 3:52 | 2021-01-15 | 2022-07-25 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-08-22 | 2022-07-29 |
-| [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-05-03 |  |
+| [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 | 2022-05-03 | 2025-09-04 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2023-02-10 |  |
 | [Something Blue](https://open.spotify.com/track/07djdrEoNqBKVEtxBY3P0B) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [Something Blue](https://open.spotify.com/album/4BZTaJSH0hPa9gymsg7B77) | 3:53 | 2021-02-22 | 2022-04-10 |
 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 | 2020-10-29\* | 2022-04-15 |

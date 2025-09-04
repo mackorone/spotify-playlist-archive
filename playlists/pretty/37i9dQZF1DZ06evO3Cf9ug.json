@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 124920,
+  "num_followers": 125004,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACvh628fPQE/aIcHSkae7I3",
+  "snapshot_id": "aLYzgAAAAAB6KFR1CE8Gr1tNBO2/Zi4G",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+        "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
+        "url": "https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
         },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         }
       ],
-      "duration_ms": 147046,
-      "name": "No.1 (feat. Tems)",
-      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+      "duration_ms": 285239,
+      "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
+      "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
     },
     {
       "added_at": null,
@@ -287,38 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
-        "url": "https://open.spotify.com/album/1Ba4tVkFViKy6KmRyd9adZ"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
       "artists": [
         {
-          "name": "CIZA",
-          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         },
         {
           "name": "Tems",
           "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Thukuthela",
-          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
-        },
-        {
-          "name": "Jazzworx",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         }
       ],
-      "duration_ms": 285239,
-      "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, Jazzworx, Lekaa Beats]",
-      "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
+      "duration_ms": 147046,
+      "name": "No.1 (feat. Tems)",
+      "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
     },
     {
       "added_at": null,

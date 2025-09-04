@@ -4,7 +4,7 @@
 
 > Muy a mi nivel 💋✨
 
-102 songs - 5 hr 29 min
+103 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2025-07-11 |  |
 | [El Bombón Asesino](https://open.spotify.com/track/4WXP5uP1Ugp8aEIVpNRk5g) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [El Bombon Asesino](https://open.spotify.com/album/2qyTvN94CL82u76kPQxY3l) | 3:12 | 2025-07-11 |  |
 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 | 2025-07-11 |  |
+| [ESA NENA REMIX](https://open.spotify.com/track/7Eu9DsHBldOztErSo7erCq) | [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [ESA NENA REMIX](https://open.spotify.com/album/3XrEY7xDGiGa3XjsZ6TOAv) | 2:14 | 2025-07-11 |  |
 | [EX EX EX](https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:01 | 2025-07-11 |  |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-07-11 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-07-11 |  |
@@ -51,7 +52,7 @@
 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 | 2025-07-11 |  |
 | [Into You](https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 4:04 | 2025-07-11 |  |
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2025-07-11 |  |
-| [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 | 2025-07-11 |  |
+| [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 | 2025-07-11 | 2025-09-04 |
 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 | 2025-07-11 |  |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2025-07-11 |  |
 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 | 2025-07-11 |  |

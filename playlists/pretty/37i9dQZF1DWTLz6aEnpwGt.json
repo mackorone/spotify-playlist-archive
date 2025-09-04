@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 65581,
+  "num_followers": 65600,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Unity (Affinity)",
+        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
+      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Unity (Affinity)",
-        "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Rosey Chan",
-          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
-      "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 679453,
       "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
       "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2025-01-24 04:00:20",

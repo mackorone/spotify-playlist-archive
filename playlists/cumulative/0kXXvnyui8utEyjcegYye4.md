@@ -4,7 +4,7 @@
 
 > 
 
-335 songs - 19 hr 50 min
+336 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Down By The River](https://open.spotify.com/track/7HNpXPaTcX5CoNBjTAEWBr) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:01 | 2023-07-13 |  |
 | [Down Like That](https://open.spotify.com/track/2HeDOUAIVhsgi4IOzBYJHc) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:12 | 2024-01-26 |  |
 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 | 2023-07-13 |  |
+| [Dreams](https://open.spotify.com/track/4mqVUkv3epcKid8O9tlgtl) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Dreams](https://open.spotify.com/album/64VkTU8Vxprgi0mMMrVBm9) | 5:14 | 2025-09-03 |  |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2023-07-13 |  |
 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 | 2023-07-13 |  |
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2023-07-13 |  |

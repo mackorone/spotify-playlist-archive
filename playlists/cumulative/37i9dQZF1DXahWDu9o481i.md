@@ -4,7 +4,7 @@
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Laufey
 
-257 songs - 14 hr 49 min
+258 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-08-04 | 2025-08-30 |
 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 | 2025-04-02 | 2025-05-01 |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-06-04 | 2025-06-24 |
+| [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 | 2025-09-03 |  |
 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-06-04 | 2025-07-04 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-29 |  |
 | [i'll wait all day \(4 U\)](https://open.spotify.com/track/5UoGRHDqbDGjxUWcwSq1MM) | [Eli Escobar](https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93) | [i'll wait all day \(4 U\)](https://open.spotify.com/album/4BA5uZ5AsWEuf7GdpyppF2) | 4:57 | 2025-08-04 | 2025-08-30 |
@@ -134,7 +135,7 @@
 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 | 2025-07-03 | 2025-08-05 |
 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-07-03 | 2025-08-05 |
 | [Iron Feet](https://open.spotify.com/track/7uaLP9UNOts5OrGCyuSnzp) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [45 Pounds](https://open.spotify.com/album/5DLFxUTEQIFGhjll8vhTZE) | 1:45 | 2025-04-02 | 2025-05-01 |
-| [JUKE JOINT](https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [JUKE JOINT](https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt) | 3:19 | 2025-08-29 |  |
+| [JUKE JOINT](https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jermaine Holmes](https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [JUKE JOINT](https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt) | 3:19 | 2025-08-29 | 2025-09-04 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-29 |  |
 | [K Chula](https://open.spotify.com/track/6BQ13I6TnfZw6kv0hXxFyb) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [K Chula](https://open.spotify.com/album/4lGeTVuxQaXo47lU1aTpTa) | 3:13 | 2025-07-03 | 2025-08-05 |
 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 | 2025-04-02 | 2025-05-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Eminem, Don Toliver, Cardi B and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,656 likes - 61 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,912 likes - 61 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

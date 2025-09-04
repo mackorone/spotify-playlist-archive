@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,400 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,401 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 30 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
 | 31 | [What's Your Flava? \- Radio Edit](https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:35 |
 | 32 | [Mr Right](https://open.spotify.com/track/4qRV3QCxMBMHiObL85agcm) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:47 |
-| 33 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
-| 34 | [Come Alive \- Bonus Track](https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Showman: Reimagined](https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0) | 3:47 |
+| 33 | [Come Alive \- Bonus Track](https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Showman: Reimagined](https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0) | 3:47 |
+| 34 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
 | 35 | [Hidden Agenda](https://open.spotify.com/track/5MRruRrB235AeY0DISngdw) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:53 |
 | 36 | [Last Chance With You](https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:02 |
-| 37 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:38 |
-| 38 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 |
+| 37 | [Abracadabra \(Feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 |
+| 38 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:38 |
 | 39 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
 | 40 | [Heartline](https://open.spotify.com/track/60RZ7d1D4DeEdtzkjXrp77) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:12 |
 | 41 | [Obvious \- feat\. Muni Long](https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
 | 50 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 |
 
-Snapshot ID: `aLTiAAAAAAAeXnoe1D3d5iHnTUbXc2nW`
+Snapshot ID: `aLYzgAAAAADhPDre8jTYV4LXP2mOODs7`

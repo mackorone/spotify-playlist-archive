@@ -4,7 +4,7 @@
 
 > ADÉLA is tonight's main pop girl emergency 🆘
 
-1,426 songs - 2 day 23 hr 28 min
+1,427 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 | 2024-06-28 | 2025-02-01 |
 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 | 2025-03-07 | 2025-03-15 |
 | [Don't Cha \(with BLOND:ISH\)](https://open.spotify.com/track/4J3qGm51suBgqxJS59L6j4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Don't Cha \(with BLOND:ISH\)](https://open.spotify.com/album/20H5mNlmlG9sn4QyVpLtIA) | 2:54 | 2025-08-22 |  |
+| [Don't Cry For Me Argentina \(From "Evita"\) \- New Miami Mix](https://open.spotify.com/track/3G06aof5uuH3nH6cGgwMaZ) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB), [2118](https://open.spotify.com/artist/6JgtnHp4a2FE98bJXr8hqN) | [Don't Cry For Me Argentina \(From "Evita"\) \[New Miami Mix\]](https://open.spotify.com/album/5TXRmD12RW2mlgxRRUzUc4) | 3:30 | 2025-09-03 |  |
 | [DON'T FEED THE DEMONS](https://open.spotify.com/track/0JY9U1FAw2fK7J40xLMbz2) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [DON'T FEED THE DEMONS](https://open.spotify.com/album/6RwkEue0ljdy5WLE8lfNBA) | 3:23 | 2024-10-04 | 2025-01-25 |
 | [Don't Leave Me Lonely](https://open.spotify.com/track/4uZKz3TLaSEY4vVb86jyAp) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely](https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW) | 2:53 | 2022-10-21 | 2023-01-28 |
 | [Don't Let Go](https://open.spotify.com/track/5bMdfSrxswyycOunsnHX9s) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Don't Let Go](https://open.spotify.com/album/1SDQYjiB3TT1hEw78WwQGQ) | 3:00 | 2024-09-20 | 2025-02-08 |
@@ -852,7 +853,7 @@
 | [Mercy Me](https://open.spotify.com/track/4jDWAD800QbNObRZuYMIzK) | [Warm Human](https://open.spotify.com/artist/55B50xjgkbaSWD0MZXhhX4) | [Mercy Me](https://open.spotify.com/album/1g6SaEImTe7md9V9flRHVY) | 3:19 | 2024-09-20 | 2024-12-14 |
 | [Mermaid](https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mermaid](https://open.spotify.com/album/3GBztOt4r4XSz48UD1Z9M3) | 2:59 | 2024-05-24 | 2024-06-22 |
 | [Message In A Bottle \(Fat Max G Remix\) \(Taylor’s Version\)](https://open.spotify.com/track/1yYkset0nTuUteJQMl5Tx0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Fat Max Gsus](https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq) | [Message In A Bottle \(Fat Max G Remix\) \(Taylor’s Version\)](https://open.spotify.com/album/6XwuAKBpEvtsJAWs3J3DJe) | 3:44 | 2022-02-15 | 2022-06-25 |
-| [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 | 2025-06-27 |  |
+| [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 | 2025-06-27 | 2025-09-04 |
 | [Met Him Last Night \- Dave Audé Remix](https://open.spotify.com/track/0mHz9vqcznnfUcLqfQb3kd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Met Him Last Night \(Dave Audé Remix\)](https://open.spotify.com/album/4MBl3DXlabFiVVQX6gwZLd) | 3:44 | 2022-02-15 | 2022-05-28 |
 | [Mi Amor](https://open.spotify.com/track/6X0zDJ2k6sdnR6if2DsnLW) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Mi Amor](https://open.spotify.com/album/2CJuzrodIz0kB8eCazd5XN) | 2:41 | 2023-12-22 | 2024-02-10 |
 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 | 2022-09-02 | 2023-02-11 |

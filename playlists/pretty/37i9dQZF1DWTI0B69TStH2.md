@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:7LQ80PXKrTgxSDau0LsPoB">Master Stone</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,968 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,978 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 8 | [Niewiem](https://open.spotify.com/track/0uWTaU2U3x8q0PelgapZ81) | [Dorośli](https://open.spotify.com/artist/2Q3KG5vxKeQvV906XhcjtN) | [Niewiem](https://open.spotify.com/album/0qSvxiDkxdD6TzB8KhJPPz) | 3:31 |
 | 9 | [Komety](https://open.spotify.com/track/6BvTyfmwNCHyDJKUcjJWLR) | [Sierpień](https://open.spotify.com/artist/7Dk9ivK5IThTaFtvVsLvrH), [Wilhelm O'Rel](https://open.spotify.com/artist/7r55E5QAHaTH8LIL4XXQR4), [Polski Problem Kosmiczny](https://open.spotify.com/artist/6uND74KSTayyfuysg7rn8i) | [Komety](https://open.spotify.com/album/1qyAD1pjZQFLDAdhNeQUfe) | 4:42 |
 | 10 | [Sam już nie chcę spać \(w ogrodzie\)](https://open.spotify.com/track/7MHf7P3Gzhra0qlmv3L6Cv) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Sam już nie chcę spać \(w ogrodzie\)](https://open.spotify.com/album/1RoTlT8fLfXXtK3Qrt5DLs) | 2:59 |
-| 11 | [SIP](https://open.spotify.com/track/5jxQ5HkceZJJSzIdz8xeHl) | [Iga Kumka](https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL) | [SIP](https://open.spotify.com/album/5PNn0kZdaQUEapw3MNMPQF) | 2:11 |
+| 11 | [SIP](https://open.spotify.com/track/5jxQ5HkceZJJSzIdz8xeHl) | [Iga Kumka](https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [SIP](https://open.spotify.com/album/5PNn0kZdaQUEapw3MNMPQF) | 2:11 |
 | 12 | [Nowy Jork upadł](https://open.spotify.com/track/1wVoEzBavVt1C7PH2ClZpF) | [Powaby](https://open.spotify.com/artist/251hX9AIf9vHOcswUOvA1j) | [Nowy Jork upadł](https://open.spotify.com/album/557UMnzMTpTekUVcJbZwO6) | 3:10 |
 | 13 | [Tak samo mam](https://open.spotify.com/track/6N9jLmZ9Upmco7mM8xdZb1) | [Norbi&Wika](https://open.spotify.com/artist/5LQgfVZPc6yC4VfDRj5xmi), [Motorboats](https://open.spotify.com/artist/2z22TuCBjDnymI8mAv30W4) | [Tak samo mam](https://open.spotify.com/album/32SUeEsxIePC4UCCiAFWjo) | 3:57 |
 | 14 | [To twoja wina](https://open.spotify.com/track/2DwgHIWqT5VHdRLzFwHcCK) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [To twoja wina](https://open.spotify.com/album/4fT0qOby3KOEx2KhlsEc3N) | 3:13 |

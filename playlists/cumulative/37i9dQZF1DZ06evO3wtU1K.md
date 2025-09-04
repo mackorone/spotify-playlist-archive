@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-117 songs - 10 hr 51 min
+118 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Holy Water \- Church Sessions](https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water \(Church Sessions\)](https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC) | 7:44 | 2022-09-14 |  |
 | [I Have Decided](https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 2:46 | 2022-11-21 |  |
 | [I Have Found \(feat\. Tasha Cobbs\)](https://open.spotify.com/track/0GJSzQn3vOXWYbhGPvfMDX) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:33 | 2024-06-04 | 2024-07-12 |
-| [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 | 2024-01-03 |  |
+| [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 | 2024-01-03 | 2025-09-04 |
 | [I Needed God](https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 3:16 | 2025-07-31 |  |
 | [I Want More](https://open.spotify.com/track/36fuvtDlb4y3qGjI0UOQLN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:16 | 2025-08-03 | 2025-08-17 |
 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 | 2022-09-14 |  |
@@ -91,6 +91,7 @@
 | [Overflow \- Live](https://open.spotify.com/track/0Hpaq689DaUrlEcAYso6vd) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:41 | 2022-09-14 |  |
 | [Pour It Out \- Live](https://open.spotify.com/track/7olw5gkH3R79UG2NFUVixB) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:29 | 2022-09-14 | 2023-11-11 |
 | [Put A Praise On It \- Live](https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 6:16 | 2022-09-14 |  |
+| [Rain \- Live](https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:41 | 2025-09-04 |  |
 | [RATTLE!](https://open.spotify.com/track/2FWy9Djj2s2tKwY2A4zhwk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 7:18 | 2024-07-27 |  |
 | [RATTLE!](https://open.spotify.com/track/6ENppsFuukhrhe3V8puNo1) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 7:18 | 2022-09-14 | 2024-07-27 |
 | [Reach Out And Touch The Lord \- Live](https://open.spotify.com/track/2maSUWzwOxEKPbRCbuP7G9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 2:30 | 2022-10-09 | 2024-01-26 |

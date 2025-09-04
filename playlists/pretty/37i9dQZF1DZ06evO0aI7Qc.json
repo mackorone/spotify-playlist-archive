@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 374950,
+  "num_followers": 375017,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACgYBcCHZt3Vz8p3vAoM61T",
+  "snapshot_id": "aLYzgAAAAACoirKSoWqRwnWKl4LTyURj",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 131793,
-      "name": "NIMODO QUE NO",
-      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Scar",
         "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 131793,
+      "name": "NIMODO QUE NO",
+      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DIOS TESTIGO",
+        "url": "https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "DIOS TESTIGO",
+      "url": "https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 157500,
       "name": "Cholo 7",
       "url": "https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DIOS TESTIGO",
-        "url": "https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "DIOS TESTIGO",
-      "url": "https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz"
     },
     {
       "added_at": null,

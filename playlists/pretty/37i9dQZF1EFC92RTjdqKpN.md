@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083 likes - 191 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085 likes - 191 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [Surrender \(feat\. J Hart\) \- Protoculture Radio Edit](https://open.spotify.com/track/1mlNZa1rAwSt8fG9jUDwoj) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [25 Years Of Perfecto Records \(Mixed by Paul Oakenfold\)](https://open.spotify.com/album/6AWPUXVvcxoh2aR3GMrXFL) | 3:32 |
 | 181 | [Crash My Car](https://open.spotify.com/track/2JfyKiGIPCsVe7CtVFqQRI) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Crash My Car](https://open.spotify.com/album/7BtWmsNzP5qOq1uvVLLBCC) | 2:44 |
 | 182 | [All The Time](https://open.spotify.com/track/14fO1UhQzGVQ45yH5HhhaV) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Hyperbolic](https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt) | 3:12 |
-| 183 | [La lionne saigne](https://open.spotify.com/track/5LjMF2HGDvOcqLEhtrZmNe) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:47 |
-| 184 | [Love So Big](https://open.spotify.com/track/0L9GHBiMuJqoP5hMScjKl7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:34 |
+| 183 | [Love So Big](https://open.spotify.com/track/0L9GHBiMuJqoP5hMScjKl7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:34 |
+| 184 | [La lionne saigne](https://open.spotify.com/track/5LjMF2HGDvOcqLEhtrZmNe) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Instinct](https://open.spotify.com/album/3JcdFdHgLEKvm11FA3Q83o) | 2:47 |
 | 185 | [Father's Son](https://open.spotify.com/track/3kr37obFLPyn8bX9CHSCnP) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Father's Son](https://open.spotify.com/album/0Ti3d4vzU1JZd0kPhhRh4G) | 3:54 |
 | 186 | [Bread and Butter](https://open.spotify.com/track/0LqUfE92cErfQ5pzGvpYa2) | [Jordan McGraw](https://open.spotify.com/artist/29wdR87Jh14i39ruPMMXYx) | [Jordan McGraw](https://open.spotify.com/album/5qhVf2cU941gVM5unOUPLj) | 2:45 |
 | 187 | [How It Ends](https://open.spotify.com/track/6drkUJ2S9fK3pdgvyGvlN8) | [Justice Carradine](https://open.spotify.com/artist/4lmyGbhv14PwBGEZmjVyzU) | [What A Weird Dream](https://open.spotify.com/album/0m8a1UOHdrUD1Ns10bclhc) | 2:28 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 190 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 191 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `Ab7LTAAAAADrIWKBlO4L99xD13yIOTRI`
+Snapshot ID: `Ab7RFAAAAAAXXq0ahnfeIYsiNmyCjteE`

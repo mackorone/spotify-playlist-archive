@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Un\)Dying \- Code: Pandorum Remix](https://open.spotify.com/track/3JskyVWBNfUEQzY8CjlMyv) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [\(Un\)Dying \[Code: Pandorum Remix\]](https://open.spotify.com/album/2qoOyOB6lZfyFo5XW8ShFS) | 3:54 | 2025-05-23 | 2025-08-24 |
+| [\(Un\)Dying \- Code: Pandorum Remix](https://open.spotify.com/track/3JskyVWBNfUEQzY8CjlMyv) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [\(Un\)Dying \[Code: Pandorum Remix\]](https://open.spotify.com/album/2qoOyOB6lZfyFo5XW8ShFS) | 3:54 | 2025-05-23 |  |
 | [\(•REC\)](https://open.spotify.com/track/4fvR2GgkKNA3fF6sJkEWrF) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [\(•REC\)](https://open.spotify.com/album/42BvL4j3lOANgw96Xr0h5X) | 2:43 | 2021-12-17 | 2022-07-24 |
 | [1983](https://open.spotify.com/track/2MO3DZjBECnLnd7wBgCi0Y) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [1983](https://open.spotify.com/album/1OMNFu0sje9qn7Nz4hy8t0) | 3:06 | 2025-07-04 |  |
 | [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-08-19 | 2025-03-15 |
@@ -206,7 +206,7 @@
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2021-12-17 | 2023-04-29 |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2021-12-17 | 2023-04-29 |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2021-12-17 | 2024-06-26 |
-| [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 | 2023-02-10 |  |
+| [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 | 2023-02-10 | 2025-09-04 |
 | [Dynasty](https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Dynasty](https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit) | 4:26 | 2023-02-10 |  |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 | 2024-06-05 |
 | [Earthless](https://open.spotify.com/track/6wfsGSh10ij43EgcEXjpZK) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Earthless](https://open.spotify.com/album/3AfOJfWXUeMc9QUl1vtPpQ) | 4:57 | 2021-12-17 | 2022-07-28 |

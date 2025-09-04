@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 140259,
+  "num_followers": 140282,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2024-07-24 13:57:08",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "Nightlight",
-        "url": "https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Nightlight",
-      "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Intoxicated (Radio Edit)",
         "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 159560,
       "name": "Intoxicated - Radio Edit",
       "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Nightlight",
+      "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
     },
     {
       "added_at": "2024-07-24 13:57:08",

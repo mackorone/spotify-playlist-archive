@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,750 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,775 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 57 | [Vaso Quebrado](https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Onze \(Músicas Inéditas de Adoniran Barbosa\)](https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF) | 3:26 |
 | 58 | [Até Depois do Fim](https://open.spotify.com/track/2r8pQbeeV4JBluUo1mlvoo) | [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Até Depois do Fim](https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr) | 3:30 |
 | 59 | [Alquimias](https://open.spotify.com/track/0AXNgjMMwC79W7C3FtzkDP) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Urucungo](https://open.spotify.com/album/0lMmvVQva0pzeKH1aJ6r1p) | 5:11 |
-| 60 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
-| 61 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
+| 60 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 |
+| 61 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
 | 62 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 |
 | 63 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
 | 64 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |

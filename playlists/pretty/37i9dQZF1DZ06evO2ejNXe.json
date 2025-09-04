@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADK2oFifnRDtj4wvUooVn8G",
+  "snapshot_id": "aLYzgAAAAADBEhuUfwg2CNitDr8dgfZ1",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "OK MAMBO",
+        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 196800,
-      "name": "A La Sombra De Los Angeles",
-      "url": "https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7"
+      "duration_ms": 196125,
+      "name": "OK MAMBO",
+      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK MAMBO",
-        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 196125,
-      "name": "OK MAMBO",
-      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
+      "duration_ms": 196800,
+      "name": "A La Sombra De Los Angeles",
+      "url": "https://open.spotify.com/track/1kYXUudZoRTZyO6Rf8F7g7"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Se Ha Dado Cuenta",
         "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 142440,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 169520,
       "name": "El Sancudito",
       "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "La Crisis",
-      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 213093,
       "name": "Mambo Loco",
       "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Bomba Caliente",
+      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Bomba Caliente",
-      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172106,
       "name": "Subete A Mi Moto",
       "url": "https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
     }
   ],
   "unique_name": "This Is Banda Zarape",

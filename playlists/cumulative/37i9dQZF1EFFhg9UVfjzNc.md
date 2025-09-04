@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 13 hr 22 min
+129 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Som do Céu \- Ao Vivo](https://open.spotify.com/track/0r15j6PEABm3Z1sfxIbjLK) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Som do Céu \(Ao Vivo\)](https://open.spotify.com/album/6d4Iqc10saXuhwCIuUqnV8) | 6:25 | 2022-06-04 |  |
 | [Sonhos De Deus](https://open.spotify.com/track/6mlfHKppzLtaqwb4UbJ16t) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Rasgue Os Céus](https://open.spotify.com/album/6tJWnFjkKp9eakuKk9BEUs) | 6:04 | 2022-06-04 |  |
 | [Só Quero A Ti \- Ao Vivo](https://open.spotify.com/track/1FNCYDOhNVb01oq6ml8ksR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:03 | 2025-08-23 |  |
+| [Te Amar É O Meu Respirar](https://open.spotify.com/track/1BqopyXnUS7xF10gO52s1t) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 2:57 | 2025-09-03 |  |
 | [Te Amei](https://open.spotify.com/track/1YbBxALDLie4GPX7wXIgHs) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim.](https://open.spotify.com/album/5rhzweel8RzjEvwndIfgJa) | 4:09 | 2022-06-04 |  |
 | [Te Encontrei](https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei](https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz) | 3:04 | 2024-07-13 |  |
 | [Toca em Mim de Novo](https://open.spotify.com/track/6MxvEx7r6RccktcQwogIQr) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Toca em Mim de Novo](https://open.spotify.com/album/7dXoY31LdmobYZ35BjLW1d) | 4:30 | 2022-06-04 | 2025-04-15 |
@@ -130,6 +131,7 @@
 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/2YXga0CJMlsp4edq1Iyf7j) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [Vem Me Consumir \(Acústico\)](https://open.spotify.com/album/5dBGkhxeuUFRkBA1aejjfr) | 4:38 | 2024-04-18 | 2024-09-09 |
 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 4:38 | 2024-09-08 |  |
 | [Volta ao Lar \- Ao Vivo](https://open.spotify.com/track/7oJCne3faV7nU1IVMSszUx) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Volta ao Lar \(Ao Vivo\)](https://open.spotify.com/album/4xCCYIWBZnk9Ci5a4K95WF) | 6:11 | 2022-06-04 |  |
+| [Volta Logo](https://open.spotify.com/track/6ZHQcZRAIc9LhX7Uc4vOCV) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 4:38 | 2025-09-03 |  |
 | [Yahweh](https://open.spotify.com/track/7pJSnyBN35grxZ6A0YhWVt) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Yahweh](https://open.spotify.com/album/1XV8OZeIyY9bhPDTr8uzrW) | 6:28 | 2025-05-17 |  |
 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/02HlnHZ1sYv5W52Tyc5OI2) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/6TL5BxQ3bttcye1lmPtTjc) | 6:09 | 2025-02-23 |  |
 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/4zIOxt1byvZsFFPKJP9z7R) | [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A), [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/1jsXrSsrVd690Wa42Y9wZy) | 7:46 | 2022-09-22 | 2025-07-31 |

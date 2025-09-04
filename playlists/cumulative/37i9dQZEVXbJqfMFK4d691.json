@@ -7949,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Insuperable",
+        "url": "https://open.spotify.com/album/6aZZbJJ1WlK9Uxwz5WaZ7e"
+      },
+      "artists": [
+        {
+          "name": "Luis Vega",
+          "url": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171892,
+      "name": "Insuperable",
+      "url": "https://open.spotify.com/track/1ivbpcbZlCnqjvv6UjUDTe"
+    },
+    {
+      "album": {
         "name": "It feels like I've forgotten something",
         "url": "https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH"
       },
@@ -13958,7 +13976,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"

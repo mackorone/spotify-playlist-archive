@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,844 likes - 52 songs - 3 hr 6 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,843 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

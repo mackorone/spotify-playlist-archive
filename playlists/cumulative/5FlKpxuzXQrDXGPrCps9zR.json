@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Kill For Love",
+      "url": "https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k"
+    },
+    {
+      "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 152124,
+  "num_followers": 152121,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-06-11 12:37:44",
       "album": {
+        "name": "This Time Of The Year",
+        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 129533,
+      "name": "The Merriest",
+      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
+    },
+    {
+      "added_at": "2025-06-11 12:37:44",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 159973,
       "name": "Jingle Bells (feat. The Puppini Sisters)",
       "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
-    },
-    {
-      "added_at": "2025-06-11 12:37:44",
-      "album": {
-        "name": "This Time Of The Year",
-        "url": "https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 129533,
-      "name": "The Merriest",
-      "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
     },
     {
       "added_at": "2025-06-11 12:37:44",

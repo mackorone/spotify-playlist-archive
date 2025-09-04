@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8545,
+  "num_followers": 8544,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACSdDuVCm/xnt8igyx4s0yR",
+  "snapshot_id": "aLYzgAAAAAD2Q1g5KBBV5Z3wNWgIxvp2",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Tell Me (Maya Jane Coles Remix)",
-        "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "Say Tell Me - Maya Jane Coles Remix",
-      "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Trying",
         "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 175680,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Tell Me (Maya Jane Coles Remix)",
+        "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Say Tell Me - Maya Jane Coles Remix",
+      "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
     },
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 309145,
+      "name": "Darkest (Dim)",
+      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
       },
@@ -243,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
       },
       "artists": [
         {
@@ -252,13 +272,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
         }
       ],
-      "duration_ms": 309145,
-      "name": "Darkest (Dim)",
-      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -287,26 +307,6 @@
       "duration_ms": 232848,
       "name": "On Sum - MPH Remix",
       "url": "https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -599,6 +583,42 @@
       "duration_ms": 183333,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -631,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
       "artists": [
         {
@@ -640,13 +660,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
     },
     {
       "added_at": null,
@@ -671,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Love That Never - IMANU Remix",
-      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+      "duration_ms": 127240,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 187218,
       "name": "Sci Fi - Polar Youth Remix",
       "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 113480,
       "name": "Warm Water (Interlude)",
       "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,

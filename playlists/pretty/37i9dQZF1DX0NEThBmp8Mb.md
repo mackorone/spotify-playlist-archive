@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0NEThBmp8Mb.md) - [plain]
 
 > This Christmas get exactly what you want...Listen to the music from Babygirl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,119 likes - 22 songs - 59 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,122 likes - 22 songs - 59 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Father Figure \- Remastered \- featured in 'Babygirl'](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 |
+| 1 | [Father Figure \- Remastered](https://open.spotify.com/track/6eL7t6s1AL4l982wfAU8pv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:40 |
 | 2 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 |
 | 3 | [Creep](https://open.spotify.com/track/3SJiQ1qeWpib3wVsULKNCE) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Creep / Major](https://open.spotify.com/album/6N0ez4f0rQjP0eRvDazUFr) | 3:25 |
 | 4 | [Sleeper](https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Sleeper](https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD) | 4:04 |

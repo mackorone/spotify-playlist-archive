@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3643402,
+  "num_followers": 3643140,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
+      "added_at": "2025-03-25 15:28:45",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Texas Moon",
@@ -395,22 +411,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2025-03-25 15:28:45",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Hallelujah, I Love Her So",
-      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 196826,
       "name": "I'll Take You There",
       "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Hallelujah, I Love Her So",
+      "url": "https://open.spotify.com/track/5P11rW6aJErF37MTfRZS31"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Midnight Mover: The Bobby Womack Story",
-        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233613,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Story Of Cornelius Brothers & Sister Rose",
         "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 198693,
       "name": "Too Late To Turn Back Now",
       "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2025-03-25 15:28:45",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/2WVz9Mtp3E8HCblGiu3nCv"
-    },
-    {
       "added_at": "2023-03-28 15:59:00",
       "album": {
         "name": "The Way That I Do",
@@ -1511,6 +1495,22 @@
       "duration_ms": 210329,
       "name": "The Way That I Do",
       "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/2WVz9Mtp3E8HCblGiu3nCv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Motown 1970s Vol. 1",
-        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Motown 1970s Vol. 1",
+        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
     },
     {
       "added_at": "2021-10-19 21:36:21",

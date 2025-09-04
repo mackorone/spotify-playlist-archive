@@ -4,7 +4,7 @@
 
 > 
 
-2,247 songs - 5 day 0 hr 42 min
+2,248 songs - 5 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Angel Angel Down We Go Together \- 2011 Remaster](https://open.spotify.com/track/3BKHNOsYCU7YTHQ0jJM5wQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 1:39 | 2022-04-03 |  |
 | [Angel Brain](https://open.spotify.com/track/6JDpgiYml1ImlIGrDWkkLW) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Pineapple Crush / Angel Brain](https://open.spotify.com/album/3VaHaXC6hGSHARwwANXxfL) | 5:11 | 2022-02-04 |  |
 | [Angels in Dystopia](https://open.spotify.com/track/6nwpUOeFXdihQBsmphWTFJ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Angels in Dystopia　Nocturnes & Preludes](https://open.spotify.com/album/7IjI6SvFhVJI2ExQLStbAt) | 5:03 | 2022-11-06 |  |
+| [Animal](https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Animal](https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF) | 3:37 | 2025-09-03 |  |
 | [Animal](https://open.spotify.com/track/1BBe4FJtJJosVeb2BAX0XW) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Animal](https://open.spotify.com/album/1toQ2dw1qzlj9LeIaxVxFg) | 2:40 | 2021-08-05 |  |
 | [Anne Bonny](https://open.spotify.com/track/45R7w6bT85IEn2sBqQGt0S) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/3T01oOjbrox1jz0pR112oV) | 3:27 | 2022-08-08 |  |
 | [ANOTHER DAY](https://open.spotify.com/track/3nem0hkGzRKrS6ZqzVLpBQ) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 3:19 | 2022-06-30 |  |

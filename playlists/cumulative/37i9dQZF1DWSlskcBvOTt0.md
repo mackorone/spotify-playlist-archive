@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,000 songs - 3 day 12 hr 1 min
+1,001 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-01 | 2024-04-19 |
 | [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-13 | 2025-07-12 |
 | [Forest Moon](https://open.spotify.com/track/5p7vUQP5xkQY6qP8SqqIlU) | [Quivver](https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD) | [Forest Moon](https://open.spotify.com/album/4lzTuaJRwJCb6CRjOv9j1L) | 6:47 | 2021-04-21 | 2022-07-16 |
-| [Forever](https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Forever](https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU) | 3:35 | 2025-08-22 |  |
+| [Forever](https://open.spotify.com/track/4JRLxf6sMSOcQQP75m3QZh) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Forever](https://open.spotify.com/album/0un2xX5yJkl6Yjri9yMXJU) | 3:35 | 2025-08-22 | 2025-09-04 |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2024-09-20 | 2025-08-16 |
 | [Forever \(feat\. Malou & Yuna\) \- MEDUZA Remix](https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[MEDUZA Remix\]](https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp) | 2:41 | 2025-01-04 |  |
 | [Found Love](https://open.spotify.com/track/1mO3hOEayERMNUGIpAwImF) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Found Love](https://open.spotify.com/album/57eCaYt4N19oDxYyDVeSY4) | 3:20 | 2025-04-25 |  |
@@ -512,6 +512,7 @@
 | [Lovers Game](https://open.spotify.com/track/5L3kJPnAMEORynAJrBHMbx) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [Lovers Game / Game Over](https://open.spotify.com/album/0t46ilYLPi2Oihzojq537f) | 3:33 | 2024-02-16 | 2024-08-24 |
 | [Lovesong](https://open.spotify.com/track/50KLPfmEn6dFFVpuM1VycK) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Lovesong](https://open.spotify.com/album/5epevNSjLdCBYEQB0YGDjd) | 3:40 | 2024-04-26 | 2024-07-08 |
 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 | 2025-05-30 |  |
+| [LOW](https://open.spotify.com/track/6haDUN6avkD3hgIalNJkyt) | [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [LOW](https://open.spotify.com/album/5yVW2lirxVrpemK2mj6K43) | 3:05 | 2025-08-29 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |
 | [Luma \- Tim Engelhardt Remix](https://open.spotify.com/track/5FxwIddNBkGhTTCGpkwJMr) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Luma EP \- Reimagined](https://open.spotify.com/album/2RjSKeDGxZsk8mZvQqPfqr) | 7:37 | 2022-07-08 | 2022-07-12 |
 | [Luminesce](https://open.spotify.com/track/0st9uOHm2Vw345UJKzdvRX) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Luminesce](https://open.spotify.com/album/6hyuN6LrgmQhcDlgILc2EB) | 4:39 | 2024-04-19 | 2024-06-29 |

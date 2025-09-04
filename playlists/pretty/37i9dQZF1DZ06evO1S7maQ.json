@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 652147,
+  "num_followers": 652166,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAj9Dgu9F3mJ/VWiidB1an4",
+  "snapshot_id": "aLYzgAAAAAD9cCFVbvEHOUMjBv614vat",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+      "duration_ms": 236653,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 236653,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,

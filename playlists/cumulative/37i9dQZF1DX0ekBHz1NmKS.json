@@ -12815,6 +12815,24 @@
     },
     {
       "album": {
+        "name": "Hateless",
+        "url": "https://open.spotify.com/album/6OzjCWx2IHhVH9Rg6gJoem"
+      },
+      "artists": [
+        {
+          "name": "Margaux Flavet",
+          "url": "https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Hateless",
+      "url": "https://open.spotify.com/track/26qUR3n6e4qFIDJUgTdTjw"
+    },
+    {
+      "album": {
         "name": "Havanna",
         "url": "https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg"
       },
@@ -21026,7 +21044,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 139960,
       "name": "Min Ibland",
       "url": "https://open.spotify.com/track/3PRtA83KfWcKzgEspcxtKq"
@@ -24858,6 +24876,24 @@
       "duration_ms": 213061,
       "name": "Policeman",
       "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+    },
+    {
+      "album": {
+        "name": "Poolside",
+        "url": "https://open.spotify.com/album/7qaHXEIC7dsRNLfDvx4VIP"
+      },
+      "artists": [
+        {
+          "name": "Maybe",
+          "url": "https://open.spotify.com/artist/03N63H9bvlxWJUunz5Vc32"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168416,
+      "name": "Poolside",
+      "url": "https://open.spotify.com/track/36SB93STWxQEifbBNCSJcR"
     },
     {
       "album": {
@@ -35594,7 +35630,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 173133,
       "name": "What My Heart Needs",
       "url": "https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh"

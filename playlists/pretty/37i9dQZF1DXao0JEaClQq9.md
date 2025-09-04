@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,130 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,820 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 66 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
 | 67 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
 | 68 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 |
-| 69 | [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 |
-| 70 | [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 |
+| 69 | [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 |
+| 70 | [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 |
 | 71 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 72 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
 | 73 | [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
-| 74 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 |
-| 75 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
+| 74 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
+| 75 | [choke enough](https://open.spotify.com/track/3KVRU1oh4M4VtMRCNWBDVC) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 4:00 |
 
 Snapshot ID: `AAAAADVCvtfVoLFDDiEUNr5Zn4KEl7L/`

@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 193000,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV"
@@ -6746,6 +6746,28 @@
       "duration_ms": 368475,
       "name": "Language",
       "url": "https://open.spotify.com/track/4ta97KyyCWLCQAAFtOWFpy"
+    },
+    {
+      "album": {
+        "name": "Skepta .. Fred",
+        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225897,
+      "name": "Last 1s Left",
+      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
     },
     {
       "album": {

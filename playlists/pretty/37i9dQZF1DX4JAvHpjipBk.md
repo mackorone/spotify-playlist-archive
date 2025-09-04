@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Sabrina Carpenter, Blood Orange, The Kid LAROI, Young Thug, Balu Brigada, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,430,937 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,430,492 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

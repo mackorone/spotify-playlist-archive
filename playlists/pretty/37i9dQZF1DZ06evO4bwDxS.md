@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,434 likes - 44 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,950 likes - 44 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 43 | [Can't Blame a Girl for Trying](https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Eyes Wide Open](https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df) | 2:49 |
 | 44 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 |
 
-Snapshot ID: `aLTiAAAAAACdRbMhe90WnclShi1zzvB2`
+Snapshot ID: `aLYzgAAAAAB2/JUKAXgIF/OHaSyRl8Hu`

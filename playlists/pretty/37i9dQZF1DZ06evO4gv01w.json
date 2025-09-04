@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 29981,
+  "num_followers": 29978,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABJcTiiIuqMA8W1ufkXBucc",
+  "snapshot_id": "aLYzgAAAAAATA9xM6HgS1YnE08tydrM6",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reskinned",
+        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Made Man",
         "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
@@ -59,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Airline Highway",
+        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 185844,
+      "name": "Louisiana Sunshine Feeling Okay",
+      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
@@ -71,22 +107,6 @@
       "duration_ms": 193444,
       "name": "Bleach Blonde Bottle Blues",
       "url": "https://open.spotify.com/track/7dH8e4Eb8PMqDCTU20ZKRB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reskinned",
-        "url": "https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0e3ElMapLJIe0uIchrFVBt"
     },
     {
       "added_at": null,
@@ -127,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airline Highway",
-        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 185844,
-      "name": "Louisiana Sunshine Feeling Okay",
-      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc"
       },
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 246351,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
+      "duration_ms": 273237,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 273237,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4"
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
     },
     {
       "added_at": null,
@@ -243,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
+      "duration_ms": 181624,
+      "name": "She's A Self Made Man",
+      "url": "https://open.spotify.com/track/5wTeGGSnCrWl9b0rqNi9Qr"
     },
     {
       "added_at": null,
@@ -295,8 +291,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
       },
       "artists": [
         {
@@ -304,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 181624,
-      "name": "She's A Self Made Man",
-      "url": "https://open.spotify.com/track/5wTeGGSnCrWl9b0rqNi9Qr"
+      "duration_ms": 195832,
+      "name": "Bolt Cutters & The Family Name",
+      "url": "https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
       "duration_ms": 232901,
       "name": "God's Gonna Cut You Down (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/2POvvcjEVwCmxb6cVrRUfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195832,
-      "name": "Bolt Cutters & The Family Name",
-      "url": "https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY"
     },
     {
       "added_at": null,
@@ -688,17 +688,21 @@
       "added_at": null,
       "album": {
         "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 164340,
-      "name": "God Moves On The Water",
-      "url": "https://open.spotify.com/track/56w5xZcUip6M2Racahglwl"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -760,21 +764,17 @@
       "added_at": null,
       "album": {
         "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "url": "https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+      "duration_ms": 164340,
+      "name": "God Moves On The Water",
+      "url": "https://open.spotify.com/track/56w5xZcUip6M2Racahglwl"
     },
     {
       "added_at": null,
@@ -883,22 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirt Does Dylan",
-        "url": "https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T"
+        "name": "The Rainy Day Sessions EP",
+        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 287643,
-      "name": "I Shall Be Released (feat. Larkin Poe)",
-      "url": "https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq"
+      "duration_ms": 233066,
+      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
+      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
     },
     {
       "added_at": null,

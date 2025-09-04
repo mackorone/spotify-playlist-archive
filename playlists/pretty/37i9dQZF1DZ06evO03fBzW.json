@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 116775,
+  "num_followers": 116793,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAgi5Fq+uQu7j0NNs2388a5",
+  "snapshot_id": "aLYzgAAAAABlesTR2P1Xwq8GKOrs6xiC",
   "tracks": [
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 305533,
-      "name": "Greener Pastures",
-      "url": "https://open.spotify.com/track/70VN6p2gStJqBSpbwIiTXV"
+      "duration_ms": 277333,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
+      "duration_ms": 305533,
+      "name": "Greener Pastures",
+      "url": "https://open.spotify.com/track/70VN6p2gStJqBSpbwIiTXV"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
-        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+      "duration_ms": 265093,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0zjMu8KUhIjqAa42OPidtD"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 277333,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv"
+      "duration_ms": 246106,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 265093,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0zjMu8KUhIjqAa42OPidtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything In Time (B-Sides, Rarities, Remixes)",
         "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 219160,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything In Time (B-Sides, Rarities, Remixes)",
+        "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Blæst, Sabrina Carpenter, Christopher og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,640 likes - 108 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,643 likes - 108 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

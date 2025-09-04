@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Blaudzun
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,552 likes - 72 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,555 likes - 72 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

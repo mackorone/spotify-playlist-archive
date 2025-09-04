@@ -4,7 +4,7 @@
 
 > ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: NINEOKMAI\. Artwork: Isu Kim
 
-2,317 songs - 6 day 1 hr 42 min
+2,318 songs - 6 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Greenhill](https://open.spotify.com/track/007LRk3HvJA9k4x3reJdyI) | [Alley1Records](https://open.spotify.com/artist/0Ge7vZsY9sVvVUa11895Yv), [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx) | [Greenhill](https://open.spotify.com/album/1cICOWyPSzu3NxyZFfykVw) | 3:20 | 2025-05-22 | 2025-08-08 |
 | [GROW](https://open.spotify.com/track/1IH6q8Uq572OF0hjb5dLDu) | [TARO SHATREE](https://open.spotify.com/artist/7Fp8E0v6sJCSw9V3ziQUOr) | [GROW](https://open.spotify.com/album/4zlUTqgqOXbK4Yx2Ieryyh) | 3:37 | 2023-08-04 | 2023-09-23 |
 | [GWF](https://open.spotify.com/track/449cT4NlplNKMEMJVC6Dvt) | [Lyrics B.](https://open.spotify.com/artist/3IqPrKXEwhmdmijeuhKhuX) | [GWF](https://open.spotify.com/album/03FeHqBvXPL9yAOOOT3NFo) | 3:25 | 2025-08-29 |  |
+| [hairband](https://open.spotify.com/track/7gXAcY8gOOdmwjvyEBLHOI) | [jeffy](https://open.spotify.com/artist/1hQpgqfnQgLZcyRaEOlEtT) | [hairband](https://open.spotify.com/album/5vNuBUBrnpxwPHu90t3JWP) | 2:11 | 2025-09-03 |  |
 | [Hanashi\-Shiyo はなししよ\~คุยกันไหม\~](https://open.spotify.com/track/0lk2yt5sLbwBpO6Y24bZOl) | [RyotaMoisture](https://open.spotify.com/artist/0Md4MN8unpQas5uBlFgDOI), [James Anthony](https://open.spotify.com/artist/7w0S6Xu7zFylM7B2VxnGsR) | [Hanashi\-Shiyo はなししよ\~คุยกันไหม\~](https://open.spotify.com/album/0gxqxeFxnIjgHHRaifWqnR) | 3:07 | 2023-01-20 | 2023-01-28 |
 | [happy for you \(feat\. BlacksheepRR\)](https://open.spotify.com/track/2JaFr389gne7Ag3PgxzNV4) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb), [BlacksheepRR](https://open.spotify.com/artist/3svAFQcr5F8z8QqdfA8pVn) | [happy for you \(feat\. BlacksheepRR\)](https://open.spotify.com/album/2lMFA6UJYMxZVtPAgL4nU5) | 4:23 | 2024-09-27 | 2024-12-27 |
 | [Harmonize](https://open.spotify.com/track/2SvHgosNZT5gyzoys8JIoH) | [TRIADS](https://open.spotify.com/artist/2x92KcfQiA9I9Zs9nwsn4Q) | [Harmonize](https://open.spotify.com/album/1aWlmzY5PTKDUY85yNDs5z) | 3:29 | 2023-06-23 | 2023-07-01 |
@@ -2005,7 +2006,7 @@
 | [เอาคืน \(my turn\)](https://open.spotify.com/track/4nHHpO1SXeHhLwMRjNj3lT) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [เอาคืน \(my turn\)](https://open.spotify.com/album/5EeHmqOMC1avF48Hf8YpBX) | 3:24 | 2023-04-28 | 2023-05-27 |
 | [เอาคืนมาเลยนะ](https://open.spotify.com/track/48RDfvWGwO6sWikv2MnNnN) | [Mek Sippanun](https://open.spotify.com/artist/1Z5XbfiRj15ojnSJsovqGc) | [เอาคืนมาเลยนะ](https://open.spotify.com/album/18KpoWcraddakraOWphR1t) | 3:24 | 2024-11-15 | 2024-11-23 |
 | [เอาแต่งอน](https://open.spotify.com/track/4vPy3CrXCBNzxmT4ADQ4bJ) | [BUTUS](https://open.spotify.com/artist/31nA1ybfmxn8PsHEVyeNF2) | [เอาแต่งอน](https://open.spotify.com/album/264oMQX1IolNxazObey4H8) | 4:34 | 2025-02-27 | 2025-05-23 |
-| [เอาแต่ใจ \(Spoiled\)](https://open.spotify.com/track/4P7VxWqhaYnqYX3IbdgmHP) | [DEBEST](https://open.spotify.com/artist/2cFXSl4GMmdasQSdoiSLYB) | [เอาแต่ใจ \(Spoiled\)](https://open.spotify.com/album/74ZHbaNfSZEwQuQ7zpV8nG) | 3:24 | 2025-06-27 |  |
+| [เอาแต่ใจ \(Spoiled\)](https://open.spotify.com/track/4P7VxWqhaYnqYX3IbdgmHP) | [DEBEST](https://open.spotify.com/artist/2cFXSl4GMmdasQSdoiSLYB) | [เอาแต่ใจ \(Spoiled\)](https://open.spotify.com/album/74ZHbaNfSZEwQuQ7zpV8nG) | 3:24 | 2025-06-27 | 2025-09-04 |
 | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/track/3J1lrFuEgwlYqW40d6p6H6) | [V3RSE](https://open.spotify.com/artist/13oNNQ2xOgh4Iqe8rrHhHG) | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/album/68hYOkarmeFv7zH2Rdo8ea) | 3:30 | 2024-06-21 | 2024-08-03 |
 | [เอาไรปะ จะไปเซเว่น](https://open.spotify.com/track/1rL5S2EPIkO1GeLPGeUkvq) | [E\-maily](https://open.spotify.com/artist/4gtMcuU4QVWaXSY7WySRzz) | [เอาไรปะ จะไปเซเว่น](https://open.spotify.com/album/4VNy3H7cXaGWO9d4p2MTa7) | 4:41 | 2024-01-05 | 2024-04-12 |
 | [เอเลี่ยน \(Alien\)](https://open.spotify.com/track/1LPk0BWiRl0wORZaSLesAB) | [Someone Said](https://open.spotify.com/artist/52KAt5grngxEOJt7Afurj7) | [เอเลี่ยน \(Alien\)](https://open.spotify.com/album/0ACbBTEMW02P8R79OSyzJa) | 4:42 | 2022-12-01 | 2022-12-24 |

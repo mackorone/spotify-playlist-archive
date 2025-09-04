@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "(I Wanna) Be Your Girl",
+        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "(I Wanna) Be Your Girl",
+      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
+    },
+    {
+      "album": {
         "name": "Kiss Yr Frenemies",
         "url": "https://open.spotify.com/album/7MBEDhV5OFYhCq6fkmQNUT"
       },
@@ -3920,7 +3938,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 233200,
       "name": "Everybody's trying to figure me out",
       "url": "https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1"

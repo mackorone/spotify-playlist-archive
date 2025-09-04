@@ -9,12 +9,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 2 | [Jiihaa](https://open.spotify.com/track/13kEg5VG2AxCHwM7Haudzd) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Jiihaa](https://open.spotify.com/album/2642MXbCEbPaqqvO1q6KHC) | 2:56 |
-| 3 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 |
+| 2 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 |
+| 3 | [Jiihaa](https://open.spotify.com/track/13kEg5VG2AxCHwM7Haudzd) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Jiihaa](https://open.spotify.com/album/2642MXbCEbPaqqvO1q6KHC) | 2:56 |
 | 4 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 5 | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR) | 3:08 |
-| 6 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 |
-| 7 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
+| 6 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
+| 7 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 |
 | 8 | [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 |
 | 9 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
 | 10 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,087 likes - 49 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,264 likes - 49 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 41 | [Gematria \(The Killing Name\)](https://open.spotify.com/track/5rAIqtGPZNiCojmpRjuZW5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 6:01 |
 | 42 | [Warranty](https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:51 |
 | 43 | [Critical Darling](https://open.spotify.com/track/3XFaGEb6daqdj39ThpJ2XI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 6:25 |
-| 44 | [Prosthetics \- Demo](https://open.spotify.com/track/39ggqY0jePP4abSpnfenvN) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Prosthetics \(Demo\)](https://open.spotify.com/album/4mkbid66ndHNU59JnnPeRE) | 5:35 |
+| 44 | [Me Inside \- Demo](https://open.spotify.com/track/3fxohV0CcizJxe8pvmtubb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Me Inside \(Demo\)](https://open.spotify.com/album/071FN3PArMqTHyawzqv0At) | 2:47 |
 | 45 | [Vendetta](https://open.spotify.com/track/5frNnyWkKzKdiKPLhkdY9L) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 5:15 |
 | 46 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 |
-| 47 | [Me Inside \- Demo](https://open.spotify.com/track/3fxohV0CcizJxe8pvmtubb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Me Inside \(Demo\)](https://open.spotify.com/album/071FN3PArMqTHyawzqv0At) | 2:47 |
+| 47 | [Prosthetics \- Demo](https://open.spotify.com/track/39ggqY0jePP4abSpnfenvN) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Prosthetics \(Demo\)](https://open.spotify.com/album/4mkbid66ndHNU59JnnPeRE) | 5:35 |
 | 48 | [All Hope Is Gone](https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:44 |
 | 49 | [Adderall](https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:40 |
 
-Snapshot ID: `aLTiAAAAAADItsczwcR4t1FsSkCQIjmI`
+Snapshot ID: `aLYzgAAAAACp1M+OGORtSSMt0HuaGz/9`

@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 660739,
+  "num_followers": 660754,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAA/ZAaSD86+y8omTXr0m9/s",
+  "snapshot_id": "aLYzgAAAAADkalDio+mU/iM3o+zhL3lf",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D (Justin Timberlake Remix)",
-        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 160942,
-      "name": "3D (Justin Timberlake Remix)",
-      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock Value II",
         "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 232466,
       "name": "Carry Out (Featuring Justin Timberlake)",
       "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3D (Justin Timberlake Remix)",
+        "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 160942,
+      "name": "3D (Justin Timberlake Remix)",
+      "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
     },
     {
       "added_at": null,

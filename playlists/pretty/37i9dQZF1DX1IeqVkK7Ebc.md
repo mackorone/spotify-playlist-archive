@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > The clink of ice in your drink
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,514 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,501 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 69 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 |
 | 70 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 71 | [\(not\) a love song](https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [\(not\) a love song](https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka) | 2:53 |
-| 72 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 |
-| 73 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
+| 72 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
+| 73 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 |
 | 74 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 75 | [I Believe](https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:07 |
 | 76 | [when i'm with you](https://open.spotify.com/track/5TmEaC9CEjPjn9flj0B4i2) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [when i'm with you](https://open.spotify.com/album/2l53ZpaVXvnQ95kgCJBg1t) | 3:27 |

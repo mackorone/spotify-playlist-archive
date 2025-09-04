@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Zion Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,791 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,840 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 23 | [Watching](https://open.spotify.com/track/3veu6WigC4UFeNhVE8WN9I) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [Watching](https://open.spotify.com/album/2QCMZ4Zw8FUdBLxEbQNIRr) | 2:36 |
 | 24 | [DEEP END](https://open.spotify.com/track/6KcxzTcm5k37XRoXnh1EBC) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [BRAZEN](https://open.spotify.com/album/0rHdsM0FF6LshyUpD5BOyC) | 2:31 |
 | 25 | [KISSING](https://open.spotify.com/track/4xDfKNdpywLn63gY6C95Xf) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [KISSING](https://open.spotify.com/album/3iq0etP6pfeOTWyUck4Uza) | 2:14 |
-| 26 | [Track 4](https://open.spotify.com/track/6c8yFaWeByFrIQXqNSEKJi) | [Ella Gilbert](https://open.spotify.com/artist/4TL6olllWTntZbNvdRFsmA) | [everything's gotta go bad](https://open.spotify.com/album/4oVLBXVtoMgBx0yC1EWBkG) | 0:00 |
+| 26 | [friend](https://open.spotify.com/track/6c8yFaWeByFrIQXqNSEKJi) | [Ella Gilbert](https://open.spotify.com/artist/4TL6olllWTntZbNvdRFsmA) | [everything's gotta go bad](https://open.spotify.com/album/4oVLBXVtoMgBx0yC1EWBkG) | 3:48 |
 | 27 | [Last To Leave](https://open.spotify.com/track/56eYBe5TklHxCuG37syoQ8) | [Wiles](https://open.spotify.com/artist/66oUtydaxLqdYiep31Vhh6) | [Last To Leave](https://open.spotify.com/album/1lCGcNpMH5gZVtApzBlWAN) | 3:07 |
 | 28 | [Love Vomit](https://open.spotify.com/track/1qWdaFIPrEiAtBvK3FGy5L) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Love Vomit](https://open.spotify.com/album/3vpGAg1Ph4u0abMSszKAgS) | 3:47 |
 | 29 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 |

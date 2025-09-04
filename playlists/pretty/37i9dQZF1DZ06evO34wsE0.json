@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 250894,
+  "num_followers": 250906,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAiH3HybAkMn/ysuV55k8kd",
+  "snapshot_id": "aLYzgAAAAACPf++NGqVdJzoVkJTN4o4C",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Forever And For Always",
+      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 156275,
       "name": "hole in the bottle (with Shania Twain)",
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Forever And For Always",
-      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 248866,
-      "name": "Nah! - Red Version",
-      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+      "duration_ms": 240533,
+      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
+      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 240533,
-      "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
-      "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
+      "duration_ms": 248866,
+      "name": "Nah! - Red Version",
+      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
     },
     {
       "added_at": null,

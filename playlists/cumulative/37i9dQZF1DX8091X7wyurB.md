@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-644 songs - 2 day 15 hr 21 min
+645 songs - 2 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 | 2023-10-06 | 2023-12-15 |
 | [Chances](https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0) | [Chances](https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB) | 4:03 | 2023-12-15 | 2025-05-25 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-07-11 |
-| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 |  |
+| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 | 2025-09-04 |
 | [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-09-29 | 2023-10-26 |
 | [CITY OF GOD](https://open.spotify.com/track/7tHSXFRCyUbETKscfpcyht) | [ERIC JESHRUN](https://open.spotify.com/artist/2vWZ36mcSsJjZyvdafgmbG) | [CITY OF GOD](https://open.spotify.com/album/1IWHmDBTJeNn8MQSOwaGQm) | 12:23 | 2025-04-25 | 2025-05-02 |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
@@ -602,6 +602,7 @@
 | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/track/60Rryc6TaQNDQRbiWBXfd1) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [WHO IS LIKE THEE \(Live\)](https://open.spotify.com/album/4W0qjKFeLkJU4i1VYM0A4s) | 6:08 | 2025-04-25 | 2025-05-09 |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 | 2025-03-21 |
 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 | 2024-07-19 | 2025-02-15 |
+| [Without You](https://open.spotify.com/track/78AaRaIWFxNfcdIlVJZHwH) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Without You](https://open.spotify.com/album/2PCYgBNs3Pgrcr6ZMRGVNI) | 2:34 | 2025-08-01 |  |
 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 | 2022-06-30 | 2023-01-20 |
 | [Won't Let Go](https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 3:58 | 2023-12-05 | 2023-12-10 |
 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-04-14 |  |

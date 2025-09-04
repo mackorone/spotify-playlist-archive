@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,589 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,605 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [Spin \(feat\. Victoria Monét\)](https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:07 |
 | 50 | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/track/7unrQrmU8i2Roc1Dkj0ST2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sunday Service \(feat\. Megan Thee Stallion & Flo Milli\)](https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae) | 3:27 |
 
-Snapshot ID: `aLTiAAAAAAAB4HqbE6Wm+0NntLtBpokW`
+Snapshot ID: `aLYzgAAAAACEVc/3UNMASOsTRj58fD8P`

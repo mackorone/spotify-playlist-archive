@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACyTJr64nRKmMk5DluEsJfE",
+  "snapshot_id": "aLYzgAAAAACZ4mdn9t5Tyv3gW0HzWSAX",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Donishisa Ballard",
-          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
         }
       ],
-      "duration_ms": 502359,
-      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
-      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
+      "duration_ms": 345026,
+      "name": "You're Mighty",
+      "url": "https://open.spotify.com/track/2iu23cl3KuYbtInOzUaWef"
     },
     {
       "added_at": null,
@@ -411,18 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
         }
       ],
-      "duration_ms": 345026,
-      "name": "You're Mighty",
-      "url": "https://open.spotify.com/track/2iu23cl3KuYbtInOzUaWef"
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
       "artists": [
         {
@@ -548,13 +548,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
         }
       ],
-      "duration_ms": 465962,
-      "name": "We Serve (feat. Travis Greene)",
-      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
+      "duration_ms": 417773,
+      "name": "I Feel You Moving",
+      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
     },
     {
       "added_at": null,
@@ -583,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
       "artists": [
         {
@@ -592,17 +596,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 417773,
-      "name": "I Feel You Moving",
-      "url": "https://open.spotify.com/track/7Ato921tLj55ni6itcAT7T"
+      "duration_ms": 465962,
+      "name": "We Serve (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 330558,
-      "name": "Lord You're Mighty",
-      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Victory",
         "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 338986,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/31NuRDI5McMo8ZjSApHZUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Kymberli Joye",
-          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
-        }
-      ],
-      "duration_ms": 534949,
-      "name": "Miracle is You (feat. Kymberli Joye)",
-      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exalted...Live In Baltimore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
@@ -1003,6 +983,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+        }
+      ],
+      "duration_ms": 534949,
+      "name": "Miracle is You (feat. Kymberli Joye)",
+      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live: The Praise, the Worship",
         "url": "https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA"
       },
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         }
       ],
-      "duration_ms": 176253,
-      "name": "The Lifter",
-      "url": "https://open.spotify.com/track/47HL24sAiA9RybhLGODrUX"
+      "duration_ms": 219360,
+      "name": "The Presence",
+      "url": "https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi"
     },
     {
       "added_at": null,

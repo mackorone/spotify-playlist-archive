@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE1/7qSm9z+7ITeHNjh0J/k4ImVa",
+  "snapshot_id": "AAAAAFEFtx9fIomNz4cyQirfgwoWRqlc",
   "tracks": [
     {
       "added_at": "2025-08-20 01:10:44",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 274871,
-      "name": "\u3044\u3064\u304b",
-      "url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "glisten",
         "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 169973,
       "name": "all the kids are depressed",
       "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 274871,
+      "name": "\u3044\u3064\u304b",
+      "url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u30a2\u30dd\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 230209,
-      "name": "\u30a2\u30dd\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "\u3082\u3046\u4e00\u5ea6",
         "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 250766,
       "name": "\u3082\u3046\u4e00\u5ea6",
       "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u30a2\u30dd\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 230209,
+      "name": "\u30a2\u30dd\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u56f3\u9451",
-        "url": "https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 241064,
-      "name": "\u56f3\u9451",
-      "url": "https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
         "url": "https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 226627,
       "name": "\u30d3\u30ea\u30df\u30ea\u30aa\u30f3",
       "url": "https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u56f3\u9451",
+        "url": "https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 241064,
+      "name": "\u56f3\u9451",
+      "url": "https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u785d\u5b50\u306e\u7dda",
-        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 256428,
-      "name": "\u785d\u5b50\u306e\u7dda",
-      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "medicine",
         "url": "https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 162643,
       "name": "medicine",
       "url": "https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u785d\u5b50\u306e\u7dda",
+        "url": "https://open.spotify.com/album/0n4ltZwQnNA4rVtnInnJPq"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 256428,
+      "name": "\u785d\u5b50\u306e\u7dda",
+      "url": "https://open.spotify.com/track/1h8hSEfuhRy9fw7uFfFsD0"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
-      },
-      "artists": [
-        {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
-        }
-      ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "12:45 (Stripped)",
         "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 179013,
       "name": "12:45 - Stripped",
       "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
     },
     {
       "added_at": "2025-08-20 01:10:44",

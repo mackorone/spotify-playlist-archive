@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,505 likes - 94 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,516 likes - 94 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 62 | [LOVE BUSINESS](https://open.spotify.com/track/0vIXs6yeaiWxNiu3Rh59ym) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [LOVE BUSINESS](https://open.spotify.com/album/5dXTa851mvVhUI4nnK7gaA) | 3:14 |
 | 63 | [Myselfed](https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Myselfed](https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf) | 4:47 |
 | 64 | [Cómo](https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Ya Lo Estoy Deseando](https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX) | 3:22 |
-| 65 | [Debilidad](https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Dinastía](https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF) | [Espacios](https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6) | 2:58 |
-| 66 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 |
+| 65 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 |
+| 66 | [Debilidad](https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Dinastía](https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF) | [Espacios](https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6) | 2:58 |
 | 67 | [Afromama Jams](https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [Low97](https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7) | [Afromama Jams](https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC) | 3:03 |
 | 68 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 69 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
 | 70 | [en mí](https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff) | [Lola Sanchez](https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO) | [en mí](https://open.spotify.com/album/37vwRCD6CDp518j2giijxd) | 4:06 |
-| 71 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
-| 72 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
+| 71 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
+| 72 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
 | 73 | [Volverte a Ver](https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [JeanPatrick](https://open.spotify.com/artist/2LeoKJiUP0Sz8k2bH8IDbu), [Solo Di Medina](https://open.spotify.com/artist/4Gn6n9S8UL4YkfMtJYbIS5) | [Volverte a Ver](https://open.spotify.com/album/0vryHuywlY0re96fmjap4c) | 2:53 |
 | 74 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
 | 75 | [Pretérito Mujer](https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [De Reviente](https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS) | 3:25 |
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 84 | [Miro donde miro](https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ) | [Lautaro Veppo](https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Miro donde miro](https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps) | 2:55 |
 | 85 | [Solo por Hoy](https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Solo por Hoy](https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS) | 3:30 |
 | 86 | [Therapy](https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9) | [Croupier Funk](https://open.spotify.com/artist/5eRF4FkmH7eLChZufSBf3p) | [Therapy](https://open.spotify.com/album/5vtaMgXdhnI7HaiVBYmoJn) | 3:50 |
-| 87 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
-| 88 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
+| 87 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
+| 88 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
 | 89 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
 | 90 | [Fábulas](https://open.spotify.com/track/5ItspG9yWaTOa5ofnd0AV6) | [Alumine](https://open.spotify.com/artist/0x4dM35LYvFkgWINvnRdt3) | [Fábulas](https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX) | 4:19 |
 | 91 | [Sepia](https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz) | [Sepia](https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE) | 5:26 |
-| 92 | [Fiestas en las Nubes](https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn) | [INTI GARCIA](https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL) | [Fiestas en las Nubes](https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A) | 2:42 |
-| 93 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 92 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 93 | [Fiestas en las Nubes](https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn) | [INTI GARCIA](https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL) | [Fiestas en las Nubes](https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A) | 2:42 |
 | 94 | [Espirituosa](https://open.spotify.com/track/0ZXJigvZPCAAOUnatrst9F) | [Dedo de Mono](https://open.spotify.com/artist/4LVzT0rjFYS40nppNUGyVn) | [Espirituosa](https://open.spotify.com/album/1Cra9uhCvkygaAvXq6qSmA) | 3:52 |
 
 Snapshot ID: `AAAAAJ0yi/2+KYswTjYnuCQwfK68KmyI`

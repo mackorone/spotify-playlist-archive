@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADQ/Sb047ETSpSV1x5Msr6p",
+  "snapshot_id": "aLYzgAAAAAD5GH6G0FzwcTOy53b+qg2D",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tasty Raps, Vol. 1",
         "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,

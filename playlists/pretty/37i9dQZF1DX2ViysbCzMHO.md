@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,032 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,063 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 87 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
 | 88 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 |
 | 89 | [You, Me, And Whiskey \- Acoustic](https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [You, Me, And Whiskey \(Acoustic\)](https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5) | 3:07 |
-| 90 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
-| 91 | [Narcissist \- Piano Version](https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist \(Piano Version\)](https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR) | 2:33 |
+| 90 | [Narcissist \- Piano Version](https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Narcissist \(Piano Version\)](https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR) | 2:33 |
+| 91 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 |
 | 92 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 93 | [Save The Roses \(Acoustic\)](https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Save The Roses \(Acoustic\)](https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N) | 3:17 |
 | 94 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |

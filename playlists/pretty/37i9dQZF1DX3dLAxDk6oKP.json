@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 456579,
+  "num_followers": 456712,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
-      },
-      "artists": [
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "TU TU TU",
-        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 151570,
-      "name": "TU TU TU",
-      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 165026,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "TU TU TU",
+        "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 151570,
+      "name": "TU TU TU",
+      "url": "https://open.spotify.com/track/5sK3SqHia7p5dXjdq1dluB"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -639,8 +639,8 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "R\u00e1fagas al Viento",
-        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
+        "name": "Jacobo Grinberg",
+        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 161684,
-      "name": "R\u00e1fagas al Viento",
-      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
+      "duration_ms": 281739,
+      "name": "Jacobo Grinberg",
+      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -735,8 +735,8 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "Jacobo Grinberg",
-        "url": "https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t"
+        "name": "R\u00e1fagas al Viento",
+        "url": "https://open.spotify.com/album/7igjrxQ40Pjvbe3R7Weqpl"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 281739,
-      "name": "Jacobo Grinberg",
-      "url": "https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q"
+      "duration_ms": 161684,
+      "name": "R\u00e1fagas al Viento",
+      "url": "https://open.spotify.com/track/5GIrmSQBxO9LTunilbwMWw"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
         "name": "COMO CAPO",
         "url": "https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
-        "name": "El Del Palenque",
-        "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "El Del Palenque",
-      "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "NO PASA NADA",
-        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "NO PASA NADA",
-      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "NO PASA NADA",
+        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "NO PASA NADA",
+      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
+        "name": "Joven De La Sierra",
+        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Joven De La Sierra",
+      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
         "name": "Yo Ya Sabia Pa Donde Iba",
         "url": "https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R"
       },
@@ -1047,18 +1063,22 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "Joven De La Sierra",
-        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 196603,
-      "name": "Joven De La Sierra",
-      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -1083,26 +1103,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179450,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "Ya Te Super\u00e9",
-        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 226476,
-      "name": "Ya Te Super\u00e9",
-      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "Ya Te Super\u00e9",
+        "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 226476,
+      "name": "Ya Te Super\u00e9",
+      "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
     },
     {
       "added_at": "2025-08-29 17:54:49",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2025-08-29 17:54:49",
       "album": {
-        "name": "Boneless",
-        "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 173618,
-      "name": "Boneless",
-      "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
-    },
-    {
-      "added_at": "2025-08-29 17:54:49",
-      "album": {
         "name": "Hasta Enfrente",
         "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 164565,
       "name": "Hasta Enfrente",
       "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
+    },
+    {
+      "added_at": "2025-08-29 17:54:49",
+      "album": {
+        "name": "Boneless",
+        "url": "https://open.spotify.com/album/3nPgilvMmwz5AjXZ8XBj4B"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 173618,
+      "name": "Boneless",
+      "url": "https://open.spotify.com/track/1RYO67KLXoKM5hTpMevbaN"
     },
     {
       "added_at": "2025-08-29 17:54:49",

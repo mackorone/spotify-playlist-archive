@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,192 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,204 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

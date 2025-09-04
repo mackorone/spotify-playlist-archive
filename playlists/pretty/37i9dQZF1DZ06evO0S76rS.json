@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 158071,
+  "num_followers": 158096,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAKcahndPlu5YGdYvsoxnBe",
+  "snapshot_id": "aLYzgAAAAADkXkpN8e967iQ0Tv9AeGIy",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 320293,
+      "name": "Mi Pueblo Natal",
+      "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
       },
@@ -615,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 335986,
+      "name": "Mi Hijo y Yo",
+      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -647,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 335986,
-      "name": "Mi Hijo y Yo",
-      "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Golpe de Folklore",
         "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 282536,
       "name": "Han Cogido la Cosa",
       "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 250696,
+      "name": "Tocando el Cielo Con las Manos",
+      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
     },
     {
       "added_at": null,
@@ -707,22 +739,6 @@
       "duration_ms": 291893,
       "name": "El Amor Vendr\u00e1",
       "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 250696,
-      "name": "Tocando el Cielo Con las Manos",
-      "url": "https://open.spotify.com/track/6YnkOFLD5ecp9EhxDxKemx"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 323026,
       "name": "No Tuve A Quien Decirle Amor",
       "url": "https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cl\u00e1sicos 1.0",
-        "url": "https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 234444,
-      "name": "Cl\u00e1sicos 1.0: Robando Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei"
     }
   ],
   "unique_name": "This Is Grupo Niche",

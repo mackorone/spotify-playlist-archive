@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,185 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,492 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 51 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
 | 52 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
 | 53 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
-| 54 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
-| 55 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 54 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
+| 55 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
 | 56 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
 | 57 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
 | 58 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 |

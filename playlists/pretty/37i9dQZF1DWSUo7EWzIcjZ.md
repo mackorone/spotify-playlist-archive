@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,158 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,153 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 84 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
 | 85 | [Tus 20 Años](https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w) | [Vicente Pacheco](https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH) | [Merengues Clásicos de los 80´s, Vol\. 2](https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE) | 4:49 |
 | 86 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |
-| 87 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
-| 88 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
+| 87 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
+| 88 | [Faltaste a la Cita](https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengazo](https://open.spotify.com/album/5tOztS6JDjlrPpzJB5Dj5e) | 4:27 |
 | 89 | [Ta' Encendio](https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:46 |
 | 90 | [Locamente Enamorado](https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Noches Latinas](https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d) | 4:24 |
 | 91 | [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 126 | [Cuando Este Con El](https://open.spotify.com/track/14gSrBUCzINo8Bx9eO55cR) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Merengon](https://open.spotify.com/album/2tYiN3NWPLJ3rYRhIZfyka) | 3:37 |
 | 127 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 |
 | 128 | [La Primera Piedra](https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 5:39 |
-| 129 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 |
+| 129 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 |
 | 130 | [A Donde Vayas](https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:33 |
 | 131 | [Te Compro Tu Novia](https://open.spotify.com/track/3czFCRBDV79tTU4EbCEFuw) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [America Sin Queja](https://open.spotify.com/album/1FmuFhJTU6xH7uqazo1mfG) | 4:27 |
 | 132 | [Buscando Tus Besos](https://open.spotify.com/track/0OONd4OG3OBVLGBfrsdmCp) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf) | 3:55 |
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 136 | [No Me Importa, No](https://open.spotify.com/track/3sW9KHmpSIh19ESJO2Qbol) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/4qxrLBXemtIN9pUphKSCfb) | 3:55 |
 | 137 | [Que Cara Más Bonita](https://open.spotify.com/track/2HNTMqqbPIe2gTexJBChVH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 5:02 |
 | 138 | [Amaneciendo](https://open.spotify.com/track/766T4qLT0fBFmO10TE22nT) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC) | 4:14 |
-| 139 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 |
+| 139 | [Madre](https://open.spotify.com/track/5C99HN4vPVTXaZp9mLI5Sb) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:47 |
 | 140 | [El Loco Y La Luna](https://open.spotify.com/track/4CX2taCdwBYyhx8d7wYwaW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:51 |
 | 141 | [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 |
 | 142 | [Noche de Fantasia](https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [El Jardín Prohibido](https://open.spotify.com/album/2zyxz4af9jRccRTkSM0gwM) | 4:16 |

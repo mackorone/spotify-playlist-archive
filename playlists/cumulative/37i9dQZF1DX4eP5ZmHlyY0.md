@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: MONSTA X
 
-699 songs - 1 day 14 hr 33 min
+700 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [encore](https://open.spotify.com/track/6PtdknJWWbQMz2WbfEZYFK) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [encore](https://open.spotify.com/album/5jKqkpuXAITg8wLB57P34I) | 4:06 | 2025-05-27 | 2025-06-18 |
 | [Endless Ending](https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ) | [BEAST \(HIGHLIGHT\)](https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48) | [Endless Ending](https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES) | 3:25 | 2025-05-01 | 2025-08-30 |
 | [Enter](https://open.spotify.com/track/23bBvLsCna9U8Ehi9ckZjm) | [零](https://open.spotify.com/artist/7s4JAJwCa1wNKbJrrxvbjY) | [Delete / Enter](https://open.spotify.com/album/79DwCEf7bv1cZWAEQPVVRq) | 3:00 | 2025-03-06 | 2025-04-30 |
-| [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-13 |  |
+| [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-13 | 2025-09-04 |
 | [Evergreen](https://open.spotify.com/track/1FwpLolu29OCFHU1Yqyz17) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Evergreen](https://open.spotify.com/album/0GUY29JTqpAq7U0q1LZvRT) | 3:36 | 2024-06-18 | 2024-06-26 |
 | [Express Mode](https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior25 \- The 12th Album](https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a) | 3:08 | 2025-07-08 |  |
 | [Extraordinary day](https://open.spotify.com/track/4yKvdFbKn2W1lKKMwHQswp) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Extraordinary day](https://open.spotify.com/album/25nQUx8eJNhjD4SCFo3jtW) | 3:20 | 2025-02-04 | 2025-04-15 |
@@ -384,6 +384,7 @@
 | [Next](https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [First Flight \(Special Edition\)](https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd) | 3:33 | 2023-11-23 | 2024-02-01 |
 | [NIGHT](https://open.spotify.com/track/4TjypNhCmZhTTBBkD39RiZ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NIGHT](https://open.spotify.com/album/0Wrd4UJLcfFemsSz4PVOaP) | 2:54 | 2024-10-08 | 2025-03-07 |
 | [NINNIN JACK](https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [DEPARTURE](https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU) | 2:36 | 2024-05-28 | 2024-08-14 |
+| [NO DAY](https://open.spotify.com/track/5BsfZFM6O8Prt7lG1GRkOz) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [NO DAY](https://open.spotify.com/album/4nWtg5GjFNs1e4ThRi00aV) | 3:26 | 2025-09-04 |  |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2025-03-06 | 2025-04-15 |
 | [NO FEAR NO MORE](https://open.spotify.com/track/3xeisaUnuXnMr6jFrFmzCu) | [片寄涼太](https://open.spotify.com/artist/6RexcbImnLm1O83WNPzZV2), [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [NO FEAR NO MORE](https://open.spotify.com/album/02nzdH6EXpFF1ggzmylOHA) | 3:05 | 2024-01-31 | 2024-02-14 |
 | [No Flexin'](https://open.spotify.com/track/2Dmy2W5vepmLsAjGC1vwpd) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [No Flexin'](https://open.spotify.com/album/7A7VatptjJ9Y6KCx6bFZ9e) | 2:29 | 2025-03-25 | 2025-05-02 |

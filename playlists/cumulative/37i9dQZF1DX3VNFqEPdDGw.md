@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-349 songs - 18 hr 0 min
+350 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Clash](https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:56 | 2025-01-08 | 2025-08-27 |
 | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/track/5SzPs3C9TLb7CGDwlB5kaZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/album/16T7F58qWvIfjLri9fotfN) | 4:07 | 2021-12-18 | 2022-01-11 |
 | [Cobra](https://open.spotify.com/track/5yBnT2ltrfE0RqKgdf2iL9) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Cobra](https://open.spotify.com/album/0rZwnHDYxmhQIUJT1jknXw) | 3:23 | 2025-02-10 | 2025-06-04 |
-| [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-06 |  |
+| [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-06 | 2025-09-04 |
 | [Competition \(Feat\. Mahi Sharma\)](https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX) | [Virasat Sandhu](https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Competition \(Feat\. Mahi Sharma\)](https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH) | 2:28 | 2025-02-19 | 2025-09-03 |
 | [Dabde Ni](https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Dabde Ni](https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO) | 3:27 | 2021-12-18 | 2025-06-21 |
 | [Dalle Bande](https://open.spotify.com/track/43fT0fcn0OQigmlcj1IlQ9) | [Nav Dolorain](https://open.spotify.com/artist/6hOa4wyENmUQBjd1q9F42w), [Mani Sheron](https://open.spotify.com/artist/4cuUcVGazv96ev19Z4E0Kp), [Beatcop](https://open.spotify.com/artist/2sGUVwZqJzeySVgEw7KTaV) | [Dalle Bande](https://open.spotify.com/album/75WwbXFDZn5isCXJrKyX7z) | 2:26 | 2025-03-25 | 2025-04-08 |
@@ -173,6 +173,7 @@
 | [Kadar](https://open.spotify.com/track/6dJ3qICD3mFsPpaGAXVme9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L) | 3:09 | 2025-01-08 | 2025-01-10 |
 | [Kagaz \(From "Mithde"\)](https://open.spotify.com/track/7pEGmr40AnIwASfd8rBXxP) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Kagaz \(From "Mithde"\)](https://open.spotify.com/album/4vc64yADpNgm42jaMe4CPK) | 2:20 | 2025-03-27 | 2025-04-26 |
 | [Kaka Ji](https://open.spotify.com/track/1Up8iNCnw3B1Z8WcItz1Lv) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kaka Ji](https://open.spotify.com/album/5JXp7w6NSVrvQ0iDj46JYt) | 2:42 | 2025-02-18 | 2025-03-25 |
+| [Kali Kite Mil](https://open.spotify.com/track/6FKZaQ6GachmVQgnQDcgn1) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t), [Sukhpal Sukh](https://open.spotify.com/artist/5Fw338we3ckffdJs7goXZs), [Balvir Boparai](https://open.spotify.com/artist/6MuaBJB0T1Z5lq1iBaTXVX) | [College](https://open.spotify.com/album/0sk5iJoQU4uWTqYQWXUzk8) | 3:44 | 2025-09-02 |  |
 | [Kalli Sohni](https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Kalli Sohni](https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe) | 2:51 | 2025-01-08 |  |
 | [Kamayi](https://open.spotify.com/track/55QfkK3dbHstsnw4HdlxeK) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Kamayi](https://open.spotify.com/album/5LCeHcUjwpyeoXgtYREfAe) | 3:06 | 2025-01-08 |  |
 | [Kamli](https://open.spotify.com/track/15fmoePTSxMrZCskvyXSac) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Kamli \(Original\)](https://open.spotify.com/album/69MQPN9orEyUl6lzre4Bms) | 3:21 | 2025-01-08 |  |

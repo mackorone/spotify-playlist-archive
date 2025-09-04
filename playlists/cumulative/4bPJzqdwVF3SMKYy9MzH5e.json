@@ -2848,6 +2848,28 @@
     {
       "album": {
         "name": "Animal",
+        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217736,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
+    },
+    {
+      "album": {
+        "name": "Animal",
         "url": "https://open.spotify.com/album/1toQ2dw1qzlj9LeIaxVxFg"
       },
       "artists": [

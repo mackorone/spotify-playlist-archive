@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Wolter Kroes
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,949 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,951 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

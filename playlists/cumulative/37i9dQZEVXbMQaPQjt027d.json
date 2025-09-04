@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 140792,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/5Y6GmjixoGCrcGv9Y63txZ"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 220720,
       "name": "Ben je klaar?",
       "url": "https://open.spotify.com/track/5Zj0gTZAjXSHAaSxVtFVlq"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 134857,
       "name": "Blijf Dan Hier (feat. Danique)",
       "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 173537,
       "name": "MARSEILLE",
       "url": "https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh"
@@ -4030,10 +4030,28 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/246MSbcmuI8gaJtmb77K7C"
+    },
+    {
+      "album": {
+        "name": "Valet",
+        "url": "https://open.spotify.com/album/4SAi4EhLNuxJ8yifE3NTIO"
+      },
+      "artists": [
+        {
+          "name": "DeeOrSlim",
+          "url": "https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111342,
+      "name": "Valet",
+      "url": "https://open.spotify.com/track/44DVF1XRGvekMLB0CTzyLF"
     },
     {
       "album": {
@@ -4364,6 +4382,24 @@
       "duration_ms": 160500,
       "name": "which one x 1er gaou",
       "url": "https://open.spotify.com/track/5cXfuSHfFGntIaiFiwGlN3"
+    },
+    {
+      "album": {
+        "name": "Whiskey morning",
+        "url": "https://open.spotify.com/album/0xqePUzu9L6AjXqYFHg6Hh"
+      },
+      "artists": [
+        {
+          "name": "ZUNRAID",
+          "url": "https://open.spotify.com/artist/7ACR6q1laDn6SB6Geyrucp"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224130,
+      "name": "Whiskey morning",
+      "url": "https://open.spotify.com/track/26FCEoX9qZEbjbEMfke1Za"
     },
     {
       "album": {

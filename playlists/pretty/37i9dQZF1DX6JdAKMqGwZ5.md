@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Alice Wonder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,857 likes - 120 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,851 likes - 120 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 108 | [No soy tu mama](https://open.spotify.com/track/0PB8Uzvi6iwahcVQ8qcKYx) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [No soy tu mama](https://open.spotify.com/album/5yRRpGTAetWVehc8IPrwa1) | 2:14 |
 | 109 | [si nunca encuentro el amor](https://open.spotify.com/track/24eUFdj06jCU2dtUG2Cimx) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [si nunca encuentro el amor](https://open.spotify.com/album/1qUFBB5jVqv1iG1erTf7JI) | 3:50 |
 | 110 | [Aire](https://open.spotify.com/track/2CyXK8l7jEtBvsIg3acHZx) | [POLAZ](https://open.spotify.com/artist/6AxBpVEUx13QJrdgd0uGpM) | [Aire](https://open.spotify.com/album/6EeUmDA0Eh8qMfzItIdpxZ) | 2:52 |
-| 111 | [Una Vez Ví Al Viento](https://open.spotify.com/track/5Z9jZ8TJOjIhbs2zsuY6kZ) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Una Vez Ví Al Viento](https://open.spotify.com/album/0n59GPiJXrZAKpmM8ALYrq) | 3:14 |
+| 111 | [Una Vez Vi Al Viento](https://open.spotify.com/track/5Z9jZ8TJOjIhbs2zsuY6kZ) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Una Vez Vi Al Viento](https://open.spotify.com/album/0n59GPiJXrZAKpmM8ALYrq) | 3:14 |
 | 112 | [Loba](https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Loba](https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H) | 3:13 |
 | 113 | [Tu Voz](https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tu Voz](https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII) | 4:23 |
 | 114 | [El efímero arte de perdonar](https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [El efímero arte de perdonar](https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7) | 2:40 |

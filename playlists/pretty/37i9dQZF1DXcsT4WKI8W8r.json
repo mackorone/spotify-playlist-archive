@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 338265,
+  "num_followers": 338402,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Agent Provocateur",
+        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 304786,
+      "name": "I Want to Know What Love Is - 1999 Remaster",
+      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby and the Range",
+          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
+        }
+      ],
+      "duration_ms": 297853,
+      "name": "The Way It Is",
+      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Hornsby and the Range",
-          "url": "https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk"
-        }
-      ],
-      "duration_ms": 297853,
-      "name": "The Way It Is",
-      "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1141,38 +1141,6 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
       "added_at": "2025-03-18 09:51:32",
       "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "2002",
+        "url": "https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Bat Out Of Hell II: Back Into Hell",
-        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
-      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Crosswords",
+        "url": "https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 153445,
+      "name": "Crosswords",
+      "url": "https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Natalie Cole Anthology",
         "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 159853,
       "name": "Twistin' the Night Away",
       "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Crosswords",
-        "url": "https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 153445,
-      "name": "Crosswords",
-      "url": "https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 220589,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
     },
     {
       "added_at": "2025-03-18 09:51:32",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 224743,
-      "name": "You Said You'd Grow Old With Me",
-      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+      "duration_ms": 220589,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 148459,
       "name": "Connection",
       "url": "https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Lifestyle (feat. Adam Levine)",
-        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 153865,
-      "name": "Lifestyle (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -2259,6 +2239,26 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Lifestyle (feat. Adam Levine)",
+        "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 153865,
+      "name": "Lifestyle (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 144530,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "You've Got The Love",
         "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
       },
@@ -2311,18 +2295,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Carla",
-        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
       },
       "artists": [
         {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 177000,
-      "name": "B-A-B-Y",
-      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
+      "duration_ms": 144530,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2339,6 +2323,22 @@
       "duration_ms": 190533,
       "name": "Patient",
       "url": "https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
+      },
+      "artists": [
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "B-A-B-Y",
+      "url": "https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq"
     },
     {
       "added_at": "2024-04-05 00:00:00",

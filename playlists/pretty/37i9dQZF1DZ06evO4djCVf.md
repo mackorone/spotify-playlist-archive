@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,971 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,990 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lichtje Branden](https://open.spotify.com/track/16VFlUdJfBnF2UoMgTJIDI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:52 |
-| 2 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
-| 3 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 2 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 3 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
 | 4 | [Als Het Avond Is](https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
 | 5 | [Goud](https://open.spotify.com/track/5SaapweQAEx7X1R47ItZ75) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 3:22 |
 | 6 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 40 | [Dicht Bij Mij \- Uit Liefde Voor Muziek](https://open.spotify.com/track/00x0bTQ3qpObskwuhCnaBg) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:44 |
 | 41 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `aLTiAAAAAADg9m3S8MKsUnX6mU0YoGNN`
+Snapshot ID: `aLYzgAAAAADO7nCCMh1VHU9PI1+sG0FK`

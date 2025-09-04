@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,847 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,853 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 5 | [Toxic](https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 |
 | 6 | [Hurt You So Bad](https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:46 |
 | 7 | [Megatron](https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Boondock](https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:41 |
-| 8 | [Starry Eyed Surprise](https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Starry Eyed Surprise](https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl) | 3:11 |
+| 8 | [Starry Eyed Surprise](https://open.spotify.com/track/7uRPUuUJpqMLvl785x4Een) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka \(Remastered\)](https://open.spotify.com/album/0grcIUQzjQKB1v3kjMKwhu) | 3:47 |
 | 9 | [Revolving Door](https://open.spotify.com/track/29BNwy4DiJbLSf796C337g) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:40 |
-| 10 | [Starry Eyed Surprise](https://open.spotify.com/track/7uRPUuUJpqMLvl785x4Een) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Bunkka \(Remastered\)](https://open.spotify.com/album/0grcIUQzjQKB1v3kjMKwhu) | 3:47 |
+| 10 | [Starry Eyed Surprise](https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Starry Eyed Surprise](https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl) | 3:11 |
 | 11 | [Baby You Don't Know](https://open.spotify.com/track/347222YpEP2tSehBnN8b3T) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:09 |
 | 12 | [Lighthouse](https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH) | 3:42 |
 | 13 | [Darkside](https://open.spotify.com/track/6pWfSngATxH5jhspudBbDv) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:52 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 37 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `aLTiAAAAAACEAQEk4kx3HG9EgxNniKf5`
+Snapshot ID: `aLYzgAAAAAAaR77YAr9vTuHpGaW3Q9b9`

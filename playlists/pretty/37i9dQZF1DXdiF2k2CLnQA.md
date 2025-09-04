@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,445 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,448 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
 | 2 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 |
-| 3 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 |
-| 4 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
+| 3 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
+| 4 | [Mary On A Cross](https://open.spotify.com/track/0LOo3MYjiSzIOLjSd9wZUw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/7Lidkf6Nkvw5Ts7UbEeS6S) | 4:04 |
 | 5 | [Hordes of Khan](https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Hordes of Khan](https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy) | 3:43 |
 | 6 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 7 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 79 | [Could You Be It](https://open.spotify.com/track/3iNAn7V2xM1242vErb3oNq) | [The Baboon Show](https://open.spotify.com/artist/7Fh1k3NlvVj1Oj6kpfQf9f) | [Forward in Reverse](https://open.spotify.com/album/1c0JvU0krcDuhyEj7hsYoJ) | 2:54 |
 | 80 | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT) | 3:51 |
 
-Snapshot ID: `AAAAAAF8abV075qmhEukeF0X7kK6SUev`
+Snapshot ID: `AAAAAPqAA03VFS0yzns23AggYGghydxX`

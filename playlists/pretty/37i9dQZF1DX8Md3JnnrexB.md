@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,728 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,734 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 47 | [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 |
 | 48 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
 | 49 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
-| 50 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
-| 51 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
+| 50 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
+| 51 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
 | 52 | [Just Don't Want To Be Lonely](https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Reachin' Back](https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT) | 4:04 |
 | 53 | [Too Much, Too Little, Too Late \(with Deniece Williams\)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Johnny Mathis 3.0](https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv) | 2:58 |
 | 54 | [Every Generation \- Remastered](https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Every Generation \(Remastered\)](https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY) | 5:49 |

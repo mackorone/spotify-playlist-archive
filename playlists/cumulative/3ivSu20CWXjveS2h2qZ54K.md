@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,147 songs - 11 day 20 hr 39 min
+5,148 songs - 11 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3918,6 +3918,7 @@
 | [Say Goodbye To Mum And Dad](https://open.spotify.com/track/0s5CpCxuZnyITiWTuSWmxI) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs For A Nervous Planet](https://open.spotify.com/album/2DZInrxWAdqrQueZCkqcr3) | 3:45 | 2024-10-25 | 2024-11-09 |
 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-24 | 2024-08-31 |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-25 | 2025-08-02 |
+| [Sayōnara](https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Paul Hartnoll](https://open.spotify.com/artist/2VhTV1oh2l76vhVoQHhOrU) | [Sayōnara](https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9) | 3:04 | 2025-09-03 |  |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-02-22 |
 | [Sciallà](https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Sciallà](https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99) | 4:16 | 2025-06-27 | 2025-07-05 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-10 | 2025-01-18 |

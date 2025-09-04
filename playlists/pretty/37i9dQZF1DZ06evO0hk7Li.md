@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,700 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,705 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 27 | [Lover \(ōlowó ōrí mi\)](https://open.spotify.com/track/3LjnZRA4lyQ9JtTbkWT3dX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:01 |
 | 28 | [Our Song](https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
 | 29 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
-| 30 | [Thorns](https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Heartlands / Thorns](https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6) | 6:22 |
-| 31 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 |
+| 30 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 |
+| 31 | [Thorns](https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Heartlands / Thorns](https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6) | 6:22 |
 | 32 | [Kumbaya \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:01 |
 | 33 | [Blind](https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:24 |
 | 34 | [Part Time Love](https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:49 |
 | 35 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 |
 | 36 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 |
 | 37 | [All Aboard](https://open.spotify.com/track/5Bn4uE7SRLjO2qmCM63OwC) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 2:10 |
-| 38 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
-| 39 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
+| 38 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
+| 39 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
 | 40 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
 | 41 | [Move Like Me](https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 1:47 |
 | 42 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Something New](https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:19 |
 | 50 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
 
-Snapshot ID: `aLTiAAAAAAA9ZLBYH6CMb8gJP7n8wV9n`
+Snapshot ID: `aLYzgAAAAAC8xzNhlEwA4d4ql37haIqY`

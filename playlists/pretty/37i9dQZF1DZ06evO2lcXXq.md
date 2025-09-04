@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 
 > This is Lauren Daigle\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,011 likes - 42 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,026 likes - 42 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 28 | [To Know Me](https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:31 |
 | 29 | [You Have My Surrender \(Live\)](https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Come Alive: Live from the CentricWorship Retreat](https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12) | 3:45 |
 | 30 | [Light of the World](https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Light of the World](https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB) | 4:19 |
-| 31 | [Back To God](https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Back To God](https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl) | 4:03 |
+| 31 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 32 | [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 |
-| 33 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
+| 33 | [Back To God](https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Back To God](https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl) | 4:03 |
 | 34 | [Now is Forever \- Bonus Track](https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo) | 3:12 |
 | 35 | [It Is Well](https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [North Point Music: Beginnings](https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA) | 4:10 |
 | 36 | [Waiting](https://open.spotify.com/track/26WwwFoWQCkNWT0SI1IFHL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:11 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lcXXq.md) - [plain]
 | 41 | [HARD LOVE \(feat\. Lauren Daigle\)](https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:37 |
 | 42 | [Close \- Live](https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 5:08 |
 
-Snapshot ID: `aLTiAAAAAAB6FcNWXA7eiX4ulKVyuN7E`
+Snapshot ID: `aLYzgAAAAADzxiKSjK7uauZqZVZQnIwU`

@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Olivia Dean
 
-1,069 songs - 2 day 3 hr 57 min
+1,070 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 | 2023-11-13 | 2023-12-15 |
 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 | 2025-07-10 |  |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-06-12 | 2025-08-27 |
+| [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-09-03 |  |
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-14 | 2023-05-07 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-23 | 2024-07-16 |
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-11 | 2025-01-10 |

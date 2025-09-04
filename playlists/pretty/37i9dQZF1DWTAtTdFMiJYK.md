@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: W.i.S.H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,895 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,951 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 |
 | 75 | [Khubiyaan](https://open.spotify.com/track/6sfSrFpZNNojPIrq1xJvwQ) | [Aishwarya Anand](https://open.spotify.com/artist/0TSQQywcuIDd2T7fQ0oJ0U) | [Khubiyaan](https://open.spotify.com/album/0r4WTQ9bpYVNX9jDAeZYzA) | 2:52 |
 
-Snapshot ID: `AAAAAPPikg9YLc8IMf0EFkK4AfeG25Xq`
+Snapshot ID: `AAAAABtuq/XJI/tzsMN2CE2Rw7xvamav`

@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Darcie Haven
 
-578 songs - 1 day 7 hr 12 min
+579 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bless the Internet](https://open.spotify.com/track/6RGWdRv5ZZSHO7TqGrRAk5) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [tell me if the world is gonna end](https://open.spotify.com/album/5M6DBibWNDlicJ1mAsnK9C) | 2:44 | 2024-12-05 | 2025-01-10 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-12 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 |  |
+| [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-09 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-06-18 | 2024-07-27 |
 | [born to love you](https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [born to love you](https://open.spotify.com/album/6wpJJJbYI3IOB8V3RRMaio) | 3:38 | 2025-08-21 |  |
@@ -328,7 +329,7 @@
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-08-22 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2023-03-16 | 2023-04-28 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-14 |  |
-| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 |  |
+| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-09-04 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-11 | 2025-07-25 |
 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-27 | 2025-05-03 |
 | [Margaret \(feat\. Bleachers\)](https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:39 | 2024-01-04 | 2025-02-28 |

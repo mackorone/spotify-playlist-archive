@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 9 hr 48 min
+184 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 | 2023-12-30 |  |
 | [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2023-12-30 |  |
 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 | 2023-12-30 |  |
-| [Dolla](https://open.spotify.com/track/3LUa59DK3bfE47WY4M6HnL) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:39 | 2024-10-01 |  |
+| [Dolla](https://open.spotify.com/track/3LUa59DK3bfE47WY4M6HnL) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:39 | 2024-10-01 | 2025-09-04 |
+| [Dolla \- A COLORS SHOW](https://open.spotify.com/track/6fOKSOoWafYU099bNaf6Y8) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolla \(A COLORS SHOW\)](https://open.spotify.com/album/6bJqdE6a1mRYzzSGK2zycd) | 2:58 | 2025-09-03 |  |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 | 2023-12-30 |  |
 | [Don't Take It Personal](https://open.spotify.com/track/5rwV5yAoPLfIjCZ64jvC2A) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:47 | 2023-12-30 |  |
 | [Drive You Home](https://open.spotify.com/track/72ZVVjZL6PXfUziM0ewm85) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Drive You Home](https://open.spotify.com/album/12P4sC6Bdg8JF8W4gjiwQF) | 3:36 | 2024-12-21 |  |

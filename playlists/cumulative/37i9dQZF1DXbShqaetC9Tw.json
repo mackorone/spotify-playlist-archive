@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "alarm",
+        "url": "https://open.spotify.com/album/3NVGgtZcXYxCxG8o71RN1I"
+      },
+      "artists": [
+        {
+          "name": "Joob A",
+          "url": "https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "alarm",
+      "url": "https://open.spotify.com/track/4iXJXY4Z7lfwiOsLoUwVHo"
+    },
+    {
+      "album": {
         "name": "Saying Goodbye",
         "url": "https://open.spotify.com/album/0MnhrWm9MVLySsFSEKYfVz"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
@@ -2730,7 +2748,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 221360,
       "name": "Monoamory",
       "url": "https://open.spotify.com/track/43DcjLAWHodB5pyzfJfEAA"
@@ -4133,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "Shin Ji Hoon 2nd Album 'Peace'",
+        "url": "https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "swimming pool",
+      "url": "https://open.spotify.com/track/22kp9FB9ISLt27vRgUPn4A"
+    },
+    {
+      "album": {
         "name": "That's Why I Can't Talk About Love",
         "url": "https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG"
       },
@@ -4263,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Trauma (From \"The Rose: COME BACK TO ME\")",
+        "url": "https://open.spotify.com/album/3X2s2xlesjmnjEDNpXrjVZ"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298064,
+      "name": "Trauma (From \"The Rose: COME BACK TO ME\")",
+      "url": "https://open.spotify.com/track/0BktgdzRYRFrk5Ek0shoxm"
+    },
+    {
+      "album": {
         "name": "STILL YOUNG BOY L",
         "url": "https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q"
       },
@@ -4292,7 +4346,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"

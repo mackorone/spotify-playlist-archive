@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,025 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,034 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 15 | [Mi Amor No Lo Mereces](https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:39 |
 | 16 | [China De Los Ojos Negros](https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:15 |
 | 17 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
-| 18 | [El Adiós](https://open.spotify.com/track/10pbScHlHAc2ztQHECUqGy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Adiós](https://open.spotify.com/album/4ATrBIMw7I0J3gC0Kw4bWt) | 2:46 |
+| 18 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 |
 | 19 | [El Invencible](https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:36 |
-| 20 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 |
+| 20 | [El Adiós](https://open.spotify.com/track/10pbScHlHAc2ztQHECUqGy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Adiós](https://open.spotify.com/album/4ATrBIMw7I0J3gC0Kw4bWt) | 2:46 |
 | 21 | [Por Tu Maldito Amor](https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:54 |
 | 22 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 23 | [Golondrina Viajera](https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Amor Prohibido](https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [15 Exitos: La Maquina Musical Numero Uno](https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD) | 3:34 |
 | 50 | [Estabas Tan Linda](https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Sobre Los Rieles](https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS) | 2:42 |
 
-Snapshot ID: `aLTiAAAAAAAv/ZfTI1o6KYe3G4xKfLtF`
+Snapshot ID: `aLYzgAAAAAD79KYACvZAxC4ZCJ9mnCR4`

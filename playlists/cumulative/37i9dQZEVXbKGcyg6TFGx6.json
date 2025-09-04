@@ -3430,7 +3430,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -19330,7 +19330,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -31231,6 +31231,24 @@
     },
     {
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "album": {
         "name": "Zanaka (Deluxe)",
         "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
@@ -36754,7 +36772,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -41052,7 +41070,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 160625,
       "name": "P\u00f4r do Sol",
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
@@ -45056,7 +45074,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -47164,7 +47182,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY"
@@ -54278,7 +54296,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -54300,7 +54318,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/5DuOB5sAi9wiFABXTYHOx1"

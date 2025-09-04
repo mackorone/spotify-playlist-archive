@@ -4009,6 +4009,36 @@
     },
     {
       "album": {
+        "name": "Franchement !",
+        "url": "https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD"
+      },
+      "artists": [
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        },
+        {
+          "name": "MC YOSHI",
+          "url": "https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        },
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
       },

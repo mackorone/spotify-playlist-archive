@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-592 songs - 1 day 5 hr 51 min
+593 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Problem No Dey Finish \- Remix](https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Problem No Dey Finish \(Remix\)](https://open.spotify.com/album/3A17vHBPRt2EKhQ7kA8vZd) | 2:01 | 2022-10-13 | 2022-11-04 |
 | [Prosper In Peace \(with Benny The Butcher\)](https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Prosper In Peace](https://open.spotify.com/album/6bZjEoMqtFYT8hXO3Fjr1m) | 3:32 | 2023-09-08 | 2023-09-19 |
 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 | 2022-09-16 | 2022-10-08 |
+| [PTSD 2 USDT](https://open.spotify.com/track/4iKu9Gpg6PBVIqyTPRbA2U) | [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [PTSD 2 USDT](https://open.spotify.com/album/2VQ2DECgvCMdJC0oQNmIHh) | 3:20 | 2025-08-29 |  |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:52 | 2022-07-27 | 2023-11-11 |
 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 | 2024-09-06 | 2024-11-16 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-26 | 2024-09-10 |
@@ -457,7 +458,7 @@
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-07-27 | 2023-02-17 |
 | [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 | 2024-10-25 |  |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-03 | 2023-10-02 |
-| [Refund \(Part 2\)](https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Refund \(Part 2\)](https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN) | 2:43 | 2025-03-07 |  |
+| [Refund \(Part 2\)](https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Refund \(Part 2\)](https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN) | 2:43 | 2025-03-07 | 2025-09-04 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2023-09-18 | 2023-10-02 |
 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 | 2022-07-27 | 2024-04-19 |
 | [Right Dere](https://open.spotify.com/track/43BFBqFmzGhifDFDnXrPmX) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Right Dere](https://open.spotify.com/album/1ocmMcLbV8RBtwVEijAgER) | 2:57 | 2023-01-20 | 2023-02-11 |

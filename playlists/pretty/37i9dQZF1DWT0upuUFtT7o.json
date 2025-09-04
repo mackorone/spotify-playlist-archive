@@ -1,28 +1,140 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Clyde Crooks",
-  "num_followers": 252117,
+  "num_followers": 252182,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmKqmZvEF4ic1Jx12JzJdqYmtvi",
+  "snapshot_id": "AAAAAJe45HOzSnsXyXkZaGHinuRrwmm1",
   "tracks": [
     {
-      "added_at": "2025-08-20 16:37:01",
+      "added_at": "2025-09-03 16:37:03",
       "album": {
-        "name": "Gilded",
-        "url": "https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6"
+        "name": "Lose It Again",
+        "url": "https://open.spotify.com/album/4xFVcQc8UCUCVzJvBMTPLf"
       },
       "artists": [
         {
-          "name": "Mr. Beale",
-          "url": "https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v"
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe"
+      "duration_ms": 210826,
+      "name": "Lose It Again",
+      "url": "https://open.spotify.com/track/7uQlIPk7eQuEgURhpOP7u3"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/3WE1NBG8v7glf6akszxVq5"
+      },
+      "artists": [
+        {
+          "name": "For Opal",
+          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/5631C1irkmhGmNPeyKp7av"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/0Zj65HZjA1TiFpMp2BO8ij"
+      },
+      "artists": [
+        {
+          "name": "My Wonderful Boyfriend",
+          "url": "https://open.spotify.com/artist/5IkIh9jpyGZL3JFMAbVykP"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/3uzkpsb3PqPz0KoVOV99no"
+    },
+    {
+      "added_at": "2025-08-27 16:41:54",
+      "album": {
+        "name": "(I Wanna) Be Your Girl",
+        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "(I Wanna) Be Your Girl",
+      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/6Qg6hFaTi53GDaItEzFmiX"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/12EKE5rs7lp3syReKJfr3e"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Final Girl",
+        "url": "https://open.spotify.com/album/4wNG80MlTqMItXH8IvtWnZ"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "duration_ms": 184109,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/0LS4IBpyRdO78nsUqwzYG3"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Racecar",
+        "url": "https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Patterson",
+          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
+        }
+      ],
+      "duration_ms": 337561,
+      "name": "Racecar",
+      "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Blue Black Crows",
+        "url": "https://open.spotify.com/album/10oTDg6xOkWFHH9zm8Baye"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 224061,
+      "name": "Blue Black Crows",
+      "url": "https://open.spotify.com/track/5tWkLdfJzQprUfmzsjqkf9"
     },
     {
       "added_at": "2025-08-27 04:00:24",
@@ -41,36 +153,52 @@
       "url": "https://open.spotify.com/track/2UaAx2e0UFIWE38YGdaNbS"
     },
     {
-      "added_at": "2025-08-13 17:19:18",
+      "added_at": "2025-09-03 16:37:03",
       "album": {
-        "name": "(888) bell cab",
-        "url": "https://open.spotify.com/album/6qQmOOp9Jidz2XUWu6N75d"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/5JOZgnD5mvt03P9GRaS36H"
       },
       "artists": [
         {
-          "name": "Clyde Crooks",
-          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+          "name": "She's In Parties",
+          "url": "https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY"
         }
       ],
-      "duration_ms": 212464,
-      "name": "(888) bell cab",
-      "url": "https://open.spotify.com/track/1QHmNFwb8hy7FRTmrLMH1a"
+      "duration_ms": 173136,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/3T48D9LzeS7XqiD888McVq"
     },
     {
-      "added_at": "2025-08-27 16:41:54",
+      "added_at": "2025-09-03 16:37:03",
       "album": {
-        "name": "(I Wanna) Be Your Girl",
-        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
+        "name": "bones",
+        "url": "https://open.spotify.com/album/6nw7UPazUokvF5M6g08kH8"
       },
       "artists": [
         {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+          "name": "Stephan Kreussel",
+          "url": "https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J"
         }
       ],
-      "duration_ms": 216266,
-      "name": "(I Wanna) Be Your Girl",
-      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
+      "duration_ms": 232980,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/3PINiNx7YoLY1M2LKGEpzo"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Blinking Aisles",
+        "url": "https://open.spotify.com/album/0LTAJsTdfjnpTarzA6QOp6"
+      },
+      "artists": [
+        {
+          "name": "Rozie Ramati",
+          "url": "https://open.spotify.com/artist/3GzbAOojSz4h2yUjljyg3H"
+        }
+      ],
+      "duration_ms": 174515,
+      "name": "Blinking Aisles",
+      "url": "https://open.spotify.com/track/3jMgdAgbJYMjmyowMRbsIx"
     },
     {
       "added_at": "2025-08-13 17:19:18",
@@ -91,6 +219,22 @@
     {
       "added_at": "2025-08-13 17:19:18",
       "album": {
+        "name": "(888) bell cab",
+        "url": "https://open.spotify.com/album/6qQmOOp9Jidz2XUWu6N75d"
+      },
+      "artists": [
+        {
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+        }
+      ],
+      "duration_ms": 212464,
+      "name": "(888) bell cab",
+      "url": "https://open.spotify.com/track/1QHmNFwb8hy7FRTmrLMH1a"
+    },
+    {
+      "added_at": "2025-08-13 17:19:18",
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
       },
@@ -103,6 +247,54 @@
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6cX0wcvYOyANX14cz9hm27"
+      },
+      "artists": [
+        {
+          "name": "Drive Thru",
+          "url": "https://open.spotify.com/artist/3LQ7g2ERCrpEw16q34HcF8"
+        }
+      ],
+      "duration_ms": 204334,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/70xEmD1pj1SzMDwGEsBIqj"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Everything Changes",
+        "url": "https://open.spotify.com/album/6qsk3qzaaWJ7uYVfXg9S9v"
+      },
+      "artists": [
+        {
+          "name": "Jazzie Young",
+          "url": "https://open.spotify.com/artist/6aGh6CzEE3wUrHIPkMLSPY"
+        }
+      ],
+      "duration_ms": 213096,
+      "name": "Speckled Yellow Eyes",
+      "url": "https://open.spotify.com/track/2vqwQVxLi4PFxFKZnpUMGa"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Mean Something",
+        "url": "https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr"
+      },
+      "artists": [
+        {
+          "name": "Filiah",
+          "url": "https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl"
+        }
+      ],
+      "duration_ms": 244648,
+      "name": "Mean Something",
+      "url": "https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo"
     },
     {
       "added_at": "2025-08-27 04:00:24",
@@ -119,6 +311,70 @@
       "duration_ms": 308706,
       "name": "Care",
       "url": "https://open.spotify.com/track/7lFHecj9aNhKzf1BZllm2x"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Terms",
+        "url": "https://open.spotify.com/album/4Z9LaNoy233CTD53e78voT"
+      },
+      "artists": [
+        {
+          "name": "Beverly Hell",
+          "url": "https://open.spotify.com/artist/7eiF8NIBIp0YUmPb47DgBo"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Terms",
+      "url": "https://open.spotify.com/track/7a1efYsKVpguIaoMeP4672"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "Back To Texas",
+        "url": "https://open.spotify.com/album/1NJhgKxTApGpoo1vUK8BJA"
+      },
+      "artists": [
+        {
+          "name": "Sesame Girl",
+          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
+        }
+      ],
+      "duration_ms": 224762,
+      "name": "Back To Texas",
+      "url": "https://open.spotify.com/track/0DQnd5ztyLJWc4TCZCDaC1"
+    },
+    {
+      "added_at": "2025-08-20 16:37:01",
+      "album": {
+        "name": "Gilded",
+        "url": "https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Beale",
+          "url": "https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe"
+    },
+    {
+      "added_at": "2025-09-03 16:37:03",
+      "album": {
+        "name": "January Mist",
+        "url": "https://open.spotify.com/album/3KIQr1aUoKqrfUOrkRUumB"
+      },
+      "artists": [
+        {
+          "name": "Joe Jenneman",
+          "url": "https://open.spotify.com/artist/3lK5Mcroy89Xs9S43NdZG2"
+        }
+      ],
+      "duration_ms": 156737,
+      "name": "January Mist",
+      "url": "https://open.spotify.com/track/7DDGGhVhaA7atTfuPVIeD5"
     },
     {
       "added_at": "2025-08-27 04:00:24",

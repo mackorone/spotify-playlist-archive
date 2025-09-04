@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 290629,
+  "num_followers": 290723,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rockin' With Robin",
         "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 160080,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The \"Chirping\" Crickets",
-        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly & The Crickets",
-          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
-        }
-      ],
-      "duration_ms": 142773,
-      "name": "Not Fade Away",
-      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 135773,
       "name": "Oh! Carol",
       "url": "https://open.spotify.com/track/1VI29k31nGdasgJ8BBpPu8"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The \"Chirping\" Crickets",
+        "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly & The Crickets",
+          "url": "https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Not Fade Away",
+      "url": "https://open.spotify.com/track/6sBPjgvLZzHHrpxbBDjmdE"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Something for Nothing / Little Fine Healthy Thing",
-        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 153627,
-      "name": "Little Fine Healthy Thing",
-      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
         "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 168280,
       "name": "Drinkin' Wine Spodee-O-Dee",
       "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Something for Nothing / Little Fine Healthy Thing",
+        "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 153627,
+      "name": "Little Fine Healthy Thing",
+      "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "My Bucket's Got a Hole in It / Sweet Misery",
-        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
-      },
-      "artists": [
-        {
-          "name": "Sonny Burgess",
-          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
-        }
-      ],
-      "duration_ms": 138520,
-      "name": "My Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "I Dig You Baby / Sweetie Pie",
         "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 124363,
       "name": "Sweetie Pie",
       "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "My Bucket's Got a Hole in It / Sweet Misery",
+        "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
+      },
+      "artists": [
+        {
+          "name": "Sonny Burgess",
+          "url": "https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT"
+        }
+      ],
+      "duration_ms": 138520,
+      "name": "My Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Very Best Of Little Richard",
         "url": "https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 128280,
       "name": "Long Tall Sally",
       "url": "https://open.spotify.com/track/1q7njNe2QfE0xbZMtTOT2m"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/6tmyqBnmU3ifbcDw5rZHfc"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 144600,
-      "name": "Roll Over Beethoven",
-      "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Essential Little Richard (Remastered)",
         "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 142400,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/49E8SDVZ7BUyNAZZYfZdRx"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
     },
     {
       "added_at": "2022-06-07 05:25:13",

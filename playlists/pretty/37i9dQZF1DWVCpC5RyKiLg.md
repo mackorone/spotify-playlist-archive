@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,902 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,908 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 51 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 52 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 | 53 | [Sogra \- Ao Vivo](https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Sogra \(Ao Vivo\)](https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH) | 2:57 |
-| 54 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
-| 55 | [Madri \- Ao Vivo](https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi) | 4:00 |
+| 54 | [Madri \- Ao Vivo](https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi) | 4:00 |
+| 55 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
 | 56 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 57 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 58 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 61 | [Deixa Tudo Como Tá \- Ao Vivo](https://open.spotify.com/track/0abrd2vT2W3JZBDNezUY7r) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 3:37 |
 | 62 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 63 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
-| 64 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
-| 65 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
+| 64 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
+| 65 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
 | 66 | [Liga Lá em Casa \- Ao Vivo](https://open.spotify.com/track/21C6n6ueBm5voamgdLQZ6V) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Leonardo 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/6RBBq7ymzDUHdPfokiHcKz) | 3:50 |
 | 67 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 68 | [Robô \- Spotify Singles](https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Robô \- Spotify Singles](https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi) | 3:49 |

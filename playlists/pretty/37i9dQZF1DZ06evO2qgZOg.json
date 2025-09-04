@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 307379,
+  "num_followers": 307459,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAA+n8dZIt7uZxl/sQQO0ByB",
+  "snapshot_id": "aLYzgAAAAADwzY7epqnxq3+rBxnujlft",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 244538,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 197480,
       "name": "Psycho In My Head",
       "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
     },
     {
       "added_at": null,

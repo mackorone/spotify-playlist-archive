@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,015 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,039 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 56 | [Primavera 0 \- Remasterizado 2007](https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:41 |
 | 57 | [Brujería](https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:00 |
 | 58 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
-| 59 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
-| 60 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 |
-| 61 | [Tuyo siempre \- En directo 2005](https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:02 |
-| 62 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
-| 63 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
+| 59 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 |
+| 60 | [Tuyo siempre \- En directo 2005](https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 3:02 |
+| 61 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 |
+| 62 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
+| 63 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 64 | [No Me Vuelvo A Enamorar](https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Con La Cumbia En La Sangre](https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp) | 2:51 |
 | 65 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
 | 66 | [Influencia](https://open.spotify.com/track/7B8W8kfQwcVubGo2EGosID) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Influencia](https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu) | 5:30 |
-| 67 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
-| 68 | [La Marca de la Gorra](https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:40 |
+| 67 | [La Marca de la Gorra](https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1) | 3:40 |
+| 68 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 |
 | 69 | [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 |
 | 70 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
 | 71 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 91 | [Tu Nombre \- Live](https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds) | 3:20 |
 | 92 | [Asesíname](https://open.spotify.com/track/2NtS0rZ8MdnsJbLNRME6pg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Rock And Roll Yo](https://open.spotify.com/album/3qPPzWHpuvFT0xHMyDrvS4) | 3:43 |
 | 93 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
-| 94 | [Naty Bum Bum](https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [De Culo](https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2) | 2:10 |
-| 95 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
+| 94 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
+| 95 | [Naty Bum Bum](https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [De Culo](https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2) | 2:10 |
 | 96 | [Tesoro](https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Cuarto Creciente](https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8) | 4:50 |
 | 97 | [Eso Vive](https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:01 |
 | 98 | [Volver a Mí](https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 3:01 |

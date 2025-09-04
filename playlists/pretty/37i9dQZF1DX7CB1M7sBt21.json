@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 132380,
+  "num_followers": 132388,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2024-08-29 22:00:00",

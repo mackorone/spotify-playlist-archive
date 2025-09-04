@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,429 likes - 169 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,588 likes - 169 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 168 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 |
 | 169 | [Sun Bells](https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Sun Bells](https://open.spotify.com/album/0euFYTO4xkTMu8vKzTDBgf) | 3:24 |
 
-Snapshot ID: `AAAAALg1IgtMRspfexFyMDGVnSWCS2vJ`
+Snapshot ID: `AAAAAGIRv6rL53KoRrHenefJEk1E8tdA`

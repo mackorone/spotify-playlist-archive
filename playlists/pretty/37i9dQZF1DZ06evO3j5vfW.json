@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72315,
+  "num_followers": 72312,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABJ+t/sg81eF0ypw6sNIeX8",
+  "snapshot_id": "aLYzgAAAAACAPkiqB8CwT6e3h6bm5/lq",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move It (Rapidin)",
-        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Move It (Rapidin)",
-      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
@@ -215,6 +191,30 @@
       "duration_ms": 167194,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move It (Rapidin)",
+        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Move It (Rapidin)",
+      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be There",
-        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Emiel Monte",
-          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry On (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 175312,
       "name": "Carry On - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be There",
+        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Emiel Monte",
+          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
       "added_at": null,
@@ -975,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
       "added_at": null,
@@ -1091,30 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
-        }
-      ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": null,

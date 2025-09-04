@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
-  "num_followers": 132619,
+  "num_followers": 132679,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Kan 'N Man",
+        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "duration_ms": 169164,
+      "name": "Kan 'N Man",
+      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Die Afrikaner Maak So",
         "url": "https://open.spotify.com/album/7iIDK5smB90lIAw0mEpOSS"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 179867,
       "name": "Die Afrikaner Maak So",
       "url": "https://open.spotify.com/track/64tRSmtHGKaCuoO1BljWKk"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Kan 'N Man",
-        "url": "https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV"
-      },
-      "artists": [
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        }
-      ],
-      "duration_ms": 169164,
-      "name": "Kan 'N Man",
-      "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Stof Skop",
-        "url": "https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx"
+        "name": "Ouens Soos Ek",
+        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
       },
       "artists": [
         {
-          "name": "Jan-Mattys",
-          "url": "https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8"
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
         }
       ],
-      "duration_ms": 195937,
-      "name": "Stof Skop",
-      "url": "https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx"
+      "duration_ms": 163035,
+      "name": "Ouens Soos Ek",
+      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
     }
   ],
   "unique_name": "Afrikaanse Hits",

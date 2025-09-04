@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39700,
+  "num_followers": 39705,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAA9ZLBYH6CMb8gJP7n8wV9n",
+  "snapshot_id": "aLYzgAAAAAC8xzNhlEwA4d4ql37haIqY",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartlands / Thorns",
-        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 382889,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartlands / Thorns",
+        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 382889,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 202213,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,

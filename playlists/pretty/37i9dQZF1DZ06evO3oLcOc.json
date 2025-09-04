@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227579,
+  "num_followers": 227595,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACD8f6Yjh+74i76jtQahhIC",
+  "snapshot_id": "aLYzgAAAAAAWT5XK5i14U50EgvY1NbEn",
   "tracks": [
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desce Pro Play (PA PA PA)",
-        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "Desce Pro Play (PA PA PA)",
-      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
         "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
       },
@@ -571,22 +547,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+        "name": "Desce Pro Play (PA PA PA)",
+        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 211413,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
+      "duration_ms": 168507,
+      "name": "Desce Pro Play (PA PA PA)",
+      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 172361,
       "name": "Fantastic",
       "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FinallyFed",
-        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
-      },
-      "artists": [
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "AT THA PARTY",
-      "url": "https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 244855,
       "name": "soak city (feat. OhGeesy & BlueBucksClan)",
       "url": "https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FinallyFed",
+        "url": "https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "AT THA PARTY",
+      "url": "https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0"
     },
     {
       "added_at": null,

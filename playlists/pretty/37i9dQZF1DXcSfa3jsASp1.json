@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 47705,
+  "num_followers": 47714,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Blurryface",
         "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
@@ -171,34 +155,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -219,18 +187,34 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -251,18 +235,34 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 230253,
-      "name": "BURN IT DOWN",
-      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+      "duration_ms": 230253,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/7oVEtyuv9NBmnytsCIsY5I"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/0YkHsU3Mblh7jvNngbV20W"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 179160,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Uma Thurman",
+      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 239215,
       "name": "Princess of China",
       "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Uma Thurman",
-      "url": "https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Habits (Spotify)",
         "url": "https://open.spotify.com/album/6oZ5iDw1LT25svEK0g5OqT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212306,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0l4DTppOxy7NUaEcwXuOb6"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Gold on the Ceiling",
-      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "ATTENTION ATTENTION",
         "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
     },
     {
       "added_at": "2024-07-12 15:00:09",

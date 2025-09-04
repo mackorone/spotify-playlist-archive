@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Avolia, Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,529 likes - 108 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,544 likes - 108 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

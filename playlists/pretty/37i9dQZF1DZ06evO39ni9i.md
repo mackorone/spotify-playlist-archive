@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,577 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,580 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 33 | [It Takes All Kinds](https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:57 |
 | 34 | [Mother Beautiful](https://open.spotify.com/track/4AXLP8xCcEZkXbD0WmgVSq) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 1:59 |
 | 35 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 |
-| 36 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
-| 37 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
+| 36 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 |
+| 37 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
 | 38 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
 | 39 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
 | 40 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 49 | [Medley: Higher/Music Lover \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 7:50 |
 | 50 | [Are You Ready](https://open.spotify.com/track/2vG9xnkx7v0780lL9zWRZa) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:49 |
 
-Snapshot ID: `aLTiAAAAAAB+G3k9O+aqPOKJQF7HXKG9`
+Snapshot ID: `aLYzgAAAAADSGGSI4zFb/tXaWH200j2B`

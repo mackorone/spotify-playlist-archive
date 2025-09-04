@@ -4,7 +4,7 @@
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 10 min
+76 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 | 2023-11-10 |  |
 | [Bet You Wanna \(Feat\. Cardi B\)](https://open.spotify.com/track/3AgMOlgdrG9RJXDWifcjVd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 2:39 | 2023-11-10 | 2024-01-11 |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2024-01-10 |  |
-| [Bitter \- Narration By Cardi B](https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 4:41 | 2023-11-10 |  |
+| [Bitter \- Narration By Cardi B](https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 4:41 | 2023-11-10 | 2025-09-04 |
 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 | 2023-11-10 |  |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-11-10 |  |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2023-11-10 |  |
@@ -23,6 +23,7 @@
 | [Dinero](https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Dinero](https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S) | 3:33 | 2023-11-10 |  |
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-16 | 2024-04-14 |
 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 | 2024-04-14 |  |
+| [Finesse \- Pink Panda Remix; feat\. Cardi B](https://open.spotify.com/track/5LgFeUn0Jx8UVkPlrMbTOc) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/5AVEtKtguEa8sqYhSj3zFW) | 2:28 | 2025-09-04 |  |
 | [Finesse \- Remix; feat\. Cardi B](https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Finesse \(Remix\) \[feat\. Cardi B\]](https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p) | 3:37 | 2023-11-10 |  |
 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 | 2023-11-10 | 2024-07-24 |
 | [Get Up 10](https://open.spotify.com/track/7p2ewixAShLpjDZrnzZK7c) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:51 | 2024-05-13 | 2024-07-23 |

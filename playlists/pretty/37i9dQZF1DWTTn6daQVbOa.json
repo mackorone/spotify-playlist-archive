@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 948573,
+  "num_followers": 949125,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "George Martin",
+          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Rock with You - Single Version",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
+      "duration_ms": 252239,
+      "name": "A Horse with No Name",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -139,22 +143,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "America",
-        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        },
-        {
-          "name": "George Martin",
-          "url": "https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 252239,
-      "name": "A Horse with No Name",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+      "duration_ms": 220626,
+      "name": "Rock with You - Single Version",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "On the Waters",
-        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Make It with You",
-      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 185360,
       "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "On the Waters",
+        "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Make It with You",
+      "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Manna",
+        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "If",
+      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Manna",
-        "url": "https://open.spotify.com/album/1X5oLLoyljROH4eCIae1PO"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "If",
-      "url": "https://open.spotify.com/track/40W8Mm9t3ZO1iNQlls35lL"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Warmer",
-        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
-      },
-      "artists": [
-        {
-          "name": "Randy VanWarmer",
-          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Just When I Needed You Most",
-      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 222951,
       "name": "Cat's in the Cradle",
       "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Warmer",
+        "url": "https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM"
+      },
+      "artists": [
+        {
+          "name": "Randy VanWarmer",
+          "url": "https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Just When I Needed You Most",
+      "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "I Have A Dream",
-      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Turnstiles",
         "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 362400,
       "name": "New York State of Mind",
       "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "I Have A Dream",
+      "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Closeup",
-        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "My Eyes Adored You",
-      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Carpenters",
         "url": "https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 218893,
       "name": "Rainy Days And Mondays",
       "url": "https://open.spotify.com/track/5cbZDpFu1hTwaU7hDQpf13"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Closeup",
+        "url": "https://open.spotify.com/album/3joWv9r8FR0dudduAgEDbX"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "My Eyes Adored You",
+      "url": "https://open.spotify.com/track/2yDQVcj26tpi9IUJhw9xDs"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "The Name Of The Game",
-      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 181893,
       "name": "On And On",
       "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "In Full Bloom",
         "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 311893,
-      "name": "Sunshine On My Shoulders",
-      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1595,22 +1611,6 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Touch Me In The Morning",
-        "url": "https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Touch Me In The Morning",
-      "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Gather Me",
         "url": "https://open.spotify.com/album/5THcElsOkPsIopiOQj18An"
       },
@@ -2139,18 +2123,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Get Closer",
-        "url": "https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM"
+        "name": "Touch Me In The Morning",
+        "url": "https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7"
       },
       "artists": [
         {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Get Closer",
-      "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
+      "duration_ms": 207413,
+      "name": "Touch Me In The Morning",
+      "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2167,6 +2151,22 @@
       "duration_ms": 243933,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0qp2BkreL7bxaFdc25VihQ"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Get Closer",
+        "url": "https://open.spotify.com/album/2qAVfqCoOj2OStHvKrEPqM"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Get Closer",
+      "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Sealed With A Kiss",
-        "url": "https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Sealed with a Kiss",
-      "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "American Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/3cKcMgO1UmhVk3ZfPIJhi0"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 239866,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/3VAIny0fsmbiZCwt3817Ay"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Sealed With A Kiss",
+        "url": "https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Sealed with a Kiss",
+      "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
     },
     {
       "added_at": "2022-09-23 05:26:33",

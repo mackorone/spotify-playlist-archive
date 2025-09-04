@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: SIRUP \*👉 <a href="https://spice.eplus.jp/articles/340284">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: SIRUP \*👉 <a href="https://spice.eplus.jp/articles/340515">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,281 likes - 84 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,284 likes - 84 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [やってらんないよ](https://open.spotify.com/track/4bs8aCM69nEDpBOdZx3aFC) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [やってらんないよ](https://open.spotify.com/album/600xOC4pHlod1nw6ZWaCS6) | 3:01 |
 | 84 | [Heartache Homework](https://open.spotify.com/track/1CLQqlWwBRVW1XjvkD162Y) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [THIS IS MisiiN](https://open.spotify.com/album/5MTDOIxQkLNoHewpdUM6DZ) | 4:39 |
 
-Snapshot ID: `AAAAABRq3D11g/fF4jo4qBXw2n7r73Pt`
+Snapshot ID: `AAAAAD8ncRZCFIb8QMaYj38D8BluaR/r`

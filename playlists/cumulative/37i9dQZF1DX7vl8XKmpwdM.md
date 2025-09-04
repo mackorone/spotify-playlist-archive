@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Coolie
 
-230 songs - 13 hr 33 min
+231 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Yogi Sekar](https://open.spotify.com/artist/4n32jWbOVtfNDsOJAGQJcs) | [Namma Satham \(From "Pathu Thala"\)](https://open.spotify.com/album/4LgQVd0XGV8AKiszUTsBSa) | 3:35 | 2023-02-03 | 2025-01-10 |
 | [O Maara](https://open.spotify.com/track/3sG4RswV6U2zpFppUGv2b8) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 3:00 | 2025-06-03 |  |
 | [Og Sambavam \(From "Good Bad Ugly"\)](https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adhik Ravi Chandran](https://open.spotify.com/artist/4Mc4AjHZb70VJsiV3BhWCu), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Og Sambavam \(From "Good Bad Ugly"\)](https://open.spotify.com/album/5uJEIc691EJ7R5vrbUJ7qs) | 3:18 | 2025-03-18 |  |
+| [Oorum Blood \- From "Dude"](https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Oorum Blood \(From "Dude"\)](https://open.spotify.com/album/1FwT2MEKJvRlswZcB8mQTE) | 4:00 | 2025-09-03 |  |
 | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Osarattum Pathu Thala \(From "Pathu Thala"\)](https://open.spotify.com/album/2iJ80LZlLGk7G8Fkc8gcW8) | 4:50 | 2023-03-28 | 2025-01-10 |
 | [Oyyaram](https://open.spotify.com/track/6d0RU3NuKqXb4dv7lRfc1G) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M), [Meenakshi Santhosh](https://open.spotify.com/artist/694qJeY9ibnSYLnhPp1boa), [Aditya Ravindran](https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa) | [Jigarthanda DoubleX \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS) | 3:44 | 2023-11-06 | 2024-03-13 |
 | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Mathichiyam Bala](https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG) | [Pacha Elai \(From "Love Today"\)](https://open.spotify.com/album/5b57LEW0l5UPYSzgIyAnTT) | 3:30 | 2022-10-18 | 2025-01-10 |

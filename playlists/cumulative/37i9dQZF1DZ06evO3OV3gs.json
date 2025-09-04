@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
+      "url": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
+    },
+    {
+      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 249800,
       "name": "Into the Groove - Edit",
       "url": "https://open.spotify.com/track/5CxiVaZ6VzP8XVJ8vcBY40"

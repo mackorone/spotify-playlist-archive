@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-457 songs - 1 day 3 hr 33 min
+458 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains, Vol\. 1](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2024-06-25 |
 | [Flora](https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Flora](https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC) | 6:02 | 2025-05-14 |  |
+| [Flurry](https://open.spotify.com/track/6rNhG4YREPMyD3gQMx9G6O) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Flurry](https://open.spotify.com/album/3tSC8QPwJUIQgqCm1xJnkK) | 21:08 | 2025-07-17 |  |
 | [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2024-02-29 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2024-09-05 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6) | 6:42 | 2021-10-16 | 2024-04-19 |
@@ -453,7 +454,7 @@
 | [when the leaves come falling down](https://open.spotify.com/track/0h8K825a2eDfiKBc2E60RB) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/0ujB62hPrIpRUbFdm9Ok8u) | 2:01 | 2021-10-16 | 2024-04-19 |
 | [when the leaves come falling down](https://open.spotify.com/track/1wtrm5eTeRfEXyJNF4Low1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/1vRcYipEq8fJeeHGldHiFa) | 2:01 | 2021-10-16 | 2024-09-05 |
 | [When You Wish \(Cuando Sueñas\) \- Piano](https://open.spotify.com/track/49A3qwVyoYJ8poNAcXv7d6) | [Sueñito](https://open.spotify.com/artist/3ScsUDOUKuTIV8rbrYWVzK) | [When You Wish \(Cuando Sueñas\) \[Piano\]](https://open.spotify.com/album/5lqIIW91kAc40scIEJbz6u) | 3:29 | 2023-02-27 | 2025-05-15 |
-| [While We Wait](https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Family](https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC) | 2:06 | 2021-10-16 |  |
+| [While We Wait](https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu) | [Family](https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC) | 2:06 | 2021-10-16 | 2025-09-04 |
 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 | 2021-10-16 | 2025-07-04 |
 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 | 2021-10-16 | 2025-05-15 |
 | [Wirikuta Wild](https://open.spotify.com/track/1qhKS3ndv82pUhaqs1nxGE) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 7:36 | 2024-04-15 | 2024-10-28 |

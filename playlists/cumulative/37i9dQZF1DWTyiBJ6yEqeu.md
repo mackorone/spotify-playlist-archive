@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-940 songs - 1 day 22 hr 20 min
+941 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-31 |  |
 | [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-16 | 2024-02-24 |
 | [a lot](https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 4:48 | 2021-08-20 | 2022-09-04 |
+| [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day \(feat\. Celine Dion\)](https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0) | 3:27 | 2025-08-12 |  |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-21 |  |
 | [ACIDO](https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [ACIDO](https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee) | 1:15 | 2025-01-17 | 2025-02-22 |
 | [Addicted](https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Addicted](https://open.spotify.com/album/6kPHUS5ggDe6jq0KmFhwjy) | 2:42 | 2021-08-20 | 2022-07-27 |
@@ -243,7 +244,7 @@
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-14 | 2024-04-19 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-08-20 |  |
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2022-03-11 | 2022-07-01 |
-| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 |  |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2025-09-04 |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2021-11-10 | 2022-08-11 |
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2021-08-20 | 2022-01-09 |
 | [Everything Goes On](https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW) | 3:22 | 2022-07-15 | 2022-08-22 |

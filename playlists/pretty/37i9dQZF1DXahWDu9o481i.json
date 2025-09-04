@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Laufey",
-  "num_followers": 37360,
+  "num_followers": 37371,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3EuAqKZa/hTNjw0r6oVZqN0p8D",
+  "snapshot_id": "AAAAAE551cXClfnYmvOELuF+VVcbQHvB",
   "tracks": [
     {
       "added_at": "2025-08-29 18:25:24",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 268410,
-      "name": "Yamaha",
-      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 202161,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Essex Honey",
         "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 262333,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 192649,
+      "name": "Love You Down",
+      "url": "https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 192649,
-      "name": "Love You Down",
-      "url": "https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Like It Like That",
         "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 167527,
       "name": "Like It Like That",
       "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "Lonely At The Top",
         "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 200351,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -623,6 +607,38 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
+    {
+      "added_at": "2025-09-03 16:50:41",
+      "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 194700,
+      "name": "I Love Lucy",
+      "url": "https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -727,22 +743,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "Doing It Too",
-        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206003,
-      "name": "Doing It Too",
-      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "wHIMSY",
         "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "Doing It Too",
+        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -831,34 +847,6 @@
     {
       "added_at": "2025-08-29 18:25:24",
       "album": {
-        "name": "RHODA",
-        "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
-      },
-      "artists": [
-        {
-          "name": "Kal Banx",
-          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-        },
-        {
-          "name": "Outlaw Mel",
-          "url": "https://open.spotify.com/artist/6M8onNkzufIR7YlRAd8mmx"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "400",
-      "url": "https://open.spotify.com/track/5shWaE48zh8ZnXzJMMIkuu"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
         "name": "rodeo",
         "url": "https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e"
       },
@@ -895,6 +883,34 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+    },
+    {
+      "added_at": "2025-08-29 18:25:24",
+      "album": {
+        "name": "RHODA",
+        "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
+      },
+      "artists": [
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Outlaw Mel",
+          "url": "https://open.spotify.com/artist/6M8onNkzufIR7YlRAd8mmx"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "400",
+      "url": "https://open.spotify.com/track/5shWaE48zh8ZnXzJMMIkuu"
     },
     {
       "added_at": "2025-08-29 18:25:24",
@@ -947,34 +963,6 @@
       "duration_ms": 177320,
       "name": "Pour for the Hour",
       "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
-    },
-    {
-      "added_at": "2025-08-29 18:25:24",
-      "album": {
-        "name": "JUKE JOINT",
-        "url": "https://open.spotify.com/album/5n5XO4IkqQNK19PK4lnRRt"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        },
-        {
-          "name": "Jermaine Holmes",
-          "url": "https://open.spotify.com/artist/0lUnNiG3pNrR90jbnBuLhT"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "DJ Harrison",
-          "url": "https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK"
-        }
-      ],
-      "duration_ms": 199362,
-      "name": "JUKE JOINT",
-      "url": "https://open.spotify.com/track/08aUQKAxUArSG5lINFiRg9"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of August",

@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 56692,
+  "num_followers": 56724,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Johnny The Fox",
+        "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 137866,
+      "name": "Don't Believe A Word",
+      "url": "https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "Johnny The Fox",
-        "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 137866,
-      "name": "Don't Believe A Word",
-      "url": "https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX"
     },
     {
       "added_at": "2022-03-17 10:54:32",

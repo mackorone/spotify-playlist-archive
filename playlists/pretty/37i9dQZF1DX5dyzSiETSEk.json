@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 584192,
+  "num_followers": 584099,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 205933,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2025-07-02 03:49:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-02 03:49:02",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
-    },
-    {
-      "added_at": "2025-07-02 03:49:02",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 257840,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
+    },
+    {
+      "added_at": "2025-07-02 03:49:02",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
     },
     {
       "added_at": "2025-07-02 03:49:02",

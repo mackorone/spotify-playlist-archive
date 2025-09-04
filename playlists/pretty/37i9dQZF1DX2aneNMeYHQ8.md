@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: My Morning Jacket
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,487 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,449 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 42 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 |
 | 43 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 44 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
-| 45 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
-| 46 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
+| 45 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 |
+| 46 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 |
 | 47 | [The Way](https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [The Way](https://open.spotify.com/album/3js2aCcAc96FwVGfTLoL8i) | 3:54 |
 | 48 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 49 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 92 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 |
 | 93 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
 | 94 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
-| 95 | [Hello](https://open.spotify.com/track/7IH898LJRwuh0m2x29N0fm) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:23 |
-| 96 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
+| 95 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
+| 96 | [Hello](https://open.spotify.com/track/7IH898LJRwuh0m2x29N0fm) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:23 |
 | 97 | [Get a Life](https://open.spotify.com/track/7LNzbEkV0NufVJ7yBjTLnG) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Get a Life](https://open.spotify.com/album/688WucYXpm6rlKMjYVMshu) | 3:29 |
 | 98 | [Giving Up](https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Giving Up](https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf) | 3:14 |
 | 99 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |

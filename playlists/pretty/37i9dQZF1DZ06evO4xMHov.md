@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,134 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,136 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 36 | [Te Damos Glória \- Ao Vivo](https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Te Damos Glória \(Ao Vivo\)](https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2) | 6:28 |
 | 37 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 |
 | 38 | [Em Tua Presença \- Ao Vivo](https://open.spotify.com/track/2xpotltTAOvJbWJgJKCUoI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 13:10 |
-| 39 | [Maravilhado](https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3) | [Gateway Worship Português](https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Gloria A Deus](https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx) | 6:19 |
-| 40 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
+| 39 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
+| 40 | [Maravilhado](https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3) | [Gateway Worship Português](https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Gloria A Deus](https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx) | 6:19 |
 | 41 | [Me Esvaziar](https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nívea Soares 10 Anos \(Ao Vivo\)](https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA) | 6:57 |
 | 42 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
-| 43 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
+| 43 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
 | 44 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
-| 45 | [Não Mais Escravos](https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Não Mais Escravos](https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB) | 6:47 |
+| 45 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
 | 46 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 |
 | 47 | [Rio \- Ao Vivo](https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio \(Ao Vivo\)](https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc) | 8:31 |
 | 48 | [Amigo Incomparável \- Ao vivo](https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Amigo Incomparável \(Ao Vivo\)](https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY) | 6:33 |
 | 49 | [Os Que Esperam \- Ao Vivo](https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 4:25 |
 | 50 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
 
-Snapshot ID: `aLTiAAAAAAD74Kgabvj7dGEJlJZWWMOk`
+Snapshot ID: `aLYzgAAAAADJO919YzCMdBLqYvU/3chS`

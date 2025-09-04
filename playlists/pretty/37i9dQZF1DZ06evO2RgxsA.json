@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92209,
+  "num_followers": 92217,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAATecztHgrdRc/tI84Ycbp8",
+  "snapshot_id": "aLYzgAAAAACyXmXiVJKbChvynPy1QH5D",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 150288,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punk In Drublic",
         "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
       },
       "artists": [
         {
@@ -404,9 +388,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Philthy Phil Philanthropist",
-      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coaster",
-        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 111960,
-      "name": "The Quitter",
-      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
+      "duration_ms": 111960,
+      "name": "The Quitter",
+      "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Petting Zoo",
-        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 48933,
-      "name": "Hobophobic (Scared of Bums)",
-      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
         "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 164226,
       "name": "We Threw Gasoline.......",
       "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest Line",
-        "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 124026,
-      "name": "The Longest Line",
-      "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
     },
     {
       "added_at": null,

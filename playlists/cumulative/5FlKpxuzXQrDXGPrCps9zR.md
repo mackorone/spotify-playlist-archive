@@ -4,7 +4,7 @@
 
 > 
 
-44 songs - 2 hr 9 min
+45 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [How Can I Dance](https://open.spotify.com/track/7rFFmLqmB2lg2VShN6b3Bc) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:26 | 2025-08-29 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-06-05 |  |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-10 |  |
+| [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 | 2025-09-03 |  |
 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 | 2025-08-02 |  |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-06-25 |  |
 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 | 2025-08-10 |  |

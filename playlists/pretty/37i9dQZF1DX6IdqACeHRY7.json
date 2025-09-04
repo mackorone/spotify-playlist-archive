@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156884,
+  "num_followers": 156880,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
+        "name": "Make A Baby (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/5hyF0NmMQ8GnVsndZjkYID"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Make A Baby (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
         "name": "Lonely (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
       },
@@ -799,22 +819,18 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Make A Baby (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/5hyF0NmMQ8GnVsndZjkYID"
+        "name": "When You Love Someone (Acoustic)",
+        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
       "artists": [
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 177064,
-      "name": "Make A Baby (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7DrMUeCJ5lgfcxhBdb4mV1"
+      "duration_ms": 210106,
+      "name": "When You Love Someone - Acoustic",
+      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -831,22 +847,6 @@
       "duration_ms": 217183,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
-        "name": "When You Love Someone (Acoustic)",
-        "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "When You Love Someone - Acoustic",
-      "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
+        "name": "Dancing With A Stranger (With Normani) [Acoustic]",
+        "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 187621,
+      "name": "Dancing With A Stranger (With Normani) - Acoustic",
+      "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
-        "name": "Dancing With A Stranger (With Normani) [Acoustic]",
-        "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 187621,
-      "name": "Dancing With A Stranger (With Normani) - Acoustic",
-      "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Gav Det Et Skud",
         "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 176489,
       "name": "Gav Det Et Skud",
       "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Yellow Bike",
         "url": "https://open.spotify.com/album/38EDJaK2TBgsUYoPlBMnba"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 200232,
       "name": "Yellow Bike",
       "url": "https://open.spotify.com/track/4JuRknM4Htm4rqcDRQdh98"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "[\u03b2]",
-        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 253011,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "[\u03b2]",
+        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 253011,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1363,38 +1363,18 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+        "name": "dead to me",
+        "url": "https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN"
       },
       "artists": [
         {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
-        "name": "Be Kind (with Halsey) [Stripped]",
-        "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 173682,
-      "name": "Be Kind (with Halsey) [Stripped]",
-      "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
+      "duration_ms": 164299,
+      "name": "dead to me",
+      "url": "https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1415,6 +1395,22 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
         "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
         "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
       },
@@ -1431,6 +1427,26 @@
       "duration_ms": 195194,
       "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
       "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Be Kind (with Halsey) [Stripped]",
+        "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 173682,
+      "name": "Be Kind (with Halsey) [Stripped]",
+      "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1483,6 +1499,22 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -1499,22 +1531,6 @@
       "duration_ms": 185769,
       "name": "Lifetimes Away (feat. Medina)",
       "url": "https://open.spotify.com/track/6Zf2SH9afl9PguEbAbDWh0"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "dead to me",
-        "url": "https://open.spotify.com/album/0N6PhfAFdjw0BV2qTt7tdN"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 164299,
-      "name": "dead to me",
-      "url": "https://open.spotify.com/track/2LCZb9kZzIGbhg8sRYXrlS"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/1OdvrifjMehOnaJO6FgB5g"
       },
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
+        "name": "Make Me (Cry) [Acoustic]",
+        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
       },
       "artists": [
         {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+          "name": "Boreal",
+          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
         }
       ],
-      "duration_ms": 207560,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
+      "duration_ms": 181821,
+      "name": "Make Me (Cry) - Acoustic",
+      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Make Me (Cry) [Acoustic]",
-        "url": "https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0"
-      },
-      "artists": [
-        {
-          "name": "Boreal",
-          "url": "https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI"
-        }
-      ],
-      "duration_ms": 181821,
-      "name": "Make Me (Cry) - Acoustic",
-      "url": "https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 200373,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm"
     },
     {
       "added_at": "2025-08-29 08:01:40",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-08-29 08:01:40",
       "album": {
-        "name": "Mads Langer",
-        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Fact - Fiction",
-      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
-    },
-    {
-      "added_at": "2025-08-29 08:01:40",
-      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/60A6xYVqBypnHNwdQnjlrx"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 144720,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/75MKHk9JSlu8MOixmQ982v"
+    },
+    {
+      "added_at": "2025-08-29 08:01:40",
+      "album": {
+        "name": "Mads Langer",
+        "url": "https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Fact - Fiction",
+      "url": "https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns"
     }
   ],
   "unique_name": "ren hygge",

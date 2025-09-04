@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,500 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 43 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 |
 | 44 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 45 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 |
-| 46 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 46 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 47 | [un x100to](https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:14 |
 | 48 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 |
 | 49 | [Gracias](https://open.spotify.com/track/3Hm0cLZmR9CIAt7IYpkJBT) | [Sangre Cumbiera](https://open.spotify.com/artist/01LbKSyRULsGSMNafaCCkD) | [Gracias](https://open.spotify.com/album/7CEVhTtvEIpsvrqPOOdQIX) | 2:45 |
 | 50 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 
-Snapshot ID: `MEpdoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MEuvIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

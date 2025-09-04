@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3322636,
+  "num_followers": 3322656,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 246587,
-      "name": "jar of hearts",
-      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Love Is Gone (Acoustic)",
         "url": "https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 176971,
       "name": "Love Is Gone - Acoustic",
       "url": "https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 246587,
+      "name": "jar of hearts",
+      "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
-      },
-      "artists": [
-        {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        },
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 251033,
-      "name": "i hate u, i love u (feat. olivia o'brien)",
-      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "us",
+        "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
+      },
+      "artists": [
+        {
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        },
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 251033,
+      "name": "i hate u, i love u (feat. olivia o'brien)",
+      "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "If By Chance",
-      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 187591,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "If By Chance",
+      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 180640,
       "name": "I Can't Fall in Love Without You",
       "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "blame's on me",
-        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 138374,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 261213,
       "name": "arms",
       "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 138374,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "I Miss You (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 205747,
       "name": "I Miss You (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Let Me Down Slowly",
+        "url": "https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Eternal Love",
         "url": "https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 191307,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3ioJ2eGWcONEvna37MpsiE"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Let Me Down Slowly",
-        "url": "https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Beneath Your Beautiful",
         "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd"
     },
     {
       "added_at": "2025-08-08 04:00:42",

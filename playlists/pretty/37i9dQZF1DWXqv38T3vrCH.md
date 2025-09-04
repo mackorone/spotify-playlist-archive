@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,439 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,411 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 19 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 |
 | 20 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
 | 21 | [Afterlife](https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:52 |
-| 22 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 7:18 |
-| 23 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
+| 22 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
+| 23 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 7:18 |
 | 24 | [I'm Not A Vampire](https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:51 |
 | 25 | [Dead!](https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:15 |
 | 26 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 50 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 |
 | 51 | [Wolves of Winter](https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 4:08 |
 | 52 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
-| 53 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
-| 54 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
+| 53 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
+| 54 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 |
 | 55 | [Undead Ahead 2: The Tale of the Midnight Ride](https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 4:33 |
 | 56 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 |
 | 57 | [Whiskey Fever](https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:37 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 64 | [Burn The Witch](https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8) | 3:35 |
 | 65 | [Creature](https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Don't Wait 'Til Tomorrow](https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf) | 3:05 |
 | 66 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
-| 67 | [Maxine \(Witch Queen\)](https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 3:18 |
-| 68 | [Bartzabel](https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv) | 5:01 |
+| 67 | [Bartzabel](https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv) | 5:01 |
+| 68 | [Maxine \(Witch Queen\)](https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 3:18 |
 | 69 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
 | 70 | [Monster](https://open.spotify.com/track/4gEmS1pwdSjAEmrHdar9je) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:56 |
 | 71 | [A Shrine to Madness](https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Ritual](https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK) | 4:40 |

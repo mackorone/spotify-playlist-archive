@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-393 songs - 23 hr 32 min
+394 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [LABOUR \(Telugu\)](https://open.spotify.com/track/5a80e41LbpBreejyJlQTkY) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ananya Sritam Nanda](https://open.spotify.com/artist/5LEB7FszyBm9WvEwtbJeKS) | [LABOUR \(Telugu\)](https://open.spotify.com/album/07K6LgY8VG8guTJzrSwOkB) | 5:11 | 2024-11-20 | 2025-02-11 |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 | 2023-08-26 |
 | [Laya](https://open.spotify.com/track/74x8AK6doFpc9hXiPolBay) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Laya](https://open.spotify.com/album/5upnKToHtUzOuHz9BrbhIK) | 2:35 | 2023-02-03 | 2023-05-27 |
+| [Local Ra Bhai](https://open.spotify.com/track/1IZFt9ykS2FV9HLbzu4xoq) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT) | [Local Ra Bhai](https://open.spotify.com/album/2zofdePkx9U6syXxSCKHVp) | 3:31 | 2025-09-03 |  |
 | [Lokulu Kakulu](https://open.spotify.com/track/6ROzWTFZMRjzFwQrf19bmA) | [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [Lokulu Kakulu](https://open.spotify.com/album/05yU1IGH4XqBzwNSFgdep8) | 2:14 | 2025-02-10 | 2025-04-18 |
 | [Lollipop](https://open.spotify.com/track/5ZtrYdXOsYCRLXuGKR7nt6) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Lollipop](https://open.spotify.com/album/40SOtgPjx3Ic3fI6wig7Qs) | 5:29 | 2022-07-18 | 2023-05-23 |
 | [London Bridge](https://open.spotify.com/track/1BI8mlQUJIEivinIuLKPkt) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX) | [London Bridge](https://open.spotify.com/album/5XOL1zvVGNrsQsIPmtZWUL) | 2:05 | 2023-05-18 | 2023-07-04 |

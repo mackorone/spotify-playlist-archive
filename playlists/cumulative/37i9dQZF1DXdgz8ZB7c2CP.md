@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring San Holo & Amanda Joy
 
-1,123 songs - 2 day 13 hr 40 min
+1,124 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,7 +952,7 @@
 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 | 2024-04-04 | 2025-02-07 |
 | [Tears](https://open.spotify.com/track/29tRu5BqKiUDAoWLKIO3RN) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 3:05 | 2023-02-19 | 2023-09-16 |
 | [Techno Is My Only Love](https://open.spotify.com/track/1REJlR8ulnslkfATIzOLgd) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Careline](https://open.spotify.com/album/69IBVapOvHJr977mY9gpDN) | 2:21 | 2025-01-30 | 2025-03-18 |
-| [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-08 |  |
+| [Telepathy](https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA) | [Telepathy](https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np) | 3:44 | 2025-05-08 | 2025-09-04 |
 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 | 2025-02-06 |  |
 | [tell you straight \(Badger & Jamezy's version\)](https://open.spotify.com/track/2SFYawRtOyqLiKP5MqgjOk) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem) | [tell you straight \(Badger & Jamezy's version\)](https://open.spotify.com/album/0Ph3hHTuRoigwGAQSe6Z6K) | 2:40 | 2025-04-24 | 2025-08-02 |
 | [tell you straight \(Killen.’s version\)](https://open.spotify.com/track/502IDUMPO7Qv85AA52eZwR) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [tell you straight \(Killen.’s version\)](https://open.spotify.com/album/2x8pvSorMHBndwkSHBPaLi) | 3:08 | 2025-04-24 | 2025-05-16 |
@@ -1061,6 +1061,7 @@
 | [wanderer](https://open.spotify.com/track/4nQnhWKlbBkfVwZBGozNnQ) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [photos of the sun](https://open.spotify.com/album/3AWW7zJ2NbTz57WLxD70HA) | 3:05 | 2021-08-06 | 2022-11-13 |
 | [Want \(Need\)](https://open.spotify.com/track/2FEYpEwMGzKhdt6eHJyJ5A) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Want \(Need\)](https://open.spotify.com/album/7Mu3VGQ9a86jYMj13xoZQP) | 2:49 | 2025-06-06 | 2025-06-27 |
 | [Want It](https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Want It](https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg) | 3:24 | 2025-03-20 |  |
+| [Want Me](https://open.spotify.com/track/4JzWZpuYvxpRUiLpnwL2dB) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Want Me](https://open.spotify.com/album/70vbgCHbe3TCjK7bfMP6sM) | 3:18 | 2025-08-29 |  |
 | [want u](https://open.spotify.com/track/6J0BtIohxje0XgiJ5L5pRV) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [want u](https://open.spotify.com/album/7cnzLtkuuwwY6JZ5jJXtsS) | 2:19 | 2025-05-15 | 2025-08-16 |
 | [Warm Earth, Warm Feet](https://open.spotify.com/track/2ZGhCVgjNB4X9U4YSUS6gi) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Tetris People EP](https://open.spotify.com/album/5MiTTycfjIfhePXay7ui0z) | 2:42 | 2021-11-09 | 2022-07-29 |
 | [Warmth](https://open.spotify.com/track/1GxUXejlOxmpazw84h1Gsj) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Warmth](https://open.spotify.com/album/3l2hZY5oYzYSZ94RTZpH5N) | 3:19 | 2021-08-06 | 2022-07-29 |

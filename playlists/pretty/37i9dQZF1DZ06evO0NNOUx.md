@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,575 likes - 41 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,939 likes - 41 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 17 | [NO L's](https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:27 |
 | 18 | [ALWAYS](https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 2:38 |
 | 19 | [SUNRISE](https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SUNRISE](https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg) | 2:36 |
-| 20 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
+| 20 | [SELAH](https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SELAH](https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI) | 3:22 |
 | 21 | [HAPPY](https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:15 |
 | 22 | [GOD IS GOOD](https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:27 |
-| 23 | [SELAH](https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SELAH](https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI) | 3:22 |
+| 23 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
 | 24 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 25 | [B.I.G.](https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:47 |
 | 26 | [Amazing Grace](https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:37 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 33 | [ALL THE TIME](https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ALL THE TIME](https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2) | 2:48 |
 | 34 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 |
 | 35 | [Hey DJ](https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:31 |
-| 36 | [ALIVE](https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:01 |
+| 36 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 |
 | 37 | [Your Soul](https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Nostalgia Pack](https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX) | 2:58 |
 | 38 | [Go Tell It](https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:43 |
-| 39 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 |
+| 39 | [ALIVE](https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:01 |
 | 40 | [Come Thou Font](https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:21 |
 | 41 | [It Is Well](https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:26 |
 
-Snapshot ID: `aLTiAAAAAAA9kzs0iS1e7K56e3nXsOMa`
+Snapshot ID: `aLYzgAAAAADLPnQPiwwRPksLX8V3WPKp`

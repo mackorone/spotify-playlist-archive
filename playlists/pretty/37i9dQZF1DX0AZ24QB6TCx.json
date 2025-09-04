@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 325781,
+  "num_followers": 325816,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 339013,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Let You In (feat. East Forest)",
         "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 339013,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -531,22 +531,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Cloudline (Parra for Cuva Reimagination)",
-        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 296981,
-      "name": "Cloudline (Parra for Cuva Reimagination)",
-      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+        "name": "Cloudline (Parra for Cuva Reimagination)",
+        "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+      "duration_ms": 296981,
+      "name": "Cloudline (Parra for Cuva Reimagination)",
+      "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Extraordinary",
-        "url": "https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc"
-      },
-      "artists": [
-        {
-          "name": "She Knows",
-          "url": "https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer"
-        }
-      ],
-      "duration_ms": 229594,
-      "name": "Extraordinary - Radio Edit",
-      "url": "https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Miyanosawa",
         "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 208972,
       "name": "Miyanosawa",
       "url": "https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Extraordinary",
+        "url": "https://open.spotify.com/album/67Wo8I6Z0lG6Pb18DMlZkc"
+      },
+      "artists": [
+        {
+          "name": "She Knows",
+          "url": "https://open.spotify.com/artist/1mbYwpQqPnkAThstKosMer"
+        }
+      ],
+      "duration_ms": 229594,
+      "name": "Extraordinary - Radio Edit",
+      "url": "https://open.spotify.com/track/2yAGQ2mDaMg4hfckXmkI8L"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+        "name": "Les Orangers",
+        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+      "duration_ms": 402040,
+      "name": "Les Orangers",
+      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Les Orangers",
-        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
         }
       ],
-      "duration_ms": 402040,
-      "name": "Les Orangers",
-      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Some Type of Skin - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 365069,
       "name": "Eyes Alive",
       "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/1kLM9sRXSaIxGRz18pE6DU"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Some Type of Skin - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/3JESF4y5o29QYebTheGju0"
     }
   ],
   "unique_name": "Afterhours",

@@ -25,6 +25,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 15 | [Electricity Is Humming](https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:26 |
 | 16 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 |
 | 17 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 |
-| 18 | [INVU](https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:55 |
+| 18 | [Etna](https://open.spotify.com/track/0Ig02JjhBj2uVme94fGVDY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:10 |
 
-Snapshot ID: `aLTiAAAAAADkbmiKsfuUqpc52dv0Otdj`
+Snapshot ID: `aLYzgAAAAABfi5sNqOpwrwkrmGR8PbeJ`

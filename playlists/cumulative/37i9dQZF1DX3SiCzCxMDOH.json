@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 206505,
       "name": "East of the Sun (and West of the Moon)",
       "url": "https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK"
@@ -7949,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/7apIu7m0hBq59gnjWCuSuZ"
+      },
+      "artists": [
+        {
+          "name": "Nighthawks Revisited",
+          "url": "https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201552,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0h18e2XB4kamKRD7Mlo2Fk"
+    },
+    {
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH"
       },
@@ -11938,7 +11956,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 240480,
       "name": "Ripples of a Stream",
       "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
@@ -17124,6 +17142,24 @@
       "duration_ms": 248547,
       "name": "You were saying...",
       "url": "https://open.spotify.com/track/02FUBmBjf1IXl5ROpwSfbO"
+    },
+    {
+      "album": {
+        "name": "You'll Be Here?",
+        "url": "https://open.spotify.com/album/0fLgLZWerWSpZ2nU17wovF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Trio",
+          "url": "https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256189,
+      "name": "You'll Be Here?",
+      "url": "https://open.spotify.com/track/6FYX8lUjyZwK4SOrspGKxD"
     },
     {
       "album": {

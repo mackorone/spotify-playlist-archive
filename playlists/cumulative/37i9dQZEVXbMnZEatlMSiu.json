@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G"
@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2"
@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 180250,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
@@ -13864,7 +13864,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2JhbSmNAyM9kYiqwa8Tpla"
@@ -13972,7 +13972,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
@@ -14198,7 +14198,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
@@ -14234,7 +14234,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -14714,7 +14714,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
@@ -14732,7 +14732,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
@@ -15812,7 +15812,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -15848,7 +15848,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
@@ -16298,6 +16298,24 @@
     {
       "album": {
         "name": "IVE SECRET",
+        "url": "https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "XOXZ",
+      "url": "https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP"
+    },
+    {
+      "album": {
+        "name": "IVE SECRET",
         "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
       },
       "artists": [
@@ -16308,7 +16326,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 154000,
       "name": "XOXZ",
       "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
@@ -17428,6 +17446,28 @@
       "duration_ms": 265800,
       "name": "\u4e0d\u70ba\u8ab0\u800c\u4f5c\u7684\u6b4c",
       "url": "https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u7c21\u55ae\u7684\u6b4c (feat. Faye \u8a79\u96ef\u5a77)",
+        "url": "https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE"
+      },
+      "artists": [
+        {
+          "name": "Marz23",
+          "url": "https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9"
+        },
+        {
+          "name": "Faye \u8a79\u96ef\u5a77",
+          "url": "https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277988,
+      "name": "\u4e0d\u7c21\u55ae\u7684\u6b4c (feat. Faye \u8a79\u96ef\u5a77)",
+      "url": "https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8"
     },
     {
       "album": {
@@ -18770,7 +18810,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
@@ -20742,7 +20782,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 292666,
       "name": "\u611b\u6211\u9084\u662f\u4ed6",
       "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
@@ -20912,7 +20952,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
@@ -21554,7 +21594,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 349773,
       "name": "\u62ab\u661f\u6234\u6708\u7684\u60f3\u4f60",
       "url": "https://open.spotify.com/track/7tgzj2IqzSgUpxUhjmcF5m"

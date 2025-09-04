@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Hannes & waterbaby✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,054 likes - 172 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,062 likes - 172 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

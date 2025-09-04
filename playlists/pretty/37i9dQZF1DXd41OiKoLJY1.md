@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Morning After Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,876 likes - 233 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,890 likes - 233 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

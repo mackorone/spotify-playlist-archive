@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 40 songs - 1 hr 57 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 41 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,23 +30,24 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 20 | [Nostalgia](https://open.spotify.com/track/1YZOcaGiN1cCwANvG3Ib9G) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:03 |
 | 21 | [Shadow Of A Man](https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:19 |
 | 22 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
-| 23 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
-| 24 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
-| 25 | [Good Girl](https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
-| 26 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
-| 27 | [You’d Like That Wouldn’t You](https://open.spotify.com/track/3Lx7dxpYXIUjk0gXVOzpLZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:48 |
-| 28 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 |
-| 29 | [At Least I’m Hot](https://open.spotify.com/track/2I0KDNwldn2OdIJPwd0zrJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:34 |
-| 30 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
-| 31 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 |
-| 32 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 |
-| 33 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
-| 34 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
-| 35 | [How Can I Dance](https://open.spotify.com/track/7rFFmLqmB2lg2VShN6b3Bc) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:26 |
-| 36 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 37 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
-| 38 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
-| 39 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
-| 40 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
+| 23 | [Kill For Love](https://open.spotify.com/track/6iAWfzQSSHemnvL5yq1q2k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 4:06 |
+| 24 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
+| 25 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
+| 26 | [Good Girl](https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
+| 27 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
+| 28 | [You’d Like That Wouldn’t You](https://open.spotify.com/track/3Lx7dxpYXIUjk0gXVOzpLZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:48 |
+| 29 | [Mad](https://open.spotify.com/track/4NONTWamwnOVRi0qk6B8hf) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:54 |
+| 30 | [At Least I’m Hot](https://open.spotify.com/track/2I0KDNwldn2OdIJPwd0zrJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:34 |
+| 31 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
+| 32 | [Hollywood's Bleeding](https://open.spotify.com/track/7sWRlDoTDX8geTR8zzr2vt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:36 |
+| 33 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 |
+| 34 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
+| 35 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
+| 36 | [How Can I Dance](https://open.spotify.com/track/7rFFmLqmB2lg2VShN6b3Bc) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:26 |
+| 37 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
+| 38 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
+| 39 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
+| 40 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
+| 41 | [Goodbye](https://open.spotify.com/track/4tVVmShMF2PYdLqcejrsy2) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:45 |
 
-Snapshot ID: `AAAAtMk3rKszSHr1HMYG2Rv6/t8CFOYQ`
+Snapshot ID: `AAAAtzPTgq+H7qwQ+BuVtBObixwM/3/d`

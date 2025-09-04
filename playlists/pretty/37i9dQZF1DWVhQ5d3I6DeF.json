@@ -1,6 +1,6 @@
 {
   "description": "Catchy pop music to keep those legs going.",
-  "num_followers": 600454,
+  "num_followers": 600673,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-03 14:50:49",
       "album": {
+        "name": "Dance Love Pop (The Love Love Love Edition)",
+        "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 256213,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2023-01-03 14:50:49",
+      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-01-03 14:50:49",
-      "album": {
-        "name": "Dance Love Pop (The Love Love Love Edition)",
-        "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 256213,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
     },
     {
       "added_at": "2023-01-03 14:50:49",

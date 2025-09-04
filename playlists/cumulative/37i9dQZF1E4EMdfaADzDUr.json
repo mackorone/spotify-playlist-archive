@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, Leblanc, After Cooking and more",
+  "description": "With After Cooking, winterburn, Leblanc and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Version",
       "url": "https://open.spotify.com/track/5fyQOrgb0L8AqQPRA4ec3C"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 291786,
       "name": "Alba",
       "url": "https://open.spotify.com/track/7dZQqNPWP4mBH935sp3Bkw"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 310942,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 366942,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/3hS7bI9vIRu1kflLaqj61a"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-01",
+      "date_removed": null,
       "duration_ms": 285335,
       "name": "Dump",
       "url": "https://open.spotify.com/track/0W1cL2BberTqh7rKMSk6GG"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 165800,
       "name": "Eternal Bond",
       "url": "https://open.spotify.com/track/0B2GF5eu7ODZfyY5EE25EI"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 283453,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/5U1jtvuBkX5PdCWK5JdYt1"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 196632,
       "name": "Morgat",
       "url": "https://open.spotify.com/track/1wdycgsKqsYaBdqbOTRVTm"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 222389,
       "name": "My mind is heavy",
       "url": "https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -1434,10 +1434,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 285213,
       "name": "Pave Your Way",
       "url": "https://open.spotify.com/track/6veznedhcZMQNRWxCudFtm"
+    },
+    {
+      "album": {
+        "name": "Philosophy of Time",
+        "url": "https://open.spotify.com/album/7p7E77Hwo9Vz8grJLzaHaQ"
+      },
+      "artists": [
+        {
+          "name": "Hollt",
+          "url": "https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Philosophy of Time",
+      "url": "https://open.spotify.com/track/3ckK6IH8kxuUyrkVksp6Jv"
     },
     {
       "album": {
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 141093,
       "name": "Roads - Original Mix",
       "url": "https://open.spotify.com/track/1CgrZqS3mbUXSo5blucWdq"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-02",
+      "date_removed": null,
       "duration_ms": 140485,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 175102,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/6I33IdXeXsU8anxBWIxSZO"
@@ -1949,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/4DUwRq0sNXfrpVV0IKWb6F"
       },
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"

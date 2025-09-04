@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,508 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,622 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 10 | [Pa’ Dónde Se Fue](https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:09 |
 | 11 | [Esto Es Amor](https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Esto Es Amor](https://open.spotify.com/album/5P0MCgReUHn1c9BCfP2In9) | 4:33 |
 | 12 | [Rue Vieille Du Temple \- Live](https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Metrópolis \(Live\)](https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT) | 3:59 |
-| 13 | [Palmar](https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Palmar](https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY) | 3:12 |
+| 13 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 |
 | 14 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
-| 15 | [Tormento](https://open.spotify.com/track/0pR6N68RkIGKxitlTqraZ3) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:36 |
+| 15 | [Palmar](https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Palmar](https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY) | 3:12 |
 | 16 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
 | 17 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 18 | [Primaveral](https://open.spotify.com/track/1gQxoBZiyLK5hRLLoBg89x) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [El Canto de Todos \- Bonus Track](https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt), [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru), [Francesca Gagnon](https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Roberto Marquez](https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw), [Pancho Sazo](https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Mapocho Orquesta](https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu) | [El Canto de Todos](https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO) | 0:41 |
 | 50 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 
-Snapshot ID: `aLTiAAAAAAAZSSwBlKphps2gTTguVOFY`
+Snapshot ID: `aLYzgAAAAADj0vf6AanSvxumTx4PJdSx`

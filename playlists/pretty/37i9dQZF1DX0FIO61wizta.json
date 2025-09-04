@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 85029,
+  "num_followers": 85048,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,30 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
         "name": "Verdi: Rigoletto - highlights",
         "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
       },
@@ -851,30 +875,6 @@
       "duration_ms": 257640,
       "name": "Rigoletto / Act 1: \"Pari siamo\"",
       "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2025-07-02 10:06:13",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Verdi: La forza del destino",
-        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 431133,
-      "name": "Verdi: La forza del destino: Overture",
-      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
         "name": "Verdi: Messa da Requiem",
         "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 143133,
       "name": "Verdi: Messa da Requiem: XIX. Dies ir\u00e6",
       "url": "https://open.spotify.com/track/71EdUh8dE27ufo78UKB5Ti"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "Verdi: La forza del destino",
+        "url": "https://open.spotify.com/album/7dOAuusf4Bvmj33E7BL3z1"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 431133,
+      "name": "Verdi: La forza del destino: Overture",
+      "url": "https://open.spotify.com/track/3K5TAZ192q52fTDQjz52av"
     },
     {
       "added_at": "2025-07-02 10:06:13",

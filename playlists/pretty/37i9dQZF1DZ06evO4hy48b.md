@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,673 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,722 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,20 +17,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 7 | [Más De Lo Que Aposté](https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Más De Lo Que Aposté](https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS) | 3:25 |
 | 8 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 9 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 |
-| 10 | [Formentera](https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:27 |
-| 11 | [+ \(MÁS\)](https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:39 |
+| 10 | [+ \(MÁS\)](https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:39 |
+| 11 | [Formentera](https://open.spotify.com/track/3rWWF7X1dmciBHxZ9Yizs1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:27 |
 | 12 | [Si Tú La Quieres](https://open.spotify.com/track/5agt9CgF8dTRXgNtn1zflm) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 3:44 |
 | 13 | [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 |
 | 14 | [Akureyri](https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Akureyri](https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN) | 3:14 |
 | 15 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
 | 16 | [miamor](https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:39 |
 | 17 | [DUELE UN MONTÓN DESPEDIRME DE TI](https://open.spotify.com/track/0WLpPLoGEfUe2UBtvqWb9D) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:00 |
-| 18 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 |
-| 19 | [CORAZÓN SIN VIDA](https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:01 |
+| 18 | [CORAZÓN SIN VIDA](https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:01 |
+| 19 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 |
 | 20 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
 | 21 | [SEGUNDO INTENTO](https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:11 |
-| 22 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
-| 23 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 |
+| 22 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 |
+| 23 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
 | 24 | [24 Rosas](https://open.spotify.com/track/3HDYqfUZN3vToDnhqNsb6J) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:47 |
 | 25 | [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:21 |
 | 26 | [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 39 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 |
 | 40 | [Lo Malo](https://open.spotify.com/track/5bhDL4GgUvr5LBrpjqyrte) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) | [Lo Malo](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) | 3:00 |
 
-Snapshot ID: `aLTiAAAAAAD7nr/0z56Rz0Hw6gkv4Rg+`
+Snapshot ID: `aLYzgAAAAABxhFpZ9gyHC2y72M//wmTF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,964 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,109 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 74 | [Glorioso Día](https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd) | [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Glorioso Día](https://open.spotify.com/album/79lisODI2SlbY69xklS6kE) | 7:10 |
 | 75 | [Eres Mi Padre](https://open.spotify.com/track/0FxQAc8hF5Uk6p0UJj53qh) | [David Letelier](https://open.spotify.com/artist/7pvsdhmhLDOCBwbPbhrB0R) | [Eres Mi Padre \- Single](https://open.spotify.com/album/4SOLXXP9srioMIIX4a3TrF) | 9:04 |
 | 76 | [Haremos](https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID) | [Jhoni The Voice](https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl) | [Jhoni](https://open.spotify.com/album/0ZOO5oBb4wmvXa4yPaRVfr) | 3:21 |
-| 77 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
-| 78 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
+| 77 | [Me enamoré](https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai) | [Jonathan Giménez](https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G) | [Me enamoré](https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5) | 4:06 |
+| 78 | [Eres Todopoderoso \(Live\)](https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt) | [HungryGen Worship](https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9) | [Raised to Deliver \(Live\)](https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j) | 1:59 |
 | 79 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
 | 80 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |
 | 81 | [Paciente Espero](https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX) | [Sugar](https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD), [Josue el Escogido](https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ) | [Cristonita Recharged](https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ) | 4:07 |

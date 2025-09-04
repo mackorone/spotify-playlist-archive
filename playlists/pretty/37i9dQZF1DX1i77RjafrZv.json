@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 319691,
+  "num_followers": 319661,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Ch\u00e2telet les Halles",
+        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Et un jour une femme",
+      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Ch\u00e2telet les Halles",
-        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
-      },
-      "artists": [
-        {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Et un jour une femme",
-      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+        "name": "Enzo Enzo",
+        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
       "artists": [
         {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
         }
       ],
-      "duration_ms": 226800,
-      "name": "L'amour \u00e0 la machine",
-      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
+      "duration_ms": 208200,
+      "name": "Les yeux ouverts",
+      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Enzo Enzo",
-        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
       "artists": [
         {
-          "name": "Enzo Enzo",
-          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 208200,
-      "name": "Les yeux ouverts",
-      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
+      "duration_ms": 226800,
+      "name": "L'amour \u00e0 la machine",
+      "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
     }
   ],
   "unique_name": "French Kiss",

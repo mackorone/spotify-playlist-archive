@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Satoshi, Advahov
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,783 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,785 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 34 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 35 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
-| 36 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
-| 37 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 |
+| 36 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 |
+| 37 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
 | 38 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
 | 39 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 40 | [X6 V2](https://open.spotify.com/track/6hrkmWVqgogA0ySohfzCUv) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6 V2](https://open.spotify.com/album/5hJXqN5HEht3cPoKpHvged) | 2:29 |
-| 41 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
-| 42 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
+| 41 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |
+| 42 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
 | 43 | [TUREAZ\-O](https://open.spotify.com/track/49TQJahxC2nOwzMuHeoMyo) | [AOUR](https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [TUREAZ\-O](https://open.spotify.com/album/3dk71qXYTDWB1Jjr8lfIPq) | 3:06 |
 | 44 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
 | 45 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |

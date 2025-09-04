@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,358 likes - 40 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,388 likes - 40 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 37 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 |
 | 38 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
 | 39 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
-| 40 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
+| 40 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 |
 
 Snapshot ID: `AAAAANUJPc9LhO5lFkE03l5ZhdXljHvz`

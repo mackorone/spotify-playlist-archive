@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia con Laura Dsk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,611 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,614 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 35 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
 | 36 | [Ja, Ja, Ja](https://open.spotify.com/track/0QVrkmPehChchi52biyo8w) | [The Meas](https://open.spotify.com/artist/3r5PC1XHrMZP8h4thSBP3c) | [Buscándose la Vida](https://open.spotify.com/album/50X2yfnVjoqHP9jpj5Hztj) | 2:48 |
 | 37 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
-| 38 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
-| 39 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
+| 38 | [Escupe](https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [Inadaptados](https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV) | 2:27 |
+| 39 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 40 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
 | 41 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
 | 42 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |

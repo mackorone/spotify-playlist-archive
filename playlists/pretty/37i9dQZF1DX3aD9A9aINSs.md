@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,355 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,473 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

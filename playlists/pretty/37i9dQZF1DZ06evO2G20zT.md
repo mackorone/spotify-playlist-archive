@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,367 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 7 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
 | 8 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
 | 9 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 |
-| 10 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 |
-| 11 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
+| 10 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
+| 11 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 |
 | 12 | [Karma](https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:34 |
 | 13 | [HAPPY SONG](https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 1:59 |
 | 14 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 49 | [Cash](https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Wara Wara Szn](https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs) | 3:00 |
 | 50 | [Darling \(feat\. Simi\)](https://open.spotify.com/track/4poZqVkmRcBoR04BZGnHEw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:55 |
 
-Snapshot ID: `aLTiAAAAAAD+2ARI2LZTGiogVIhorO9B`
+Snapshot ID: `aLYzgAAAAADlvRBPZjBeEYdOR9cgE41C`

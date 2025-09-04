@@ -501,6 +501,44 @@
     },
     {
       "album": {
+        "name": "Ele Carrega Minha Bolsa",
+        "url": "https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl"
+      },
+      "artists": [
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "DJ Kayque",
+          "url": "https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133370,
+      "name": "Ele Carrega Minha Bolsa",
+      "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr"
+    },
+    {
+      "album": {
         "name": "Ele Me Trata Com Carinho",
         "url": "https://open.spotify.com/album/3zOy2RcOCukG7hkQMAedfq"
       },
@@ -1880,7 +1918,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 153004,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,943 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,973 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 27 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 28 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 |
 | 29 | [Laggiyan Ne Maujaan \- Natiya Kalam](https://open.spotify.com/track/2f3Nw8rClVhNMFIvNMjyJA) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Sound Of Soil](https://open.spotify.com/album/7jHbAHAgGKBQtw4g1Dcde0) | 4:35 |
-| 30 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
-| 31 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
+| 30 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
+| 31 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 32 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
 | 33 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
 | 34 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 47 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 |
 | 48 | [Ambarsare Di](https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Wedding Songs Of Punjab Volume 2](https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2) | 4:19 |
 | 49 | [Sehreyan Wala](https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P) | [Pallavi Ishpuniyani](https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Sehreyan Wala](https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ) | 4:27 |
-| 50 | [Tere Jeya Hor Disda](https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Tere Jeya Hor Disda](https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc) | 4:35 |
+| 50 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
 
 Snapshot ID: `AAAAANArfZbZ3DkiNSxDEdPw5lmmDTbb`

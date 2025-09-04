@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Human Movement
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,232 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,230 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 39 | [Groove Baby](https://open.spotify.com/track/148Qb7qsZpuKAsFdITvwY2) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Groove Baby](https://open.spotify.com/album/79L5Vk0uqMP8q2rOsWyyns) | 3:16 |
 | 40 | [My Neck My Back ft\. Khia](https://open.spotify.com/track/4Z9jBxkpBb9yvKVVQjqnUr) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [TOOLS 4 HARDWORKERS 004](https://open.spotify.com/album/2tz4aDa64T9jO7Qp2M8t2s) | 4:28 |
 | 41 | [Closer \(with Marshmello\)](https://open.spotify.com/track/4rabNjkDVahFaNnwDlz6v4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:35 |
-| 42 | [Inanna's Descent](https://open.spotify.com/track/0gqUJAs4gr8AxXeXobPD0C) | [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [GOLDI](https://open.spotify.com/artist/4Oqu9qqpSWVU0Aexy3ilhN) | [Inanna's Descent](https://open.spotify.com/album/4qYDpeNS67cmJPTDs4vUjk) | 2:10 |
+| 42 | [Inanna's Descent](https://open.spotify.com/track/0gqUJAs4gr8AxXeXobPD0C) | [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [GOLDI](https://open.spotify.com/artist/2Md3wdt1IgGPXx1H101rJk) | [Inanna's Descent](https://open.spotify.com/album/4qYDpeNS67cmJPTDs4vUjk) | 2:10 |
 | 43 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 |
 | 44 | [Disco Turbo](https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Disco Turbo](https://open.spotify.com/album/6pIia0cXMnfA0I41UiS52A) | 2:56 |
 | 45 | [Right Now](https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Right Now](https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n) | 3:37 |

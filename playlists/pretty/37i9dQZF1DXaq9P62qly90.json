@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 14770,
+  "num_followers": 14780,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Burn Right Through",
         "url": "https://open.spotify.com/album/2Xh8UFP8PhWhMm3qGcw2em"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 251840,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/6d3HbyUNmygSJMcjGo2cRG"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Por Favor",
-        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "What's the Secret?",
-      "url": "https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 274093,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Por Favor",
+        "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "What's the Secret?",
+      "url": "https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv"
     },
     {
       "added_at": "2024-03-25 16:49:10",

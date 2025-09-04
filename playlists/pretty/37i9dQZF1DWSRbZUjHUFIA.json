@@ -1,6 +1,6 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 100287,
+  "num_followers": 100315,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-07-31 04:22:53",
       "album": {
-        "name": "The New Classic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 199938,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
-    },
-    {
-      "added_at": "2025-07-31 04:22:53",
-      "album": {
         "name": "Plain Jane REMIX (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
+    },
+    {
+      "added_at": "2025-07-31 04:22:53",
+      "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 199938,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
     }
   ],
   "unique_name": "Work It: Hip Hop",

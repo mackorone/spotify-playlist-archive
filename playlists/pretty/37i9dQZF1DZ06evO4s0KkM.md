@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,714 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,734 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 15 | [Fields of Athenry](https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 4:24 |
 | 16 | [The Big Man](https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 2:53 |
 | 17 | [Prisoner's Song](https://open.spotify.com/track/2wZr4p2O2yUMPgRYBkLHE2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 2:46 |
-| 18 | [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 |
-| 19 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
+| 18 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
+| 19 | [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 |
 | 20 | [Kids Games](https://open.spotify.com/track/2C6jvd2NOW1asMrn4nmZW9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 3:01 |
 | 21 | [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 |
 | 22 | [Blood](https://open.spotify.com/track/2uOb4zNJahkxtCUNewkY6t) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 4:01 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 28 | [Sunshine Highway](https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 3:22 |
 | 29 | [Queen Of Suffolk County](https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:51 |
 | 30 | [You'll Never Walk Alone](https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 3:22 |
-| 31 | [Boys on the Docks](https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:33 |
-| 32 | [Walk Away](https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:51 |
+| 31 | [Walk Away](https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:51 |
+| 32 | [Boys on the Docks](https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:33 |
 | 33 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 2:40 |
 | 34 | [First Class Loser](https://open.spotify.com/track/6z6Pay3JF7cxbFyw6eS1z0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 2:55 |
-| 35 | [\(F\)lannigan's Ball](https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:39 |
-| 36 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 |
+| 35 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 |
+| 36 | [\(F\)lannigan's Ball](https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:39 |
 | 37 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
 | 38 | [The Lonesome Boatman](https://open.spotify.com/track/1eX5SoCjIWCIS3TGoZ6upR) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 2:42 |
 | 39 | [Finnegan's Wake](https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Ten Times More](https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:11 |
 | 50 | [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 |
 
-Snapshot ID: `aLTiAAAAAACJrTwTxy9dSE5NQbwE+s1Y`
+Snapshot ID: `aLYzgAAAAAAo0NhdwdnpZ0ZLkNwtJ5cv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Avi
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,875 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,935 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 29 | [MAM PLAN](https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [MAM PLAN](https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu) | 2:42 |
 | 30 | [LOLA](https://open.spotify.com/track/5AhdjJudenQlp1IrNthII9) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [HOLLYWOOD SMILE](https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx) | 2:46 |
 | 31 | [1DAY IN LA](https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9) | [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [1DAY IN LA](https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N) | 2:24 |
-| 32 | [21 Gram](https://open.spotify.com/track/1NqZ4xJjqTLjPqFkh1a6X1) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [21 Gram](https://open.spotify.com/album/2KJwj8JJ4R1fa3wpY7g0S7) | 2:54 |
+| 32 | [21 Gram](https://open.spotify.com/track/1NqZ4xJjqTLjPqFkh1a6X1) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [21 Gram](https://open.spotify.com/album/2KJwj8JJ4R1fa3wpY7g0S7) | 2:54 |
 | 33 | [Lovestory](https://open.spotify.com/track/4eCh76j61UPiiQXNRaqn5K) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Lovestory](https://open.spotify.com/album/4Vn8MPovSDGYeS6EmenvO6) | 2:42 |
 | 34 | [HIGH LIFE 3](https://open.spotify.com/track/6mzGcNfIqKbPXLX7kJ1OXB) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [HIGH LIFE 3](https://open.spotify.com/album/3x3VJBsInkFl30ubtZLwMt) | 3:14 |
 | 35 | [Mamacita](https://open.spotify.com/track/2wQ7HWPUHgjrxJC4i62MwG) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX) | [ROCKST4R DELUXE](https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn) | 3:03 |

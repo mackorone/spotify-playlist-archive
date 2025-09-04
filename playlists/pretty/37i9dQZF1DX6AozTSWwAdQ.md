@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,903 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,900 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 19 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 |
 | 20 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
 | 21 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 |
-| 22 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 |
-| 23 | [Born Without a Heart](https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Born Without a Heart](https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG) | 3:18 |
+| 22 | [Born Without a Heart](https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Born Without a Heart](https://open.spotify.com/album/5EOIYFpu56h7AgQxCRcyZG) | 3:18 |
+| 23 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 |
 | 24 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 25 | [Blame It On You](https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Blame It On You](https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b) | 2:41 |
 | 26 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |

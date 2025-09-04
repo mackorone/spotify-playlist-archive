@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,894 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,911 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 19 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
 | 20 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 |
 | 21 | [Pánico](https://open.spotify.com/track/3dgYZb17HvfXHL3pmdF4v8) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:00 |
-| 22 | [Busco Amor](https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Busco Amor](https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw) | 3:42 |
-| 23 | [Tengo Un Amor](https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A La Larga Te Acostumbras](https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM) | 3:06 |
+| 22 | [Tengo Un Amor](https://open.spotify.com/track/7jpqYcKRXHfGl0pP32h0xZ) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A La Larga Te Acostumbras](https://open.spotify.com/album/1bp7ROjR99ipXFrSuRGhvM) | 3:06 |
+| 23 | [Busco Amor](https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Busco Amor](https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw) | 3:42 |
 | 24 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 |
 | 25 | [Cara De Chango](https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:14 |
 | 26 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Araña Ska](https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 2:34 |
 | 50 | ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 |
 
-Snapshot ID: `aLTiAAAAAADfq+K+bqE+RyYZn2QL+bs9`
+Snapshot ID: `aLYzgAAAAACrQvvVCzpyfLsyGChgb7HR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,679 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,736 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 56 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 |
 | 57 | [Dig Dis \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 6:09 |
 | 58 | [Köln, January 24, 1975, Part II c \- Live](https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 6:56 |
-| 59 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
-| 60 | [Fever](https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Great Ladies Of Song / Spotlight On Peggy Lee](https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF) | 3:22 |
+| 59 | [Fever](https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Great Ladies Of Song / Spotlight On Peggy Lee](https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF) | 3:22 |
+| 60 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
 | 61 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
 | 62 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 |
 | 63 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 |

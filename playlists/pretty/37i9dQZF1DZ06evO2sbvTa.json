@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4482,
+  "num_followers": 4483,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAAXfQhiQnjntq6xSXkzkD5y",
+  "snapshot_id": "aLYzgAAAAAAo0qoGEfarKpNZV3Rjqjs8",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 233725,
-      "name": "Do It Big (feat. Future)",
-      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap God 2",
         "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 207160,
       "name": "Bullet Wound (feat. Lil Wayne & Young Scooter)",
       "url": "https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 233725,
+      "name": "Do It Big (feat. Future)",
+      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 142277,
+      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
+      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Bank",
         "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
       },
@@ -695,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
       "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 142277,
-      "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
-      "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,
@@ -759,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+        "name": "I Pledge Allegiance to the Trap, Vol. 5",
+        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
       "artists": [
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+      "duration_ms": 185077,
+      "name": "Imma Ball Forever",
+      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
     },
     {
       "added_at": null,
@@ -791,26 +811,6 @@
       "duration_ms": 223946,
       "name": "Re Up",
       "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Pledge Allegiance to the Trap, Vol. 5",
-        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "Imma Ball Forever",
-      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young Jefe",
         "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 213773,
       "name": "Medellin (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     }
   ],
   "unique_name": "This Is Young Scooter",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,803 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,756 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 84 | [Joni](https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Joni](https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9) | 2:55 |
 | 85 | [Outwit the Devil](https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c) | [Willy Mason](https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL) | [Already Dead](https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM) | 3:04 |
 | 86 | [Circles](https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Circles](https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC) | 3:35 |
-| 87 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
-| 88 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
+| 87 | [The Offer](https://open.spotify.com/track/21MrTvTBPnBM1ssyzMR1KK) | [Ian O'Neil](https://open.spotify.com/artist/3zAC2h398XqegpW0bfeIiX) | [Ten Years of It](https://open.spotify.com/album/66dNqDHM40nEgoj6NS02qA) | 3:29 |
+| 88 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
 | 89 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 90 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
 | 91 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 |

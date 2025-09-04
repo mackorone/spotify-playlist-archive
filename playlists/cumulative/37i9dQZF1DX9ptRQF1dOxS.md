@@ -2,7 +2,7 @@
 
 ### [EQUAL UK & Ireland ](https://open.spotify.com/playlist/37i9dQZF1DX9ptRQF1dOxS)
 
-> Listen to women at full volume\. Cover: Alessi Rose<br/>💚
+> Listen to women at full volume\. Cover: Girls Don't Sync<br/>💚
 
 1,822 songs - 4 day 7 hr 30 min
 

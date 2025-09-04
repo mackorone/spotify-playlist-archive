@@ -693,6 +693,32 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217498,
+      "name": "Brother (with Post Malone & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2pwTxu5gfazogIb5zYaLhf"
       },
@@ -820,7 +846,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 202053,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
@@ -1148,7 +1174,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
@@ -1535,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218950,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4"
+    },
+    {
+      "album": {
         "name": "gl\u00fccklich ohne dich",
         "url": "https://open.spotify.com/album/7LvFdCU6m28MfVDgEwy5HQ"
       },
@@ -1810,6 +1854,28 @@
       "duration_ms": 158251,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "album": {
@@ -3996,7 +4062,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,474 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,482 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 25 | [Moving](https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:47 |
 | 26 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
 | 27 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
-| 28 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
-| 29 | [Down In The Bottom \- Single Version](https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 2:34 |
+| 28 | [Down In The Bottom \- Single Version](https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 2:34 |
+| 29 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
 | 30 | [Cryin' at Daybreak](https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Electro Blues \- In House Selection](https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW) | 3:47 |
 | 31 | [Just Like I Treat You \- Single Version](https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:55 |
 | 32 | [Stop Using Me](https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:55 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 43 | [I Better Go Now \- Single Version](https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:42 |
 | 44 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 
-Snapshot ID: `aLTiAAAAAACoFuDKUl1P9X3+efBzr2gd`
+Snapshot ID: `aLYzgAAAAAD+Ky4lpsPkIBbQCLfumfTo`

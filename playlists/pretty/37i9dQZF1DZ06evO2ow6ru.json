@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 176309,
+  "num_followers": 176330,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAB+x1RMo0kkUniJZkIb8Ued",
+  "snapshot_id": "aLYzgAAAAAAlAv3MwdLEzkxrb/b7N7HB",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 187344,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 159066,
       "name": "The Sound of Letting Go",
       "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put Up Or Shut Up",
-        "url": "https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Coffee Shop Soundtrack",
-      "url": "https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 184054,
       "name": "New Religion (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put Up Or Shut Up",
+        "url": "https://open.spotify.com/album/47boQgN4dboq2f0IcvI4Bt"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Coffee Shop Soundtrack",
+      "url": "https://open.spotify.com/track/3j1HTRodSjGtK3YsYMI0XF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-154 songs - 10 hr 0 min
+155 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Natsuko](https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g) | [Los Plastics Revolution](https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V) | [Natsuko](https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u) | 4:19 | 2023-09-01 | 2025-06-29 |
 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 | 2023-09-01 |  |
 | [No](https://open.spotify.com/track/32QNjBLycSMFSpY0pJ1Hau) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Sí, Yo Soy](https://open.spotify.com/album/55xfAVi9VsvzxmZBTwCBUe) | 3:38 | 2021-07-08 | 2024-04-19 |
-| [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 | 2023-09-01 |  |
+| [No Coke](https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 3](https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es) | 2:53 | 2023-09-01 | 2025-09-04 |
 | [No Confíes en Mí](https://open.spotify.com/track/7zZeubbxso576F3fKIBeUz) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Confíes en Mí](https://open.spotify.com/album/5gGuyWPDktZv2xu9R0vGIS) | 4:09 | 2021-07-08 | 2024-04-19 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 | 2023-01-27 | 2024-04-19 |
 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 | 2021-07-08 |  |
@@ -126,6 +126,7 @@
 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 | 2022-05-10 |  |
 | [Pistache](https://open.spotify.com/track/6hNCdAhUeH2JKFfr7lcfkl) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Bosque de San Marcos](https://open.spotify.com/album/4XQnB0Go4T6UunJgPTIaSf) | 4:12 | 2021-07-08 | 2024-04-19 |
 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 | 2021-07-08 |  |
+| [Psicomagia](https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx) | [Timothy The Master](https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ) | [Buffalo Beat EP](https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56) | 5:15 | 2023-09-01 |  |
 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 | 2021-07-08 |  |
 | [Quiero Ser un Color](https://open.spotify.com/track/4sAT9zslz8epejmWuP1N9X) | [Furland](https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ) | [Historia de la Luz](https://open.spotify.com/album/3QvzbOSSEgNWYMRbgdLMVd) | 3:27 | 2023-09-01 | 2024-04-24 |
 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 | 2021-07-08 |  |

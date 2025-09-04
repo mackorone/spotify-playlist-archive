@@ -175,6 +175,40 @@
     },
     {
       "album": {
+        "name": "Butter-Fly - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/3vmlgAoH6zQfcwEZRyKNfM"
+      },
+      "artists": [
+        {
+          "name": "angela",
+          "url": "https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL"
+        },
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        },
+        {
+          "name": "\u5965\u4e95\u96c5\u7f8e",
+          "url": "https://open.spotify.com/artist/4Ii7UojF0YlO2h2dIhdWfU"
+        },
+        {
+          "name": "TrySail",
+          "url": "https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318045,
+      "name": "Butter-Fly - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr"
+    },
+    {
+      "album": {
         "name": "MICROCOSM",
         "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
       },
@@ -834,7 +868,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 243134,
       "name": "LOST",
       "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"

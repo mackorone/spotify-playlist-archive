@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,642 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,709 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 65 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 66 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
 | 67 | [Where I Belong](https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:20 |
-| 68 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
-| 69 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 68 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
+| 69 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
 | 70 | [Redeemer](https://open.spotify.com/track/60voQIiwEp0n6H7Qhu6AwH) | [Nicole C\. Mullen](https://open.spotify.com/artist/3RHwCqK7oe6mucuIgz62BF) | [Nicole C\. Mullen](https://open.spotify.com/album/6x6zSu5k57Lco6xaGW9kL3) | 4:54 |
 | 71 | [Freedom \- Live](https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:31 |
 | 72 | [By Your Side](https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Over And Underneath](https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM) | 4:01 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 140 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
 | 141 | [Grace Got You](https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 3:35 |
 | 142 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
-| 143 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
-| 144 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
-| 145 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
-| 146 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
-| 147 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
-| 148 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
-| 149 | [Lift Me Up](https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:32 |
-| 150 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 143 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
+| 144 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
+| 145 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
+| 146 | [Lift Me Up](https://open.spotify.com/track/0i08LLgnQSCIVAXdKztzZ8) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:32 |
+| 147 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
+| 148 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 149 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 150 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
 
 Snapshot ID: `AAAAAHXzSRS5Vim5Asjcw0tdJTd/EWM5`

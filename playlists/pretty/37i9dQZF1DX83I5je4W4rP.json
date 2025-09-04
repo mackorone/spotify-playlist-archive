@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1071022,
+  "num_followers": 1070941,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
       "artists": [
         {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 210573,
-      "name": "IRL",
-      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1643,22 +1647,34 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
       },
       "artists": [
         {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+      "duration_ms": 210573,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Greed",
+        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 221870,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1679,22 +1695,6 @@
       "duration_ms": 240435,
       "name": "Sunburn (with Tropidelic)",
       "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Greed",
-        "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 221870,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Rush Hour (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "Rush Hour (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Dance My Stress Away (with Stephen Marley)",
         "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 214122,
       "name": "Dance My Stress Away (with Stephen Marley)",
       "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Rush Hour (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "Rush Hour (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Tall Grass (with Surfer Girl)",
-        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
-      },
-      "artists": [
-        {
-          "name": "Beach Fly",
-          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 246064,
-      "name": "Tall Grass (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Easy (with G. Love & Brett Dennen)",
         "url": "https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 211742,
       "name": "Easy (with G. Love & Brett Dennen)",
       "url": "https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Tall Grass (with Surfer Girl)",
+        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
+      },
+      "artists": [
+        {
+          "name": "Beach Fly",
+          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 246064,
+      "name": "Tall Grass (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1999,22 +1999,22 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+        "name": "Tangerine Skies",
+        "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
         },
         {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
         }
       ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
+      "duration_ms": 181586,
+      "name": "Tangerine Skies",
+      "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2071,28 +2071,28 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Tangerine Skies",
-        "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
       "artists": [
         {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
         },
         {
-          "name": "ROME",
-          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Tangerine Skies",
-      "url": "https://open.spotify.com/track/7ETtJJC9GzPxUU2QhYiwJo"
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Slice of Sunshine (with Claire Wright)",
-        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
+        "name": "Corona and Lime",
+        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
       },
       "artists": [
         {
@@ -2100,13 +2100,17 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
         }
       ],
-      "duration_ms": 170348,
-      "name": "Slice of Sunshine (with Claire Wright)",
-      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
+      "duration_ms": 199600,
+      "name": "Corona and Lime",
+      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2131,22 +2135,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "COMING WITH GUNS",
-        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
-      },
-      "artists": [
-        {
-          "name": "The Holdup",
-          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
-        }
-      ],
-      "duration_ms": 217177,
-      "name": "COMING WITH GUNS",
-      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "King of the Low (with Moon Taxi)",
         "url": "https://open.spotify.com/album/0ycS1e8h1Vx4tcoAjZOGEN"
       },
@@ -2163,6 +2151,22 @@
       "duration_ms": 174128,
       "name": "King of the Low (with Moon Taxi)",
       "url": "https://open.spotify.com/track/4OXGUz1uXA3w4NQjp2sGoa"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "COMING WITH GUNS",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+      },
+      "artists": [
+        {
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+        }
+      ],
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2211,8 +2215,8 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
+        "name": "Slice of Sunshine (with Claire Wright)",
+        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
       },
       "artists": [
         {
@@ -2220,17 +2224,13 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
+      "duration_ms": 170348,
+      "name": "Slice of Sunshine (with Claire Wright)",
+      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Welcome to Florida",
         "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 251160,
       "name": "Thotful",
       "url": "https://open.spotify.com/track/6zrf5IkFkMJnaDuLlWyTwR"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2025-04-21 20:51:45",

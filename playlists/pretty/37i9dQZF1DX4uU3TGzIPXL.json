@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 731375,
+  "num_followers": 731737,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 259665,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 259665,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "The Singles 86-98",
         "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 255133,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 230200,
       "name": "Jumpin', Jumpin'",
       "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "The Summer Is Magic - Ep",
-        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
-      },
-      "artists": [
-        {
-          "name": "Playahitty",
-          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "The Summer Is Magic - Radio Mix",
-      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Tom's Album",
         "url": "https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 228306,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "The Summer Is Magic - Ep",
+        "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
+      },
+      "artists": [
+        {
+          "name": "Playahitty",
+          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "The Summer Is Magic - Radio Mix",
+      "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
     }
   ],
   "unique_name": "Summer Hits of the 90s",

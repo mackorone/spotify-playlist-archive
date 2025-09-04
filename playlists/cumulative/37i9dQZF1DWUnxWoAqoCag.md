@@ -4,7 +4,7 @@
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-326 songs - 20 hr 1 min
+327 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 | 2023-10-13 |  |
 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 | 2024-06-20 | 2024-08-08 |
 | [ナハトムジーク](https://open.spotify.com/track/7sditHCsoFw3nHnjFv1BHV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ナハトムジーク](https://open.spotify.com/album/3ciQ76hHbqu2syaDi0QPti) | 4:22 | 2024-02-01 | 2024-06-21 |
+| [ノンフィクションズ](https://open.spotify.com/track/7mxgPTMcACB1iAKKRq9Ebf) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ノンフィクションズ](https://open.spotify.com/album/6zPEk6qrPkYhZHDeMpSlzG) | 3:38 | 2025-08-29 |  |
 | [ハピネス](https://open.spotify.com/track/4Ls20opS0EzPb7NuA6F8VI) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [INDEPENDENT](https://open.spotify.com/album/4RTzwKeZd6nL1JQxRG6CFU) | 4:15 | 2024-12-03 | 2025-01-03 |
 | [ハレンチ](https://open.spotify.com/track/0e1k2ptLJEtnlM4Fy8QVo6) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/46xGJVWJusnDYoi6skhS4s) | 3:18 | 2025-02-05 |  |
 | [バレンタイン決戦](https://open.spotify.com/track/5QI3eGF8p8PYWDsAheNAPV) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [バレンタイン決戦](https://open.spotify.com/album/6ahIXl0Lnp11aL6R4piqJv) | 3:11 | 2025-02-03 | 2025-02-19 |
@@ -250,7 +251,7 @@
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-10-13 | 2025-08-05 |
 | [上海ハニー](https://open.spotify.com/track/2hZOV9kmeZZhbyir7Rfimk) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [上海ハニー](https://open.spotify.com/album/2FBTgCAhPNT47VLAJfSb50) | 2:55 | 2025-07-06 |  |
 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 | 2024-01-10 | 2024-02-02 |
-| [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2025-01-09 |  |
+| [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 | 2025-01-09 | 2025-09-04 |
 | [今日だけ I LOVE YOU \- Japanese Ver.](https://open.spotify.com/track/6690Oo2YKerGp9Zvm9EY6S) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [今日だけ I LOVE YOU \(Japanese Ver.\)](https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN) | 2:41 | 2025-02-05 | 2025-03-11 |
 | [僕のこと](https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 5:21 | 2024-03-19 | 2025-06-13 |
 | [元彼女のみなさまへ](https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [元彼女のみなさまへ](https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf) | 4:08 | 2024-09-30 | 2025-02-11 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ecuador.
 
-1,138 songs - 2 day 15 hr 33 min
+1,139 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [MÁS QUE ALGO](https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 4:02 | 2025-05-20 | 2025-05-31 |
 | [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-05-11 | 2025-05-20 |
 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2024-07-03 | 2024-09-02 |
+| [Nací para ti](https://open.spotify.com/track/46cI8iA0C1q90StA6HLfeO) | [Kasterwey](https://open.spotify.com/artist/16ZKZbstUNSdO46RVtvmuE), [Anyoca](https://open.spotify.com/artist/01ORwlH64TQP4noZgfyjVm), [Mr Micua](https://open.spotify.com/artist/3BasPf7ET1ubeoORXyvPWy) | [Nací para ti](https://open.spotify.com/album/7mXoSSN0ekOQ6cLBzm8Wbe) | 4:08 | 2025-09-03 |  |
 | [NADIE SABE](https://open.spotify.com/track/23d8v6tU6lR77pFKsApMtF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 6:19 | 2023-10-14 | 2023-10-30 |
 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 | 2024-04-05 | 2024-04-24 |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2023-12-26 | 2023-12-30 |
@@ -908,7 +909,7 @@
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-03-07 | 2023-04-14 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 | 2022-09-23 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-22 | 2025-06-22 |
-| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:15 | 2025-06-21 |  |
+| [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:15 | 2025-06-21 | 2025-09-04 |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-01-04 | 2024-07-19 |
 | [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-03-18 | 2023-04-20 |
 | [Si Las Gatas Se Amotinan \(feat\. DobleP\) \- Remix](https://open.spotify.com/track/2MYGYUldG51mtKTKvT1h6Q) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan \(feat\. DobleP\) \[Remix\]](https://open.spotify.com/album/0Hysmb9b04UA6olFZP677e) | 3:30 | 2025-05-24 | 2025-06-18 |

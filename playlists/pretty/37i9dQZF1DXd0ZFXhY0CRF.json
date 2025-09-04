@@ -1,6 +1,6 @@
 {
-  "description": "The women whose music and influence rock our world. Cover: The Warning",
-  "num_followers": 770865,
+  "description": "The women whose music and influence rock our world. Cover: Nova Twins",
+  "num_followers": 770847,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -507,8 +507,8 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Will You Love Me When I\u2019m Dead",
-        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 193798,
-      "name": "Will You Love Me When I\u2019m Dead",
-      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+      "duration_ms": 193154,
+      "name": "Forever Overdose",
+      "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -587,8 +587,8 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0UkeBEb0zPrQbuMCCGSxn2"
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         }
       ],
-      "duration_ms": 193154,
-      "name": "Forever Overdose",
-      "url": "https://open.spotify.com/track/07FeCdaFiJYdynFyJW515F"
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "my anti-aircraft friend",
         "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 194240,
       "name": "catalogue",
       "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 262000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "GREED",
-        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 170835,
-      "name": "GREED",
-      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Why Am I Like This? / Ipecac",
         "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 146080,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "GREED",
+        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "duration_ms": 170835,
+      "name": "GREED",
+      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
     },
     {
       "added_at": "2025-09-02 23:00:32",

@@ -4,7 +4,7 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-256 songs - 13 hr 49 min
+257 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Teenage Tears](https://open.spotify.com/track/3oDsUvSRJfodr7zXbLWXPm) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Teenage Tears](https://open.spotify.com/album/1D0utuuHTqyby5IUq0Exkf) | 3:22 | 2023-11-28 |  |
 | [That's So True \- Spotify Singles](https://open.spotify.com/track/39aMRjb5zKxNmYT4B0ztcW) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Spotify Singles](https://open.spotify.com/album/4tmb09xLH9FzEz45jAVhwE) | 2:47 | 2025-07-14 |  |
 | [That’s So True](https://open.spotify.com/track/4FF0Te5R85sLW8MNvehHKK) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU) | 2:46 | 2025-03-31 |  |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-03 |  |
 | [the girl \(that you can't get over\)](https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- E.P.](https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL) | 2:47 | 2023-11-28 | 2024-11-20 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-19 |  |
 | [Throwback Tears](https://open.spotify.com/track/2qtCQvyEZ5Cm9pfd9dpU6t) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Throwback Tears](https://open.spotify.com/album/4cbO7xqrnJ9b5imyxAaFQb) | 1:57 | 2023-11-28 | 2025-02-15 |

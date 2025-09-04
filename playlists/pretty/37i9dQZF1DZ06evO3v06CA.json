@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACrpXq5MpNA4r27BEOlXlc5",
+  "snapshot_id": "aLYzgAAAAAD3F3aKzALZCFUPypjqmsFk",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 50721,
       "name": "SMOKE HOUR \u2605 WILLIE NELSON",
       "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 148440,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/4raGevWiW8i1gactXulebp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterday's Wine",
-        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Me and Paul",
-      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
     },
     {
       "added_at": null,

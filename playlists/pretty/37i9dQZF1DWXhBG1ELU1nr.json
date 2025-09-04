@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235598,
+  "num_followers": 235589,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "A Arte De Cazuza",
+        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Hopes and Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 237866,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/05NEcj4geEg0JthGNSGUI7"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "A Arte De Cazuza",
-        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
     },
     {
       "added_at": "2024-02-27 20:15:05",

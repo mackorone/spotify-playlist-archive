@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,304 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,319 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,24 +22,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 12 | [L'homme pressé](https://open.spotify.com/track/637T4loKlXPwfUdQVZjPTV) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 3:45 |
 | 13 | [Je cours](https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:00 |
 | 14 | [Manu Chao \- Single Version](https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro](https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH) | 2:47 |
-| 15 | [La cerise](https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La cerise](https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC) | 3:35 |
-| 16 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 15 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 16 | [La cerise](https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La cerise](https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC) | 3:35 |
 | 17 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 18 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 19 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 20 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
-| 21 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
-| 22 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
+| 21 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
+| 22 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
 | 23 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
 | 24 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
 | 25 | [Va y avoir du sport](https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F) | [Silmarils](https://open.spotify.com/artist/03X1ph7ZGfqb3W3Ld5lJKH), [Mario Caltado Jr](https://open.spotify.com/artist/5EAlrYI7AwfWNEveCBpwf5) | [Vegas 76](https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG) | 3:01 |
-| 26 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
-| 27 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
+| 26 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
+| 27 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
 | 28 | [Mojo](https://open.spotify.com/track/3XwQ8ks84wlj3YcRyxXrlN) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [îl](https://open.spotify.com/album/3jTF9VlDnWcu4lGbMXRnHI) | 3:16 |
 | 29 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
 | 30 | [Mon époque](https://open.spotify.com/track/0PUVRaTOBUfwWNsX9l8NIY) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La part des lions](https://open.spotify.com/album/3bEmZFZ2V6ls0vMPfviqw3) | 2:19 |
-| 31 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
-| 32 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
+| 31 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
+| 32 | [Marée haute](https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [Plates coutures](https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN) | 4:08 |
 | 33 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
 | 34 | [Stand As One](https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 3:18 |
 | 35 | [Soledad](https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:08 |

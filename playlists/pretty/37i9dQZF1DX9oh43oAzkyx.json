@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2804522,
+  "num_followers": 2804773,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,6 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
-      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+      "url": "https://open.spotify.com/track/2aYHxnMF2umAavtgBvmkY1"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -791,18 +791,22 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx"
+        "name": "Lonely At The Top",
+        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Bri Steves",
+          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
         }
       ],
-      "duration_ms": 165668,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"
+      "duration_ms": 192475,
+      "name": "SUPAFLEE (feat. Bri Steves)",
+      "url": "https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -847,22 +851,18 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "Monsoon Season",
-        "url": "https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX"
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx"
       },
       "artists": [
         {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Reckless (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B"
+      "duration_ms": 165668,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -883,6 +883,42 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "Monsoon Season",
+        "url": "https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Reckless (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -911,22 +947,6 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
         "name": "Rumors (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
@@ -943,66 +963,6 @@
       "duration_ms": 185855,
       "name": "Rumors (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "GDLU (Preluxe)",
-        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 155542,
-      "name": "Behold",
-      "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "Lonely At The Top",
-        "url": "https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Bri Steves",
-          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "SUPAFLEE (feat. Bri Steves)",
-      "url": "https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1031,6 +991,46 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
+        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
+      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "GDLU (Preluxe)",
+        "url": "https://open.spotify.com/album/1IoU1S5bHioUnI88sSJJHZ"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 155542,
+      "name": "Behold",
+      "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
         "name": "Go Hard",
         "url": "https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 217610,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
         "name": "REPEAT IT",
         "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
       },
@@ -1099,26 +1099,6 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "WTF Goin",
-      "url": "https://open.spotify.com/track/6NHzaBnXWiSPMUiHnps0Lf"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1159,6 +1139,26 @@
       "duration_ms": 164366,
       "name": "Light Year (Practice)",
       "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "WTF Goin",
+      "url": "https://open.spotify.com/track/6NHzaBnXWiSPMUiHnps0Lf"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1295,30 +1295,18 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
-        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Skooly",
-          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
-        },
-        {
-          "name": "Yung Booke",
-          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5ZMK78Lqa2I6EVp2MxQnwo"
+      "duration_ms": 127152,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1335,6 +1323,22 @@
       "duration_ms": 175718,
       "name": "WE NOT DONE",
       "url": "https://open.spotify.com/track/5ggfaK0dKWFrEr6PDO1knB"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1359,22 +1363,6 @@
     {
       "added_at": "2025-08-29 04:00:42",
       "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
       },
@@ -1387,6 +1375,34 @@
       "duration_ms": 208618,
       "name": "Waiting On This",
       "url": "https://open.spotify.com/track/5VlI5lLyZWdaS6kIn1CyJs"
+    },
+    {
+      "added_at": "2025-08-29 04:00:42",
+      "album": {
+        "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+        "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
+        },
+        {
+          "name": "Yung Booke",
+          "url": "https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5ZMK78Lqa2I6EVp2MxQnwo"
     },
     {
       "added_at": "2025-08-29 04:00:42",
@@ -1459,22 +1475,6 @@
       "duration_ms": 156074,
       "name": "Watch Da Throne",
       "url": "https://open.spotify.com/track/4W87HdUCaPD4ZRjkLI228v"
-    },
-    {
-      "added_at": "2025-08-29 04:00:42",
-      "album": {
-        "name": "Bike Air Anthem (feat. Nigel Sylvester)",
-        "url": "https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        }
-      ],
-      "duration_ms": 87272,
-      "name": "Bike Air Anthem (feat. Nigel Sylvester)",
-      "url": "https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg"
     }
   ],
   "unique_name": "Beast Mode Hip-Hop",

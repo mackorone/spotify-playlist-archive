@@ -1,13 +1,109 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Chelsea Jordan. Artwork by Paola Saliby",
-  "num_followers": 229791,
+  "description": "The best new pop music from new, independent artists.  Cover: Nina Caroline. Artwork by Paola Saliby",
+  "num_followers": 229819,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwhSZcAR3iOaFgpEkOj8fp9lFdR",
+  "snapshot_id": "AAAAADyslb+tgPgocMHcUe0BtsbCosbN",
   "tracks": [
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Outsider",
+        "url": "https://open.spotify.com/album/4esLeLHcxcSlz5qlP3ZBQN"
+      },
+      "artists": [
+        {
+          "name": "Nina Caroline",
+          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/3jLI5m1MHwitYBCth0scsK"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Pretend We're Fine",
+        "url": "https://open.spotify.com/album/5PWdJkREQr023nUYzz92cK"
+      },
+      "artists": [
+        {
+          "name": "notyourwife",
+          "url": "https://open.spotify.com/artist/6hd9tFRIzVJ5nuZwrosbNL"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pretend We're Fine",
+      "url": "https://open.spotify.com/track/38vOPZSOEisbsuQXMMxxsD"
+    },
+    {
+      "added_at": "2025-08-28 01:30:45",
+      "album": {
+        "name": "(We're Not) Together!!!!",
+        "url": "https://open.spotify.com/album/6miLYRRgroNvcp4BWPi6u5"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "duration_ms": 196632,
+      "name": "(We're Not) Together!!!!",
+      "url": "https://open.spotify.com/track/5JkfmtZEEMRvgBT6ugXx1v"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "brand new me!",
+        "url": "https://open.spotify.com/album/25lmBwKaUhxe5lt3LYrBTg"
+      },
+      "artists": [
+        {
+          "name": "homepage",
+          "url": "https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "brand new me!",
+      "url": "https://open.spotify.com/track/00oIgUaZ98Kv1IzJlMLR8i"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be"
+      },
+      "artists": [
+        {
+          "name": "Rachel Harlow",
+          "url": "https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r"
+        }
+      ],
+      "duration_ms": 207758,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Sunny in London",
+        "url": "https://open.spotify.com/album/1NV9aMqgGmqLdbVEdUewLI"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Sunny in London",
+      "url": "https://open.spotify.com/track/3fNUY2bjHvsddPdOt5iV6A"
+    },
     {
       "added_at": "2025-08-27 13:27:29",
       "album": {
@@ -23,6 +119,86 @@
       "duration_ms": 193627,
       "name": "halfwaythru",
       "url": "https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Pretty Poison",
+        "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
+      },
+      "artists": [
+        {
+          "name": "Summer Davis",
+          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Pretty Poison",
+      "url": "https://open.spotify.com/track/4Vf2kHjHvLPqSJ02H3IFrN"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "I Could Just Come Round",
+        "url": "https://open.spotify.com/album/0z7f1xzg37iSmBlQYbDwMN"
+      },
+      "artists": [
+        {
+          "name": "Darcey Hope",
+          "url": "https://open.spotify.com/artist/1gPRLniiXX1EccSgPJnLgg"
+        }
+      ],
+      "duration_ms": 133409,
+      "name": "I Could Just Come Round",
+      "url": "https://open.spotify.com/track/1THBNjKehg3o3qBKADv9ft"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "AFK",
+        "url": "https://open.spotify.com/album/6cgBnUNM7dp84k3dK4GAWr"
+      },
+      "artists": [
+        {
+          "name": "zekke",
+          "url": "https://open.spotify.com/artist/2tc63PQNdNFqJb2caym6IZ"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "AFK",
+      "url": "https://open.spotify.com/track/6vekI43cI8953FTf82Ys1p"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Eating Me Alive",
+        "url": "https://open.spotify.com/album/159PlKdtrZXSybeNjs9z8m"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 192252,
+      "name": "Eating Me Alive",
+      "url": "https://open.spotify.com/track/3oWnxaIUpSkYNrZKj6oltw"
+    },
+    {
+      "added_at": "2025-09-03 04:00:25",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr"
+      },
+      "artists": [
+        {
+          "name": "Dani Marchio",
+          "url": "https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75"
     },
     {
       "added_at": "2025-08-27 13:27:29",
@@ -135,22 +311,6 @@
       "duration_ms": 161250,
       "name": "messy",
       "url": "https://open.spotify.com/track/7iGLCkqLh75MPu2tINqDCM"
-    },
-    {
-      "added_at": "2025-08-28 01:30:45",
-      "album": {
-        "name": "(We're Not) Together!!!!",
-        "url": "https://open.spotify.com/album/6miLYRRgroNvcp4BWPi6u5"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 196632,
-      "name": "(We're Not) Together!!!!",
-      "url": "https://open.spotify.com/track/5JkfmtZEEMRvgBT6ugXx1v"
     },
     {
       "added_at": "2025-08-27 13:27:29",
@@ -1165,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV"
     },
     {
-      "added_at": "2025-07-19 15:58:17",
-      "album": {
-        "name": "Leah Dong",
-        "url": "https://open.spotify.com/album/12tjJHPpzChLDiy3YL6lwp"
-      },
-      "artists": [
-        {
-          "name": "Leah Dong",
-          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "You Were Supposed To Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"
-    },
-    {
       "added_at": "2025-07-23 08:01:41",
       "album": {
         "name": "Stranger",
@@ -1259,22 +1403,6 @@
       "duration_ms": 163774,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/7q2PvvuEvuZwuXlwvkKyPm"
-    },
-    {
-      "added_at": "2025-07-23 08:01:41",
-      "album": {
-        "name": "Radio Silent",
-        "url": "https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3"
-      },
-      "artists": [
-        {
-          "name": "Nina Caroline",
-          "url": "https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Radio Silent",
-      "url": "https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ"
     },
     {
       "added_at": "2025-07-23 08:01:41",
@@ -1391,38 +1519,6 @@
     {
       "added_at": "2025-07-16 04:00:35",
       "album": {
-        "name": "I Didn't Think You'd Hear This",
-        "url": "https://open.spotify.com/album/65Pj7sMtNINA7kWqzqbOpi"
-      },
-      "artists": [
-        {
-          "name": "Persia Holder",
-          "url": "https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Don't Wanna Take It Slow",
-      "url": "https://open.spotify.com/track/3p8oeg4lwleZwm0TygNK4A"
-    },
-    {
-      "added_at": "2025-07-02 04:00:05",
-      "album": {
-        "name": "Dirty Blonde",
-        "url": "https://open.spotify.com/album/3RDpCMzStoWlpyEGb5hqp0"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 172195,
-      "name": "Doe Eyes",
-      "url": "https://open.spotify.com/track/09KUPjidRMH7GTEM4Kdwmb"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
         "name": "Malibu Drift",
         "url": "https://open.spotify.com/album/7pwucSLMR3Er8o8b7NuOyx"
       },
@@ -1485,54 +1581,6 @@
       "url": "https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3"
     },
     {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/0zbt17XLA4eXMoOJxIB3mO"
-      },
-      "artists": [
-        {
-          "name": "Andy Goodwin",
-          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
-        }
-      ],
-      "duration_ms": 224488,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/74Z1PVVlYjCHbG537ZujCV"
-    },
-    {
-      "added_at": "2025-07-16 04:00:35",
-      "album": {
-        "name": "FUTARI",
-        "url": "https://open.spotify.com/album/59ZdGWmHWpdbStrIN76OR3"
-      },
-      "artists": [
-        {
-          "name": "XAMIYA",
-          "url": "https://open.spotify.com/artist/6pscTrZm8WmvDi2oABuwgC"
-        }
-      ],
-      "duration_ms": 154322,
-      "name": "FUTARI",
-      "url": "https://open.spotify.com/track/0do8OHVq9DdPf28rYUmFzP"
-    },
-    {
-      "added_at": "2025-07-09 17:24:19",
-      "album": {
-        "name": "KNIFE",
-        "url": "https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q"
-      },
-      "artists": [
-        {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ"
-        }
-      ],
-      "duration_ms": 168825,
-      "name": "KNIFE",
-      "url": "https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT"
-    },
-    {
       "added_at": "2025-07-09 17:24:19",
       "album": {
         "name": "Burning Bridges",
@@ -1549,38 +1597,6 @@
       "url": "https://open.spotify.com/track/1cCkVOkND8xa4FVXWuRWeK"
     },
     {
-      "added_at": "2025-07-09 17:24:19",
-      "album": {
-        "name": "Allegedly",
-        "url": "https://open.spotify.com/album/5yFMiV3EyqQtoCzRduZowR"
-      },
-      "artists": [
-        {
-          "name": "Lauren Wallace",
-          "url": "https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu"
-        }
-      ],
-      "duration_ms": 168002,
-      "name": "Allegedly",
-      "url": "https://open.spotify.com/track/7FuKEJqJTH3G86vZyqcwM4"
-    },
-    {
-      "added_at": "2025-07-09 17:24:19",
-      "album": {
-        "name": "make the night last",
-        "url": "https://open.spotify.com/album/4s4yXb5YuCkQYX9vpC7pev"
-      },
-      "artists": [
-        {
-          "name": "mikey",
-          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
-        }
-      ],
-      "duration_ms": 188012,
-      "name": "make the night last",
-      "url": "https://open.spotify.com/track/5OdYWoQSPU83aHM81Gfh5y"
-    },
-    {
       "added_at": "2025-07-02 04:00:05",
       "album": {
         "name": "Remember Me",
@@ -1595,22 +1611,6 @@
       "duration_ms": 214957,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/1oBXsBScq1cOHg9QYxRBcy"
-    },
-    {
-      "added_at": "2025-07-02 04:00:05",
-      "album": {
-        "name": "Beaucoup",
-        "url": "https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3"
-      },
-      "artists": [
-        {
-          "name": "TILILA",
-          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "Beaucoup",
-      "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
     }
   ],
   "unique_name": "Fresh Finds Pop",

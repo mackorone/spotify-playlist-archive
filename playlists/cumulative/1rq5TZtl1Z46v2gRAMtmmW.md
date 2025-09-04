@@ -4,7 +4,7 @@
 
 > 
 
-437 songs - 1 day 5 hr 8 min
+438 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Winter Is Not Dead](https://open.spotify.com/track/2Qa6Q93csBmJGzcXzmi2X3) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 4:06 | 2025-01-15 |  |
 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 | 2024-09-13 |  |
 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 | 2024-04-23 | 2024-07-11 |
+| [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 | 2025-09-03 |  |
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 | 2024-03-23 |
 | [Wonderful Christmastime](https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Wonderful Christmastime](https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI) | 2:57 | 2024-11-29 | 2025-01-15 |
 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |

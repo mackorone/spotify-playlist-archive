@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,309 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,317 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 37 | [PRIMAL](https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [PRIMAL](https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F) | 2:40 |
 | 38 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
 | 39 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
-| 40 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
-| 41 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
+| 40 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
+| 41 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
 | 42 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 43 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 44 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 46 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 47 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
 | 48 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
-| 49 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
-| 50 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
+| 49 | [Replay \- Trance Mix](https://open.spotify.com/track/6p30rogHHSjLzFM3cMyDt9) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [Replay \- Trance Mix](https://open.spotify.com/album/2TSTyf1PAKHLKuJIi9HFCA) | 3:26 |
+| 50 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 |
 | 51 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 |
 | 52 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 53 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |

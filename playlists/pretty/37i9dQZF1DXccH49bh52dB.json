@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 699268,
+  "num_followers": 699533,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -327,8 +327,8 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
       "artists": [
         {
@@ -336,13 +336,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
         }
       ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+      "duration_ms": 271640,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -431,8 +431,8 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
       "artists": [
         {
@@ -440,13 +440,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 271640,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -959,42 +959,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1019,6 +983,42 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "Goodbye (feat. Lyse) [Radio Edit]",
         "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
       },
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -1543,6 +1543,26 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Brightest Lights",
+        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1571,26 +1591,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
-        "name": "Brightest Lights",
-        "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 231813,
       "name": "Working For It",
       "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/51t4KpMubQMCQXV8T4lK3F"
     },
     {
       "added_at": "2025-07-18 04:00:17",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2025-07-18 04:00:17",
       "album": {
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:17",
+      "album": {
         "name": "Talk It Over",
         "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2025-07-18 04:00:17",
-      "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2025-07-18 04:00:17",

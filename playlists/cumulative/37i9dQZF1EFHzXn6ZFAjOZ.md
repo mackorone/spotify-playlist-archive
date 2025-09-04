@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 58 min
+179 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Glory Days \(feat\. Hayley Kiyoko\) \- Party Pupils Remix](https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt) | [Glory Days \(feat\. Hayley Kiyoko\) \[Party Pupils Remix\]](https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu) | 2:48 | 2023-12-30 | 2025-07-10 |
 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 | 2023-12-30 |  |
 | [Go Girl \(feat\. RAYE\)](https://open.spotify.com/track/4A0UzOvBpzz1EssOYMatB1) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Tales of a Miracle](https://open.spotify.com/album/70OYBk5OZSBZT3KkdQMc2K) | 3:27 | 2023-12-30 |  |
+| [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 | 2025-09-03 |  |
 | [Hands on the Sink](https://open.spotify.com/track/39YAyo3KHKnUWIfpB84r3S) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:31 | 2023-12-30 | 2025-07-10 |
 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 | 2023-12-30 |  |
 | [Hide and Seek](https://open.spotify.com/track/2kWXPmIs0MJ9aB6N5BiPes) | [WHITE LIE](https://open.spotify.com/artist/6wG5RFbPEROzmSNCyJeUvN) | [Hide and Seek](https://open.spotify.com/album/5uLzsEstNSz6AjKa665lVs) | 3:58 | 2025-01-09 | 2025-04-12 |

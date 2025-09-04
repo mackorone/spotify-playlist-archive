@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 163418,
+  "num_followers": 163488,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 135165,
-      "name": "N\u00e3o Temos Medo",
-      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
         "name": "Fim de Semana no Rio",
         "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 165882,
       "name": "Fim de Semana no Rio",
       "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 135165,
+      "name": "N\u00e3o Temos Medo",
+      "url": "https://open.spotify.com/track/5rRlZJz8A17nqeKLdjDvsx"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -571,42 +571,6 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 213357,
-      "name": "CONFISS\u00d5ES PT1",
-      "url": "https://open.spotify.com/track/4OMSfAavn8k6HxZ0HwVtV1"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
         "name": "M4",
         "url": "https://open.spotify.com/album/0yqUVjjoQFD1wtu4OJSNM3"
       },
@@ -655,6 +619,42 @@
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 213357,
+      "name": "CONFISS\u00d5ES PT1",
+      "url": "https://open.spotify.com/track/4OMSfAavn8k6HxZ0HwVtV1"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -719,6 +719,34 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
+        "name": "Mandona (Se eu te dissesse)",
+        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Mandona (Se eu te dissesse)",
+      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -751,34 +779,6 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
-        "name": "Mandona (Se eu te dissesse)",
-        "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Mandona (Se eu te dissesse)",
-      "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "Nois \u00e9 Nois",
-        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nois \u00e9 Nois",
-      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
         "name": "Paladar Infantil",
         "url": "https://open.spotify.com/album/6y1V62Msb6V5oiVJkYa9Dx"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 143283,
       "name": "Paladar Infantil",
       "url": "https://open.spotify.com/track/2CzIoSG4eDkstyTiXzjryy"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
+        "name": "Nois \u00e9 Nois",
+        "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nois \u00e9 Nois",
+      "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -1663,6 +1663,30 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
         "name": "The Box Medley 2",
         "url": "https://open.spotify.com/album/1Rm56TQw5OpOICfF4WCwM6"
       },
@@ -1719,30 +1743,6 @@
       "duration_ms": 204000,
       "name": "Melhor Dia 12 - Levanta",
       "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 134634,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 134282,
-      "name": "Melhor Agora - Ao Vivo",
-      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
-    },
-    {
-      "added_at": "2025-08-27 16:58:12",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2025-08-27 16:58:12",
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 134282,
+      "name": "Melhor Agora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7x4CWAxos6wdfX9LbjeIfE"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -2299,26 +2299,22 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "Sem Foto",
-        "url": "https://open.spotify.com/album/2uKrEWsu00pkCZBZrfgyS2"
+        "name": "Turma da Duq",
+        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "LeodoKick",
-          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 176400,
-      "name": "Sem Foto",
-      "url": "https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ"
+      "duration_ms": 143202,
+      "name": "Turma da Duq",
+      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
     },
     {
       "added_at": "2025-08-27 16:58:12",
@@ -2355,22 +2351,26 @@
     {
       "added_at": "2025-08-27 16:58:12",
       "album": {
-        "name": "Turma da Duq",
-        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
+        "name": "Sem Foto",
+        "url": "https://open.spotify.com/album/2uKrEWsu00pkCZBZrfgyS2"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
         }
       ],
-      "duration_ms": 143202,
-      "name": "Turma da Duq",
-      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
+      "duration_ms": 176400,
+      "name": "Sem Foto",
+      "url": "https://open.spotify.com/track/2xYyitQHifMU31LPWGRVSZ"
     },
     {
       "added_at": "2025-08-27 16:58:12",

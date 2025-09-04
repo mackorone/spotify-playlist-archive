@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 149426,
+  "num_followers": 149493,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 231246,
       "name": "LAGUNAS",
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189512,
-      "name": "Si T\u00fa Me Vieras",
-      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189512,
+      "name": "Si T\u00fa Me Vieras",
+      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Ropa De Bazar",
         "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197906,
       "name": "Ropa De Bazar",
       "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Mi Vida Mi Muerte",
-      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 215112,
       "name": "Ecos De Amor",
       "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Mi Vida Mi Muerte",
+      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2025-08-29 06:00:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-08-29 06:00:10",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
-    },
-    {
-      "added_at": "2025-08-29 06:00:10",
-      "album": {
         "name": "Angustias",
         "url": "https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 182400,
       "name": "Angustias",
       "url": "https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL"
+    },
+    {
+      "added_at": "2025-08-29 06:00:10",
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     }
   ],
   "unique_name": "pa llorar",

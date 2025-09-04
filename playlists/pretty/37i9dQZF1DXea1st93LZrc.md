@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2024\. Εξώφυλλο: TOQUEL, RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,543 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,557 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 | 45 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 46 | [Titan](https://open.spotify.com/track/6wT0Y1mdjw4daSp4jvQgrz) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Golgothas](https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0) | 2:53 |
 | 47 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
-| 48 | [FOTIA](https://open.spotify.com/track/1c6BBiaz1uXPs8Nw2WCCpr) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [FOTIA](https://open.spotify.com/album/7tZHyy5oXZiaDFGxAg4GYp) | 3:39 |
+| 48 | [FOTIA](https://open.spotify.com/track/1c6BBiaz1uXPs8Nw2WCCpr) | [SIGMA](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [FOTIA](https://open.spotify.com/album/7tZHyy5oXZiaDFGxAg4GYp) | 3:39 |
 | 49 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 50 | [Blue Jeans](https://open.spotify.com/track/2xECffLm4IErZBCjg0dLoX) | [Ethismos](https://open.spotify.com/artist/3us9fVKGxelK4OfEMng997), [Melow](https://open.spotify.com/artist/6AIQTOOpTjnDu66SLPNN61) | [Blue Jeans](https://open.spotify.com/album/4Mjz9hFOY7Tasjfah32Ax1) | 3:45 |
 

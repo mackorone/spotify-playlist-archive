@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,163 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,160 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 34 | [Serengeti \- Chihaka Remix](https://open.spotify.com/track/4OdRW0NHk3YEomB1yQvcUz) | [Pole Folder](https://open.spotify.com/artist/6wRhh29ZNdh6Aq8nKd4aDr), [Chihaka](https://open.spotify.com/artist/7FRiCnyEVWqX5TywH7p622) | [Serengeti \(Particles Edition\)](https://open.spotify.com/album/2iNIwGPgRMHJR2256l23GH) | 7:56 |
 | 35 | [Dystopia](https://open.spotify.com/track/25N0bGioFvZgujpnpYH4qV) | [Ahmed Romel](https://open.spotify.com/artist/5hp5V0IfVuZWmYeUqomqEs) | [Dystopia](https://open.spotify.com/album/2OkBDPfWUdeDjsWumFazvZ) | 3:32 |
 | 36 | [La Câlin](https://open.spotify.com/track/4wm54RgVLbAtk5v4A9I9x5) | [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [La Câlin](https://open.spotify.com/album/1OzQ5JSUO7UqTeCgtzIrpH) | 2:52 |
-| 37 | [After Life](https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M) | [NIN9](https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO) | [After Life](https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ) | 3:37 |
-| 38 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
+| 37 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
+| 38 | [After Life](https://open.spotify.com/track/6f3C47PALxUOq7VjRSyx7M) | [NIN9](https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO) | [After Life](https://open.spotify.com/album/3mibBHWq5uBgzJnWGWtXgZ) | 3:37 |
 | 39 | [End](https://open.spotify.com/track/78NWG8vFrAehpsCJr1SLvq) | [YZKN](https://open.spotify.com/artist/7mU3kpBBx4OCYdNJhjcKxy) | [End](https://open.spotify.com/album/6fcDKqZrJxK5OnJwPPnMJj) | 3:04 |
 | 40 | [Mirage](https://open.spotify.com/track/7mjsDtb6oMFXi6IL069UED) | [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Mirage](https://open.spotify.com/album/4XLJx1Q55pQ80Pp0krcLlb) | 3:07 |
 | 41 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,124 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,121 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 17 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:15 |
 | 18 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 |
 | 19 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:25 |
-| 20 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
-| 21 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
+| 20 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
+| 21 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
 | 22 | [Silver Bells \(feat\. Count Basie Big Band\)](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie Big Band](https://open.spotify.com/artist/5OBN8AfE5Rv0K9lbAg16cO) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 |
 | 23 | [\(It Must've Been Ol'\) Santa Claus](https://open.spotify.com/track/54G7kjF8wbQAwG3WGmP6Ji) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 4:36 |
 | 24 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |

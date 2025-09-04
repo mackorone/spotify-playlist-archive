@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 tatool y Trueno
 
-539 songs - 1 day 4 hr 13 min
+541 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [NO ME SORPRENDE](https://open.spotify.com/track/0s5FgdxYJm0tB68OICOglY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:30 | 2023-10-13 | 2024-02-24 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-07-25 |  |
 | [No Pierdas La Cabeza](https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [No Pierdas La Cabeza](https://open.spotify.com/album/4NdURclkNchMSMklnDxCN0) | 4:17 | 2024-02-01 | 2024-04-06 |
+| [NO TE HAGAS](https://open.spotify.com/track/6KCAkuoZsQGRiXu80f4vf3) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NO TE HAGAS](https://open.spotify.com/album/09YwUmq60wbWR83xT7GN8b) | 3:02 | 2025-09-01 |  |
 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 | 2024-11-08 | 2025-02-15 |
 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 | 2023-10-13 | 2023-11-25 |
 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2024-05-27 | 2025-08-01 |
@@ -413,6 +414,7 @@
 | [Revelación II](https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Revelación II](https://open.spotify.com/album/028zg81OZTtl4ZlaFOA5PA) | 3:42 | 2025-04-04 | 2025-07-05 |
 | [RIDÍCULO](https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [RIDÍCULO](https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ) | 2:39 | 2025-02-14 |  |
 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 | 2023-10-13 | 2024-02-24 |
+| [RIRI](https://open.spotify.com/track/257IGhoSA8NSxyLMZaYPLU) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [RiRi](https://open.spotify.com/album/1ooCkFJpE0LPyJmdWHFrkN) | 2:58 | 2025-09-01 |  |
 | [Risa \- Cover](https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Palu de Paloma](https://open.spotify.com/artist/1liheuPPmJMACY5ccB4YLP) | [Risa \(Cover\)](https://open.spotify.com/album/6wnJZtcYszTyzH15YTX2ul) | 2:56 | 2024-02-16 | 2024-10-12 |
 | [Risco](https://open.spotify.com/track/41Rw7ijXSUj2DEtbGOjCjh) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Acorda, Pedrinho](https://open.spotify.com/album/7i67Zql4x6mQ3tdgl12ZZj) | 2:22 | 2025-01-13 | 2025-02-15 |
 | [Rodeado](https://open.spotify.com/track/10Vc0WOeTQtaJzVQhsvDtQ) | [Panta](https://open.spotify.com/artist/2LisI0c79oHAvJ80FoxT0S), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Rodeado](https://open.spotify.com/album/55N6ecVIZiwyUs4u6zUJb6) | 3:26 | 2025-07-05 |  |

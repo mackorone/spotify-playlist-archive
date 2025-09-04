@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 170857,
+  "num_followers": 170971,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADtvkoLYzXJguaItU9DVvQ9",
+  "snapshot_id": "aLYzgAAAAAACq5iSc1HpPBRrg6DM5ZCF",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 245997,
       "name": "VINO TINTO",
       "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
     },
     {
       "added_at": null,
@@ -826,11 +826,15 @@
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 216525,
-      "name": "PICASSO",
-      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
+      "duration_ms": 259876,
+      "name": "CADAVER DE LA NOVIA",
+      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
     },
     {
       "added_at": null,
@@ -910,15 +914,11 @@
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 259876,
-      "name": "CADAVER DE LA NOVIA",
-      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
+      "duration_ms": 216525,
+      "name": "PICASSO",
+      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
     },
     {
       "added_at": null,

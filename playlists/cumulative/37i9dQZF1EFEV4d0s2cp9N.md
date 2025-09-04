@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 4 hr 5 min
+83 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Still Monster](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:06 | 2024-05-01 |  |
 | [surrender](https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [would i be yours?](https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA) | 3:04 | 2025-04-14 |  |
 | [Take Me To Eterna](https://open.spotify.com/track/02cTdRWbWorhJ7DFXRkFKK) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Take Me To Eterna](https://open.spotify.com/album/57Tirl2ZE5G9AgqpyFLD8P) | 3:14 | 2024-05-01 | 2025-01-18 |
+| [The Beach](https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [The Beach](https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck) | 3:03 | 2025-09-03 |  |
 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 | 2024-05-01 |  |
 | [Time Out](https://open.spotify.com/track/0O1BPly9rZtkpwOkmbeZ9T) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:40 | 2024-05-01 |  |
 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 | 2024-05-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,906 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,921 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 24 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
 | 25 | [Hakuna Matata](https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t) | [voXXclub](https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 3:34 |
 | 26 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 |
-| 27 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
-| 28 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 27 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
+| 28 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
 | 29 | [Ferien](https://open.spotify.com/track/2qYVigDCjtxXDKWE6N5zPq) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Ferien](https://open.spotify.com/album/2qWrW1gQliBhhheAI2umsU) | 2:09 |
 | 30 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 |
 | 31 | [Plitsch, plitsch, platsch](https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 1:54 |

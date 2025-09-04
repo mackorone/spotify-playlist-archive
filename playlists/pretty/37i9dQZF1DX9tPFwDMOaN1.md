@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Saja Boys\(K\-Pop Demon Hunters\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,850,392 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,852,425 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 46 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 47 | [Girls Will Be Girls](https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:48 |
 | 48 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 |
-| 49 | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA \(feat\. G\-DRAGON\)](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
+| 49 | [CHA CHA CHA](https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [CHA CHA CHA](https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV) | 2:55 |
 | 50 | [BUBBLE GUM](https://open.spotify.com/track/3IUtLSW5FWB0K4RdkvOamG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/3pKcgDJmV3GZwgElcupVrg) | 2:37 |
 
 Snapshot ID: `AAAAAFxqlKRbvmv7VwMv3kCi73JfksGM`

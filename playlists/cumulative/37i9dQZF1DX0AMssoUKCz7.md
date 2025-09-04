@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-745 songs - 1 day 13 hr 31 min
+746 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 | 2022-04-01 |  |
 | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/track/18IP0JyVbV7ignrEW0HyNR) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Bloom \(Brendan Mills Remix\)](https://open.spotify.com/album/1n4ehWqCzUM2BVAjIXydCe) | 2:36 | 2024-04-05 |  |
 | [Blossom](https://open.spotify.com/track/4SgjQcULlbOSQQqdpPQyHW) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Blossom](https://open.spotify.com/album/5e33ZdqLTi4rBv0yVlSQfO) | 2:10 | 2024-03-01 | 2025-08-30 |
-| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 |  |
+| [Blue](https://open.spotify.com/track/3m2uBLnzdWi4CsOhRQytZj) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Sensei Schön](https://open.spotify.com/artist/1ukxakPI5ZQkXoeOpze1oc) | [Blue](https://open.spotify.com/album/34fPX3fiT4dzVc29CosY9r) | 3:55 | 2022-06-17 | 2025-09-04 |
 | [Blue Lagoon](https://open.spotify.com/track/6aQtasf3Q6JZIBHCWXsyej) | [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Finn Kleffmann](https://open.spotify.com/artist/6FnTIb3jf0VUbOIFgxO3he) | [Blue Lagoon](https://open.spotify.com/album/57nS0f2WiZk3m0RwLQxtWi) | 3:08 | 2022-01-14 | 2023-05-13 |
 | [Blue Moon](https://open.spotify.com/track/72p4bX3wUsqySOtUBvVIXp) | [Tippy Ro](https://open.spotify.com/artist/7sgxEpfnodusFKzUSTSFIY) | [Blue Moon](https://open.spotify.com/album/48TAtMtx4aogZtbU9w9svQ) | 4:12 | 2022-04-01 | 2022-07-23 |
 | [Body to Body](https://open.spotify.com/track/3qyeNnFY67zX6VmmIbzPsL) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn) | [Body to Body](https://open.spotify.com/album/4nCftrm5v7amR0TGNVrB2F) | 2:58 | 2022-02-18 | 2022-04-02 |
@@ -421,6 +421,7 @@
 | [Moment](https://open.spotify.com/track/51GgGdWzwT8YhpDgEY2Bnr) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f), [Jakob Dreams](https://open.spotify.com/artist/3ChusCE5PNXmuRuqGzJKVz) | [Moment](https://open.spotify.com/album/6SKjGGR9JjEc686sEnRVuV) | 2:36 | 2023-02-10 | 2024-04-19 |
 | [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 | 2023-01-21 |
 | [Moments](https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 5:02 | 2022-01-14 | 2022-07-04 |
+| [Mona](https://open.spotify.com/track/2CEaPReeggu78lbD1tmg96) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C) | [Origin](https://open.spotify.com/album/3sztHsTPnuisVTLqAQPs1h) | 3:07 | 2025-08-29 |  |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-20 | 2023-05-18 |
 | [Money](https://open.spotify.com/track/6QJsJKVBYHv07TVxGBkKWS) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/2SvNV2pLgPlGBwYH9VoStl) | 2:58 | 2023-05-12 | 2024-04-19 |
 | [Money Trees](https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Money Trees](https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP) | 2:46 | 2022-04-29 |  |

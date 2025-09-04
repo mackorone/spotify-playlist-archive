@@ -2731,7 +2731,7 @@
         },
         {
           "name": "CHORDA",
-          "url": "https://open.spotify.com/artist/4htihsQU7GlzGCKbuu7fNF"
+          "url": "https://open.spotify.com/artist/3E9ovz1xrxaxVWoQusuX1V"
         }
       ],
       "date_added": "2025-08-21",
@@ -5916,7 +5916,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 163278,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/0Lb26oeDQ8P2x0Lw296F3r"
@@ -9049,6 +9049,28 @@
     },
     {
       "album": {
+        "name": "KIDS",
+        "url": "https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        },
+        {
+          "name": "Lacuna",
+          "url": "https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "KIDS",
+      "url": "https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy"
+    },
+    {
+      "album": {
         "name": "Tales From A Wanderer",
         "url": "https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU"
       },
@@ -10387,6 +10409,24 @@
     },
     {
       "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/43BAHAUk1NvSY8UlD59yGS"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166934,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/0vwAG82C6lgnmrojDP5qsU"
+    },
+    {
+      "album": {
         "name": "maldivian night",
         "url": "https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j"
       },
@@ -10678,6 +10718,32 @@
       "duration_ms": 195000,
       "name": "middle of spring",
       "url": "https://open.spotify.com/track/4BMrgGbljFu36w6LvSzYHO"
+    },
+    {
+      "album": {
+        "name": "Midnight Air",
+        "url": "https://open.spotify.com/album/7pYzsqvDEmNP2m2jvG4y1E"
+      },
+      "artists": [
+        {
+          "name": "GOYA",
+          "url": "https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw"
+        },
+        {
+          "name": "104",
+          "url": "https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8"
+        },
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Midnight Air (Feat. 104, OUREALGOAT)",
+      "url": "https://open.spotify.com/track/4ObR6UfLweNDPrYqo4B3vS"
     },
     {
       "album": {
@@ -14344,7 +14410,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 225742,
       "name": "SHAME",
       "url": "https://open.spotify.com/track/6kXe85EI8bg2evr0Qf6qhE"
@@ -17564,7 +17630,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 168000,
       "name": "Typing . . . (with Jehwwn)",
       "url": "https://open.spotify.com/track/4yR254OLRXvEYiAdwSyhTR"

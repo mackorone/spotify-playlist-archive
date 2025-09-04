@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,656 likes - 100 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,661 likes - 100 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

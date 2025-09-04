@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADegasUGrKufp01kqqycVXG",
+  "snapshot_id": "aLYzgAAAAADUaTuYZxlsf+XsdDOdldbY",
   "tracks": [
     {
       "added_at": null,
@@ -279,38 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bachata B\u00e9lica",
-        "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 195100,
-      "name": "Bachata B\u00e9lica",
-      "url": "https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RENATA",
         "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
       },
@@ -339,6 +307,38 @@
       "duration_ms": 234642,
       "name": "RENATA",
       "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bachata B\u00e9lica",
+        "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 195100,
+      "name": "Bachata B\u00e9lica",
+      "url": "https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR"
     },
     {
       "added_at": null,
@@ -475,34 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pari Pari",
-        "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "Pari Pari",
-      "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -527,6 +499,34 @@
       "duration_ms": 151564,
       "name": "Recio",
       "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pari Pari",
+        "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "Pari Pari",
+      "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
     },
     {
       "added_at": null,

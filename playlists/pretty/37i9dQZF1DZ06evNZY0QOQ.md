@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,063 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,069 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 4 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 5 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 6 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 |
-| 7 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
-| 8 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 7 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
+| 8 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 9 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 |
 | 10 | [La La \(feat\. Ckay\)](https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:07 |
 | 11 | [samson and delilah \(feat\. Mayra Andrade\)](https://open.spotify.com/track/0grBASdhUSTmeDA0ejensM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:14 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 44 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
 | 45 | [Mezebu \(feat\. Oxlade & KiDi\)](https://open.spotify.com/track/69n4ie3SRkt4uPYG3RYFOl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 3:28 |
 | 46 | [Maria](https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Forward](https://open.spotify.com/album/5caurEEX04czGkrjHcARHu) | 2:33 |
-| 47 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
+| 47 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
 | 48 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
-| 49 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
+| 49 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 | 50 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 |
 
-Snapshot ID: `aLTiAAAAAAAYdIecU5ziYhnfuKipmu2s`
+Snapshot ID: `aLYzgAAAAABG6ijckHrqUeNPjJeZ/oUZ`

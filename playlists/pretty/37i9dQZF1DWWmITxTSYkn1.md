@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmITxTSYkn1.md) - [plain]
 
 > Enjoy the SUGA \| Agust D Seoul concert LIVE SET including the voices of him on stage! \(SUGA \| Agust D의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,188 likes - 29 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,234 likes - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

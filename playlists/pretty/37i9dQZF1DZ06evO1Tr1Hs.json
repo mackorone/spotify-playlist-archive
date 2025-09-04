@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 42357,
+  "num_followers": 42376,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAAD8CwrqffDJ1NVXOvRcMEsq",
+  "snapshot_id": "aLYzgAAAAACIVZuRnMKq734cviv7UM3q",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle 2",
-        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 149594,
-      "name": "PB&J (with Ken Carson)",
-      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
+      "duration_ms": 186756,
+      "name": "loading",
+      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "Homixide Lifestyle 2",
+        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
       },
       "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 186756,
-      "name": "loading",
-      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+      "duration_ms": 149594,
+      "name": "PB&J (with Ken Carson)",
+      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
     },
     {
       "added_at": null,

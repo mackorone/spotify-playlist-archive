@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Before & After You",
+        "url": "https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2025-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "Before & After You",
+      "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
+    },
+    {
+      "album": {
         "name": "broken by you",
         "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-04",
       "duration_ms": 199840,
       "name": "Fix Myself - Acoustic",
       "url": "https://open.spotify.com/track/5mI7wEjkvkxR0psliNwAZx"

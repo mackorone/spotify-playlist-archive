@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31670,
+  "num_followers": 31675,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+      "duration_ms": 319160,
+      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -395,58 +395,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Peg - Live",
-      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "The Roots Come Alive",
-        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        },
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 530866,
-      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
-      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 319160,
-      "name": "World Keeps Going Around - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -467,6 +415,58 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/66rBZ848b4aO0hCJQF6GGc"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Peg - Live",
+      "url": "https://open.spotify.com/track/4Us2AWyR40tWO9mtJiBx44"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "The Roots Come Alive",
+        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 530866,
+      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
+      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -708,22 +708,6 @@
       "added_at": "2024-10-25 07:48:43",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
       },
       "artists": [
@@ -739,6 +723,22 @@
       "duration_ms": 269300,
       "name": "Colors - Spotify Singles",
       "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Curtis Live! (US Release)",
-        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 227026,
-      "name": "People Get Ready - Live at The Bitter End, NYC",
-      "url": "https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK"
+      "duration_ms": 254992,
+      "name": "You're On My Mind - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+        "name": "Curtis Live! (US Release)",
+        "url": "https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp"
       },
       "artists": [
         {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 348733,
-      "name": "You Can't See for Lookin' - Live",
-      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+      "duration_ms": 227026,
+      "name": "People Get Ready - Live at The Bitter End, NYC",
+      "url": "https://open.spotify.com/track/5fN60U114jgzi8TfhIDcpK"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "You Can't See for Lookin' - Live",
+      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 274306,
       "name": "St. James Infirmary - Live/Remastered",
       "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 254992,
-      "name": "You're On My Mind - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "MTV Unplugged No. 2.0",
         "url": "https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226666,
       "name": "I Remember - Live",
       "url": "https://open.spotify.com/track/2Ass4uwiFC6jegmcTJRXGd"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 232706,
-      "name": "Let's Stay Together - Live",
-      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Let's Stay Together - Live",
+      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Aretha Live at Fillmore West",
         "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
       },
@@ -1099,38 +1115,6 @@
       "duration_ms": 197200,
       "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
       "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "At Last - Live",
-      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1163,6 +1147,22 @@
       "duration_ms": 196040,
       "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "At Last - Live",
+      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Alive (Live At the Jazz Cafe, London)",
         "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 413413,
       "name": "You're Gonna Miss Your Candy Man - Live",
       "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2024-10-25 07:48:43",

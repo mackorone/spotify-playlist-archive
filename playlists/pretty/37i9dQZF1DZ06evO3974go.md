@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,416 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,421 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 40 | [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 |
 | 41 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 |
 | 42 | [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 |
-| 43 | [Exactly How It Was](https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Wish Me Well](https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ) | 3:16 |
-| 44 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 |
-| 45 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 |
-| 46 | [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 |
-| 47 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
-| 48 | [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 |
-| 49 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
+| 43 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 |
+| 44 | [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 |
+| 45 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 |
+| 46 | [Exactly How It Was](https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Wish Me Well](https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ) | 3:16 |
+| 47 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
+| 48 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 |
+| 49 | [We Good](https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 4:16 |
 | 50 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 |
 
-Snapshot ID: `aLTiAAAAAAC82cxGi9PJDy4MJDSFAgpO`
+Snapshot ID: `aLYzgAAAAAAsJ2C8l8lJqBozwPKnypiP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: JOELLE\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,049 likes - 123 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,051 likes - 123 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 9 | [Green Sheets](https://open.spotify.com/track/1WQdW1TfNMgbVVGWPEbrXv) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Green Sheets](https://open.spotify.com/album/3UIyY9WWjw8WFoQmjgMhJU) | 3:28 |
 | 10 | [Whispers](https://open.spotify.com/track/2ypiIJ1i6DPepHbZTPmFnh) | [Heema Izzati](https://open.spotify.com/artist/1ESHrcgAjNtv4Lkx08ZKOz) | [Whispers](https://open.spotify.com/album/5WpTU32QCbD7mXsxgbYa6i) | 3:36 |
 | 11 | [Holding His Hand](https://open.spotify.com/track/5tEWX55O2IKoEYMf2LD7qZ) | [Dansen John](https://open.spotify.com/artist/6RXevTw2pt1Q7eKvNkeSjc), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Holding His Hand](https://open.spotify.com/album/3fhOxB2Z2V0EaBmzm4xLDD) | 2:44 |
-| 12 | [Bagaimana](https://open.spotify.com/track/13ceVF0fCdiY4LIyRaw6Oc) | [Feka](https://open.spotify.com/artist/7fH05hfASEzTqT83sSbyNb) | [Bagaimana](https://open.spotify.com/album/4XuSXGvga3I355cEHIWksq) | 3:28 |
+| 12 | [Bagaimana](https://open.spotify.com/track/13ceVF0fCdiY4LIyRaw6Oc) | [Feka](https://open.spotify.com/artist/2xtFalS0eQjxeyJjcIgwxJ) | [Bagaimana](https://open.spotify.com/album/4XuSXGvga3I355cEHIWksq) | 3:28 |
 | 13 | [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 |
 | 14 | [The Dwelling](https://open.spotify.com/track/2FhxLJF7hQnnVv6jIJg5bB) | [Big Ugly](https://open.spotify.com/artist/5pquza6pUPN11gZEFEOMmU) | [Crowdpleasers](https://open.spotify.com/album/1bFxnDOJpezKgUzWFLJDfP) | 4:03 |
 | 15 | [Aug 16](https://open.spotify.com/track/4Cu1AtZgrWgLd2ZSa6UIBe) | [motifs](https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB) | [Aug 16](https://open.spotify.com/album/3OCt8nVY0SGAIRb9ujBWuW) | 3:28 |

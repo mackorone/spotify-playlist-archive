@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4HufFwx26dfH0EUhqhcEVO">Ali Stone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-78 songs - 3 hr 28 min
+79 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Pandora](https://open.spotify.com/track/7aXsoH9ROppWmG5SUNr4gf) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 3:25 | 2024-09-05 |  |
 | [Papaya](https://open.spotify.com/track/5hXouhu1m3vzr1Pa3jjosd) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Papaya](https://open.spotify.com/album/6YPNsKrdZnr2OJMioG75BB) | 2:38 | 2024-09-05 |  |
 | [Papaya \- Carioca version](https://open.spotify.com/track/1eDYXZN7eLfqIGMXLgTtly) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Papaya \(Carioca version\)](https://open.spotify.com/album/4F9d8YvzDaGIbAUrnBCXNg) | 2:38 | 2024-09-05 |  |
-| [PEGA'](https://open.spotify.com/track/7jBx1tuWEpbUVutSWNgkql) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 2:28 | 2024-09-05 |  |
+| [PEGA'](https://open.spotify.com/track/0LAKsBPjnJAQrujvWFhqFC) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/5vvzfWglmwsAaG3Nqh8oRT) | 2:28 | 2025-09-03 |  |
+| [PEGA'](https://open.spotify.com/track/7jBx1tuWEpbUVutSWNgkql) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [el pedacito de <3 que me robaron](https://open.spotify.com/album/0Ubcsv9yLRycHntM6XZ3d9) | 2:28 | 2024-09-05 | 2025-09-04 |
 | [Perpetua](https://open.spotify.com/track/5pRkdwyAJKkArVytMSIY8E) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 4:19 | 2024-09-05 |  |
 | [Por Siempre](https://open.spotify.com/track/3y0ZlTsuKYrktCxbT0GlZu) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Sexto Sentido](https://open.spotify.com/album/2i1KFGoNAsZCNmCvZBEGzw) | 2:05 | 2024-09-05 |  |
 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 | 2024-09-05 |  |

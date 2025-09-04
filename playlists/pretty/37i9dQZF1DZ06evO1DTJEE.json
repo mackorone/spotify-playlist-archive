@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 58779,
+  "num_followers": 58833,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAABPW9nmfazkB1PQ8dwS14pH",
+  "snapshot_id": "aLYzgAAAAAAIE60S65AKQ2OnxQcdqSZx",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195776,
-      "name": "Atlantic City",
-      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
+      "duration_ms": 252733,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Make It Rain",
-      "url": "https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy"
+      "duration_ms": 195776,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 188674,
       "name": "I Hope She's Drinkin' Tonight",
       "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rather Be",
         "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
       },
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 195228,
       "name": "They Don\u2019t Make 'Em Like That No More",
       "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "duration_ms": 243033,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -519,22 +539,6 @@
       "duration_ms": 188426,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Corn Don't Grow",
-        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 243082,
-      "name": "Where Corn Don\u2019t Grow",
-      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
     },
     {
       "added_at": null,
@@ -559,6 +563,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Corn Don't Grow",
+        "url": "https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 243082,
+      "name": "Where Corn Don\u2019t Grow",
+      "url": "https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "What Am I Supposed To Do Now",
+      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -571,6 +607,22 @@
       "duration_ms": 180866,
       "name": "Ain\u2019t Like I Can Hide It",
       "url": "https://open.spotify.com/track/6Snk73We1i1vuUcd2oRAOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 198699,
+      "name": "Waitin' All Day",
+      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
     },
     {
       "added_at": null,
@@ -600,29 +652,13 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         },
         {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 243033,
-      "name": "I Just Need You",
-      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 198699,
-      "name": "Waitin' All Day",
-      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
+      "duration_ms": 256000,
+      "name": "Cowboy As It Gets",
+      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
     },
     {
       "added_at": null,
@@ -639,6 +675,30 @@
       "duration_ms": 215833,
       "name": "Damn Country Music",
       "url": "https://open.spotify.com/track/2gnDnUxYwUmMdHb3s741WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Broken Branches (feat. John Anderson, Riley Green)",
+      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
     },
     {
       "added_at": null,
@@ -668,33 +728,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 223533,
-      "name": "What Am I Supposed To Do Now",
-      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broken Branches",
-        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Broken Branches (feat. John Anderson, Riley Green)",
-      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
+      "duration_ms": 204133,
+      "name": "Bet They're Biting",
+      "url": "https://open.spotify.com/track/2BaZmu4G5QhACqYVoK3Cek"
     },
     {
       "added_at": null,
@@ -751,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "Bet They're Biting",
-      "url": "https://open.spotify.com/track/2BaZmu4G5QhACqYVoK3Cek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 181626,
       "name": "Huntin' Land (feat. Riley Green)",
       "url": "https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Cowboy As It Gets",
-      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
     },
     {
       "added_at": null,

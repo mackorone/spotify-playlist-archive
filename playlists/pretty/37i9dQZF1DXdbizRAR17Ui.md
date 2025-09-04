@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,834 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,877 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 29 | [Plain Sailing](https://open.spotify.com/track/5qZMdIYFvMPRw4Q0Z05zbL) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Plain Sailing](https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu) | 4:05 |
 | 30 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
 | 31 | [Without U](https://open.spotify.com/track/1ICrcCa1wdOwEuJB6UxkoH) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Without U](https://open.spotify.com/album/4rVXXB9xESq71coxFxVbYh) | 3:29 |
-| 32 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
-| 33 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 32 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
+| 33 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 |
 | 34 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 35 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 36 | [Paradis Blanc](https://open.spotify.com/track/1our0OFQADCr6XRU0dYPtt) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Paradis Blanc](https://open.spotify.com/album/0eMmindBwUVDW3lyCsPi6N) | 2:59 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 39 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 40 | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [oceanic \(feat\. Vagabon\) \[rebirth\]](https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay) | 2:22 |
 | 41 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
-| 42 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |
-| 43 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 42 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 43 | [drifting \- Remix](https://open.spotify.com/track/2kUxI4WRjr49CpWpRCwVyj) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [drifting \(Remix\)](https://open.spotify.com/album/5fjc9zxDU43XNdOCIHAMhg) | 3:43 |
 | 44 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 45 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 46 | [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 |

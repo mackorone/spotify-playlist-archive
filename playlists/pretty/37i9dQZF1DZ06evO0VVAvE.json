@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6491,
+  "num_followers": 6509,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAACYnk86TNaItJK/L4Vxs2JM",
+  "snapshot_id": "aLYzgAAAAAD3hQPyDlUo1mxXngeJhtU/",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 131364,
       "name": "My Life",
       "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,
@@ -494,11 +494,15 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -566,15 +570,11 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,

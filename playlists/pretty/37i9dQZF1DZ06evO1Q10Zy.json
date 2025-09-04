@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37496,
+  "num_followers": 37502,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aLTiAAAAAADnn8Ml/BwGF0cN2CZeucU9",
+  "snapshot_id": "aLYzgAAAAACsAdc5C21GaUYzLobO2Owz",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "What If - Urban Mix",
+      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lips On Lips",
         "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 226926,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "What If - Urban Mix",
-      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Evergreen (with Babyface)",
-      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 301626,
       "name": "Give U My Heart (feat. Toni Braxton)",
       "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Evergreen (with Babyface)",
+      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 271040,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grown & Sexy",
         "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 276560,
       "name": "The Loneliness",
       "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 340200,
-      "name": "When Your Body Gets Weak",
-      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     }
   ],
   "unique_name": "This Is Babyface",
